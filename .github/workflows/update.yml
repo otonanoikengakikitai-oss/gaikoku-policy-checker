@@ -1,0 +1,26 @@
+name: weekly-data-update
+
+on:
+  schedule:
+    - cron: "0 21 * * 1" # 毎週火曜 6:00 JST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 収集 → 言説検証 → 品質ゲート
+        working-directory: scraper
+        run: python run.py
+      - name: 変更があればコミット
+        run: |
+          git config user.name "data-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet || (git commit -m "data: 週次自動更新" && git push)

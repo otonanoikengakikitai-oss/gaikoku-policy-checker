@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>外国人政策・補助金チェッカー</title>
+<meta name="description" content="外国人政策に関連する国の予算事業を毎週自動収集し、ネットで流れる言説を官公庁の一次ソースだけで検証するデータベース。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <div class="badge-row">
+      <span class="badge badge-source">全データ官公庁一次ソース直結（go.jp / lg.jp）</span>
+      <span class="badge badge-auto" id="updated-badge">自動更新</span>
+    </div>
+    <h1>外国人政策・補助金チェッカー</h1>
+    <p class="tagline">国の予算事業データベース（行政事業レビュー）から外国人政策関連の事業を毎週自動抽出。ネットの言説は一次ソースで検証。</p>
+  </div>
+</header>
+<main class="wrap">
+  <section class="kpi-grid" id="kpi" aria-label="集計値"></section>
+
+  <p class="caveat" id="amount-note"></p>
+
+  <section aria-labelledby="ranking-h">
+    <h2 id="ranking-h">予算事業ランキング <span class="h-sub" id="fy-label"></span></h2>
+    <div class="controls">
+      <input id="q" type="search" placeholder="事業名・概要を検索" aria-label="検索">
+      <select id="ministry" aria-label="府省庁で絞り込み"></select>
+      <label class="toggle"><input type="checkbox" id="high-only" checked> 事業名にキーワードを含むもののみ</label>
+    </div>
+    <div class="chips" id="kw-chips" role="group" aria-label="キーワードで絞り込み"></div>
+    <div id="list"></div>
+    <button id="more" class="more-btn" hidden>さらに表示</button>
+  </section>
+
+  <section aria-labelledby="claims-h">
+    <h2 id="claims-h">言説チェッカー <span class="h-sub">ネットの言説 × 一次ソース</span></h2>
+    <div id="claims"></div>
+  </section>
+
+  <footer>
+    <h3>運営方針</h3>
+    <ul>
+      <li>掲載する数値・事実の出典は官公庁ドメイン（go.jp / lg.jp）に限定。まとめサイト等の二次情報は収集しない。</li>
+      <li>抽出はキーワード照合による全自動。各カードのタグが抽出理由。人手による恣意的な選別は行わない。</li>
+      <li>金額は各事業全体の当初予算額であり、外国人対象分のみを切り出した額ではない。判断は出典のレビューシート原文で。</li>
+    </ul>
+    <p class="muted" id="footer-meta"></p>
+  </footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

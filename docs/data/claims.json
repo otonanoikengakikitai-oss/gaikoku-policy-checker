@@ -1,0 +1,48 @@
+{
+ "generated_at": "2026-06-12T14:28:11+00:00",
+ "claims": [
+  {
+   "id": "seikatsuhogo-immediate",
+   "claim": "外国人は来日直後から生活保護を受給できる",
+   "verdict": "false",
+   "fact": "生活保護法第1条・第2条が定める対象は「国民」であり、外国人は法の適用対象外。ただし永住者・定住者・日本人の配偶者等・難民認定者等に限り、行政措置として保護が準用される（昭和29年5月8日 社発第382号 厚生省通知）。短期滞在・留学・技能実習などの在留資格は対象外。",
+   "sources": [
+    {
+     "label": "厚生労働省 生活保護制度",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
+    }
+   ],
+   "checked_at": "2026-06-12"
+  },
+  {
+   "id": "ryugakusei-iryohi-zengaku",
+   "claim": "外国人留学生の医療費は国が全額負担している",
+   "verdict": "false",
+   "fact": "3か月を超えて在留する外国人（留学生を含む）は国民健康保険への加入が義務であり、保険料を自ら納付する。医療費の自己負担割合（原則3割）も日本人と同じ。「国が全額負担」する制度は存在しない。",
+   "sources": [
+    {
+     "label": "厚生労働省 医療保険",
+     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html"
+    }
+   ],
+   "checked_at": "2026-06-12"
+  },
+  {
+   "id": "kokuhi-ryugakusei-shikyu",
+   "claim": "国費外国人留学生は返済不要で奨学金月14万円超と授業料免除を受けられる",
+   "verdict": "true",
+   "fact": "国費外国人留学生制度（文部科学省）は実在し、研究留学生で月額14万円台の奨学金、授業料等の不徴収、渡航旅費の支給がある（返済不要）。ただし大使館推薦・大学推薦等による選抜制で、無条件に受けられるものではない。日本人学生向けにも返済不要の給付奨学金＋授業料減免（高等教育修学支援新制度）が別に存在する。",
+   "sources": [
+    {
+     "label": "文部科学省 国費外国人留学生制度",
+     "url": "https://www.mext.go.jp/a_menu/koutou/ryugaku/06032818.htm"
+    },
+    {
+     "label": "JASSO 給付奨学金（日本人学生向け）",
+     "url": "https://www.jasso.go.jp/shogakukin/kyufu/index.html"
+    }
+   ],
+   "checked_at": "2026-06-12"
+  }
+ ]
+}
