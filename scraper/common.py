@@ -59,6 +59,26 @@ def http_get_json(url, *, retries=3, delay=1.0, timeout=60, cache_key=None, use_
     raise RuntimeError(f"GET failed after {retries} tries: {url}: {last_err}")
 
 
+def http_get_text(url, *, retries=3, delay=1.0, timeout=60):
+    """HTMLページを取得し、タグ除去済みの素のテキストを返す（証跡文字列の照合用）"""
+    import html as html_mod
+    import re
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=timeout, context=_CTX) as r:
+                raw = r.read().decode("utf-8", errors="replace")
+            text = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", raw, flags=re.S)
+            text = html_mod.unescape(re.sub(r"<[^>]+>", " ", text))
+            time.sleep(delay)
+            return re.sub(r"\s+", "", text)
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+            last_err = e
+            time.sleep(delay * (attempt + 2))
+    raise RuntimeError(f"GET failed after {retries} tries: {url}: {last_err}")
+
+
 def url_alive(url, timeout=20):
     """出典URLの生存確認。HEADを拒否するサイトがあるのでGETにフォールバック。"""
     for method in ("HEAD", "GET"):

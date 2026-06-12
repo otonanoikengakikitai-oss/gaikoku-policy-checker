@@ -21,6 +21,33 @@ function fmtYen(n) {
   return n.toLocaleString("ja-JP") + "円";
 }
 
+const X_LOGO =
+  '<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>';
+
+function shareBtn(text, label) {
+  const href = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text);
+  return `<a class="share-x" href="${esc(href)}" target="_blank" rel="noopener" aria-label="${esc(label)}をXで共有">${X_LOGO}共有</a>`;
+}
+
+function projectTweet(p) {
+  return [
+    `【${p.name}】`,
+    `FY${p.fiscal_year} 当初予算 ${fmtYen(p.budget_yen)}（所管: ${p.ministry}）`,
+    `※事業全体の当初予算額`,
+    `出典（行政事業レビュー）: ${p.source_url}`,
+  ].join("\n");
+}
+
+function claimTweet(c, verdictLabel) {
+  const fact = c.fact.length > 60 ? c.fact.slice(0, 60) + "…" : c.fact;
+  return [`「${c.claim}」`, `→ 判定: ${verdictLabel}`, fact, `出典: ${c.sources[0].url}`].join("\n");
+}
+
+function comparisonTweet(comp, fy) {
+  const sides = comp.sides.map((s) => `・${s.name}: ${fmtYen(s.budget_yen)}`).join("\n");
+  return [comp.title, sides, `（FY${fy} 当初予算・事業全体額。対象規模・条件は異なる）`, `出典: https://rssystem.go.jp/`].join("\n");
+}
+
 function filtered() {
   const q = state.q.trim();
   return state.projects.filter((p) => {
@@ -62,6 +89,73 @@ function renderKpi() {
       <div class="sub">出典: ${esc(m.source.name)}</div></div>`;
 }
 
+function renderComparisons(compData) {
+  document.getElementById("compare").innerHTML = compData.comparisons
+    .map((comp) => {
+      const max = Math.max(...comp.sides.map((s) => s.budget_yen || 0), 1);
+      const sides = comp.sides
+        .map(
+          (s) => `
+    <div class="side">
+      <div class="side-target">${esc(s.target)}</div>
+      <div class="side-name">${esc(s.name)}</div>
+      <div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">FY${compData.fiscal_year} 当初予算</span></div>
+      <div class="bar-track"><div class="bar" style="width:${s.budget_yen ? Math.max((s.budget_yen / max) * 100, 1) : 0}%"></div></div>
+      ${s.per_person.length ? `<div class="pp">${s.per_person.map((p) => `<span class="tag pp-tag">${esc(p.label)}: ${esc(p.text)}</span>`).join("")}</div>` : ""}
+      <div class="meta">
+        <span class="tag">${esc(s.ministry)}</span>
+        <a class="src-link" href="${esc(s.rs_source_url)}" target="_blank" rel="noopener">レビューシート ↗</a>
+        ${s.per_person_source ? `<a class="src-link" href="${esc(s.per_person_source.url)}" target="_blank" rel="noopener">${esc(s.per_person_source.label)} ↗</a>` : ""}
+      </div>
+    </div>`
+        )
+        .join("");
+      return `<article class="pair">
+  <div class="pair-head"><h3>${esc(comp.title)}</h3>${shareBtn(comparisonTweet(comp, compData.fiscal_year), comp.title)}</div>
+  <div class="pair-grid">${sides}</div>
+  <p class="pair-note">注記: ${esc(comp.context_note)}</p>
+</article>`;
+    })
+    .join("");
+}
+
+function sparkline(series, w = 220, h = 46) {
+  const vals = series.map((s) => s.value);
+  const min = Math.min(...vals);
+  const max = Math.max(...vals);
+  const pts = series
+    .map((s, i) => {
+      const x = (i / (series.length - 1)) * (w - 4) + 2;
+      const y = h - 3 - ((s.value - min) / (max - min || 1)) * (h - 8);
+      return `${x.toFixed(1)},${y.toFixed(1)}`;
+    })
+    .join(" ");
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" aria-hidden="true"><polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2"/></svg>`;
+}
+
+function renderStats(statsData) {
+  const z = statsData.indicators.zairyu_total;
+  const zs = z.series;
+  const first = zs[0];
+  const latest = z.latest;
+  const share = statsData.derived.zairyu_share_pct;
+  const srcUrl = statsData.source.url;
+  document.getElementById("stats").innerHTML = `
+    <div class="kpi stat-card">
+      <div class="label">${esc(z.name)}（全国・${latest.year}年）</div>
+      <div class="value">${(latest.value / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
+      ${sparkline(zs)}
+      <div class="sub">${first.year}年 ${(first.value / 1e4).toFixed(0)}万人 → ${latest.year}年 ${(latest.value / 1e4).toFixed(0)}万人（${zs.length}年分の推移）</div>
+      <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
+    </div>
+    <div class="kpi stat-card">
+      <div class="label">総人口に占める割合（${share.year}年）</div>
+      <div class="value">${share.value}<small> %</small></div>
+      <div class="sub">${esc(share.note)}</div>
+      <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
+    </div>`;
+}
+
 function renderControls() {
   const ministries = [...new Set(state.projects.map((p) => p.ministry))].sort();
   document.getElementById("ministry").innerHTML =
@@ -91,6 +185,7 @@ function renderList() {
     ${p.keywords.map((k) => `<span class="tag kw">${esc(k)}</span>`).join("")}
     ${p.sheet_type === "FS" ? `<span class="tag">基金</span>` : ""}
     <a class="src-link" href="${esc(p.source_url)}" target="_blank" rel="noopener">レビューシート原文 ↗</a>
+    ${shareBtn(projectTweet(p), p.name)}
   </div>
   ${p.overview ? `<details><summary>事業概要</summary>${esc(p.overview)}</details>` : ""}
 </article>`;
@@ -104,17 +199,18 @@ function renderList() {
 function renderClaims(claimsData) {
   const labels = { true: "事実", false: "誤り", conditional: "条件付き" };
   document.getElementById("claims").innerHTML = claimsData.claims
-    .map(
-      (c) => `<article class="claim-card">
-  <span class="verdict ${esc(c.verdict)}">${labels[c.verdict] || c.verdict}</span>
+    .map((c) => {
+      const label = labels[c.verdict] || c.verdict;
+      return `<article class="claim-card">
+  <div class="claim-head"><span class="verdict ${esc(c.verdict)}">${label}</span>${shareBtn(claimTweet(c, label), c.claim)}</div>
   <p class="claim-text">「${esc(c.claim)}」</p>
   <p class="fact">${esc(c.fact)}</p>
   <div class="claim-sources">
     ${c.sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">出典: ${esc(s.label)} ↗</a>`).join("")}
     <span class="muted">出典生存確認: ${esc(c.checked_at)}</span>
   </div>
-</article>`
-    )
+</article>`;
+    })
     .join("");
 }
 
@@ -149,9 +245,11 @@ function bind() {
 }
 
 async function main() {
-  const [projectsData, claimsData] = await Promise.all([
+  const [projectsData, claimsData, compData, statsData] = await Promise.all([
     fetch("data/projects.json").then((r) => r.json()),
     fetch("data/claims.json").then((r) => r.json()),
+    fetch("data/comparisons.json").then((r) => r.json()),
+    fetch("data/stats.json").then((r) => r.json()),
   ]);
   state.meta = projectsData;
   state.projects = projectsData.projects;
@@ -164,6 +262,8 @@ async function main() {
   document.getElementById("footer-meta").textContent =
     `データ生成: ${projectsData.generated_at} / 出典: ${projectsData.source.name}（${projectsData.source.url}）`;
   renderKpi();
+  renderComparisons(compData);
+  renderStats(statsData);
   renderControls();
   renderList();
   renderClaims(claimsData);
