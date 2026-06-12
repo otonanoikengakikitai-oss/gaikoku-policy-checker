@@ -69,9 +69,21 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; }
 .item-name .rank { color: var(--accent); font-weight: 900; margin-right: 8px; }
 .amount { font-size: 22px; font-weight: 900; white-space: nowrap; color: var(--accent); }
 .amount.na { color: var(--muted); font-size: 14px; font-weight: 500; }
-.delta { font-size: 12px; font-weight: 700; margin-left: 6px; }
-.delta.up { color: var(--red); }
-.delta.down { color: var(--green); }
+.delta {
+  display: inline-block; font-size: 12px; font-weight: 900; margin-left: 8px;
+  padding: 1px 10px; border-radius: 999px; vertical-align: middle; white-space: nowrap;
+}
+.delta.up { color: var(--red); background: var(--red-bg); border: 1px solid #7c2d3b; }
+.delta.down { color: var(--green); background: var(--green-bg); border: 1px solid #1d5c49; }
+.delta.big { font-size: 15px; padding: 2px 12px; }
+
+.year-tabs { display: flex; gap: 8px; margin: 28px 0 0; flex-wrap: wrap; }
+.year-tab {
+  background: var(--panel); border: 1px solid var(--line); color: var(--muted);
+  border-radius: 10px; padding: 8px 26px; font-size: 16px; font-weight: 900;
+  cursor: pointer; font-family: inherit;
+}
+.year-tab.on { background: var(--accent); color: #271600; border-color: var(--accent); }
 .bar-track { height: 8px; background: var(--panel-2); border-radius: 4px; overflow: hidden; margin: 8px 0 8px; }
 .bar { height: 100%; background: var(--accent); }
 .meta { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: 12px; }

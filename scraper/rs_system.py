@@ -20,12 +20,12 @@ KEYWORDS = ["外国人", "留学生", "多文化共生", "技能実習", "特定
 # 「在留」が海外在住の日本人向け事業（在留邦人保護等）に誤反応しないよう、照合前に除去する
 EXCLUDE_PHRASES = ["在留邦人"]
 
-OUT = Path(__file__).resolve().parent.parent / "docs" / "data" / "projects.json"
+DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
+N_YEARS = 3  # 直近何年度分を取得するか（APIに存在する年度から動的に選ぶ）
 
 
-def latest_fiscal_year():
-    years = http_get_json(f"{BASE}/api/projects/fiscal-years/")
-    return max(years)
+def available_fiscal_years():
+    return sorted(http_get_json(f"{BASE}/api/projects/fiscal-years/"))
 
 
 def fetch_year(year, use_cache=False):
@@ -95,8 +95,7 @@ def normalize(p, hits, relevance, year):
     }
 
 
-def run(year=None, use_cache=False):
-    year = year or latest_fiscal_year()
+def build_year(year, use_cache=False):
     print(f"行政事業レビュー FY{year} を全件取得中…", file=sys.stderr)
     raw = fetch_year(year, use_cache=use_cache)
     matched = []
@@ -114,15 +113,35 @@ def run(year=None, use_cache=False):
         "amount_note": "金額は各事業全体の当初予算額であり、外国人対象分のみを切り出した額ではない",
         "projects": matched,
     }
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"抽出 {len(matched)} 事業（走査 {len(raw)}）→ {OUT}", file=sys.stderr)
+    path = DATA_DIR / f"projects_{year}.json"
+    path.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"  FY{year}: 抽出 {len(matched)} 事業（走査 {len(raw)}）→ {path.name}", file=sys.stderr)
     return out
+
+
+def run(years=None, use_cache=False):
+    if not years:
+        years = available_fiscal_years()[-N_YEARS:]
+    years = sorted(years)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    latest_out = None
+    for year in years:
+        latest_out = build_year(year, use_cache=use_cache)
+    # 後方互換: projects.json は最新年度のコピー（比較ビルド等が参照）
+    (DATA_DIR / "projects.json").write_text(json.dumps(latest_out, ensure_ascii=False, indent=1), encoding="utf-8")
+    years_meta = {
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+        "years": years,
+        "latest": years[-1],
+    }
+    (DATA_DIR / "years.json").write_text(json.dumps(years_meta, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"対象年度 {years} → years.json", file=sys.stderr)
+    return latest_out
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--year", type=int, default=None)
+    ap.add_argument("--years", type=str, default=None, help="カンマ区切り（例: 2024,2025）。省略時はAPIの最新3年度")
     ap.add_argument("--use-cache", action="store_true")
     args = ap.parse_args()
-    run(year=args.year, use_cache=args.use_cache)
+    run(years=[int(y) for y in args.years.split(",")] if args.years else None, use_cache=args.use_cache)

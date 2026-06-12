@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-12T15:30:06+00:00",
+ "generated_at": "2026-06-12T16:05:46+00:00",
  "claims": [
   {
    "id": "seikatsuhogo-immediate",
@@ -12,7 +12,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
     }
    ],
-   "checked_at": "2026-06-12"
+   "checked_at": "2026-06-13"
   },
   {
    "id": "ryugakusei-iryohi-zengaku",
@@ -25,7 +25,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html"
     }
    ],
-   "checked_at": "2026-06-12"
+   "checked_at": "2026-06-13"
   },
   {
    "id": "kokuhi-ryugakusei-shikyu",
@@ -42,7 +42,7 @@
      "url": "https://www.jasso.go.jp/shogakukin/kyufu/index.html"
     }
    ],
-   "checked_at": "2026-06-12"
+   "checked_at": "2026-06-13"
   }
  ]
 }

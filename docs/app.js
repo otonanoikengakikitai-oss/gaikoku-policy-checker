@@ -1,12 +1,16 @@
 "use strict";
 
 const state = {
+  years: [],
+  year: null,
+  yearData: {},
   projects: [],
   meta: null,
   q: "",
   ministry: "",
   keyword: "",
   highOnly: true,
+  sort: "budget",
   shown: 20,
 };
 
@@ -15,59 +19,106 @@ const esc = (s) =>
 
 function fmtYen(n) {
   if (n == null) return "—";
-  if (n >= 1e12) return (n / 1e12).toLocaleString("ja-JP", { maximumFractionDigits: 2 }) + "兆円";
-  if (n >= 1e8) return (n / 1e8).toLocaleString("ja-JP", { maximumFractionDigits: 1 }) + "億円";
-  if (n >= 1e4) return Math.round(n / 1e4).toLocaleString("ja-JP") + "万円";
-  return n.toLocaleString("ja-JP") + "円";
+  const sign = n < 0 ? "−" : "";
+  const a = Math.abs(n);
+  if (a >= 1e12) return sign + (a / 1e12).toLocaleString("ja-JP", { maximumFractionDigits: 2 }) + "兆円";
+  if (a >= 1e8) return sign + (a / 1e8).toLocaleString("ja-JP", { maximumFractionDigits: 1 }) + "億円";
+  if (a >= 1e4) return sign + Math.round(a / 1e4).toLocaleString("ja-JP") + "万円";
+  return sign + a.toLocaleString("ja-JP") + "円";
 }
 
 const X_LOGO =
   '<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>';
 
-function shareBtn(text, label) {
-  const href = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text);
-  return `<a class="share-x" href="${esc(href)}" target="_blank" rel="noopener" aria-label="${esc(label)}をXで共有">${X_LOGO}共有</a>`;
+function xIntent(text, url) {
+  return `https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+}
+
+function shareBtn(text, url, label) {
+  return `<a class="share-x" href="${esc(xIntent(text, url))}" target="_blank" rel="noopener" aria-label="${esc(label)}をXで共有">${X_LOGO}共有</a>`;
 }
 
 function projectTweet(p) {
-  return [
-    `【${p.name}】`,
-    `FY${p.fiscal_year} 当初予算 ${fmtYen(p.budget_yen)}（所管: ${p.ministry}）`,
-    `※事業全体の当初予算額`,
-    `出典（行政事業レビュー）: ${p.source_url}`,
-  ].join("\n");
+  return {
+    text: [
+      `【${p.name}】`,
+      `FY${p.fiscal_year} 当初予算 ${fmtYen(p.budget_yen)}（所管: ${p.ministry}）`,
+      `※事業全体の当初予算額。出典は行政事業レビュー（リンク先）`,
+    ].join("\n"),
+    url: p.source_url,
+  };
 }
 
 function claimTweet(c, verdictLabel) {
   const fact = c.fact.length > 60 ? c.fact.slice(0, 60) + "…" : c.fact;
-  return [`「${c.claim}」`, `→ 判定: ${verdictLabel}`, fact, `出典: ${c.sources[0].url}`].join("\n");
+  return { text: [`「${c.claim}」`, `→ 判定: ${verdictLabel}`, fact].join("\n"), url: c.sources[0].url };
 }
 
 function comparisonTweet(comp, fy) {
   const sides = comp.sides.map((s) => `・${s.name}: ${fmtYen(s.budget_yen)}`).join("\n");
-  return [comp.title, sides, `（FY${fy} 当初予算・事業全体額。対象規模・条件は異なる）`, `出典: https://rssystem.go.jp/`].join("\n");
+  return {
+    text: [comp.title, sides, `（FY${fy} 当初予算・事業全体額。対象規模・条件は異なる）`].join("\n"),
+    url: "https://rssystem.go.jp/",
+  };
+}
+
+function projDelta(p) {
+  const cur = p.budgets.find((b) => b.year === p.fiscal_year);
+  const prev = p.budgets.find((b) => b.year === p.fiscal_year - 1);
+  if (!cur || !prev || cur.amount_yen == null || !prev.amount_yen) return null;
+  const abs = cur.amount_yen - prev.amount_yen;
+  return { abs, pct: (abs / prev.amount_yen) * 100 };
+}
+
+function deltaBadge(d, extraClass = "") {
+  if (!d || Math.round(d.pct) === 0) return "";
+  const cls = d.pct > 0 ? "up" : "down";
+  const sign = d.pct > 0 ? "+" : "";
+  return `<span class="delta ${cls} ${extraClass}" title="前年度当初予算比">${sign}${d.pct.toFixed(d.pct >= 100 ? 0 : 1)}%</span>`;
 }
 
 function filtered() {
   const q = state.q.trim();
-  return state.projects.filter((p) => {
+  const rows = state.projects.filter((p) => {
     if (state.highOnly && p.relevance !== "high") return false;
     if (state.ministry && p.ministry !== state.ministry) return false;
     if (state.keyword && !p.keywords.includes(state.keyword)) return false;
     if (q && !(p.name.includes(q) || p.overview.includes(q) || p.ministry.includes(q))) return false;
     return true;
   });
+  if (state.sort !== "budget") {
+    const key = state.sort === "deltaPct" ? "pct" : "abs";
+    rows.sort((a, b) => {
+      const da = projDelta(a);
+      const db = projDelta(b);
+      if (!da && !db) return 0;
+      if (!da) return 1;
+      if (!db) return -1;
+      return db[key] - da[key];
+    });
+  }
+  return rows;
 }
 
-function deltaHtml(p) {
-  const cur = p.budgets.find((b) => b.year === p.fiscal_year);
-  const prev = p.budgets.find((b) => b.year === p.fiscal_year - 1);
-  if (!cur || !prev || !prev.amount_yen) return "";
-  const pct = Math.round(((cur.amount_yen - prev.amount_yen) / prev.amount_yen) * 100);
-  if (pct === 0) return "";
-  const cls = pct > 0 ? "up" : "down";
-  const sign = pct > 0 ? "+" : "";
-  return `<span class="delta ${cls}" title="前年度当初予算比">${sign}${pct}% 前年比</span>`;
+function sumDelta(projects, fy) {
+  let cur = 0;
+  let prev = 0;
+  for (const p of projects) {
+    if (p.relevance !== "high") continue;
+    const c = p.budgets.find((b) => b.year === fy);
+    const v = p.budgets.find((b) => b.year === fy - 1);
+    if (c && v && c.amount_yen != null && v.amount_yen) {
+      cur += c.amount_yen;
+      prev += v.amount_yen;
+    }
+  }
+  return prev > 0 ? { pct: ((cur - prev) / prev) * 100, abs: cur - prev } : null;
+}
+
+function renderYearTabs() {
+  document.getElementById("year-tabs").innerHTML = state.years
+    .map((y) => `<button class="year-tab ${y === state.year ? "on" : ""}" data-year="${y}">FY${y}</button>`)
+    .join("");
 }
 
 function renderKpi() {
@@ -75,13 +126,14 @@ function renderKpi() {
   const high = state.projects.filter((p) => p.relevance === "high");
   const sumHigh = high.reduce((a, p) => a + (p.budget_yen || 0), 0);
   const ministries = new Set(state.projects.map((p) => p.ministry)).size;
+  const d = sumDelta(state.projects, m.fiscal_year);
   document.getElementById("kpi").innerHTML = `
     <div class="kpi"><div class="label">関連事業数（自動抽出）</div>
       <div class="value">${high.length}<small> 件</small></div>
       <div class="sub">概要・目的まで含めると ${state.projects.length} 件 / 走査 ${m.total_projects_scanned.toLocaleString("ja-JP")} 事業</div></div>
     <div class="kpi"><div class="label">当初予算 合算 ※事業全体額</div>
-      <div class="value">${fmtYen(sumHigh)}</div>
-      <div class="sub">FY${m.fiscal_year}・事業名ヒット分の単純合算</div></div>
+      <div class="value">${fmtYen(sumHigh)} ${d ? deltaBadge(d, "big") : ""}</div>
+      <div class="sub">FY${m.fiscal_year}・事業名ヒット分の単純合算${d ? `。前年比は同一事業ベース（${fmtYen(d.abs)}）` : ""}</div></div>
     <div class="kpi"><div class="label">所管府省庁</div>
       <div class="value">${ministries}<small> 機関</small></div></div>
     <div class="kpi"><div class="label">データ年度</div>
@@ -93,6 +145,7 @@ function renderComparisons(compData) {
   document.getElementById("compare").innerHTML = compData.comparisons
     .map((comp) => {
       const max = Math.max(...comp.sides.map((s) => s.budget_yen || 0), 1);
+      const t = comparisonTweet(comp, compData.fiscal_year);
       const sides = comp.sides
         .map(
           (s) => `
@@ -111,7 +164,7 @@ function renderComparisons(compData) {
         )
         .join("");
       return `<article class="pair">
-  <div class="pair-head"><h3>${esc(comp.title)}</h3>${shareBtn(comparisonTweet(comp, compData.fiscal_year), comp.title)}</div>
+  <div class="pair-head"><h3>${esc(comp.title)}</h3>${shareBtn(t.text, t.url, comp.title)}</div>
   <div class="pair-grid">${sides}</div>
   <p class="pair-note">注記: ${esc(comp.context_note)}</p>
 </article>`;
@@ -158,11 +211,12 @@ function renderStats(statsData) {
 
 function renderControls() {
   const ministries = [...new Set(state.projects.map((p) => p.ministry))].sort();
+  if (state.ministry && !ministries.includes(state.ministry)) state.ministry = "";
   document.getElementById("ministry").innerHTML =
     `<option value="">すべての府省庁</option>` +
-    ministries.map((mi) => `<option value="${esc(mi)}">${esc(mi)}</option>`).join("");
+    ministries.map((mi) => `<option value="${esc(mi)}" ${mi === state.ministry ? "selected" : ""}>${esc(mi)}</option>`).join("");
   document.getElementById("kw-chips").innerHTML = state.meta.keywords
-    .map((k) => `<button class="chip-btn" data-kw="${esc(k)}">${esc(k)}</button>`)
+    .map((k) => `<button class="chip-btn ${k === state.keyword ? "on" : ""}" data-kw="${esc(k)}">${esc(k)}</button>`)
     .join("");
 }
 
@@ -174,10 +228,12 @@ function renderList() {
     slice
       .map((p, i) => {
         const w = p.budget_yen ? Math.max((p.budget_yen / max) * 100, 0.5) : 0;
+        const t = projectTweet(p);
+        const d = projDelta(p);
         return `<article class="item">
   <div class="item-top">
     <div class="item-name"><span class="rank">${i + 1}</span>${esc(p.name)}</div>
-    <div class="amount ${p.budget_yen == null ? "na" : ""}">${fmtYen(p.budget_yen)}${deltaHtml(p)}</div>
+    <div class="amount ${p.budget_yen == null ? "na" : ""}">${fmtYen(p.budget_yen)}${deltaBadge(d)}</div>
   </div>
   <div class="bar-track"><div class="bar" style="width:${w}%"></div></div>
   <div class="meta">
@@ -185,7 +241,7 @@ function renderList() {
     ${p.keywords.map((k) => `<span class="tag kw">${esc(k)}</span>`).join("")}
     ${p.sheet_type === "FS" ? `<span class="tag">基金</span>` : ""}
     <a class="src-link" href="${esc(p.source_url)}" target="_blank" rel="noopener">レビューシート原文 ↗</a>
-    ${shareBtn(projectTweet(p), p.name)}
+    ${shareBtn(t.text, t.url, p.name)}
   </div>
   ${p.overview ? `<details><summary>事業概要</summary>${esc(p.overview)}</details>` : ""}
 </article>`;
@@ -201,8 +257,9 @@ function renderClaims(claimsData) {
   document.getElementById("claims").innerHTML = claimsData.claims
     .map((c) => {
       const label = labels[c.verdict] || c.verdict;
+      const t = claimTweet(c, label);
       return `<article class="claim-card">
-  <div class="claim-head"><span class="verdict ${esc(c.verdict)}">${label}</span>${shareBtn(claimTweet(c, label), c.claim)}</div>
+  <div class="claim-head"><span class="verdict ${esc(c.verdict)}">${label}</span>${shareBtn(t.text, t.url, c.claim)}</div>
   <p class="claim-text">「${esc(c.claim)}」</p>
   <p class="fact">${esc(c.fact)}</p>
   <div class="claim-sources">
@@ -214,7 +271,24 @@ function renderClaims(claimsData) {
     .join("");
 }
 
+function setYear(y) {
+  state.year = y;
+  state.meta = state.yearData[y];
+  state.projects = state.meta.projects;
+  state.shown = 20;
+  document.getElementById("fy-label").textContent =
+    `FY${state.meta.fiscal_year} 当初予算・自動抽出 ${state.projects.length} 事業`;
+  renderYearTabs();
+  renderKpi();
+  renderControls();
+  renderList();
+}
+
 function bind() {
+  document.getElementById("year-tabs").addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-year]");
+    if (btn) setYear(Number(btn.dataset.year));
+  });
   document.getElementById("q").addEventListener("input", (e) => {
     state.q = e.target.value;
     state.shown = 20;
@@ -222,6 +296,11 @@ function bind() {
   });
   document.getElementById("ministry").addEventListener("change", (e) => {
     state.ministry = e.target.value;
+    state.shown = 20;
+    renderList();
+  });
+  document.getElementById("sort").addEventListener("change", (e) => {
+    state.sort = e.target.value;
     state.shown = 20;
     renderList();
   });
@@ -245,29 +324,29 @@ function bind() {
 }
 
 async function main() {
-  const [projectsData, claimsData, compData, statsData] = await Promise.all([
-    fetch("data/projects.json").then((r) => r.json()),
-    fetch("data/claims.json").then((r) => r.json()),
-    fetch("data/comparisons.json").then((r) => r.json()),
-    fetch("data/stats.json").then((r) => r.json()),
+  const getJson = (path) => fetch(path).then((r) => r.json());
+  const [yearsMeta, claimsData, compData, statsData] = await Promise.all([
+    getJson("data/years.json"),
+    getJson("data/claims.json"),
+    getJson("data/comparisons.json"),
+    getJson("data/stats.json"),
   ]);
-  state.meta = projectsData;
-  state.projects = projectsData.projects;
-  const updated = new Date(projectsData.generated_at);
+  state.years = yearsMeta.years;
+  await Promise.all(
+    state.years.map((y) => getJson(`data/projects_${y}.json`).then((d) => (state.yearData[y] = d)))
+  );
+  const latestMeta = state.yearData[yearsMeta.latest];
+  const updated = new Date(latestMeta.generated_at);
   document.getElementById("updated-badge").textContent =
     `自動更新 ${updated.getFullYear()}-${String(updated.getMonth() + 1).padStart(2, "0")}-${String(updated.getDate()).padStart(2, "0")}`;
-  document.getElementById("fy-label").textContent =
-    `FY${projectsData.fiscal_year} 当初予算・自動抽出 ${projectsData.projects.length} 事業`;
-  document.getElementById("amount-note").textContent = `注記: ${projectsData.amount_note}。タグは機械抽出の理由。詳細は必ず出典のレビューシート原文を確認。`;
+  document.getElementById("amount-note").textContent = `注記: ${latestMeta.amount_note}。タグは機械抽出の理由。詳細は必ず出典のレビューシート原文を確認。`;
   document.getElementById("footer-meta").textContent =
-    `データ生成: ${projectsData.generated_at} / 出典: ${projectsData.source.name}（${projectsData.source.url}）`;
-  renderKpi();
+    `データ生成: ${latestMeta.generated_at} / 出典: ${latestMeta.source.name}（${latestMeta.source.url}） / 収載年度: ${state.years.map((y) => "FY" + y).join(" / ")}`;
   renderComparisons(compData);
   renderStats(statsData);
-  renderControls();
-  renderList();
   renderClaims(claimsData);
   bind();
+  setYear(yearsMeta.latest);
 }
 
 main().catch((e) => {

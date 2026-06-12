@@ -22,6 +22,7 @@
   </div>
 </header>
 <main class="wrap">
+  <nav class="year-tabs" id="year-tabs" aria-label="データ年度切り替え"></nav>
   <section class="kpi-grid" id="kpi" aria-label="集計値"></section>
 
   <p class="caveat" id="amount-note"></p>
@@ -36,6 +37,11 @@
     <div class="controls">
       <input id="q" type="search" placeholder="事業名・概要を検索" aria-label="検索">
       <select id="ministry" aria-label="府省庁で絞り込み"></select>
+      <select id="sort" aria-label="並び替え">
+        <option value="budget">予算額順</option>
+        <option value="deltaPct">前年比 増加率順</option>
+        <option value="deltaAbs">前年比 増加額順</option>
+      </select>
       <label class="toggle"><input type="checkbox" id="high-only" checked> 事業名にキーワードを含むもののみ</label>
     </div>
     <div class="chips" id="kw-chips" role="group" aria-label="キーワードで絞り込み"></div>

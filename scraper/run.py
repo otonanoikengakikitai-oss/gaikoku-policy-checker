@@ -9,10 +9,10 @@ import validate
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--year", type=int, default=None)
+    ap.add_argument("--years", type=str, default=None, help="カンマ区切り（例: 2024,2025）。省略時はAPIの最新3年度")
     ap.add_argument("--use-cache", action="store_true")
     args = ap.parse_args()
-    rs_system.run(year=args.year, use_cache=args.use_cache)
+    rs_system.run(years=[int(y) for y in args.years.split(",")] if args.years else None, use_cache=args.use_cache)
     build_comparisons.run()
     stats.run()
     build_claims.run()

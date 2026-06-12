@@ -19,7 +19,18 @@ def host_allowed(url):
 
 
 def check_projects(errors):
-    path = DATA_DIR / "projects.json"
+    years_meta = json.loads((DATA_DIR / "years.json").read_text(encoding="utf-8"))
+    if not years_meta.get("years"):
+        errors.append("years.json: 対象年度が空")
+        return 0
+    total = 0
+    for year in years_meta["years"]:
+        total += check_projects_file(DATA_DIR / f"projects_{year}.json", errors)
+    check_projects_file(DATA_DIR / "projects.json", errors)  # 最新年度のコピーも検証
+    return total
+
+
+def check_projects_file(path, errors):
     data = json.loads(path.read_text(encoding="utf-8"))
     for p in data["projects"]:
         where = f"projects/{p.get('id', '?')}"
@@ -37,7 +48,7 @@ def check_projects(errors):
         if b is not None and (not isinstance(b, int) or b < 0):
             errors.append(f"{where}: budget_yen 不正: {b!r}")
     if not data.get("amount_note"):
-        errors.append("projects.json: amount_note（金額の注記）は必須")
+        errors.append(f"{path.name}: amount_note（金額の注記）は必須")
     return len(data["projects"])
 
 
