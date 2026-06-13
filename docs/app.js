@@ -65,8 +65,10 @@ function xIntent(text, url) {
   return `https://x.com/intent/post?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
 }
 
-function shareBtn(text, url, label) {
-  return `<a class="share-x" href="${esc(xIntent(text, url))}" target="_blank" rel="noopener" aria-label="${esc(label)}をXで共有">${X_LOGO}共有</a>`;
+function shareBtn(text, url, label, btnText) {
+  const t = btnText || "共有";
+  const cls = btnText && btnText !== "共有" ? "share-x share-rebut" : "share-x";
+  return `<a class="${cls}" href="${esc(xIntent(text, url))}" target="_blank" rel="noopener" aria-label="${esc(label)}をXで共有">${X_LOGO}${esc(t)}</a>`;
 }
 
 function projectTweet(p) {
@@ -81,8 +83,13 @@ function projectTweet(p) {
 }
 
 function claimTweet(c, verdictLabel) {
-  const fact = c.fact.length > 60 ? c.fact.slice(0, 60) + "…" : c.fact;
-  return { text: [`「${c.claim}」`, `→ 判定: ${verdictLabel}`, fact].join("\n"), url: c.sources[0].url };
+  const fact = c.fact.length > 90 ? c.fact.slice(0, 90) + "…" : c.fact;
+  return {
+    text: ["【一次ソースで論破】", `言説：「${c.claim}」`, `→ 判定: ${verdictLabel}`, `ファクト：${fact}`, `出典は一次ソース（リンク先）`].join(
+      "\n"
+    ),
+    url: c.sources[0].url,
+  };
 }
 
 function budgetTweet(pb) {
@@ -672,15 +679,15 @@ function renderList() {
 }
 
 function renderClaims(claimsData) {
-  const labels = { true: "事実", false: "誤り", conditional: "条件付き" };
+  const labels = { true: "事実", false: "誤り", conditional: "条件付き", misleading: "誤解・誇張" };
   document.getElementById("claims").innerHTML = claimsData.claims
     .map((c) => {
       const label = labels[c.verdict] || c.verdict;
       const t = claimTweet(c, label);
       return `<article class="claim-card">
-  <div class="claim-head"><span class="verdict ${esc(c.verdict)}">${label}</span>${shareBtn(t.text, t.url, c.claim)}</div>
-  <p class="claim-text">「${esc(c.claim)}」</p>
-  <p class="fact">${esc(c.fact)}</p>
+  <div class="claim-head"><span class="verdict ${esc(c.verdict)}">${label}</span>${shareBtn(t.text, t.url, c.claim, "論破をシェア")}</div>
+  <p class="claim-text"><span class="claim-tag">ネットの言説</span>「${esc(c.claim)}」</p>
+  <p class="fact"><span class="fact-tag">一次ソースの実額で論破</span>${esc(c.fact)}</p>
   <div class="claim-sources">
     ${c.sources.map((s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">出典: ${esc(s.label)} ↗</a>`).join("")}
     <span class="muted">出典生存確認: ${esc(c.checked_at)}</span>

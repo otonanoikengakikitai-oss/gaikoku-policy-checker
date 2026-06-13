@@ -3,7 +3,7 @@
 ここに定義した言説の「出典URL」は build_claims.py が毎回
 ドメイン検証（go.jp / lg.jp 限定）と生存確認を行い、
 通過したものだけが docs/data/claims.json として公開される。
-verdict: "true"（事実） / "false"（誤り） / "conditional"（条件付き）
+verdict: "true"（事実） / "false"（誤り） / "conditional"（条件付き） / "misleading"（誤解・誇張）
 """
 
 CLAIMS = [
@@ -58,6 +58,40 @@ CLAIMS = [
             {
                 "label": "JASSO 給付奨学金（日本人学生向け）",
                 "url": "https://www.jasso.go.jp/shogakukin/kyufu/index.html",
+            },
+        ],
+    },
+    {
+        "id": "tokyo-gaikokujin-bakudai-yosan",
+        "claim": "東京都は外国人政策に莫大な予算を割いている（インバウンド対応等も含むという錯覚）",
+        "verdict": "misleading",
+        "fact": (
+            "まとめサイトや一部のAI検索は「インバウンド（観光）対応」を外国人政策にごちゃ混ぜにして語る傾向がある。"
+            "しかし、一次ソース（令和8年度 主要事業）で実額を厳密に切り分けると、在住外国人政策（多文化共生・外国人材等）は"
+            "16.8億円。対して観光産業の振興は376.1億円であり、巨大予算の正体は『観光ビジネス・インフラ投資』である"
+            "（観光は外国人政策の約22倍）。両者を混同すると予算規模を大きく誤認する。"
+        ),
+        "sources": [
+            {
+                "label": "東京都財務局 令和8年度 主要事業",
+                "url": "https://www.zaimu1.metro.tokyo.lg.jp/zaisei/20260130_reiwa8nendo_tokyotoyosanangaiyou/8shuyouzigyou.pdf",
+            },
+        ],
+    },
+    {
+        "id": "kuni-gaikokujin-yosan-8x",
+        "claim": "国の外国人政策予算が前年の約8.7倍に激増した（外国人への給付が急拡大という主張）",
+        "verdict": "misleading",
+        "fact": (
+            "令和8年度の総合的対応策の関係予算は1,507.7億円で、前年度（173.6億円）の約8.7倍に増えたのは事実。"
+            "だが増分の大半は、令和8年1月の会議体改組で新規計上された観光・インフラ対策であり、"
+            "国土交通省分が1,173.7億円（総額の78%）を占める。在留外国人への給付が同倍率で増えたわけではない。"
+            "金額の急増だけを取り出して『外国人への給付が激増』と語るのは、正体（観光・オーバーツーリズム対策）を覆い隠す。"
+        ),
+        "sources": [
+            {
+                "label": "内閣官房 外国人の受入れ・秩序ある共生社会実現に関する関係閣僚会議",
+                "url": "https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/index.html",
             },
         ],
     },

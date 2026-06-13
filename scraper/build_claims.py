@@ -14,7 +14,7 @@ from common import url_alive
 
 OUT = Path(__file__).resolve().parent.parent / "docs" / "data" / "claims.json"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-VERDICTS = {"true", "false", "conditional"}
+VERDICTS = {"true", "false", "conditional", "misleading"}
 
 
 def host_allowed(url):

@@ -57,7 +57,7 @@ def check_claims(errors):
     data = json.loads(path.read_text(encoding="utf-8"))
     for c in data["claims"]:
         where = f"claims/{c.get('id', '?')}"
-        if c.get("verdict") not in ("true", "false", "conditional"):
+        if c.get("verdict") not in ("true", "false", "conditional", "misleading"):
             errors.append(f"{where}: verdict 不正")
         if not c.get("fact"):
             errors.append(f"{where}: fact が空")
