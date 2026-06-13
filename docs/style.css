@@ -106,6 +106,48 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; }
 }
 .share-x:hover { color: var(--text); border-color: var(--muted); }
 
+#policy-budget-section { margin-top: 30px; }
+.budget-hero {
+  display: flex; justify-content: space-between; align-items: flex-start; gap: 16px;
+  background: var(--panel); border: 1px solid var(--accent-deep); border-radius: 14px 14px 0 0;
+  border-bottom: none; padding: 20px 22px;
+}
+.budget-hero-label { font-size: 13px; color: var(--muted); font-weight: 500; }
+.budget-hero-num { font-size: 46px; font-weight: 900; color: var(--accent); line-height: 1.1; margin: 2px 0 6px; }
+.budget-hero-delta { font-size: 14px; color: var(--muted); }
+.budget-hero-supp { font-size: 12.5px; color: var(--muted); margin-top: 6px; }
+.budget-trend { background: var(--panel); border: 1px solid var(--accent-deep); border-top: none; border-bottom: none; padding: 6px 22px 14px; }
+.budget-bar-row { display: flex; align-items: center; gap: 12px; padding: 5px 0; }
+.budget-bar-label { flex: 0 0 116px; font-size: 13px; font-weight: 700; }
+.budget-bar-sub { display: block; font-size: 11px; color: var(--muted); font-weight: 400; }
+.budget-bar-track { flex: 1; height: 16px; background: var(--panel-2); border-radius: 4px; overflow: hidden; }
+.budget-bar-fill { height: 100%; background: var(--blue); }
+.budget-bar-fill.hot { background: var(--accent); }
+.budget-bar-val { flex: 0 0 auto; font-size: 14px; font-weight: 700; white-space: nowrap; min-width: 96px; text-align: right; }
+.budget-bar-val.hot { color: var(--accent); font-weight: 900; }
+.src-mini { font-size: 10.5px; margin-left: 8px; color: var(--blue); font-weight: 400; }
+.budget-caveat { border-radius: 0 !important; margin: 0 !important; border-left: 1px solid var(--accent-deep); border-right: 1px solid var(--accent-deep); }
+.budget-caveat i { font-style: normal; font-weight: 900; color: #271600; background: var(--accent); border-radius: 50%; width: 18px; height: 18px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; margin-right: 6px; }
+.budget-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0; background: var(--panel); border: 1px solid var(--accent-deep); border-top: none; }
+.budget-col { padding: 16px 22px; }
+.budget-col:first-child { border-right: 1px solid var(--line); }
+.budget-col-h { font-size: 13px; font-weight: 700; margin-bottom: 12px; color: var(--text); }
+.budget-col-foot { font-size: 11px; color: var(--muted); margin-top: 10px; line-height: 1.5; }
+.min-row { display: flex; align-items: center; gap: 8px; margin-bottom: 7px; }
+.min-name { flex: 0 0 88px; font-size: 12.5px; }
+.min-track { flex: 1; height: 10px; background: var(--panel-2); border-radius: 3px; overflow: hidden; }
+.min-fill { display: block; height: 100%; background: var(--accent); }
+.min-val { flex: 0 0 auto; font-size: 12px; font-weight: 700; min-width: 70px; text-align: right; }
+.budget-items { margin: 0; padding-left: 0; list-style: none; }
+.budget-items li { font-size: 12px; color: var(--muted); padding: 6px 0; border-top: 0.5px solid var(--line); line-height: 1.5; }
+.budget-items li:first-child { border-top: none; }
+.ti-amt { color: var(--accent); font-weight: 900; margin-right: 6px; }
+.budget-basis {
+  font-size: 12px; color: var(--muted); background: var(--panel);
+  border: 1px solid var(--accent-deep); border-top: none; border-radius: 0 0 14px 14px;
+  padding: 10px 22px; margin: 0 0 8px;
+}
+
 .pair { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; margin-bottom: 12px; }
 .pair-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
 .pair-head h3 { font-size: 16px; font-weight: 700; margin: 0; }
@@ -146,4 +188,8 @@ footer ul { margin: 0 0 12px; padding-left: 20px; }
 @media (max-width: 640px) {
   .item-top { flex-direction: column; gap: 2px; }
   .pair-grid { grid-template-columns: 1fr; }
+  .budget-cols { grid-template-columns: 1fr; }
+  .budget-col:first-child { border-right: none; border-bottom: 1px solid var(--line); }
+  .budget-hero-num { font-size: 38px; }
+  .budget-bar-label { flex-basis: 88px; }
 }

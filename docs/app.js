@@ -54,6 +54,19 @@ function claimTweet(c, verdictLabel) {
   return { text: [`「${c.claim}」`, `→ 判定: ${verdictLabel}`, fact].join("\n"), url: c.sources[0].url };
 }
 
+function budgetTweet(pb) {
+  const cur = pb.initial_budget_series.find((s) => s.year === 2026);
+  const y = pb.yoy_2025_2026;
+  return {
+    text: [
+      `令和8年度（2026年度）の外国人政策の関係予算（総合的対応策関連・当初）は約${fmtYen(cur.amount_yen)}。`,
+      `前年度比 約${y.delta_yen >= 0 ? "+" : ""}${fmtYen(y.delta_yen)}。`,
+      `※増額の大半は会議体改組に伴うオーバーツーリズム対策等（国交省）の新規計上による。`,
+    ].join("\n"),
+    url: pb.primary_source.url,
+  };
+}
+
 function comparisonTweet(comp, fy) {
   const sides = comp.sides.map((s) => `・${s.name}: ${fmtYen(s.budget_yen)}`).join("\n");
   return {
@@ -139,6 +152,66 @@ function renderKpi() {
     <div class="kpi"><div class="label">データ年度</div>
       <div class="value">FY${m.fiscal_year}</div>
       <div class="sub">出典: ${esc(m.source.name)}</div></div>`;
+}
+
+function renderPolicyBudget(pb) {
+  const series = pb.initial_budget_series;
+  const max = Math.max(...series.map((s) => s.amount_yen), 1);
+  const cur = series.find((s) => s.year === 2026) || series[series.length - 1];
+  const y = pb.yoy_2025_2026;
+  const t = budgetTweet(pb);
+  const bars = series
+    .map((s) => {
+      const hot = s.year === 2026;
+      return `<div class="budget-bar-row">
+      <div class="budget-bar-label">FY${s.year}<span class="budget-bar-sub">${esc(s.label)}</span></div>
+      <div class="budget-bar-track"><div class="budget-bar-fill ${hot ? "hot" : ""}" style="width:${Math.max((s.amount_yen / max) * 100, 1.5)}%"></div></div>
+      <div class="budget-bar-val ${hot ? "hot" : ""}">${fmtYen(s.amount_yen)}<a class="src-mini" href="${esc(s.source.url)}" target="_blank" rel="noopener" aria-label="FY${s.year}の出典">出典↗</a></div>
+    </div>`;
+    })
+    .join("");
+  const minMax = Math.max(...pb.fy2026.by_ministry.map((m) => m.amount_yen), 1);
+  const mins = pb.fy2026.by_ministry
+    .filter((m) => m.amount_yen > 0)
+    .slice(0, 6)
+    .map(
+      (m) => `<div class="min-row">
+      <span class="min-name">${esc(m.ministry)}</span>
+      <span class="min-track"><span class="min-fill" style="width:${Math.max((m.amount_yen / minMax) * 100, 2)}%"></span></span>
+      <span class="min-val">${fmtYen(m.amount_yen)}</span>
+    </div>`
+    )
+    .join("");
+  const items = pb.fy2026.top_items
+    .slice(0, 5)
+    .map(
+      (it) => `<li><span class="ti-amt">${fmtYen(it.amount_yen)}</span><span class="tag">${esc(it.ministry)}</span> ${esc(it.desc)}</li>`
+    )
+    .join("");
+  document.getElementById("policy-budget").innerHTML = `
+  <div class="budget-hero">
+    <div class="budget-hero-main">
+      <div class="budget-hero-label">令和8年度 当初予算（総合的対応策 関係予算 合計）</div>
+      <div class="budget-hero-num">${fmtYen(cur.amount_yen)}</div>
+      <div class="budget-hero-delta">前年度比 <span class="delta up big">${y.delta_yen >= 0 ? "+" : ""}${fmtYen(y.delta_yen)}（${y.pct >= 0 ? "+" : ""}${y.pct}%）</span></div>
+      <div class="budget-hero-supp">うち令和7年度補正予算 関連: ${fmtYen(pb.fy2026.supplementary_r7_yen)}</div>
+    </div>
+    ${shareBtn(t.text, t.url, "令和8年度 外国人政策 関係予算")}
+  </div>
+  <div class="budget-trend">${bars}</div>
+  <p class="pair-note budget-caveat"><i>!</i> ${esc(pb.scope_note)}</p>
+  <div class="budget-cols">
+    <div class="budget-col">
+      <div class="budget-col-h">FY2026 主管省庁別（当初予算）</div>
+      ${mins}
+      <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。</div>
+    </div>
+    <div class="budget-col">
+      <div class="budget-col-h">FY2026 主な施策（金額順）</div>
+      <ul class="budget-items">${items}</ul>
+    </div>
+  </div>
+  <p class="budget-basis">${esc(pb.basis_note)} 出典: <a href="${esc(pb.primary_source.url)}" target="_blank" rel="noopener">${esc(pb.primary_source.label)} ↗</a></p>`;
 }
 
 function renderComparisons(compData) {
@@ -325,11 +398,12 @@ function bind() {
 
 async function main() {
   const getJson = (path) => fetch(path).then((r) => r.json());
-  const [yearsMeta, claimsData, compData, statsData] = await Promise.all([
+  const [yearsMeta, claimsData, compData, statsData, policyBudget] = await Promise.all([
     getJson("data/years.json"),
     getJson("data/claims.json"),
     getJson("data/comparisons.json"),
     getJson("data/stats.json"),
+    getJson("data/policy_budget.json"),
   ]);
   state.years = yearsMeta.years;
   await Promise.all(
@@ -342,6 +416,7 @@ async function main() {
   document.getElementById("amount-note").textContent = `注記: ${latestMeta.amount_note}。タグは機械抽出の理由。詳細は必ず出典のレビューシート原文を確認。`;
   document.getElementById("footer-meta").textContent =
     `データ生成: ${latestMeta.generated_at} / 出典: ${latestMeta.source.name}（${latestMeta.source.url}） / 収載年度: ${state.years.map((y) => "FY" + y).join(" / ")}`;
+  renderPolicyBudget(policyBudget);
   renderComparisons(compData);
   renderStats(statsData);
   renderClaims(claimsData);

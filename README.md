@@ -2,12 +2,13 @@
 
 外国人政策に関連する国の予算事業を毎週自動収集し、ネットで流れる言説を官公庁の一次ソースだけで検証する、完全無料・全自動運用のデータベース。
 
-- **データ**: [行政事業レビュー見える化サイト（RSシステム）](https://rssystem.go.jp/) の公開APIから対象年度の全予算事業（約6,400件）を取得し、キーワード照合で関連事業を機械抽出
+- **データ**: [行政事業レビュー見える化サイト（RSシステム）](https://rssystem.go.jp/) の公開APIから直近3年度の全予算事業（各約6,400件）を取得し、キーワード照合で関連事業を機械抽出（年度切り替えタブ・前年比つき）
+- **関係予算（令和8年度＝FY2026）**: 内閣官房「外国人の受入れ・秩序ある共生のための総合的対応策」の公式PDF/Excelから、政府が束ねた関係予算の当初予算を3カ年（令和6→7→8）で取得。PDFは施策行の合算が公式「合計」に一致することを検算
 - **ならべて比較**: 条件・対象・出典つきの制度比較。事業予算はRSデータから自動解決、一人あたり金額は出典ページに証跡文字列が現存することを毎回照合
 - **統計の裏付け**: e-Stat 統計ダッシュボードAPI（キー不要）から在留外国人数・総人口の全国時系列を自動取得
 - **言説チェッカー**: ネットで流布する言説を、go.jp / lg.jp の一次ソースのみで検証
-- **X共有**: 全カードにXポストボタン。文面は事実ベース固定（制度名・金額・注記・一次ソースURL）
-- **運用コスト**: 0円（GitHub Actions 週次cron + GitHub Pages 静的配信、外部依存ライブラリなし）
+- **X共有**: 全カードにXポストボタン（`x.com/intent/post`）。文面は事実ベース固定（制度名・金額・注記・一次ソースURL）
+- **運用コスト**: 0円（GitHub Actions 週次cron + GitHub Pages 静的配信）。PDF/Excel解析のみ無料OSS（pdfplumber/pandas/xlrd）を使用
 
 ## 運営原則（コードで強制）
 
@@ -24,6 +25,8 @@ scraper/
   comparisons_def.py  ならべて比較の定義（コードとして管理）
   build_comparisons.py 比較の組み立て・証跡照合 → docs/data/comparisons.json
   stats.py            e-Stat統計ダッシュボードAPIアダプタ → docs/data/stats.json
+  taiousaku.py        総合的対応策 関係予算アダプタ（FY2026・PDF/Excel）→ docs/data/policy_budget.json
+  requirements.txt    taiousaku.py用の無料OSS依存（pdfplumber/pandas/xlrd）
   claims_def.py       言説チェッカーの定義（コードとして管理）
   build_claims.py     言説の出典検証 → docs/data/claims.json
   validate.py         品質ゲート（一次ソース・必須項目をCIで強制）

@@ -1,0 +1,6 @@
+# 総合的対応策 関係予算アダプタ（taiousaku.py）のPDF/Excel解析用。
+# 全て無料・OSS。実行はGitHub Actions無料枠内で完結し、ランニングコストは0円。
+# 他のアダプタ（rs_system / stats / claims）は標準ライブラリのみで動作する。
+pdfplumber>=0.11
+pandas>=2.0
+xlrd>=2.0

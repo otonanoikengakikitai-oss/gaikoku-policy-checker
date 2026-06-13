@@ -108,19 +108,44 @@ def check_stats(errors):
     return len(data["indicators"])
 
 
+def check_policy_budget(errors):
+    path = DATA_DIR / "policy_budget.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not (data.get("scope_note") or "").strip():
+        errors.append("policy_budget: scope_note（集計範囲拡大の注記）は必須")
+    series = data.get("initial_budget_series") or []
+    if len(series) < 2:
+        errors.append("policy_budget: 当初予算系列が2年度未満")
+    for s in series:
+        if not isinstance(s.get("amount_yen"), int) or s["amount_yen"] < 0:
+            errors.append(f"policy_budget/{s.get('year')}: amount_yen 不正")
+        if not host_allowed((s.get("source") or {}).get("url", "")):
+            errors.append(f"policy_budget/{s.get('year')}: 出典が一次ソースでない")
+    fy = data.get("fy2026") or {}
+    if not fy.get("reconciled"):
+        errors.append("policy_budget/fy2026: 施策合算と公式合計の検算が未通過")
+    for it in fy.get("top_items", []):
+        if not isinstance(it.get("amount_yen"), int):
+            errors.append("policy_budget/fy2026: top_item金額が不正")
+    if not host_allowed((data.get("primary_source") or {}).get("url", "")):
+        errors.append("policy_budget: primary_source が一次ソースでない")
+    return len(series)
+
+
 def run():
     errors = []
     n_projects = check_projects(errors)
     n_claims = check_claims(errors)
     n_comparisons = check_comparisons(errors)
     n_stats = check_stats(errors)
+    n_budget = check_policy_budget(errors)
     if errors:
         print("品質ゲート違反:", file=sys.stderr)
         for e in errors:
             print(f"  NG {e}", file=sys.stderr)
         raise SystemExit(1)
     print(
-        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標、全出典 go.jp/lg.jp",
+        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度、全出典 go.jp/lg.jp",
         file=sys.stderr,
     )
 

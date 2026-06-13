@@ -15,7 +15,10 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: 収集 → 言説検証 → 品質ゲート
+      - name: 依存（PDF/Excel解析用・無料OSS）をインストール
+        working-directory: scraper
+        run: pip install -r requirements.txt
+      - name: 収集 → 比較 → 統計 → 関係予算 → 言説検証 → 品質ゲート
         working-directory: scraper
         run: python run.py
       - name: 変更があればコミット
