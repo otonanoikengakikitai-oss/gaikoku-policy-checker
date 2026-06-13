@@ -46,8 +46,11 @@ def http_get_json(url, *, retries=3, delay=1.0, timeout=60, cache_key=None, use_
             return json.loads(p.read_text(encoding="utf-8"))
     last_err = None
     for attempt in range(retries):
+        # CloudFront等がbot UAのレスポンスをHTMLで返す（=JSONパース失敗）ことがあるため、
+        # 試行ごとにbot UA→ブラウザUAへ切り替えてフォールバックする
+        ua = UA if attempt == 0 else BROWSER_UA
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+            req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "application/json"})
             with urllib.request.urlopen(req, timeout=timeout, context=_CTX) as r:
                 data = json.loads(r.read().decode("utf-8"))
             if cache_key:
