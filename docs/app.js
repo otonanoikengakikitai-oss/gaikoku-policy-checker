@@ -472,7 +472,20 @@ function renderTokyo(tk, pb) {
     </div>
   </div>
   <p class="pair-note budget-caveat"><i>!</i> ${esc(tk.tourism_note)}</p>
+  ${tk.external_report ? tokyoReportHtml(tk.external_report) : ""}
   <p class="budget-basis">${esc(tk.basis_note)} 出典: <a href="${esc(tk.source.url)}" target="_blank" rel="noopener">${esc(tk.source.label)} ↗</a></p>`;
+}
+
+function tokyoReportHtml(er) {
+  return `<div class="report-note">
+    <div class="rn-head"><i class="rn-i">!</i> 外部報道（NHK）の「8.1億円」との定義の違い</div>
+    <div class="rn-bars">
+      <div class="rn-bar"><span class="rn-label">NHK報道（自治体アンケート）</span><span class="rn-val">${fmtYen(er.reported_yen)}</span></div>
+      <div class="rn-bar"><span class="rn-label">当アプリ（主要事業PDF・4重検証済みの外国人材）</span><span class="rn-val ours">${fmtYen(er.ours_yen)}</span></div>
+    </div>
+    <p class="rn-body">${esc(er.explanation)}</p>
+    <p class="rn-src">報道: ${esc(er.report_label)}（テレビ報道のためURLなし）／検証根拠: <a href="${esc(TOKYO.source.url)}" target="_blank" rel="noopener">${esc(TOKYO.source.label)} ↗</a></p>
+  </div>`;
 }
 
 function tokyoContrastHtml(tk) {
