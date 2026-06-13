@@ -42,12 +42,13 @@
     <div class="controls">
       <input id="q" type="search" placeholder="事業名・概要を検索" aria-label="検索">
       <select id="ministry" aria-label="府省庁で絞り込み"></select>
-      <select id="sort" aria-label="並び替え">
-        <option value="budget">予算額順</option>
-        <option value="deltaPct">前年比 増加率順</option>
-        <option value="deltaAbs">前年比 増加額順</option>
-      </select>
       <label class="toggle"><input type="checkbox" id="high-only" checked> 事業名にキーワードを含むもののみ</label>
+    </div>
+    <div class="sort-seg" id="sort" role="group" aria-label="並び替え">
+      <span class="sort-lbl">並び替え</span>
+      <button type="button" class="sort-btn on" data-sort="budget">予算額が大きい順</button>
+      <button type="button" class="sort-btn" data-sort="deltaPct">前年比 増加率順</button>
+      <button type="button" class="sort-btn" data-sort="deltaAbs">前年比 増加額順</button>
     </div>
     <div class="chips" id="kw-chips" role="group" aria-label="キーワードで絞り込み"></div>
     <div id="list"></div>
@@ -62,6 +63,19 @@
   <section aria-labelledby="claims-h">
     <h2 id="claims-h">言説チェッカー <span class="h-sub">ネットの言説 × 一次ソース</span></h2>
     <div id="claims"></div>
+  </section>
+
+  <section class="cta" aria-labelledby="cta-h">
+    <div class="cta-inner">
+      <div class="cta-text">
+        <h2 id="cta-h">制度や予算に意見がありますか？</h2>
+        <p>国の政策・予算には、誰でも意見を提出できる公式の意見公募（パブリックコメント）があります。このサイトの一次ソースで事実を確認したうえで、根拠とともに声を届けましょう。賛成・反対のどちらでも、建設的な意見が政策づくりに活かされます。</p>
+      </div>
+      <a class="cta-btn" href="https://public-comment.e-gov.go.jp/" target="_blank" rel="noopener">
+        <i class="cta-ic" aria-hidden="true">✉</i> 国に意見を送る
+        <span class="cta-sub">e-Gov パブリックコメント ↗</span>
+      </a>
+    </div>
   </section>
 
   <footer>

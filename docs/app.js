@@ -85,9 +85,13 @@ function projDelta(p) {
 
 function deltaBadge(d, extraClass = "") {
   if (!d || Math.round(d.pct) === 0) return "";
-  const cls = d.pct > 0 ? "up" : "down";
-  const sign = d.pct > 0 ? "+" : "";
-  return `<span class="delta ${cls} ${extraClass}" title="前年度当初予算比">${sign}${d.pct.toFixed(d.pct >= 100 ? 0 : 1)}%</span>`;
+  const up = d.pct > 0;
+  const cls = up ? "up" : "down";
+  const surge = up && d.pct >= 50 ? " surge" : ""; // 大幅な膨張は警告色＋グローで強調
+  const arrow = up ? "▲" : "▼";
+  const sign = up ? "+" : "";
+  const num = Math.abs(d.pct) >= 100 ? Math.round(d.pct) : d.pct.toFixed(1);
+  return `<span class="delta ${cls}${surge} ${extraClass}" title="前年度当初予算比"><span class="delta-arr" aria-hidden="true">${arrow}</span>${sign}${num}%</span>`;
 }
 
 function filtered() {
@@ -142,19 +146,47 @@ function renderKpi() {
   const d = sumDelta(state.projects, m.fiscal_year);
   document.getElementById("kpi").innerHTML = `
     <div class="kpi"><div class="label">関連事業数（自動抽出）</div>
-      <div class="value">${high.length}<small> 件</small></div>
+      <div class="value"><span data-count="${high.length}" data-fmt="int">${high.length}</span><small> 件</small></div>
       <div class="sub">概要・目的まで含めると ${state.projects.length} 件 / 走査 ${m.total_projects_scanned.toLocaleString("ja-JP")} 事業</div></div>
     <div class="kpi"><div class="label">当初予算 合算 ※事業全体額</div>
-      <div class="value">${fmtYen(sumHigh)} ${d ? deltaBadge(d, "big") : ""}</div>
+      <div class="value"><span data-count="${sumHigh}" data-fmt="yen">${fmtYen(sumHigh)}</span> ${d ? deltaBadge(d, "big") : ""}</div>
       <div class="sub">FY${m.fiscal_year}・事業名ヒット分の単純合算${d ? `。前年比は同一事業ベース（${fmtYen(d.abs)}）` : ""}</div></div>
     <div class="kpi"><div class="label">所管府省庁</div>
-      <div class="value">${ministries}<small> 機関</small></div></div>
+      <div class="value"><span data-count="${ministries}" data-fmt="int">${ministries}</span><small> 機関</small></div></div>
     <div class="kpi"><div class="label">データ年度</div>
       <div class="value">FY${m.fiscal_year}</div>
       <div class="sub">出典: ${esc(m.source.name)}</div></div>`;
+  observeReveals(document.getElementById("kpi"));
+}
+
+let POLICY = null;
+let minSort = "amount";
+
+function ministryRowsHtml() {
+  const list = POLICY.fy2026.by_ministry.filter((m) => m.amount_yen > 0).slice();
+  if (minSort === "name") list.sort((a, b) => a.ministry.localeCompare(b.ministry, "ja"));
+  else list.sort((a, b) => b.amount_yen - a.amount_yen);
+  const top = list.slice(0, 6);
+  const minMax = Math.max(...top.map((m) => m.amount_yen), 1);
+  return top
+    .map(
+      (m) => `<div class="min-row">
+      <span class="min-name">${esc(m.ministry)}</span>
+      <span class="min-track"><span class="min-fill" style="width:${Math.max((m.amount_yen / minMax) * 100, 2)}%"></span></span>
+      <span class="min-val">${fmtYen(m.amount_yen)}</span>
+    </div>`
+    )
+    .join("");
+}
+
+function renderMinistryList() {
+  const el = document.getElementById("budget-min-list");
+  if (el) el.innerHTML = ministryRowsHtml();
+  document.querySelectorAll("#budget-min-sort .sort-btn").forEach((b) => b.classList.toggle("on", b.dataset.min === minSort));
 }
 
 function renderPolicyBudget(pb) {
+  POLICY = pb;
   const series = pb.initial_budget_series;
   const max = Math.max(...series.map((s) => s.amount_yen), 1);
   const cur = series.find((s) => s.year === 2026) || series[series.length - 1];
@@ -170,18 +202,7 @@ function renderPolicyBudget(pb) {
     </div>`;
     })
     .join("");
-  const minMax = Math.max(...pb.fy2026.by_ministry.map((m) => m.amount_yen), 1);
-  const mins = pb.fy2026.by_ministry
-    .filter((m) => m.amount_yen > 0)
-    .slice(0, 6)
-    .map(
-      (m) => `<div class="min-row">
-      <span class="min-name">${esc(m.ministry)}</span>
-      <span class="min-track"><span class="min-fill" style="width:${Math.max((m.amount_yen / minMax) * 100, 2)}%"></span></span>
-      <span class="min-val">${fmtYen(m.amount_yen)}</span>
-    </div>`
-    )
-    .join("");
+  const mins = ministryRowsHtml();
   const items = pb.fy2026.top_items
     .slice(0, 5)
     .map(
@@ -192,8 +213,8 @@ function renderPolicyBudget(pb) {
   <div class="budget-hero">
     <div class="budget-hero-main">
       <div class="budget-hero-label">令和8年度 当初予算（総合的対応策 関係予算 合計）</div>
-      <div class="budget-hero-num">${fmtYen(cur.amount_yen)}</div>
-      <div class="budget-hero-delta">前年度比 <span class="delta up big">${y.delta_yen >= 0 ? "+" : ""}${fmtYen(y.delta_yen)}（${y.pct >= 0 ? "+" : ""}${y.pct}%）</span></div>
+      <div class="budget-hero-num" data-count="${cur.amount_yen}" data-fmt="yen">${fmtYen(cur.amount_yen)}</div>
+      <div class="budget-hero-delta">前年度比 <span class="delta up surge big"><span class="delta-arr" aria-hidden="true">▲</span>${y.delta_yen >= 0 ? "+" : ""}${fmtYen(y.delta_yen)}（${y.pct >= 0 ? "+" : ""}${y.pct}%）</span></div>
       <div class="budget-hero-supp">うち令和7年度補正予算 関連: ${fmtYen(pb.fy2026.supplementary_r7_yen)}</div>
     </div>
     ${shareBtn(t.text, t.url, "令和8年度 外国人政策 関係予算")}
@@ -202,8 +223,13 @@ function renderPolicyBudget(pb) {
   <p class="pair-note budget-caveat"><i>!</i> ${esc(pb.scope_note)}</p>
   <div class="budget-cols">
     <div class="budget-col">
-      <div class="budget-col-h">FY2026 主管省庁別（当初予算）</div>
-      ${mins}
+      <div class="budget-col-h">FY2026 主管省庁別（当初予算）
+        <span class="sort-seg mini" id="budget-min-sort" role="group" aria-label="省庁の並び替え">
+          <button type="button" class="sort-btn on" data-min="amount">予算順</button>
+          <button type="button" class="sort-btn" data-min="name">省庁名順</button>
+        </span>
+      </div>
+      <div id="budget-min-list">${mins}</div>
       <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。</div>
     </div>
     <div class="budget-col">
@@ -324,6 +350,7 @@ function renderList() {
   more.hidden = rows.length <= state.shown;
   more.textContent = `さらに表示（残り ${Math.max(rows.length - state.shown, 0)} 件）`;
   applyGlossary(document.getElementById("list"));
+  observeReveals(document.getElementById("list"));
 }
 
 function renderClaims(claimsData) {
@@ -482,6 +509,61 @@ function applyGlossary(root, skipSelector) {
   }
 }
 
+/* ===== アニメーション（カウントアップ＋スクロールリビール） ===== */
+const prefersReduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function fmtBy(kind, n) {
+  if (kind === "yen") return fmtYen(Math.round(n));
+  return Math.round(n).toLocaleString("ja-JP");
+}
+
+function animateCount(el) {
+  if (el.dataset.counted) return;
+  el.dataset.counted = "1";
+  const to = Number(el.dataset.count);
+  const kind = el.dataset.fmt || "int";
+  if (prefersReduced || !isFinite(to)) {
+    el.textContent = fmtBy(kind, to);
+    return;
+  }
+  const dur = 1100;
+  const start = performance.now();
+  const tick = (now) => {
+    const p = Math.min((now - start) / dur, 1);
+    const eased = 1 - Math.pow(1 - p, 3);
+    el.textContent = fmtBy(kind, to * eased);
+    if (p < 1) requestAnimationFrame(tick);
+    else el.textContent = fmtBy(kind, to);
+  };
+  requestAnimationFrame(tick);
+}
+
+let revealObserver = null;
+function observeReveals(root) {
+  if (!("IntersectionObserver" in window)) return;
+  if (!revealObserver) {
+    revealObserver = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (!e.isIntersecting) continue;
+          e.target.classList.add("in");
+          if (e.target.matches("[data-count]")) animateCount(e.target);
+          e.target.querySelectorAll("[data-count]").forEach(animateCount);
+          revealObserver.unobserve(e.target);
+        }
+      },
+      { threshold: 0.12, rootMargin: "0px 0px -36px 0px" }
+    );
+  }
+  const sel = ".kpi, .item, .pair, .claim-card, .stat-card, .budget-hero, .budget-trend, .budget-cols, .budget-basis, .cta-inner";
+  (root || document).querySelectorAll(sel).forEach((el) => {
+    if (!el.classList.contains("reveal")) {
+      el.classList.add("reveal");
+      revealObserver.observe(el);
+    }
+  });
+}
+
 function bind() {
   document.getElementById("year-tabs").addEventListener("click", (e) => {
     const btn = e.target.closest("[data-year]");
@@ -497,10 +579,19 @@ function bind() {
     state.shown = 20;
     renderList();
   });
-  document.getElementById("sort").addEventListener("change", (e) => {
-    state.sort = e.target.value;
+  document.getElementById("sort").addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-sort]");
+    if (!btn) return;
+    state.sort = btn.dataset.sort;
+    document.querySelectorAll("#sort .sort-btn").forEach((b) => b.classList.toggle("on", b === btn));
     state.shown = 20;
     renderList();
+  });
+  document.getElementById("budget-min-sort").addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-min]");
+    if (!btn) return;
+    minSort = btn.dataset.min;
+    renderMinistryList();
   });
   document.getElementById("high-only").addEventListener("change", (e) => {
     state.highOnly = e.target.checked;
@@ -551,8 +642,10 @@ async function main() {
   setYear(yearsMeta.latest);
   // #list は renderList 内で個別にツールチップ化済み。残りの静的・予算・比較・統計・言説領域を一括処理。
   applyGlossary(document.querySelector("main"), "#list");
+  observeReveals(document);
 }
 
+document.documentElement.classList.add("js");
 main().catch((e) => {
   document.getElementById("list").innerHTML = `<p class="muted">データの読み込みに失敗しました: ${esc(e.message)}</p>`;
 });
