@@ -84,12 +84,18 @@ def parse_fy2026_pdf(pdf_path):
 
     official = None  # (r7補正, r8当初) 千円
     items = []
+    current_title = ""  # 直近の階層見出し（施策名に相当）
     for r in rows:
         if len(r) < 6:
             continue
-        c0 = (r[0] or "").strip()
+        c0 = re.sub(r"\s+", "", (r[0] or "").strip())
+        c1 = (r[1] or "").strip()
         if c0 == "合計":
             official = (_amt(r[2]), _amt(r[3]))
+            continue
+        # 見出し行（施策番号でなく金額も無い行）は施策名として保持する
+        if c0 and not c0.isdigit() and not c1 and _amt(r[2]) is None and _amt(r[3]) is None:
+            current_title = re.sub(r"\s+", " ", (r[0] or "").replace("\n", "")).strip()
             continue
         v8 = _amt(r[3])
         if v8 is None:
@@ -98,6 +104,7 @@ def parse_fy2026_pdf(pdf_path):
             {
                 "amount_yen": v8 * 1000,
                 "ministry": _lead_ministry(r[5]),
+                "title": current_title,
                 "desc": re.sub(r"\s+", " ", (r[1] or "").replace("\n", " ")).strip(),
             }
         )

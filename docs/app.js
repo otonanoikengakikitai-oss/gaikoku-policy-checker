@@ -237,12 +237,22 @@ function renderPolicyBudget(pb) {
     .join("");
   const mins = ministryRowsHtml();
   const items = pb.fy2026.top_items
-    .map(
-      (it) =>
-        `<li><div class="ti-head"><span class="ti-amt">${fmtYen(it.amount_yen)}</span><span class="tag">${esc(it.ministry)}</span></div>${exactTag(it.amount_yen)}<div class="ti-desc">${esc(it.desc)}</div></li>`
-    )
+    .map((it) => {
+      const zero = it.amount_yen === 0;
+      return `<li>
+        <div class="ti-head">
+          <span class="ti-amt${zero ? " zero" : ""}">${fmtYen(it.amount_yen)}</span>
+          <span class="tag">${esc(it.ministry)}</span>
+          ${zero ? `<span class="zero-note">既存の通常予算内での対応、または他事業の内数</span>` : ""}
+        </div>
+        ${zero ? "" : exactTag(it.amount_yen)}
+        ${it.title ? `<div class="ti-title">${esc(it.title)}</div>` : ""}
+        <div class="ti-desc">${esc(it.desc)}</div>
+      </li>`;
+    })
     .join("");
-  const itemNote = `金額順の全 ${pb.fy2026.top_items.length} 施策（説明が記載された施策）。施策の説明文は省略せず全文表示。全 ${pb.fy2026.item_count} 施策と内訳は出典PDFに記載。`;
+  const zeroCount = pb.fy2026.top_items.filter((it) => it.amount_yen === 0).length;
+  const itemNote = `金額順の全 ${pb.fy2026.top_items.length} 施策（説明が記載された施策）。施策名は一次ソースの階層見出し、説明文は省略せず全文表示。${zeroCount ? `うち「0円」${zeroCount} 件は当該施策に新規のR8当初予算が無い（既存予算内での対応または他事業の内数）ことを示す。` : ""}全 ${pb.fy2026.item_count} 施策と内訳は出典PDFに記載。`;
   document.getElementById("policy-budget").innerHTML = `
   <div class="budget-hero">
     <div class="budget-hero-main">
