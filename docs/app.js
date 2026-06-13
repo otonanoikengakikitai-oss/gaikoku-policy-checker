@@ -460,6 +460,7 @@ function renderTokyo(tk, pb) {
     </div>
     ${shareBtn(`【東京都 令和8年度 外国人政策予算】多文化共生・外国人材の主要事業で計${fmtYen(tk.total_yen)}（生活文化局・産業労働局）。出典は東京都財務局。`, tk.source.url, "東京都 外国人政策予算")}
   </div>
+  ${tk.tourism ? tokyoContrastHtml(tk) : ""}
   <div class="budget-cols">
     <div class="budget-col">
       <div class="budget-col-h">局別内訳（令和8年度・主要事業）</div>
@@ -472,6 +473,31 @@ function renderTokyo(tk, pb) {
   </div>
   <p class="pair-note budget-caveat"><i>!</i> ${esc(tk.tourism_note)}</p>
   <p class="budget-basis">${esc(tk.basis_note)} 出典: <a href="${esc(tk.source.url)}" target="_blank" rel="noopener">${esc(tk.source.label)} ↗</a></p>`;
+}
+
+function tokyoContrastHtml(tk) {
+  const tour = tk.tourism;
+  const fp = tk.total_yen;
+  const max = Math.max(tour.amount_yen, fp, 1);
+  const t = tokyoTweet({ name: "観光産業の振興", amount_yen: tour.amount_yen, bureau: tour.bureau, delta_yen: tour.delta_yen });
+  const subs = (tour.sub_items || [])
+    .map((s) => `<span class="bd-leg"><span class="bd-dot" style="background:#fbbf24"></span>${esc(s.name)} ${fmtYen(s.amount_yen)}</span>`)
+    .join("");
+  const row = (label, amt, color, exact) => `
+    <div class="cbar-row">
+      <div class="cbar-label">${esc(label)}</div>
+      <div class="cbar-track"><div class="cbar-fill" style="width:${Math.max((amt / max) * 100, 0.8)}%;background:${color}"></div></div>
+      <div class="cbar-val" style="color:${color}">${fmtYen(amt)}</div>
+    </div>
+    <div class="cbar-exact">${exact}</div>`;
+  return `<div class="breakdown tokyo-contrast">
+    <div class="bd-head">本当の予算の正体 — 東京都は「外国人政策」より「観光・インフラ」が圧倒的に巨大</div>
+    <div class="bd-lead"><span class="bd-lead-pct">${tk.contrast_ratio}倍</span><span class="bd-lead-txt">観光産業の振興（<b>${fmtYen(tour.amount_yen)}</b>）は、外国人政策（多文化共生・外国人材 ${fmtYen(fp)}）の約 ${tk.contrast_ratio} 倍。</span></div>
+    ${row("観光産業の振興", tour.amount_yen, "#fbbf24", exactTag(tour.amount_yen))}
+    ${row("外国人政策（多文化共生・外国人材）", fp, "#7aa7ff", exactTag(fp))}
+    <div class="bd-legend">${subs}</div>
+    <div class="bd-note">「外国人優遇でばらまき」という通説に対し、東京都の金額規模ではむしろ観光・インフラ予算が桁違いに大きい（観光は前年比 ${tour.delta_yen >= 0 ? "+" : ""}${fmtYen(tour.delta_yen)}）。${shareBtn(t.text, t.url, "東京都 観光予算")}</div>
+  </div>`;
 }
 
 let govMode = "national";

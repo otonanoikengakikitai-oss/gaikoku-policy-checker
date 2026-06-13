@@ -19,7 +19,7 @@ from urllib.parse import urlparse
 import pdfplumber
 
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX
-from tokyo_def import BASIS_NOTE, ITEMS, SOURCE, TOURISM_NOTE
+from tokyo_def import BASIS_NOTE, ITEMS, SOURCE, TOURISM, TOURISM_NOTE
 
 OUT = Path(__file__).resolve().parent.parent / "docs" / "data" / "tokyo.json"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
@@ -54,42 +54,61 @@ def run():
         print(f"  エラー: 東京都の出典が一次ソースでない: {SOURCE['url']}", file=sys.stderr)
         raise SystemExit(1)
     text = fetch_pdf_text(SOURCE["url"])
-    nospace = re.sub(r"\s+", "", text)
+    nospace = re.sub(r"\s+", "", text)  # 事業名の証跡照合用（空白のみ除去）
+    digits = re.sub(r"[\s,，]+", "", text)  # 金額連結の証跡照合用（空白＋カンマ除去）
+
+    def verify(rec):
+        """事業名証跡・増減チェックサム・金額連結証跡の3点を検証し、崩れていれば理由を返す。"""
+        a, p, d = rec["amount_man"], rec["prev_man"], rec["delta_man"]
+        if rec["name_evidence"].replace(" ", "") not in nospace:
+            return f"事業名の証跡なし（{rec['name_evidence']}）"
+        if a - p != d:
+            return f"増減チェックサム不一致（{a}-{p}≠{d}）"
+        if f"{a}{p}" not in digits:
+            return f"金額連結の証跡なし（{a}{p}）"
+        return None
+
+    def to_yen(rec):
+        return {
+            "name": rec["name"],
+            "amount_yen": rec["amount_man"] * 1_000_000,
+            "prev_yen": rec["prev_man"] * 1_000_000,
+            "delta_yen": rec["delta_man"] * 1_000_000,
+        }
 
     published = []
     for it in ITEMS:
-        amount_man, prev_man, delta_man = it["amount_man"], it["prev_man"], it["delta_man"]
-        why = None
-        if it["name_evidence"].replace(" ", "") not in nospace:
-            why = f"事業名の証跡なし（{it['name_evidence']}）"
-        elif amount_man - prev_man != delta_man:
-            why = f"増減チェックサム不一致（{amount_man}-{prev_man}≠{delta_man}）"
-        elif f"{amount_man}{prev_man}" not in nospace:
-            why = f"金額連結の証跡なし（{amount_man}{prev_man}）"
+        why = verify(it)
         if why:
             print(f"  警告: 東京都『{it['name']}』を非公開: {why}", file=sys.stderr)
             continue
-        published.append(
-            {
-                "name": it["name"],
-                "bureau": it["bureau"],
-                "category": it["category"],
-                "amount_yen": amount_man * 1_000_000,
-                "prev_yen": prev_man * 1_000_000,
-                "delta_yen": delta_man * 1_000_000,
-                "sub_programs": it["sub_programs"],
-            }
-        )
+        published.append({**to_yen(it), "bureau": it["bureau"], "category": it["category"], "sub_programs": it["sub_programs"]})
 
     if not published:
         print("  エラー: 東京都の公開可能な事業が0件（検証すべて失敗）", file=sys.stderr)
         raise SystemExit(1)
+
+    # 観光・インバウンド予算（対比用）。headlineが検証を通った場合のみ採用。
+    tourism = None
+    why = verify(TOURISM)
+    if why:
+        print(f"  警告: 東京都『観光産業の振興』を非公開: {why}", file=sys.stderr)
+    else:
+        subs = []
+        for s in TOURISM.get("sub_items", []):
+            sw = verify(s)
+            if sw:
+                print(f"  警告: 観光内訳『{s['name']}』を非公開: {sw}", file=sys.stderr)
+                continue
+            subs.append(to_yen(s))
+        tourism = {**to_yen(TOURISM), "bureau": TOURISM["bureau"], "sub_items": subs}
 
     published.sort(key=lambda x: -x["amount_yen"])
     total = sum(p["amount_yen"] for p in published)
     by_bureau = {}
     for p in published:
         by_bureau[p["bureau"]] = by_bureau.get(p["bureau"], 0) + p["amount_yen"]
+    contrast_ratio = round(tourism["amount_yen"] / total, 1) if tourism and total else None
     out = {
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "government": "東京都",
@@ -100,10 +119,13 @@ def run():
         "total_yen": total,
         "by_bureau": [{"bureau": b, "amount_yen": v} for b, v in sorted(by_bureau.items(), key=lambda x: -x[1])],
         "items": published,
+        "tourism": tourism,
+        "contrast_ratio": contrast_ratio,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"東京都 外国人政策予算 {len(published)} 事業・計 {total/1e8:,.1f}億円（一次ソース4重検証）→ {OUT}", file=sys.stderr)
+    extra = f" / 観光 {tourism['amount_yen']/1e8:,.1f}億円（{contrast_ratio}倍）" if tourism else ""
+    print(f"東京都 外国人政策予算 {len(published)} 事業・計 {total/1e8:,.1f}億円{extra}（一次ソース4重検証）→ {OUT}", file=sys.stderr)
     return out
 
 
