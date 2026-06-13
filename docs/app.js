@@ -323,6 +323,7 @@ function renderList() {
   const more = document.getElementById("more");
   more.hidden = rows.length <= state.shown;
   more.textContent = `さらに表示（残り ${Math.max(rows.length - state.shown, 0)} 件）`;
+  applyGlossary(document.getElementById("list"));
 }
 
 function renderClaims(claimsData) {
@@ -355,6 +356,130 @@ function setYear(y) {
   renderKpi();
   renderControls();
   renderList();
+}
+
+/* ===== 用語解説ツールチップ ===== */
+let GLOSSARY = [];
+let glossPop = null;
+let glossPinned = null;
+
+function ensureGlossPop() {
+  if (glossPop) return glossPop;
+  glossPop = document.createElement("div");
+  glossPop.id = "gloss-pop";
+  glossPop.setAttribute("role", "tooltip");
+  glossPop.hidden = true;
+  document.body.appendChild(glossPop);
+  document.addEventListener("click", (e) => {
+    if (glossPinned && !e.target.closest(".gloss") && !e.target.closest("#gloss-pop")) hideGloss(true);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") hideGloss(true);
+  });
+  window.addEventListener("resize", () => hideGloss(true));
+  return glossPop;
+}
+
+function showGloss(el) {
+  const pop = ensureGlossPop();
+  const g = GLOSSARY.find((x) => x.term === el.dataset.term);
+  if (!g) return;
+  pop.innerHTML = `<span class="gp-term">${esc(g.term)}${g.reading && g.reading !== g.term ? `<span class="gp-read">${esc(g.reading)}</span>` : ""}</span>${esc(g.def)}`;
+  pop.hidden = false;
+  const r = el.getBoundingClientRect();
+  const pw = Math.min(pop.offsetWidth, window.innerWidth - 16);
+  pop.style.width = pw + "px";
+  let left = r.left + r.width / 2 - pw / 2;
+  left = Math.max(8, Math.min(left, window.innerWidth - pw - 8));
+  let top = r.bottom + 8;
+  if (top + pop.offsetHeight > window.innerHeight - 8) top = r.top - pop.offsetHeight - 8;
+  pop.style.left = left + "px";
+  pop.style.top = Math.max(8, top) + "px";
+}
+
+function hideGloss(force) {
+  if (!glossPop) return;
+  if (glossPinned && !force) return;
+  glossPop.hidden = true;
+  if (force && glossPinned) {
+    glossPinned.setAttribute("aria-expanded", "false");
+    glossPinned = null;
+  }
+}
+
+function makeGloss(term) {
+  const span = document.createElement("span");
+  span.className = "gloss";
+  span.dataset.term = term;
+  span.tabIndex = 0;
+  span.setAttribute("role", "button");
+  span.setAttribute("aria-label", `${term} の用語解説`);
+  span.setAttribute("aria-expanded", "false");
+  span.append(document.createTextNode(term));
+  const q = document.createElement("span");
+  q.className = "gloss-q";
+  q.setAttribute("aria-hidden", "true");
+  q.textContent = "?";
+  span.appendChild(q);
+  span.addEventListener("mouseenter", () => {
+    if (!glossPinned) showGloss(span);
+  });
+  span.addEventListener("mouseleave", () => hideGloss(false));
+  span.addEventListener("focus", () => showGloss(span));
+  span.addEventListener("blur", () => hideGloss(false));
+  const toggle = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    if (glossPinned === span) {
+      hideGloss(true);
+    } else {
+      if (glossPinned) glossPinned.setAttribute("aria-expanded", "false");
+      glossPinned = span;
+      span.setAttribute("aria-expanded", "true");
+      showGloss(span);
+    }
+  };
+  span.addEventListener("click", toggle);
+  span.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" || e.key === " ") toggle(e);
+  });
+  return span;
+}
+
+function applyGlossary(root, skipSelector) {
+  if (!root || !GLOSSARY.length) return;
+  const skip = skipSelector ? [...root.querySelectorAll(skipSelector)] : [];
+  const terms = GLOSSARY.map((g) => g.term).sort((a, b) => b.length - a.length);
+  const linked = new Set();
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+    acceptNode(n) {
+      if (!n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+      let p = n.parentElement;
+      while (p && p !== root) {
+        const t = p.tagName;
+        if (t === "A" || t === "BUTTON" || t === "ABBR" || t === "SCRIPT" || t === "STYLE" || p.classList.contains("gloss"))
+          return NodeFilter.FILTER_REJECT;
+        p = p.parentElement;
+      }
+      if (skip.some((s) => s.contains(n))) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    },
+  });
+  const nodes = [];
+  let cur;
+  while ((cur = walker.nextNode())) nodes.push(cur);
+  for (const node of nodes) {
+    for (const term of terms) {
+      if (linked.has(term)) continue;
+      const idx = node.nodeValue.indexOf(term);
+      if (idx < 0) continue;
+      const rest = node.splitText(idx);
+      rest.splitText(term.length);
+      rest.parentNode.replaceChild(makeGloss(term), rest);
+      linked.add(term);
+      break;
+    }
+  }
 }
 
 function bind() {
@@ -398,13 +523,15 @@ function bind() {
 
 async function main() {
   const getJson = (path) => fetch(path).then((r) => r.json());
-  const [yearsMeta, claimsData, compData, statsData, policyBudget] = await Promise.all([
+  const [yearsMeta, claimsData, compData, statsData, policyBudget, glossary] = await Promise.all([
     getJson("data/years.json"),
     getJson("data/claims.json"),
     getJson("data/comparisons.json"),
     getJson("data/stats.json"),
     getJson("data/policy_budget.json"),
+    getJson("data/glossary.json"),
   ]);
+  GLOSSARY = glossary.terms || [];
   state.years = yearsMeta.years;
   await Promise.all(
     state.years.map((y) => getJson(`data/projects_${y}.json`).then((d) => (state.yearData[y] = d)))
@@ -422,6 +549,8 @@ async function main() {
   renderClaims(claimsData);
   bind();
   setYear(yearsMeta.latest);
+  // #list は renderList 内で個別にツールチップ化済み。残りの静的・予算・比較・統計・言説領域を一括処理。
+  applyGlossary(document.querySelector("main"), "#list");
 }
 
 main().catch((e) => {

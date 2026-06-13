@@ -132,6 +132,22 @@ def check_policy_budget(errors):
     return len(series)
 
 
+REQUIRED_TERMS = ["行政事業レビュー", "当初予算", "補正予算", "交付金", "総合的対応策"]
+
+
+def check_glossary(errors):
+    path = DATA_DIR / "glossary.json"
+    data = json.loads(path.read_text(encoding="utf-8"))
+    terms = {t.get("term"): t for t in data.get("terms", [])}
+    for req in REQUIRED_TERMS:
+        if req not in terms:
+            errors.append(f"glossary: 必須用語『{req}』が未収録")
+    for term, t in terms.items():
+        if not (t.get("def") or "").strip():
+            errors.append(f"glossary/{term}: 解説文が空")
+    return len(terms)
+
+
 def run():
     errors = []
     n_projects = check_projects(errors)
@@ -139,13 +155,14 @@ def run():
     n_comparisons = check_comparisons(errors)
     n_stats = check_stats(errors)
     n_budget = check_policy_budget(errors)
+    n_glossary = check_glossary(errors)
     if errors:
         print("品質ゲート違反:", file=sys.stderr)
         for e in errors:
             print(f"  NG {e}", file=sys.stderr)
         raise SystemExit(1)
     print(
-        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度、全出典 go.jp/lg.jp",
+        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語、全出典 go.jp/lg.jp",
         file=sys.stderr,
     )
 
