@@ -180,6 +180,28 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .budget-bar-val { flex: 0 0 auto; font-size: 14px; font-weight: 700; white-space: nowrap; min-width: 96px; text-align: right; }
 .budget-bar-val.hot { color: var(--accent); font-weight: 900; }
 .src-mini { font-size: 10.5px; margin-left: 8px; color: var(--blue); font-weight: 400; }
+/* 増額の正体（省庁別100%積み上げバー） */
+.breakdown { background: var(--panel); border: 1px solid var(--accent-deep); border-top: none; border-bottom: none; padding: 4px 22px 16px; }
+.bd-head { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 10px; }
+.bd-lead { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+.bd-lead-pct { font-size: 38px; font-weight: 900; color: var(--accent); line-height: 1; }
+.bd-lead-txt { font-size: 13.5px; color: var(--muted); }
+.bd-lead-txt b { color: var(--text); font-weight: 700; }
+.bd-lead-amt { color: var(--accent); font-weight: 700; }
+.bd-bar { display: flex; height: 26px; border-radius: 6px; overflow: hidden; background: var(--panel-2); }
+.bd-seg { display: block; height: 100%; }
+.bd-seg + .bd-seg { border-left: 1px solid var(--bg); }
+.bd-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 10px; }
+.bd-leg { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; }
+.bd-dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+.bd-note { font-size: 12px; color: var(--muted); margin-top: 10px; line-height: 1.5; }
+
+/* FY2026 施策一覧の検索・フィルター */
+.shisaku-controls { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 10px 0 6px; }
+.shisaku-controls input[type="search"] { flex: 1 1 220px; background: var(--panel-2); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; font-size: 13px; font-family: inherit; }
+.shisaku-controls select { background: var(--panel-2); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 13px; font-family: inherit; }
+.shisaku-count { font-size: 12px; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+
 .budget-caveat { border-radius: 0 !important; margin: 0 !important; border-left: 1px solid var(--accent-deep); border-right: 1px solid var(--accent-deep); }
 .budget-caveat i { font-style: normal; font-weight: 900; color: #271600; background: var(--accent); border-radius: 50%; width: 18px; height: 18px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; margin-right: 6px; }
 .budget-cols { display: block; background: var(--panel); border: 1px solid var(--accent-deep); border-top: none; }
@@ -199,7 +221,8 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .budget-items { margin: 0; padding-left: 0; list-style: none; }
 .budget-items li { font-size: 12px; color: var(--text); padding: 9px 0; border-top: 0.5px solid var(--line); line-height: 1.55; }
 .budget-items li:first-child { border-top: none; }
-.ti-head { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.ti-head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.ti-head .share-x { margin-left: auto; }
 .ti-amt { color: var(--accent); font-weight: 900; }
 .ti-amt.zero { color: var(--muted); }
 .zero-note { font-size: 11px; color: var(--muted); background: var(--panel-2); border-radius: 999px; padding: 1px 10px; }

@@ -12,6 +12,7 @@ const state = {
   highOnly: true,
   sort: "budget",
   shown: 20,
+  shisaku: { q: "", ministry: "", zeroOnly: false }, // FY2026 施策一覧の絞り込み
 };
 
 const esc = (s) =>
@@ -202,6 +203,68 @@ function renderKpi() {
 let POLICY = null;
 let minSort = "amount";
 
+// 省庁→色（増額の正体バー用）。国土交通省＝観光・オーバーツーリズムを金色で強調
+const MIN_COLORS = {
+  国土交通省: "#fbbf24",
+  法務省: "#7aa7ff",
+  厚生労働省: "#34d399",
+  文部科学省: "#f87171",
+  経済産業省: "#c084fc",
+  警察庁: "#f0997b",
+};
+const minColor = (m) => MIN_COLORS[m] || "#5f5e5a";
+
+// 個別施策のXシェア（事実ベース固定・出典つき）
+function shisakuTweet(it) {
+  const amt = it.amount_yen === 0 ? "0円（既存予算内での対応・他事業の内数）" : fmtYen(it.amount_yen);
+  return {
+    text: [
+      `【令和8年度 外国人政策 関係予算】`,
+      `${it.title || it.desc.slice(0, 24)}`,
+      `${amt}（所管: ${it.ministry}）`,
+      `※総合的対応策の関連予算。出典は内閣官房（リンク先）`,
+    ].join("\n"),
+    url: (POLICY && POLICY.primary_source && POLICY.primary_source.url) || "https://www.cas.go.jp/",
+  };
+}
+
+function shisakuMatch(it) {
+  const s = state.shisaku;
+  if (s.zeroOnly && it.amount_yen !== 0) return false;
+  if (s.ministry && it.ministry !== s.ministry) return false;
+  const q = s.q.trim();
+  if (q && !((it.title || "").includes(q) || (it.desc || "").includes(q) || it.ministry.includes(q))) return false;
+  return true;
+}
+
+function renderShisakuList() {
+  if (!POLICY) return;
+  const all = POLICY.fy2026.top_items;
+  const rows = all.filter(shisakuMatch);
+  const sumYen = rows.reduce((a, it) => a + it.amount_yen, 0);
+  document.getElementById("shisaku-count").textContent =
+    `${rows.length} / ${all.length} 施策${rows.length ? `・絞り込み合計 ${fmtYen(sumYen)}` : ""}`;
+  document.getElementById("budget-items").innerHTML =
+    rows
+      .map((it) => {
+        const zero = it.amount_yen === 0;
+        const t = shisakuTweet(it);
+        return `<li>
+        <div class="ti-head">
+          <span class="ti-amt${zero ? " zero" : ""}">${fmtYen(it.amount_yen)}</span>
+          <span class="tag">${esc(it.ministry)}</span>
+          ${zero ? `<span class="zero-note">既存の通常予算内での対応、または他事業の内数</span>` : ""}
+          ${shareBtn(t.text, t.url, it.title || "施策")}
+        </div>
+        ${zero ? "" : exactTag(it.amount_yen)}
+        ${it.title ? `<div class="ti-title">${esc(it.title)}</div>` : ""}
+        ${it.desc ? `<div class="ti-desc">${esc(it.desc)}</div>` : ""}
+      </li>`;
+      })
+      .join("") || `<li class="muted" style="border:none">該当する施策がありません。</li>`;
+  applyGlossary(document.getElementById("budget-items"));
+}
+
 function ministryRowsHtml() {
   const list = POLICY.fy2026.by_ministry.filter((m) => m.amount_yen > 0).slice();
   if (minSort === "name") list.sort((a, b) => a.ministry.localeCompare(b.ministry, "ja"));
@@ -245,23 +308,27 @@ function renderPolicyBudget(pb) {
     })
     .join("");
   const mins = ministryRowsHtml();
-  const items = pb.fy2026.top_items
-    .map((it) => {
-      const zero = it.amount_yen === 0;
-      return `<li>
-        <div class="ti-head">
-          <span class="ti-amt${zero ? " zero" : ""}">${fmtYen(it.amount_yen)}</span>
-          <span class="tag">${esc(it.ministry)}</span>
-          ${zero ? `<span class="zero-note">既存の通常予算内での対応、または他事業の内数</span>` : ""}
-        </div>
-        ${zero ? "" : exactTag(it.amount_yen)}
-        ${it.title ? `<div class="ti-title">${esc(it.title)}</div>` : ""}
-        <div class="ti-desc">${esc(it.desc)}</div>
-      </li>`;
-    })
+  // 増額の正体: FY2026総額(検算済み)の省庁別100%積み上げバー。国交省=観光を強調。
+  const byMin = pb.fy2026.by_ministry.filter((m) => m.amount_yen > 0);
+  const total = pb.fy2026.initial_total_yen;
+  const lead = byMin[0];
+  const leadPct = Math.round((lead.amount_yen / total) * 100);
+  const breakdownBar = byMin
+    .map(
+      (m) =>
+        `<span class="bd-seg" style="width:${(m.amount_yen / total) * 100}%;background:${minColor(m.ministry)}" title="${esc(m.ministry)} ${fmtYen(m.amount_yen)}"></span>`
+    )
     .join("");
+  const breakdownLegend = byMin
+    .filter((m) => m.amount_yen / total >= 0.03)
+    .map(
+      (m) =>
+        `<span class="bd-leg"><span class="bd-dot" style="background:${minColor(m.ministry)}"></span>${esc(m.ministry)} ${Math.round((m.amount_yen / total) * 100)}%（${fmtYen(m.amount_yen)}）</span>`
+    )
+    .join("");
+  const shisakuMinistries = byMin.map((m) => m.ministry);
   const zeroCount = pb.fy2026.top_items.filter((it) => it.amount_yen === 0).length;
-  const itemNote = `金額順の全 ${pb.fy2026.top_items.length} 施策（説明が記載された施策）。施策名は一次ソースの階層見出し、説明文は省略せず全文表示。${zeroCount ? `うち「0円」${zeroCount} 件は当該施策に新規のR8当初予算が無い（既存予算内での対応または他事業の内数）ことを示す。` : ""}全 ${pb.fy2026.item_count} 施策と内訳は出典PDFに記載。`;
+  const itemNote = `金額順の全 ${pb.fy2026.top_items.length} 施策（合算は総額に一致）。施策名は一次ソースの階層見出し、説明文は省略せず全文表示。${zeroCount ? `うち「0円」${zeroCount} 件は当該施策に新規のR8当初予算が無い（既存予算内での対応または他事業の内数）ことを示す。` : ""}内訳の原典は出典PDFに記載。`;
   document.getElementById("policy-budget").innerHTML = `
   <div class="budget-hero">
     <div class="budget-hero-main">
@@ -275,6 +342,13 @@ function renderPolicyBudget(pb) {
     ${shareBtn(t.text, t.url, "令和8年度 外国人政策 関係予算")}
   </div>
   <div class="budget-trend">${bars}</div>
+  <div class="breakdown">
+    <div class="bd-head">増額の正体 — この${fmtYen(total)}は何に使われるのか（主管省庁別）</div>
+    <div class="bd-lead"><span class="bd-lead-pct">${leadPct}%</span><span class="bd-lead-txt">が <b>${esc(lead.ministry)}</b>（観光・オーバーツーリズム対策等）。<span class="bd-lead-amt">${fmtYen(lead.amount_yen)}</span></span></div>
+    <div class="bd-bar">${breakdownBar}</div>
+    <div class="bd-legend">${breakdownLegend}</div>
+    <div class="bd-note">前年度の関係予算 ${fmtYen(POLICY.initial_budget_series.find((s) => s.year === 2025).amount_yen)} から急増した主因は、令和8年1月の会議体改組で新規計上された観光・インフラ対策。在留外国人への給付ではない。</div>
+  </div>
   <p class="pair-note budget-caveat"><i>!</i> ${esc(pb.scope_note)}</p>
   <div class="budget-cols">
     <div class="budget-col">
@@ -288,12 +362,43 @@ function renderPolicyBudget(pb) {
       <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。金額は丸め値の下に1円単位の実額を併記。</div>
     </div>
     <div class="budget-col" id="fy2026-shisaku">
-      <div class="budget-col-h">FY2026 施策一覧（金額順・全文）</div>
-      <div class="budget-col-foot" style="margin:0 0 10px">${itemNote}</div>
-      <ul class="budget-items">${items}</ul>
+      <div class="budget-col-h">FY2026 施策一覧（金額順・全文・全${pb.fy2026.top_items.length}件）</div>
+      <div class="shisaku-controls">
+        <input id="shisaku-q" type="search" placeholder="施策名・省庁・本文で検索（例: 観光 / 在留 / 技能実習）" aria-label="施策を検索" value="${esc(state.shisaku.q)}">
+        <select id="shisaku-ministry" aria-label="省庁で絞り込み">
+          <option value="">すべての省庁</option>
+          ${shisakuMinistries.map((m) => `<option value="${esc(m)}" ${m === state.shisaku.ministry ? "selected" : ""}>${esc(m)}</option>`).join("")}
+        </select>
+        <label class="toggle"><input type="checkbox" id="shisaku-zero" ${state.shisaku.zeroOnly ? "checked" : ""}> 0円のみ</label>
+      </div>
+      <div class="shisaku-count" id="shisaku-count"></div>
+      <ul class="budget-items" id="budget-items"></ul>
+      <div class="budget-col-foot">${itemNote}</div>
     </div>
   </div>
   <p class="budget-basis">${esc(pb.basis_note)} 出典: <a href="${esc(pb.primary_source.url)}" target="_blank" rel="noopener">${esc(pb.primary_source.label)} ↗</a></p>`;
+  renderShisakuList();
+  bindShisaku();
+}
+
+function bindShisaku() {
+  const q = document.getElementById("shisaku-q");
+  const mi = document.getElementById("shisaku-ministry");
+  const zero = document.getElementById("shisaku-zero");
+  if (!q || q.dataset.bound) return;
+  q.dataset.bound = "1";
+  q.addEventListener("input", (e) => {
+    state.shisaku.q = e.target.value;
+    renderShisakuList();
+  });
+  mi.addEventListener("change", (e) => {
+    state.shisaku.ministry = e.target.value;
+    renderShisakuList();
+  });
+  zero.addEventListener("change", (e) => {
+    state.shisaku.zeroOnly = e.target.checked;
+    renderShisakuList();
+  });
 }
 
 function renderComparisons(compData) {

@@ -152,11 +152,9 @@ def parse_fy2026_pdf(pdf_path):
         ({"ministry": m, "amount_yen": v} for m, v in by_min.items()),
         key=lambda x: -x["amount_yen"],
     )
-    # 施策の説明文は一切省略しない（全文を保持）。金額順に並べた全施策を渡す。
-    top_items = sorted(
-        (it for it in items if it["desc"]),
-        key=lambda x: -x["amount_yen"],
-    )
+    # 全施策を金額順で渡す（最大の施策も必ず含め、合算が総額に一致するようにする）。
+    # 説明文は一切省略しない（全文を保持）。説明が空の施策も施策名（見出し）で表示できる。
+    top_items = sorted(items, key=lambda x: -x["amount_yen"])
 
     return {
         "initial_total_yen": r8_total_yen,
