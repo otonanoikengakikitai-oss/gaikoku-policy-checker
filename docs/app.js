@@ -27,6 +27,36 @@ function fmtYen(n) {
   return sign + a.toLocaleString("ja-JP") + "円";
 }
 
+// 一次ソースの厳密な実額（1円単位）を、丸めず億・万・円の内訳で返す
+function yenBreakdown(yen) {
+  const neg = yen < 0;
+  let a = Math.abs(Math.round(yen));
+  const oku = Math.floor(a / 1e8);
+  a %= 1e8;
+  const man = Math.floor(a / 1e4);
+  a %= 1e4;
+  const en = a;
+  let s = "";
+  if (oku) s += oku.toLocaleString("ja-JP") + "億";
+  if (man) s += man.toLocaleString("ja-JP") + "万";
+  if (en || s === "") s += en.toLocaleString("ja-JP");
+  s += "円";
+  return (neg ? "−" : "") + s;
+}
+
+// 出典記載の単位（千円単位なら千円表記）＋ 円内訳。例: 150,769,762千円（1,507億6,976万2,000円）
+function exactSource(yen) {
+  const r = Math.round(yen);
+  const head = r % 1000 === 0 ? (r / 1000).toLocaleString("ja-JP") + "千円" : r.toLocaleString("ja-JP") + "円";
+  return `${head}（${yenBreakdown(r)}）`;
+}
+
+// 丸め値の直下に併記する厳密実額の行
+function exactTag(yen, label = "元データ") {
+  if (yen == null) return "";
+  return `<span class="exact-sub">${label}：${exactSource(yen)}</span>`;
+}
+
 const X_LOGO =
   '<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>';
 
@@ -150,7 +180,8 @@ function renderKpi() {
       <div class="sub">概要・目的まで含めると ${state.projects.length} 件 / 走査 ${m.total_projects_scanned.toLocaleString("ja-JP")} 事業</div></div>
     <div class="kpi"><div class="label">当初予算 合算 ※事業全体額</div>
       <div class="value"><span data-count="${sumHigh}" data-fmt="yen">${fmtYen(sumHigh)}</span> ${d ? deltaBadge(d, "big") : ""}</div>
-      <div class="sub">FY${m.fiscal_year}・事業名ヒット分の単純合算${d ? `。前年比は同一事業ベース（${fmtYen(d.abs)}）` : ""}</div></div>
+      ${exactTag(sumHigh)}
+      <div class="sub">FY${m.fiscal_year}・事業名ヒット分の単純合算${d ? `。前年比は同一事業ベース（${fmtYen(d.abs)}／実額 ${exactSource(d.abs)}）` : ""}</div></div>
     <div class="kpi"><div class="label">所管府省庁</div>
       <div class="value"><span data-count="${ministries}" data-fmt="int">${ministries}</span><small> 機関</small></div></div>
     <div class="kpi"><div class="label">データ年度</div>
@@ -166,14 +197,16 @@ function ministryRowsHtml() {
   const list = POLICY.fy2026.by_ministry.filter((m) => m.amount_yen > 0).slice();
   if (minSort === "name") list.sort((a, b) => a.ministry.localeCompare(b.ministry, "ja"));
   else list.sort((a, b) => b.amount_yen - a.amount_yen);
-  const top = list.slice(0, 6);
-  const minMax = Math.max(...top.map((m) => m.amount_yen), 1);
-  return top
+  const minMax = Math.max(...list.map((m) => m.amount_yen), 1);
+  return list
     .map(
-      (m) => `<div class="min-row">
-      <span class="min-name">${esc(m.ministry)}</span>
-      <span class="min-track"><span class="min-fill" style="width:${Math.max((m.amount_yen / minMax) * 100, 2)}%"></span></span>
-      <span class="min-val">${fmtYen(m.amount_yen)}</span>
+      (m) => `<div class="min-item">
+      <div class="min-row">
+        <span class="min-name">${esc(m.ministry)}</span>
+        <span class="min-track"><span class="min-fill" style="width:${Math.max((m.amount_yen / minMax) * 100, 2)}%"></span></span>
+        <span class="min-val">${fmtYen(m.amount_yen)}</span>
+      </div>
+      ${exactTag(m.amount_yen)}
     </div>`
     )
     .join("");
@@ -198,24 +231,27 @@ function renderPolicyBudget(pb) {
       return `<div class="budget-bar-row">
       <div class="budget-bar-label">FY${s.year}<span class="budget-bar-sub">${esc(s.label)}</span></div>
       <div class="budget-bar-track"><div class="budget-bar-fill ${hot ? "hot" : ""}" style="width:${Math.max((s.amount_yen / max) * 100, 1.5)}%"></div></div>
-      <div class="budget-bar-val ${hot ? "hot" : ""}">${fmtYen(s.amount_yen)}<a class="src-mini" href="${esc(s.source.url)}" target="_blank" rel="noopener" aria-label="FY${s.year}の出典">出典↗</a></div>
+      <div class="budget-bar-val ${hot ? "hot" : ""}">${fmtYen(s.amount_yen)}<a class="src-mini" href="${esc(s.source.url)}" target="_blank" rel="noopener" aria-label="FY${s.year}の出典">出典↗</a><span class="exact-sub">${exactSource(s.amount_yen)}</span></div>
     </div>`;
     })
     .join("");
   const mins = ministryRowsHtml();
   const items = pb.fy2026.top_items
-    .slice(0, 5)
     .map(
-      (it) => `<li><span class="ti-amt">${fmtYen(it.amount_yen)}</span><span class="tag">${esc(it.ministry)}</span> ${esc(it.desc)}</li>`
+      (it) =>
+        `<li><div class="ti-head"><span class="ti-amt">${fmtYen(it.amount_yen)}</span><span class="tag">${esc(it.ministry)}</span></div>${exactTag(it.amount_yen)}<div class="ti-desc">${esc(it.desc)}</div></li>`
     )
     .join("");
+  const itemNote = `金額順の全 ${pb.fy2026.top_items.length} 施策（説明が記載された施策）。施策の説明文は省略せず全文表示。全 ${pb.fy2026.item_count} 施策と内訳は出典PDFに記載。`;
   document.getElementById("policy-budget").innerHTML = `
   <div class="budget-hero">
     <div class="budget-hero-main">
       <div class="budget-hero-label">令和8年度 当初予算（総合的対応策 関係予算 合計）</div>
       <div class="budget-hero-num" data-count="${cur.amount_yen}" data-fmt="yen">${fmtYen(cur.amount_yen)}</div>
+      ${exactTag(cur.amount_yen)}
       <div class="budget-hero-delta">前年度比 <span class="delta up surge big"><span class="delta-arr" aria-hidden="true">▲</span>${y.delta_yen >= 0 ? "+" : ""}${fmtYen(y.delta_yen)}（${y.pct >= 0 ? "+" : ""}${y.pct}%）</span></div>
-      <div class="budget-hero-supp">うち令和7年度補正予算 関連: ${fmtYen(pb.fy2026.supplementary_r7_yen)}</div>
+      <div class="budget-hero-supp">前年比 実額：${exactSource(y.delta_yen)}</div>
+      <div class="budget-hero-supp">うち令和7年度補正予算 関連: ${fmtYen(pb.fy2026.supplementary_r7_yen)}<span class="exact-sub">${exactSource(pb.fy2026.supplementary_r7_yen)}</span></div>
     </div>
     ${shareBtn(t.text, t.url, "令和8年度 外国人政策 関係予算")}
   </div>
@@ -223,17 +259,18 @@ function renderPolicyBudget(pb) {
   <p class="pair-note budget-caveat"><i>!</i> ${esc(pb.scope_note)}</p>
   <div class="budget-cols">
     <div class="budget-col">
-      <div class="budget-col-h">FY2026 主管省庁別（当初予算）
+      <div class="budget-col-h">FY2026 主管省庁別（当初予算・全省庁）
         <span class="sort-seg mini" id="budget-min-sort" role="group" aria-label="省庁の並び替え">
           <button type="button" class="sort-btn on" data-min="amount">予算順</button>
           <button type="button" class="sort-btn" data-min="name">省庁名順</button>
         </span>
       </div>
       <div id="budget-min-list">${mins}</div>
-      <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。</div>
+      <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。金額は丸め値の下に1円単位の実額を併記。</div>
     </div>
     <div class="budget-col">
-      <div class="budget-col-h">FY2026 主な施策（金額順）</div>
+      <div class="budget-col-h">FY2026 施策一覧（金額順・全文）</div>
+      <div class="budget-col-foot" style="margin:0 0 10px">${itemNote}</div>
       <ul class="budget-items">${items}</ul>
     </div>
   </div>
@@ -252,6 +289,7 @@ function renderComparisons(compData) {
       <div class="side-target">${esc(s.target)}</div>
       <div class="side-name">${esc(s.name)}</div>
       <div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">FY${compData.fiscal_year} 当初予算</span></div>
+      ${exactTag(s.budget_yen)}
       <div class="bar-track"><div class="bar" style="width:${s.budget_yen ? Math.max((s.budget_yen / max) * 100, 1) : 0}%"></div></div>
       ${s.per_person.length ? `<div class="pp">${s.per_person.map((p) => `<span class="tag pp-tag">${esc(p.label)}: ${esc(p.text)}</span>`).join("")}</div>` : ""}
       <div class="meta">
@@ -292,17 +330,22 @@ function renderStats(statsData) {
   const latest = z.latest;
   const share = statsData.derived.zairyu_share_pct;
   const srcUrl = statsData.source.url;
+  const popSeries = (statsData.indicators.population_total || {}).series || [];
+  const popRec = popSeries.find((s) => s.year === share.year);
+  const pop = popRec ? popRec.value : null;
   document.getElementById("stats").innerHTML = `
     <div class="kpi stat-card">
       <div class="label">${esc(z.name)}（全国・${latest.year}年）</div>
       <div class="value">${(latest.value / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
+      <span class="exact-sub">元データ：${latest.value.toLocaleString("ja-JP")}人</span>
       ${sparkline(zs)}
-      <div class="sub">${first.year}年 ${(first.value / 1e4).toFixed(0)}万人 → ${latest.year}年 ${(latest.value / 1e4).toFixed(0)}万人（${zs.length}年分の推移）</div>
+      <div class="sub">${first.year}年 ${first.value.toLocaleString("ja-JP")}人 → ${latest.year}年 ${latest.value.toLocaleString("ja-JP")}人（${zs.length}年分の推移）</div>
       <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
     </div>
     <div class="kpi stat-card">
       <div class="label">総人口に占める割合（${share.year}年）</div>
       <div class="value">${share.value}<small> %</small></div>
+      <span class="exact-sub">元データ：在留外国人 ${z.latest.value.toLocaleString("ja-JP")}人 ÷ 総人口 ${pop ? pop.toLocaleString("ja-JP") + "人" : "—"}</span>
       <div class="sub">${esc(share.note)}</div>
       <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
     </div>`;
@@ -332,7 +375,7 @@ function renderList() {
         return `<article class="item">
   <div class="item-top">
     <div class="item-name"><span class="rank">${i + 1}</span>${esc(p.name)}</div>
-    <div class="amount ${p.budget_yen == null ? "na" : ""}">${fmtYen(p.budget_yen)}${deltaBadge(d)}</div>
+    <div class="amount ${p.budget_yen == null ? "na" : ""}">${fmtYen(p.budget_yen)}${deltaBadge(d)}${p.budget_yen != null ? exactTag(p.budget_yen) : ""}</div>
   </div>
   <div class="bar-track"><div class="bar" style="width:${w}%"></div></div>
   <div class="meta">

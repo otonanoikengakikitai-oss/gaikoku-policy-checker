@@ -76,9 +76,8 @@ def normalize(p, hits, relevance, year):
         (b["amount_yen"] for b in budgets if b["year"] == year),
         budgets[-1]["amount_yen"] if budgets else None,
     )
+    # 事業概要は一切省略しない（全文を保持）。改行のみ正規化する。
     overview = (p.get("overview") or "").strip().replace("\r", "")
-    if len(overview) > 240:
-        overview = overview[:240] + "…"
     return {
         "id": p["id"],
         "name": (p.get("name") or "").strip(),
