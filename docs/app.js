@@ -401,6 +401,109 @@ function bindShisaku() {
   });
 }
 
+/* ===== 東京都ビュー（国⇔東京都トグル） ===== */
+let TOKYO = null;
+
+function tokyoTweet(it) {
+  return {
+    text: [
+      `【東京都 令和8年度 外国人政策予算】`,
+      `${it.name}: ${fmtYen(it.amount_yen)}（${it.bureau}）`,
+      `前年比 ${it.delta_yen >= 0 ? "+" : ""}${fmtYen(it.delta_yen)}`,
+      `※主要事業ベース。出典は東京都財務局（リンク先）`,
+    ].join("\n"),
+    url: (TOKYO && TOKYO.source.url) || "https://www.zaimu.metro.tokyo.lg.jp/",
+  };
+}
+
+function renderTokyo(tk, pb) {
+  TOKYO = tk;
+  const govTokyoBtn = document.querySelector('.gov-btn[data-gov="tokyo"]');
+  if (!tk) {
+    if (govTokyoBtn) govTokyoBtn.hidden = true; // データ未取得時はトグルを隠す
+    return;
+  }
+  const natTotal = pb.fy2026.initial_total_yen;
+  const maxB = Math.max(...tk.by_bureau.map((b) => b.amount_yen), 1);
+  const bureauBars = tk.by_bureau
+    .map(
+      (b) => `<div class="min-item"><div class="min-row">
+      <span class="min-name">${esc(b.bureau)}</span>
+      <span class="min-track"><span class="min-fill" style="width:${Math.max((b.amount_yen / maxB) * 100, 2)}%"></span></span>
+      <span class="min-val">${fmtYen(b.amount_yen)}</span></div>${exactTag(b.amount_yen)}</div>`
+    )
+    .join("");
+  const items = tk.items
+    .map((it) => {
+      const d = it.prev_yen ? { abs: it.delta_yen, pct: (it.delta_yen / it.prev_yen) * 100 } : null;
+      const t = tokyoTweet(it);
+      return `<li>
+      <div class="ti-head">
+        <span class="ti-amt">${fmtYen(it.amount_yen)}</span>
+        <span class="tag">${esc(it.bureau)}</span><span class="tag kw">${esc(it.category)}</span>
+        ${d ? deltaBadge(d) : ""}
+        ${shareBtn(t.text, t.url, it.name)}
+      </div>
+      ${exactTag(it.amount_yen)}
+      <div class="ti-title">${esc(it.name)}</div>
+      ${it.sub_programs && it.sub_programs.length ? `<div class="ti-desc">${esc(it.sub_programs.join("／"))}</div>` : ""}
+    </li>`;
+    })
+    .join("");
+  document.getElementById("tokyo").innerHTML = `
+  <div class="budget-hero">
+    <div class="budget-hero-main">
+      <div class="budget-hero-label">東京都 令和8年度 外国人政策（多文化共生・外国人材）予算 合計</div>
+      <div class="budget-hero-num" data-count="${tk.total_yen}" data-fmt="yen">${fmtYen(tk.total_yen)}</div>
+      ${exactTag(tk.total_yen)}
+      <div class="budget-hero-supp">参考: 国の関係予算（総合的対応策）は ${fmtYen(natTotal)}。集計範囲・主体が異なる（国は全省庁横断、都は多文化共生・外国人材に限定）。</div>
+    </div>
+    ${shareBtn(`【東京都 令和8年度 外国人政策予算】多文化共生・外国人材の主要事業で計${fmtYen(tk.total_yen)}（生活文化局・産業労働局）。出典は東京都財務局。`, tk.source.url, "東京都 外国人政策予算")}
+  </div>
+  <div class="budget-cols">
+    <div class="budget-col">
+      <div class="budget-col-h">局別内訳（令和8年度・主要事業）</div>
+      <div>${bureauBars}</div>
+    </div>
+    <div class="budget-col">
+      <div class="budget-col-h">事業一覧（金額順・全文）</div>
+      <ul class="budget-items">${items}</ul>
+    </div>
+  </div>
+  <p class="pair-note budget-caveat"><i>!</i> ${esc(tk.tourism_note)}</p>
+  <p class="budget-basis">${esc(tk.basis_note)} 出典: <a href="${esc(tk.source.url)}" target="_blank" rel="noopener">${esc(tk.source.label)} ↗</a></p>`;
+}
+
+let govMode = "national";
+function setGov(mode) {
+  govMode = mode;
+  const tokyo = mode === "tokyo";
+  document.querySelectorAll(".gov-btn").forEach((b) => b.classList.toggle("on", b.dataset.gov === mode));
+  // 国側の要素
+  document.getElementById("year-tabs").hidden = tokyo;
+  document.getElementById("compare-section").hidden = tokyo;
+  if (tokyo) {
+    document.getElementById("policy-budget-section").hidden = true;
+    document.getElementById("kpi").hidden = true;
+    document.getElementById("amount-note").hidden = true;
+    document.getElementById("ranking-section").hidden = true;
+  } else {
+    setYear(state.year || FY_BUDGET); // 国モードに戻すと現在の年度タブの表示を復元
+  }
+  // 東京都セクション
+  document.getElementById("tokyo-section").hidden = !tokyo;
+  window.scrollTo({ top: 0, behavior: "auto" });
+}
+
+function bindGov() {
+  const tg = document.getElementById("gov-toggle");
+  if (!tg) return;
+  tg.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-gov]");
+    if (btn && !btn.hidden) setGov(btn.dataset.gov);
+  });
+}
+
 function renderComparisons(compData) {
   document.getElementById("compare").innerHTML = compData.comparisons
     .map((comp) => {
@@ -773,6 +876,8 @@ function navTo(target) {
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
+  // 目次の項目は国（政府）側のセクション。東京都モードなら国モードに戻す。
+  if (govMode === "tokyo") setGov("national");
   // 予算内訳・施策一覧はFY2026タブ専用。必要なら先にタブを切り替える
   const needsBudget = target === "budget" || target === "shisaku";
   if (needsBudget && state.year !== FY_BUDGET) setYear(FY_BUDGET);
@@ -803,6 +908,7 @@ function bindDrawer() {
 
 function bind() {
   bindDrawer();
+  bindGov();
   document.getElementById("year-tabs").addEventListener("click", (e) => {
     const btn = e.target.closest("[data-year]");
     if (btn) setYear(Number(btn.dataset.year));
@@ -852,13 +958,14 @@ function bind() {
 
 async function main() {
   const getJson = (path) => fetch(path).then((r) => r.json());
-  const [yearsMeta, claimsData, compData, statsData, policyBudget, glossary] = await Promise.all([
+  const [yearsMeta, claimsData, compData, statsData, policyBudget, glossary, tokyoData] = await Promise.all([
     getJson("data/years.json"),
     getJson("data/claims.json"),
     getJson("data/comparisons.json"),
     getJson("data/stats.json"),
     getJson("data/policy_budget.json"),
     getJson("data/glossary.json"),
+    getJson("data/tokyo.json").catch(() => null), // best-effort: 無ければ東京都タブを隠す
   ]);
   GLOSSARY = glossary.terms || [];
   state.years = yearsMeta.years;
@@ -873,6 +980,7 @@ async function main() {
   document.getElementById("footer-meta").textContent =
     `データ生成: ${latestMeta.generated_at} / 出典: ${latestMeta.source.name}（${latestMeta.source.url}） / 収載年度: ${state.years.map((y) => "FY" + y).join(" / ")}`;
   renderPolicyBudget(policyBudget);
+  renderTokyo(tokyoData, policyBudget);
   renderComparisons(compData);
   renderStats(statsData);
   renderClaims(claimsData);

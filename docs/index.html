@@ -36,6 +36,16 @@
   </div>
 </header>
 <main class="wrap">
+  <div class="gov-toggle" id="gov-toggle" role="group" aria-label="政府レベルの切り替え">
+    <button type="button" class="gov-btn on" data-gov="national">国（政府）</button>
+    <button type="button" class="gov-btn" data-gov="tokyo">東京都</button>
+  </div>
+
+  <section aria-labelledby="tokyo-h" id="tokyo-section" hidden>
+    <h2 id="tokyo-h"><span class="nbk">東京都</span> <span class="nbk">令和8年度</span> <span class="nbk">外国人政策予算</span> <span class="h-sub">主要事業ベース・一次ソース4重検証</span></h2>
+    <div id="tokyo"></div>
+  </section>
+
   <nav class="year-tabs" id="year-tabs" aria-label="データ年度切り替え"></nav>
 
   <section aria-labelledby="budget-h" id="policy-budget-section" hidden>

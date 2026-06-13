@@ -134,6 +134,13 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
   border-radius: 10px; padding: 8px 26px; font-size: 16px; font-weight: 900;
   cursor: pointer; font-family: inherit;
 }
+/* 国⇔東京都トグル（最上部の政府レベル切替） */
+.gov-toggle { display: inline-flex; gap: 0; margin: 26px 0 4px; border: 1px solid var(--accent-deep); border-radius: 999px; overflow: hidden; background: var(--panel); }
+.gov-btn { background: transparent; color: var(--muted); border: none; padding: 9px 24px; font-size: 14.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
+.gov-btn[hidden] { display: none; }
+.gov-btn.on { background: var(--accent); color: #271600; }
+#tokyo-section { scroll-margin-top: 72px; }
+
 .year-tab.on { background: var(--accent); color: #271600; border-color: var(--accent); }
 .year-tab.budget-tab { display: inline-flex; align-items: center; gap: 6px; border-color: var(--accent-deep); }
 .tab-latest { font-size: 10px; font-weight: 900; padding: 1px 7px; border-radius: 999px; background: var(--accent); color: #271600; }

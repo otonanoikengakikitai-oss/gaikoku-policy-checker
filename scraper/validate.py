@@ -157,6 +157,31 @@ def check_glossary(errors):
     return len(terms)
 
 
+def check_tokyo(errors):
+    path = DATA_DIR / "tokyo.json"
+    if not path.exists():
+        return 0  # best-effort: 未取得なら検証対象外
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not host_allowed((data.get("source") or {}).get("url", "")):
+        errors.append("tokyo: 出典が一次ソースでない")
+    if not (data.get("basis_note") or "").strip():
+        errors.append("tokyo: basis_note（集計基準の注記）は必須")
+    items = data.get("items") or []
+    if not items:
+        errors.append("tokyo: 事業が0件")
+    s = 0
+    for it in items:
+        if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
+            errors.append(f"tokyo/{it.get('name')}: amount_yen 不正")
+        # 増減チェックサム（amount - prev == delta）を公開データでも再確認
+        if it.get("amount_yen", 0) - it.get("prev_yen", 0) != it.get("delta_yen"):
+            errors.append(f"tokyo/{it.get('name')}: 増減チェックサム不一致")
+        s += it.get("amount_yen", 0)
+    if s != data.get("total_yen"):
+        errors.append("tokyo: total_yen が事業合算と不一致")
+    return len(items)
+
+
 def run():
     errors = []
     n_projects = check_projects(errors)
@@ -165,13 +190,14 @@ def run():
     n_stats = check_stats(errors)
     n_budget = check_policy_budget(errors)
     n_glossary = check_glossary(errors)
+    n_tokyo = check_tokyo(errors)
     if errors:
         print("品質ゲート違反:", file=sys.stderr)
         for e in errors:
             print(f"  NG {e}", file=sys.stderr)
         raise SystemExit(1)
     print(
-        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語、全出典 go.jp/lg.jp",
+        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語 / 東京都 {n_tokyo} 事業、全出典 go.jp/lg.jp",
         file=sys.stderr,
     )
 
