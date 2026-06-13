@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-13T05:59:49+00:00",
+ "generated_at": "2026-06-13T07:01:58+00:00",
  "source": {
   "name": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
   "url": "https://dashboard.e-stat.go.jp/",
@@ -67,6 +67,18 @@
    "latest": {
     "year": 2024,
     "value": 3768977
+   },
+   "latest_actual": {
+    "value": 4125395,
+    "year": 2025,
+    "month": 12,
+    "as_of": "令和7年末（2025年12月末）現在",
+    "yoy_abs": 356418,
+    "yoy_pct": 9.5,
+    "source": {
+     "label": "出入国在留管理庁 在留外国人数について",
+     "url": "https://www.moj.go.jp/isa/publications/press/13_00062.html"
+    }
    }
   },
   "population_total": {

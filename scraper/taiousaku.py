@@ -68,6 +68,28 @@ def _amt(s):
     return int(s.replace(",", "")) if re.fullmatch(r"[0-9,]+", s) else None
 
 
+# 施策名の先頭にある階層記号（（１）, (4), ①, ア , 第１, Ⅰ, １　 等）を除去する
+_TITLE_MARKER = re.compile(
+    r"^\s*(?:"
+    r"[（(][0-9０-９]+[）)]"  # （１） (4)
+    r"|[①-⑳]"  # ①〜⑳
+    r"|第[0-9０-９]+"  # 第１
+    r"|[Ⅰ-ⅩⅠ-Ⅿ]"  # ローマ数字
+    r"|[ア-ヶ][\s　]+"  # ア （単独カナ＋空白）
+    r"|[0-9０-９]+[\s　\.．、]"  # １　 / 1.
+    r")[\s　]*"
+)
+
+
+def clean_title(t):
+    t = (t or "").strip()
+    prev = None
+    while prev != t:  # 入れ子の記号（第１（１）等）も繰り返し除去
+        prev = t
+        t = _TITLE_MARKER.sub("", t, count=1).strip()
+    return t
+
+
 def _lead_ministry(cell):
     text = (cell or "").replace("\n", "").strip()
     if not text:
@@ -95,7 +117,7 @@ def parse_fy2026_pdf(pdf_path):
             continue
         # 見出し行（施策番号でなく金額も無い行）は施策名として保持する
         if c0 and not c0.isdigit() and not c1 and _amt(r[2]) is None and _amt(r[3]) is None:
-            current_title = re.sub(r"\s+", " ", (r[0] or "").replace("\n", "")).strip()
+            current_title = clean_title(re.sub(r"\s+", " ", (r[0] or "").replace("\n", "")).strip())
             continue
         v8 = _amt(r[3])
         if v8 is None:

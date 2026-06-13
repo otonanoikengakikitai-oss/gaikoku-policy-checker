@@ -23,21 +23,22 @@
 </header>
 <main class="wrap">
   <nav class="year-tabs" id="year-tabs" aria-label="データ年度切り替え"></nav>
-  <section class="kpi-grid" id="kpi" aria-label="集計値"></section>
 
-  <p class="caveat" id="amount-note"></p>
-
-  <section aria-labelledby="budget-h" id="policy-budget-section">
+  <section aria-labelledby="budget-h" id="policy-budget-section" hidden>
     <h2 id="budget-h"><span class="nbk">令和8年度（2026年度）</span> <span class="nbk">外国人政策</span> <span class="nbk">関係予算</span> <span class="h-sub">総合的対応策ベース・全出典つき</span></h2>
     <div id="policy-budget"></div>
   </section>
+
+  <section class="kpi-grid" id="kpi" aria-label="集計値"></section>
+
+  <p class="caveat" id="amount-note"></p>
 
   <section aria-labelledby="compare-h">
     <h2 id="compare-h">ならべて比較 <span class="h-sub">条件込み・全出典つき</span></h2>
     <div id="compare"></div>
   </section>
 
-  <section aria-labelledby="ranking-h">
+  <section aria-labelledby="ranking-h" id="ranking-section">
     <h2 id="ranking-h">予算事業ランキング <span class="h-sub" id="fy-label"></span></h2>
     <div class="controls">
       <input id="q" type="search" placeholder="事業名・概要を検索" aria-label="検索">

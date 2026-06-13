@@ -8,6 +8,8 @@ import urllib.request
 from pathlib import Path
 
 UA = "gaikoku-policy-checker-bot/1.0 (public-interest data dashboard; polite crawler)"
+# 一部の府省サイト（CloudFront）はbot UAのHTMLを拒否するためブラウザUAでフォールバックする
+BROWSER_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36"
 CACHE_DIR = Path(__file__).resolve().parent.parent / "cache"
 
 # python.org版のmacOS Pythonは証明書ストアが空のことがあるため、
@@ -77,6 +79,27 @@ def http_get_text(url, *, retries=3, delay=1.0, timeout=60):
             last_err = e
             time.sleep(delay * (attempt + 2))
     raise RuntimeError(f"GET failed after {retries} tries: {url}: {last_err}")
+
+
+def http_get_raw(url, *, ua=BROWSER_UA, retries=2, delay=0.6, timeout=40):
+    """生のHTML文字列を返す（404等は None）。プレスリリースのタイトル・本文解析用。"""
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": ua})
+            with urllib.request.urlopen(req, timeout=timeout, context=_CTX) as r:
+                raw = r.read().decode("utf-8", errors="replace")
+            time.sleep(delay)
+            return raw
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                return None
+            last_err = e
+            time.sleep(delay * (attempt + 2))
+        except (urllib.error.URLError, TimeoutError) as e:
+            last_err = e
+            time.sleep(delay * (attempt + 2))
+    return None
 
 
 def url_alive(url, timeout=20):

@@ -162,10 +162,16 @@ function sumDelta(projects, fy) {
   return prev > 0 ? { pct: ((cur - prev) / prev) * 100, abs: cur - prev } : null;
 }
 
+const FY_BUDGET = 2026; // 総合的対応策 関係予算（行政事業レビューとは別データ）の専用タブ
+
 function renderYearTabs() {
-  document.getElementById("year-tabs").innerHTML = state.years
-    .map((y) => `<button class="year-tab ${y === state.year ? "on" : ""}" data-year="${y}">FY${y}</button>`)
-    .join("");
+  const tabs = state.years.map(
+    (y) => `<button class="year-tab ${y === state.year ? "on" : ""}" data-year="${y}">FY${y}</button>`
+  );
+  tabs.push(
+    `<button class="year-tab budget-tab ${state.year === FY_BUDGET ? "on" : ""}" data-year="${FY_BUDGET}">FY${FY_BUDGET}<span class="tab-latest">最新</span></button>`
+  );
+  document.getElementById("year-tabs").innerHTML = tabs.join("");
 }
 
 function renderKpi() {
@@ -343,14 +349,21 @@ function renderStats(statsData) {
   const popSeries = (statsData.indicators.population_total || {}).series || [];
   const popRec = popSeries.find((s) => s.year === share.year);
   const pop = popRec ? popRec.value : null;
+  const la = z.latest_actual; // ISAプレスの最新実績（年次ダッシュボードより新しい）
+  const headVal = la ? la.value : latest.value;
+  const headLabel = la ? `${esc(la.as_of)}・取得可能な最新実績` : `全国・${latest.year}年`;
+  const yoyLine = la && la.yoy_abs != null
+    ? `<div class="sub">前年${la.month === 12 ? "末" : "同期"}比 +${la.yoy_abs.toLocaleString("ja-JP")}人（+${la.yoy_pct}%）</div>`
+    : "";
   document.getElementById("stats").innerHTML = `
     <div class="kpi stat-card">
-      <div class="label">${esc(z.name)}（全国・${latest.year}年）</div>
-      <div class="value">${(latest.value / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
-      <span class="exact-sub">元データ：${latest.value.toLocaleString("ja-JP")}人</span>
+      <div class="label">${esc(z.name)}<span class="as-of">${headLabel}</span></div>
+      <div class="value">${(headVal / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
+      <span class="exact-sub">元データ：${headVal.toLocaleString("ja-JP")}人</span>
+      ${yoyLine}
       ${sparkline(zs)}
-      <div class="sub">${first.year}年 ${first.value.toLocaleString("ja-JP")}人 → ${latest.year}年 ${latest.value.toLocaleString("ja-JP")}人（${zs.length}年分の推移）</div>
-      <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
+      <div class="sub">推移（年次・e-Stat）：${first.year}年 ${first.value.toLocaleString("ja-JP")}人 → ${latest.year}年 ${latest.value.toLocaleString("ja-JP")}人</div>
+      <div class="sub">${la ? `<a href="${esc(la.source.url)}" target="_blank" rel="noopener">最新実績の出典: ${esc(la.source.label)} ↗</a>　` : ""}<a href="${esc(srcUrl)}" target="_blank" rel="noopener">推移: e-Stat 統計ダッシュボード ↗</a></div>
     </div>
     <div class="kpi stat-card">
       <div class="label">総人口に占める割合（${share.year}年）</div>
@@ -427,12 +440,22 @@ function renderClaims(claimsData) {
 
 function setYear(y) {
   state.year = y;
+  const budgetMode = y === FY_BUDGET;
+  // 行政事業レビュー系（KPI・注記・ランキング）と 関係予算セクションを排他表示
+  document.getElementById("policy-budget-section").hidden = !budgetMode;
+  document.getElementById("kpi").hidden = budgetMode;
+  document.getElementById("amount-note").hidden = budgetMode;
+  document.getElementById("ranking-section").hidden = budgetMode;
+  renderYearTabs();
+  if (budgetMode) {
+    window.scrollTo({ top: 0, behavior: "auto" });
+    return;
+  }
   state.meta = state.yearData[y];
   state.projects = state.meta.projects;
   state.shown = 20;
   document.getElementById("fy-label").textContent =
     `FY${state.meta.fiscal_year} 当初予算・自動抽出 ${state.projects.length} 事業`;
-  renderYearTabs();
   renderKpi();
   renderControls();
   renderList();
@@ -575,8 +598,9 @@ function animateCount(el) {
   el.dataset.counted = "1";
   const to = Number(el.dataset.count);
   const kind = el.dataset.fmt || "int";
+  const finalText = fmtBy(kind, to);
   if (prefersReduced || !isFinite(to)) {
-    el.textContent = fmtBy(kind, to);
+    el.textContent = finalText;
     return;
   }
   const dur = 1100;
@@ -584,11 +608,16 @@ function animateCount(el) {
   const tick = (now) => {
     const p = Math.min((now - start) / dur, 1);
     const eased = 1 - Math.pow(1 - p, 3);
-    el.textContent = fmtBy(kind, to * eased);
+    el.textContent = fmtBy(kind, Math.max(0, to * eased));
     if (p < 1) requestAnimationFrame(tick);
-    else el.textContent = fmtBy(kind, to);
+    else el.textContent = finalText;
   };
   requestAnimationFrame(tick);
+  // バックストップ: requestAnimationFrameがタブ非アクティブ等で中断しても、
+  // 必ず正しい最終値（一次ソースの実額に対応する丸め値）に収束させる（誤表示の防止）
+  setTimeout(() => {
+    el.textContent = finalText;
+  }, dur + 200);
 }
 
 let revealObserver = null;
@@ -692,7 +721,7 @@ async function main() {
   renderStats(statsData);
   renderClaims(claimsData);
   bind();
-  setYear(yearsMeta.latest);
+  setYear(FY_BUDGET); // 既定はFY2026（最新）タブ＝関係予算ビュー
   // #list は renderList 内で個別にツールチップ化済み。残りの静的・予算・比較・統計・言説領域を一括処理。
   applyGlossary(document.querySelector("main"), "#list");
   observeReveals(document);

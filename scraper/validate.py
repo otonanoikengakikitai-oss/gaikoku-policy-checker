@@ -105,6 +105,14 @@ def check_stats(errors):
         for s in ind.get("series", []):
             if not isinstance(s.get("value"), int) or s["value"] < 0:
                 errors.append(f"stats/{key}: 値が不正: {s!r}")
+        la = ind.get("latest_actual")
+        if la:
+            if not isinstance(la.get("value"), int) or la["value"] < 0:
+                errors.append(f"stats/{key}: latest_actual値が不正")
+            if not host_allowed((la.get("source") or {}).get("url", "")):
+                errors.append(f"stats/{key}: latest_actualの出典が一次ソースでない: {(la.get('source') or {}).get('url')}")
+            if not (la.get("as_of") or "").strip():
+                errors.append(f"stats/{key}: latest_actualに基準日(as_of)が無い")
     return len(data["indicators"])
 
 
