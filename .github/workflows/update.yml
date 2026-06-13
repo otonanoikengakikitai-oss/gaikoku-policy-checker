@@ -21,9 +21,14 @@ jobs:
       - name: 収集 → 比較 → 統計 → 関係予算 → 言説検証 → 品質ゲート
         working-directory: scraper
         run: python run.py
+      - name: GA4計測IDを注入（リポジトリ変数 GA_MEASUREMENT_ID から）
+        env:
+          GA_ID: ${{ vars.GA_MEASUREMENT_ID }}
+        run: |
+          printf 'window.GA_MEASUREMENT_ID = "%s";\n' "${GA_ID}" > docs/ga-config.js
       - name: 変更があればコミット
         run: |
           git config user.name "data-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data
-          git diff --cached --quiet || (git commit -m "data: 週次自動更新" && git push)
+          git add docs/data docs/ga-config.js
+          git diff --cached --quiet || (git commit -m "data: 週次自動更新／GA設定反映" && git push)

@@ -45,6 +45,15 @@ python3 run.py --year 2024  # 年度指定
 python3 run.py --use-cache  # 開発時: cache/ の生レスポンスを再利用
 ```
 
+## アクセス解析（Google Analytics 4）
+
+`docs/ga-config.js` の `window.GA_MEASUREMENT_ID` に GA4 の計測ID（`G-XXXXXXXXXX`）を入れると、
+全ページで `gtag.js` が動的に読み込まれ計測が始まる。空文字や不正形式なら何も読み込まれない（計測オフ・エラーなし）。
+
+本番では **GitHubリポジトリ変数 `GA_MEASUREMENT_ID`**（Settings → Secrets and variables → Actions → Variables）に
+計測IDを設定すれば、次回のワークフロー実行時に CI が `ga-config.js` へ自動注入・コミットし、計測が開始される
+（即時反映したい場合は Actions から `weekly-data-update` を手動実行）。
+
 Python 3.10+ のみ。pip install は不要。
 
 ## 公開（GitHub Pages）
