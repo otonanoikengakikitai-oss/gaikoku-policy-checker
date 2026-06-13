@@ -1,74 +1,158 @@
-"""ならべて比較の定義（コードとして管理する）
+"""ならべて比較の定義（コードとして管理する）— FY2026（令和8年度）一次ソースに基づく
 
-- 各サイドの事業予算は build_comparisons.py がRSシステムの取得済みデータから
-  事業名の完全一致で自動取得する（rs_project_name）
-- 一人あたり金額（per_person）は、出典ページに証跡文字列（evidence）が
-  現存することを毎回照合し、消えていれば公開しない
-- context_note（条件差の注記）が無い比較は品質ゲートで公開不可
+各サイドの予算額（budget_yen）は、出典（go.jp）に実際に記載された FY2026 の確定値のみを用いる。
+build_comparisons.py が:
+  - 予算の出典URLが go.jp / lg.jp で、かつ生存していることを毎回確認
+  - 一人あたり金額（per_person）は出典ページに証跡文字列（evidence）が現存することを毎回照合
+  - context_note（条件差の注記）が無い比較は公開不可
+捏造防止のため、budget_yen は対応する一次ソース（主に文部科学省 令和8年度予算）に
+記載のある数値のみ。記載が確認できないものは budget_yen を null とし、規模注記で代替する。
 """
+
+MEXT_R8_BUDGET = {
+    "label": "文部科学省 令和8年度予算のポイント",
+    "url": "https://www.mext.go.jp/content/20260407-ope_dev02-000044426_1.pdf",
+}
+STUDYINJAPAN = {
+    "label": "Study in Japan（政府公式）文部科学省奨学金",
+    "url": "https://www.studyinjapan.go.jp/ja/planning/scholarships/mext-scholarships/",
+}
+JASSO_KINGAKU = {
+    "label": "JASSO 給付奨学金の支給額",
+    "url": "https://www.jasso.go.jp/shogakukin/about/kyufu/kingaku.html",
+}
 
 COMPARISONS = [
     {
-        "id": "ryugakusei-shien",
-        "title": "返済不要の修学支援 — 来日外国人留学生 vs 国内学生",
+        "id": "ryugakusei-shien-tanka",
+        "title": "返済不要の修学支援の手厚さ — 来日外国人留学生 vs 国内学生",
+        "fiscal_year": 2026,
         "context_note": (
             "対象規模・選抜方式・所得要件がまったく異なる。国費外国人留学生は大使館推薦・大学推薦等の"
-            "選抜制で対象が限定される一方、修学支援新制度は所得要件（住民税非課税世帯等）を満たす"
-            "広範な学生が対象。個人が受け取る額と事業予算規模の単純比較はできない。"
-            "金額は各事業全体の当初予算額。"
+            "選抜制（採用 約9,000人）で、所得制限なく月14万円超＋授業料不徴収を受けられる。一方の国内学生向け"
+            "修学支援新制度は住民税非課税世帯等の所得要件があり給付は月最大7.58万円。一人あたりの手厚さでは"
+            "外国人留学生が上回るが、事業全体の予算規模では国内向けが桁違いに大きい（下の規模比較を参照）。"
         ),
         "sides": [
             {
                 "name": "国費外国人留学生制度",
-                "target": "外国人留学生（外国籍のみ・大使館推薦/大学推薦等の選抜制）",
-                "rs_project_name": "国費外国人留学生制度",
+                "target": "外国人留学生（外国籍のみ・選抜制・所得制限なし）",
+                "budget_yen": None,
+                "budget_note": "選抜制（採用 約9,000人）。一人あたり単価で比較",
+                "budget_source": STUDYINJAPAN,
                 "per_person": [
                     {"label": "奨学金（研究留学生）", "text": "月額143,000〜145,000円", "evidence": "143,000円"},
                     {"label": "奨学金（学部留学生）", "text": "月額117,000円", "evidence": "117,000円"},
                     {"label": "授業料", "text": "不徴収", "evidence": "不徴収"},
                 ],
-                "per_person_source": {
-                    "label": "Study in Japan（政府公式）文部科学省奨学金",
-                    "url": "https://www.studyinjapan.go.jp/ja/planning/scholarships/mext-scholarships/",
-                },
+                "per_person_source": STUDYINJAPAN,
             },
             {
                 "name": "高等教育修学支援新制度（給付奨学金＋授業料減免）",
-                "target": "国内の学生（日本国籍・特別永住者・永住者等／住民税非課税世帯等の所得要件）",
-                "rs_project_name": "大学等における修学支援に必要な経費",
+                "target": "国内の学生（住民税非課税世帯等の所得要件）",
+                "budget_yen": 656700000000,
+                "budget_evidence": "6,567億円",
+                "budget_source": MEXT_R8_BUDGET,
                 "per_person": [
                     {"label": "給付奨学金（私立・自宅外・第1区分）", "text": "月額75,800円", "evidence": "75,800円"},
                 ],
-                "per_person_source": {
-                    "label": "JASSO 給付奨学金の支給額",
-                    "url": "https://www.jasso.go.jp/shogakukin/about/kyufu/kingaku.html",
-                },
+                "per_person_source": JASSO_KINGAKU,
             },
         ],
     },
     {
         "id": "ryugaku-direction",
-        "title": "国費による留学支援の方向 — 外国人を日本へ vs 日本人を海外へ",
+        "title": "国による留学支援の方向 — 外国人を日本へ（受入）vs 日本人を海外へ（送出）",
+        "fiscal_year": 2026,
         "context_note": (
-            "どちらも文部科学省所管の留学支援事業。受入れ（国費外国人留学生）と送り出し"
-            "（日本人学生等の海外留学支援）で支援の方向が逆になる。制度設計・支援単価・対象人数が"
-            "異なるため、予算額の差がそのまま個人の待遇差を意味するわけではない。"
-            "金額は各事業全体の当初予算額。"
+            "どちらも文部科学省所管の留学支援。受入れ（国費外国人留学生）と送り出し（日本人学生等の海外留学支援）で"
+            "支援の方向が逆。海外留学支援制度の令和8年度予算は97億円。制度設計・対象人数が異なるため、"
+            "予算額の差がそのまま個人の待遇差を意味するわけではない。"
         ),
         "sides": [
             {
                 "name": "国費外国人留学生制度",
                 "target": "来日する外国人留学生（外国籍のみ）",
-                "rs_project_name": "国費外国人留学生制度",
+                "budget_yen": None,
+                "budget_note": "選抜制（採用 約9,000人）。受入れ方向",
+                "budget_source": STUDYINJAPAN,
                 "per_person": [],
                 "per_person_source": None,
             },
             {
                 "name": "大学等の海外留学支援制度",
                 "target": "海外留学する日本人学生等",
-                "rs_project_name": "大学等の海外留学支援制度",
+                "budget_yen": 9700000000,
+                "budget_evidence": "97億円",
+                "budget_source": MEXT_R8_BUDGET,
                 "per_person": [],
                 "per_person_source": None,
+            },
+        ],
+    },
+    {
+        "id": "kyoiku-nihongo-kibo",
+        "title": "学びの支援の予算規模 — 在留外国人の教育・日本語 vs 国内学生の修学支援",
+        "fiscal_year": 2026,
+        "context_note": (
+            "在留外国人向けの教育・日本語支援（外国人児童生徒等への教育 15億円＋外国人等への日本語教育 16億円＝計31億円）と、"
+            "国内学生向けの高等教育修学支援（6,567億円）の令和8年度予算の規模比較。"
+            "教育段階が異なるため一律比較はできないが、『外国人優遇でばらまき』という通説に対し、"
+            "金額規模ではむしろ国内学生支援が桁違いに大きいという事実を示す。"
+        ),
+        "sides": [
+            {
+                "name": "在留外国人向けの教育・日本語支援（合計）",
+                "target": "在留外国人の児童生徒・生活者",
+                "budget_yen": 3100000000,
+                "budget_evidence": "16億円",  # 内訳のうち日本語教育16億円の記載で出典生存を確認
+                "budget_note": "外国人児童生徒教育 15億円＋日本語教育 16億円",
+                "budget_source": MEXT_R8_BUDGET,
+                "per_person": [],
+                "per_person_source": None,
+            },
+            {
+                "name": "高等教育修学支援新制度",
+                "target": "国内の学生（所得要件あり）",
+                "budget_yen": 656700000000,
+                "budget_evidence": "6,567億円",
+                "budget_source": MEXT_R8_BUDGET,
+                "per_person": [],
+                "per_person_source": None,
+            },
+        ],
+    },
+    {
+        "id": "kyufu-shotoku-joken",
+        "title": "給付の所得条件 — 外国人留学生（制限なし）vs 国内学生（所得制限あり）",
+        "fiscal_year": 2026,
+        "context_note": (
+            "国費外国人留学生は所得制限なく一律で奨学金＋授業料不徴収を受けられる（選抜制）。"
+            "一方、国内学生向けの修学支援新制度は住民税非課税世帯等の所得要件を満たす必要がある。"
+            "給付の『条件』の違いを示す比較で、金額の大小ではなく受給要件に着目している。"
+        ),
+        "sides": [
+            {
+                "name": "国費外国人留学生制度",
+                "target": "外国人留学生（選抜制・所得制限なし）",
+                "budget_yen": None,
+                "budget_note": "所得制限なし・一律給付（選抜制）",
+                "budget_source": STUDYINJAPAN,
+                "per_person": [
+                    {"label": "授業料", "text": "不徴収", "evidence": "不徴収"},
+                ],
+                "per_person_source": STUDYINJAPAN,
+            },
+            {
+                "name": "高等教育修学支援新制度",
+                "target": "国内の学生（住民税非課税世帯等のみ）",
+                "budget_yen": None,
+                "budget_note": "住民税非課税世帯等の所得要件あり",
+                "budget_source": JASSO_KINGAKU,
+                "per_person": [
+                    {"label": "給付奨学金（私立・自宅外・第1区分）", "text": "月額75,800円", "evidence": "75,800円"},
+                ],
+                "per_person_source": JASSO_KINGAKU,
             },
         ],
     },

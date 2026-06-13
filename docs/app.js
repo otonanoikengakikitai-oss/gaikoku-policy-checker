@@ -98,10 +98,13 @@ function budgetTweet(pb) {
 }
 
 function comparisonTweet(comp, fy) {
-  const sides = comp.sides.map((s) => `・${s.name}: ${fmtYen(s.budget_yen)}`).join("\n");
+  const sides = comp.sides
+    .map((s) => `・${s.name}: ${s.budget_yen != null ? fmtYen(s.budget_yen) : s.budget_note || "単価で比較"}`)
+    .join("\n");
+  const src = (comp.sides.find((s) => s.budget_source) || {}).budget_source;
   return {
-    text: [comp.title, sides, `（FY${fy} 当初予算・事業全体額。対象規模・条件は異なる）`].join("\n"),
-    url: "https://rssystem.go.jp/",
+    text: [comp.title, sides, `（令和8年度予算・一次ソース。対象規模・条件は異なる）`].join("\n"),
+    url: (src && src.url) || "https://www.mext.go.jp/",
   };
 }
 
@@ -284,7 +287,7 @@ function renderPolicyBudget(pb) {
       <div id="budget-min-list">${mins}</div>
       <div class="budget-col-foot">※施策の主管（筆頭）省庁で集計。複数省庁施策は筆頭省庁に計上。最大の国土交通省は観光・オーバーツーリズム対策が中心。金額は丸め値の下に1円単位の実額を併記。</div>
     </div>
-    <div class="budget-col">
+    <div class="budget-col" id="fy2026-shisaku">
       <div class="budget-col-h">FY2026 施策一覧（金額順・全文）</div>
       <div class="budget-col-foot" style="margin:0 0 10px">${itemNote}</div>
       <ul class="budget-items">${items}</ul>
@@ -296,25 +299,27 @@ function renderPolicyBudget(pb) {
 function renderComparisons(compData) {
   document.getElementById("compare").innerHTML = compData.comparisons
     .map((comp) => {
+      const fy = comp.fiscal_year || compData.fiscal_year;
       const max = Math.max(...comp.sides.map((s) => s.budget_yen || 0), 1);
-      const t = comparisonTweet(comp, compData.fiscal_year);
+      const t = comparisonTweet(comp, fy);
       const sides = comp.sides
-        .map(
-          (s) => `
+        .map((s) => {
+          const amountHtml = s.budget_yen != null
+            ? `<div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">令和8年度予算</span></div>${exactTag(s.budget_yen)}
+               <div class="bar-track"><div class="bar" style="width:${Math.max((s.budget_yen / max) * 100, 1)}%"></div></div>`
+            : `<div class="side-amount na">${esc(s.budget_note || "金額は単価で比較")}</div>`;
+          return `
     <div class="side">
       <div class="side-target">${esc(s.target)}</div>
       <div class="side-name">${esc(s.name)}</div>
-      <div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">FY${compData.fiscal_year} 当初予算</span></div>
-      ${exactTag(s.budget_yen)}
-      <div class="bar-track"><div class="bar" style="width:${s.budget_yen ? Math.max((s.budget_yen / max) * 100, 1) : 0}%"></div></div>
+      ${amountHtml}
       ${s.per_person.length ? `<div class="pp">${s.per_person.map((p) => `<span class="tag pp-tag">${esc(p.label)}: ${esc(p.text)}</span>`).join("")}</div>` : ""}
       <div class="meta">
-        <span class="tag">${esc(s.ministry)}</span>
-        <a class="src-link" href="${esc(s.rs_source_url)}" target="_blank" rel="noopener">レビューシート ↗</a>
-        ${s.per_person_source ? `<a class="src-link" href="${esc(s.per_person_source.url)}" target="_blank" rel="noopener">${esc(s.per_person_source.label)} ↗</a>` : ""}
+        ${s.budget_source ? `<a class="src-link" href="${esc(s.budget_source.url)}" target="_blank" rel="noopener">${esc(s.budget_source.label)} ↗</a>` : ""}
+        ${s.per_person_source && s.per_person_source.url !== (s.budget_source || {}).url ? `<a class="src-link" href="${esc(s.per_person_source.url)}" target="_blank" rel="noopener">${esc(s.per_person_source.label)} ↗</a>` : ""}
       </div>
-    </div>`
-        )
+    </div>`;
+        })
         .join("");
       return `<article class="pair">
   <div class="pair-head"><h3>${esc(comp.title)}</h3>${shareBtn(t.text, t.url, comp.title)}</div>
@@ -646,7 +651,53 @@ function observeReveals(root) {
   });
 }
 
+/* ===== ドロワー目次（サイドバー） ===== */
+function setDrawer(open) {
+  const d = document.getElementById("drawer");
+  const bd = document.getElementById("drawer-backdrop");
+  const tg = document.getElementById("menu-toggle");
+  d.hidden = !open;
+  bd.hidden = !open;
+  tg.setAttribute("aria-expanded", open ? "true" : "false");
+  requestAnimationFrame(() => d.classList.toggle("open", open));
+}
+
+function navTo(target) {
+  setDrawer(false);
+  if (target === "top") {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+    return;
+  }
+  // 予算内訳・施策一覧はFY2026タブ専用。必要なら先にタブを切り替える
+  const needsBudget = target === "budget" || target === "shisaku";
+  if (needsBudget && state.year !== FY_BUDGET) setYear(FY_BUDGET);
+  const idMap = {
+    budget: "policy-budget-section",
+    shisaku: "fy2026-shisaku",
+    compare: "compare-section",
+    stats: "stats-section",
+  };
+  const el = document.getElementById(idMap[target]);
+  if (el) requestAnimationFrame(() => el.scrollIntoView({ behavior: "smooth", block: "start" }));
+}
+
+function bindDrawer() {
+  document.getElementById("menu-toggle").addEventListener("click", () => setDrawer(document.getElementById("drawer").hidden));
+  document.getElementById("drawer-close").addEventListener("click", () => setDrawer(false));
+  document.getElementById("drawer-backdrop").addEventListener("click", () => setDrawer(false));
+  document.getElementById("drawer").addEventListener("click", (e) => {
+    const a = e.target.closest("[data-nav]");
+    if (!a) return;
+    e.preventDefault();
+    navTo(a.dataset.nav);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !document.getElementById("drawer").hidden) setDrawer(false);
+  });
+}
+
 function bind() {
+  bindDrawer();
   document.getElementById("year-tabs").addEventListener("click", (e) => {
     const btn = e.target.closest("[data-year]");
     if (btn) setYear(Number(btn.dataset.year));

@@ -83,8 +83,9 @@ def check_comparisons(errors):
         for s in sides:
             if not s.get("name") or not s.get("target"):
                 errors.append(f"{where}: サイドの name / target は必須")
-            if not s.get("rs_source_url") or not host_allowed(s["rs_source_url"]):
-                errors.append(f"{where}: RS出典が一次ソースでない: {s.get('rs_source_url')}")
+            bs = s.get("budget_source")
+            if s.get("budget_yen") is not None and (not bs or not host_allowed(bs.get("url", ""))):
+                errors.append(f"{where}: 予算額の出典が一次ソースでない: {(bs or {}).get('url')}")
             pps = s.get("per_person_source")
             if s.get("per_person") and (not pps or not host_allowed(pps.get("url", ""))):
                 errors.append(f"{where}: 一人あたり金額の出典が一次ソースでない")
