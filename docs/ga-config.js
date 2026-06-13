@@ -1,1 +1,1 @@
-window.GA_MEASUREMENT_ID = "";
+window.GA_MEASUREMENT_ID = "G-DXYG70ML6H";
