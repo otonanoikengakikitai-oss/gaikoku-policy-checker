@@ -520,24 +520,104 @@ function tokyoContrastHtml(tk) {
   </div>`;
 }
 
+/* ===== 埼玉・川口ビュー（トレンド焦点） ===== */
+let KAWAGUCHI = null;
+
+function kawaguchiTweet(kw) {
+  const totalLabel = yenBreakdown(kw.foreign_total_yen);
+  return {
+    text: [
+      `【埼玉・川口 外国人特化予算の実額】`,
+      `${kw.government}の外国人特化（多文化共生）予算は ${kw.fiscal_year_label} で計${totalLabel}`,
+      kw.city_general_account ? `市の一般会計 ${kw.city_general_account.amount_label} の約${kw.contrast_pct}%に過ぎない` : "",
+      `「莫大な税金で優遇」は誇張。出典は川口市の当初予算（リンク先）`,
+    ]
+      .filter(Boolean)
+      .join("\n"),
+    url: kw.source.url,
+  };
+}
+
+function renderKawaguchi(kw) {
+  KAWAGUCHI = kw;
+  const btn = document.querySelector('.gov-btn[data-gov="kawaguchi"]');
+  if (!kw) {
+    if (btn) btn.hidden = true; // データ未取得時はタブを隠す
+    return;
+  }
+  const city = kw.city_general_account;
+  const fTotal = kw.foreign_total_yen;
+  const totalLabel = yenBreakdown(fTotal); // 合計の実額（例: 3,029万5,000円）
+  const fyLabel = kw.fiscal_year_label || `FY${kw.fiscal_year}`;
+  const denom = city ? Math.round(city.amount_yen / fTotal).toLocaleString("ja-JP") : null;
+  const t = kawaguchiTweet(kw);
+  const items = kw.items
+    .map(
+      (it) => `<li>
+      <div class="ti-head">
+        <span class="ti-amt">${esc(it.amount_label)}</span>
+        <span class="tag">${esc(it.bureau)}</span><span class="tag kw">${esc(it.category)}</span>
+      </div>
+      ${exactTag(it.amount_yen)}
+      <div class="ti-title">${esc(it.name)}</div>
+      <div class="ti-desc">${esc(it.desc)}</div>
+    </li>`
+    )
+    .join("");
+  const contrast = city
+    ? `<div class="breakdown tokyo-contrast">
+    <div class="bd-head">本当の予算の正体 — 「莫大な税金」の実額は市予算の約${kw.contrast_pct}%</div>
+    <div class="bd-lead"><span class="bd-lead-pct">${kw.contrast_pct}%</span><span class="bd-lead-txt">外国人特化予算（<b>${esc(totalLabel)}</b>）は、市の一般会計（${esc(city.amount_label)}）の<b>約${kw.contrast_pct}%（約${denom}分の1）</b>。</span></div>
+    <div class="cbar-row"><div class="cbar-label">市の一般会計（全市民向け）</div><div class="cbar-track"><div class="cbar-fill" style="width:100%;background:#7aa7ff"></div></div><div class="cbar-val" style="color:#7aa7ff">${esc(city.amount_label)}</div></div>
+    <div class="cbar-exact">${exactTag(city.amount_yen)}</div>
+    <div class="cbar-row"><div class="cbar-label">外国人特化（多文化共生）</div><div class="cbar-track"><div class="cbar-fill" style="width:0.5%;min-width:3px;background:#fbbf24"></div></div><div class="cbar-val" style="color:#fbbf24">${esc(totalLabel)}</div></div>
+    <div class="cbar-exact">${exactTag(fTotal)}</div>
+    <div class="bd-note">SNSの『莫大な税金で優遇』という感情論に対し、一次ソースの実額では市予算のごく一部（相談・多言語情報支援・指針策定）に過ぎない。${shareBtn(t.text, t.url, "川口市 外国人特化予算")}</div>
+  </div>`
+    : "";
+  document.getElementById("kawaguchi").innerHTML = `
+  <div class="budget-hero">
+    <div class="budget-hero-main">
+      <div class="budget-hero-label">川口市 ${esc(fyLabel)} 外国人特化予算（多文化共生関連）合計</div>
+      <div class="budget-hero-num">${esc(totalLabel)}</div>
+      ${exactTag(fTotal)}
+      ${city ? `<div class="budget-hero-supp">参考: 川口市の${esc(city.label)}は ${esc(city.amount_label)}。外国人特化はその約${kw.contrast_pct}%。</div>` : ""}
+    </div>
+    ${shareBtn(t.text, t.url, "埼玉・川口 外国人特化予算")}
+  </div>
+  ${contrast}
+  <div class="report-note">
+    <div class="rn-head"><i class="rn-i">!</i> トレンド焦点 — SNSの言説 vs 一次ソースの実額</div>
+    <p class="rn-body">${esc(kw.trend_note)}</p>
+  </div>
+  <div class="budget-cols">
+    <div class="budget-col">
+      <div class="budget-col-h">外国人特化の事業（${esc(fyLabel)}・主要事業）</div>
+      <ul class="budget-items">${items}</ul>
+    </div>
+  </div>
+  <p class="budget-basis">${esc(kw.basis_note)} 出典: <a href="${esc(kw.source.url)}" target="_blank" rel="noopener">${esc(kw.source.label)} ↗</a></p>`;
+}
+
 let govMode = "national";
 function setGov(mode) {
   govMode = mode;
-  const tokyo = mode === "tokyo";
+  const isNational = mode === "national";
   document.querySelectorAll(".gov-btn").forEach((b) => b.classList.toggle("on", b.dataset.gov === mode));
-  // 国側の要素
-  document.getElementById("year-tabs").hidden = tokyo;
-  document.getElementById("compare-section").hidden = tokyo;
-  if (tokyo) {
+  // 国側の要素（年度タブ・KPI・関係予算・ランキング・比較）は国モードのみ表示
+  document.getElementById("year-tabs").hidden = !isNational;
+  document.getElementById("compare-section").hidden = !isNational;
+  if (isNational) {
+    setYear(state.year || FY_BUDGET); // 現在の年度タブの表示を復元
+  } else {
     document.getElementById("policy-budget-section").hidden = true;
     document.getElementById("kpi").hidden = true;
     document.getElementById("amount-note").hidden = true;
     document.getElementById("ranking-section").hidden = true;
-  } else {
-    setYear(state.year || FY_BUDGET); // 国モードに戻すと現在の年度タブの表示を復元
   }
-  // 東京都セクション
-  document.getElementById("tokyo-section").hidden = !tokyo;
+  // 自治体セクションは選択したものだけ表示
+  document.getElementById("tokyo-section").hidden = mode !== "tokyo";
+  document.getElementById("kawaguchi-section").hidden = mode !== "kawaguchi";
   window.scrollTo({ top: 0, behavior: "auto" });
 }
 
@@ -1013,6 +1093,7 @@ async function main() {
     getJson("data/glossary.json"),
     getJson("data/tokyo.json").catch(() => null), // best-effort: 無ければ東京都タブを隠す
   ]);
+  const kawaguchiData = await getJson("data/saitama_kawaguchi.json").catch(() => null);
   GLOSSARY = glossary.terms || [];
   state.years = yearsMeta.years;
   await Promise.all(
@@ -1027,6 +1108,7 @@ async function main() {
     `データ生成: ${latestMeta.generated_at} / 出典: ${latestMeta.source.name}（${latestMeta.source.url}） / 収載年度: ${state.years.map((y) => "FY" + y).join(" / ")}`;
   renderPolicyBudget(policyBudget);
   renderTokyo(tokyoData, policyBudget);
+  renderKawaguchi(kawaguchiData);
   renderComparisons(compData);
   renderStats(statsData);
   renderClaims(claimsData);

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-16T16:06:30+00:00",
+ "generated_at": "2026-06-17T13:45:37+00:00",
  "claims": [
   {
    "id": "seikatsuhogo-immediate",
@@ -12,7 +12,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
     }
    ],
-   "checked_at": "2026-06-16"
+   "checked_at": "2026-06-17"
   },
   {
    "id": "ryugakusei-iryohi-zengaku",
@@ -25,7 +25,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html"
     }
    ],
-   "checked_at": "2026-06-16"
+   "checked_at": "2026-06-17"
   },
   {
    "id": "kokuhi-ryugakusei-shikyu",
@@ -42,7 +42,7 @@
      "url": "https://www.jasso.go.jp/shogakukin/kyufu/index.html"
     }
    ],
-   "checked_at": "2026-06-16"
+   "checked_at": "2026-06-17"
   },
   {
    "id": "tokyo-gaikokujin-bakudai-yosan",
@@ -55,7 +55,7 @@
      "url": "https://www.zaimu1.metro.tokyo.lg.jp/zaisei/20260130_reiwa8nendo_tokyotoyosanangaiyou/8shuyouzigyou.pdf"
     }
    ],
-   "checked_at": "2026-06-16"
+   "checked_at": "2026-06-17"
   },
   {
    "id": "kuni-gaikokujin-yosan-8x",
@@ -68,7 +68,20 @@
      "url": "https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/index.html"
     }
    ],
-   "checked_at": "2026-06-16"
+   "checked_at": "2026-06-17"
+  },
+  {
+   "id": "kawaguchi-gaikokujin-bakudai-zeikin",
+   "claim": "川口市は外国人（クルド人等）の対応に莫大な市民の税金を投入して優遇している",
+   "verdict": "misleading",
+   "fact": "一次ソース（川口市 令和8年度 当初予算のポイント）で外国人特化の実額を切り分けると、多文化共生関連は計3,029万5千円（多文化共生推進事業 2,789万7千円＋多文化共生指針策定事業 239万8千円）。市の一般会計2,569億7,000万円の約0.012%（約8,500分の1）に過ぎない。内容も外国人向けポータルサイト「川口市外国人生活ガイド」や指針策定等の情報・体制整備であり、特定民族への現金給付ではない。『莫大な税金で優遇』という感情論と、行政予算の実スケールには歴然とした差がある。",
+   "sources": [
+    {
+     "label": "川口市 令和8年度 当初予算のポイント",
+     "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/r8tousyoyosannpointo.pdf"
+    }
+   ],
+   "checked_at": "2026-06-17"
   }
  ]
 }
