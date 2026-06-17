@@ -68,69 +68,109 @@ def run():
             return f"金額連結の証跡なし（{a}{p}）"
         return None
 
-    def to_yen(rec):
-        return {
-            "name": rec["name"],
-            "amount_yen": rec["amount_man"] * 1_000_000,
-            "prev_yen": rec["prev_man"] * 1_000_000,
-            "delta_yen": rec["delta_man"] * 1_000_000,
-        }
-
-    published = []
+    # 各事業を4重検証。通過した事業のみ、令和8(amount=当年度)・令和7(prev=前年度)の
+    # 両年度を同一PDFから採用する（前年度列も金額連結検証 "{amount}{prev}" に含まれるため検証済み）。
+    verified = [it for it in ITEMS if not verify(it)]
     for it in ITEMS:
         why = verify(it)
         if why:
             print(f"  警告: 東京都『{it['name']}』を非公開: {why}", file=sys.stderr)
-            continue
-        published.append({**to_yen(it), "bureau": it["bureau"], "category": it["category"], "sub_programs": it["sub_programs"]})
-
-    if not published:
+    if not verified:
         print("  エラー: 東京都の公開可能な事業が0件（検証すべて失敗）", file=sys.stderr)
         raise SystemExit(1)
 
-    # 観光・インバウンド予算（対比用）。headlineが検証を通った場合のみ採用。
-    tourism = None
-    why = verify(TOURISM)
-    if why:
-        print(f"  警告: 東京都『観光産業の振興』を非公開: {why}", file=sys.stderr)
-    else:
-        subs = []
+    # 観光・インバウンド予算（対比用）。headline が検証を通った場合のみ採用。
+    tourism_why = verify(TOURISM)
+    if tourism_why:
+        print(f"  警告: 東京都『観光産業の振興』を非公開: {tourism_why}", file=sys.stderr)
+    tourism_subs = []
+    if not tourism_why:
         for s in TOURISM.get("sub_items", []):
             sw = verify(s)
             if sw:
                 print(f"  警告: 観光内訳『{s['name']}』を非公開: {sw}", file=sys.stderr)
                 continue
-            subs.append(to_yen(s))
-        tourism = {**to_yen(TOURISM), "bureau": TOURISM["bureau"], "sub_items": subs}
+            tourism_subs.append(s)
 
-    published.sort(key=lambda x: -x["amount_yen"])
-    total = sum(p["amount_yen"] for p in published)
-    by_bureau = {}
-    for p in published:
-        by_bureau[p["bureau"]] = by_bureau.get(p["bureau"], 0) + p["amount_yen"]
-    contrast_ratio = round(tourism["amount_yen"] / total, 1) if tourism and total else None
+    # 年度仕様: 令和8年度は当年度列(amount_man)、令和7年度は前年度列(prev_man)を採用。
+    YEAR_SPECS = [
+        {
+            "fiscal_year": 2026,
+            "fiscal_year_label": "令和8年度",
+            "key": "amount_man",
+            "with_delta": True,
+            "source_note": "東京都財務局『令和8年度 主要事業』PDFの当年度列。事業名・増減チェックサム・金額連結の4重検証済み。",
+        },
+        {
+            "fiscal_year": 2025,
+            "fiscal_year_label": "令和7年度",
+            "key": "prev_man",
+            "with_delta": False,
+            "source_note": "同『令和8年度 主要事業』PDFの「前年度（令和7年度）」列。金額連結検証で令和8年度額との整合を確認済み。",
+        },
+    ]
+
+    years = []
+    for spec in YEAR_SPECS:
+        k = spec["key"]
+        items = []
+        for it in sorted(verified, key=lambda x: -x[k]):
+            entry = {
+                "name": it["name"],
+                "bureau": it["bureau"],
+                "category": it["category"],
+                "amount_yen": it[k] * 1_000_000,
+                "sub_programs": it["sub_programs"],
+            }
+            if spec["with_delta"]:
+                entry["prev_yen"] = it["prev_man"] * 1_000_000
+                entry["delta_yen"] = it["delta_man"] * 1_000_000
+            items.append(entry)
+        total = sum(e["amount_yen"] for e in items)
+        by_bureau = {}
+        for e in items:
+            by_bureau[e["bureau"]] = by_bureau.get(e["bureau"], 0) + e["amount_yen"]
+        tourism = None
+        if not tourism_why:
+            tourism = {
+                "name": TOURISM["name"],
+                "bureau": TOURISM["bureau"],
+                "amount_yen": TOURISM[k] * 1_000_000,
+                "sub_items": [{"name": s["name"], "amount_yen": s[k] * 1_000_000} for s in tourism_subs],
+            }
+        contrast_ratio = round(tourism["amount_yen"] / total, 1) if tourism and total else None
+        year = {
+            "fiscal_year": spec["fiscal_year"],
+            "fiscal_year_label": spec["fiscal_year_label"],
+            "source_note": spec["source_note"],
+            "total_yen": total,
+            "by_bureau": [{"bureau": b, "amount_yen": v} for b, v in sorted(by_bureau.items(), key=lambda x: -x[1])],
+            "items": items,
+            "tourism": tourism,
+            "contrast_ratio": contrast_ratio,
+        }
+        if spec["fiscal_year"] == 2026:
+            year["external_report"] = {
+                **EXTERNAL_REPORT,
+                # NHKの「外国人材確保」と比較すべきは外国人材カテゴリのみ（多文化共生を除く）
+                "ours_yen": sum(e["amount_yen"] for e in items if e["category"] == "外国人材"),
+            }
+        years.append(year)
+
+    years.sort(key=lambda y: y["fiscal_year"])
     out = {
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "government": "東京都",
-        "fiscal_year": 2026,
         "source": SOURCE,
         "basis_note": BASIS_NOTE,
         "tourism_note": TOURISM_NOTE,
-        "total_yen": total,
-        "by_bureau": [{"bureau": b, "amount_yen": v} for b, v in sorted(by_bureau.items(), key=lambda x: -x[1])],
-        "items": published,
-        "tourism": tourism,
-        "contrast_ratio": contrast_ratio,
-        "external_report": {
-            **EXTERNAL_REPORT,
-            # NHKの「外国人材確保」と比較すべきは外国人材カテゴリのみ（多文化共生を除く）
-            "ours_yen": sum(p["amount_yen"] for p in published if p["category"] == "外国人材"),
-        },
+        "latest": years[-1]["fiscal_year"],
+        "years": years,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    extra = f" / 観光 {tourism['amount_yen']/1e8:,.1f}億円（{contrast_ratio}倍）" if tourism else ""
-    print(f"東京都 外国人政策予算 {len(published)} 事業・計 {total/1e8:,.1f}億円{extra}（一次ソース4重検証）→ {OUT}", file=sys.stderr)
+    spans = " / ".join(f"{y['fiscal_year_label']} {y['total_yen']/1e8:,.1f}億円" for y in years)
+    print(f"東京都 外国人政策予算 {len(verified)} 事業 × {len(years)}年度: {spans}（一次ソース4重検証）→ {OUT}", file=sys.stderr)
     return out
 
 

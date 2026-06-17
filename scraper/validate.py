@@ -166,20 +166,27 @@ def check_tokyo(errors):
         errors.append("tokyo: 出典が一次ソースでない")
     if not (data.get("basis_note") or "").strip():
         errors.append("tokyo: basis_note（集計基準の注記）は必須")
-    items = data.get("items") or []
-    if not items:
-        errors.append("tokyo: 事業が0件")
-    s = 0
-    for it in items:
-        if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
-            errors.append(f"tokyo/{it.get('name')}: amount_yen 不正")
-        # 増減チェックサム（amount - prev == delta）を公開データでも再確認
-        if it.get("amount_yen", 0) - it.get("prev_yen", 0) != it.get("delta_yen"):
-            errors.append(f"tokyo/{it.get('name')}: 増減チェックサム不一致")
-        s += it.get("amount_yen", 0)
-    if s != data.get("total_yen"):
-        errors.append("tokyo: total_yen が事業合算と不一致")
-    return len(items)
+    years = data.get("years") or []
+    if not years:
+        errors.append("tokyo: 年度が0件")
+    n_items = 0
+    for y in years:
+        yl = y.get("fiscal_year_label") or y.get("fiscal_year")
+        items = y.get("items") or []
+        if not items:
+            errors.append(f"tokyo/{yl}: 事業が0件")
+        s = 0
+        for it in items:
+            n_items += 1
+            if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
+                errors.append(f"tokyo/{yl}/{it.get('name')}: amount_yen 不正")
+            # 前年比のある年度のみ増減チェックサム（amount - prev == delta）を再確認
+            if it.get("delta_yen") is not None and it.get("amount_yen", 0) - it.get("prev_yen", 0) != it.get("delta_yen"):
+                errors.append(f"tokyo/{yl}/{it.get('name')}: 増減チェックサム不一致")
+            s += it.get("amount_yen", 0)
+        if s != y.get("total_yen"):
+            errors.append(f"tokyo/{yl}: total_yen が事業合算と不一致")
+    return n_items
 
 
 def check_saitama_kawaguchi(errors):
@@ -187,21 +194,28 @@ def check_saitama_kawaguchi(errors):
     if not path.exists():
         return 0  # best-effort: 未取得なら検証対象外
     data = json.loads(path.read_text(encoding="utf-8"))
-    if not host_allowed((data.get("source") or {}).get("url", "")):
-        errors.append("saitama_kawaguchi: 出典が一次ソースでない")
     if not (data.get("basis_note") or "").strip():
         errors.append("saitama_kawaguchi: basis_note は必須")
-    items = data.get("items") or []
-    if not items:
-        errors.append("saitama_kawaguchi: 事業が0件")
-    s = 0
-    for it in items:
-        if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
-            errors.append(f"saitama_kawaguchi/{it.get('name')}: amount_yen 不正")
-        s += it.get("amount_yen", 0)
-    if s != data.get("foreign_total_yen"):
-        errors.append("saitama_kawaguchi: foreign_total_yen が事業合算と不一致")
-    return len(items)
+    years = data.get("years") or []
+    if not years:
+        errors.append("saitama_kawaguchi: 年度が0件")
+    n_items = 0
+    for y in years:
+        yl = y.get("fiscal_year_label") or y.get("fiscal_year")
+        if not host_allowed((y.get("source") or {}).get("url", "")):
+            errors.append(f"saitama_kawaguchi/{yl}: 出典が一次ソースでない")
+        items = y.get("items") or []
+        if not items:
+            errors.append(f"saitama_kawaguchi/{yl}: 事業が0件")
+        s = 0
+        for it in items:
+            n_items += 1
+            if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
+                errors.append(f"saitama_kawaguchi/{yl}/{it.get('name')}: amount_yen 不正")
+            s += it.get("amount_yen", 0)
+        if s != y.get("foreign_total_yen"):
+            errors.append(f"saitama_kawaguchi/{yl}: foreign_total_yen が事業合算と不一致")
+    return n_items
 
 
 def run():

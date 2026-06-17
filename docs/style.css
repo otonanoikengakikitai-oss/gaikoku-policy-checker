@@ -129,6 +129,10 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .delta.big { font-size: 15px; padding: 2px 12px; }
 
 .year-tabs { display: flex; gap: 8px; margin: 28px 0 0; flex-wrap: wrap; }
+/* hidden属性を display:flex より確実に優先（年度タブの混入バグ対策） */
+.year-tabs[hidden] { display: none !important; }
+/* 自治体ビュー専用の年度タブ（セクション内・上マージン控えめ） */
+.gov-year-tabs { margin: 4px 0 18px; }
 .year-tab {
   background: var(--panel); border: 1px solid var(--line); color: var(--muted);
   border-radius: 10px; padding: 8px 26px; font-size: 16px; font-weight: 900;
