@@ -1006,8 +1006,8 @@ function renderStatsFor(gov, fy) {
     if (sub) sub.textContent = `川口市・${fyTag(fy)}・住民基本台帳`;
     renderRegionalStats("川口市", yr && yr.population, prev && prev.population);
   } else {
-    if (sub) sub.textContent = "全国・e-Stat ＋ 出入国在留管理庁（最新実績）";
-    renderNationalStats();
+    if (sub) sub.textContent = `全国・${fyTag(fy)}・e-Stat ＋ 出入国在留管理庁`;
+    renderNationalStats(fy);
   }
 }
 
@@ -1038,40 +1038,39 @@ function renderRegionalStats(govLabel, pop, prevPop) {
     </div>`;
 }
 
-function renderNationalStats() {
+function renderNationalStats(fy) {
   const statsData = STATS;
   if (!statsData) return;
   const z = statsData.indicators.zairyu_total;
   const zs = z.series;
   const first = zs[0];
-  const latest = z.latest;
-  const share = statsData.derived.zairyu_share_pct;
-  const srcUrl = statsData.source.url;
-  const popSeries = (statsData.indicators.population_total || {}).series || [];
-  const popRec = popSeries.find((s) => s.year === share.year);
-  const pop = popRec ? popRec.value : null;
-  const la = z.latest_actual; // ISAプレスの最新実績（年次ダッシュボードより新しい）
-  const headVal = la ? la.value : latest.value;
-  const headLabel = la ? `${esc(la.as_of)}・取得可能な最新実績` : `全国・${latest.year}年`;
-  const yoyLine = la && la.yoy_abs != null
-    ? `<div class="sub">前年${la.month === 12 ? "末" : "同期"}比 +${la.yoy_abs.toLocaleString("ja-JP")}人（+${la.yoy_pct}%）</div>`
-    : "";
+  const byFy = statsData.national_by_fy || {};
+  const rec = byFy[String(fy)] || byFy[String(state.year)] || byFy[Object.keys(byFy).sort().pop()];
+  if (!rec) {
+    // フォールバック（national_by_fy 未取得時）: 最新実績のみ
+    const la = z.latest_actual;
+    const headVal = la ? la.value : z.latest.value;
+    document.getElementById("stats").innerHTML = `<div class="kpi stat-card"><div class="label">${esc(z.name)}</div><div class="value">${(headVal / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div></div>`;
+    return;
+  }
+  const yoy = rec.foreign_yoy;
+  const fSrc = rec.foreign_source || statsData.source;
   document.getElementById("stats").innerHTML = `
     <div class="kpi stat-card">
-      <div class="label">${esc(z.name)}<span class="as-of">${headLabel}</span></div>
-      <div class="value">${(headVal / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
-      <span class="exact-sub">元データ：${headVal.toLocaleString("ja-JP")}人</span>
-      ${yoyLine}
+      <div class="label">全国の${esc(z.name)}<span class="as-of">${esc(rec.foreign_as_of)}</span></div>
+      <div class="value">${(rec.foreign / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 1 })}<small> 万人</small></div>
+      <span class="exact-sub">元データ：${rec.foreign.toLocaleString("ja-JP")}人</span>
+      ${yoy ? `<div class="sub">前年比 ${yoy.abs >= 0 ? "+" : ""}${yoy.abs.toLocaleString("ja-JP")}人（${yoy.pct >= 0 ? "+" : ""}${yoy.pct}%）</div>` : ""}
       ${sparkline(zs)}
-      <div class="sub">推移（年次・e-Stat）：${first.year}年 ${first.value.toLocaleString("ja-JP")}人 → ${latest.year}年 ${latest.value.toLocaleString("ja-JP")}人</div>
-      <div class="sub">${la ? `<a href="${esc(la.source.url)}" target="_blank" rel="noopener">最新実績の出典: ${esc(la.source.label)} ↗</a>　` : ""}<a href="${esc(srcUrl)}" target="_blank" rel="noopener">推移: e-Stat 統計ダッシュボード ↗</a></div>
+      <div class="sub">推移（年次・e-Stat）：${first.year}年 ${first.value.toLocaleString("ja-JP")}人 → ${z.latest.year}年 ${z.latest.value.toLocaleString("ja-JP")}人</div>
+      <div class="sub"><a href="${esc(fSrc.url)}" target="_blank" rel="noopener">出典: ${esc(fSrc.label || fSrc.name)} ↗</a>　<a href="${esc(statsData.source.url)}" target="_blank" rel="noopener">推移: e-Stat ↗</a></div>
     </div>
     <div class="kpi stat-card">
-      <div class="label">総人口に占める割合（${share.year}年）</div>
-      <div class="value">${share.value}<small> %</small></div>
-      <span class="exact-sub">元データ：在留外国人 ${z.latest.value.toLocaleString("ja-JP")}人 ÷ 総人口 ${pop ? pop.toLocaleString("ja-JP") + "人" : "—"}</span>
-      <div class="sub">${esc(share.note)}</div>
-      <div class="sub"><a href="${esc(srcUrl)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
+      <div class="label">総人口に占める割合<span class="as-of">${esc(rec.foreign_as_of)}</span></div>
+      <div class="value">${rec.share_pct}<small> %</small></div>
+      <span class="exact-sub">元データ：在留外国人 ${rec.foreign.toLocaleString("ja-JP")}人 ÷ 総人口 ${rec.total.toLocaleString("ja-JP")}人</span>
+      <div class="sub">全国・${esc(fyTag(fy))}時点。e-Stat（総人口）＋出入国在留管理庁（在留外国人数）に基づく。${rec.foreign_provisional ? "在留外国人数は当該年度の確報が未公表のため、取得可能な最新実績を表示。" : ""}</div>
+      <div class="sub"><a href="${esc((rec.total_source || statsData.source).url)}" target="_blank" rel="noopener">出典: e-Stat 統計ダッシュボード ↗</a></div>
     </div>`;
 }
 

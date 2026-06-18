@@ -84,6 +84,58 @@ def fetch_latest_isa_residents():
     return best
 
 
+# 国タブの年度連動用: これらの会計年度（＝令和N年度。暦年と同一視）の全国統計を当時値で用意する。
+NATIONAL_FISCAL_YEARS = [2023, 2024, 2025, 2026]
+
+
+def build_national_by_fy(indicators, top_source):
+    """各会計年度に対応する全国の在留外国人数・総人口・割合（当時値）を作る。
+    在留外国人数は年末値（暦年=会計年度の年）。当該年の確報が未公表の年度は
+    取得可能な最新実績（ISAプレス）で代替し provisional フラグを立てる。"""
+    z = {s["year"]: s["value"] for s in indicators["zairyu_total"]["series"]}
+    p = {s["year"]: s["value"] for s in indicators["population_total"]["series"]}
+    la = indicators["zairyu_total"].get("latest_actual")
+    estat_src = {"label": top_source["name"], "url": top_source["url"]}
+
+    def foreign_for(y):
+        """暦年 y 時点で確定している全国の在留外国人数（年末ストック）と出典・基準日・暫定フラグ。"""
+        if y in z and (la is None or y < la["year"]):
+            return z[y], estat_src, f"令和{y - 2018}年末（{y}年12月末）現在", False
+        if la and y >= la["year"]:
+            prov = y != la["year"]
+            as_of = la["as_of"] + (f"（令和{y - 2018}年の確報は未公表のため取得可能な最新実績）" if prov else "")
+            return la["value"], la["source"], as_of, prov
+        if y in z:
+            return z[y], estat_src, f"令和{y - 2018}年末（{y}年12月末）現在", False
+        return None, None, None, None
+
+    out = {}
+    for fy in NATIONAL_FISCAL_YEARS:
+        foreign, f_src, f_as_of, prov = foreign_for(fy)
+        if foreign is None:
+            continue
+        total = p.get(fy) or (p.get(max(p)) if p else None)
+        total_year = fy if fy in p else (max(p) if p else None)
+        prev_foreign = foreign_for(fy - 1)[0]
+        yoy = None
+        if prev_foreign and prev_foreign != foreign:
+            d = foreign - prev_foreign
+            yoy = {"abs": d, "pct": round(d / prev_foreign * 100, 1)}
+        out[str(fy)] = {
+            "fiscal_year": fy,
+            "foreign": foreign,
+            "foreign_as_of": f_as_of,
+            "foreign_provisional": prov,
+            "foreign_source": f_src,
+            "foreign_yoy": yoy,
+            "total": total,
+            "total_year": total_year,
+            "total_source": estat_src,
+            "share_pct": round(foreign / total * 100, 2) if total else None,
+        }
+    return out
+
+
 def verify_indicator_name(code, expected_name):
     q = urllib.parse.quote(expected_name)
     data = http_get_json(f"{DASH}/getIndicatorInfo?Lang=JP&SearchIndicatorWord={q}")
@@ -151,15 +203,21 @@ def run():
             "note": "在留外国人数 ÷ 総人口（同一年で算出）",
         }
 
+    top_source = {
+        "name": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+        "url": "https://dashboard.e-stat.go.jp/",
+        "stat_name": "社会・人口統計体系ほか（出典統計はダッシュボード上で確認可能）",
+    }
+    national_by_fy = build_national_by_fy(indicators, top_source)
+    for fy, r in sorted(national_by_fy.items()):
+        print(f"  全国 FY{fy}: 在留外国人 {r['foreign']:,}人 / 総人口 {r['total']:,}人 = {r['share_pct']}%（{r['foreign_as_of']}）", file=sys.stderr)
+
     out = {
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
-        "source": {
-            "name": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
-            "url": "https://dashboard.e-stat.go.jp/",
-            "stat_name": "社会・人口統計体系ほか（出典統計はダッシュボード上で確認可能）",
-        },
+        "source": top_source,
         "indicators": indicators,
         "derived": derived,
+        "national_by_fy": national_by_fy,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

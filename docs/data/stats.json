@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-17T13:49:42+00:00",
+ "generated_at": "2026-06-18T12:13:13+00:00",
  "source": {
   "name": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
   "url": "https://dashboard.e-stat.go.jp/",
@@ -430,6 +430,89 @@
    "year": 2024,
    "value": 3.04,
    "note": "在留外国人数 ÷ 総人口（同一年で算出）"
+  }
+ },
+ "national_by_fy": {
+  "2023": {
+   "fiscal_year": 2023,
+   "foreign": 3410992,
+   "foreign_as_of": "令和5年末（2023年12月末）現在",
+   "foreign_provisional": false,
+   "foreign_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "foreign_yoy": {
+    "abs": 335779,
+    "pct": 10.9
+   },
+   "total": 124352000,
+   "total_year": 2023,
+   "total_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "share_pct": 2.74
+  },
+  "2024": {
+   "fiscal_year": 2024,
+   "foreign": 3768977,
+   "foreign_as_of": "令和6年末（2024年12月末）現在",
+   "foreign_provisional": false,
+   "foreign_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "foreign_yoy": {
+    "abs": 357985,
+    "pct": 10.5
+   },
+   "total": 123802000,
+   "total_year": 2024,
+   "total_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "share_pct": 3.04
+  },
+  "2025": {
+   "fiscal_year": 2025,
+   "foreign": 4125395,
+   "foreign_as_of": "令和7年末（2025年12月末）現在",
+   "foreign_provisional": false,
+   "foreign_source": {
+    "label": "出入国在留管理庁 在留外国人数について",
+    "url": "https://www.moj.go.jp/isa/publications/press/13_00062.html"
+   },
+   "foreign_yoy": {
+    "abs": 356418,
+    "pct": 9.5
+   },
+   "total": 123049524,
+   "total_year": 2025,
+   "total_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "share_pct": 3.35
+  },
+  "2026": {
+   "fiscal_year": 2026,
+   "foreign": 4125395,
+   "foreign_as_of": "令和7年末（2025年12月末）現在（令和8年の確報は未公表のため取得可能な最新実績）",
+   "foreign_provisional": true,
+   "foreign_source": {
+    "label": "出入国在留管理庁 在留外国人数について",
+    "url": "https://www.moj.go.jp/isa/publications/press/13_00062.html"
+   },
+   "foreign_yoy": null,
+   "total": 122810000,
+   "total_year": 2026,
+   "total_source": {
+    "label": "e-Stat 統計ダッシュボード（政府統計の総合窓口）",
+    "url": "https://dashboard.e-stat.go.jp/"
+   },
+   "share_pct": 3.36
   }
  }
 }

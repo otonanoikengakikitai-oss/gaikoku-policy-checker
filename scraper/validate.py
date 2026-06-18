@@ -114,6 +114,23 @@ def check_stats(errors):
                 errors.append(f"stats/{key}: latest_actualの出典が一次ソースでない: {(la.get('source') or {}).get('url')}")
             if not (la.get("as_of") or "").strip():
                 errors.append(f"stats/{key}: latest_actualに基準日(as_of)が無い")
+    # 国タブの年度連動用 national_by_fy（各会計年度の全国統計）を検証
+    nbf = data.get("national_by_fy") or {}
+    if not nbf:
+        errors.append("stats: national_by_fy（国タブの年度別統計）が空")
+    for fy, r in nbf.items():
+        w = f"stats/national_by_fy/{fy}"
+        for k in ("foreign", "total"):
+            if not isinstance(r.get(k), int) or r[k] <= 0:
+                errors.append(f"{w}: {k} 不正: {r.get(k)!r}")
+        if not isinstance(r.get("share_pct"), (int, float)):
+            errors.append(f"{w}: share_pct 不正")
+        if not (r.get("foreign_as_of") or "").strip():
+            errors.append(f"{w}: foreign_as_of（基準日）が無い")
+        if not host_allowed((r.get("foreign_source") or {}).get("url", "")):
+            errors.append(f"{w}: 在留外国人数の出典が一次ソースでない: {(r.get('foreign_source') or {}).get('url')}")
+        if not host_allowed((r.get("total_source") or {}).get("url", "")):
+            errors.append(f"{w}: 総人口の出典が一次ソースでない")
     return len(data["indicators"])
 
 
