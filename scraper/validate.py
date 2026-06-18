@@ -157,6 +157,22 @@ def check_glossary(errors):
     return len(terms)
 
 
+def check_population(errors, where, pop):
+    """統計の裏付け（自治体×年度連動）の population を検証。"""
+    if pop is None:
+        return  # 任意項目。無ければスキップ
+    for key in ("foreign", "total"):
+        v = pop.get(key)
+        if not isinstance(v, int) or v <= 0:
+            errors.append(f"{where}/population: {key} 不正: {v!r}")
+    if not isinstance(pop.get("share_pct"), (int, float)):
+        errors.append(f"{where}/population: share_pct 不正")
+    if not (pop.get("as_of") or "").strip():
+        errors.append(f"{where}/population: 基準日(as_of)が無い")
+    if not host_allowed((pop.get("source") or {}).get("url", "")):
+        errors.append(f"{where}/population: 統計の出典が一次ソースでない: {(pop.get('source') or {}).get('url')}")
+
+
 def check_tokyo(errors):
     path = DATA_DIR / "tokyo.json"
     if not path.exists():
@@ -186,6 +202,7 @@ def check_tokyo(errors):
             s += it.get("amount_yen", 0)
         if s != y.get("total_yen"):
             errors.append(f"tokyo/{yl}: total_yen が事業合算と不一致")
+        check_population(errors, f"tokyo/{yl}", y.get("population"))
     return n_items
 
 
@@ -215,6 +232,7 @@ def check_saitama_kawaguchi(errors):
             s += it.get("amount_yen", 0)
         if s != y.get("foreign_total_yen"):
             errors.append(f"saitama_kawaguchi/{yl}: foreign_total_yen が事業合算と不一致")
+        check_population(errors, f"saitama_kawaguchi/{yl}", y.get("population"))
     return n_items
 
 

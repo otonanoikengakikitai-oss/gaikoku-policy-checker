@@ -89,6 +89,16 @@ def build_year(y):
         print(f"  警告: 川口市 {y['fiscal_year_label']} の一般会計証跡なし。対比は省略", file=sys.stderr)
 
     total = sum(i["amount_yen"] for i in items)
+    population = None
+    pop = y.get("population")
+    if pop:
+        population = {
+            "foreign": pop["foreign"],
+            "total": pop["total"],
+            "share_pct": round(pop["foreign"] / pop["total"] * 100, 2),
+            "as_of": pop["as_of"],
+            "source": pop["source"],
+        }
     return {
         "fiscal_year": y["fiscal_year"],
         "fiscal_year_label": y["fiscal_year_label"],
@@ -97,6 +107,7 @@ def build_year(y):
         "foreign_total_yen": total,
         "city_general_account": city,
         "contrast_pct": round(total / city["amount_yen"] * 100, 4) if city else None,
+        "population": population,
     }
 
 

@@ -38,6 +38,15 @@ YEARS = [
             "amount_evidence": "2,554億6,000万円",
             "label": "令和6年度 一般会計 当初予算",
         },
+        "population": {
+            "foreign": 44441,
+            "total": 607279,
+            "as_of": "令和6年4月1日現在",
+            "source": {
+                "label": "川口市 統計月報（令和6年4月）",
+                "url": "https://www.city.kawaguchi.lg.jp/material/files/group/7/R0604.pdf",
+            },
+        },
     },
     {
         "fiscal_year": 2025,
@@ -61,6 +70,15 @@ YEARS = [
             "amount_yen": 273720000000,
             "amount_evidence": "2,737億2,000万円",
             "label": "令和7年度 一般会計 当初予算",
+        },
+        "population": {
+            "foreign": 49464,
+            "total": 607943,
+            "as_of": "令和7年4月1日現在",
+            "source": {
+                "label": "川口市 統計月報（令和7年4月）",
+                "url": "https://www.city.kawaguchi.lg.jp/material/files/group/7/R0704.pdf",
+            },
         },
     },
     {
@@ -94,6 +112,15 @@ YEARS = [
             "amount_yen": 256970000000,
             "amount_evidence": "2,569億7,000万円",
             "label": "令和8年度 一般会計 当初予算",
+        },
+        "population": {
+            "foreign": 55012,
+            "total": 609493,
+            "as_of": "令和8年4月1日現在",
+            "source": {
+                "label": "川口市 統計月報（令和8年4月）",
+                "url": "https://www.city.kawaguchi.lg.jp/material/files/group/7/R0804.pdf",
+            },
         },
     },
 ]

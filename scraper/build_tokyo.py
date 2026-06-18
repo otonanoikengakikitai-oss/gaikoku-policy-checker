@@ -19,7 +19,7 @@ from urllib.parse import urlparse
 import pdfplumber
 
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX
-from tokyo_def import BASIS_NOTE, EXTERNAL_REPORT, ITEMS, SOURCE, TOURISM, TOURISM_NOTE
+from tokyo_def import BASIS_NOTE, EXTERNAL_REPORT, ITEMS, POPULATION, SOURCE, TOURISM, TOURISM_NOTE
 
 OUT = Path(__file__).resolve().parent.parent / "docs" / "data" / "tokyo.json"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
@@ -154,6 +154,15 @@ def run():
                 **EXTERNAL_REPORT,
                 # NHKの「外国人材確保」と比較すべきは外国人材カテゴリのみ（多文化共生を除く）
                 "ours_yen": sum(e["amount_yen"] for e in items if e["category"] == "外国人材"),
+            }
+        pop = POPULATION.get(spec["fiscal_year"])
+        if pop:
+            year["population"] = {
+                "foreign": pop["foreign"],
+                "total": pop["total"],
+                "share_pct": round(pop["foreign"] / pop["total"] * 100, 2),
+                "as_of": pop["as_of"],
+                "source": pop["source"],
             }
         years.append(year)
 

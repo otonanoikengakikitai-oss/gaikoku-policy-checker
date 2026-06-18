@@ -17,6 +17,30 @@ SOURCE = {
     "url": "https://www.zaimu1.metro.tokyo.lg.jp/zaisei/20260130_reiwa8nendo_tokyotoyosanangaiyou/8shuyouzigyou.pdf",
 }
 
+# 統計の裏付け（自治体×年度連動）。東京都の住民基本台帳（各年1月1日現在）の外国人人口・総人口。
+# 出典: 東京都「住民基本台帳による東京都の世帯と人口」結果の概要（各年・人手で1円/1人単位を検証済み）。
+# build_tokyo.py が予算の年度（fiscal_year）に同年1月1日の統計を対応付け、割合を算出する。
+POPULATION = {
+    2026: {
+        "foreign": 783701,
+        "total": 14077552,
+        "as_of": "令和8年1月1日現在",
+        "source": {
+            "label": "東京都 住民基本台帳による東京都の世帯と人口（令和8年）",
+            "url": "https://www.toukei.metro.tokyo.lg.jp/juukiy/2026/jy26qf0001.pdf",
+        },
+    },
+    2025: {
+        "foreign": 721223,
+        "total": 14002534,
+        "as_of": "令和7年1月1日現在",
+        "source": {
+            "label": "東京都 住民基本台帳による東京都の世帯と人口（令和7年）",
+            "url": "https://www.toukei.metro.tokyo.lg.jp/juukiy/2025/jy25qf0001.pdf",
+        },
+    },
+}
+
 # amount_man / prev_man / delta_man は百万円。delta は増額を正、減額を負で記録。
 ITEMS = [
     {
