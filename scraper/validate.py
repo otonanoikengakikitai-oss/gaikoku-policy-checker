@@ -223,34 +223,49 @@ def check_tokyo(errors):
     return n_items
 
 
+def _check_sk_block(errors, prefix, block, ga_key):
+    """埼玉県（prefecture）/ 川口（spotlight）共通の年度ブロック検証。ga_key=一般会計のキー名。"""
+    if not block:
+        return 0
+    if not (block.get("basis_note") or "").strip():
+        errors.append(f"{prefix}: basis_note は必須")
+    years = block.get("years") or []
+    if not years:
+        errors.append(f"{prefix}: 年度が0件")
+    n = 0
+    for y in years:
+        yl = y.get("fiscal_year_label") or y.get("fiscal_year")
+        if not host_allowed((y.get("source") or {}).get("url", "")):
+            errors.append(f"{prefix}/{yl}: 出典が一次ソースでない")
+        items = y.get("items") or []
+        if not items:
+            errors.append(f"{prefix}/{yl}: 事業が0件")
+        s = 0
+        for it in items:
+            n += 1
+            if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
+                errors.append(f"{prefix}/{yl}/{it.get('name')}: amount_yen 不正")
+            s += it.get("amount_yen", 0)
+        if s != y.get("foreign_total_yen"):
+            errors.append(f"{prefix}/{yl}: foreign_total_yen が事業合算と不一致")
+        ga = y.get(ga_key)
+        if ga and not host_allowed((ga.get("source") or {}).get("url", "")) and ga.get("source"):
+            errors.append(f"{prefix}/{yl}: 一般会計の出典が一次ソースでない")
+        check_population(errors, f"{prefix}/{yl}", y.get("population"))
+    return n
+
+
 def check_saitama_kawaguchi(errors):
     path = DATA_DIR / "saitama_kawaguchi.json"
     if not path.exists():
         return 0  # best-effort: 未取得なら検証対象外
     data = json.loads(path.read_text(encoding="utf-8"))
-    if not (data.get("basis_note") or "").strip():
-        errors.append("saitama_kawaguchi: basis_note は必須")
-    years = data.get("years") or []
-    if not years:
-        errors.append("saitama_kawaguchi: 年度が0件")
-    n_items = 0
-    for y in years:
-        yl = y.get("fiscal_year_label") or y.get("fiscal_year")
-        if not host_allowed((y.get("source") or {}).get("url", "")):
-            errors.append(f"saitama_kawaguchi/{yl}: 出典が一次ソースでない")
-        items = y.get("items") or []
-        if not items:
-            errors.append(f"saitama_kawaguchi/{yl}: 事業が0件")
-        s = 0
-        for it in items:
-            n_items += 1
-            if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
-                errors.append(f"saitama_kawaguchi/{yl}/{it.get('name')}: amount_yen 不正")
-            s += it.get("amount_yen", 0)
-        if s != y.get("foreign_total_yen"):
-            errors.append(f"saitama_kawaguchi/{yl}: foreign_total_yen が事業合算と不一致")
-        check_population(errors, f"saitama_kawaguchi/{yl}", y.get("population"))
-    return n_items
+    n = 0
+    n += _check_sk_block(errors, "saitama_pref", data.get("prefecture"), "general_account")
+    n += _check_sk_block(errors, "saitama_kawaguchi", data.get("spotlight"), "city_general_account")
+    if n == 0:
+        errors.append("saitama_kawaguchi: 県・市ともに公開可能な事業が0件")
+    return n
 
 
 def run():

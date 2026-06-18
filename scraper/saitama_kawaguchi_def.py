@@ -12,7 +12,81 @@
 """
 
 GOVERNMENT = "埼玉県川口市"
-REGION_LABEL = "埼玉・川口（トレンド焦点）"
+REGION_LABEL = "埼玉県＋川口市（焦点）"
+
+# ===== メイン：埼玉県（県全体）の外国人特化予算 =====
+# 出典: 埼玉県「議会提出予算説明書」（款項目別の本年度予算額・千円単位）。
+# 外国人特化の「目」= 多文化共生推進事業費（多言語相談・日本語教育・地域づくり等）＋
+# 外国人地域生活支援事業費（外国人総合相談センター）。全県民向けの事業は含まない。
+# 一般会計総額は各年度「当初予算案の概要」PDFの実額表記で対比する。
+PREF_GOVERNMENT = "埼玉県"
+PREF_BASIS_NOTE = (
+    "埼玉県の外国人特化予算（県民生活部国際課の「多文化共生推進事業費」＋「外国人地域生活支援事業費」の"
+    "目別当初予算額）。多言語相談・日本語教育・外国人総合相談センター等で、全県民向けのインフラ・福祉等は含まない。"
+    "金額は千円単位の予算説明書ベース。"
+)
+PREF_TREND_NOTE = (
+    "埼玉県は外国人住民数が全国有数で、多文化共生を県の重点施策に位置づける。だが県の一般会計（2兆円規模）に対し、"
+    "外国人特化予算は数千万円規模に過ぎない。令和7年度に多文化共生推進事業費が一時的に増えたが、内容は相談体制・"
+    "日本語教育・地域づくり等の情報・体制整備であり、『莫大な外国人優遇』という通説と実スケールには歴然とした差がある。"
+)
+
+PREF_YEARS = [
+    {
+        "fiscal_year": 2024,
+        "fiscal_year_label": "令和6年度",
+        "source": {
+            "label": "埼玉県 令和6年度 議会提出予算説明書",
+            "url": "https://www.pref.saitama.lg.jp/documents/243477/r6-tosyo-yosetu-2.pdf",
+        },
+        "items": [
+            {"name": "多文化共生推進事業費", "name_evidence": "多文化共生推進事業費", "bureau": "県民生活部 国際課", "category": "多文化共生", "amount_yen": 17166000, "amount_evidence": "17,166", "desc": "多言語による行政・生活情報の提供、地域日本語教育、多文化共生の地域づくり、ボランティア育成等。"},
+            {"name": "外国人地域生活支援事業費", "name_evidence": "外国人地域生活支援事", "bureau": "県民生活部 国際課", "category": "外国人相談", "amount_yen": 17568000, "amount_evidence": "17,568", "desc": "外国人総合相談センター埼玉の運営（多言語・やさしい日本語による生活相談）。"},
+        ],
+        "general_account": {
+            "amount_yen": 2119744000000,
+            "amount_evidence": "2兆1,197億4,400万円",
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": "埼玉県 令和6年度 当初予算案の概要", "url": "https://www.pref.saitama.lg.jp/documents/243477/00-r6-02-siryo2-2.pdf"},
+        },
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": "令和7年度",
+        "source": {
+            "label": "埼玉県 令和7年度 議会提出予算説明書",
+            "url": "https://www.pref.saitama.lg.jp/documents/260021/r7-yosetu.pdf",
+        },
+        "items": [
+            {"name": "多文化共生推進事業費", "name_evidence": "多文化共生推進事業費", "bureau": "県民生活部 国際課", "category": "多文化共生", "amount_yen": 56468000, "amount_evidence": "56,468", "desc": "多言語による行政・生活情報の提供、地域日本語教育、多文化共生の地域づくり等（令和7年度は拡充）。"},
+            {"name": "外国人地域生活支援事業費", "name_evidence": "外国人地域生活支援事", "bureau": "県民生活部 国際課", "category": "外国人相談", "amount_yen": 17782000, "amount_evidence": "17,782", "desc": "外国人総合相談センター埼玉の運営（多言語・やさしい日本語による生活相談）。"},
+        ],
+        "general_account": {
+            "amount_yen": 2230890000000,
+            "amount_evidence": "2兆2,308億9,000万円",
+            "label": "令和7年度 一般会計 当初予算",
+            "source": {"label": "埼玉県 令和7年度 当初予算案の概要", "url": "https://www.pref.saitama.lg.jp/documents/260021/03_r7-02-siryou2.pdf"},
+        },
+    },
+    {
+        "fiscal_year": 2026,
+        "fiscal_year_label": "令和8年度",
+        "source": {
+            "label": "埼玉県 令和8年度 議会提出予算説明書",
+            "url": "https://www.pref.saitama.lg.jp/documents/274057/yosetur8.pdf",
+        },
+        "items": [
+            {"name": "多文化共生推進事業費", "name_evidence": "多文化共生推進事業費", "bureau": "県民生活部 国際課", "category": "多文化共生", "amount_yen": 27036000, "amount_evidence": "27,036", "desc": "多言語による行政・生活情報の提供（外国人の生活ガイド）、地域日本語教育、多文化共生の地域づくり、災害時の外国人支援、ボランティア育成等。"},
+            {"name": "外国人地域生活支援事業費", "name_evidence": "外国人地域生活支援事", "bureau": "県民生活部 国際課", "category": "外国人相談", "amount_yen": 17782000, "amount_evidence": "17,782", "desc": "外国人総合相談センター埼玉の運営（13言語＋やさしい日本語による生活相談）。"},
+        ],
+        "general_account": {
+            "amount_yen": 2434865000000,
+            "amount_evidence": "2兆4,348億6,500万円",
+            "label": "令和8年度 一般会計 当初予算",
+            "source": {"label": "埼玉県 令和8年度 当初予算案の概要", "url": "https://www.pref.saitama.lg.jp/documents/274057/03-r8-02-siryou2.pdf"},
+        },
+    },
+]
 
 YEARS = [
     {

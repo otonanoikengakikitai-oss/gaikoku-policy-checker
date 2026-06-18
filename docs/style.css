@@ -136,6 +136,13 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .local-kpi-band { margin: 20px 0 6px; }
 .local-kpi-h { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 2px; }
 .local-kpi { margin: 8px 0 0; }
+/* 焦点（Spotlight）= 川口市。県メインと視覚的に区切る */
+.spotlight-band { margin: 40px 0 14px; padding: 16px 18px; border: 1px solid var(--accent-deep); border-left: 4px solid var(--accent); border-radius: 12px; background: linear-gradient(180deg, rgba(251,191,36,0.07), rgba(251,191,36,0)); }
+.spotlight-head { font-size: 17px; font-weight: 900; color: var(--text); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.spotlight-badge { font-size: 11px; font-weight: 900; letter-spacing: .5px; padding: 3px 10px; border-radius: 999px; background: var(--accent); color: #271600; }
+.spotlight-lead { font-size: 13px; color: var(--muted); line-height: 1.65; margin: 8px 0 0; }
+/* 地方リストの並び替えトグル（上マージン調整） */
+.budget-col .sort-seg { margin: 0 0 8px; }
 /* 自治体ビュー専用の年度タブ（セクション内・上マージン控えめ） */
 .gov-year-tabs { margin: 4px 0 18px; }
 .year-tab {
