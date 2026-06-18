@@ -130,8 +130,12 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .delta.big { font-size: 15px; padding: 2px 12px; }
 
 .year-tabs { display: flex; gap: 8px; margin: 28px 0 0; flex-wrap: wrap; }
-/* hidden属性を display:flex より確実に優先（年度タブの混入バグ対策） */
-.year-tabs[hidden] { display: none !important; }
+/* hidden属性を display:flex/grid より確実に優先（作者CSSがUAの[hidden]に勝つ問題への防御） */
+.year-tabs[hidden], .kpi-grid[hidden], .stat-cards[hidden] { display: none !important; }
+/* 地方タブのサマリーカード帯（国の #kpi と同一デザイン） */
+.local-kpi-band { margin: 20px 0 6px; }
+.local-kpi-h { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 2px; }
+.local-kpi { margin: 8px 0 0; }
 /* 自治体ビュー専用の年度タブ（セクション内・上マージン控えめ） */
 .gov-year-tabs { margin: 4px 0 18px; }
 .year-tab {

@@ -252,6 +252,29 @@ function renderFilteredList(prefix, items, textOf, cardOf) {
   }
 }
 
+// 4つのサマリーカード（国の #kpi と同一デザイン）。地方タブにも国と同じKPI帯を表示する。
+function localKpiHtml(cards) {
+  return (
+    `<div class="kpi-grid local-kpi">` +
+    cards
+      .map(
+        (c) => `<div class="kpi">
+      <div class="label">${esc(c.label)}</div>
+      <div class="value${c.fy ? " fy-value" : ""}">${c.value}${c.unit ? `<small> ${esc(c.unit)}</small>` : ""}${c.badge || ""}</div>
+      ${c.exact || ""}
+      ${c.sub ? `<div class="sub">${c.sub}</div>` : ""}
+    </div>`
+      )
+      .join("") +
+    `</div>`
+  );
+}
+
+// 合計の前年比デルタを deltaBadge 用の {abs,pct} に整形（前年が無ければ null）
+function totalDelta(cur, prev) {
+  return prev ? { abs: cur - prev, pct: ((cur - prev) / prev) * 100 } : null;
+}
+
 function filtered() {
   const q = state.q.trim();
   const rows = state.projects.filter((p) => {
@@ -608,6 +631,20 @@ function renderTokyoYear(fy) {
     .map(([name, amount_yen]) => ({ name, amount_yen, color: catColor(name) }));
   const catLead = catSegs[0];
   const catLeadPct = Math.round((catLead.amount_yen / yr.total_yen) * 100);
+  // 4つのサマリーカード（国 #kpi と同一デザイン。所管府省庁→担当局に読み替え）
+  const bureaus = [...new Set(yr.items.map((i) => i.bureau))];
+  const tokyoKpi = localKpiHtml([
+    { label: "関連事業数（主要事業）", value: yr.items.length, unit: "件", sub: "多文化共生・外国人材の4重検証済み事業" },
+    {
+      label: "当初予算 合算（外国人政策）",
+      value: fmtYen(yr.total_yen),
+      badge: prevTotal ? " " + deltaBadge(totalDelta(yr.total_yen, prevTotal), "big") : "",
+      exact: exactTag(yr.total_yen),
+      sub: `${esc(fyL)}・主要事業ベース`,
+    },
+    { label: "担当局", value: bureaus.length, unit: "局", sub: esc(bureaus.join("・")) },
+    { label: "データ年度", value: esc(fyL), fy: true, sub: "出典: 東京都財務局 主要事業" },
+  ]);
   document.getElementById("tokyo").innerHTML = `
   <div class="budget-hero">
     <div class="budget-hero-main">
@@ -636,6 +673,7 @@ function renderTokyoYear(fy) {
       ${listControlsHtml("tokyo", yr.items.map((i) => i.category), LIST_FILTERS.tokyo, yr.items.length, fyL)}
     </div>
   </div>
+  <div class="local-kpi-band"><div class="local-kpi-h">この年度のサマリー（${esc(fyL)}）</div>${tokyoKpi}</div>
   <p class="pair-note budget-caveat"><i>!</i> ${esc(tk.tourism_note)}</p>
   ${yr.external_report ? tokyoReportHtml(yr.external_report) : ""}
   <p class="budget-basis">${esc(tk.basis_note)}${yr.source_note ? " " + esc(yr.source_note) : ""} 出典: <a href="${esc(tk.source.url)}" target="_blank" rel="noopener">${esc(tk.source.label)} ↗</a></p>`;
@@ -781,6 +819,31 @@ function renderKawaguchiYear(fy) {
     .sort((a, b) => b.amount_yen - a.amount_yen)
     .map((it, i) => ({ name: it.name, amount_yen: it.amount_yen, color: catColor(it.category, i) }));
   const itemBars = barListHtml(itemRows);
+  // 事業別 100% 積み上げ（国の「主管省庁別」と同一デザイン：巨大%＋積み上げバー＋凡例）
+  const evSegs = itemRows.slice();
+  const evLead = evSegs[0];
+  const evLeadPct = evLead ? Math.round((evLead.amount_yen / fTotal) * 100) : 0;
+  const evBreakdown = evLead
+    ? `<div class="breakdown">
+    <div class="bd-head">外国人特化予算の中身 — 事業別の割合（${esc(fyL)}）</div>
+    <div class="bd-lead"><span class="bd-lead-pct">${evLeadPct}%</span><span class="bd-lead-txt">が <b>${esc(evLead.name)}</b>。<span class="bd-lead-amt">${fmtYen(evLead.amount_yen)}</span></span></div>
+    ${stackedBreakdownHtml(evSegs, fTotal)}
+  </div>`
+    : "";
+  // 4つのサマリーカード（国 #kpi と同一デザイン。所管府省庁→担当課に読み替え）
+  const kwBureaus = [...new Set(yr.items.map((i) => i.bureau))];
+  const kawaguchiKpi = localKpiHtml([
+    { label: "関連事業数（外国人特化）", value: yr.items.length, unit: "件", sub: "協働推進課の多文化共生関連" },
+    {
+      label: "当初予算 合算（外国人特化）",
+      value: esc(totalLabel),
+      badge: prevTotal ? " " + deltaBadge(totalDelta(fTotal, prevTotal), "big") : "",
+      exact: exactTag(fTotal),
+      sub: `${esc(fyL)}・当初予算ベース`,
+    },
+    { label: "担当課", value: kwBureaus.length, unit: "課", sub: esc(kwBureaus.join("・")) },
+    { label: "データ年度", value: esc(fyL), fy: true, sub: "出典: 川口市 当初予算のポイント" },
+  ]);
   const contrast = city
     ? `<div class="breakdown tokyo-contrast">
     <div class="bd-head">本当の予算の正体 — 「莫大な税金」の実額は市予算の約${yr.contrast_pct}%</div>
@@ -805,6 +868,7 @@ function renderKawaguchiYear(fy) {
   </div>
   ${trendChartHtml(trendRows, fy)}
   ${contrast}
+  ${evBreakdown}
   <div class="report-note">
     <div class="rn-head"><i class="rn-i">!</i> トレンド焦点 — SNSの言説 vs 一次ソースの実額</div>
     <p class="rn-body">${esc(KAWAGUCHI.trend_note)}</p>
@@ -819,6 +883,7 @@ function renderKawaguchiYear(fy) {
       ${listControlsHtml("kawaguchi", yr.items.map((i) => i.category), LIST_FILTERS.kawaguchi, yr.items.length, fyL)}
     </div>
   </div>
+  <div class="local-kpi-band"><div class="local-kpi-h">この年度のサマリー（${esc(fyL)}）</div>${kawaguchiKpi}</div>
   <p class="budget-basis">${esc(KAWAGUCHI.basis_note)} 出典: <a href="${esc(yr.source.url)}" target="_blank" rel="noopener">${esc(yr.source.label)} ↗</a></p>`;
   renderKawaguchiItemList();
   applyGlossary(document.getElementById("kawaguchi"));
@@ -848,9 +913,9 @@ function setGov(mode) {
   govMode = mode;
   const isNational = mode === "national";
   document.querySelectorAll(".gov-btn").forEach((b) => b.classList.toggle("on", b.dataset.gov === mode));
-  // 国側の要素（年度タブ・KPI・関係予算・ランキング・比較）は国モードのみ表示
+  // 国側の年度タブは国モードのみ表示（自治体は各自の年度タブを持つ）。
+  // 「ならべて比較」「統計の裏付け」「言説チェッカー」は全タブ共通で常時表示（隠さない）。
   document.getElementById("year-tabs").hidden = !isNational;
-  document.getElementById("compare-section").hidden = !isNational;
   if (isNational) {
     setYear(state.year || FY_BUDGET); // 現在の年度タブの表示を復元（統計・比較もここで連動）
   } else {
@@ -1082,9 +1147,6 @@ function setYear(y) {
   document.getElementById("kpi").hidden = budgetMode;
   document.getElementById("amount-note").hidden = budgetMode;
   document.getElementById("ranking-section").hidden = budgetMode;
-  // 「ならべて比較」は国の制度（FY2026基準）の参考。国モードのFY2026タブでのみ表示し、
-  // 過去年度タブ・自治体タブには出さない（文脈エラーの防止）。
-  document.getElementById("compare-section").hidden = !budgetMode;
   renderYearTabs();
   renderStatsFor("national", y); // 統計を国（全国）に連動
   if (budgetMode) {
@@ -1303,10 +1365,10 @@ function navTo(target) {
     window.scrollTo({ top: 0, behavior: "smooth" });
     return;
   }
-  // 目次の項目は国（政府）側のセクション。自治体モードなら国モードに戻す。
-  if (govMode !== "national") setGov("national");
-  // 予算内訳・施策一覧・ならべて比較はFY2026タブ専用。必要なら先にタブを切り替える
-  const needsBudget = target === "budget" || target === "shisaku" || target === "compare";
+  // 予算内訳・施策一覧は国のFY2026タブ専用。必要なら国モード＋FY2026に切り替える。
+  // 比較・統計は全タブ共通なので自治体モードのままでもスクロールできる。
+  const needsBudget = target === "budget" || target === "shisaku";
+  if (needsBudget && govMode !== "national") setGov("national");
   if (needsBudget && state.year !== FY_BUDGET) setYear(FY_BUDGET);
   const idMap = {
     budget: "policy-budget-section",
