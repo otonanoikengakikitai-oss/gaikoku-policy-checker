@@ -54,7 +54,19 @@
 <aside id="news-ticker" class="news-ticker" hidden aria-label="外国人政策 関連ニュース速報">
   <span class="nt-label"><span class="nt-dot"></span>速報</span>
   <div class="nt-viewport"><div class="nt-track" id="nt-track"></div></div>
+  <button type="button" class="nt-all" id="nt-all" aria-haspopup="dialog">ニュース一覧<span class="nt-all-arrow" aria-hidden="true">›</span></button>
 </aside>
+<div id="news-modal" class="news-modal" hidden role="dialog" aria-modal="true" aria-labelledby="news-modal-h">
+  <div class="news-modal-backdrop" id="news-modal-backdrop"></div>
+  <div class="news-modal-panel">
+    <div class="news-modal-head">
+      <div><h2 id="news-modal-h">外国人政策 関連ニュース</h2><p class="news-modal-sub" id="news-modal-sub"></p></div>
+      <button type="button" class="news-modal-close" id="news-modal-close" aria-label="閉じる">×</button>
+    </div>
+    <div class="news-modal-list" id="news-modal-list"></div>
+    <p class="news-modal-foot" id="news-modal-foot"></p>
+  </div>
+</div>
 <main class="wrap">
   <div class="gov-toggle" id="gov-toggle" role="group" aria-label="政府レベルの切り替え">
     <button type="button" class="gov-btn on" data-gov="national">国（政府）</button>

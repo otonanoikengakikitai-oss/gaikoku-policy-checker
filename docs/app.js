@@ -1258,8 +1258,11 @@ function renderClaims(claimsData) {
     .join("");
 }
 
-/* ===== ニュースティッカー（外国人政策 速報） ===== */
+/* ===== ニュースティッカー（外国人政策 速報）＋一覧モーダル ===== */
+let NEWS = null;
+
 function renderNewsTicker(news) {
+  NEWS = news;
   const ticker = document.getElementById("news-ticker");
   const track = document.getElementById("nt-track");
   const vp = ticker && ticker.querySelector(".nt-viewport");
@@ -1282,6 +1285,61 @@ function renderNewsTicker(news) {
     track.innerHTML = unit + unit;
     const unitWidth = track.scrollWidth / 2;
     track.style.animationDuration = Math.max(unitWidth / 70, 16).toFixed(1) + "s"; // 約70px/秒
+  });
+  renderNewsModalList();
+}
+
+function renderNewsModalList() {
+  const list = document.getElementById("news-modal-list");
+  if (!list || !NEWS || !Array.isArray(NEWS.items)) return;
+  list.innerHTML = NEWS.items
+    .map(
+      (it, i) => `<a class="news-row" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+      <div class="news-row-top">
+        <span class="news-row-num">${i + 1}</span>
+        <span class="nt-src">${esc(it.source)}</span>
+        <span class="news-row-time">${esc(it.published || "")}</span>
+      </div>
+      <div class="news-row-title">${esc(it.title)} <span class="news-row-arrow" aria-hidden="true">↗</span></div>
+    </a>`
+    )
+    .join("");
+  const sub = document.getElementById("news-modal-sub");
+  if (sub) {
+    const updated = NEWS.generated_at ? new Date(NEWS.generated_at) : null;
+    sub.textContent = `信頼できる全国大手メディア・通信社・NHK等から自動抽出した最新 ${NEWS.items.length} 件${updated ? `（更新: ${updated.toLocaleString("ja-JP")}）` : ""}`;
+  }
+  const foot = document.getElementById("news-modal-foot");
+  if (foot) foot.textContent = NEWS.source_note || "";
+}
+
+let newsModalPrevFocus = null;
+function openNewsModal() {
+  const m = document.getElementById("news-modal");
+  if (!m || !NEWS) return;
+  renderNewsModalList();
+  newsModalPrevFocus = document.activeElement;
+  m.hidden = false;
+  document.body.style.overflow = "hidden";
+  const close = document.getElementById("news-modal-close");
+  if (close) close.focus();
+}
+function closeNewsModal() {
+  const m = document.getElementById("news-modal");
+  if (!m) return;
+  m.hidden = true;
+  document.body.style.overflow = "";
+  if (newsModalPrevFocus && newsModalPrevFocus.focus) newsModalPrevFocus.focus();
+}
+function bindNews() {
+  const all = document.getElementById("nt-all");
+  if (all) all.addEventListener("click", openNewsModal);
+  const close = document.getElementById("news-modal-close");
+  if (close) close.addEventListener("click", closeNewsModal);
+  const bd = document.getElementById("news-modal-backdrop");
+  if (bd) bd.addEventListener("click", closeNewsModal);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !document.getElementById("news-modal").hidden) closeNewsModal();
   });
 }
 
@@ -1570,6 +1628,7 @@ function bindLocalList(sectionId) {
 function bind() {
   bindDrawer();
   bindGov();
+  bindNews();
   // 国の年度タブ（行政事業レビュー / 関係予算）。国モード以外では発火させない（混入の二重防止）。
   document.getElementById("year-tabs").addEventListener("click", (e) => {
     const btn = e.target.closest("[data-year]");

@@ -1,79 +1,103 @@
-"""外国人政策関連ニュースの自動抽出 → docs/data/news.json
+"""外国人政策関連ニュースの大量自動抽出 → docs/data/news.json
 
-公共放送・大手報道（極めて信頼性の高い一次報道メディア）のRSSフィードを複数取得し、
-外国人政策に関するキーワードを含む見出しのみを厳格に抽出する。見出し・リンク・配信時刻・
-媒体名は原文のまま転記し、当アプリ側の論評・煽りは一切加えない（AdSenseの品質基準に配慮）。
+Google News のキーワード検索RSSで関連最新ニュースを大量取得し、各記事の発信元
+（<source url>）ドメインを「全国大手メディア・通信社・NHK等」のホワイトリストで厳格に
+絞り込む（Yahoo!ニュース等のポータルや個人ブログ・小規模サイトは除外）。AdSense品質基準に
+配慮し、見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は一切加えない。
 
-実行: cd scraper && python3 build_news.py
-出力: docs/data/news.json（最新最大10件）
+直近最大50件を news.json にストックする。実行: cd scraper && python3 build_news.py
 """
 import datetime
 import json
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from urllib.parse import urlparse
 
 from common import BROWSER_UA, _CTX
 
 OUT = Path(__file__).resolve().parent.parent / "docs" / "data" / "news.json"
-MAX_ITEMS = 10
+MAX_ITEMS = 50
+MIN_ITEMS_TO_PUBLISH = 6  # これ未満なら空更新せず直近を温存
 
-# 一次報道メディアのRSS（NHK NEWS WEB の各カテゴリ：主要・社会・政治・経済・国際）。
-# いずれも記事リンクは一般公開の www3.nhk.or.jp ドメイン。媒体を増やす場合はここに追記する。
-FEEDS = [
-    {"url": "https://www3.nhk.or.jp/rss/news/cat0.xml", "source": "NHK", "category": "主要"},
-    {"url": "https://www3.nhk.or.jp/rss/news/cat1.xml", "source": "NHK", "category": "社会"},
-    {"url": "https://www3.nhk.or.jp/rss/news/cat4.xml", "source": "NHK", "category": "政治"},
-    {"url": "https://www3.nhk.or.jp/rss/news/cat5.xml", "source": "NHK", "category": "経済"},
-    {"url": "https://www3.nhk.or.jp/rss/news/cat6.xml", "source": "NHK", "category": "国際"},
+# Google News 検索RSS（複数クエリで取りこぼしを最小化）。各クエリ最大100件。
+QUERIES = [
+    "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
+    "技能実習 OR 育成就労 OR 特定技能 OR 外国人材 OR 外国人労働者",
+    "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会",
 ]
+GNEWS = "https://news.google.com/rss/search?q={q}&hl=ja&gl=JP&ceid=JP:ja"
 
-# 外国人政策に関するキーワード（政策・制度・共生を中心に。見出しに含まれるものだけ採用）
-KEYWORDS = [
-    "外国人", "入管", "出入国在留管理", "在留資格", "在留外国人", "技能実習", "育成就労",
-    "特定技能", "多文化共生", "難民", "移民", "永住", "帰化", "外国人材", "外国人労働者",
-    "日本語教育", "インバウンド", "国際交流", "留学生", "共生社会", "クルド",
-]
-KW_RE = re.compile("|".join(re.escape(k) for k in KEYWORDS))
+# 信頼できる一次ソース媒体（全国紙・通信社・NHK・主要放送局）。host が一致 or サブドメインのみ採用。
+# ポータル（news.yahoo.co.jp 等）・個人ブログ・小規模サイトは載せない＝AdSense対策。
+TRUSTED_DOMAINS = (
+    "nhk.or.jp",
+    "asahi.com", "yomiuri.co.jp", "mainichi.jp", "nikkei.com", "sankei.com",
+    "tokyo-np.co.jp", "chunichi.co.jp", "nishinippon.co.jp", "hokkaido-np.co.jp",
+    "kahoku.news", "kobe-np.co.jp", "shinmai.co.jp", "kyoto-np.co.jp",
+    "kyodo.co.jp", "nordot.app", "47news.jp", "jiji.com",
+    "tv-asahi.co.jp", "ntv.co.jp", "tbs.co.jp", "newsdig.tbs.co.jp",
+    "fnn.jp", "ann-news.jp", "news24.jp", "fujitv.co.jp",
+    "nippon.com", "asahi.co.jp", "mbs.jp", "rkb.jp", "htb.co.jp",
+)
+
+
+def host_trusted(url):
+    host = (urlparse(url or "").hostname or "").lower()
+    if not host:
+        return None
+    for d in TRUSTED_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return d
+    return None
 
 
 def fetch_xml(url):
-    """RSS(XML)を取得して文字列で返す。失敗時は None（1フィードの不通で全体を止めない）。"""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
-        with urllib.request.urlopen(req, timeout=40, context=_CTX) as r:
+        with urllib.request.urlopen(req, timeout=45, context=_CTX) as r:
             return r.read().decode("utf-8", errors="replace")
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
-        print(f"  警告: フィード取得失敗 {url}: {e}", file=sys.stderr)
+        print(f"  警告: フィード取得失敗 {url[:60]}…: {e}", file=sys.stderr)
         return None
 
 
-def parse_items(xml_text, feed):
+def parse_items(xml_text):
     out = []
     try:
         root = ET.fromstring(xml_text)
     except ET.ParseError as e:
-        print(f"  警告: XML解析失敗 {feed['url']}: {e}", file=sys.stderr)
+        print(f"  警告: XML解析失敗: {e}", file=sys.stderr)
         return out
-
-    def tag_text(item, name):
-        for c in item:
-            if c.tag.split("}")[-1] == name:
-                return (c.text or "").strip()
-        return ""
-
     for item in root.findall(".//item"):
-        title = tag_text(item, "title")
-        link = tag_text(item, "link")
-        pub = tag_text(item, "pubDate")
+        d = {c.tag.split("}")[-1]: c for c in item}
+        title = (d["title"].text or "").strip() if "title" in d else ""
+        link = (d["link"].text or "").strip() if "link" in d else ""
+        pub = (d["pubDate"].text or "").strip() if "pubDate" in d else ""
+        src_el = d.get("source")
+        src_name = (src_el.text or "").strip() if src_el is not None else ""
+        src_url = src_el.get("url") if src_el is not None else ""
         if not title or not link:
             continue
-        # 記事リンクは https に正規化（NHK RSS は http 表記のことがある）
-        link = re.sub(r"^http://", "https://", link)
+        trusted = host_trusted(src_url)
+        if not trusted:
+            continue  # 信頼ドメイン以外は除外
+        # Google の「 - 媒体名」に加え、媒体自身が末尾に「：媒体名」を付ける配信もある（二重）。
+        # 末尾の媒体名を区切りごと繰り返し除去する。
+        clean = title.strip()
+        for _ in range(3):
+            prev = clean
+            if src_name and clean.endswith(src_name):
+                clean = clean[: -len(src_name)].rstrip(" 　-–—|｜:：・")
+            if clean == prev:
+                break
+        # 「画像・写真：…」「動画：…」のように先頭に定型語が付く配信は落とす
+        clean = re.sub(r"^(画像・写真|画像|動画|速報|特集)[:：]\s*", "", clean).strip()
         dt = None
         if pub:
             try:
@@ -81,10 +105,10 @@ def parse_items(xml_text, feed):
             except (TypeError, ValueError):
                 dt = None
         out.append({
-            "title": title,
-            "url": link,
-            "source": feed["source"],
-            "category": feed["category"],
+            "title": clean.strip() or title,
+            "url": link,  # Google News のリンク（クリックで信頼ソース記事へ転送される）
+            "source": src_name or trusted,
+            "source_domain": trusted,
             "dt": dt,
         })
     return out
@@ -92,38 +116,35 @@ def parse_items(xml_text, feed):
 
 def run():
     collected = []
-    for feed in FEEDS:
-        xml_text = fetch_xml(feed["url"])
-        if not xml_text:
-            continue
-        collected.extend(parse_items(xml_text, feed))
-    if not collected:
-        print("  エラー: ニュースを1件も取得できなかった（全フィード不通）", file=sys.stderr)
-        raise SystemExit(1)
+    for q in QUERIES:
+        xml_text = fetch_xml(GNEWS.format(q=urllib.parse.quote(q)))
+        if xml_text:
+            collected.extend(parse_items(xml_text))
+    print(f"  取得（信頼ドメイン通過・重複含む）: {len(collected)} 件", file=sys.stderr)
 
-    # キーワードで厳格フィルタ（見出しに政策関連語を含むもののみ）
-    hits = [it for it in collected if KW_RE.search(it["title"])]
-
-    # リンクで重複排除（複数カテゴリに同記事が載るため）
+    # 見出しで重複排除（複数クエリに同記事が載るため）
     seen = set()
     uniq = []
-    for it in hits:
-        if it["url"] in seen:
+    for it in collected:
+        key = re.sub(r"\s+", "", it["title"])
+        if key in seen:
             continue
-        seen.add(it["url"])
+        seen.add(key)
         uniq.append(it)
 
-    # キーワード一致が0件の日は、空で上書きせず直近の good な news.json を温存する。
+    # 件数が少なすぎる日は空で上書きせず直近の good な news.json を温存する。
+    if len(uniq) < MIN_ITEMS_TO_PUBLISH and OUT.exists():
+        prev = json.loads(OUT.read_text(encoding="utf-8"))
+        if len(prev.get("items", [])) > len(uniq):
+            print(f"  注意: 抽出 {len(uniq)} 件と少数のため直近の news.json（{len(prev['items'])}件）を温存", file=sys.stderr)
+            return prev
     if not uniq:
-        print("  注意: 外国人政策に関する見出しが0件。既存の news.json を温存（更新なし）", file=sys.stderr)
-        if OUT.exists():
-            return json.loads(OUT.read_text(encoding="utf-8"))
-        # 既存も無い場合のみ空で出力（UI側はitems空ならティッカー非表示）
+        print("  エラー: 信頼ソースの関連ニュースを取得できなかった", file=sys.stderr)
+        raise SystemExit(1)
 
-    # 配信時刻の新しい順。日時不明は末尾へ。
     uniq.sort(key=lambda it: it["dt"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
     top = uniq[:MAX_ITEMS]
-
+    jst = datetime.timezone(datetime.timedelta(hours=9))
     items = []
     for it in top:
         dt = it["dt"]
@@ -131,25 +152,28 @@ def run():
             "title": it["title"],
             "url": it["url"],
             "source": it["source"],
-            "category": it["category"],
-            "published": dt.astimezone(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M") if dt else "",
+            "source_domain": it["source_domain"],
+            "published": dt.astimezone(jst).strftime("%Y-%m-%d %H:%M") if dt else "",
             "published_iso": dt.isoformat() if dt else "",
         })
 
     out = {
         "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "source_note": (
-            "NHK NEWS WEB（公共放送・一次報道）のRSSから、外国人政策に関するキーワードで自動抽出。"
-            "見出し・リンク・配信時刻・媒体名は原文のまま。当アプリの論評は加えていません。"
+            "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみを"
+            "ホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、"
+            "当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。"
         ),
-        "keywords": KEYWORDS,
+        "queries": QUERIES,
         "items": items,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"ニュース {len(items)} 件（{len(collected)} 件中・キーワード一致 {len(uniq)} 件）→ {OUT}", file=sys.stderr)
+    print(f"ニュース {len(items)} 件（重複排除後 {len(uniq)} 件）→ {OUT}", file=sys.stderr)
+    by_src = {}
     for it in items:
-        print(f"  [{it['published']}] {it['source']}/{it['category']}: {it['title'][:42]}", file=sys.stderr)
+        by_src[it["source"]] = by_src.get(it["source"], 0) + 1
+    print("  媒体別: " + " / ".join(f"{k}:{v}" for k, v in sorted(by_src.items(), key=lambda x: -x[1])), file=sys.stderr)
     return out
 
 
