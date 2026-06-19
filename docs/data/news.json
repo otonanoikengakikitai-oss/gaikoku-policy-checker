@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-19T02:46:11+00:00",
+ "generated_at": "2026-06-19T02:51:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -376,14 +376,6 @@
    "published_iso": "2026-06-16T11:37:15+00:00"
   },
   {
-   "title": "ユニクロ高校で出張授業 難民支援について生徒が考え行動する",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuZ3U1aVBGNnZ0U3d1bF9qR3AyT3dmcklqQWJPblJiT1pkQ1QtN203WXM2dWt4clg1VFRCc1ZwZWxJZW5IUXY0MTRNR244aU9yRzItQ195MFRxSFV1S2RQVFRFcGZEUG8?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-06-16 19:40",
-   "published_iso": "2026-06-16T10:40:00+00:00"
-  },
-  {
    "title": "「不法就労をさせない環境作りを」技能実習生と警察官が連携して呼びかけ 警視庁（2026年6月16日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hMkNnSmZLTC1ncjk3Q1AwWGZnQnJOV2FROFhvWlBaV1RyTzczR1BXVXVqX3REZDJnTFBteHBLemNiQlZtelJmWXd1MEFZMnFpNDRJalF2cFM3THZGZFowUGw0bkxxMTRuWjR5NmVnNGlTUzdEanFvRWl4VWU?oc=5",
    "source": "日テレNEWS NNN",
@@ -406,6 +398,14 @@
    "source_domain": "nippon.com",
    "published": "2026-06-16 06:00",
    "published_iso": "2026-06-15T21:00:00+00:00"
+  },
+  {
+   "title": "在留期間過ぎたベトナム人技能実習生４人を働かせたか かき養殖業の男(73)を容疑で逮捕 「納得いきません」と供述 広島",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUXBjWG5DbllhMmJGNGFBaHJlcEJiSzVpcHZ1WDhNM0VLX05QYk5FYkxTbVJUX2J2S2R3eTZjaklPYWlaOGJTUlpRMzlFaGRoMVRYaTAyWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-06-15 17:06",
+   "published_iso": "2026-06-15T08:06:00+00:00"
   }
  ]
 }
