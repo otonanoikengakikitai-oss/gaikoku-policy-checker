@@ -1258,6 +1258,33 @@ function renderClaims(claimsData) {
     .join("");
 }
 
+/* ===== ニュースティッカー（外国人政策 速報） ===== */
+function renderNewsTicker(news) {
+  const ticker = document.getElementById("news-ticker");
+  const track = document.getElementById("nt-track");
+  const vp = ticker && ticker.querySelector(".nt-viewport");
+  if (!ticker || !track || !vp || !news || !Array.isArray(news.items) || !news.items.length) return;
+  const itemHtml = (it) => `<a class="nt-item" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+      <span class="nt-src">${esc(it.source)}</span>
+      <span class="nt-title">${esc(it.title)}</span>
+      ${it.published ? `<span class="nt-time">${esc(it.published)}</span>` : ""}
+    </a>`;
+  const baseHtml = news.items.map(itemHtml).join("");
+  track.innerHTML = baseHtml; // まず1セット幅を計測
+  ticker.hidden = false;
+  requestAnimationFrame(() => {
+    const vw = vp.clientWidth || 600;
+    const baseWidth = track.scrollWidth;
+    if (baseWidth <= 0) return;
+    // 1ユニットがビューポート幅以上になるよう繰り返し、それを2つ並べてシームレスループ
+    const reps = Math.max(1, Math.ceil((vw + 80) / baseWidth));
+    const unit = baseHtml.repeat(reps);
+    track.innerHTML = unit + unit;
+    const unitWidth = track.scrollWidth / 2;
+    track.style.animationDuration = Math.max(unitWidth / 70, 16).toFixed(1) + "s"; // 約70px/秒
+  });
+}
+
 function setYear(y) {
   state.year = y;
   const budgetMode = y === FY_BUDGET;
@@ -1621,6 +1648,7 @@ async function main() {
     getJson("data/tokyo.json").catch(() => null), // best-effort: 無ければ東京都タブを隠す
   ]);
   const kawaguchiData = await getJson("data/saitama_kawaguchi.json").catch(() => null);
+  getJson("data/news.json").then(renderNewsTicker).catch(() => {}); // best-effort: 速報ティッカー
   GLOSSARY = glossary.terms || [];
   state.years = yearsMeta.years;
   await Promise.all(

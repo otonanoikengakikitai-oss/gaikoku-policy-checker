@@ -129,6 +129,37 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .delta.down { color: var(--green); background: var(--green-bg); border: 1px solid #1d5c49; }
 .delta.big { font-size: 15px; padding: 2px 12px; }
 
+/* ===== ニュースティッカー（外国人政策 速報・電光掲示板風） ===== */
+.news-ticker {
+  display: flex; align-items: stretch; height: 40px; overflow: hidden;
+  background: linear-gradient(90deg, #0a0e1c, var(--bg));
+  border-top: 1px solid var(--accent-deep); border-bottom: 1px solid var(--line);
+}
+.news-ticker[hidden] { display: none !important; }
+.nt-label {
+  display: inline-flex; align-items: center; gap: 8px; flex: 0 0 auto; padding: 0 16px;
+  background: #0a0e1c; color: var(--accent); border-right: 1px solid var(--accent-deep);
+  font-size: 12.5px; font-weight: 900; letter-spacing: 1px; white-space: nowrap;
+}
+.nt-dot { width: 8px; height: 8px; border-radius: 50%; background: #ff4d4d; box-shadow: 0 0 7px #ff4d4d; animation: nt-blink 1.1s steps(2, jump-none) infinite; }
+@keyframes nt-blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: .25; } }
+.nt-viewport { position: relative; flex: 1 1 auto; overflow: hidden; }
+/* 両端のフェード（流れが途切れて見えないように） */
+.nt-viewport::before, .nt-viewport::after { content: ""; position: absolute; top: 0; bottom: 0; width: 28px; z-index: 2; pointer-events: none; }
+.nt-viewport::before { left: 0; background: linear-gradient(90deg, var(--bg), transparent); }
+.nt-viewport::after { right: 0; background: linear-gradient(270deg, var(--bg), transparent); }
+.nt-track { display: inline-flex; align-items: center; height: 100%; white-space: nowrap; will-change: transform; animation: nt-marquee linear infinite; }
+.nt-viewport:hover .nt-track, .nt-track:focus-within { animation-play-state: paused; }
+@keyframes nt-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.nt-item { display: inline-flex; align-items: center; gap: 9px; padding: 0 24px; height: 100%; color: var(--text); text-decoration: none; border-right: 1px solid rgba(255, 255, 255, .045); }
+.nt-item:hover { background: rgba(251, 191, 36, .09); }
+.nt-item:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.nt-src { font-size: 10px; font-weight: 900; letter-spacing: .3px; color: #0a0e1c; background: var(--blue); padding: 2px 7px; border-radius: 4px; white-space: nowrap; }
+.nt-title { font-size: 13px; font-weight: 600; }
+.nt-time { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { .nt-track { animation: none; } }
+@media (max-width: 560px) { .news-ticker { height: 36px; } .nt-label { padding: 0 11px; font-size: 11.5px; } .nt-title { font-size: 12.5px; } }
+
 .year-tabs { display: flex; gap: 8px; margin: 28px 0 0; flex-wrap: wrap; }
 /* hidden属性を display:flex/grid より確実に優先（作者CSSがUAの[hidden]に勝つ問題への防御） */
 .year-tabs[hidden], .kpi-grid[hidden], .stat-cards[hidden] { display: none !important; }

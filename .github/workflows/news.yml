@@ -1,0 +1,32 @@
+name: daily-news-update
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 毎日 6:00 JST（外国人政策 速報ティッカー用）
+  workflow_dispatch:
+
+# 同時実行を1本に絞り、週次データ更新とのpush競合を避ける
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: 外国人政策の関連ニュースをRSSから抽出（news.json）
+        working-directory: scraper
+        run: python build_news.py
+      - name: 変更があればコミット
+        run: |
+          git config user.name "data-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash || true
+          git add docs/data/news.json
+          git diff --cached --quiet || (git commit -m "news: 日次自動更新（外国人政策 速報）" && git push)
