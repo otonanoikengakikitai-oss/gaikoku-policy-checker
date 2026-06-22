@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-21T10:46:38+00:00",
+ "generated_at": "2026-06-22T15:58:48+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,270 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人の生活保護と国民健康保険 根拠のない政府の「対応策」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TFh3YXhDeWw3bUZOcmRaeHdjd3ctbndIbmIxUEVVZkRJT2kxUkNLXy05Q2FhT2ZvTDdsZUtVLVMtYnIySDczbzVMTkZNOHV3R1VyMU9lSTQzdkxRNV9FMjl5WlE1ckVYcVQ3X3MwZldJQVM2ZXVmaUFiV1ZfMVk?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-06-23 00:38",
+   "published_iso": "2026-06-22T15:38:49+00:00"
+  },
+  {
+   "title": "上田病院、外国人スタッフ奮闘 介護資格取得に向け、手厚く研修サポート",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LQzVoUVpJS2ZMNmg5cDREZkdKdDJhU3dGTEFud0huZkpRd1AtTXhnLUJQTW1mVFZCYU16ODhBWDlTMG0zeExtYUdDdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 23:00",
+   "published_iso": "2026-06-22T14:00:00+00:00"
+  },
+  {
+   "title": "難民の子どもに服を 千歳高生が一丸 ファストリ企画に初参加",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlS2tsNFNybk8yTjduYTcyeWFaNDgwRXI0ZllNR0hESlFtZ2R6bTkwRkx3d3VuSThXS05VY1lBSXNJbHNTS1VkMU5FQWlYQTZHUWxJdTFPVVlNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-06-22 21:52",
+   "published_iso": "2026-06-22T12:52:21+00:00"
+  },
+  {
+   "title": "スターマー首相辞任が映す英国の右傾化 EU離脱でも移民減らず、不信深まる",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTm9qM00wX2dURVpyQl9iaWxkTnRQS3hzamt1U1MzaFBOWUN6SmRQeWlPcHpnRzNIUVBxbllpVm5fVlZldF9sNkN5MVVOdV9EQ19sYmVXYWdqTDNjZHJhX0k3QVlFems?oc=5",
+   "source": "日経ビジネス電子版",
+   "source_domain": "nikkei.com",
+   "published": "2026-06-22 20:45",
+   "published_iso": "2026-06-22T11:45:00+00:00"
+  },
+  {
+   "title": "三重県庁の7月採用、外国人にも受験認める見通し 国籍要件復活の最終判断間に合わず",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aV1RaUU52UzFxejNuXzgwaGNxRExyNlRoeG4zb2FsbS1FVkpZUEUwUjc3cHhrMVJNdi1jdFZFd0IwdDNtTlRuajh5Y0RMQ1VfdVUxcg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-06-22 20:38",
+   "published_iso": "2026-06-22T11:38:06+00:00"
+  },
+  {
+   "title": "ソフマップ、難民が中古PC再生 池袋店で販売",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51Y3NHQVVYNXI0VU1hNXhxOF9zRG4tTzN3Z3N0UFk0OWlhUzRVOTQ1MzhYcHJVV3BSUUZBVXVwZ0xhakM2MFdPZWE1dkdDQUhrVnFiSUw0dFEyMnlUbml2MVRCOVRXVWh4VUZKTQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-06-22 19:34",
+   "published_iso": "2026-06-22T10:34:56+00:00"
+  },
+  {
+   "title": "ジーンズ外国人向け販売強化、ジャパンブルー 訪日客狙い大都市出店、２３日パリにも",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wUy1pY3h2cFQzYWpKcHRGbUR1bFJzTUlFa2ZxWUx1SzJSYmx4NVljcGNmZ0todFQzdjExelFQMlItSHg1TXF3YVAwZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 19:26",
+   "published_iso": "2026-06-22T10:26:46+00:00"
+  },
+  {
+   "title": "資本金３０００万円の壁 来日２０年のネパール人経営の飲食店が存続の危機 外国人の在留資格厳格化で 富山県高岡市",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVJ3cjNMaC1TNVFMNnNVcWxUZEtJcGpjWXBrRVQ4bkNDeHd4MVdkcFE3T2VYY0djMTRiTzJHRUthWWJqbmlaMmhpZE1IeWU2cWNHeWpiTk0zZ3NESUZjOEdTTEkwTGIwdWZHN19ldjlFSDlCTld0WUVSaDZiSHBXT3NERWVMcGs4?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-06-22 19:22",
+   "published_iso": "2026-06-22T10:22:00+00:00"
+  },
+  {
+   "title": "鳥取県の外国人宿泊者数3月伸び率が全国首位 2月に続き2カ月連続",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnUV9zRG82UkJXWDQzQzc5elNBU2FNYzZCd08yd3RsTElkZ0Eyd2trazNoaFE3QlI5Sm9VMldJNFkzV0dNTHN0VXhfRlVxRHIyc1Y5dzNqcTI5UWJ3ZEU3ajBIbG9NZ0xZT095Nw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-06-22 19:10",
+   "published_iso": "2026-06-22T10:10:00+00:00"
+  },
+  {
+   "title": "「I want 鹿せんべい」 世界遺産の中心で、外国人客が嘆く",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UMmlRT1c2MzFMWWlQYzV6UW42dHotZXNTTGxacWdlNWZfNEVkWHlLbG5pZmhKZl9tcTFmZjAxUDVLaDRnNnEwcGctQzRwRWlGRTVleElnX0cxX1lWLUNlQmZkM2h1QTJW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-06-22 18:00",
+   "published_iso": "2026-06-22T09:00:00+00:00"
+  },
+  {
+   "title": "「I want 鹿せんべい」 世界遺産の中心で、外国人客が嘆く [写真特集1/7]",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aZ0poWHQtRzVfRk9ZblNyVFJYSXkyTHplNzJUQndROTN2UlV0RU9UQ1drR2VjOTZYc3FGQWxieVVwbllzSDFiUEw5OU5Cc0VRSmxxUnZVcGJVb2ZIbmRiUVpkcEFKQVFq?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-06-22 17:59",
+   "published_iso": "2026-06-22T08:59:00+00:00"
+  },
+  {
+   "title": "日本の自転車ルール守って 留萌署が外国人技能実習生を指導",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZVE3NDJudnFsaGE2dnRjbEYxQzc2MFZwZ3pnalhJMjNHUGlMMjNyaXVZMkFwRmx1Q1FUNm5WaWpDZWo2aEFxZEtIY2s0RjI1bG4wZG5YSEgxdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-06-22 17:53",
+   "published_iso": "2026-06-22T08:53:31+00:00"
+  },
+  {
+   "title": "イギリスのスターマー首相が辞意表明 選挙大敗し指導力不足指摘され物価高や移民対策へも不満 求心力低下",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tX05hMXFGbkdSWWlJdk10Q1RiendjdlA5eVFWQjlDRGdwaUN5N0Q5aDJYMDYtVURWRlk1NXJSa09fNHc3MTB3LW8tNFQzQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-06-22 17:41",
+   "published_iso": "2026-06-22T08:41:00+00:00"
+  },
+  {
+   "title": "「プレクラス」、国主導で推進を 外国人教育の質向上で",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KaEtJLVp2N0UzODNLQVdkMmlvU0xBc0ZYVGlMMjFWMTl1eU8wVE5YNVhPRmRhcWdwSTdtZ2VuaTljeE1ReTd6S0I2NA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 17:32",
+   "published_iso": "2026-06-22T08:32:00+00:00"
+  },
+  {
+   "title": "「ヘイトにNO」国会前でデモ 外国人支援者ら「送還で命の危険」 [東京都]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UdE1MWWR4NG9FRGtjSHJGR091cU0wSmhFbWl1SDZpZXItVHpWZ0dvN0NReXVXc1gwZkVXU0o3cUJMVHJBWTA4SF82cUtHdkpNU2dwVGQ1NF9UbmRBY3VfUmdQRGpRZ00?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-06-22 17:30",
+   "published_iso": "2026-06-22T08:30:00+00:00"
+  },
+  {
+   "title": "（デジタル版発 推し！動画）外国人魅了する「宝探し」 大井競馬場フリーマーケット",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTc0NLM1VmODlkSGF5ZGV0T3VtZ1RzUEFQZVlod1FKa1RhTV9mQ2hydHl6SjFkcFFCMTdCZDhId3ZpT1JVdzR3QXczUlJ3aEFfUnB6QjVxZXdRN3ZE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-06-22 16:30",
+   "published_iso": "2026-06-22T07:30:00+00:00"
+  },
+  {
+   "title": "［妙高リゾート開発］外国人誘客「大きな流れに」 県観光協会、上越市で通常総会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHUVpTMW1HemwtTGJUQUI3ZW9hZzRzZzVFWUNvLUQ0czJCRlBIdnJKeVdGUElJR0VHc0RycXFLZEtOVDNRYXdyNDdqWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 13:10",
+   "published_iso": "2026-06-22T04:10:00+00:00"
+  },
+  {
+   "title": "インバウンド促進へ協定…長崎空港ビルディングなど３社、外国人向け観光コンテンツの強化",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45ZGFOUmlUeThDSEdza0FvTlp4OWV0U25SUTdabFU2OFo1OUd4TnB5Vk5uMzhWaGFrOFBHQ1QyNS0wbEFWZjBGRXJWTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 12:31",
+   "published_iso": "2026-06-22T03:31:04+00:00"
+  },
+  {
+   "title": "開業した移動スーパーで笑顔届ける…介護施設の職員から転身した５０代男性、独り暮らしの高齢者らに「楽しんで買い物してもらう」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1d1VhVkJ5T2dwTXc3Y05ueF95bWRjWGNydm5YSnhteVpXZk1hWDJBNTJodXVyak9zT3JfRHhtdk9MNmQyclBUZUVOZjNwT0JBX01TVmZWbXRaejkwc25kSktfQ3NoMlRnbFU0RVNqVnBudw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-06-22 12:30",
+   "published_iso": "2026-06-22T03:30:00+00:00"
+  },
+  {
+   "title": "中部随一の官庁街でランチ難民が続出？ 食堂閉鎖ラッシュ、キッチンカーが救う昼休み",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04YkpkbXJQVE9NVWlMUVJyaTVjZTFDbl9yQXU0dVBQU2xpcEd1amRISHBpTmxLLVBYUnA2aU9TLXZ4Q2tiUTEwRnFRSW9tUDBwT1ktTQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-06-22 12:00",
+   "published_iso": "2026-06-22T03:00:00+00:00"
+  },
+  {
+   "title": "◎外国人学生らと清掃キャンペーン",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQUJ1d1FDN0pHNEdXX3hmQW1VcXhrdDFiME8zdVhjaXh2ZXNuckp4aFhLWWxiRWZOVEJocWE1c0owMDlIVGloN1JHdGw3enpudmp6Zw?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-06-22 11:24",
+   "published_iso": "2026-06-22T02:24:00+00:00"
+  },
+  {
+   "title": "日本人と外国人材が共に働く職場を評価・認証する「Cultural Diversity Index」第3回（2026年度） 認証エントリー受付開始｜文化的多様性の包摂度を39項目で審査",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUjU3TWItMmdHUU9aaWFuaFUwWkZsUjhkWGR3bFpybkU0bHN0b2FXV0p4UktYc25nQ1o5dWFxbDAtSEFqek5qc2t1MVI5OTNLai11MHVWV1JQamtYOHFLa2RSaDRCTnRSVm44?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-06-22 10:40",
+   "published_iso": "2026-06-22T01:40:00+00:00"
+  },
+  {
+   "title": "プレスリリース：枕難民が訪れるエムール体験ショールームで最も多くの方に選ばれている枕シリーズから、\"横向き寝\"に特化した新モデル『プレミアム 横向き寝まくら』新発売！（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JX3dtZU96dy1KTmxmX3AtbDdMVmF0SWhvSm9iSmxEeVZ4ellSNUtDT2xiYzRuYjgtNGVqdjBfc1M1UTR3MEw1NGpXQlZuTWFsRThFb2cxMmV2eHlGcFlNZjRLaEtFeVhT?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-06-22 10:21",
+   "published_iso": "2026-06-22T01:21:53+00:00"
+  },
+  {
+   "title": "外国人実習生も一緒に津波避難訓練 宮城・気仙沼鹿折地区 [宮城県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uYklITlMzRHpFX0x4aktIRExCSEs2T1BXT0FJV1lHY2V1Y0xCMXZTaHVETFpNemYzR2dqbGFQSURyeUY4ZkF3cE5seXpDZHZCOUpCQ25zS1pIbF9pQXU5U0o0aUpDZlE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-06-22 10:00",
+   "published_iso": "2026-06-22T01:00:00+00:00"
+  },
+  {
+   "title": "「習字楽しい」外国人が日本文化体験、会津若松で講座",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Sdkd4QUUzcHRHemZsNlRnVUlHRFVLSE5iWmdYUG80TUNUck5RYzhCZUNmM1I1Tko5dFlDS1l1STBJZ05YNGpDM1Nqbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 09:15",
+   "published_iso": "2026-06-22T00:15:00+00:00"
+  },
+  {
+   "title": "ＬＧＢＴ基本計画 共生社会への歩み着実に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xOHBpcWttazd3cU5EdTRMWFFydGZiSkMtc09FZWxxSl9uS1lXR003dElNVGhNb3F5cjRqeHZvSHdPOUlTUlJwS2diRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 06:10",
+   "published_iso": "2026-06-21T21:10:00+00:00"
+  },
+  {
+   "title": "名鉄ＮＸ運輸 外国人雇用を積極化 特定技能解禁受け トラック運転手育成",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12ZGJ4UWpFdGV4ZFlVR0dqQ2lYb2UwcVQ3aWlUc2kyVFJyVUhKRmlDaVR5R0oydWQzRE5qRGxDRl84UnhET0ZzNDdmZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-06-22 05:18",
+   "published_iso": "2026-06-21T20:18:18+00:00"
+  },
+  {
+   "title": "移民政策で「大きな失敗」 トランプ米大統領、辞任報道のスターマー英首相批判",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGbnlRemhGdVFMVW9iVTVwQjYtTV83WW5OMTJaN1lSLXNtVGRqekNoaU50VFRheU9lOTdXOXNKN2xjR1hvcUpNazVVZVJyOGxwdVYtQ0hYWXJfbVJKU1FrU29VMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-06-22 05:12",
+   "published_iso": "2026-06-21T20:12:00+00:00"
+  },
+  {
+   "title": "新興企業、増える外国人人材 在留資格の厳格化には不安の声も",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51cVdzRUpEaWFNcEJTYTRJalNoa09DNFhWd2V6NDVzN1IxVnVYN2RhNENzSzRyNzJ4cklrNFJaRUtXVEhWeC1XNEw4ZDlROHNxOHpHWnRROHB4UHRsNkZZVmtDaWtGQVJuYmpyXw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-06-22 05:00",
+   "published_iso": "2026-06-21T20:00:00+00:00"
+  },
+  {
+   "title": "難民７割、５年以上の避難",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11UnhOc2VobE5QcDlGaEc2bzg3VkNDZ2E0NTdjeHZOdlFCcXBNbjl0aHNEOHRjYk5RajZITWtKVHNFUHRMYWI0cTZmZ3Q0b2twRXJ3Nm13MnpFR19P?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-06-22 05:00",
+   "published_iso": "2026-06-21T20:00:00+00:00"
+  },
+  {
+   "title": "「アメリカンドリーム」5割信じず 物価高と移民減で革新の土台にひび",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81TUNZc3RWWUVsMU1JaG9NQUlHMFp2QkN5TzROR3VIVWdSeGFJaV9SWVpuTFNrVUp1Smw5X25GN0R4cnEwRThmdktBeVJjeWNFRDhMZmMwTWF6RHNPNi1TSWtuWEs0Z0JrUWhreQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-06-22 05:00",
+   "published_iso": "2026-06-21T20:00:00+00:00"
+  },
+  {
+   "title": "月議：がん難民生まぬために＝永山悦子",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dm93dzVpTWlwejNoWnREd2JxTm9SNXhMY0kzbWFfOFBzaHB3R1ZsN1lkTmxnS3hjaG13REZyY1NzVFpOcXAtZFBrejNNa2F0Z0tYQWtPcS11eWh3akxlYjc1M3dJNVNp?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-06-22 02:01",
+   "published_iso": "2026-06-21T17:01:45+00:00"
+  },
+  {
+   "title": "不足する自動車整備士 外国人材育成に工夫：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hVlp4U3hCZ2dpLTVKYjZIWkk0bDUxc3dQSjZLdlNhM2h2SjVaR2l2WUVwclZBdEd2ZldJcHFtTnRfSDVmbllwdlZzVDFqM3Nla2RjanJxQ1RkMVM0WUFn?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-06-21 22:59",
+   "published_iso": "2026-06-21T13:59:54+00:00"
+  },
   {
    "title": "「ヘイトにNO！」「差別にNO！」…外国人政策の見直しを訴える人権団体や当事者が、国会前で集会",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZ1l1cGxpeUZEaERLeHZpdDBMRXN1Ymtid044VEEtOHVNNHozeWxhZTlxNHZnYnlFQk5uWVNyREpienhfdlNGMTc5Uy1HU0dPa3Uw?oc=5",
@@ -16,28 +280,12 @@
    "published_iso": "2026-06-21T10:05:25+00:00"
   },
   {
-   "title": "憲法事件を歩く 第10部「外国人の人権」⑨ 県内逮捕のスリランカ人 入管で「裁判」求めたが 強制送還訴訟（上）",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBdFhwbGx4TjRxVGRDclFtczgyYWthRktFbHdQVlNPWlNSaWJCQjhpblRqTjMtMVpYT0RYazhQdGtPOGZORTc2NHRDNGp6Q2p1cHV3MV9sY1dRaU1rMVMwT0lxYVV4OFJKdFVyUHVvNUU?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-06-21 11:00",
-   "published_iso": "2026-06-21T02:00:00+00:00"
-  },
-  {
-   "title": "日本人と外国人材が共に働く職場を評価・認証する「Cultural Diversity Index」第3回（2026年度） 認証エントリー受付開始｜文化的多様性の包摂度を39項目で審査",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUjU3TWItMmdHUU9aaWFuaFUwWkZsUjhkWGR3bFpybkU0bHN0b2FXV0p4UktYc25nQ1o5dWFxbDAtSEFqek5qc2t1MVI5OTNLai11MHVWV1JQamtYOHFLa2RSaDRCTnRSVm44?oc=5",
+   "title": "移民抑制でもコロナ前上回る 豪、極右伸長の要因に",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wZnhWbFZWbnBUSjRPZ0RZSXpPWllsbm9XMTBpT3NfNVpkdEpvSldJcFVoWWFrNmt5WTlUNFdxbklaaDBNb3VGbzlYYVlQdk1JanlZdHZtcXJXZ09td1pzOUJLdw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-06-21 10:40",
-   "published_iso": "2026-06-21T01:40:00+00:00"
-  },
-  {
-   "title": "公園でのムスリム集団礼拝 千葉・市川市が対応見直しで交流行事に影 [千葉県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZENSZzBtdVBXN1Y1Y01qWlNCSVo4N3paSUpkd3BlemFnV1dJVnZ2M3NWN2VJSS1IdmhaWmxRMDgwTHJFMnJoMXZBNVRDc09xa0VhaXplR19paDRqQmVDR2tZQmttajA?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-06-21 09:00",
-   "published_iso": "2026-06-21T00:00:00+00:00"
+   "published": "2026-06-21 19:00",
+   "published_iso": "2026-06-21T10:00:00+00:00"
   },
   {
    "title": "ニューヨークの屋台増えるか 左派・マムダニ市長が移民保護へ改革",
@@ -64,14 +312,6 @@
    "published_iso": "2026-06-20T12:40:00+00:00"
   },
   {
-   "title": "人道の港・敦賀で難民の苦悩を学ぶ ムゼウムで１２月まで企画展",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iTUkyZ1BPNjN0MWJUa256RUlSZWxLbTVQWWxhbGd5dnh4TEtuQWRkSnF0US1udmVWbjNncVZ5V3M3cHg5RmN1Q3ZYYXUxdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-06-20 19:00",
-   "published_iso": "2026-06-20T10:00:00+00:00"
-  },
-  {
    "title": "「何を感じれば良かった？」シリア内戦の実話映画に悩み、対話を深める生徒たち 善悪では割り切れない実状も 都立高校で難民について考える特別授業【世界難民の日】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jQXdmd0tBZ1dMRXNtVTU2bEp3VW9QMmJzaEdCV2VrUUs0MDBlc0JiOHNmMG1UaDVNM1Rmc3NPT21OV2xtVDg4YUg5MDFjV2NucDNDQjV5Yw?oc=5",
    "source": "TBS NEWS DIG",
@@ -80,28 +320,12 @@
    "published_iso": "2026-06-20T09:42:22+00:00"
   },
   {
-   "title": "古着と一緒に文化も交換しよう 高校生が企画、外国人との交流イベント 21日、東京・中野で",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fb1NwZVFJZW5xRElqcnNqTkRFT1Z6SEZ1QnFBSUx3ZnVMRUlqekRIMWpRU3NzampiOGZlT0w5ZWhXd3ZsZ3Bmby0xMUhTQWNIVWpN?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-06-20 16:03",
-   "published_iso": "2026-06-20T07:03:33+00:00"
-  },
-  {
    "title": "コンゴ民主共和国でエボラ出血熱の感染者900人超え 北東部にある難民キャンプでも少なくとも30人死亡 感染急拡大か",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTlNpY0c3WVNvcFd1cGZvdXFCa0s2U004enQtTEhzY29uQ1ktTDlkRFJlY3M0aV84VGxsUFRmeTZncUxuUUhSd3R5d2JVekxjQzl4bkRUNA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-06-20 14:53",
    "published_iso": "2026-06-20T05:53:34+00:00"
-  },
-  {
-   "title": "公務執行妨害疑いで外国人逮捕 小山署",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iZVJQcnFSV3lVUWVHYWozZUpJcmJRdUgzVmZCZXMyVG1jakExQ0toeGV6SHZzTy0xZzZsMkN6YnFjVHJNSm93N09oaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-06-20 14:30",
-   "published_iso": "2026-06-20T05:30:00+00:00"
   },
   {
    "title": "映画の推し事：映画が心のセラピーに ケイト・ブランシェットさんの難民支援",
@@ -120,14 +344,6 @@
    "published_iso": "2026-06-19T22:03:26+00:00"
   },
   {
-   "title": "外食、「特定技能」の求人2倍 新規受け入れ停止2カ月 転職月収3万円上げ、5万人の争奪戦激化",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczVMWmpCQTR4a2VKRTlrQ2NsY19yYWl1MXJsZno0TlN6YmVyTHM3bTQwU1JVeHFrNklmeDJzbG9RNG9acHhNYmNlV29sNWtJWXdnOWJORUhaaENBZTEzTzVHUnUxS2RuR2Mzc1YzanNmVE1nelpZanlnbkp6S1Nhbkc0a1ZydDFYYXVvMmFmbnFQOWxxUWdKTGItaFI1X1owOXc?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-06-20 02:07",
-   "published_iso": "2026-06-19T17:07:11+00:00"
-  },
-  {
    "title": "ユニクロ、カンヌで「難民映画基金」助成監督を発表 10月に日本上映",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBieW4teUtVaVlwTXluX0NXb3RYNk9NaEVkcFRXT0U5dEVPbXdnZWp2VXM4QWhNcXhUQ2lOZWs5SGtOR2hkR2doYmc0NVd6S1ZhQmh6UERBbDFwS2NodEVWVGJtcFFWYUZvblhiUg?oc=5",
    "source": "日本経済新聞",
@@ -136,52 +352,12 @@
    "published_iso": "2026-06-19T17:00:00+00:00"
   },
   {
-   "title": "不足する自動車整備士 外国人材育成に工夫：ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hVlp4U3hCZ2dpLTVKYjZIWkk0bDUxc3dQSjZLdlNhM2h2SjVaR2l2WUVwclZBdEd2ZldJcHFtTnRfSDVmbllwdlZzVDFqM3Nla2RjanJxQ1RkMVM0WUFn?oc=5",
-   "source": "中日BIZナビ",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-06-20 01:06",
-   "published_iso": "2026-06-19T16:06:11+00:00"
-  },
-  {
-   "title": "かき氷の店増加…訪日外国人にも人気 “ちょっと贅沢”でもこだわりの氷 数千円するメニューでも人気のワケ",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdFNqSklMUTRENFlkc0lNdUZXUEMyRVdoRXllbmxDanBpeS1RLUR1SFhpVDJzblJYUEZnSEQxMDVXeDV2THBpOE1oaXlndmxya1RsQzdfdnZESEdpVTcxM20tNTBtQjJQeGxjY21OMkhxcFNKczZOMHJUa0o?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-06-19 22:14",
-   "published_iso": "2026-06-19T13:14:00+00:00"
-  },
-  {
    "title": "「それしか道はないの？ 私はもうお断りします」 82年前に台湾疎開、難民となった池間キヨ子さん（93） 現代の “有事” 懸念に… #あなたの623",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlU1VRMVBfV2l5eDQtZE5UZXJiUk15dXpwWXdmZHZ1Qk9HUkR2cEE3NkFnX3JHOFphQWpHTHVjTXNqV296STRhZHVwdTFZRE1uWVEwZjgtbw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
-   "published": "2026-06-19 21:47",
-   "published_iso": "2026-06-19T12:47:00+00:00"
-  },
-  {
-   "title": "働く外国人の孤立防止へ「相談できる環境を」 北海道警、企業と連携強化",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15UWtaWDRacUE3X2dxcExraU80TUd1OEN5andUSm9ROEptbkg4UTBqM0RsY3h2Zkh5a0VtRi1WYUNVUDRHMXI0WnFCVnhZN21mNU1fdFoxaXhsQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-06-19 20:17",
-   "published_iso": "2026-06-19T11:17:39+00:00"
-  },
-  {
-   "title": "外国人ビザ手数料を値上げ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBveDFEMlNXaEJNR2F0MWtQRkxUZ3FMd2ZXcjNNd2wyd1dhNDJUZkVkXzc0TTVad2xjaWJjeFpSWnd5VkxqQ0tTRC10WDZoazBvbURhUkhyU1VlZjZPVmVnT3hNOXo?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-06-19 20:08",
-   "published_iso": "2026-06-19T11:08:14+00:00"
-  },
-  {
-   "title": "7月から外国人向けのビザ手数料を5倍に引き上げ 茂木外務大臣「物価上昇や為替変動に対応するため」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ldFlCZ2VuaXMzZkRXR3dId3FHb21BUnhhd3BUZGRfdDdiOUx1RnNCOUQyMWI4dklUbjVXOF90SGJHT016ckhGSlVwTUxLVEE3RDc0RjJLWQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-06-19 19:59",
-   "published_iso": "2026-06-19T10:59:20+00:00"
+   "published": "2026-06-19 20:00",
+   "published_iso": "2026-06-19T11:00:00+00:00"
   },
   {
    "title": "ほっとニュース北海道【ほっとBiz ＆ World】外食業の外国人材 受け入れ停止の影響は NHK ONE配信中6/26まで",
@@ -192,12 +368,12 @@
    "published_iso": "2026-06-19T10:45:39+00:00"
   },
   {
-   "title": "ビザ発行手数料3千円→1万5千円に 政府が5倍引き上げを閣議決定 [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtYnoyblVXNUNsS3RqbHFZTXR6cDZ0WXJjTGF2SjdaQ2JDZXdWS1lwaEJZa0lvc2JabGN1cS1HUFhmTHdXclVVbURzY29HSDJpX0VaejdQU1hmRFVETHhBQ3QzR1hrSW8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-06-19 18:40",
-   "published_iso": "2026-06-19T09:40:37+00:00"
+   "title": "外国人ビザ手数料を値上げ ４８年ぶり、７月以降",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pNTBQSXpOem9YQmw4OU91U2FKSk1qeUhKay1sOUxnMG1Ecmg2dUpDbHVJLVNjb3Y1T3Z0bFp0SktNWGhILUZ1RnZjM3NpMWRZSkwxcmtSUnFFNkpVUFlZTHVpVQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-06-19 18:52",
+   "published_iso": "2026-06-19T09:52:00+00:00"
   },
   {
    "title": "【動画】河合優実さんがロヒンギャ難民支援に賛同 「世界難民の日」を前にユニクロとコラボを発表",
@@ -208,36 +384,12 @@
    "published_iso": "2026-06-19T08:54:46+00:00"
   },
   {
-   "title": "【ドイツ】５年ぶり人口減、純移民落ち込む 高齢者の割合拡大",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GSmpjcnBIbFdvMVJVSjk3OTVTMDgtS1ZpamtZYnFtRVloQWhyalFONC1Jc01ENjdZR1RFQWM1WFgtQ3lMSzY1Zjg4QjJnZjhMdnp1OUVLcl85d09WbTNNZmVDUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-06-19 17:13",
-   "published_iso": "2026-06-19T08:13:00+00:00"
-  },
-  {
    "title": "外食特定技能の転職求人2倍 受け入れ停止2カ月、月収3万円増で募集",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93QzB6NUVyLWtFQ0ZaMDIxRTJZT0FzdlFBNjZmbnRXZlZ3cDhWY1AtQzNFRFVOMFE4ZUpPOENSTmowRk1aa1duaXNVRFNaakk0Z0dJREtnWnozZVM0ZDlEZWxkSlM5TF9Gc2VWLQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-06-19 17:00",
    "published_iso": "2026-06-19T08:00:00+00:00"
-  },
-  {
-   "title": "「難民」取り巻く状況や思い、想像して ２１日、国際教養大で映画上映や講演",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KbmZpS0VMcms2YUlVay0zc3NfakFEOVJNRWJVRDF1dUhZbHVfLVpHc19DSnRWTG01aWZBX1drd2F4SUlOUkw2MWNnWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-06-19 16:00",
-   "published_iso": "2026-06-19T07:00:00+00:00"
-  },
-  {
-   "title": "大分市を訪れた外国人旅行者、市外宿泊が８割…立ち寄り先は高崎山自然動物園・うみたまご・大分駅に偏り",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RX2l1RFNqTUVUMlB1TnQyNnpRbTdCcWt6dlQ0ekFqWjVzaWxqejhnWDZOcFkzQmd6VjRsN2lRaUJDS0tvYUdaalltQjRWNFB5OER3b2ZJY1Y3WnlxV1ZGRHZfZHhHVWNlZmVQV2RuZ0VQQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-06-19 15:36",
-   "published_iso": "2026-06-19T06:36:00+00:00"
   },
   {
    "title": "シネマの週末・時代の目：アイ・ワズ・ア・ストレンジャー 難民逃避行、多角的視点で",
@@ -248,164 +400,12 @@
    "published_iso": "2026-06-19T04:03:49+00:00"
   },
   {
-   "title": "津久井やまゆり園事件から１０年 共生社会の推進へ、神奈川県が「ともに生きる」憲章Ｔシャツを一般販売",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjZHl1WEhrUEpqRjNLUXN6ZFNSQ3BFNUZYLXFsVGRCZlBFdENGNVhsWThhbi1wd2NNMG5EZTM5dF9ZbUpOcTN2RGxEdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-06-19 11:50",
-   "published_iso": "2026-06-19T02:50:00+00:00"
-  },
-  {
-   "title": "首相候補と反移民右派が接戦 国政占う英補選開票始まる",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fN1R5YldYb0liZ3hMVHNkQ2s0U2FVVk83NkdPZ3lqb3VtN3dZTVJfZUpCQkRKUmtvc19QSGdmZXpIVWVvQno3YjV3SmpLUkMxdTM3NDkzb3V3UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-06-19 07:00",
-   "published_iso": "2026-06-18T22:00:35+00:00"
-  },
-  {
-   "title": "課題は交通ルールや運転マナー 外国人バス運転手の初日に密着 深刻な人手不足解消へ 網走市",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVJSbzA5WnpBam9nVXhhRHhka0k1VE9PTEpRYldNMWduUHlwczVmWVBHdHZreldzUW9vNFFSSDhRRUNXTi1HckQyWEhkdS00OUIxX3U3Ym5ZcFlLVTVYU1hLQThKeS1mb2lfRExPaE1PMGhqb2dDYTd4Ri1nSWtyOEE1RW1wSHc?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-06-19 06:30",
-   "published_iso": "2026-06-18T21:30:00+00:00"
-  },
-  {
-   "title": "難民問題の支援に取り組む河合優実さん",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wMk9paG1KQ2ZVTWJlcGxtbWt4dGhjcEZLRDVJUG95S3FndXk3b3pIUkNtd3I3eGp3SWZUNElZUm1HcXE1UTNTVkFSMEFGaS1nZE9VMGZ0RGVERmd5SXB2anM2YXI?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-06-19 05:03",
-   "published_iso": "2026-06-18T20:03:09+00:00"
-  },
-  {
    "title": "日本の難民モデルを世界に発信 滝澤三郎氏",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fMnZNMFo1WjBLbF9zYVVPUG1OakhTSkRfSkhsU0dGbHp3TGNBWUZmMmxfSzFPYjV2YWo5N3NuY0pkQ0I3aGY2QUlnOUUwODI1VHN2ODV5NEg2Zl80ZE9iSW9ZU0dBZDJ1WFBJUw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-06-19 02:00",
    "published_iso": "2026-06-18T17:00:00+00:00"
-  },
-  {
-   "title": "外国人介護職員同士、絆深めて 小樽市、離職抑止へ交流会 料理教室やモルック 「市民意識高め、長く滞在を」",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HYks3dHFDT3A2dklMMFhKSkpqV1pJSWdodllZbzE0TDBPSVBSUmVLRXRxamR6R1pzTGFPbVliUVYxeVAtT0paWDhoQUZXN2FfVEx2aldTVG1zUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-06-18 20:36",
-   "published_iso": "2026-06-18T11:36:40+00:00"
-  },
-  {
-   "title": "去年の不法就労外国人は163人「在留カードの確認を」駅前で適正雇用など周知 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWpUOTlNanN2aEh2cG1RdmN3MG12eE5YY0pzVkZfNXA5MTh4bG93Y2JTNVVaUkZodkpwYWFDU09mRjVYVHpxNFhyb2JYRjhEM2EzcUx1MUNqUkpobU4xZks5bVR1Ti1ZOXNWTHZWZkZsZXVlS05aaGE5NEJGTHVNVkZkcTRyNTA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-06-18 20:10",
-   "published_iso": "2026-06-18T11:10:00+00:00"
-  },
-  {
-   "title": "カンヌ女優賞・岡本多緒、難民問題への思い語る「ストーリーが多くの人に届くことは大切」義母はチベット難民",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LS3JXVnRrZUg2ZnBlX0g5UGhqcEo0Y2Q2aVlMeUx1bGZ3b2cxUGNFYUR6RGkxa0ZJWW5uZ0Mxc2gwdE9QU0RFTDN5dk14azd0NWc2MXU0SUI3ZjNPMVEtclNkblhTZ2RzNWExUHdpSUU?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-06-18 20:00",
-   "published_iso": "2026-06-18T11:00:13+00:00"
-  },
-  {
-   "title": "札幌・常盤小跡地のインターナショナルスクール計画 「移民反対」「差別反対」互いにデモ 地域には不安も",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QRDhDSnhLOXZyWGhCRzQycXRJMjVmMm1hdHpheVhfcWVJZDJGeHlSSVpIeTJCUnR1OXFLVzdUYzRJU0xvM2s1aEFGLXI0V2hzSVFobWd1OUIwUQ?oc=5",
-   "source": "HTB 北海道テレビ",
-   "source_domain": "htb.co.jp",
-   "published": "2026-06-18 19:31",
-   "published_iso": "2026-06-18T10:31:00+00:00"
-  },
-  {
-   "title": "ベビーシッター不正入国に関与か 中国富裕層向け、夫婦逮捕―警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haVBBS0RSemNJY1lvd2dkQW4weWhNQ29MZGNzYWkyTkxZbU9vQTV3WmRfM1ZYdElLQkRrYWhxbWI3VHNvQ3U4aGE1Tm5iZjNueXZya1ZxTVR5aEg2T01FRWc3WQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-06-18 19:06",
-   "published_iso": "2026-06-18T10:06:00+00:00"
-  },
-  {
-   "title": "パラスポーツで“共生社会”学ぶ 石川・小松市の中学生 車椅子バスケットボールに挑戦",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEJkaU1oNk1mcGYtdnl3bGwzckZfLUdQaGxKbUo4Sm55VWdfc19VMmJSaEd4aWxXNnlad3V6cVpGMGZVdmRPLTdTRTkxdEdCdV8tRllRTlRiMmY2S2dkLXBMZWh2RmFISTlWVE43VDJfRVlLXzhEQzVqci1ucGlhZjZLaw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-06-18 18:46",
-   "published_iso": "2026-06-18T09:46:01+00:00"
-  },
-  {
-   "title": "うその在留資格申請でベビーシッターを不正入国させたか 出入国管理法違反の疑いで30代夫婦を逮捕 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GOVRHMWxYc0dmcjlfc0RXTjVkaUlsWF9JTFk3N3FoaWxKYWhLOF9SMlpvaHNLM0pTdEd6bUNkX0c5ZC1ZTTA0UWJFR056LVd2SURZYXNjbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-06-18 17:12",
-   "published_iso": "2026-06-18T08:12:00+00:00"
-  },
-  {
-   "title": "【 河合優実 】1月にロヒンギャ難民キャンプを訪問で使命を感じる〝お芝居だけじゃなく、影響力を持ち発信できる声を持っている〟",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cUt2N01BTm1xXzFfbWlIVTZWdDBLWi1TMkVxc0Q2NVhSTVliNHYzQ1EtX25GOWhFV3RTOEl2SjlFMldJa0RxbFc1QzRDbmlmbFNjYzQ5cw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-06-18 17:04",
-   "published_iso": "2026-06-18T08:04:00+00:00"
-  },
-  {
-   "title": "「難民、単純に線引きできない」 ロヒンギャ描く映画「ロストランド」、藤元監督",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lYS1WNWxvUkRLdFRUZDFtbFREaGh3TVJSUnBXa2tiaExhd0R0aVdSbDNzbmhjTG5fczVmeldGVnF0cXhDMXBCNWNzYllYMmkweWp1eHZPTWdOV3Vv?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-06-18 16:30",
-   "published_iso": "2026-06-18T07:30:00+00:00"
-  },
-  {
-   "title": "「皆さんの国ではどうですか？」 自転車青切符、外国人へ周知 埼玉 [埼玉県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82aWlBTnp1UWFqdnFMT1FYQ002X2JYRUNDd0ZRUXpiX2hvOUMxS2pjd0M1ak82Szk4SEZ5cnczdW5qZjlDR09jbXZhdHkxMUxrVWFFTGpJdFVKbk1xdTJaMVpIeFZRNTg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-06-18 16:00",
-   "published_iso": "2026-06-18T07:00:00+00:00"
-  },
-  {
-   "title": "外国人採用取りやめ検討の三重県、方針公表巡り知事「不確定要素多くいつ頃と言える状況でない」",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94RlJMSFJJdWVNeUZ2dE1YQktESjV4WERMQmtIX05BUGdFUndLRUJrQ1dGOUdEd2YzaktmaUppNzh2UTJZNUtsMHp3bGVuLUlsT2pDSG1NSS12VWFYSnVzOFR0ZE9MQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-06-18 15:30",
-   "published_iso": "2026-06-18T06:30:00+00:00"
-  },
-  {
-   "title": "街のエスニック料理店が消えるかも…理不尽な「資本金3000万円」在留資格厳格化 寄稿・室橋裕和",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Q211YlNvNGxVZ3FpZXgxVXoxYUJZd1pRVHpQT3FrSWs5V2pSOVJPbG5iNHpvOFpES0FQeXNub2dDbjRTdEhKZnZZX2Y0LWlaWTM0?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-06-18 15:00",
-   "published_iso": "2026-06-18T06:00:00+00:00"
-  },
-  {
-   "title": "収容の外国人「ハンガーストライキすれば仮放免か」保守党・北村晴男氏が質問 入管庁否定",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BckM2NlU2ZVRwakhxUS1Fb051U0p6X3dTeHhfb1dLTGxudFNyLWthOXpqeC0xRl9PeTBtdjdtblJ2aldfR3hHMW9TWUM0MlRSY1RVX0NveGtxZUdIWnpvaUhhX1NNNFNHWExsUFFHTVhXUzZELVE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-06-18 14:20",
-   "published_iso": "2026-06-18T05:20:06+00:00"
-  },
-  {
-   "title": "1枚のCDに導かれ南米へ インド系移民の「クレオール料理」とは（ガイアナ）",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZUZLdHJJcW5Nd3luS0tFbGNJSjJqbTN2ckdQXzBpV3dka21kTnhGLUk1RUxTYklsZWhHYjUxS2J0SVJuMG5lQzBHYkpKUVR5bXFjX1BkdkluM2Q5QUxyX21JTHd1cG8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-06-18 13:06",
-   "published_iso": "2026-06-18T04:06:49+00:00"
-  },
-  {
-   "title": "三越伊勢丹HD株価が反発 訪日外国人2カ月連続減に反応薄",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mOG1xU1hhcV8zMFVLRFlqR3hGLV92dmpucV95M0tVZmZqOFI5Q291SEl4R0JJUkVRNmVVSjlVekhTNHV0MzlrU1R6eENOZWNXc2NRMndyOEVKeG53aVZKdzJsc0RhSzBWN1kyLQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-06-18 10:39",
-   "published_iso": "2026-06-18T01:39:43+00:00"
   }
  ]
 }
