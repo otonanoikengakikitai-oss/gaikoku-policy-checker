@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-17T13:50:20+00:00",
+ "generated_at": "2026-06-30T08:51:30+00:00",
  "claims": [
   {
    "id": "seikatsuhogo-immediate",
@@ -12,7 +12,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/seikatuhogo/index.html"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   },
   {
    "id": "ryugakusei-iryohi-zengaku",
@@ -25,7 +25,7 @@
      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   },
   {
    "id": "kokuhi-ryugakusei-shikyu",
@@ -42,7 +42,7 @@
      "url": "https://www.jasso.go.jp/shogakukin/kyufu/index.html"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   },
   {
    "id": "tokyo-gaikokujin-bakudai-yosan",
@@ -55,7 +55,7 @@
      "url": "https://www.zaimu1.metro.tokyo.lg.jp/zaisei/20260130_reiwa8nendo_tokyotoyosanangaiyou/8shuyouzigyou.pdf"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   },
   {
    "id": "kuni-gaikokujin-yosan-8x",
@@ -68,7 +68,7 @@
      "url": "https://www.cas.go.jp/jp/seisakukaigi/gaikokujinzai/index.html"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   },
   {
    "id": "kawaguchi-gaikokujin-bakudai-zeikin",
@@ -81,7 +81,7 @@
      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/r8tousyoyosannpointo.pdf"
     }
    ],
-   "checked_at": "2026-06-17"
+   "checked_at": "2026-06-30"
   }
  ]
 }
