@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>外国人政策・補助金チェッカー</title>
 <meta name="description" content="外国人政策に関連する国の予算事業を毎週自動収集し、ネットで流れる言説を官公庁の一次ソースだけで検証するデータベース。">
+<!-- Google AdSense（審査用）: サイト運営者ID取得後、ca-pub-XXXXXXXXXXXXXXXX を実IDへ差し替える -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
 <!-- Google Analytics 4: 計測IDは ga-config.js（CIが環境変数 GA_MEASUREMENT_ID から注入）。有効なG-IDの時のみ読み込む -->
 <script src="ga-config.js"></script>
 <script>
@@ -68,6 +70,12 @@
   </div>
 </div>
 <main class="wrap">
+  <!-- 広告枠①: ヘッダー/ニュースティッカー直下 -->
+  <aside class="ad-slot ad-slot-top" aria-label="広告枠">
+    <span class="ad-slot-label">スポンサーリンク</span>
+    <div class="ad-slot-space"></div>
+  </aside>
+
   <div class="gov-toggle" id="gov-toggle" role="group" aria-label="政府レベルの切り替え">
     <button type="button" class="gov-btn on" data-gov="national">国（政府）</button>
     <button type="button" class="gov-btn" data-gov="tokyo">東京都</button>
@@ -130,6 +138,12 @@
     <h2 id="claims-h">言説チェッカー <span class="h-sub">ネットの言説 × 一次ソース</span></h2>
     <div id="claims"></div>
   </section>
+
+  <!-- 広告枠③: 言説チェッカー直下 -->
+  <aside class="ad-slot ad-slot-bottom" aria-label="広告枠">
+    <span class="ad-slot-label">スポンサーリンク</span>
+    <div class="ad-slot-space"></div>
+  </aside>
 
   <section class="cta" aria-labelledby="cta-h">
     <div class="cta-inner">

@@ -212,6 +212,19 @@ function stackedBreakdownHtml(segs, total, minLegendRatio = 0.001) {
   return `<div class="bd-bar">${bar}</div><div class="bd-legend">${legend}</div>`;
 }
 
+/* ===== 広告プレースホルダー（AdSense用・控えめな静的枠） ===== */
+const AD_SLOT_AFTER = 3; // 事業一覧リストで何件目の下に挿入するか
+function adSlotHtml(extra = "") {
+  return `<aside class="ad-slot ${extra}" aria-label="広告枠"><span class="ad-slot-label">スポンサーリンク</span><div class="ad-slot-space"></div></aside>`;
+}
+// リストHTML配列の中間（AD_SLOT_AFTER件目の下）に広告枠を挿入。件数が少なければ末尾。
+function insertAdSlot(htmlArr, wrapTag = "") {
+  if (!htmlArr.length) return htmlArr;
+  const ad = wrapTag ? `<${wrapTag} class="ad-slot-li">${adSlotHtml()}</${wrapTag}>` : adSlotHtml();
+  const pos = Math.min(AD_SLOT_AFTER, htmlArr.length);
+  return [...htmlArr.slice(0, pos), ad, ...htmlArr.slice(pos)];
+}
+
 /* ===== 検索・絞り込み・並び替え付きリストUI（国の予算事業ランキングと同じ高度UIを全タブに） ===== */
 const LIST_FILTERS = {
   tokyo: { q: "", cat: "", sort: "budget" },
@@ -219,14 +232,19 @@ const LIST_FILTERS = {
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
 
-// 同名事業を前年度と突き合わせて各事業に前年比 _delta {abs,pct} を付与（ソート・バッジ用）
+// 同名事業を前年度と突き合わせて各事業に前年比 _delta {abs,pct} を付与（ソート・バッジ用）。
+// 川口市等は年度で「（継続）（拡充）（臨時）（新規）」の状態サフィックスが変わるため、
+// 正規化除去してから突合する（同一事業の年度間マッチを取りこぼさない）。
+function normEventName(name) {
+  return String(name || "").replace(/（(継続|拡充|臨時|新規|新)）/g, "").trim();
+}
 function attachDeltas(items, prevItems) {
   const prevByName = {};
   (prevItems || []).forEach((p) => {
-    prevByName[p.name] = p.amount_yen;
+    prevByName[normEventName(p.name)] = p.amount_yen;
   });
   return items.map((it) => {
-    const pv = prevByName[it.name];
+    const pv = prevByName[normEventName(it.name)];
     const _delta = pv != null && pv > 0 && it.amount_yen != null ? { abs: it.amount_yen - pv, pct: ((it.amount_yen - pv) / pv) * 100 } : null;
     return { ...it, _delta };
   });
@@ -283,7 +301,7 @@ function renderFilteredList(prefix, items, textOf, cardOf) {
   if (countEl) countEl.textContent = `${rows.length} / ${items.length} 事業${rows.length ? `・絞り込み合計 ${fmtYen(sum)}` : ""}`;
   const ul = document.getElementById(prefix + "-ul");
   if (ul) {
-    ul.innerHTML = rows.map(cardOf).join("") || `<li class="muted" style="border:none">該当する事業がありません。</li>`;
+    ul.innerHTML = insertAdSlot(rows.map(cardOf), "li").join("") || `<li class="muted" style="border:none">該当する事業がありません。</li>`;
     applyGlossary(ul);
   }
 }
@@ -436,8 +454,8 @@ function renderShisakuList() {
   document.getElementById("shisaku-count").textContent =
     `${rows.length} / ${all.length} 施策${rows.length ? `・絞り込み合計 ${fmtYen(sumYen)}` : ""}`;
   document.getElementById("budget-items").innerHTML =
-    rows
-      .map((it) => {
+    insertAdSlot(
+      rows.map((it) => {
         const zero = it.amount_yen === 0;
         const t = shisakuTweet(it);
         return `<li>
@@ -451,8 +469,9 @@ function renderShisakuList() {
         ${it.title ? `<div class="ti-title">${esc(it.title)}</div>` : ""}
         ${it.desc ? `<div class="ti-desc">${esc(it.desc)}</div>` : ""}
       </li>`;
-      })
-      .join("") || `<li class="muted" style="border:none">該当する施策がありません。</li>`;
+      }),
+      "li"
+    ).join("") || `<li class="muted" style="border:none">該当する施策がありません。</li>`;
   applyGlossary(document.getElementById("budget-items"));
 }
 
@@ -1071,7 +1090,7 @@ function renderComparisons(compData) {
       const sides = comp.sides
         .map((s) => {
           const amountHtml = s.budget_yen != null
-            ? `<div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">令和8年度予算</span></div>${exactTag(s.budget_yen)}
+            ? `<div class="side-amount">${fmtYen(s.budget_yen)}<span class="side-fy">${esc(fy ? fyTag(fy) : "")}予算</span></div>${exactTag(s.budget_yen)}
                <div class="bar-track"><div class="bar" style="width:${Math.max((s.budget_yen / max) * 100, 1)}%"></div></div>`
             : `<div class="side-amount na">${esc(s.budget_note || "金額は単価で比較")}</div>`;
           return `
@@ -1210,7 +1229,7 @@ function renderList() {
   const max = Math.max(...rows.map((p) => p.budget_yen || 0), 1);
   const slice = rows.slice(0, state.shown);
   document.getElementById("list").innerHTML =
-    slice
+    insertAdSlot(slice
       .map((p, i) => {
         const w = p.budget_yen ? Math.max((p.budget_yen / max) * 100, 0.5) : 0;
         const t = projectTweet(p);
@@ -1230,8 +1249,7 @@ function renderList() {
   </div>
   ${p.overview ? `<details><summary>事業概要</summary>${esc(p.overview)}</details>` : ""}
 </article>`;
-      })
-      .join("") || `<p class="muted">該当する事業がありません。</p>`;
+      })).join("") || `<p class="muted">該当する事業がありません。</p>`;
   const more = document.getElementById("more");
   more.hidden = rows.length <= state.shown;
   more.textContent = `さらに表示（残り ${Math.max(rows.length - state.shown, 0)} 件）`;
@@ -1621,7 +1639,12 @@ function bindLocalList(sectionId) {
     const b = e.target.closest("[data-lsort]");
     if (!b) return;
     const [prefix, key] = b.dataset.lsort.split(":");
-    if (LIST_FILTERS[prefix]) { LIST_FILTERS[prefix].sort = key; reRenderLocalList(prefix); }
+    if (LIST_FILTERS[prefix]) {
+      LIST_FILTERS[prefix].sort = key;
+      // 国の施策ソートと同じく、押したボタンのハイライトを即時更新（リストのみ再描画のため）
+      b.closest(".sort-seg").querySelectorAll(".sort-btn").forEach((x) => x.classList.toggle("on", x === b));
+      reRenderLocalList(prefix);
+    }
   });
 }
 

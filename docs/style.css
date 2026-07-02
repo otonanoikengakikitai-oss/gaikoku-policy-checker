@@ -191,6 +191,16 @@ h2 { font-size: 22px; font-weight: 900; margin: 38px 0 14px; line-break: strict;
 .news-row-arrow { color: var(--accent); font-weight: 900; }
 @media (max-width: 560px) { .news-modal-panel { max-height: 96vh; } .news-row-title { font-size: 13.5px; } }
 
+/* ===== 広告プレースホルダー（AdSense・デザインを損なわない控えめな枠） ===== */
+.ad-slot { margin: 20px 0; padding: 8px 12px 12px; background: var(--panel); border: 1px dashed var(--line); border-radius: 12px; text-align: center; }
+.ad-slot-label { display: block; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; color: var(--muted); opacity: .7; margin-bottom: 4px; }
+.ad-slot-space { min-height: 90px; border-radius: 8px; background: rgba(255, 255, 255, .015); }
+.ad-slot-top { margin-top: 24px; }
+li.ad-slot-li { list-style: none; padding: 0 !important; border-top: none !important; }
+li.ad-slot-li .ad-slot { margin: 12px 0; }
+#list .ad-slot { margin: 14px 0; }
+@media (max-width: 560px) { .ad-slot-space { min-height: 70px; } }
+
 .year-tabs { display: flex; gap: 8px; margin: 28px 0 0; flex-wrap: wrap; }
 /* hidden属性を display:flex/grid より確実に優先（作者CSSがUAの[hidden]に勝つ問題への防御） */
 .year-tabs[hidden], .kpi-grid[hidden], .stat-cards[hidden] { display: none !important; }

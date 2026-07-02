@@ -40,8 +40,7 @@ def host_allowed(url):
     return host.endswith(ALLOWED_SUFFIXES)
 
 
-def fetch_pdf_text(url, page_slice=None):
-    """PDFを取得し本文を返す。page_slice=(start,end) を渡すと該当ページのみ抽出（巨大な県の説明書対策）。"""
+def _fetch_pdf(url):
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     dest = CACHE_DIR / ("saitama_" + re.sub(r"\W+", "_", url)[-46:] + ".pdf")
     last = None
@@ -55,15 +54,34 @@ def fetch_pdf_text(url, page_slice=None):
             last = e
     else:
         raise RuntimeError(f"埼玉県/川口市PDF取得失敗: {url}: {last}")
+    return dest
+
+
+def _norm(text):
+    return re.sub(r"\s+", "", unicodedata.normalize("NFKC", text))  # 空白除去（カンマは保持）
+
+
+def fetch_pdf_text(url, page_slice=None):
+    """PDFを取得し本文（正規化済み・全ページ連結）を返す。page_slice=(start,end) で範囲限定。"""
+    dest = _fetch_pdf(url)
     with pdfplumber.open(dest) as pdf:
         pages = pdf.pages[page_slice[0]:page_slice[1]] if page_slice else pdf.pages
         text = "\n".join((p.extract_text() or "") for p in pages)
-    return re.sub(r"\s+", "", unicodedata.normalize("NFKC", text))  # 空白除去（カンマは保持）
+    return _norm(text)
+
+
+def fetch_pdf_pages(url, page_slice=None):
+    """PDFを取得し、ページごとの正規化テキストのリストを返す（同一ページ内共起の照合用）。"""
+    dest = _fetch_pdf(url)
+    with pdfplumber.open(dest) as pdf:
+        pages = pdf.pages[page_slice[0]:page_slice[1]] if page_slice else pdf.pages
+        return [_norm(p.extract_text() or "") for p in pages]
 
 
 def build_pref_year(y):
     """埼玉県（県全体）の年度を一次ソースで検証して構築する。
-    予算説明書PDF（巨大）は国際交流費の周辺ページのみ抽出して 目名＋金額 を照合し、
+    予算説明書PDF（巨大）は国際交流費の周辺ページのみ抽出し、説明事業名と金額が
+    「同一ページ内に共起」することまで要求して照合する（別費目の同額との偶然一致を排除）。
     一般会計総額は当初予算案の概要PDFの実額表記で照合する。"""
     src = y["source"]
     ga = y["general_account"]
@@ -71,19 +89,24 @@ def build_pref_year(y):
         print(f"  エラー: 埼玉県 {y['fiscal_year_label']} の出典が一次ソースでない", file=sys.stderr)
         raise SystemExit(1)
     # 予算説明書は793ページ前後。国際交流費は概ね p100〜p140 に収まる。
-    setsumei = fetch_pdf_text(src["url"], page_slice=(95, 145))
+    setsumei_pages = fetch_pdf_pages(src["url"], page_slice=(95, 145))
     gaiyou = fetch_pdf_text(ga["source"]["url"])
 
     def present(ev, text):
         return ev.replace(" ", "") in text
 
+    def cooccur(name_ev, amount_ev):
+        """説明事業名と金額が同一ページに共起するか（強い証跡）。"""
+        n, a = name_ev.replace(" ", ""), amount_ev.replace(" ", "")
+        return any(n in pg and a in pg for pg in setsumei_pages)
+
     items = []
     for it in y["items"]:
-        if not present(it["name_evidence"], setsumei):
-            print(f"  警告: 埼玉県 {y['fiscal_year_label']}『{it['name']}』を非公開: 目名の証跡なし", file=sys.stderr)
+        if not any(present(it["name_evidence"], pg) for pg in setsumei_pages):
+            print(f"  警告: 埼玉県 {y['fiscal_year_label']}『{it['name']}』を非公開: 説明事業名の証跡なし", file=sys.stderr)
             continue
-        if not present(it["amount_evidence"], setsumei):
-            print(f"  警告: 埼玉県 {y['fiscal_year_label']}『{it['name']}』を非公開: 金額の証跡なし（{it['amount_evidence']}）", file=sys.stderr)
+        if not cooccur(it["name_evidence"], it["amount_evidence"]):
+            print(f"  警告: 埼玉県 {y['fiscal_year_label']}『{it['name']}』を非公開: 説明事業名と金額（{it['amount_evidence']}）の同一ページ共起なし", file=sys.stderr)
             continue
         items.append({"name": it["name"], "bureau": it["bureau"], "category": it["category"], "amount_yen": it["amount_yen"], "amount_label": _man_label(it["amount_yen"]), "desc": it["desc"]})
     if not items:
