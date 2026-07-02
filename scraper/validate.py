@@ -11,8 +11,12 @@ from urllib.parse import urlparse
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知県は pref.aichi.jp が公式）
-EXTRA_ALLOWED_HOSTS = ("www.pref.aichi.jp", "pref.aichi.jp")
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知県=pref.aichi.jp、神奈川県=pref.kanagawa.jp、京都府=pref.kyoto.jp が公式）
+EXTRA_ALLOWED_HOSTS = (
+    "www.pref.aichi.jp", "pref.aichi.jp",
+    "www.pref.kanagawa.jp", "pref.kanagawa.jp",
+    "www.pref.kyoto.jp", "pref.kyoto.jp",
+)
 
 
 def host_allowed(url):
@@ -282,7 +286,7 @@ def check_osaka(errors):
 
 
 # 汎用ビルダー（build_pref.py）出力の都道府県JSON
-PREF_FILES = ("hokkaido.json", "aichi.json", "fukuoka.json")
+PREF_FILES = ("hokkaido.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json")
 
 
 def check_prefs(errors):
@@ -292,7 +296,15 @@ def check_prefs(errors):
         if not path.exists():
             continue  # best-effort
         data = json.loads(path.read_text(encoding="utf-8"))
-        n += _check_sk_block(errors, fn.replace(".json", ""), data, "general_account")
+        name = fn.replace(".json", "")
+        n += _check_sk_block(errors, name, data, "general_account")
+        # 事業データの無い年度の一般会計総額（ga_history・任意項目）
+        for g in data.get("ga_history") or []:
+            w = f"{name}/ga_history/{g.get('fiscal_year_label') or g.get('fiscal_year')}"
+            if not isinstance(g.get("amount_yen"), int) or g["amount_yen"] <= 0:
+                errors.append(f"{w}: amount_yen 不正: {g.get('amount_yen')!r}")
+            if not host_allowed((g.get("source") or {}).get("url", "")):
+                errors.append(f"{w}: 出典が一次ソースでない: {(g.get('source') or {}).get('url')}")
     return n
 
 

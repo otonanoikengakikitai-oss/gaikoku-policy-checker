@@ -1,0 +1,115 @@
+{
+ "generated_at": "2026-07-02T15:35:47+00:00",
+ "government": "京都府",
+ "basis_note": "京都府の外国人特化予算（部局別『当初予算 主要事項説明』に事業名と金額が明記された外国人特化事業＝多文化共生推進事業費〔総合政策環境部〕）。外国人住民への生活情報提供・相談窓口の運営と「やさしい日本語」の普及等。※令和5年度は主要事項説明資料等に該当事業の記載がないため未収録（一般会計総額のみ参考収録）。全府民向け事業は含まない。金額は千円単位。",
+ "trend_note": "京都府の多文化共生推進事業費は令和6年度9,605千円→令和7年度29,725千円（拡充）→令和8年度31,565千円と3年で約3.3倍に増えたが、それでも府一般会計（約1兆円）の約0.003%。増額の中身は相談窓口の運営や「やさしい日本語」普及といった共生の基盤整備であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "京都府 令和6年度当初予算 主要事項説明（総合政策環境部）",
+    "url": "https://www.pref.kyoto.jp/yosan/documents/0604-2seisakutatedayo.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業費",
+     "bureau": "総合政策環境部",
+     "category": "多文化共生",
+     "amount_yen": 9605000,
+     "amount_label": "960万5千円",
+     "source_url": "https://www.pref.kyoto.jp/yosan/documents/0604-2seisakutatedayo.pdf",
+     "desc": "外国人住民に対する生活情報の提供・相談を行う窓口の運営や「やさしい日本語」の行政機関での活用と府民への普及の促進等。"
+    }
+   ],
+   "foreign_total_yen": 9605000,
+   "general_account": {
+    "amount_yen": 995031000000,
+    "amount_label": "9,950億3,100万円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "京都府 令和6年度当初予算 歳入内訳",
+     "url": "https://www.pref.kyoto.jp/yosan/documents/0601sainyuu.pdf"
+    }
+   },
+   "contrast_pct": 0.001,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "京都府 令和7年度当初予算 主要事項説明（総合政策環境部）",
+    "url": "https://www.pref.kyoto.jp/yosan/documents/r7tosyo_tate_seisaku.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業費",
+     "bureau": "総合政策環境部",
+     "category": "多文化共生",
+     "amount_yen": 29725000,
+     "amount_label": "2,972万5千円",
+     "source_url": "https://www.pref.kyoto.jp/yosan/documents/r7tosyo_tate_seisaku.pdf",
+     "desc": "外国人住民への生活情報提供・相談窓口の運営、「やさしい日本語」普及等の多文化共生推進（令和7年度に拡充）。"
+    }
+   ],
+   "foreign_total_yen": 29725000,
+   "general_account": {
+    "amount_yen": 1029881000000,
+    "amount_label": "1兆298億8,100万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "京都府 令和7年度当初予算 歳入内訳",
+     "url": "https://www.pref.kyoto.jp/yosan/documents/r7_p1_sainyu.pdf"
+    }
+   },
+   "contrast_pct": 0.0029,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "京都府 令和8年度当初予算 主要事項説明（総合政策環境部）",
+    "url": "https://www.pref.kyoto.jp/yosan/documents/r8tosyo_tate_seisaku.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業費",
+     "bureau": "総合政策環境部",
+     "category": "多文化共生",
+     "amount_yen": 31565000,
+     "amount_label": "3,156万5千円",
+     "source_url": "https://www.pref.kyoto.jp/yosan/documents/r8tosyo_tate_seisaku.pdf",
+     "desc": "外国人住民への生活情報提供・相談窓口の運営、「やさしい日本語」普及等の多文化共生推進。"
+    }
+   ],
+   "foreign_total_yen": 31565000,
+   "general_account": {
+    "amount_yen": 1043260000000,
+    "amount_label": "1兆432億6,000万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "京都府 令和8年度当初予算 歳入内訳",
+     "url": "https://www.pref.kyoto.jp/yosan/documents/r8_p1_sainyu.pdf"
+    }
+   },
+   "contrast_pct": 0.003,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "amount_yen": 1030220000000,
+   "amount_label": "1兆302億2,000万円",
+   "source": {
+    "label": "京都府 令和5年度当初予算 歳入内訳",
+    "url": "https://www.pref.kyoto.jp/yosan/documents/r5tosyo_sainyu.pdf"
+   },
+   "note": "令和5年度は主要事項説明資料等に該当事業の記載がないため未収録（一般会計総額のみ）。"
+  }
+ ]
+}

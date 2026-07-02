@@ -25,14 +25,20 @@ import pdfplumber
 import aichi_def
 import fukuoka_def
 import hokkaido_def
+import kanagawa_def
+import kyoto_def
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX, http_get_raw
 
-DEFS = [hokkaido_def, aichi_def, fukuoka_def]
+DEFS = [hokkaido_def, aichi_def, fukuoka_def, kanagawa_def, kyoto_def]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知県は pref.aichi.jp が公式）
-EXTRA_ALLOWED_HOSTS = ("www.pref.aichi.jp", "pref.aichi.jp")
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知県=pref.aichi.jp、神奈川県=pref.kanagawa.jp、京都府=pref.kyoto.jp が公式）
+EXTRA_ALLOWED_HOSTS = (
+    "www.pref.aichi.jp", "pref.aichi.jp",
+    "www.pref.kanagawa.jp", "pref.kanagawa.jp",
+    "www.pref.kyoto.jp", "pref.kyoto.jp",
+)
 
 _DOC_CACHE = {}  # url -> 正規化テキスト（同一文書の重複取得を回避）
 
@@ -197,6 +203,36 @@ def build_year(gov, y, prev_amounts):
     }
 
 
+def build_ga_history(mod):
+    """事業データの無い年度の一般会計総額（GA_HISTORY）を証跡照合して構築（任意項目）。"""
+    gov = mod.GOVERNMENT
+    result = []
+    for g in getattr(mod, "GA_HISTORY", []):
+        where = f"{gov} {g['fiscal_year_label']} 一般会計（ga_history）"
+        if not host_allowed(g["source"]["url"]):
+            print(f"  警告: {where} の出典が一次ソースでない。非公開", file=sys.stderr)
+            continue
+        try:
+            text = fetch_doc(g["source"]["url"], g.get("doc_type", "pdf"))
+        except RuntimeError as e:
+            print(f"  警告: {where} の文書取得失敗: {e}。非公開", file=sys.stderr)
+            continue
+        if _norm(g["evidence"]) not in text:
+            print(f"  警告: {where} を非公開: 金額の証跡なし（{g['evidence'][:24]}…）", file=sys.stderr)
+            continue
+        entry = {
+            "fiscal_year": g["fiscal_year"],
+            "fiscal_year_label": g["fiscal_year_label"],
+            "amount_yen": g["amount_yen"],
+            "amount_label": g["amount_label"],
+            "source": g["source"],
+        }
+        if g.get("note"):
+            entry["note"] = g["note"]
+        result.append(entry)
+    return sorted(result, key=lambda r: r["fiscal_year"])
+
+
 def build_def(mod):
     gov = mod.GOVERNMENT
     years = []
@@ -216,6 +252,7 @@ def build_def(mod):
         "trend_note": mod.TREND_NOTE,
         "latest": years[-1]["fiscal_year"],
         "years": years,
+        "ga_history": build_ga_history(mod),
     }
     dest = DATA_DIR / mod.OUT_NAME
     dest.parent.mkdir(parents=True, exist_ok=True)
