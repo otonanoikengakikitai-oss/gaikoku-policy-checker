@@ -228,6 +228,7 @@ function insertAdSlot(htmlArr, wrapTag = "") {
 /* ===== 検索・絞り込み・並び替え付きリストUI（国の予算事業ランキングと同じ高度UIを全タブに） ===== */
 const LIST_FILTERS = {
   tokyo: { q: "", cat: "", sort: "budget" },
+  osaka: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1047,6 +1048,125 @@ function renderKawaguchiItemList() {
   renderFilteredList("kawaguchi", items, (it) => it.name + (it.desc || "") + it.bureau + it.category, localItemCard);
 }
 
+/* ===== 大阪府ビュー（第三の要塞・多年度・国クオリティ） ===== */
+let OSAKA = null; // osaka.json 全体（years[] を含む）
+let OSAKA_YEAR = null; // 大阪府ビューで選択中の年度（他自治体と独立管理）
+
+function osakaYear(fy) {
+  return (OSAKA && OSAKA.years.find((y) => y.fiscal_year === fy)) || null;
+}
+
+function renderOsaka(ok) {
+  OSAKA = ok;
+  const btn = document.querySelector('.gov-btn[data-gov="osaka"]');
+  if (!ok || !ok.years || !ok.years.length) {
+    if (btn) btn.hidden = true; // データ未取得時はタブを隠す
+    return;
+  }
+  OSAKA_YEAR = ok.latest; // 既定は最新年度
+  renderOsakaYearTabs();
+  renderOsakaYear(OSAKA_YEAR);
+}
+
+function renderOsakaYearTabs() {
+  const tabs = document.getElementById("osaka-year-tabs");
+  if (!tabs || !OSAKA) return;
+  const years = OSAKA.years.slice().sort((a, b) => b.fiscal_year - a.fiscal_year); // 新しい年度を左に
+  tabs.innerHTML = years
+    .map((y) => yearTabHtml(y.fiscal_year, y.fiscal_year === OSAKA_YEAR, { latest: y.fiscal_year === OSAKA.latest }))
+    .join("");
+}
+
+function renderOsakaYear(fy) {
+  const yr = osakaYear(fy);
+  const host = document.getElementById("osaka");
+  if (!yr) {
+    if (host) host.innerHTML = `<p class="muted">この年度の大阪府データは未収録です。</p>`;
+    return;
+  }
+  OSAKA_YEAR = fy;
+  renderOsakaYearTabs();
+  const ga = yr.general_account;
+  const fTotal = yr.foreign_total_yen;
+  const totalLabel = yenBreakdown(fTotal);
+  const fyL = fyTag(fy);
+  const prev = osakaYear(fy - 1);
+  const prevTotal = prev ? prev.foreign_total_yen : null;
+  // 多年度トレンド（国の budget-trend と同一）
+  const trendRows = OSAKA.years
+    .slice()
+    .sort((a, b) => a.fiscal_year - b.fiscal_year)
+    .map((y) => ({ year: y.fiscal_year, amount_yen: y.foreign_total_yen, sourceUrl: y.source.url }));
+  // 事業別の横バー＋巨大%付き100%積み上げ（国の「主管省庁別」と同一デザイン）
+  const itemRows = yr.items
+    .slice()
+    .sort((a, b) => b.amount_yen - a.amount_yen)
+    .map((it, i) => ({ name: it.name, amount_yen: it.amount_yen, color: catColor(it.category, i) }));
+  const itemBars = barListHtml(itemRows);
+  const evLead = itemRows[0];
+  const evLeadPct = evLead ? Math.round((evLead.amount_yen / fTotal) * 100) : 0;
+  const evBreakdown = evLead
+    ? `<div class="breakdown">
+    <div class="bd-head">外国人特化予算の中身 — 事業別の割合（${esc(fyL)}）</div>
+    <div class="bd-lead"><span class="bd-lead-pct">${evLeadPct}%</span><span class="bd-lead-txt">が <b>${esc(evLead.name)}</b>。<span class="bd-lead-amt">${fmtYen(evLead.amount_yen)}</span></span></div>
+    ${stackedBreakdownHtml(itemRows, fTotal)}
+  </div>`
+    : "";
+  const t = localBudgetTweet("大阪府", yr, ga, fyL, yr.source.url);
+  const contrast = ga
+    ? govContrastHtml({ govLabel: "大阪府", audience: "全府民向け", totalLabel, totalYen: fTotal, ga, contrastPct: yr.contrast_pct, fyL, tweet: t, shareLabel: "大阪府 外国人特化予算" })
+    : "";
+  // 4つのサマリーカード（国 #kpi と同一デザイン。所管府省庁→担当課に読み替え）
+  const bureaus = [...new Set(yr.items.map((i) => i.bureau))];
+  const kpi = localKpiHtml([
+    { label: "関連事業数（外国人特化）", value: yr.items.length, unit: "件", sub: "都市魅力創造局国際課の外国人特化事業" },
+    { label: "当初予算 合算（外国人特化）", value: esc(totalLabel), badge: prevTotal ? " " + deltaBadge(totalDelta(fTotal, prevTotal), "big") : "", exact: exactTag(fTotal), sub: `${esc(fyL)}・予算編成過程公表ベース` },
+    { label: "担当課", value: bureaus.length, unit: "課", sub: esc(bureaus.join("・")) },
+    { label: "データ年度", value: esc(fyL), fy: true, sub: "出典: 大阪府 予算編成過程公表" },
+  ]);
+  host.innerHTML = `
+  <div class="budget-hero">
+    <div class="budget-hero-main">
+      <div class="budget-hero-label">大阪府 ${esc(fyL)} 外国人特化予算（多文化共生・外国人相談・外国人材）合計</div>
+      <div class="budget-hero-num">${esc(totalLabel)}</div>
+      ${exactTag(fTotal)}
+      ${heroDeltaHtml(fTotal, prevTotal)}
+      ${ga ? `<div class="budget-hero-supp">参考: 大阪府の${esc(ga.label)}は ${esc(ga.amount_label)}。外国人特化はその約${yr.contrast_pct}%。</div>` : ""}
+    </div>
+    ${shareBtn(t.text, t.url, "大阪府 外国人特化予算")}
+  </div>
+  ${trendChartHtml(trendRows, fy)}
+  ${contrast}
+  ${evBreakdown}
+  <div class="report-note">
+    <div class="rn-head"><i class="rn-i">!</i> トレンド焦点 — SNSの言説 vs 一次ソースの実額</div>
+    <p class="rn-body">${esc(OSAKA.trend_note)}</p>
+  </div>
+  <div class="budget-cols">
+    <div class="budget-col">
+      <div class="budget-col-h">事業別内訳（金額順・割合バー／${esc(fyL)}）</div>
+      <div>${itemBars}</div>
+      <div class="budget-col-foot">※大阪府「予算編成過程公表」の事業別ページに名称・金額（査定額＝当初予算額）が明記され、年度間チェックサム等の4重検証を通過した外国人特化事業のみ。日本人向け国際化事業や姉妹都市交流・旅券事務は含まない。</div>
+    </div>
+    <div class="budget-col">
+      ${listControlsHtml("osaka", yr.items.map((i) => i.category), LIST_FILTERS.osaka, yr.items.length, fyL)}
+    </div>
+  </div>
+  <div class="local-kpi-band"><div class="local-kpi-h">この年度のサマリー（大阪府・${esc(fyL)}）</div>${kpi}</div>
+  <p class="budget-basis">${esc(OSAKA.basis_note)} 出典: <a href="${esc(yr.source.url)}" target="_blank" rel="noopener">${esc(yr.source.label)} ↗</a>${ga && ga.source ? ` ／ 一般会計: <a href="${esc(ga.source.url)}" target="_blank" rel="noopener">${esc(ga.source.label)} ↗</a>` : ""}</p>`;
+  renderOsakaItemList();
+  applyGlossary(host);
+  renderStatsFor("osaka", fy); // 統計の裏付けを大阪府×当該年度に連動
+}
+
+function renderOsakaItemList() {
+  const yr = osakaYear(OSAKA_YEAR);
+  if (!yr) return;
+  const prev = osakaYear(OSAKA_YEAR - 1);
+  const items = attachDeltas(yr.items, prev && prev.items);
+  renderFilteredList("osaka", items, (it) => it.name + (it.desc || "") + it.bureau + it.category, localItemCard);
+}
+
 let govMode = "national";
 function setGov(mode) {
   govMode = mode;
@@ -1064,10 +1184,12 @@ function setGov(mode) {
     document.getElementById("ranking-section").hidden = true;
     // 統計の裏付けを選択中の自治体×年度に連動（国の最新データの残存を防止）
     if (mode === "tokyo") renderStatsFor("tokyo", TOKYO_YEAR);
+    else if (mode === "osaka") renderStatsFor("osaka", OSAKA_YEAR);
     else if (mode === "kawaguchi") renderStatsFor("kawaguchi", KAWAGUCHI_YEAR);
   }
   // 自治体セクションは選択したものだけ表示
   document.getElementById("tokyo-section").hidden = mode !== "tokyo";
+  document.getElementById("osaka-section").hidden = mode !== "osaka";
   document.getElementById("kawaguchi-section").hidden = mode !== "kawaguchi";
   window.scrollTo({ top: 0, behavior: "auto" });
 }
@@ -1139,6 +1261,11 @@ function renderStatsFor(gov, fy) {
     const prev = typeof tokyoYear === "function" ? tokyoYear(fy - 1) : null;
     if (sub) sub.textContent = `東京都・${fyTag(fy)}・住民基本台帳`;
     renderRegionalStats("東京都", yr && yr.population, prev && prev.population);
+  } else if (gov === "osaka") {
+    const yr = typeof osakaYear === "function" ? osakaYear(fy) : null;
+    const prev = typeof osakaYear === "function" ? osakaYear(fy - 1) : null;
+    if (sub) sub.textContent = `大阪府・${fyTag(fy)}・在留外国人統計＋推計人口`;
+    renderRegionalStats("大阪府", yr && yr.population, prev && prev.population);
   } else if (gov === "kawaguchi") {
     const yr = typeof kawaguchiYear === "function" ? kawaguchiYear(fy) : null;
     const prev = typeof kawaguchiYear === "function" ? kawaguchiYear(fy - 1) : null;
@@ -1150,30 +1277,37 @@ function renderStatsFor(gov, fy) {
   }
 }
 
-// 自治体（東京都/川口）の年度別 在留外国人数・総人口・割合カード（国と同一デザイン）。
+// 自治体（東京都/大阪府/川口）の年度別 外国人人口・総人口・割合カード（国と同一デザイン）。
 function renderRegionalStats(govLabel, pop, prevPop) {
   const el = document.getElementById("stats");
   if (!pop) {
     el.innerHTML = `<div class="kpi stat-card"><div class="label">${esc(govLabel)}の統計</div><div class="sub">この年度の統計は未収録です。</div></div>`;
     return;
   }
-  const yoy = prevPop
-    ? { abs: pop.foreign - prevPop.foreign, pct: Math.round(((pop.foreign - prevPop.foreign) / prevPop.foreign) * 1000) / 10 }
-    : null;
+  // 前年と同一基準日（確報未公表で最新実績を代用中）のときは前年比を出さない（+0%の誤表示防止）
+  const yoy =
+    prevPop && prevPop.as_of !== pop.as_of
+      ? { abs: pop.foreign - prevPop.foreign, pct: Math.round(((pop.foreign - prevPop.foreign) / prevPop.foreign) * 1000) / 10 }
+      : null;
+  const metric = pop.metric_label || "外国人住民数";
+  const basis = pop.basis || `${govLabel}の住民基本台帳（${pop.as_of}）に基づく。国の在留外国人統計とは基準日・対象が異なる。`;
+  const totalSrc = pop.total_source
+    ? `　<a href="${esc(pop.total_source.url)}" target="_blank" rel="noopener">総人口: ${esc(pop.total_source.label)} ↗</a>`
+    : "";
   el.innerHTML = `
     <div class="kpi stat-card">
-      <div class="label">${esc(govLabel)}の外国人住民数<span class="as-of">${esc(pop.as_of)}</span></div>
+      <div class="label">${esc(govLabel)}の${esc(metric)}<span class="as-of">${esc(pop.as_of)}</span></div>
       <div class="value">${(pop.foreign / 1e4).toLocaleString("ja-JP", { maximumFractionDigits: 2 })}<small> 万人</small></div>
       <span class="exact-sub">元データ：${pop.foreign.toLocaleString("ja-JP")}人</span>
       ${yoy ? `<div class="sub">前年同期比 ${yoy.abs >= 0 ? "+" : ""}${yoy.abs.toLocaleString("ja-JP")}人（${yoy.pct >= 0 ? "+" : ""}${yoy.pct}%）</div>` : ""}
       <div class="sub"><a href="${esc(pop.source.url)}" target="_blank" rel="noopener">出典: ${esc(pop.source.label)} ↗</a></div>
     </div>
     <div class="kpi stat-card">
-      <div class="label">総人口に占める割合<span class="as-of">${esc(pop.as_of)}</span></div>
+      <div class="label">総人口に占める割合<span class="as-of">${esc(pop.total_as_of || pop.as_of)}</span></div>
       <div class="value">${pop.share_pct}<small> %</small></div>
       <span class="exact-sub">元データ：外国人 ${pop.foreign.toLocaleString("ja-JP")}人 ÷ 総人口 ${pop.total.toLocaleString("ja-JP")}人</span>
-      <div class="sub">${esc(govLabel)}の住民基本台帳（${esc(pop.as_of)}）に基づく。国の在留外国人統計とは基準日・対象が異なる。</div>
-      <div class="sub"><a href="${esc(pop.source.url)}" target="_blank" rel="noopener">出典: ${esc(pop.source.label)} ↗</a></div>
+      <div class="sub">${esc(basis)}</div>
+      <div class="sub"><a href="${esc(pop.source.url)}" target="_blank" rel="noopener">出典: ${esc(pop.source.label)} ↗</a>${totalSrc}</div>
     </div>`;
 }
 
@@ -1619,6 +1753,7 @@ function bindDrawer() {
 
 function reRenderLocalList(prefix) {
   if (prefix === "tokyo") renderTokyoItemList();
+  else if (prefix === "osaka") renderOsakaItemList();
   else if (prefix === "saitama") renderSaitamaItemList();
   else if (prefix === "kawaguchi") renderKawaguchiItemList();
 }
@@ -1628,11 +1763,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|osaka|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|osaka|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {
@@ -1664,6 +1799,13 @@ function bind() {
       const btn = e.target.closest("[data-year]");
       if (btn && govMode === "tokyo") renderTokyoYear(Number(btn.dataset.year));
     });
+  // 大阪府の年度タブ（大阪データのみを描画。他自治体・国には一切触れない）
+  const osakaTabs = document.getElementById("osaka-year-tabs");
+  if (osakaTabs)
+    osakaTabs.addEventListener("click", (e) => {
+      const btn = e.target.closest("[data-year]");
+      if (btn && govMode === "osaka") renderOsakaYear(Number(btn.dataset.year));
+    });
   // 川口市の年度タブ（川口データのみを描画。国・東京には一切触れない）
   const kwTabs = document.getElementById("kawaguchi-year-tabs");
   if (kwTabs)
@@ -1673,6 +1815,7 @@ function bind() {
     });
   // 自治体の施策一覧の検索・絞り込み・並び替え（容器は再生成されるためセクションに委譲。リストのみ再描画でフォーカス保持）
   bindLocalList("tokyo-section");
+  bindLocalList("osaka-section");
   bindLocalList("kawaguchi-section");
   document.getElementById("q").addEventListener("input", (e) => {
     state.q = e.target.value;
@@ -1730,6 +1873,7 @@ async function main() {
     getJson("data/tokyo.json").catch(() => null), // best-effort: 無ければ東京都タブを隠す
   ]);
   const kawaguchiData = await getJson("data/saitama_kawaguchi.json").catch(() => null);
+  const osakaData = await getJson("data/osaka.json").catch(() => null); // best-effort: 無ければ大阪府タブを隠す
   getJson("data/news.json").then(renderNewsTicker).catch(() => {}); // best-effort: 速報ティッカー
   GLOSSARY = glossary.terms || [];
   state.years = yearsMeta.years;
@@ -1746,6 +1890,7 @@ async function main() {
   STATS = statsData; // 統計は renderStatsFor が自治体×年度で出し分ける（既定の描画は setYear で行う）
   renderPolicyBudget(policyBudget);
   renderTokyo(tokyoData, policyBudget);
+  renderOsaka(osakaData);
   renderKawaguchi(kawaguchiData);
   renderComparisons(compData);
   renderClaims(claimsData);

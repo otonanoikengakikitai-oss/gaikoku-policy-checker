@@ -10,6 +10,7 @@ import sys
 
 import build_claims
 import build_comparisons
+import build_osaka
 import build_saitama_kawaguchi
 import build_tokyo
 import rs_system
@@ -41,6 +42,7 @@ if __name__ == "__main__":
     safe("taiousaku（関係予算）", taiousaku.run)
     safe("build_tokyo（東京都）", build_tokyo.run)
     safe("build_saitama_kawaguchi（埼玉・川口）", build_saitama_kawaguchi.run)
+    safe("build_osaka（大阪府）", build_osaka.run)
     safe("build_claims（言説）", build_claims.run)
     # 品質ゲートは必ず厳格実行（既存＋新規データの全件検証）。違反があれば exit 1 で公開を止める。
     validate.run()

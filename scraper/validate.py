@@ -245,6 +245,9 @@ def _check_sk_block(errors, prefix, block, ga_key):
             n += 1
             if not isinstance(it.get("amount_yen"), int) or it["amount_yen"] < 0:
                 errors.append(f"{prefix}/{yl}/{it.get('name')}: amount_yen 不正")
+            # 前年比を持つデータ（大阪府等）は増減チェックサムも再確認
+            if it.get("delta_yen") is not None and it.get("amount_yen", 0) - it.get("prev_yen", 0) != it.get("delta_yen"):
+                errors.append(f"{prefix}/{yl}/{it.get('name')}: 増減チェックサム不一致")
             s += it.get("amount_yen", 0)
         if s != y.get("foreign_total_yen"):
             errors.append(f"{prefix}/{yl}: foreign_total_yen が事業合算と不一致")
@@ -268,6 +271,14 @@ def check_saitama_kawaguchi(errors):
     return n
 
 
+def check_osaka(errors):
+    path = DATA_DIR / "osaka.json"
+    if not path.exists():
+        return 0  # best-effort: 未取得なら検証対象外
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return _check_sk_block(errors, "osaka", data, "general_account")
+
+
 def run():
     errors = []
     n_projects = check_projects(errors)
@@ -278,13 +289,14 @@ def run():
     n_glossary = check_glossary(errors)
     n_tokyo = check_tokyo(errors)
     n_kawaguchi = check_saitama_kawaguchi(errors)
+    n_osaka = check_osaka(errors)
     if errors:
         print("品質ゲート違反:", file=sys.stderr)
         for e in errors:
             print(f"  NG {e}", file=sys.stderr)
         raise SystemExit(1)
     print(
-        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語 / 東京都 {n_tokyo} 事業 / 埼玉川口 {n_kawaguchi} 事業、全出典 go.jp/lg.jp",
+        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語 / 東京都 {n_tokyo} 事業 / 埼玉川口 {n_kawaguchi} 事業 / 大阪府 {n_osaka} 事業、全出典 go.jp/lg.jp",
         file=sys.stderr,
     )
 
