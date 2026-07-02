@@ -82,7 +82,6 @@ main.wrap > section > h2:first-child { margin-top: 30px; padding-top: 22px; bord
 .badge-row { display: flex; gap: 8px; flex-wrap: wrap; }
 .badge { font-size: 12px; font-weight: 700; padding: 3px 12px; border-radius: 999px; }
 .badge-source { background: var(--green-bg); color: var(--green); border: 1px solid #1d5c49; }
-.badge-auto { background: var(--panel-2); color: var(--muted); border: 1px solid var(--line); }
 
 .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; margin: 28px 0 14px; }
 .kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }

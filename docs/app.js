@@ -1924,9 +1924,6 @@ async function main() {
     state.years.map((y) => getJson(`data/projects_${y}.json`).then((d) => (state.yearData[y] = d)))
   );
   const latestMeta = state.yearData[yearsMeta.latest];
-  const updated = new Date(latestMeta.generated_at);
-  document.getElementById("updated-badge").textContent =
-    `自動更新 ${updated.getFullYear()}-${String(updated.getMonth() + 1).padStart(2, "0")}-${String(updated.getDate()).padStart(2, "0")}`;
   document.getElementById("amount-note").textContent = `注記: ${latestMeta.amount_note}。タグは機械抽出の理由。詳細は必ず出典のレビューシート原文を確認。`;
   document.getElementById("footer-meta").textContent =
     `データ生成: ${latestMeta.generated_at} / 出典: ${latestMeta.source.name}（${latestMeta.source.url}） / 収載年度: ${state.years.map((y) => "FY" + y).join(" / ")}`;
