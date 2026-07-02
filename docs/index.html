@@ -78,15 +78,36 @@
 
   <div class="gov-toggle" id="gov-toggle" role="group" aria-label="政府レベルの切り替え">
     <button type="button" class="gov-btn on" data-gov="national">国（政府）</button>
+    <button type="button" class="gov-btn" data-gov="hokkaido">北海道</button>
     <button type="button" class="gov-btn" data-gov="tokyo">東京都</button>
+    <button type="button" class="gov-btn" data-gov="aichi">愛知県</button>
     <button type="button" class="gov-btn" data-gov="osaka">大阪府</button>
+    <button type="button" class="gov-btn" data-gov="fukuoka">福岡県</button>
     <button type="button" class="gov-btn" data-gov="kawaguchi">埼玉県<span class="tab-latest">＋川口焦点</span></button>
   </div>
+
+  <section aria-labelledby="hokkaido-h" id="hokkaido-section" hidden>
+    <h2 id="hokkaido-h"><span class="nbk">北海道</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">予算の概要ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="hokkaido-year-tabs" aria-label="北海道 データ年度切り替え"></nav>
+    <div id="hokkaido"></div>
+  </section>
+
+  <section aria-labelledby="aichi-h" id="aichi-section" hidden>
+    <h2 id="aichi-h"><span class="nbk">愛知県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">多文化共生とりまとめベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="aichi-year-tabs" aria-label="愛知県 データ年度切り替え"></nav>
+    <div id="aichi"></div>
+  </section>
 
   <section aria-labelledby="osaka-h" id="osaka-section" hidden>
     <h2 id="osaka-h"><span class="nbk">大阪府</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">予算編成過程公表ベース・一次ソース4重検証</span></h2>
     <nav class="year-tabs gov-year-tabs" id="osaka-year-tabs" aria-label="大阪府 データ年度切り替え"></nav>
     <div id="osaka"></div>
+  </section>
+
+  <section aria-labelledby="fukuoka-h" id="fukuoka-section" hidden>
+    <h2 id="fukuoka-h"><span class="nbk">福岡県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">当初予算編成概要ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="fukuoka-year-tabs" aria-label="福岡県 データ年度切り替え"></nav>
+    <div id="fukuoka"></div>
   </section>
 
   <section aria-labelledby="tokyo-h" id="tokyo-section" hidden>

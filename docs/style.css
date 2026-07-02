@@ -228,8 +228,9 @@ li.ad-slot-li .ad-slot { margin: 12px 0; }
 .yt-wa { font-size: 10px; font-weight: 700; opacity: .82; margin-top: 1px; white-space: nowrap; }
 .year-tab.on .yt-wa { opacity: .9; }
 /* 国⇔東京都トグル（最上部の政府レベル切替） */
-.gov-toggle { display: inline-flex; gap: 0; margin: 26px 0 4px; border: 1px solid var(--accent-deep); border-radius: 999px; overflow: hidden; background: var(--panel); }
-.gov-btn { background: transparent; color: var(--muted); border: none; padding: 9px 24px; font-size: 14.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
+.gov-toggle { display: inline-flex; flex-wrap: wrap; gap: 0; margin: 26px 0 4px; border: 1px solid var(--accent-deep); border-radius: 18px; overflow: hidden; background: var(--panel); }
+.gov-btn { background: transparent; color: var(--muted); border: none; padding: 9px 20px; font-size: 14.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
+@media (max-width: 560px) { .gov-btn { padding: 8px 13px; font-size: 13px; } }
 .gov-btn[hidden] { display: none; }
 .gov-btn.on { background: var(--accent); color: #271600; }
 #tokyo-section, #kawaguchi-section { scroll-margin-top: 72px; }

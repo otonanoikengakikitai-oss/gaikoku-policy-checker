@@ -1,0 +1,276 @@
+{
+ "generated_at": "2026-07-02T08:14:03+00:00",
+ "government": "愛知県",
+ "basis_note": "愛知県の外国人特化予算（多文化共生施策とりまとめ資料のうち、事業名と金額の対応が資料上で一意に確認できる主要事業＝国際交流協会運営費補助〔外国人相談窓口等〕・外国人材確保支援・医療通訳・情報発信・フォーラム・関係会議）。県の多文化共生関連とりまとめ総額（教育庁の日本語教育教員配置等を含む部局横断）は令和6年度47.1億円→令和8年度57.2億円で、当アプリの採録はその一部の外国人特化主要事業。全県民向けのインフラ・福祉や日本人向け国際化事業は含まない。金額は千円単位。",
+ "trend_note": "愛知県の外国人住民数は令和7年1月1日で321,905人（総人口の約4.3%・全国有数）。多文化共生関連のとりまとめ総額は約57億円（令和8年度）だが、その大半は小中学校の日本語教育適応学級担当教員の配置（約42億円）等の教育対応であり、『外国人への現金給付』ではない。相談窓口・医療通訳・日本語教育といった体制整備が中心で、県一般会計（3兆円規模）から見れば0.2%未満。『莫大な税金で外国人を優遇』という言説と実態には歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "愛知県 令和6年度予算の概要 参考資料",
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf"
+   },
+   "items": [
+    {
+     "name": "愛知県国際交流協会運営費補助金",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "外国人相談",
+     "amount_yen": 180351000,
+     "amount_label": "1億8,035万1千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf",
+     "desc": "あいち多文化共生センターによる外国人相談窓口の運営等を担う愛知県国際交流協会への運営費補助。"
+    },
+    {
+     "name": "多文化共生情報の発信",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 4723000,
+     "amount_label": "472万3千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf",
+     "desc": "外国人県民向けの多文化共生情報の発信。"
+    },
+    {
+     "name": "あいち医療通訳システムの運営",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 3468000,
+     "amount_label": "346万8千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf",
+     "desc": "医療機関への医療通訳派遣等を行うあいち医療通訳システムの運営。"
+    },
+    {
+     "name": "多文化共生フォーラムあいちの開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 551000,
+     "amount_label": "55万1千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf",
+     "desc": "多文化共生への理解を広げるフォーラムの開催。"
+    },
+    {
+     "name": "多文化共生関係会議等の開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 295000,
+     "amount_label": "29万5千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/495754.pdf",
+     "desc": "多文化共生推進に係る関係会議等の開催。"
+    }
+   ],
+   "foreign_total_yen": 189388000,
+   "general_account": {
+    "amount_yen": 2794944000000,
+    "amount_label": "2兆7,949億4,400万円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "愛知県 令和6年2月定例県議会 予算に関する説明書",
+     "url": "https://www.pref.aichi.jp/uploaded/attachment/499326.pdf"
+    }
+   },
+   "contrast_pct": 0.0068,
+   "population": {
+    "foreign": 301924,
+    "total": 7500882,
+    "share_pct": 4.03,
+    "as_of": "令和6年1月1日現在",
+    "total_as_of": "令和6年1月1日現在",
+    "metric_label": "外国人住民数",
+    "basis": "総務省「住民基本台帳に基づく人口」（各年1月1日現在・外国人住民）。国の在留外国人統計（年末・在留資格ベース）とは統計の種類・基準日が異なる。",
+    "source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和6年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000959269.pdf"
+    },
+    "total_source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和6年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000959269.pdf"
+    }
+   }
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "愛知県 令和7年度予算の概要 参考資料",
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf"
+   },
+   "items": [
+    {
+     "name": "愛知県国際交流協会運営費補助金",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "外国人相談",
+     "amount_yen": 186224000,
+     "amount_label": "1億8,622万4千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "あいち多文化共生センターによる外国人相談窓口の運営等を担う愛知県国際交流協会への運営費補助。"
+    },
+    {
+     "name": "外国人材確保の支援",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "外国人材",
+     "amount_yen": 77955000,
+     "amount_label": "7,795万5千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "外国人材の確保に向けた支援（令和7年度新規）。"
+    },
+    {
+     "name": "あいち医療通訳システムの運営",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 3514000,
+     "amount_label": "351万4千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "医療機関への医療通訳派遣等を行うあいち医療通訳システムの運営。"
+    },
+    {
+     "name": "多文化共生情報の発信",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 650000,
+     "amount_label": "65万円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "外国人県民向けの多文化共生情報の発信。"
+    },
+    {
+     "name": "多文化共生フォーラムあいちの開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 553000,
+     "amount_label": "55万3千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "多文化共生への理解を広げるフォーラムの開催。"
+    },
+    {
+     "name": "多文化共生関係会議等の開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 228000,
+     "amount_label": "22万8千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/548048.pdf",
+     "desc": "多文化共生推進に係る関係会議等の開催。"
+    }
+   ],
+   "foreign_total_yen": 269124000,
+   "general_account": {
+    "amount_yen": 2941301000000,
+    "amount_label": "2兆9,413億100万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "愛知県 令和7年度一般会計予算（第1号議案）",
+     "url": "https://www.pref.aichi.jp/uploaded/attachment/550285.pdf"
+    }
+   },
+   "contrast_pct": 0.0091,
+   "population": {
+    "foreign": 321905,
+    "total": 7483755,
+    "share_pct": 4.3,
+    "as_of": "令和7年1月1日現在",
+    "total_as_of": "令和7年1月1日現在",
+    "metric_label": "外国人住民数",
+    "basis": "総務省「住民基本台帳に基づく人口」（各年1月1日現在・外国人住民）。国の在留外国人統計（年末・在留資格ベース）とは統計の種類・基準日が異なる。",
+    "source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和7年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000892947.pdf"
+    },
+    "total_source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和7年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000892947.pdf"
+    }
+   }
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "愛知県 令和8年度予算の概要 参考資料",
+    "url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf"
+   },
+   "items": [
+    {
+     "name": "愛知県国際交流協会運営費補助金",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "外国人相談",
+     "amount_yen": 202399000,
+     "amount_label": "2億239万9千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "あいち多文化共生センターによる外国人相談窓口の運営等を担う愛知県国際交流協会への運営費補助。"
+    },
+    {
+     "name": "外国人材確保の支援",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "外国人材",
+     "amount_yen": 91279000,
+     "amount_label": "9,127万9千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "外国人材の確保に向けた支援。"
+    },
+    {
+     "name": "あいち医療通訳システムの運営",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 3514000,
+     "amount_label": "351万4千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "医療機関への医療通訳派遣等を行うあいち医療通訳システムの運営。"
+    },
+    {
+     "name": "多文化共生情報の発信",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 621000,
+     "amount_label": "62万1千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "外国人県民向けの多文化共生情報の発信。"
+    },
+    {
+     "name": "多文化共生フォーラムあいちの開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 559000,
+     "amount_label": "55万9千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "多文化共生への理解を広げるフォーラムの開催。"
+    },
+    {
+     "name": "多文化共生関係会議等の開催",
+     "bureau": "県民文化局 多文化共生推進室（施策とりまとめ）",
+     "category": "多文化共生",
+     "amount_yen": 226000,
+     "amount_label": "22万6千円",
+     "source_url": "https://www.pref.aichi.jp/uploaded/attachment/598192.pdf",
+     "desc": "多文化共生推進に係る関係会議等の開催。"
+    }
+   ],
+   "foreign_total_yen": 298598000,
+   "general_account": {
+    "amount_yen": 3222441000000,
+    "amount_label": "3兆2,224億4,100万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "愛知県 令和8年2月定例県議会 予算に関する説明書",
+     "url": "https://www.pref.aichi.jp/uploaded/attachment/600028.pdf"
+    }
+   },
+   "contrast_pct": 0.0093,
+   "population": {
+    "foreign": 321905,
+    "total": 7483755,
+    "share_pct": 4.3,
+    "as_of": "令和7年1月1日現在（令和8年1月1日現在の公表前のため取得可能な最新実績）",
+    "total_as_of": "令和7年1月1日現在",
+    "metric_label": "外国人住民数",
+    "basis": "総務省「住民基本台帳に基づく人口」（各年1月1日現在・外国人住民）。国の在留外国人統計（年末・在留資格ベース）とは統計の種類・基準日が異なる。",
+    "source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和7年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000892947.pdf"
+    },
+    "total_source": {
+     "label": "総務省 住民基本台帳に基づく人口（令和7年1月1日現在）",
+     "url": "https://www.soumu.go.jp/main_content/000892947.pdf"
+    }
+   }
+  }
+ ]
+}

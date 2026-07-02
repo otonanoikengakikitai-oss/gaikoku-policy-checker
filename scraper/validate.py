@@ -11,11 +11,13 @@ from urllib.parse import urlparse
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知県は pref.aichi.jp が公式）
+EXTRA_ALLOWED_HOSTS = ("www.pref.aichi.jp", "pref.aichi.jp")
 
 
 def host_allowed(url):
     host = urlparse(url).hostname or ""
-    return host.endswith(ALLOWED_SUFFIXES)
+    return host.endswith(ALLOWED_SUFFIXES) or host in EXTRA_ALLOWED_HOSTS
 
 
 def check_projects(errors):
@@ -279,6 +281,21 @@ def check_osaka(errors):
     return _check_sk_block(errors, "osaka", data, "general_account")
 
 
+# 汎用ビルダー（build_pref.py）出力の都道府県JSON
+PREF_FILES = ("hokkaido.json", "aichi.json", "fukuoka.json")
+
+
+def check_prefs(errors):
+    n = 0
+    for fn in PREF_FILES:
+        path = DATA_DIR / fn
+        if not path.exists():
+            continue  # best-effort
+        data = json.loads(path.read_text(encoding="utf-8"))
+        n += _check_sk_block(errors, fn.replace(".json", ""), data, "general_account")
+    return n
+
+
 def run():
     errors = []
     n_projects = check_projects(errors)
@@ -290,13 +307,14 @@ def run():
     n_tokyo = check_tokyo(errors)
     n_kawaguchi = check_saitama_kawaguchi(errors)
     n_osaka = check_osaka(errors)
+    n_prefs = check_prefs(errors)
     if errors:
         print("品質ゲート違反:", file=sys.stderr)
         for e in errors:
             print(f"  NG {e}", file=sys.stderr)
         raise SystemExit(1)
     print(
-        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語 / 東京都 {n_tokyo} 事業 / 埼玉川口 {n_kawaguchi} 事業 / 大阪府 {n_osaka} 事業、全出典 go.jp/lg.jp",
+        f"品質ゲート通過: 事業 {n_projects} 件 / 言説 {n_claims} 件 / 比較 {n_comparisons} 組 / 統計 {n_stats} 指標 / 関係予算 {n_budget} 年度 / 用語 {n_glossary} 語 / 東京都 {n_tokyo} 事業 / 埼玉川口 {n_kawaguchi} 事業 / 大阪府 {n_osaka} 事業 / 他県 {n_prefs} 事業、全出典 go.jp/lg.jp等公式",
         file=sys.stderr,
     )
 
