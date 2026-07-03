@@ -31,15 +31,18 @@ import hyogo_def
 import kagawa_def
 import kanagawa_def
 import kyoto_def
+import kumamoto_def
 import miyagi_def
+import nagano_def
 import okayama_def
+import shizuoka_def
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX, http_get_raw
 
-DEFS = [hokkaido_def, miyagi_def, aichi_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, ehime_def, kagawa_def]
+DEFS = [hokkaido_def, miyagi_def, nagano_def, shizuoka_def, aichi_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, ehime_def, kagawa_def, kumamoto_def]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山・愛媛は pref.*.jp が公式）
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山・愛媛・静岡・熊本は pref.*.jp が公式）
 EXTRA_ALLOWED_HOSTS = (
     "www.pref.aichi.jp", "pref.aichi.jp",
     "www.pref.kanagawa.jp", "pref.kanagawa.jp",
@@ -47,6 +50,8 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.miyagi.jp", "pref.miyagi.jp",
     "www.pref.okayama.jp", "pref.okayama.jp",
     "www.pref.ehime.jp", "pref.ehime.jp",
+    "www.pref.shizuoka.jp", "pref.shizuoka.jp",
+    "www.pref.kumamoto.jp", "pref.kumamoto.jp",
 )
 
 _DOC_CACHE = {}  # url -> 正規化テキスト（同一文書の重複取得を回避）

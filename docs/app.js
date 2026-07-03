@@ -240,6 +240,9 @@ const LIST_FILTERS = {
   hyogo: { q: "", cat: "", sort: "budget" },
   ehime: { q: "", cat: "", sort: "budget" },
   kagawa: { q: "", cat: "", sort: "budget" },
+  shizuoka: { q: "", cat: "", sort: "budget" },
+  nagano: { q: "", cat: "", sort: "budget" },
+  kumamoto: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1133,6 +1136,24 @@ const PREF_CONFIG = {
     listFoot: "※香川県「当初予算の概要」に事業名・課名・金額が明記され検証を通過したもののみ。集計形式が年度で異なる（R5・R6=個別事業、R7=パッケージ合算、R8=分野別集計）ため年度間の単純比較は不可。",
     file: "data/kagawa.json",
   },
+  shizuoka: {
+    label: "静岡県", audience: "全県民向け", heroCat: "外国人材・外国人相談・多文化共生",
+    deptSub: "主要事業概要の外国人特化事業", kpiSrc: "出典: 静岡県 当初予算 主要事業概要",
+    listFoot: "※静岡県「当初予算 主要事業概要」に事業名・金額・課名が明記され検証を通過したもののみ。R5〜R7の「多文化共生関連事業」まとめ額は旅券発給事務費を含むため不採用とし内訳の外国人特化項目のみ収録（R8は旅券除外の集計に変更されたため採用）。掲載粒度が年度で異なるため単純比較は不可。",
+    file: "data/shizuoka.json",
+  },
+  nagano: {
+    label: "長野県", audience: "全県民向け", heroCat: "多文化共生・日本語教育",
+    deptSub: "当初予算案の概要（主要施策集）の外国人特化事業", kpiSrc: "出典: 長野県 当初予算案の概要",
+    listFoot: "※長野県「当初予算案の概要（全体版）」の主要施策集に事業名・金額が明記され、当年+前年併記の連結証跡で検証を通過した外国人特化事業のみ（主要施策のみ＝網羅ではない）。令和5年度は資料未特定のため未収録。",
+    file: "data/nagano.json",
+  },
+  kumamoto: {
+    label: "熊本県", audience: "全県民向け", heroCat: "多文化共生・外国人材",
+    deptSub: "要求・査定の概要（査定公表）の外国人特化事業", kpiSrc: "出典: 熊本県 要求・査定の概要",
+    listFoot: "※熊本県「要求・査定の概要」（全事業の査定過程公表）に事業名・金額が明記され、前年+要求+査定の連結証跡で検証を通過した外国人特化事業のみ（知事査定額=当初予算額）。令和6年度は骨格予算のため未収録。観光案内所等は含まない。",
+    file: "data/kumamoto.json",
+  },
 };
 const PREF_DATA = {};
 const PREF_YEAR = {};
@@ -1264,10 +1285,10 @@ const AREA_CONFIG = [
   { id: "national", label: "国（政府）", govs: [] }, // 単独・第2階層なし
   { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "miyagi"] },
   { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "kawaguchi"] },
-  { id: "chubu", label: "中部", govs: ["aichi"] },
+  { id: "chubu", label: "中部", govs: ["nagano", "shizuoka", "aichi"] },
   { id: "kinki", label: "近畿", govs: ["kyoto", "osaka", "hyogo"] },
   { id: "chugoku-shikoku", label: "中国・四国", govs: ["okayama", "hiroshima", "kagawa", "ehime"] },
-  { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka"] },
+  { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka", "kumamoto"] },
 ];
 let areaMode = "national";
 
@@ -1904,11 +1925,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {

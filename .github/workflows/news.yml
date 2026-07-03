@@ -1,8 +1,8 @@
-name: daily-news-update
+name: hourly-news-update
 
 on:
   schedule:
-    - cron: "0 21 * * *" # 毎日 6:00 JST（外国人政策 速報ティッカー用）
+    - cron: "0 * * * *" # 毎時0分（外国人政策 速報ティッカー用。RSS3本のみ取得＝BANリスクなし。変更が無ければコミットしないため無駄な履歴も発生しない）
   workflow_dispatch:
 
 # 同時実行を1本に絞り、週次データ更新とのpush競合を避ける
@@ -29,4 +29,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash || true
           git add docs/data/news.json
-          git diff --cached --quiet || (git commit -m "news: 日次自動更新（外国人政策 速報）" && git push)
+          git diff --cached --quiet || (git commit -m "news: 毎時自動更新（外国人政策 速報）" && git push)

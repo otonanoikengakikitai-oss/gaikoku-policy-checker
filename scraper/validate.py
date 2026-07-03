@@ -11,7 +11,7 @@ from urllib.parse import urlparse
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山・愛媛は pref.*.jp が公式）
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山・愛媛・静岡・熊本は pref.*.jp が公式）
 EXTRA_ALLOWED_HOSTS = (
     "www.pref.aichi.jp", "pref.aichi.jp",
     "www.pref.kanagawa.jp", "pref.kanagawa.jp",
@@ -19,6 +19,8 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.miyagi.jp", "pref.miyagi.jp",
     "www.pref.okayama.jp", "pref.okayama.jp",
     "www.pref.ehime.jp", "pref.ehime.jp",
+    "www.pref.shizuoka.jp", "pref.shizuoka.jp",
+    "www.pref.kumamoto.jp", "pref.kumamoto.jp",
 )
 
 
@@ -289,7 +291,7 @@ def check_osaka(errors):
 
 
 # 汎用ビルダー（build_pref.py）出力の都道府県JSON
-PREF_FILES = ("hokkaido.json", "miyagi.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json")
+PREF_FILES = ("hokkaido.json", "miyagi.json", "nagano.json", "shizuoka.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json", "kumamoto.json")
 
 
 def check_prefs(errors):

@@ -1,0 +1,206 @@
+{
+ "generated_at": "2026-07-03T14:21:57+00:00",
+ "government": "熊本県",
+ "basis_note": "熊本県の外国人特化予算（財政課「要求・査定の概要」＝全事業の査定過程公表資料に事業名と金額が明記され、前年度額＋要求額＋査定額の連結証跡で検証を通過した外国人特化事業。知事査定額＝当初予算額）。令和6年度は知事改選期の骨格予算のため事業未収録（一般会計総額のみ参考収録）。訪日観光客向け（外国人観光客向け観光案内所等）は含まない。金額は千円単位。",
+ "trend_note": "TSMC進出で外国人住民が急増する熊本県の外国人特化予算は、多文化共生支援（一元的相談窓口・日本語教育、令和8年度3,179万円に増額）と外国人材の確保・定着支援が中心で、確認可能分の合計は年6,900万〜7,500万円規模。県一般会計（9,000億円規模）の約0.008%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "熊本県 令和7年度当初予算の要求・査定の概要（部局別）",
+    "url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636636_misc.pdf"
+   },
+   "items": [
+    {
+     "name": "熊本県多文化共生支援事業",
+     "bureau": "知事公室 国際・くまモン局",
+     "category": "多文化共生",
+     "amount_yen": 28262000,
+     "amount_label": "2,826万2千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636636_misc.pdf",
+     "desc": "外国人住民への情報提供・相談の一元的窓口の運営、地域日本語教育の推進、市町村支援等。"
+    },
+    {
+     "name": "「外国人材に選ばれる熊本」推進事業",
+     "bureau": "商工労働部 商工政策課",
+     "category": "外国人材",
+     "amount_yen": 19069000,
+     "amount_label": "1,906万9千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636646_misc.pdf",
+     "desc": "県内企業等の外国人材の確保・定着支援等（TSMC進出等で外国人材が増加する中での受入基盤整備）。（令和7年度新規）"
+    },
+    {
+     "name": "外国人介護人材受入環境整備事業",
+     "bureau": "健康福祉部 長寿社会局",
+     "category": "外国人材",
+     "amount_yen": 13695000,
+     "amount_label": "1,369万5千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636639_misc.pdf",
+     "desc": "外国人介護人材の受入れに伴う環境整備への支援。"
+    },
+    {
+     "name": "外国人生徒受入支援事業",
+     "bureau": "教育委員会 県立学校教育局",
+     "category": "日本語教育",
+     "amount_yen": 8644000,
+     "amount_label": "864万4千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636643_misc.pdf",
+     "desc": "外国人生徒受入れのための通訳や支援員の配置。"
+    },
+    {
+     "name": "「連携“絆”特区」外国人材就労促進事業",
+     "bureau": "商工労働部 商工政策課",
+     "category": "外国人材",
+     "amount_yen": 3276000,
+     "amount_label": "327万6千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636646_misc.pdf",
+     "desc": "国家戦略特区（連携“絆”特区）制度を活用した外国人材の受入れ円滑化。（令和7年度新規）"
+    },
+    {
+     "name": "災害時外国人支援体制構築事業",
+     "bureau": "知事公室 国際・くまモン局",
+     "category": "多文化共生",
+     "amount_yen": 1186000,
+     "amount_label": "118万6千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636636_misc.pdf",
+     "desc": "災害時に外国人住民が適切に避難行動等ができるよう、外国人コミュニティと連携した地域防災研修等。"
+    },
+    {
+     "name": "外国人看護師候補者就労研修支援事業",
+     "bureau": "健康福祉部 健康局",
+     "category": "外国人材",
+     "amount_yen": 812000,
+     "amount_label": "81万2千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/226883_636639_misc.pdf",
+     "desc": "外国人看護師候補者の日本語能力習得や研修体制の充実を図る医療機関への助成。"
+    }
+   ],
+   "foreign_total_yen": 74944000,
+   "general_account": {
+    "amount_yen": 844800000000,
+    "amount_label": "8,448億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "熊本県 令和6年度2月補正予算及び令和7年度当初予算のポイント",
+     "url": "https://www.pref.kumamoto.jp/uploaded/life/225375_628913_misc.pdf"
+    }
+   },
+   "contrast_pct": 0.0089,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "熊本県 令和8年度当初予算の要求・査定の概要（部局別）",
+    "url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766992_misc.pdf"
+   },
+   "items": [
+    {
+     "name": "熊本県多文化共生支援事業",
+     "bureau": "知事公室 国際・くまモン局",
+     "category": "多文化共生",
+     "amount_yen": 31791000,
+     "amount_label": "3,179万1千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766992_misc.pdf",
+     "desc": "外国人住民への情報提供・相談の一元的窓口の運営、地域日本語教育の推進、市町村支援等。",
+     "prev_yen": 28262000,
+     "delta_yen": 3529000
+    },
+    {
+     "name": "「外国人材に選ばれる熊本」推進事業",
+     "bureau": "商工労働部 商工政策課",
+     "category": "外国人材",
+     "amount_yen": 13969000,
+     "amount_label": "1,396万9千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_767002_misc.pdf",
+     "desc": "県内企業等の外国人材の確保・定着支援等（TSMC進出等で外国人材が増加する中での受入基盤整備）。",
+     "prev_yen": 19069000,
+     "delta_yen": -5100000
+    },
+    {
+     "name": "外国人介護人材受入環境整備事業",
+     "bureau": "健康福祉部 長寿社会局",
+     "category": "外国人材",
+     "amount_yen": 12939000,
+     "amount_label": "1,293万9千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766995_misc.pdf",
+     "desc": "外国人介護人材の受入れに伴う環境整備への支援。",
+     "prev_yen": 13695000,
+     "delta_yen": -756000
+    },
+    {
+     "name": "外国人生徒受入支援事業",
+     "bureau": "教育委員会 県立学校教育局",
+     "category": "日本語教育",
+     "amount_yen": 7036000,
+     "amount_label": "703万6千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766999_misc.pdf",
+     "desc": "外国人生徒受入れのための通訳や支援員の配置。",
+     "prev_yen": 8644000,
+     "delta_yen": -1608000
+    },
+    {
+     "name": "災害時外国人支援体制構築事業",
+     "bureau": "知事公室 国際・くまモン局",
+     "category": "多文化共生",
+     "amount_yen": 1186000,
+     "amount_label": "118万6千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766992_misc.pdf",
+     "desc": "災害時に外国人住民が適切に避難行動等ができるよう、外国人コミュニティと連携した地域防災研修等。",
+     "prev_yen": 1186000,
+     "delta_yen": 0
+    },
+    {
+     "name": "「連携“絆”特区」外国人材就労促進事業",
+     "bureau": "商工労働部 商工政策課",
+     "category": "外国人材",
+     "amount_yen": 1064000,
+     "amount_label": "106万4千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_767002_misc.pdf",
+     "desc": "国家戦略特区（連携“絆”特区）制度を活用した外国人材の受入れ円滑化。",
+     "prev_yen": 3276000,
+     "delta_yen": -2212000
+    },
+    {
+     "name": "外国人看護師候補者就労研修支援事業",
+     "bureau": "健康福祉部 健康局",
+     "category": "外国人材",
+     "amount_yen": 929000,
+     "amount_label": "92万9千円",
+     "source_url": "https://www.pref.kumamoto.jp/uploaded/life/255311_766995_misc.pdf",
+     "desc": "外国人看護師候補者の日本語能力習得や研修体制の充実を図る医療機関への助成。",
+     "prev_yen": 812000,
+     "delta_yen": 117000
+    }
+   ],
+   "foreign_total_yen": 68914000,
+   "general_account": {
+    "amount_yen": 935300000000,
+    "amount_label": "9,353億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "熊本県 令和7年度2月補正予算及び令和8年度当初予算のポイント",
+     "url": "https://www.pref.kumamoto.jp/uploaded/life/258324_782138_misc.pdf"
+    }
+   },
+   "contrast_pct": 0.0074,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "amount_yen": 770700000000,
+   "amount_label": "7,707億円",
+   "source": {
+    "label": "熊本県 令和5年度2月補正予算及び令和6年度当初予算のポイント",
+    "url": "https://www.pref.kumamoto.jp/uploaded/life/195949_503028_misc.pdf"
+   },
+   "note": "知事改選期の骨格予算。査定資料の前年欄が骨格当初か肉付け後か区別できないため事業は未収録。"
+  }
+ ]
+}

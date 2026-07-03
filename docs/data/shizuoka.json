@@ -1,0 +1,188 @@
+{
+ "generated_at": "2026-07-03T14:17:33+00:00",
+ "government": "静岡県",
+ "basis_note": "静岡県の外国人特化予算（財政課「当初予算 主要事業概要」に事業名・金額・課名が明記され、連結証跡で検証を通過したもの）。令和5〜7年度の「多文化共生関連事業」まとめ額（例: 令和7年度184,664千円）は旅券発給事務費（同71,164千円）を含むため収録せず、内訳の外国人特化項目（外国人相談体制強化・地域日本語教育の推進）のみ収録（水増し防止）。令和8年度は旅券を除く集計に変更されたためまとめ額を収録（外国青年招致〔JET〕を含む）。掲載粒度が年度で異なるため年度間の単純比較は不可。令和8年度から資料単位が万円（従前は千円）。訪日観光客向け事業は含まない。",
+ "trend_note": "外国人集住県である静岡県の外国人特化予算は、外国人材の就労・定着支援（年5,500万〜9,000万円）と多言語相談・日本語教育（多文化共生関連）が中心で、確認可能分の合計は年1億〜2億円規模。県一般会計（1兆4,000億円規模）の約0.015%であり、外国人県民が約10万人規模で暮らす県でも『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "静岡県 令和5年度当初予算 主要事業概要",
+    "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/043/831/r5tousyoyosansyuyojigyo.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材の活躍推進関連事業",
+     "bureau": "労働雇用政策課・職業能力開発課",
+     "category": "外国人材",
+     "amount_yen": 55500000,
+     "amount_label": "5,550万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/043/831/r5tousyoyosansyuyojigyo.pdf",
+     "desc": "定住外国人の就労・職場定着支援（セミナー・アドバイザー派遣・職業訓練・日本語研修・合同面接会）。"
+    },
+    {
+     "name": "外国人児童生徒支援関連事業",
+     "bureau": "義務教育課・高校教育課",
+     "category": "日本語教育",
+     "amount_yen": 38706000,
+     "amount_label": "3,870万6千円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/043/831/r5tousyoyosansyuyojigyo.pdf",
+     "desc": "外国人児童生徒への日本語指導（非常勤講師・相談員・外国人選抜実施校支援等）。"
+    },
+    {
+     "name": "外国人相談体制強化",
+     "bureau": "多文化共生課",
+     "category": "外国人相談",
+     "amount_yen": 11300000,
+     "amount_label": "1,130万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/043/831/r5tousyoyosansyuyojigyo.pdf",
+     "desc": "多言語相談員（ポルトガル語・フィリピノ語ほか6人）による外国人相談体制（多文化共生関連事業の内訳）。"
+    }
+   ],
+   "foreign_total_yen": 105506000,
+   "general_account": {
+    "amount_yen": 1370300000000,
+    "amount_label": "1兆3,703億円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "静岡県 令和5年度当初予算概要",
+     "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/043/831/r5tousyoyosangaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0077,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "静岡県 令和6年度当初予算 主要事業概要",
+    "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/057/324/r6jigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材の活躍推進関連事業",
+     "bureau": "労働雇用政策課・職業能力開発課",
+     "category": "外国人材",
+     "amount_yen": 54500000,
+     "amount_label": "5,450万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/057/324/r6jigyou.pdf",
+     "desc": "定住外国人の就労・職場定着支援（職業訓練コーディネーター・在職者訓練・日本語研修・合同面接会）。"
+    },
+    {
+     "name": "外国人相談体制強化",
+     "bureau": "多文化共生課",
+     "category": "外国人相談",
+     "amount_yen": 15000000,
+     "amount_label": "1,500万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/057/324/r6jigyou.pdf",
+     "desc": "多文化共生総合相談センターかめりあの運営・多言語相談員6人（多文化共生関連事業の内訳）。"
+    }
+   ],
+   "foreign_total_yen": 69500000,
+   "general_account": {
+    "amount_yen": 1316000000000,
+    "amount_label": "1兆3,160億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "静岡県 令和7年度当初予算概要",
+     "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/01_r7gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0053,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "静岡県 令和7年度当初予算 主要事業概要",
+    "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/02_r7jigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材の活躍推進関連事業",
+     "bureau": "産業人材課・職業能力開発課",
+     "category": "外国人材",
+     "amount_yen": 69654000,
+     "amount_label": "6,965万4千円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/02_r7jigyou.pdf",
+     "desc": "外国人雇用の相談対応・セミナー・合同面接会（モンゴル・インドネシア・ベトナム）・職業訓練・日本語研修。"
+    },
+    {
+     "name": "地域日本語教育の推進",
+     "bureau": "多文化共生課",
+     "category": "日本語教育",
+     "amount_yen": 25900000,
+     "amount_label": "2,590万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/02_r7jigyou.pdf",
+     "desc": "地域日本語教育の推進・日本語教育人材の養成・市町の日本語教室への補助（多文化共生関連事業の内訳）。"
+    },
+    {
+     "name": "外国人相談体制強化",
+     "bureau": "多文化共生課",
+     "category": "外国人相談",
+     "amount_yen": 14200000,
+     "amount_label": "1,420万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/02_r7jigyou.pdf",
+     "desc": "多言語相談員5人による外国人相談体制（多文化共生関連事業の内訳）。"
+    }
+   ],
+   "foreign_total_yen": 109754000,
+   "general_account": {
+    "amount_yen": 1372300000000,
+    "amount_label": "1兆3,723億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "静岡県 令和7年度当初予算概要",
+     "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/066/814/01_r7gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.008,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "静岡県 令和8年度当初予算 主要事業概要",
+    "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/077/823/04_r8jigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生関連事業",
+     "bureau": "多文化共生課",
+     "category": "多文化共生",
+     "amount_yen": 124200000,
+     "amount_label": "1億2,420万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/077/823/04_r8jigyou.pdf",
+     "desc": "インターカルチュラル社会実現（状況調査・地域日本語教育体制整備）、多文化共生審議会・「やさしい日本語」普及、多言語相談員5人。令和8年度資料は旅券発給事務費を除く集計（語学指導等を行う外国青年の招致〔JET〕を含む）。単位は万円（1億2,420万円）。"
+    },
+    {
+     "name": "外国人材の活躍推進関連事業",
+     "bureau": "産業人材課・職業能力開発課",
+     "category": "外国人材",
+     "amount_yen": 89800000,
+     "amount_label": "8,980万円",
+     "source_url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/077/823/04_r8jigyou.pdf",
+     "desc": "外国人材の採用・定着支援（マニュアル多言語化・受入環境診断・マッチングシステム・職業訓練・日本語研修）。単位は万円（8,980万円）。"
+    }
+   ],
+   "foreign_total_yen": 214000000,
+   "general_account": {
+    "amount_yen": 1414100000000,
+    "amount_label": "1兆4,141億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "静岡県 令和8年度当初予算 資料編",
+     "url": "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/077/823/05_r8siryou.pdf"
+    }
+   },
+   "contrast_pct": 0.0151,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}
