@@ -1,0 +1,86 @@
+{
+ "generated_at": "2026-07-03T16:14:41+00:00",
+ "government": "三重県",
+ "basis_note": "三重県の外国人特化予算（部局別「ポイント・主要事業」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業6件＝環境生活部の多文化共生・外国人相談、雇用経済部・医療保健部の外国人材）。県の参考資料「外国人材の活躍促進と共生の推進に向けた取組について」は画像PDFのため照合不能であり使用しない（OCR推測転記の禁止）。令和5〜7年度は同型資料の追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "外国人集住県である三重県の外国人特化予算（令和8年度・確認可能分）は約3億円で、介護人材確保（8,211万円）・外国人材確保（7,815万円）・日本語学習等の提供（6,369万円）が3本柱。県一般会計（8,929億円）の約0.033%と全国的に見れば高水準の部類だが、『莫大な税金で外国人を優遇』という言説とはなお2桁以上の開きがある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "三重県 令和8年度当初予算 ポイント・主要事業（環境生活部）",
+    "url": "https://www.pref.mie.lg.jp/common/content/001237860.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材確保対策事業",
+     "bureau": "医療保健部",
+     "category": "外国人材",
+     "amount_yen": 82110000,
+     "amount_label": "8,211万円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237953.pdf",
+     "desc": "外国人介護人材への介護技術・日本語研修、外国人留学生への奨学金支援、受入施設とのマッチング支援等（一部新規）。"
+    },
+    {
+     "name": "外国人材確保支援事業",
+     "bureau": "雇用経済部",
+     "category": "外国人材",
+     "amount_yen": 78154000,
+     "amount_label": "7,815万4千円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237862.pdf",
+     "desc": "県内企業の外国人材確保の支援（一部新規）。"
+    },
+    {
+     "name": "外国人住民に対する情報や学習機会の提供事業",
+     "bureau": "環境生活部",
+     "category": "多文化共生",
+     "amount_yen": 63692000,
+     "amount_label": "6,369万2千円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237860.pdf",
+     "desc": "外国人住民が日本語を学べる環境づくり・情報提供（一部新規）。"
+    },
+    {
+     "name": "外国人住民の安全で安心な生活への支援事業",
+     "bureau": "環境生活部",
+     "category": "外国人相談",
+     "amount_yen": 35164000,
+     "amount_label": "3,516万4千円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237860.pdf",
+     "desc": "「みえ外国人相談サポートセンター」（MieCo）の運営、社会保険労務士による労働相談、外国人防災リーダー育成等（一部新規）。"
+    },
+    {
+     "name": "外国人材雇用・就労支援事業",
+     "bureau": "雇用経済部",
+     "category": "外国人材",
+     "amount_yen": 29232000,
+     "amount_label": "2,923万2千円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237862.pdf",
+     "desc": "外国人労働者が安心して働ける職場環境づくり（企業向けセミナー・行政書士相談等・一部新規）。"
+    },
+    {
+     "name": "多文化共生がもつ力の活用事業",
+     "bureau": "環境生活部",
+     "category": "多文化共生",
+     "amount_yen": 10081000,
+     "amount_label": "1,008万1千円",
+     "source_url": "https://www.pref.mie.lg.jp/common/content/001237860.pdf",
+     "desc": "日本人住民と外国人住民が共に活躍できる多文化共生の地域づくり。"
+    }
+   ],
+   "foreign_total_yen": 298433000,
+   "general_account": {
+    "amount_yen": 892900000000,
+    "amount_label": "8,929億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "三重県 令和8年度当初予算等のあらまし",
+     "url": "https://www.pref.mie.lg.jp/common/content/001238178.pdf"
+    }
+   },
+   "contrast_pct": 0.0334,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

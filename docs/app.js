@@ -247,6 +247,11 @@ const LIST_FILTERS = {
   ibaraki: { q: "", cat: "", sort: "budget" },
   fukushima: { q: "", cat: "", sort: "budget" },
   okinawa: { q: "", cat: "", sort: "budget" },
+  gunma: { q: "", cat: "", sort: "budget" },
+  gifu: { q: "", cat: "", sort: "budget" },
+  mie: { q: "", cat: "", sort: "budget" },
+  niigata: { q: "", cat: "", sort: "budget" },
+  ishikawa: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1182,6 +1187,36 @@ const PREF_CONFIG = {
     listFoot: "※沖縄県「当初予算説明資料（主な事業）」に事業名・金額が明記され、当年+前年括弧の連結証跡で検証を通過した外国人特化事業のみ（主な事業の抜粋=網羅ではない。掲載は年度により異なる）。令和6年度の一般会計総額は資料表記どおり概数。",
     file: "data/okinawa.json",
   },
+  gunma: {
+    label: "群馬県", audience: "全県民向け", heroCat: "多文化共生",
+    deptSub: "主要事業一覧の外国人特化事業", kpiSrc: "出典: 群馬県 当初予算 主要事業一覧",
+    listFoot: "※群馬県「当初予算の主要事業一覧」に事業名・金額が明記され検証を通過した外国人特化事業のみ（主要事業ベース=網羅ではない）。一般会計総額は4年すべて前年比増減額のチェックサム一致。",
+    file: "data/gunma.json",
+  },
+  gifu: {
+    label: "岐阜県", audience: "全県民向け", heroCat: "多文化共生・外国人材・外国人相談",
+    deptSub: "予算編成過程公開（事業別個票）の外国人特化事業", kpiSrc: "出典: 岐阜県 当初予算の決定内容",
+    listFoot: "※岐阜県「当初予算の決定内容（知事査定後）」の事業別個票に事業名・金額が明記され、事業費+前年度予算額の連結証跡で検証を通過した外国人特化事業15件。令和7年度の額は個票の前年欄より。令和5・6年度は個票アーカイブ未特定のため未収録。",
+    file: "data/gifu.json",
+  },
+  mie: {
+    label: "三重県", audience: "全県民向け", heroCat: "外国人材・多文化共生・外国人相談",
+    deptSub: "部局別ポイント・主要事業の外国人特化事業", kpiSrc: "出典: 三重県 当初予算の状況",
+    listFoot: "※三重県の部局別「ポイント・主要事業」に事業名・金額が明記され検証を通過した外国人特化事業のみ。県参考資料「外国人材の活躍促進と共生の推進」は画像PDFのため照合不能（OCR推測は行わない）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/mie.json",
+  },
+  niigata: {
+    label: "新潟県", audience: "全県民向け", heroCat: "外国人材",
+    deptSub: "当初予算の概要の外国人特化事業", kpiSrc: "出典: 新潟県 当初予算の概要",
+    listFoot: "※新潟県「当初予算の概要」に事業名・金額が明記され検証を通過した外国人特化事業のみ（概要資料ベース=網羅ではない）。令和8年度の金額は資料表記どおり0.1億円単位の概数。令和8年度から企業誘致促進費等が特別会計へ移管され一般会計総額は前年と単純比較不可。",
+    file: "data/niigata.json",
+  },
+  ishikawa: {
+    label: "石川県", audience: "全県民向け", heroCat: "外国人材・多文化共生",
+    deptSub: "当初予算主要事業の外国人特化事業", kpiSrc: "出典: 石川県 当初予算主要事業",
+    listFoot: "※石川県「当初予算主要事業」に事業名・金額が明記され検証を通過した外国人特化事業のみ。令和7年度は資料が震災復旧・復興特化の構成のため未収録。一般会計総額は令和6年度以降、能登半島地震等の復旧・復興費で大きく変動。",
+    file: "data/ishikawa.json",
+  },
 };
 const PREF_DATA = {};
 const PREF_YEAR = {};
@@ -1312,9 +1347,9 @@ function renderPrefItemList(gov) {
 const AREA_CONFIG = [
   { id: "national", label: "国（政府）", govs: [] }, // 単独・第2階層なし
   { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "miyagi", "fukushima"] },
-  { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "chiba", "ibaraki", "kawaguchi"] },
-  { id: "chubu", label: "中部", govs: ["nagano", "shizuoka", "aichi"] },
-  { id: "kinki", label: "近畿", govs: ["kyoto", "osaka", "hyogo"] },
+  { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "chiba", "ibaraki", "gunma", "kawaguchi"] },
+  { id: "chubu", label: "中部", govs: ["niigata", "ishikawa", "nagano", "gifu", "shizuoka", "aichi"] },
+  { id: "kinki", label: "近畿", govs: ["mie", "kyoto", "osaka", "hyogo"] },
   { id: "chugoku-shikoku", label: "中国・四国", govs: ["okayama", "hiroshima", "kagawa", "ehime"] },
   { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka", "kumamoto", "okinawa"] },
 ];
@@ -1953,11 +1988,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {

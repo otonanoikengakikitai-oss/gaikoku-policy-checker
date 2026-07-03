@@ -1,0 +1,187 @@
+{
+ "generated_at": "2026-07-03T16:11:52+00:00",
+ "government": "石川県",
+ "basis_note": "石川県の外国人特化予算（財政課「当初予算主要事業」に事業名と金額が明記され、行内連結証跡で検証を通過した外国人特化事業）。主要事業ベースのため網羅ではない。令和7年度は資料が震災復旧・復興特化の構成で外国人施策の掲載がなく未収録（一般会計総額のみ参考収録）。「外国人住民の支援体制の強化」（令和5年度・一部再掲）は他事業との重複を含むため水増し防止のため未収録。令和8年度から資料単位が万円（従前は千円）。観光インバウンドは含まない。一般会計総額は令和6年度以降、能登半島地震・奥能登豪雨の復旧・復興費で大きく変動。",
+ "trend_note": "北陸の石川県の外国人特化予算（主要事業ベース）は年2,200万〜4,000万円規模で、介護・労働・農業の外国人材受入支援が中心。令和8年度は労働者確保・定着支援が2,380万円に増額され、外国人住民の防災対応力強化（200万円）が新設された（能登半島地震の経験を踏まえた施策）。県一般会計の約0.004%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "石川県 令和5年度当初予算 主要事業",
+    "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r5/documents/r5_syuyoujigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材の受入支援",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 11140000,
+     "amount_label": "1,114万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r5/documents/r5_syuyoujigyou.pdf",
+     "desc": "外国人介護人材の受入支援。"
+    },
+    {
+     "name": "外国人労働者の確保・定着支援",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 10000000,
+     "amount_label": "1,000万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r5/documents/r5_syuyoujigyou.pdf",
+     "desc": "外国人労働者の確保・定着支援（企業向け支援等）。"
+    },
+    {
+     "name": "外国人農業人材の受入支援",
+     "bureau": "農林水産部",
+     "category": "外国人材",
+     "amount_yen": 1000000,
+     "amount_label": "100万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r5/documents/r5_syuyoujigyou.pdf",
+     "desc": "外国人農業人材の受入支援。"
+    }
+   ],
+   "foreign_total_yen": 22140000,
+   "general_account": {
+    "amount_yen": 617094000000,
+    "amount_label": "6,170億9,400万円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "石川県 令和5年度当初予算概要",
+     "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r5/documents/r5_yosanngaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0036,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "石川県 令和6年度当初予算 主要事業",
+    "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_syuyoujigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材の受入支援",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 11490000,
+     "amount_label": "1,149万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_syuyoujigyou.pdf",
+     "desc": "外国人介護人材の受入支援。"
+    },
+    {
+     "name": "外国人住民の日本語学習の支援",
+     "bureau": "県民文化スポーツ部",
+     "category": "日本語教育",
+     "amount_yen": 6000000,
+     "amount_label": "600万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_syuyoujigyou.pdf",
+     "desc": "外国人住民の日本語学習の支援。"
+    },
+    {
+     "name": "外国人労働者の確保・定着支援",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 5000000,
+     "amount_label": "500万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_syuyoujigyou.pdf",
+     "desc": "外国人労働者の確保・定着支援（企業向け支援等）。"
+    },
+    {
+     "name": "外国人農業人材の受入支援",
+     "bureau": "農林水産部",
+     "category": "外国人材",
+     "amount_yen": 1000000,
+     "amount_label": "100万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_syuyoujigyou.pdf",
+     "desc": "外国人農業人材の受入支援。"
+    }
+   ],
+   "foreign_total_yen": 23490000,
+   "general_account": {
+    "amount_yen": 1110131000000,
+    "amount_label": "1兆1,101億3,100万円",
+    "label": "令和6年度 一般会計 当初予算（能登半島地震対応含む）",
+    "source": {
+     "label": "石川県 令和6年度当初予算概要",
+     "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r6/documents/r6_yosanngaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0021,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "石川県 令和8年度当初予算 主要事業",
+    "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_syuyouzigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人労働者の確保・定着支援",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 23800000,
+     "amount_label": "2,380万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_syuyouzigyou.pdf",
+     "desc": "外国人労働者の確保・定着支援（企業向け支援等）。単位は万円（2,380万円）。"
+    },
+    {
+     "name": "外国人介護人材の受入支援",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 12490000,
+     "amount_label": "1,249万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_syuyouzigyou.pdf",
+     "desc": "外国人介護人材の受入支援。単位は万円（1,249万円）。"
+    },
+    {
+     "name": "外国人住民の防災対応力強化",
+     "bureau": "県民文化スポーツ部",
+     "category": "多文化共生",
+     "amount_yen": 2000000,
+     "amount_label": "200万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_syuyouzigyou.pdf",
+     "desc": "外国人住民の防災対応力強化（令和8年度新規）。"
+    },
+    {
+     "name": "外国人農業人材の受入支援",
+     "bureau": "農林水産部",
+     "category": "外国人材",
+     "amount_yen": 500000,
+     "amount_label": "50万円",
+     "source_url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_syuyouzigyou.pdf",
+     "desc": "外国人農業人材の受入支援。"
+    }
+   ],
+   "foreign_total_yen": 38790000,
+   "general_account": {
+    "amount_yen": 888910000000,
+    "amount_label": "8,889億1,000万円",
+    "label": "令和8年度 一般会計 当初予算（復旧・復興費含む）",
+    "source": {
+     "label": "石川県 令和8年度当初予算概要",
+     "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r8_yosangaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0044,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "amount_yen": 934118000000,
+   "amount_label": "9,341億1,800万円",
+   "source": {
+    "label": "石川県 令和7年度当初予算概要",
+    "url": "https://www.pref.ishikawa.lg.jp/zaisei/yosan/r7/documents/r7_yosanngaiyou.pdf"
+   },
+   "note": "令和7年度の主要事業資料は能登半島地震の復旧・復興特化の構成で外国人施策の掲載がなく、事業は未収録（一般会計総額のみ）。"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "generated_at": "2026-07-03T16:10:54+00:00",
+ "government": "群馬県",
+ "basis_note": "群馬県の外国人特化予算（財政課「当初予算の主要事業一覧」に事業名と金額が明記され、行内連結証跡で検証を通過した外国人特化事業＝多文化共生推進）。主要事業一覧ベースのため網羅ではない。一般会計総額は概要資料の予算額（千円）で、4年すべて前年比増減額のチェックサムが一致。金額は千円単位。",
+ "trend_note": "外国人集住県である群馬県の多文化共生推進予算は令和5年度3,688万円→令和8年度4,451万円へ約2割増（外国人総合相談ワンストップセンター、電話医療通訳の新設等）だが、県一般会計（8,000億円台）の約0.005%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "群馬県 令和5年度当初予算 主要事業一覧",
+    "url": "https://www.pref.gunma.jp/uploaded/life/183765_202990_misc.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進",
+     "bureau": "知事戦略部",
+     "category": "多文化共生",
+     "amount_yen": 36878000,
+     "amount_label": "3,687万8千円",
+     "source_url": "https://www.pref.gunma.jp/uploaded/life/183765_202990_misc.pdf",
+     "desc": "多文化共生・共創推進基本計画に基づく生活者としての外国人への支援・生活環境整備（ぐんま外国人総合相談ワンストップセンター運営等）。"
+    }
+   ],
+   "foreign_total_yen": 36878000,
+   "general_account": {
+    "amount_yen": 819700000000,
+    "amount_label": "8,197億円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "群馬県 令和5年度当初予算の概要等",
+     "url": "https://www.pref.gunma.jp/uploaded/life/183765_202987_misc.pdf"
+    }
+   },
+   "contrast_pct": 0.0045,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "群馬県 令和6年度当初予算 主要事業一覧",
+    "url": "https://www.pref.gunma.jp/uploaded/attachment/615898.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進",
+     "bureau": "知事戦略部",
+     "category": "多文化共生",
+     "amount_yen": 37111000,
+     "amount_label": "3,711万1千円",
+     "source_url": "https://www.pref.gunma.jp/uploaded/attachment/615898.pdf",
+     "desc": "多文化共生・共創推進基本計画に基づく生活者としての外国人への支援・生活環境整備（ぐんま外国人総合相談ワンストップセンター運営等）。"
+    }
+   ],
+   "foreign_total_yen": 37111000,
+   "general_account": {
+    "amount_yen": 781600000000,
+    "amount_label": "7,816億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "群馬県 令和6年度当初予算の概要等",
+     "url": "https://www.pref.gunma.jp/uploaded/attachment/615895.pdf"
+    }
+   },
+   "contrast_pct": 0.0047,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "群馬県 令和7年度当初予算 主要事業一覧",
+    "url": "https://www.pref.gunma.jp/uploaded/attachment/649776.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進",
+     "bureau": "知事戦略部",
+     "category": "多文化共生",
+     "amount_yen": 42242000,
+     "amount_label": "4,224万2千円",
+     "source_url": "https://www.pref.gunma.jp/uploaded/attachment/649776.pdf",
+     "desc": "多文化共生・共創推進基本計画に基づく生活者としての外国人への支援・生活環境整備（ぐんま外国人総合相談ワンストップセンター運営等）。"
+    }
+   ],
+   "foreign_total_yen": 42242000,
+   "general_account": {
+    "amount_yen": 807800000000,
+    "amount_label": "8,078億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "群馬県 令和7年度当初予算の概要等",
+     "url": "https://www.pref.gunma.jp/uploaded/attachment/656449.pdf"
+    }
+   },
+   "contrast_pct": 0.0052,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "群馬県 令和8年度当初予算 主要事業一覧",
+    "url": "https://www.pref.gunma.jp/uploaded/attachment/688709.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進",
+     "bureau": "知事戦略部",
+     "category": "多文化共生",
+     "amount_yen": 44510000,
+     "amount_label": "4,451万円",
+     "source_url": "https://www.pref.gunma.jp/uploaded/attachment/688709.pdf",
+     "desc": "多文化共生・共創推進基本計画に基づく生活者としての外国人への支援・生活環境整備（ぐんま外国人総合相談ワンストップセンター運営等）。令和8年度は外国人県民向け電話医療通訳（5,874千円・新規）等を拡充。"
+    }
+   ],
+   "foreign_total_yen": 44510000,
+   "general_account": {
+    "amount_yen": 848600000000,
+    "amount_label": "8,486億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "群馬県 令和8年度当初予算の概要等",
+     "url": "https://www.pref.gunma.jp/uploaded/attachment/689278.pdf"
+    }
+   },
+   "contrast_pct": 0.0052,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

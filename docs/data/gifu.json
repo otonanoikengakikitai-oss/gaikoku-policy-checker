@@ -1,0 +1,368 @@
+{
+ "generated_at": "2026-07-03T16:12:14+00:00",
+ "government": "岐阜県",
+ "basis_note": "岐阜県の外国人特化予算（予算編成過程の公開＝知事査定後の事業別個票に事業名と金額が明記され、「事業費＋前年度予算額」の連結証跡で検証を通過した外国人特化事業15件。総合企画部の多文化共生・外国人相談、健康福祉部の外国人医療・介護人材、商工労働部の外国人材活用）。令和7年度の額は個票の前年度予算額欄から取得。令和5・6年度は個票アーカイブ未特定のため事業未収録（一般会計総額のみ参考収録）。国際交流一般は含まない（国際交流センター補助金は多文化共生分のみ）。金額は千円単位。",
+ "trend_note": "外国人集住県である岐阜県の外国人特化予算（15事業）は令和7年度8,821万円→令和8年度1億931万円へ約24%増。増分の中心は外国人活用企業サポート事業（1,186万→3,105万円・2.6倍）と多文化共生実態調査（580万円・新規）で、介護・医療分野の外国人材受入支援が約半分を占める。それでも県一般会計（9,500億円規模）の約0.011%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "岐阜県 令和8年度当初予算の決定内容（知事査定後・事業別個票）",
+    "url": "https://www.pref.gifu.lg.jp/page/480257.html"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進支援費",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 1708000,
+     "amount_label": "170万8千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/55122.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "岐阜県在住外国人相談センター事業費",
+     "bureau": "総合企画部",
+     "category": "外国人相談",
+     "amount_yen": 18903000,
+     "amount_label": "1,890万3千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/108596.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "国際交流センター事業費補助金（多文化共生）",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 5788000,
+     "amount_label": "578万8千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/79816.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人患者受入環境整備事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人相談",
+     "amount_yen": 1200000,
+     "amount_label": "120万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/54116.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人患者受入体制整備協議会運営事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人相談",
+     "amount_yen": 150000,
+     "amount_label": "15万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/85680.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人看護師候補者支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 3365000,
+     "amount_label": "336万5千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/21137.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人介護人材受入環境整備事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 5017000,
+     "amount_label": "501万7千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/60499.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人介護人材対策協議会運営費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 2827000,
+     "amount_label": "282万7千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/75838.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人介護人材マッチング支援事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 5521000,
+     "amount_label": "552万1千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/86816.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "介護事業者の外国人留学生支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 3976000,
+     "amount_label": "397万6千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/75798.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人介護人材日本語学習支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "日本語教育",
+     "amount_yen": 2775000,
+     "amount_label": "277万5千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/97498.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人介護福祉士候補者受入施設学習支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 21930000,
+     "amount_label": "2,193万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/121298.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人起業活動促進事業費",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 990000,
+     "amount_label": "99万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/08/83357.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    },
+    {
+     "name": "外国人活用企業サポート事業費",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 11864000,
+     "amount_label": "1,186万4千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/08/129365.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。"
+    }
+   ],
+   "foreign_total_yen": 86014000,
+   "general_account": {
+    "amount_yen": 901970000000,
+    "amount_label": "9,019億7,000万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "岐阜県 令和7年度当初予算案について（計数編）",
+     "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/432695.pdf"
+    }
+   },
+   "contrast_pct": 0.0095,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "岐阜県 令和8年度当初予算の決定内容（知事査定後・事業別個票）",
+    "url": "https://www.pref.gifu.lg.jp/page/480257.html"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進支援費",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 1819000,
+     "amount_label": "181万9千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/55122.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 1708000,
+     "delta_yen": 111000
+    },
+    {
+     "name": "岐阜県在住外国人相談センター事業費",
+     "bureau": "総合企画部",
+     "category": "外国人相談",
+     "amount_yen": 17980000,
+     "amount_label": "1,798万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/108596.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 18903000,
+     "delta_yen": -923000
+    },
+    {
+     "name": "多文化共生実態調査事業費",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 5800000,
+     "amount_label": "580万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/143692.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 0,
+     "delta_yen": 5800000
+    },
+    {
+     "name": "国際交流センター事業費補助金（多文化共生）",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 5565000,
+     "amount_label": "556万5千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/03/79816.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 5788000,
+     "delta_yen": -223000
+    },
+    {
+     "name": "外国人患者受入環境整備事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人相談",
+     "amount_yen": 1200000,
+     "amount_label": "120万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/54116.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 1200000,
+     "delta_yen": 0
+    },
+    {
+     "name": "外国人患者受入体制整備協議会運営事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人相談",
+     "amount_yen": 149000,
+     "amount_label": "14万9千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/85680.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 150000,
+     "delta_yen": -1000
+    },
+    {
+     "name": "外国人看護師候補者支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 3482000,
+     "amount_label": "348万2千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/21137.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 3365000,
+     "delta_yen": 117000
+    },
+    {
+     "name": "外国人介護人材受入環境整備事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 5017000,
+     "amount_label": "501万7千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/60499.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 5017000,
+     "delta_yen": 0
+    },
+    {
+     "name": "外国人介護人材対策協議会運営費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 2827000,
+     "amount_label": "282万7千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/75838.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 2827000,
+     "delta_yen": 0
+    },
+    {
+     "name": "外国人介護人材マッチング支援事業費",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 5521000,
+     "amount_label": "552万1千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/86816.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 5521000,
+     "delta_yen": 0
+    },
+    {
+     "name": "介護事業者の外国人留学生支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 3744000,
+     "amount_label": "374万4千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/75798.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 3976000,
+     "delta_yen": -232000
+    },
+    {
+     "name": "外国人介護人材日本語学習支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "日本語教育",
+     "amount_yen": 3225000,
+     "amount_label": "322万5千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/97498.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 2775000,
+     "delta_yen": 450000
+    },
+    {
+     "name": "外国人介護福祉士候補者受入施設学習支援事業費補助金",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 20940000,
+     "amount_label": "2,094万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/06/121298.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 21930000,
+     "delta_yen": -990000
+    },
+    {
+     "name": "外国人起業活動促進事業費",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 990000,
+     "amount_label": "99万円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/08/83357.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 990000,
+     "delta_yen": 0
+    },
+    {
+     "name": "外国人活用企業サポート事業費",
+     "bureau": "商工労働部",
+     "category": "外国人材",
+     "amount_yen": 31048000,
+     "amount_label": "3,104万8千円",
+     "source_url": "https://www.pref.gifu.lg.jp/zaisei/r8koukai3/08/129365.pdf",
+     "desc": "岐阜県予算編成過程の公開（事業別個票）より。",
+     "prev_yen": 11864000,
+     "delta_yen": 19184000
+    }
+   ],
+   "foreign_total_yen": 109307000,
+   "general_account": {
+    "amount_yen": 956880000000,
+    "amount_label": "9,568億8,000万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "岐阜県 令和8年度当初予算案について（計数編）",
+     "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/485785.pdf"
+    }
+   },
+   "contrast_pct": 0.0114,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "amount_yen": 889710000000,
+   "amount_label": "8,897億1,000万円",
+   "source": {
+    "label": "岐阜県 令和5年度当初予算案について（計数編）",
+    "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/338020.pdf"
+   },
+   "note": "令和5年度は事業別個票のアーカイブ未特定のため事業は未収録（一般会計総額のみ）。"
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "amount_yen": 886080000000,
+   "amount_label": "8,860億8,000万円",
+   "source": {
+    "label": "岐阜県 令和6年度当初予算案について（計数編）",
+    "url": "https://www.pref.gifu.lg.jp/uploaded/attachment/394129.pdf"
+   },
+   "note": "令和6年度は事業別個票のアーカイブ未特定のため事業は未収録（一般会計総額のみ）。"
+  }
+ ]
+}

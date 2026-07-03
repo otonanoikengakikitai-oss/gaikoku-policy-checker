@@ -1,0 +1,115 @@
+{
+ "generated_at": "2026-07-03T16:11:43+00:00",
+ "government": "新潟県",
+ "basis_note": "新潟県の外国人特化予算（財政課「当初予算の概要」に事業名と金額が明記され、行内連結証跡で検証を通過した外国人特化事業）。概要資料ベースのため網羅ではない。令和8年度の金額は資料表記どおり0.1億円単位の概数。令和5年度は資料に金額記載がないため未収録（一般会計総額のみ参考収録）。令和8年度から企業誘致促進費等が特別会計へ移管されており一般会計総額は前年と単純比較不可。",
+ "trend_note": "新潟県の外国人特化予算（概要資料ベース）は、外国人材受入サポートセンター（令和6年度1,500万円）から受入・定着の総合対策（令和7年度3,020万円）へ倍増したが、県一般会計（1兆2,000億円規模）の約0.002%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "新潟県 令和6年度当初予算の概要",
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/398426.pdf"
+   },
+   "items": [
+    {
+     "name": "新潟県外国人材受入サポートセンター運営事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 15000000,
+     "amount_label": "1,500万円",
+     "source_url": "https://www.pref.niigata.lg.jp/uploaded/attachment/398426.pdf",
+     "desc": "外国人材受入れに関する県内企業からの相談対応・マッチング支援を行うサポートセンターの運営。"
+    }
+   ],
+   "foreign_total_yen": 15000000,
+   "general_account": {
+    "amount_yen": 1287200000000,
+    "amount_label": "1兆2,872億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "新潟県 令和6年度当初予算の概要",
+     "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/398426.pdf"
+    }
+   },
+   "contrast_pct": 0.0012,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "新潟県 令和7年度当初予算の概要",
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/436293.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材の受入・定着のための総合対策",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 30200000,
+     "amount_label": "3,020万円",
+     "source_url": "https://www.pref.niigata.lg.jp/uploaded/attachment/436293.pdf",
+     "desc": "外国人材の受入・定着支援の総合対策（令和7年度新規・サポートセンター運営を含む再編パッケージ）。"
+    }
+   ],
+   "foreign_total_yen": 30200000,
+   "general_account": {
+    "amount_yen": 1263500000000,
+    "amount_label": "1兆2,635億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "新潟県 令和7年度当初予算の概要",
+     "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/436293.pdf"
+    }
+   },
+   "contrast_pct": 0.0024,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "新潟県 令和8年度当初予算の概要",
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/486520.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入・定着のための総合対策",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 30000000,
+     "amount_label": "3,000万円",
+     "source_url": "https://www.pref.niigata.lg.jp/uploaded/attachment/486520.pdf",
+     "desc": "外国人材の受入・定着支援の総合対策と多文化共生に向けた地域の国際関係団体等への新規支援。資料表記は0.1億円単位の概数（0.3億円）。"
+    }
+   ],
+   "foreign_total_yen": 30000000,
+   "general_account": {
+    "amount_yen": 1169800000000,
+    "amount_label": "1兆1,698億円",
+    "label": "令和8年度 一般会計 当初予算（企業誘致促進費等の特別会計移管後）",
+    "source": {
+     "label": "新潟県 令和8年度当初予算の概要",
+     "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/486520.pdf"
+    }
+   },
+   "contrast_pct": 0.0026,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "amount_yen": 1342900000000,
+   "amount_label": "1兆3,429億円",
+   "source": {
+    "label": "新潟県 令和5年度当初予算の概要",
+    "url": "https://www.pref.niigata.lg.jp/uploaded/attachment/355639.pdf"
+   },
+   "note": "令和5年度は概要資料に外国人施策の金額記載がないため事業は未収録（一般会計総額のみ）。"
+  }
+ ]
+}
