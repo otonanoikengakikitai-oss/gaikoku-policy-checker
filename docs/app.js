@@ -243,6 +243,10 @@ const LIST_FILTERS = {
   shizuoka: { q: "", cat: "", sort: "budget" },
   nagano: { q: "", cat: "", sort: "budget" },
   kumamoto: { q: "", cat: "", sort: "budget" },
+  chiba: { q: "", cat: "", sort: "budget" },
+  ibaraki: { q: "", cat: "", sort: "budget" },
+  fukushima: { q: "", cat: "", sort: "budget" },
+  okinawa: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1154,6 +1158,30 @@ const PREF_CONFIG = {
     listFoot: "※熊本県「要求・査定の概要」（全事業の査定過程公表）に事業名・金額が明記され、前年+要求+査定の連結証跡で検証を通過した外国人特化事業のみ（知事査定額=当初予算額）。令和6年度は骨格予算のため未収録。観光案内所等は含まない。",
     file: "data/kumamoto.json",
   },
+  chiba: {
+    label: "千葉県", audience: "全県民向け", heroCat: "外国人材・日本語教育・多文化共生",
+    deptSub: "当初予算案の概要の外国人特化事業", kpiSrc: "出典: 千葉県 当初予算案の概要",
+    listFoot: "※千葉県「当初予算案の概要（全文）」に事業名・金額が明記され、当年+前年括弧の連結証跡と4年連鎖チェックサムで検証を通過した外国人特化事業のみ。観光インバウンドは含まない。地域日本語教育等の推進のR8前年括弧は組替えのため前年比は当初予算同士で比較。",
+    file: "data/chiba.json",
+  },
+  ibaraki: {
+    label: "茨城県", audience: "全県民向け", heroCat: "外国人材",
+    deptSub: "予算案関係資料の外国人特化事業", kpiSrc: "出典: 茨城県 予算案関係資料",
+    listFoot: "※茨城県「予算案関係資料（当初）」の主要施策カードに事業名・金額が明記され検証を通過したもののみ（金額掲載は令和6・7年度分）。不法就労防止等の適正化施策は支援施策でないため対象外。金額は百万円単位。",
+    file: "data/ibaraki.json",
+  },
+  fukushima: {
+    label: "福島県", audience: "全県民向け", heroCat: "多文化共生・外国人相談",
+    deptSub: "当初予算の主要事業の外国人特化事業", kpiSrc: "出典: 福島県 当初予算の主要事業",
+    listFoot: "※福島県「当初予算の主要事業」に事業名・金額が明記され検証を通過した外国人特化事業のみ（主要事業一覧ベース=網羅ではない）。一般会計総額には震災からの復興・創生分が含まれるため他県との単純比較は不可。",
+    file: "data/fukushima.json",
+  },
+  okinawa: {
+    label: "沖縄県", audience: "全県民向け", heroCat: "外国人材",
+    deptSub: "当初予算説明資料（主な事業）の外国人特化事業", kpiSrc: "出典: 沖縄県 当初予算説明資料",
+    listFoot: "※沖縄県「当初予算説明資料（主な事業）」に事業名・金額が明記され、当年+前年括弧の連結証跡で検証を通過した外国人特化事業のみ（主な事業の抜粋=網羅ではない。掲載は年度により異なる）。令和6年度の一般会計総額は資料表記どおり概数。",
+    file: "data/okinawa.json",
+  },
 };
 const PREF_DATA = {};
 const PREF_YEAR = {};
@@ -1283,12 +1311,12 @@ function renderPrefItemList(gov) {
    エリア選択で .gov-btn の表示範囲を絞り込むだけの薄い層として実装。 */
 const AREA_CONFIG = [
   { id: "national", label: "国（政府）", govs: [] }, // 単独・第2階層なし
-  { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "miyagi"] },
-  { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "kawaguchi"] },
+  { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "miyagi", "fukushima"] },
+  { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "chiba", "ibaraki", "kawaguchi"] },
   { id: "chubu", label: "中部", govs: ["nagano", "shizuoka", "aichi"] },
   { id: "kinki", label: "近畿", govs: ["kyoto", "osaka", "hyogo"] },
   { id: "chugoku-shikoku", label: "中国・四国", govs: ["okayama", "hiroshima", "kagawa", "ehime"] },
-  { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka", "kumamoto"] },
+  { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka", "kumamoto", "okinawa"] },
 ];
 let areaMode = "national";
 
@@ -1925,11 +1953,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {

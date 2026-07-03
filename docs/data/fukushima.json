@@ -1,0 +1,180 @@
+{
+ "generated_at": "2026-07-03T15:20:53+00:00",
+ "government": "福島県",
+ "basis_note": "福島県の外国人特化予算（財政課「当初予算の主要事業」に事業名と金額が明記され、行内連結証跡で検証を通過した外国人特化事業＝多文化共生推進事業・外国人住民相談体制整備事業〔生活環境部〕）。主要事業一覧ベースのため網羅ではない（福祉・介護人材確保プロジェクト内の外国人介護留学生支援等は親事業が全対象のため未収録）。一般会計総額には東日本大震災からの復興・創生分が含まれるため他県との単純比較は不可。金額は千円単位。",
+ "trend_note": "福島県の外国人特化予算（主要事業ベース）は、多文化共生推進（日本語教育・やさしい日本語）が令和5年度1,214万円→令和8年度2,424万円へ倍増する一方、外国人相談は800万円台で安定。合計は年2,100万〜3,300万円規模で、県一般会計（1兆2,000億円超・復興分含む）の約0.003%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "福島県 令和5年度当初予算の主要事業",
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/551712.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人住民相談体制整備事業",
+     "bureau": "生活環境部",
+     "category": "外国人相談",
+     "amount_yen": 16512000,
+     "amount_label": "1,651万2千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/551712.pdf",
+     "desc": "外国人住民が地域で安心して暮らせるための多言語生活相談窓口（外国人住民相談センター）の運営。（令和5年度は外国人向け新型コロナ相談ホットラインを含む）。"
+    },
+    {
+     "name": "多文化共生推進事業",
+     "bureau": "生活環境部",
+     "category": "多文化共生",
+     "amount_yen": 12139000,
+     "amount_label": "1,213万9千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/551712.pdf",
+     "desc": "関係団体等と連携した外国人住民等への日本語教育の推進、「やさしい日本語」の普及促進等。"
+    }
+   ],
+   "foreign_total_yen": 28651000,
+   "general_account": {
+    "amount_yen": 1338249000000,
+    "amount_label": "1兆3,382億4,900万円",
+    "label": "令和5年度 一般会計 当初予算（復興・創生分含む）",
+    "source": {
+     "label": "福島県 令和5年度当初予算のポイント",
+     "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/551711.pdf"
+    }
+   },
+   "contrast_pct": 0.0021,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "福島県 令和6年度当初予算の主要事業",
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/612829.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業",
+     "bureau": "生活環境部",
+     "category": "多文化共生",
+     "amount_yen": 12719000,
+     "amount_label": "1,271万9千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/612829.pdf",
+     "desc": "関係団体等と連携した外国人住民等への日本語教育の推進、「やさしい日本語」の普及促進等。",
+     "prev_yen": 12139000,
+     "delta_yen": 580000
+    },
+    {
+     "name": "外国人住民相談体制整備事業",
+     "bureau": "生活環境部",
+     "category": "外国人相談",
+     "amount_yen": 10643000,
+     "amount_label": "1,064万3千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/612829.pdf",
+     "desc": "外国人住民が地域で安心して暮らせるための多言語生活相談窓口（外国人住民相談センター）の運営。",
+     "prev_yen": 16512000,
+     "delta_yen": -5869000
+    }
+   ],
+   "foreign_total_yen": 23362000,
+   "general_account": {
+    "amount_yen": 1238100000000,
+    "amount_label": "1兆2,381億円",
+    "label": "令和6年度 一般会計 当初予算（復興・創生分含む）",
+    "source": {
+     "label": "福島県 令和7年度当初予算 前年度比較",
+     "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/670123.pdf"
+    }
+   },
+   "contrast_pct": 0.0019,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "福島県 令和7年度当初予算の主要事業",
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/670133.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業",
+     "bureau": "生活環境部",
+     "category": "多文化共生",
+     "amount_yen": 22928000,
+     "amount_label": "2,292万8千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/670133.pdf",
+     "desc": "関係団体等と連携した外国人住民等への日本語教育の推進、「やさしい日本語」の普及促進等。（令和7年度に再編・拡充）。"
+    },
+    {
+     "name": "外国人住民相談体制整備事業",
+     "bureau": "生活環境部",
+     "category": "外国人相談",
+     "amount_yen": 8110000,
+     "amount_label": "811万円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/670133.pdf",
+     "desc": "外国人住民が地域で安心して暮らせるための多言語生活相談窓口（外国人住民相談センター）の運営。",
+     "prev_yen": 10643000,
+     "delta_yen": -2533000
+    }
+   ],
+   "foreign_total_yen": 31038000,
+   "general_account": {
+    "amount_yen": 1281799000000,
+    "amount_label": "1兆2,817億9,900万円",
+    "label": "令和7年度 一般会計 当初予算（復興・創生分含む）",
+    "source": {
+     "label": "福島県 令和7年度当初予算のポイント",
+     "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/670122.pdf"
+    }
+   },
+   "contrast_pct": 0.0024,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "福島県 令和8年度当初予算の主要事業",
+    "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/725511.pdf"
+   },
+   "items": [
+    {
+     "name": "多文化共生推進事業",
+     "bureau": "生活環境部",
+     "category": "多文化共生",
+     "amount_yen": 24244000,
+     "amount_label": "2,424万4千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/725511.pdf",
+     "desc": "関係団体等と連携した外国人住民等への日本語教育の推進、「やさしい日本語」の普及促進等。",
+     "prev_yen": 22928000,
+     "delta_yen": 1316000
+    },
+    {
+     "name": "外国人住民相談体制整備事業",
+     "bureau": "生活環境部",
+     "category": "外国人相談",
+     "amount_yen": 8123000,
+     "amount_label": "812万3千円",
+     "source_url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/725511.pdf",
+     "desc": "外国人住民が地域で安心して暮らせるための多言語生活相談窓口（外国人住民相談センター）の運営。",
+     "prev_yen": 8110000,
+     "delta_yen": 13000
+    }
+   ],
+   "foreign_total_yen": 32367000,
+   "general_account": {
+    "amount_yen": 1260607000000,
+    "amount_label": "1兆2,606億700万円",
+    "label": "令和8年度 一般会計 当初予算（復興・創生分含む）",
+    "source": {
+     "label": "福島県 令和8年度当初予算のポイント",
+     "url": "https://www.pref.fukushima.lg.jp/uploaded/attachment/725202.pdf"
+    }
+   },
+   "contrast_pct": 0.0026,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

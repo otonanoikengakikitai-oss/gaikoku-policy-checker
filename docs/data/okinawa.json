@@ -1,0 +1,138 @@
+{
+ "generated_at": "2026-07-03T15:29:21+00:00",
+ "government": "沖縄県",
+ "basis_note": "沖縄県の外国人特化予算（財政課「当初予算説明資料（主な事業）」に事業名と金額が明記され、当年＋前年括弧の連結証跡で検証を通過した外国人特化事業）。説明資料は主な事業の抜粋のため網羅ではなく、掲載は年度により異なる（令和5年度=特定技能外国人マッチング支援、令和7・8年度=外国人材受入支援事業。令和6年度は令和7年度資料の前年併記より取得）。一般会計総額の令和6年度は資料表記が「約」付きの概数。金額は千円単位。",
+ "trend_note": "沖縄県の外国人特化予算（主な事業ベース）は、外国人材受入支援事業が令和6〜7年度の1,770万円から令和8年度1,920万円へ微増した程度で、県一般会計（9,468億円）の約0.002%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "沖縄県 令和5年度当初予算 説明資料",
+    "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r5_tousyoyosan_setumeisiryou.pdf"
+   },
+   "items": [
+    {
+     "name": "特定技能1号外国人のマッチング支援事業",
+     "bureau": "子ども生活福祉部 高齢者福祉介護課",
+     "category": "外国人材",
+     "amount_yen": 11500000,
+     "amount_label": "1,150万円",
+     "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r5_tousyoyosan_setumeisiryou.pdf",
+     "desc": "県内介護施設等と特定技能1号外国人介護人材の就労希望者等とのマッチング支援（令和5年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 11500000,
+   "general_account": {
+    "amount_yen": 861400000000,
+    "amount_label": "8,614億円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "沖縄県 令和5年度当初予算 概要",
+     "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r5_tousyoyosan_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0013,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "沖縄県 令和7年度当初予算 説明資料",
+    "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r7toushoyosansetsumeishiryou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入支援事業",
+     "bureau": "商工労働部 雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 17699000,
+     "amount_label": "1,769万9千円",
+     "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r7toushoyosansetsumeishiryou.pdf",
+     "desc": "外国人材活用のための企業向けオンライン相談窓口の設置、セミナー、留学生等とのマッチング支援。（令和7年度資料の前年併記より）。"
+    }
+   ],
+   "foreign_total_yen": 17699000,
+   "general_account": {
+    "amount_yen": 842100000000,
+    "amount_label": "約8,421億円",
+    "label": "令和6年度 一般会計 当初予算（資料表記は概数）",
+    "source": {
+     "label": "沖縄県 令和6年度当初予算 概要",
+     "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r6toushoyosangaiyou0328.pdf"
+    }
+   },
+   "contrast_pct": 0.0021,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "沖縄県 令和7年度当初予算 説明資料",
+    "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r7toushoyosansetsumeishiryou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入支援事業",
+     "bureau": "商工労働部 雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 17699000,
+     "amount_label": "1,769万9千円",
+     "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r7toushoyosansetsumeishiryou.pdf",
+     "desc": "外国人材活用のための企業向けオンライン相談窓口の設置、セミナー、留学生等とのマッチング支援。",
+     "prev_yen": 17699000,
+     "delta_yen": 0
+    }
+   ],
+   "foreign_total_yen": 17699000,
+   "general_account": {
+    "amount_yen": 889400000000,
+    "amount_label": "8,894億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "沖縄県 令和8年度当初予算 概要",
+     "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r8toushoyosan_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.002,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "沖縄県 令和8年度当初予算 説明資料",
+    "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r8tousyoyosan_siryo_resize.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入支援事業",
+     "bureau": "商工労働部 雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 19200000,
+     "amount_label": "1,920万円",
+     "source_url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r8tousyoyosan_siryo_resize.pdf",
+     "desc": "外国人材活用のための企業向けオンライン相談窓口の設置、セミナー、留学生等とのマッチング支援。",
+     "prev_yen": 17699000,
+     "delta_yen": 1501000
+    }
+   ],
+   "foreign_total_yen": 19200000,
+   "general_account": {
+    "amount_yen": 946800000000,
+    "amount_label": "9,468億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "沖縄県 令和8年度当初予算 概要",
+     "url": "https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/015/235/r8toushoyosan_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.002,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

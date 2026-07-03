@@ -1,0 +1,320 @@
+{
+ "generated_at": "2026-07-03T15:23:08+00:00",
+ "government": "千葉県",
+ "basis_note": "千葉県の外国人特化予算（財政課「当初予算案の概要（全文）」に事業名と金額が明記され、当年＋前年括弧の連結証跡と年度間チェックサム（4年連鎖）で検証を通過した外国人特化事業）。外国人観光客向けプロモーション等の観光インバウンドは含まない。「地域日本語教育等の推進」の令和8年度は資料の前年括弧が令和7年度当初と一致しない（組替え等）ため前年比は当初予算同士で比較。金額は千円単位。",
+ "trend_note": "千葉県の外国人特化予算は外国人介護人材就業促進（年約2億円・全体の6〜7割）と日本語教育・教育相談が中心で、合計は年2.5億〜3億円規模。令和8年度は在住外国人向け理解促進や音声対応ハザードマップ等の新規事業が加わったが、それでも県一般会計（2兆2,000億円規模）の約0.013%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "千葉県 令和5年度当初予算案の概要（全文）",
+    "url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材就業促進事業",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 201172000,
+     "amount_label": "2億117万2千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf",
+     "desc": "千葉県外国人介護人材支援センターの運営等、外国人介護人材の就業促進。"
+    },
+    {
+     "name": "外国人児童生徒等教育相談員の派遣",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 19350000,
+     "amount_label": "1,935万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf",
+     "desc": "外国人児童生徒等への教育相談員の派遣。"
+    },
+    {
+     "name": "地域日本語教育推進事業",
+     "bureau": "総合企画部 国際課",
+     "category": "日本語教育",
+     "amount_yen": 13300000,
+     "amount_label": "1,330万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf",
+     "desc": "地域日本語教育コーディネーターの配置・市町村補助等による地域日本語教育の推進。"
+    },
+    {
+     "name": "外国人児童生徒等教育補助事業",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 5412000,
+     "amount_label": "541万2千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf",
+     "desc": "外国人児童生徒等の教育（日本語指導等）への補助。"
+    }
+   ],
+   "foreign_total_yen": 239234000,
+   "general_account": {
+    "amount_yen": 2197125000000,
+    "amount_label": "2兆1,971億2,500万円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "千葉県 令和5年度当初予算案の概要（全文）",
+     "url": "https://www.pref.chiba.lg.jp/zaisei/press/r5nendo/documents/r5zenbun1.pdf"
+    }
+   },
+   "contrast_pct": 0.0109,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "千葉県 令和6年度当初予算案の概要（全文）",
+    "url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材就業促進事業",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 195203000,
+     "amount_label": "1億9,520万3千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf",
+     "desc": "千葉県外国人介護人材支援センターの運営等、外国人介護人材の就業促進。",
+     "prev_yen": 201172000,
+     "delta_yen": -5969000
+    },
+    {
+     "name": "外国人児童生徒等教育相談員の派遣",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 24046000,
+     "amount_label": "2,404万6千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf",
+     "desc": "外国人児童生徒等への教育相談員の派遣。",
+     "prev_yen": 19350000,
+     "delta_yen": 4696000
+    },
+    {
+     "name": "中小企業における外国人材活用支援事業",
+     "bureau": "商工労働部 雇用労働課",
+     "category": "外国人材",
+     "amount_yen": 20000000,
+     "amount_label": "2,000万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf",
+     "desc": "県内中小企業における外国人材の円滑な受入れ支援（令和6年度新規。令和7年度から外国人材確保支援事業に改称）。"
+    },
+    {
+     "name": "地域日本語教育推進事業",
+     "bureau": "総合企画部 国際課",
+     "category": "日本語教育",
+     "amount_yen": 15000000,
+     "amount_label": "1,500万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf",
+     "desc": "地域日本語教育コーディネーターの配置等による地域日本語教育の推進。",
+     "prev_yen": 13300000,
+     "delta_yen": 1700000
+    },
+    {
+     "name": "外国人児童生徒等教育補助事業",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 10622000,
+     "amount_label": "1,062万2千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf",
+     "desc": "外国人児童生徒等の教育（日本語指導等）への補助。",
+     "prev_yen": 5412000,
+     "delta_yen": 5210000
+    }
+   ],
+   "foreign_total_yen": 264871000,
+   "general_account": {
+    "amount_yen": 2107700000000,
+    "amount_label": "2兆1,077億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "千葉県 令和6年度当初予算案の概要（全文）",
+     "url": "https://www.pref.chiba.lg.jp/zaisei/press/r6nendo/01zenbun.pdf"
+    }
+   },
+   "contrast_pct": 0.0126,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "千葉県 令和7年度当初予算案の概要（全文）",
+    "url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材就業促進事業",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 197388000,
+     "amount_label": "1億9,738万8千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf",
+     "desc": "千葉県外国人介護人材支援センターの運営等、外国人介護人材の就業促進。",
+     "prev_yen": 195203000,
+     "delta_yen": 2185000
+    },
+    {
+     "name": "地域日本語教育等の推進",
+     "bureau": "総合企画部 国際課",
+     "category": "日本語教育",
+     "amount_yen": 37200000,
+     "amount_label": "3,720万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf",
+     "desc": "地域日本語教育コーディネーターの配置等（一部新規で拡充）。",
+     "prev_yen": 15000000,
+     "delta_yen": 22200000
+    },
+    {
+     "name": "外国人児童生徒等教育相談員の派遣",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 29845000,
+     "amount_label": "2,984万5千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf",
+     "desc": "外国人児童生徒等への教育相談員の派遣。",
+     "prev_yen": 24046000,
+     "delta_yen": 5799000
+    },
+    {
+     "name": "外国人材確保支援事業",
+     "bureau": "商工労働部 雇用労働課",
+     "category": "外国人材",
+     "amount_yen": 20000000,
+     "amount_label": "2,000万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf",
+     "desc": "県内中小企業における外国人材の円滑な受入れ支援（令和6年度の中小企業における外国人材活用支援事業から改称・同額）。"
+    },
+    {
+     "name": "外国人児童生徒等教育補助事業",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 13834000,
+     "amount_label": "1,383万4千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf",
+     "desc": "外国人児童生徒等の教育（日本語指導等）への補助。",
+     "prev_yen": 10622000,
+     "delta_yen": 3212000
+    }
+   ],
+   "foreign_total_yen": 298267000,
+   "general_account": {
+    "amount_yen": 2104150000000,
+    "amount_label": "2兆1,041億5,000万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "千葉県 令和7年度当初予算案の概要（全文）",
+     "url": "https://www.pref.chiba.lg.jp/zaisei/press/r7nendo/documents/01zenbun.pdf"
+    }
+   },
+   "contrast_pct": 0.0142,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "千葉県 令和8年度当初予算案の概要（全文）",
+    "url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材就業促進事業",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 202844000,
+     "amount_label": "2億284万4千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "外国人介護人材支援センター運営（37,801千円）・外国人介護職員定着促進事業（新規51,000千円）等。",
+     "prev_yen": 197388000,
+     "delta_yen": 5456000
+    },
+    {
+     "name": "地域日本語教育等の推進",
+     "bureau": "総合企画部 国際課",
+     "category": "日本語教育",
+     "amount_yen": 37700000,
+     "amount_label": "3,770万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "地域日本語教育の推進。資料の前年括弧（44,100千円）は令和7年度当初（37,200千円）と一致せず組替えまたは補正後ベースのため、前年比は当初予算同士の比較で表示。"
+    },
+    {
+     "name": "外国人児童生徒等教育相談員の派遣",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 32488000,
+     "amount_label": "3,248万8千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "外国人児童生徒等への教育相談員の派遣。",
+     "prev_yen": 29845000,
+     "delta_yen": 2643000
+    },
+    {
+     "name": "外国人材確保支援事業",
+     "bureau": "商工労働部 雇用労働課",
+     "category": "外国人材",
+     "amount_yen": 25000000,
+     "amount_label": "2,500万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "県内中小企業における外国人材の円滑な受入れ支援。",
+     "prev_yen": 20000000,
+     "delta_yen": 5000000
+    },
+    {
+     "name": "外国人児童生徒等教育補助事業",
+     "bureau": "教育庁",
+     "category": "日本語教育",
+     "amount_yen": 15852000,
+     "amount_label": "1,585万2千円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "外国人児童生徒等の教育（日本語指導等）への補助。",
+     "prev_yen": 13834000,
+     "delta_yen": 2018000
+    },
+    {
+     "name": "外国籍の子供の日本語学習等支援事業",
+     "bureau": "総合企画部 国際課",
+     "category": "日本語教育",
+     "amount_yen": 5000000,
+     "amount_label": "500万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "外国籍の子供の日本語学習等の支援（前年同額5,000千円が資料に併記）。"
+    },
+    {
+     "name": "在住外国人向け理解促進事業",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 3800000,
+     "amount_label": "380万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "在住外国人向けの生活ルール等の理解促進（令和8年度新規）。"
+    },
+    {
+     "name": "外国人向け音声対応ハザードマップ",
+     "bureau": "防災危機管理部",
+     "category": "多文化共生",
+     "amount_yen": 1320000,
+     "amount_label": "132万円",
+     "source_url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf",
+     "desc": "外国人向けの音声対応ハザードマップの整備（令和8年度新規・防災）。"
+    }
+   ],
+   "foreign_total_yen": 324004000,
+   "general_account": {
+    "amount_yen": 2253487000000,
+    "amount_label": "2兆2,534億8,700万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "千葉県 令和8年度当初予算案の概要（全文）",
+     "url": "https://www.pref.chiba.lg.jp/zaisei/press/r8nendo/documents/00zenbun.pdf"
+    }
+   },
+   "contrast_pct": 0.0144,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

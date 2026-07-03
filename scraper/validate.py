@@ -21,6 +21,8 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.ehime.jp", "pref.ehime.jp",
     "www.pref.shizuoka.jp", "pref.shizuoka.jp",
     "www.pref.kumamoto.jp", "pref.kumamoto.jp",
+    "www.pref.ibaraki.jp", "pref.ibaraki.jp",
+    "www.pref.okinawa.jp", "pref.okinawa.jp",
 )
 
 
@@ -291,7 +293,7 @@ def check_osaka(errors):
 
 
 # 汎用ビルダー（build_pref.py）出力の都道府県JSON
-PREF_FILES = ("hokkaido.json", "miyagi.json", "nagano.json", "shizuoka.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json", "kumamoto.json")
+PREF_FILES = ("hokkaido.json", "miyagi.json", "fukushima.json", "ibaraki.json", "chiba.json", "nagano.json", "shizuoka.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json", "kumamoto.json", "okinawa.json")
 
 
 def check_prefs(errors):
