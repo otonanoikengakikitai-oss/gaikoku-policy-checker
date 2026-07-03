@@ -75,16 +75,24 @@
     <div class="ad-slot-space"></div>
   </aside>
 
-  <div class="gov-toggle" id="gov-toggle" role="group" aria-label="政府レベルの切り替え">
-    <button type="button" class="gov-btn on" data-gov="national">国（政府）</button>
+  <div class="area-toggle" id="area-toggle" role="group" aria-label="エリア（地方ブロック）の切り替え">
+    <button type="button" class="area-btn on" data-area="national">国（政府）</button>
+    <button type="button" class="area-btn" data-area="hokkaido-tohoku">北海道・東北</button>
+    <button type="button" class="area-btn" data-area="kanto">関東</button>
+    <button type="button" class="area-btn" data-area="chubu">中部</button>
+    <button type="button" class="area-btn" data-area="kinki">近畿</button>
+    <button type="button" class="area-btn" data-area="chugoku-shikoku" disabled>中国・四国<span class="area-soon">準備中</span></button>
+    <button type="button" class="area-btn" data-area="kyushu-okinawa">九州・沖縄</button>
+  </div>
+  <div class="gov-toggle" id="gov-toggle" role="group" aria-label="都道府県の切り替え" hidden>
     <button type="button" class="gov-btn" data-gov="hokkaido">北海道</button>
     <button type="button" class="gov-btn" data-gov="tokyo">東京都</button>
     <button type="button" class="gov-btn" data-gov="kanagawa">神奈川県</button>
+    <button type="button" class="gov-btn" data-gov="kawaguchi">埼玉県<span class="tab-latest">＋川口焦点</span></button>
     <button type="button" class="gov-btn" data-gov="aichi">愛知県</button>
     <button type="button" class="gov-btn" data-gov="kyoto">京都府</button>
     <button type="button" class="gov-btn" data-gov="osaka">大阪府</button>
     <button type="button" class="gov-btn" data-gov="fukuoka">福岡県</button>
-    <button type="button" class="gov-btn" data-gov="kawaguchi">埼玉県<span class="tab-latest">＋川口焦点</span></button>
   </div>
 
   <section aria-labelledby="hokkaido-h" id="hokkaido-section" hidden>

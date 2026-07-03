@@ -226,12 +226,20 @@ li.ad-slot-li .ad-slot { margin: 12px 0; }
 .yt-fy { font-size: 16px; font-weight: 900; letter-spacing: .2px; }
 .yt-wa { font-size: 10px; font-weight: 700; opacity: .82; margin-top: 1px; white-space: nowrap; }
 .year-tab.on .yt-wa { opacity: .9; }
-/* 国⇔東京都トグル（最上部の政府レベル切替） */
-.gov-toggle { display: inline-flex; flex-wrap: wrap; gap: 0; margin: 26px 0 4px; border: 1px solid var(--accent-deep); border-radius: 18px; overflow: hidden; background: var(--panel); }
-.gov-btn { background: transparent; color: var(--muted); border: none; padding: 9px 20px; font-size: 14.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
-@media (max-width: 560px) { .gov-btn { padding: 8px 13px; font-size: 13px; } }
+/* 2階層ナビ 第1階層: エリア（地方ブロック）タブ */
+.area-toggle { display: inline-flex; flex-wrap: wrap; gap: 0; margin: 26px 0 0; border: 1px solid var(--accent-deep); border-radius: 18px; overflow: hidden; background: var(--panel); }
+.area-btn { background: transparent; color: var(--muted); border: none; padding: 10px 18px; font-size: 14.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
+.area-btn.on { background: var(--accent); color: #271600; }
+.area-btn:disabled { opacity: 0.45; cursor: default; }
+.area-soon { font-size: 9.5px; font-weight: 900; padding: 1px 6px; margin-left: 5px; border-radius: 999px; border: 1px solid var(--accent-deep); vertical-align: 1px; }
+@media (max-width: 560px) { .area-btn { padding: 8px 12px; font-size: 13px; } }
+/* 2階層ナビ 第2階層: エリア内の都道府県ピル（描画ロジックは従来の .gov-btn のまま） */
+.gov-toggle { display: inline-flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 4px; }
+.gov-toggle[hidden] { display: none !important; }
+.gov-btn { background: var(--panel); color: var(--muted); border: 1px solid var(--accent-deep); border-radius: 999px; padding: 7px 18px; font-size: 13.5px; font-weight: 900; cursor: pointer; font-family: inherit; }
+@media (max-width: 560px) { .gov-btn { padding: 7px 13px; font-size: 12.5px; } }
 .gov-btn[hidden] { display: none; }
-.gov-btn.on { background: var(--accent); color: #271600; }
+.gov-btn.on { background: var(--accent); color: #271600; border-color: var(--accent); }
 #tokyo-section, #kawaguchi-section { scroll-margin-top: 72px; }
 
 .year-tab.on { background: var(--accent); color: #271600; border-color: var(--accent); }

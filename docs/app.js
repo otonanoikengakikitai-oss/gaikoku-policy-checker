@@ -654,7 +654,7 @@ function renderTokyo(tk, pb) {
   TOKYO_PB = pb;
   const govTokyoBtn = document.querySelector('.gov-btn[data-gov="tokyo"]');
   if (!tk || !tk.years || !tk.years.length) {
-    if (govTokyoBtn) govTokyoBtn.hidden = true; // データ未取得時はトグルを隠す
+    if (govTokyoBtn) { govTokyoBtn.hidden = true; govTokyoBtn.dataset.empty = "1"; } // データ未取得時はトグルを隠す
     return;
   }
   TOKYO_YEAR = tk.latest; // 既定は最新年度
@@ -872,7 +872,7 @@ function renderKawaguchi(kw) {
   const btn = document.querySelector('.gov-btn[data-gov="kawaguchi"]');
   const block = kw && (kw.prefecture || kw.spotlight);
   if (!block || !block.years || !block.years.length) {
-    if (btn) btn.hidden = true; // データ未取得時はタブを隠す
+    if (btn) { btn.hidden = true; btn.dataset.empty = "1"; } // データ未取得時はタブを隠す
     return;
   }
   KAWAGUCHI_YEAR = block.latest; // 既定は最新年度（県・市で共有）
@@ -1104,7 +1104,7 @@ function renderPref(gov, data) {
   PREF_DATA[gov] = data;
   const btn = document.querySelector(`.gov-btn[data-gov="${gov}"]`);
   if (!data || !data.years || !data.years.length) {
-    if (btn) btn.hidden = true; // データ未取得時はタブを隠す
+    if (btn) { btn.hidden = true; btn.dataset.empty = "1"; } // データ未取得時はタブを隠す
     return;
   }
   PREF_YEAR[gov] = data.latest; // 既定は最新年度
@@ -1213,6 +1213,53 @@ function renderPrefItemList(gov) {
   const prev = prefYearOf(gov, PREF_YEAR[gov] - 1);
   const items = attachDeltas(yr.items, prev && prev.items);
   renderFilteredList(gov, items, (it) => it.name + (it.desc || "") + it.bureau + it.category, localItemCard);
+}
+
+/* ===== エリア（地方ブロック）2階層ナビ: 第1階層=エリア → 第2階層=都道府県ピル =====
+   47都道府県へのスケール対応。既存の setGov / 各描画ロジックには一切手を入れず、
+   エリア選択で .gov-btn の表示範囲を絞り込むだけの薄い層として実装。 */
+const AREA_CONFIG = [
+  { id: "national", label: "国（政府）", govs: [] }, // 単独・第2階層なし
+  { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido"] },
+  { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "kawaguchi"] },
+  { id: "chubu", label: "中部", govs: ["aichi"] },
+  { id: "kinki", label: "近畿", govs: ["kyoto", "osaka"] },
+  { id: "chugoku-shikoku", label: "中国・四国", govs: [] }, // 準備中（HTML側で disabled）
+  { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka"] },
+];
+let areaMode = "national";
+
+function setArea(areaId) {
+  areaMode = areaId;
+  document.querySelectorAll(".area-btn").forEach((b) => b.classList.toggle("on", b.dataset.area === areaId));
+  const area = AREA_CONFIG.find((a) => a.id === areaId);
+  const tg = document.getElementById("gov-toggle");
+  if (!area || !area.govs.length) {
+    if (tg) tg.hidden = true; // 国（政府）等は第2階層なし
+    setGov("national");
+    return;
+  }
+  // 第2階層: エリア内の自治体ピルのみ表示（データ未取得の県は data-empty で除外）
+  let first = null;
+  let keepCurrent = false;
+  document.querySelectorAll(".gov-btn").forEach((b) => {
+    const show = area.govs.includes(b.dataset.gov) && b.dataset.empty !== "1";
+    b.hidden = !show;
+    if (show && !first) first = b.dataset.gov;
+    if (show && b.dataset.gov === govMode) keepCurrent = true;
+  });
+  if (tg) tg.hidden = !first;
+  if (first) setGov(keepCurrent ? govMode : first);
+  else setGov("national"); // エリア内に表示可能な県が無い場合のフォールバック
+}
+
+function bindArea() {
+  const tg = document.getElementById("area-toggle");
+  if (!tg) return;
+  tg.addEventListener("click", (e) => {
+    const btn = e.target.closest("[data-area]");
+    if (btn && !btn.disabled) setArea(btn.dataset.area);
+  });
 }
 
 let govMode = "national";
@@ -1837,6 +1884,7 @@ function bindLocalList(sectionId) {
 
 function bind() {
   bindDrawer();
+  bindArea();
   bindGov();
   bindNews();
   // 国の年度タブ（行政事業レビュー / 関係予算）。国モード以外では発火させない（混入の二重防止）。
