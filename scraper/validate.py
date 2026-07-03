@@ -11,11 +11,13 @@ from urllib.parse import urlparse
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知県=pref.aichi.jp、神奈川県=pref.kanagawa.jp、京都府=pref.kyoto.jp が公式）
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山は pref.*.jp が公式）
 EXTRA_ALLOWED_HOSTS = (
     "www.pref.aichi.jp", "pref.aichi.jp",
     "www.pref.kanagawa.jp", "pref.kanagawa.jp",
     "www.pref.kyoto.jp", "pref.kyoto.jp",
+    "www.pref.miyagi.jp", "pref.miyagi.jp",
+    "www.pref.okayama.jp", "pref.okayama.jp",
 )
 
 
@@ -286,7 +288,7 @@ def check_osaka(errors):
 
 
 # 汎用ビルダー（build_pref.py）出力の都道府県JSON
-PREF_FILES = ("hokkaido.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json")
+PREF_FILES = ("hokkaido.json", "miyagi.json", "aichi.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hiroshima.json", "okayama.json")
 
 
 def check_prefs(errors):

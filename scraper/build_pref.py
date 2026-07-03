@@ -24,20 +24,25 @@ import pdfplumber
 
 import aichi_def
 import fukuoka_def
+import hiroshima_def
 import hokkaido_def
 import kanagawa_def
 import kyoto_def
+import miyagi_def
+import okayama_def
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX, http_get_raw
 
-DEFS = [hokkaido_def, aichi_def, fukuoka_def, kanagawa_def, kyoto_def]
+DEFS = [hokkaido_def, miyagi_def, aichi_def, fukuoka_def, kanagawa_def, kyoto_def, hiroshima_def, okayama_def]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
-# lg.jp を使わない自治体公式ドメインの明示許可（愛知県=pref.aichi.jp、神奈川県=pref.kanagawa.jp、京都府=pref.kyoto.jp が公式）
+# lg.jp を使わない自治体公式ドメインの明示許可（愛知・神奈川・京都・宮城・岡山は pref.*.jp が公式）
 EXTRA_ALLOWED_HOSTS = (
     "www.pref.aichi.jp", "pref.aichi.jp",
     "www.pref.kanagawa.jp", "pref.kanagawa.jp",
     "www.pref.kyoto.jp", "pref.kyoto.jp",
+    "www.pref.miyagi.jp", "pref.miyagi.jp",
+    "www.pref.okayama.jp", "pref.okayama.jp",
 )
 
 _DOC_CACHE = {}  # url -> 正規化テキスト（同一文書の重複取得を回避）
