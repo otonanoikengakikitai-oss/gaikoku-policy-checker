@@ -1,0 +1,193 @@
+{
+ "generated_at": "2026-07-03T13:11:59+00:00",
+ "government": "愛媛県",
+ "basis_note": "愛媛県の外国人特化予算（財政課「当初予算（案）の部局別事業一覧」に課名・事業名・金額が明記され、番号＋課＋当年額＋前年額の連結証跡で検証を通過した外国人特化事業）。令和5・6年度の部局別事業一覧PDFはCIDフォントで機械照合ができないため、捏造防止の運用方針（照合できない数値は掲載しない）に従い令和7・8年度のみ収録（一般会計総額は4年分収録）。産業人材課の外国人材県内定着・共生推進事業費と高度外国人材受入促進事業費（計1.26億円）は令和8年度資料で確認できず終了・再編とみられる。観光インバウンド系（外国人観光客誘致等）は含まない。金額は千円単位。",
+ "trend_note": "愛媛県の外国人特化予算は令和7年度に外国人材の県内定着・共生推進（6,468万円）や高度外国人材受入促進（6,141万円）等の新規立ち上げで約2.2億円となったが、令和8年度はこれらの単年事業終了により約9,700万円となった。継続の中心は外国人介護人材の受入・定着・マッチング支援（約7,900万円）と外国人相談・日本語教育で、県一般会計（7,800億円規模）の約0.012%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "愛媛県 令和7年度当初予算（案）の部局別事業一覧",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人支援体制強化事業費",
+     "bureau": "観光国際課",
+     "category": "外国人相談",
+     "amount_yen": 29103000,
+     "amount_label": "2,910万3千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "県外国人相談ワンストップセンターの運営、外国人支援ネットワークづくり、地域日本語教育体制づくり等。"
+    },
+    {
+     "name": "外国人材県内定着・共生推進事業費",
+     "bureau": "産業人材課",
+     "category": "多文化共生",
+     "amount_yen": 64683000,
+     "amount_label": "6,468万3千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "外国人雇用に関する相談窓口の開設や送出国との連携強化等による外国人材の県内定着・共生の推進（令和7年度新規）。"
+    },
+    {
+     "name": "高度外国人材受入促進事業費",
+     "bureau": "産業人材課",
+     "category": "外国人材",
+     "amount_yen": 61410000,
+     "amount_label": "6,141万円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "ジョブフェアやインドネシア・インドの大学と連携した合同企業説明会等による高度外国人材の受入促進（令和7年度新規）。"
+    },
+    {
+     "name": "外国人介護人材定着支援事業費",
+     "bureau": "長寿介護課",
+     "category": "外国人材",
+     "amount_yen": 31906000,
+     "amount_label": "3,190万6千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "県外国人介護人材支援センターの機能強化等による外国人介護人材の定着支援。"
+    },
+    {
+     "name": "外国人介護人材受入支援事業費",
+     "bureau": "長寿介護課",
+     "category": "外国人材",
+     "amount_yen": 18600000,
+     "amount_label": "1,860万円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "外国人介護福祉士候補者への専門学習支援等（EPA介護福祉士候補者を含む受入支援）。"
+    },
+    {
+     "name": "外国人介護人材マッチング支援事業費",
+     "bureau": "保健福祉課",
+     "category": "外国人材",
+     "amount_yen": 13590000,
+     "amount_label": "1,359万円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "介護施設等と介護特定技能外国人とのマッチング支援（令和7年度新規）。"
+    },
+    {
+     "name": "帰国・外国人児童生徒等支援事業費",
+     "bureau": "義務教育課",
+     "category": "日本語教育",
+     "amount_yen": 1225000,
+     "amount_label": "122万5千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/137884.pdf",
+     "desc": "帰国・外国人児童生徒等への日本語指導等の支援。"
+    }
+   ],
+   "foreign_total_yen": 220517000,
+   "general_account": {
+    "amount_yen": 754150000000,
+    "amount_label": "7,541億5,000万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "愛媛県 令和7年度当初予算（案）の概要（計数資料編）",
+     "url": "https://www.pref.ehime.jp/uploaded/attachment/138389.pdf"
+    }
+   },
+   "contrast_pct": 0.0292,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "愛媛県 令和8年度当初予算（案）の部局別事業一覧",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材定着支援事業費",
+     "bureau": "長寿介護課",
+     "category": "外国人材",
+     "amount_yen": 46813000,
+     "amount_label": "4,681万3千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf",
+     "desc": "県外国人介護人材支援センターの機能強化等による外国人介護人材の定着支援。",
+     "prev_yen": 31906000,
+     "delta_yen": 14907000
+    },
+    {
+     "name": "外国人介護人材受入支援事業費",
+     "bureau": "長寿介護課",
+     "category": "外国人材",
+     "amount_yen": 21375000,
+     "amount_label": "2,137万5千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf",
+     "desc": "外国人介護福祉士候補者への専門学習支援等（EPA介護福祉士候補者を含む受入支援）。",
+     "prev_yen": 18600000,
+     "delta_yen": 2775000
+    },
+    {
+     "name": "国際交流協会運営体制強化事業費",
+     "bureau": "観光国際課",
+     "category": "多文化共生",
+     "amount_yen": 16611000,
+     "amount_label": "1,661万1千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf",
+     "desc": "県国際交流協会への共生社会実現推進員の配置支援・外国人支援ネットワークづくり等（国際交流推進コーディネーター配置支援を含む再編後の事業）。"
+    },
+    {
+     "name": "外国人介護人材マッチング支援事業費",
+     "bureau": "保健福祉課",
+     "category": "外国人材",
+     "amount_yen": 10957000,
+     "amount_label": "1,095万7千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf",
+     "desc": "介護施設等と介護特定技能外国人とのマッチング支援。",
+     "prev_yen": 13590000,
+     "delta_yen": -2633000
+    },
+    {
+     "name": "帰国・外国人児童生徒等支援事業費",
+     "bureau": "義務教育課",
+     "category": "日本語教育",
+     "amount_yen": 1187000,
+     "amount_label": "118万7千円",
+     "source_url": "https://www.pref.ehime.jp/uploaded/attachment/170198.pdf",
+     "desc": "帰国・外国人児童生徒等への日本語指導等の支援。",
+     "prev_yen": 1225000,
+     "delta_yen": -38000
+    }
+   ],
+   "foreign_total_yen": 96943000,
+   "general_account": {
+    "amount_yen": 782720000000,
+    "amount_label": "7,827億2,000万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "愛媛県 令和8年度当初予算（案）の概要（計数資料編）",
+     "url": "https://www.pref.ehime.jp/uploaded/attachment/171863.pdf"
+    }
+   },
+   "contrast_pct": 0.0124,
+   "population": null
+  }
+ ],
+ "ga_history": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "amount_yen": 706930000000,
+   "amount_label": "7,069億3,000万円",
+   "source": {
+    "label": "愛媛県 令和5年度当初予算（案）の概要（計数資料編）",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/48702.pdf"
+   },
+   "note": "令和5年度の部局別事業一覧PDFはCIDフォントのため事業は未収録（一般会計総額のみ）。"
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "amount_yen": 728300000000,
+   "amount_label": "7,283億円",
+   "source": {
+    "label": "愛媛県 令和6年度当初予算（案）の概要（計数資料編）",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/102545.pdf"
+   },
+   "note": "令和6年度の部局別事業一覧PDFはCIDフォントのため事業は未収録（一般会計総額のみ）。"
+  }
+ ]
+}

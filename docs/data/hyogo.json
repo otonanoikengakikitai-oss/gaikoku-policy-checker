@@ -1,0 +1,197 @@
+{
+ "generated_at": "2026-07-03T13:11:03+00:00",
+ "government": "兵庫県",
+ "basis_note": "兵庫県の外国人特化予算（財政課「当初予算(案)主要施策一覧」＝2月議会提出の確定ベース資料に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業）。主要施策一覧ベースのため網羅ではない。警察の外国人犯罪捜査強化等の治安対策は対象外。産業労働常任委員会資料（要求段階）の施策まとまり「多文化共生社会の推進」391,579千円は部局施策の合算であり本収録（個別事業）とは粒度が異なる。金額は千円単位。",
+ "trend_note": "兵庫県の主要施策における外国人特化事業は、外国人材の就職・定着支援（企業認定制度は令和6年度検討→7年度運用1,322万円→8年度拡充2,231万円と段階的に拡大）と日本語教育・介護人材確保が中心で、年2,200万〜4,300万円規模。県一般会計（2兆3,000億円規模）の約0.001%に過ぎず、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "兵庫県 令和5年度当初予算(案)（参考資料・主要施策）",
+    "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r5_shuyosesaku.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材受入施設における環境の整備",
+     "bureau": "福祉部",
+     "category": "外国人材",
+     "amount_yen": 22000000,
+     "amount_label": "2,200万円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r5_shuyosesaku.pdf",
+     "desc": "外国人介護人材を受け入れる施設の環境整備支援（令和5年度拡充）。"
+    },
+    {
+     "name": "外国人留学生に対する県内企業の魅力発信",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 7598000,
+     "amount_label": "759万8千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r5_shuyosesaku.pdf",
+     "desc": "外国人留学生への県内企業の魅力発信（令和5年度新規）。"
+    },
+    {
+     "name": "外国人留学生採用ワンストップ支援事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 5839000,
+     "amount_label": "583万9千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r5_shuyosesaku.pdf",
+     "desc": "外国人留学生の県内企業への採用をワンストップで支援（令和5年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 35437000,
+   "general_account": {
+    "amount_yen": 2359700000000,
+    "amount_label": "2兆3,597億円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "兵庫県 令和5年度当初予算(案)（本体資料）",
+     "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r5_hontai1.pdf"
+    }
+   },
+   "contrast_pct": 0.0015,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "兵庫県 令和6年度当初予算(案)（主要施策一覧）",
+    "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r6_shuyosesaku.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材就職・定着支援事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 13195000,
+     "amount_label": "1,319万5千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r6_shuyosesaku.pdf",
+     "desc": "外国人雇用に関する企業認証制度の検討や外国人採用ジョブフェア等、外国人材の県内就職・定着支援（令和6年度新規）。"
+    },
+    {
+     "name": "外国人留学生に対する県内企業魅力発信事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 8665000,
+     "amount_label": "866万5千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r6_shuyosesaku.pdf",
+     "desc": "外国人留学生への県内企業の魅力発信（拡充）。"
+    }
+   ],
+   "foreign_total_yen": 21860000,
+   "general_account": {
+    "amount_yen": 2339000000000,
+    "amount_label": "2兆3,390億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "兵庫県 令和6年度当初予算(案)（本体資料）",
+     "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r6_hontai2.pdf"
+    }
+   },
+   "contrast_pct": 0.0009,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "兵庫県 令和7年度当初予算(案)（主要施策一覧）",
+    "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r7_shuyosesaku02.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人留学生等に対する県内企業魅力発信事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 28631000,
+     "amount_label": "2,863万1千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r7_shuyosesaku02.pdf",
+     "desc": "外国人留学生等への県内企業の魅力発信（拡充。産業労働常任委員会の要求資料記載額と一致確認済み）。"
+    },
+    {
+     "name": "ひょうご外国人雇用企業認定制度",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 13221000,
+     "amount_label": "1,322万1千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r7_shuyosesaku02.pdf",
+     "desc": "外国人が安心して就職・定着できる企業を認定する制度の運用（令和7年度拡充）。"
+    },
+    {
+     "name": "多文化共生社会検討実務者会議",
+     "bureau": "県民生活部",
+     "category": "多文化共生",
+     "amount_yen": 1000000,
+     "amount_label": "100万円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r7_shuyosesaku02.pdf",
+     "desc": "多文化共生社会の実現に向けた実務者会議の開催（令和7年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 42852000,
+   "general_account": {
+    "amount_yen": 2358200000000,
+    "amount_label": "2兆3,582億円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "兵庫県 令和8年度当初予算(案)（本体資料）",
+     "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_hontai.pdf"
+    }
+   },
+   "contrast_pct": 0.0018,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "兵庫県 令和8年度当初予算(案)（主要施策一覧）",
+    "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_shuyosesaku0227.pdf"
+   },
+   "items": [
+    {
+     "name": "ひょうごグローバル人材活躍企業認定事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 22313000,
+     "amount_label": "2,231万3千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_shuyosesaku0227.pdf",
+     "desc": "外国人が安心して就職・定着できる企業の認定制度の運用・支援（令和8年度拡充。外国人雇用企業認定制度の後継）。"
+    },
+    {
+     "name": "地域日本語教育強化事業",
+     "bureau": "県民生活部",
+     "category": "日本語教育",
+     "amount_yen": 3518000,
+     "amount_label": "351万8千円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_shuyosesaku0227.pdf",
+     "desc": "育成就労制度移行を見据え、生活者としての外国人労働者等が総合的に日本語学習できる体制を強化（令和8年度新規）。"
+    },
+    {
+     "name": "海外現地介護職員初任者研修開講支援事業",
+     "bureau": "福祉部",
+     "category": "外国人材",
+     "amount_yen": 3000000,
+     "amount_label": "300万円",
+     "source_url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_shuyosesaku0227.pdf",
+     "desc": "外国人介護人材の入国時点での質的向上のため、海外現地での介護職員初任者研修の開講費用を補助（令和8年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 28831000,
+   "general_account": {
+    "amount_yen": 2318200000000,
+    "amount_label": "2兆3,182億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "兵庫県 令和8年度当初予算(案)（本体資料）",
+     "url": "https://web.pref.hyogo.lg.jp/kk20/documents/r8_hontai.pdf"
+    }
+   },
+   "contrast_pct": 0.0012,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

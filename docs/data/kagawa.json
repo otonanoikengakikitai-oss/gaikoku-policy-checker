@@ -1,0 +1,170 @@
+{
+ "generated_at": "2026-07-03T13:12:14+00:00",
+ "government": "香川県",
+ "basis_note": "香川県の外国人特化予算（予算課「当初予算の概要」に事業名・課名・金額が明記され、行内連結証跡で検証を通過したもの）。資料の集計形式が年度で異なる点に注意: 令和5・6年度は課別の個別主要事業（概要掲載分のみ＝網羅ではない）、令和7年度は外国人材受入促進・共生推進パッケージの合算、令和8年度は人材確保対策の分野別集計【外国人】の合算。合算年度が大きく見えるのは集計範囲の違いであり、年度間の単純比較はできない。金額は千円単位。",
+ "trend_note": "香川県は令和7年度から外国人材施策を「受入促進・共生推進パッケージ」（2.1億円）として体系化し、令和8年度は人材確保対策の外国人分野として2.6億円を計上した。内容は介護・農業等の人手不足対策としての外国人材受入支援が中心で、県一般会計（5,000億円規模）の約0.05%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "香川県 令和5年度当初予算の概要",
+    "url": "https://www.pref.kagawa.lg.jp/documents/8157/r5_gaiyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人住民と共に暮らす香川づくり推進事業（一部）",
+     "bureau": "国際課",
+     "category": "多文化共生",
+     "amount_yen": 1344000,
+     "amount_label": "134万4千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/8157/r5_gaiyou.pdf",
+     "desc": "外国人住民会合の開催や地域日本語教育等、多文化共生の推進（資料表記は「（一部）」＝概要掲載分のみ）。"
+    }
+   ],
+   "foreign_total_yen": 1344000,
+   "general_account": {
+    "amount_yen": 488320000000,
+    "amount_label": "4,883億2,000万円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "香川県 令和5年度当初予算の概要",
+     "url": "https://www.pref.kagawa.lg.jp/documents/8157/r5_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0003,
+   "population": null
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "香川県 令和6年度当初予算の概要",
+    "url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材受入支援事業",
+     "bureau": "健康福祉総務課",
+     "category": "外国人材",
+     "amount_yen": 37235000,
+     "amount_label": "3,723万5千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf",
+     "desc": "外国人介護人材の受入支援。"
+    },
+    {
+     "name": "高度外国人材等採用支援事業",
+     "bureau": "労働政策課",
+     "category": "外国人材",
+     "amount_yen": 8360000,
+     "amount_label": "836万円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf",
+     "desc": "県内企業による高度外国人材等の採用支援。"
+    },
+    {
+     "name": "外国人労働人材関係相談窓口運営事業",
+     "bureau": "労働政策課",
+     "category": "外国人相談",
+     "amount_yen": 4144000,
+     "amount_label": "414万4千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf",
+     "desc": "外国人労働人材に関する相談窓口の運営。"
+    },
+    {
+     "name": "外国人材雇用促進事業",
+     "bureau": "労働政策課",
+     "category": "外国人材",
+     "amount_yen": 3900000,
+     "amount_label": "390万円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf",
+     "desc": "県内企業への外国人材の雇用促進。"
+    },
+    {
+     "name": "外国人住民と共に暮らす香川づくり推進事業",
+     "bureau": "国際課",
+     "category": "多文化共生",
+     "amount_yen": 565000,
+     "amount_label": "56万5千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf",
+     "desc": "外国人住民との共生・多文化共生の推進（概要掲載分）。"
+    }
+   ],
+   "foreign_total_yen": 54204000,
+   "general_account": {
+    "amount_yen": 486607000000,
+    "amount_label": "4,866億700万円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "香川県 令和6年度当初予算の概要",
+     "url": "https://www.pref.kagawa.lg.jp/documents/45526/01_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0111,
+   "population": null
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "香川県 令和7年度当初予算の概要",
+    "url": "https://www.pref.kagawa.lg.jp/documents/52562/01_r7_gaiyo.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入促進・共生推進パッケージ関連予算",
+     "bureau": "庁内横断",
+     "category": "外国人材",
+     "amount_yen": 210763000,
+     "amount_label": "2億1,076万3千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/52562/01_r7_gaiyo.pdf",
+     "desc": "外国人材の受入促進と共生推進の部局横断パッケージ合算（外国人介護人材受入促進35,295千円・外国人介護留学生受入促進6,750千円・高度外国人材確保強化8,524千円・企業の外国人材受入促進11,000千円・農畜産従事外国人材の住環境整備17,880千円・多文化の共生等を含む）。"
+    }
+   ],
+   "foreign_total_yen": 210763000,
+   "general_account": {
+    "amount_yen": 496706000000,
+    "amount_label": "4,967億600万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "香川県 令和7年度当初予算の概要",
+     "url": "https://www.pref.kagawa.lg.jp/documents/52562/01_r7_gaiyo.pdf"
+    }
+   },
+   "contrast_pct": 0.0424,
+   "population": null
+  },
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "香川県 令和8年度当初予算の概要",
+    "url": "https://www.pref.kagawa.lg.jp/documents/59359/01_r8_gaiyo.pdf"
+   },
+   "items": [
+    {
+     "name": "人材確保対策関連予算【外国人】",
+     "bureau": "庁内横断",
+     "category": "外国人材",
+     "amount_yen": 262212000,
+     "amount_label": "2億6,221万2千円",
+     "source_url": "https://www.pref.kagawa.lg.jp/documents/59359/01_r8_gaiyo.pdf",
+     "desc": "人材確保対策の分野別集計のうち外国人分野の合算（外国人材受入支援203,845千円等を含む・令和7年度パッケージの後継集計）。"
+    }
+   ],
+   "foreign_total_yen": 262212000,
+   "general_account": {
+    "amount_yen": 522199000000,
+    "amount_label": "5,221億9,900万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "香川県 令和8年度当初予算の概要",
+     "url": "https://www.pref.kagawa.lg.jp/documents/59359/01_r8_gaiyo.pdf"
+    }
+   },
+   "contrast_pct": 0.0502,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}
