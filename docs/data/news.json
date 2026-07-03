@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T14:34:31+00:00",
+ "generated_at": "2026-07-03T16:23:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,14 +38,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-03 19:15",
    "published_iso": "2026-07-03T10:15:00+00:00"
-  },
-  {
-   "title": "県内訪れた外国人観光客74万2815人・3年連続「過去最多」更新 台湾から最も多く54％占める 山形",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YMlQ5ZTZQUVdIbzVSM0hUa0FCR0FBSS1SOFluMzdCMGFFNS1OTzZkNEdHYWFRVkh0WGVTR08tZkFzSnVEOUFLemEydzV1Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-03 19:07",
-   "published_iso": "2026-07-03T10:07:00+00:00"
   },
   {
    "title": "「高市さんはなぜ外国人に厳しいの？」在留手数料の大幅引き上げ 子を持つ女性「暮らしていけない」",
@@ -194,14 +186,6 @@
   {
    "title": "外国人向け「日本語・生活学習プログラム」創設に向けた課題を公表“在留審査に受講を反映”入管庁",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5McEtkTHBZVGwtTkpIMG1mMEZ2dXM5bG9YZ3ZpZVFlR2ZqUVhta1o0SEM2bjlvSGtYcmc4ak9wN1RLSzBiUFdJRUlGcnJYWmhSWV9ZR2EwRHJhYlRvanMycloyNXRQLUc4VnFQVVRraENXTE05MUpvLVBPc2Y?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 10:13",
-   "published_iso": "2026-07-03T01:13:00+00:00"
-  },
-  {
-   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 10:13",
@@ -406,6 +390,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-02 05:00",
    "published_iso": "2026-07-01T20:00:00+00:00"
+  },
+  {
+   "title": "米の出生地主義、幅広い支持 移民の子、Ｗ杯米代表で活躍「トランプ氏も気づくべきだ」",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qUVFfVGxyUzNYbks3Y200eUZWc2s3eXhYbVV5UXFaOEZoUlBNSXFud215ck9sTk03OGpZSGhCc3JDdEVNZ1diMjZxYVZaS1NSQWY4ZmNNUktYaG5U?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-02 05:00",
+   "published_iso": "2026-07-01T20:00:00+00:00"
+  },
+  {
+   "title": "外国人受け入れ、適応能力重視で 上坊孝次氏",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VHU5ZE9LLWZsZW9VRDI4QlpFaWxfN1VKT0xxRUVWRzBfbzlnM0hoOTFSb1ZxbS05bGlWX0l1RnFvQVRQRGpwYmRDUjhCUEpveVJveVFYY29YUjVLbFV3alpYQ1QwZ2Q3MlNZLQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-02 02:00",
+   "published_iso": "2026-07-01T17:00:00+00:00"
   }
  ]
 }
