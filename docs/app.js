@@ -232,6 +232,8 @@ const LIST_FILTERS = {
   aichi: { q: "", cat: "", sort: "budget" },
   osaka: { q: "", cat: "", sort: "budget" },
   fukuoka: { q: "", cat: "", sort: "budget" },
+  kanagawa: { q: "", cat: "", sort: "budget" },
+  kyoto: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1077,6 +1079,18 @@ const PREF_CONFIG = {
     listFoot: "※福岡県「当初予算の編成概要」に事項名・金額が明記され、前年度括弧額との年度間チェックサム等の検証を通過した外国人特化事業のみ。国際交流一般・姉妹都市交流等は含まない。",
     file: "data/fukuoka.json",
   },
+  kanagawa: {
+    label: "神奈川県", audience: "全県民向け", heroCat: "多文化共生・日本語教育・外国人材",
+    deptSub: "局別主要施策の概要の外国人特化事業", kpiSrc: "出典: 神奈川県 当初予算 主要施策の概要",
+    listFoot: "※神奈川県の局別「当初予算 主要施策の概要」に事業名・金額が明記され検証を通過した外国人特化事業のみ（令和6年度=国際文化観光局、令和7・8年度=組織再編後の文化スポーツ観光局）。掲載粒度は年度の資料により異なる。ベトナム友好交流等の国際文化交流は含まない。",
+    file: "data/kanagawa.json",
+  },
+  kyoto: {
+    label: "京都府", audience: "全府民向け", heroCat: "多文化共生",
+    deptSub: "主要事項説明の外国人特化事業", kpiSrc: "出典: 京都府 当初予算 主要事項説明",
+    listFoot: "※京都府の部局別「当初予算 主要事項説明」に事業名・金額が明記され検証を通過した外国人特化事業のみ。令和5年度は主要事項説明資料等に該当事業の記載がないため未収録。全府民向け事業は含まない。",
+    file: "data/kyoto.json",
+  },
 };
 const PREF_DATA = {};
 const PREF_YEAR = {};
@@ -1801,11 +1815,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {
