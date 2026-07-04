@@ -1,0 +1,77 @@
+{
+ "generated_at": "2026-07-04T03:28:20+00:00",
+ "government": "青森県",
+ "basis_note": "青森県の外国人特化予算（財政課「当初予算 主要事業」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業5件）。外国人介護人材獲得強化事業費補助は令和7年度2月補正計上のため当初予算に含めない。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "青森県の外国人特化予算（令和8年度・確認可能分）は約1億円で、介護分野の外国人材受入・支援（センター新設4,669万円等）が9割を占める。県一般会計（7,514億円）の約0.014%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "青森県 令和8年度当初予算 主要事業",
+    "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材支援センター事業",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 46690000,
+     "amount_label": "4,669万円",
+     "source_url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf",
+     "desc": "外国人介護人材の相談支援等を行う支援センターの運営（令和8年度新規）。"
+    },
+    {
+     "name": "外国人介護人材受入支援事業費補助",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 30000000,
+     "amount_label": "3,000万円",
+     "source_url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf",
+     "desc": "外国人介護人材の受入れを行う事業者への補助（令和8年度新規）。"
+    },
+    {
+     "name": "外国人留学生奨学金給付等支援事業費補助",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 15114000,
+     "amount_label": "1,511万4千円",
+     "source_url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf",
+     "desc": "介護分野の外国人留学生への奨学金給付等の支援。"
+    },
+    {
+     "name": "外国人受入環境整備費補助",
+     "bureau": "観光国際戦略局",
+     "category": "多文化共生",
+     "amount_yen": 10000000,
+     "amount_label": "1,000万円",
+     "source_url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf",
+     "desc": "外国人住民の受入環境整備（相談対応等）への補助。"
+    },
+    {
+     "name": "外国人介護福祉士候補者学習支援事業費補助",
+     "bureau": "健康福祉部",
+     "category": "外国人材",
+     "amount_yen": 2430000,
+     "amount_label": "243万円",
+     "source_url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_syuyou.pdf",
+     "desc": "EPA外国人介護福祉士候補者の学習支援への補助。"
+    }
+   ],
+   "foreign_total_yen": 104234000,
+   "general_account": {
+    "amount_yen": 751400000000,
+    "amount_label": "7,514億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "青森県 令和8年度当初予算の概要",
+     "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisei/files/R8tousyo_gaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0139,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

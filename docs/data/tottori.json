@@ -1,0 +1,59 @@
+{
+ "generated_at": "2026-07-04T03:37:42+00:00",
+ "government": "鳥取県",
+ "basis_note": "鳥取県の外国人特化予算（「主要事業一覧」に事業名・部局・金額が明記され、連結証跡で検証を通過した外国人特化事業3件）。介護職の魅力発信等を含む全対象の人材確保事業は混合のため未収録（水増し防止）。観光インバウンドは含まない。一般会計総額は前年併記＋増減チェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "鳥取県の外国人特化予算（令和8年度・確認可能分）は約1億円で、介護外国人材（4,752万円）と多文化共生推進（4,453万円・災害時多言語支援）が中心。県一般会計（3,961億円）の約0.026%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "鳥取県 令和8年度当初予算案 主要事業一覧",
+    "url": "https://www.pref.tottori.lg.jp/secure/1417694/R8tousyosyuyouzigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "介護分野で働く外国人材受入・定着促進事業",
+     "bureau": "福祉保健部 長寿社会課",
+     "category": "外国人材",
+     "amount_yen": 47518000,
+     "amount_label": "4,751万8千円",
+     "source_url": "https://www.pref.tottori.lg.jp/secure/1417694/R8tousyosyuyouzigyou.pdf",
+     "desc": "介護事業所における外国人介護人材の就労支援・受入環境整備（拡充）。"
+    },
+    {
+     "name": "ともにくらす多文化共生推進事業",
+     "bureau": "輝く鳥取創造本部 交流推進課",
+     "category": "多文化共生",
+     "amount_yen": 44531000,
+     "amount_label": "4,453万1千円",
+     "source_url": "https://www.pref.tottori.lg.jp/secure/1417694/R8tousyosyuyouzigyou.pdf",
+     "desc": "多文化共生の新たな指針の策定・災害時多言語支援体制の構築・情報発信強化（拡充）。"
+    },
+    {
+     "name": "外国人材と共に働くとっとり推進事業",
+     "bureau": "商工労働部 雇用・働き方政策課",
+     "category": "外国人材",
+     "amount_yen": 12400000,
+     "amount_label": "1,240万円",
+     "source_url": "https://www.pref.tottori.lg.jp/secure/1417694/R8tousyosyuyouzigyou.pdf",
+     "desc": "外国人材受入支援セミナーの開催・新規雇用企業への支援（拡充）。"
+    }
+   ],
+   "foreign_total_yen": 104449000,
+   "general_account": {
+    "amount_yen": 396100000000,
+    "amount_label": "3,961億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "鳥取県 令和8年度当初予算案の概要・分析",
+     "url": "https://www.pref.tottori.lg.jp/secure/1417694/R8tousyogaiyoubunseki.pdf"
+    }
+   },
+   "contrast_pct": 0.0264,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

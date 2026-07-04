@@ -1,0 +1,68 @@
+{
+ "generated_at": "2026-07-04T03:28:33+00:00",
+ "government": "山形県",
+ "basis_note": "山形県の外国人特化予算（「主要事業の概要」の「外国人材の受入拡大・定着及び多文化共生社会の推進」（44,138千円）の内訳のうち外国人特化の4項目のみ収録。同まとめ額には米国コロラド州との交流（16,127千円・国際交流一般）が含まれるため不採用＝水増し防止）。一般会計総額は前年併記＋増減チェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "山形県の外国人特化予算（令和8年度・確認可能分）は約2,100万円で、外国人材採用支援デスクと日本語教育が中心。県一般会計（7,003億円）比では約0.003%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "山形県 令和8年度当初予算 主要事業の概要",
+    "url": "https://www.pref.yamagata.jp/documents/50798/r8_shuyojigyo.pdf"
+   },
+   "items": [
+    {
+     "name": "「外国人材採用支援デスク」の運営",
+     "bureau": "みらい企画創造部 多文化共生・国際交流推進課",
+     "category": "外国人材",
+     "amount_yen": 12876000,
+     "amount_label": "1,287万6千円",
+     "source_url": "https://www.pref.yamagata.jp/documents/50798/r8_shuyojigyo.pdf",
+     "desc": "専任コーディネーターによる伴走型の外国人材採用支援・マッチング支援。"
+    },
+    {
+     "name": "日本語教育コーディネーターの配置",
+     "bureau": "みらい企画創造部 多文化共生・国際交流推進課",
+     "category": "日本語教育",
+     "amount_yen": 4615000,
+     "amount_label": "461万5千円",
+     "source_url": "https://www.pref.yamagata.jp/documents/50798/r8_shuyojigyo.pdf",
+     "desc": "総括・地域コーディネーターによる日本語教室の開催支援・オンライン日本語教室等。"
+    },
+    {
+     "name": "地域の多文化共生推進の取組みに対する支援",
+     "bureau": "みらい企画創造部 多文化共生・国際交流推進課",
+     "category": "多文化共生",
+     "amount_yen": 2607000,
+     "amount_label": "260万7千円",
+     "source_url": "https://www.pref.yamagata.jp/documents/50798/r8_shuyojigyo.pdf",
+     "desc": "外国人も安心して暮らせる環境整備・日本人住民との交流事業への助成。"
+    },
+    {
+     "name": "日本語教室開催への助成",
+     "bureau": "みらい企画創造部 多文化共生・国際交流推進課",
+     "category": "日本語教育",
+     "amount_yen": 1300000,
+     "amount_label": "130万円",
+     "source_url": "https://www.pref.yamagata.jp/documents/50798/r8_shuyojigyo.pdf",
+     "desc": "日本語教室開催等に対する経費の一部助成。"
+    }
+   ],
+   "foreign_total_yen": 21398000,
+   "general_account": {
+    "amount_yen": 700284000000,
+    "amount_label": "7,002億8,400万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "山形県 令和8年度一般会計当初予算の概要",
+     "url": "https://www.pref.yamagata.jp/documents/50798/r8_gaiyo_keisu.pdf"
+    }
+   },
+   "contrast_pct": 0.0031,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

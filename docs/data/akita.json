@@ -1,0 +1,50 @@
+{
+ "generated_at": "2026-07-04T03:28:28+00:00",
+ "government": "秋田県",
+ "basis_note": "秋田県の外国人特化予算（「当初予算（案）概要」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業2件）。一般会計総額の対前年比は令和7年度の肉付け後予算比（知事改選年）。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "秋田県の外国人特化予算（令和8年度・確認可能分）は約4,100万円で、外国人材受入サポートセンター（拡充）と多文化共生推進が二本柱。県一般会計（6,041億円）の約0.007%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "秋田県 令和8年度当初予算（案）概要",
+    "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000093875_00/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97(%E6%A1%88)%E6%A6%82%E8%A6%81.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材受入サポートセンター事業",
+     "bureau": "産業労働部",
+     "category": "外国人材",
+     "amount_yen": 23661000,
+     "amount_label": "2,366万1千円",
+     "source_url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000093875_00/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97(%E6%A1%88)%E6%A6%82%E8%A6%81.pdf",
+     "desc": "外国人材受入サポートセンターの運営（9,439千円）・外国人材受入加速化（10,000千円）等（拡充）。"
+    },
+    {
+     "name": "多文化共生推進事業",
+     "bureau": "観光文化スポーツ部",
+     "category": "多文化共生",
+     "amount_yen": 17497000,
+     "amount_label": "1,749万7千円",
+     "source_url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000093875_00/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97(%E6%A1%88)%E6%A6%82%E8%A6%81.pdf",
+     "desc": "外国人支援ネットワーク構築（5,042千円）・あきた多文化共生支援（6,264千円）等。"
+    }
+   ],
+   "foreign_total_yen": 41158000,
+   "general_account": {
+    "amount_yen": 604100000000,
+    "amount_label": "6,041億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "秋田県 令和8年度当初予算（案）概要",
+     "url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000093875_00/%E4%BB%A4%E5%92%8C%EF%BC%98%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97(%E6%A1%88)%E6%A6%82%E8%A6%81.pdf"
+    }
+   },
+   "contrast_pct": 0.0068,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

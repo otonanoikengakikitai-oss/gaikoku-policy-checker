@@ -1,0 +1,50 @@
+{
+ "generated_at": "2026-07-04T03:37:48+00:00",
+ "government": "島根県",
+ "basis_note": "島根県の外国人特化予算（「施策集」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業2件）。観光インバウンドは含まない。一般会計総額は「4,924（R8）4,720（R7）204（増減）」の前年併記＋増減チェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "島根県の外国人特化予算（令和8年度・確認可能分）は約6.3億円と人口比では全国的に高水準（外国人の受入れ・共生3.8億円、帰国・外国人児童生徒教育2.5億円）で、人口減少県の外国人受入戦略を反映している。それでも県一般会計（4,924億円）の約0.13%であり、『莫大な税金で外国人を優遇』という言説とはなお2桁の開きがある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "島根県 令和8年度当初予算等 施策集",
+    "url": "https://www.pref.shimane.lg.jp/admin/seisaku/zaisei/yosan/yosanr8/r8gaiyou.data/zenpage_sesakushur8.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人の受入れ・共生事業",
+     "bureau": "環境生活部 文化国際課",
+     "category": "多文化共生",
+     "amount_yen": 378089000,
+     "amount_label": "3億7,808万9千円",
+     "source_url": "https://www.pref.shimane.lg.jp/admin/seisaku/zaisei/yosan/yosanr8/r8gaiyou.data/zenpage_sesakushur8.pdf",
+     "desc": "外国人住民が安心して暮らせる生活環境づくり・日本人住民との相互理解の促進等（拡充）。"
+    },
+    {
+     "name": "帰国・外国人児童生徒等教育の推進",
+     "bureau": "教育委員会 学校企画課",
+     "category": "日本語教育",
+     "amount_yen": 247417000,
+     "amount_label": "2億4,741万7千円",
+     "source_url": "https://www.pref.shimane.lg.jp/admin/seisaku/zaisei/yosan/yosanr8/r8gaiyou.data/zenpage_sesakushur8.pdf",
+     "desc": "日本語指導が必要な児童生徒等への支援。"
+    }
+   ],
+   "foreign_total_yen": 625506000,
+   "general_account": {
+    "amount_yen": 492400000000,
+    "amount_label": "4,924億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "島根県 令和8年度当初予算の概要",
+     "url": "https://www.pref.shimane.lg.jp/admin/seisaku/zaisei/yosan/yosanr8/r8gaiyou.data/02r8yosanangaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.127,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

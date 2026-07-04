@@ -25,6 +25,8 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.okinawa.jp", "pref.okinawa.jp",
     "www.pref.gunma.jp", "pref.gunma.jp",
     "www.pref.toyama.jp", "pref.toyama.jp",
+    "www.pref.iwate.jp", "pref.iwate.jp",
+    "www.pref.yamagata.jp", "pref.yamagata.jp",
 )
 
 
@@ -295,7 +297,7 @@ def check_osaka(errors):
 
 
 # 汎用ビルダー（build_pref.py）出力の都道府県JSON
-PREF_FILES = ("hokkaido.json", "miyagi.json", "fukushima.json", "ibaraki.json", "gunma.json", "chiba.json", "niigata.json", "ishikawa.json", "nagano.json", "gifu.json", "shizuoka.json", "aichi.json", "mie.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json", "kumamoto.json", "okinawa.json", "tochigi.json", "shiga.json", "nara.json", "wakayama.json", "toyama.json", "fukui.json")
+PREF_FILES = ("hokkaido.json", "miyagi.json", "fukushima.json", "ibaraki.json", "gunma.json", "chiba.json", "niigata.json", "ishikawa.json", "nagano.json", "gifu.json", "shizuoka.json", "aichi.json", "mie.json", "fukuoka.json", "kanagawa.json", "kyoto.json", "hyogo.json", "hiroshima.json", "okayama.json", "ehime.json", "kagawa.json", "kumamoto.json", "okinawa.json", "tochigi.json", "shiga.json", "nara.json", "wakayama.json", "toyama.json", "fukui.json", "aomori.json", "iwate.json", "akita.json", "yamagata.json", "tottori.json", "shimane.json", "yamaguchi.json", "tokushima.json", "kochi.json")
 
 
 def check_prefs(errors):

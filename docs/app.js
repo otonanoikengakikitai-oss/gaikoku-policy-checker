@@ -258,6 +258,15 @@ const LIST_FILTERS = {
   wakayama: { q: "", cat: "", sort: "budget" },
   toyama: { q: "", cat: "", sort: "budget" },
   fukui: { q: "", cat: "", sort: "budget" },
+  aomori: { q: "", cat: "", sort: "budget" },
+  iwate: { q: "", cat: "", sort: "budget" },
+  akita: { q: "", cat: "", sort: "budget" },
+  yamagata: { q: "", cat: "", sort: "budget" },
+  tottori: { q: "", cat: "", sort: "budget" },
+  shimane: { q: "", cat: "", sort: "budget" },
+  yamaguchi: { q: "", cat: "", sort: "budget" },
+  tokushima: { q: "", cat: "", sort: "budget" },
+  kochi: { q: "", cat: "", sort: "budget" },
   saitama: { q: "", cat: "", sort: "budget" },
   kawaguchi: { q: "", cat: "", sort: "budget" },
 };
@@ -1259,6 +1268,60 @@ const PREF_CONFIG = {
     listFoot: "※福井県「主要事業の概要」に事業名・部課・金額が明記され検証を通過した外国人特化事業のみ（前年度額は資料の角括弧併記）。観光インバウンドは含まない。令和5〜7年度は追加調査で拡張予定のため未収録。",
     file: "data/fukui.json",
   },
+  aomori: {
+    label: "青森県", audience: "全県民向け", heroCat: "外国人材・多文化共生",
+    deptSub: "当初予算主要事業の外国人特化事業", kpiSrc: "出典: 青森県 当初予算 主要事業",
+    listFoot: "※青森県「当初予算 主要事業」に事業名・金額が明記され検証を通過した外国人特化事業のみ（R7.2月補正計上分は当初に含めない）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/aomori.json",
+  },
+  iwate: {
+    label: "岩手県", audience: "全県民向け", heroCat: "外国人材",
+    deptSub: "当初予算ポイントの外国人特化事業", kpiSrc: "出典: 岩手県 当初予算のポイント",
+    listFoot: "※岩手県「当初予算のポイント」に事業名・金額が明記され検証を通過した外国人特化事業のみ（ポイント資料=網羅ではない）。一般会計総額は前年併記+増減チェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/iwate.json",
+  },
+  akita: {
+    label: "秋田県", audience: "全県民向け", heroCat: "外国人材・多文化共生",
+    deptSub: "当初予算概要の外国人特化事業", kpiSrc: "出典: 秋田県 当初予算（案）概要",
+    listFoot: "※秋田県「当初予算（案）概要」に事業名・金額が明記され検証を通過した外国人特化事業のみ。対前年比は令和7年度肉付け後予算比（知事改選年）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/akita.json",
+  },
+  yamagata: {
+    label: "山形県", audience: "全県民向け", heroCat: "外国人材・日本語教育・多文化共生",
+    deptSub: "主要事業概要の外国人特化事業", kpiSrc: "出典: 山形県 当初予算 主要事業の概要",
+    listFoot: "※山形県の「外国人材の受入拡大・定着及び多文化共生社会の推進」まとめ額（44,138千円）は米国コロラド州交流（国際交流一般）を含むため不採用とし、外国人特化の内訳4項目のみ収録（水増し防止）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/yamagata.json",
+  },
+  tottori: {
+    label: "鳥取県", audience: "全県民向け", heroCat: "外国人材・多文化共生",
+    deptSub: "主要事業一覧の外国人特化事業", kpiSrc: "出典: 鳥取県 当初予算案 主要事業一覧",
+    listFoot: "※鳥取県「主要事業一覧」に事業名・金額が明記され検証を通過した外国人特化事業のみ。全対象の人材確保事業（外国人は一部）は混合のため未収録。観光インバウンドは含まない。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/tottori.json",
+  },
+  shimane: {
+    label: "島根県", audience: "全県民向け", heroCat: "多文化共生・日本語教育",
+    deptSub: "施策集の外国人特化事業", kpiSrc: "出典: 島根県 当初予算等 施策集",
+    listFoot: "※島根県「施策集」に事業名・金額が明記され検証を通過した外国人特化事業のみ。一般会計総額は前年併記+増減チェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/shimane.json",
+  },
+  yamaguchi: {
+    label: "山口県", audience: "全県民向け", heroCat: "外国人材",
+    deptSub: "主要事業概要の外国人特化事業", kpiSrc: "出典: 山口県 当初予算 主要事業の概要",
+    listFoot: "※山口県「主要事業の概要」に事業名・金額が明記され検証を通過した外国人特化事業のみ（主要事業=網羅ではない）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/yamaguchi.json",
+  },
+  tokushima: {
+    label: "徳島県", audience: "全県民向け", heroCat: "外国人材・日本語教育",
+    deptSub: "主な事業の外国人特化事業", kpiSrc: "出典: 徳島県 当初予算（案）の主な事業",
+    listFoot: "※徳島県「当初予算（案）の主な事業」に事業名・金額が明記され検証を通過した外国人特化事業のみ。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/tokushima.json",
+  },
+  kochi: {
+    label: "高知県", audience: "全県民向け", heroCat: "外国人材・多文化共生",
+    deptSub: "当初予算概要の外国人特化事業", kpiSrc: "出典: 高知県 当初予算編成の概要",
+    listFoot: "※高知県「一般会計当初予算の概要」に事業名・金額が明記され検証を通過した外国人特化事業のみ（金額は資料表記どおり百万円単位）。令和5〜7年度は追加調査で拡張予定のため未収録。",
+    file: "data/kochi.json",
+  },
 };
 const PREF_DATA = {};
 const PREF_YEAR = {};
@@ -1388,11 +1451,11 @@ function renderPrefItemList(gov) {
    エリア選択で .gov-btn の表示範囲を絞り込むだけの薄い層として実装。 */
 const AREA_CONFIG = [
   { id: "national", label: "国（政府）", govs: [] }, // 単独・第2階層なし
-  { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "miyagi", "fukushima"] },
+  { id: "hokkaido-tohoku", label: "北海道・東北", govs: ["hokkaido", "aomori", "iwate", "akita", "miyagi", "yamagata", "fukushima"] },
   { id: "kanto", label: "関東", govs: ["tokyo", "kanagawa", "chiba", "ibaraki", "tochigi", "gunma", "kawaguchi"] },
   { id: "chubu", label: "中部・北陸", govs: ["niigata", "toyama", "ishikawa", "fukui", "nagano", "gifu", "shizuoka", "aichi"] },
   { id: "kinki", label: "近畿", govs: ["mie", "shiga", "kyoto", "osaka", "hyogo", "nara", "wakayama"] },
-  { id: "chugoku-shikoku", label: "中国・四国", govs: ["okayama", "hiroshima", "kagawa", "ehime"] },
+  { id: "chugoku-shikoku", label: "中国・四国", govs: ["tottori", "shimane", "okayama", "hiroshima", "yamaguchi", "tokushima", "kagawa", "ehime", "kochi"] },
   { id: "kyushu-okinawa", label: "九州・沖縄", govs: ["fukuoka", "kumamoto", "okinawa"] },
 ];
 let areaMode = "national";
@@ -2030,11 +2093,11 @@ function bindLocalList(sectionId) {
   const sec = document.getElementById(sectionId);
   if (!sec) return;
   sec.addEventListener("input", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|tochigi|shiga|nara|wakayama|toyama|fukui|saitama|kawaguchi)-q$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|tochigi|shiga|nara|wakayama|toyama|fukui|aomori|iwate|akita|yamagata|tottori|shimane|yamaguchi|tokushima|kochi|saitama|kawaguchi)-q$/);
     if (m) { LIST_FILTERS[m[1]].q = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("change", (e) => {
-    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|tochigi|shiga|nara|wakayama|toyama|fukui|saitama|kawaguchi)-cat$/);
+    const m = (e.target.id || "").match(/^(tokyo|hokkaido|aichi|osaka|fukuoka|kanagawa|kyoto|miyagi|hiroshima|okayama|hyogo|ehime|kagawa|shizuoka|nagano|kumamoto|chiba|ibaraki|fukushima|okinawa|gunma|gifu|mie|niigata|ishikawa|tochigi|shiga|nara|wakayama|toyama|fukui|aomori|iwate|akita|yamagata|tottori|shimane|yamaguchi|tokushima|kochi|saitama|kawaguchi)-cat$/);
     if (m) { LIST_FILTERS[m[1]].cat = e.target.value; reRenderLocalList(m[1]); }
   });
   sec.addEventListener("click", (e) => {

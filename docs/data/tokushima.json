@@ -1,0 +1,77 @@
+{
+ "generated_at": "2026-07-04T03:38:29+00:00",
+ "government": "徳島県",
+ "basis_note": "徳島県の外国人特化予算（「当初予算（案）の主な事業」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業5件）。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "徳島県の外国人特化予算（令和8年度・確認可能分）は約1.3億円で、外国人介護人材確保（6,325万円）と雇用支援（高度人材・トータルサポート計4,410万円）が中心。県一般会計（5,358億円）の約0.024%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "徳島県 令和8年度当初予算（案）の主な事業",
+    "url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人介護人材確保対策事業",
+     "bureau": "保健福祉部",
+     "category": "外国人材",
+     "amount_yen": 63247000,
+     "amount_label": "6,324万7千円",
+     "source_url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf",
+     "desc": "外国人介護人材の研修・指導職員向け研修等による確保・定着。"
+    },
+    {
+     "name": "高度外国人材活用支援事業",
+     "bureau": "労働雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 22100000,
+     "amount_label": "2,210万円",
+     "source_url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf",
+     "desc": "高度外国人材の活用支援（令和8年度新規）。"
+    },
+    {
+     "name": "とくしま外国人雇用トータルサポート事業",
+     "bureau": "労働雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 22000000,
+     "amount_label": "2,200万円",
+     "source_url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf",
+     "desc": "外国人雇用の相談・支援のトータルサポート。"
+    },
+    {
+     "name": "持続可能な地域日本語教育推進事業",
+     "bureau": "多文化共生・人権課",
+     "category": "日本語教育",
+     "amount_yen": 16667000,
+     "amount_label": "1,666万7千円",
+     "source_url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf",
+     "desc": "地域日本語教育の持続可能な体制づくり。"
+    },
+    {
+     "name": "外国人材活躍支援事業",
+     "bureau": "労働雇用政策課",
+     "category": "外国人材",
+     "amount_yen": 5000000,
+     "amount_label": "500万円",
+     "source_url": "https://www.pref.tokushima.lg.jp/file/attachment/1035144.pdf",
+     "desc": "外国人材の活躍支援。"
+    }
+   ],
+   "foreign_total_yen": 129014000,
+   "general_account": {
+    "amount_yen": 535758000000,
+    "amount_label": "5,357億5,800万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "徳島県 令和8年度当初予算（案）の概要（計数編）",
+     "url": "https://www.pref.tokushima.lg.jp/file/attachment/1033755.pdf"
+    }
+   },
+   "contrast_pct": 0.0241,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}
