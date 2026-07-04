@@ -1,10 +1,54 @@
 {
- "generated_at": "2026-07-04T14:08:38+00:00",
+ "generated_at": "2026-07-04T15:43:46+00:00",
  "government": "長崎県",
  "basis_note": "長崎県の外国人特化予算。令和8年度は知事改選年の骨格予算（当初概要に外国人施策の記載なし）のため、政策的事業は6月補正（肉付け予算）で計上されており、6月補正概要に明記された外国人特化事業を「肉付け計上」と明示のうえ収録。一般会計総額は当初（骨格）ベース。過年度資料はサイト改修で移設されており追加調査で拡張予定。",
  "trend_note": "長崎県の外国人特化予算（令和8年度・確認可能分）は宿泊業の外国人雇用促進2,700万円（6月肉付け計上・新規）で、県一般会計（7,090億円・骨格）比では約0.004%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
  "latest": 2026,
  "years": [
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "令和6年度長崎県一般会計予算（議案）",
+    "url": "https://www.pref.nagasaki.jp/gikai/0602teirei/pdf/0602teirei_01.pdf"
+   },
+   "items": [],
+   "foreign_total_yen": 0,
+   "general_account": {
+    "amount_yen": 734849380000,
+    "amount_label": "7,348億4,938万円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "令和6年度長崎県一般会計予算（議案）",
+     "url": "https://www.pref.nagasaki.jp/gikai/0602teirei/pdf/0602teirei_01.pdf"
+    }
+   },
+   "contrast_pct": 0.0,
+   "population": null,
+   "empty_note": "※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は予算議案第1条の法定条文。"
+  },
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "令和7年度長崎県一般会計予算（議案）",
+    "url": "https://www.pref.nagasaki.jp/gikai/0702teirei/pdf/0702teirei_01.pdf"
+   },
+   "items": [],
+   "foreign_total_yen": 0,
+   "general_account": {
+    "amount_yen": 734736209000,
+    "amount_label": "7,347億3,620万9千円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "令和7年度長崎県一般会計予算（議案）",
+     "url": "https://www.pref.nagasaki.jp/gikai/0702teirei/pdf/0702teirei_01.pdf"
+    }
+   },
+   "contrast_pct": 0.0,
+   "population": null,
+   "empty_note": "※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は予算議案第1条の法定条文。"
+  },
   {
    "fiscal_year": 2026,
    "fiscal_year_label": "令和8年度",

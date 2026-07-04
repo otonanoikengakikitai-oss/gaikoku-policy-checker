@@ -18,6 +18,20 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": '令和6年度',
+        "source": {"label": '鹿児島県 令和7年度当初予算（案）の概要', "url": 'https://www.pref.kagoshima.jp/ab05/kensei/zaisei/yosan/r7/documents/118791_20250207165211-1.pdf'},
+        "items": [],
+        "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は令和7年度概要の前年（令和6年度）併記欄（単位:百万円）。',
+        "general_account": {
+            "amount_yen": 840510000000,
+            "amount_label": '8,405億1,000万円',
+            "evidence": '一般会計852,734840,510101.5',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": '鹿児島県 令和7年度当初予算（案）の概要', "url": 'https://www.pref.kagoshima.jp/ab05/kensei/zaisei/yosan/r7/documents/118791_20250207165211-1.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2025,
         "fiscal_year_label": "令和7年度",
         "source": _DOCS["GAIYO"],

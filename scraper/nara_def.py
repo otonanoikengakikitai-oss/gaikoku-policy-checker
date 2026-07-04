@@ -20,6 +20,34 @@ def _item(name, name_ev, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": '令和6年度',
+        "source": {"label": '令和6年度奈良県一般会計予算（予算書）', "url": 'https://www.pref.nara.lg.jp/documents/12199/02_r6_yasansyo_ippankaikei_01-21.pdf'},
+        "items": [],
+        "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は予算書第1条の法定条文（修正議決でも総額に異動なし）。',
+        "general_account": {
+            "amount_yen": 543982000000,
+            "amount_label": '5,439億8,200万円',
+            "evidence": '歳入歳出それぞれ543,982,000千円と定める',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": '令和6年度奈良県一般会計予算（予算書）', "url": 'https://www.pref.nara.lg.jp/documents/12199/02_r6_yasansyo_ippankaikei_01-21.pdf'},
+        },
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": '令和7年度',
+        "source": {"label": '令和7年度奈良県一般会計予算（予算書）', "url": 'https://www.pref.nara.lg.jp/documents/12194/02_r7_yasansyo_ippankaikei_01-22_1.pdf'},
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は予算書第1条の法定条文。',
+        "general_account": {
+            "amount_yen": 563657000000,
+            "amount_label": '5,636億5,700万円',
+            "evidence": '歳入歳出それぞれ563,657,000千円と定める',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": {"label": '令和7年度奈良県一般会計予算（予算書）', "url": 'https://www.pref.nara.lg.jp/documents/12194/02_r7_yasansyo_ippankaikei_01-22_1.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2026, "fiscal_year_label": "令和8年度", "source": _SAISYUTSU,
         "items": [
             _item("外国人材参入促進支援事業費", "外国人材参入促進支援事業費", "外国人材", "産業部門", 75985000,

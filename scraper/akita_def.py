@@ -18,6 +18,34 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": '令和6年度',
+        "source": {"label": '秋田県 令和6年度当初予算案の概要', "url": 'https://www.pref.akita.lg.jp/uploads/public/archive_0000079309_00/%E2%98%8501_R6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97%E6%A1%88%E6%A6%82%E8%A6%81.pdf'},
+        "items": [],
+        "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 584200000000,
+            "amount_label": '5,842億円',
+            "evidence": '一般会計総額は5,842億円(対前年度当初予算比+17億円、+0.3%)',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": '秋田県 令和6年度当初予算案の概要', "url": 'https://www.pref.akita.lg.jp/uploads/public/archive_0000079309_00/%E2%98%8501_R6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97%E6%A1%88%E6%A6%82%E8%A6%81.pdf'},
+        },
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": '令和7年度',
+        "source": {"label": '秋田県 令和7年度当初予算の概要', "url": 'https://www.pref.akita.lg.jp/uploads/public/archive_0000086534_00/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97.pdf'},
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。令和7年度は知事選挙に伴う骨格予算。',
+        "general_account": {
+            "amount_yen": 577300000000,
+            "amount_label": '5,773億円',
+            "evidence": '一般会計総額は5,773億円(対前年度当初予算比△69億円、△1.2%)',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": {"label": '秋田県 令和7年度当初予算の概要', "url": 'https://www.pref.akita.lg.jp/uploads/public/archive_0000086534_00/%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%E5%BA%A6%E5%BD%93%E5%88%9D%E4%BA%88%E7%AE%97.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2026,
         "fiscal_year_label": "令和8年度",
         "source": _DOCS["GAIYO"],

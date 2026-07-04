@@ -28,6 +28,34 @@ def _item(name, name_ev, doc, cat, bureau, yen, amount_ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": '令和6年度',
+        "source": {"label": '三重県 令和7年度当初予算の概要（資料5）', "url": 'https://www.pref.mie.lg.jp/common/content/001178138.pdf'},
+        "items": [],
+        "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は令和7年度概要の会計別予算規模表（令和6年度当初・令和7年度当初併記、単位:千円）。',
+        "general_account": {
+            "amount_yen": 805086700000,
+            "amount_label": '8,050億8,670万円',
+            "evidence": '一般会計805,086,700836,552,27531,465,5753.9',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": '三重県 令和7年度当初予算の概要（資料5）', "url": 'https://www.pref.mie.lg.jp/common/content/001178138.pdf'},
+        },
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": '令和7年度',
+        "source": {"label": '三重県 令和7年度当初予算の概要（資料5）', "url": 'https://www.pref.mie.lg.jp/common/content/001178138.pdf'},
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は会計別予算規模表（令和6年度当初・令和7年度当初併記、単位:千円）。',
+        "general_account": {
+            "amount_yen": 836552275000,
+            "amount_label": '8,365億5,227万5千円',
+            "evidence": '一般会計805,086,700836,552,27531,465,5753.9',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": {"label": '三重県 令和7年度当初予算の概要（資料5）', "url": 'https://www.pref.mie.lg.jp/common/content/001178138.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2026,
         "fiscal_year_label": "令和8年度",
         "source": _KANKYO,

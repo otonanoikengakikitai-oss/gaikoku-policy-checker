@@ -19,6 +19,20 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2023,
+        "fiscal_year_label": '令和5年度',
+        "source": {"label": '鳥取県 令和5年度当初予算案の概要', "url": 'https://www.pref.tottori.lg.jp/secure/1313232/01-3_R5toushoyosanangaiyou.pdf'},
+        "items": [],
+        "empty_note": '※令和5年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。なお令和6年度は一般会計総額の機械可読なテキスト証跡を公開資料から特定できなかったため未収録（画像確認要）。',
+        "general_account": {
+            "amount_yen": 335026692000,
+            "amount_label": '3,350億2,669万2千円',
+            "evidence": '合計335,026,692100.0364,005,675100.0△28,978,98392.0',
+            "label": "令和5年度 一般会計 当初予算",
+            "source": {"label": '鳥取県 令和5年度当初予算案の概要', "url": 'https://www.pref.tottori.lg.jp/secure/1313232/01-3_R5toushoyosanangaiyou.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2025,
         "fiscal_year_label": "令和7年度",
         "source": _DOCS["BUNSEKI"],

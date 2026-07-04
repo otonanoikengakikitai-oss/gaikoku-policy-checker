@@ -19,6 +19,34 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": '令和6年度',
+        "source": {"label": '大分県 令和7年度一般会計当初予算（案）の概要', "url": 'https://www.pref.oita.jp/uploaded/attachment/2233916.pdf'},
+        "items": [],
+        "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。証跡は令和7年度概要の前年（令和6年度）併記欄（単位:百万円）。',
+        "general_account": {
+            "amount_yen": 689808000000,
+            "amount_label": '6,898億800万円',
+            "evidence": '当初予算案702,677(6年度当初予算比+12,869+1.9%)(参考)6年度当初予算689,808',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": {"label": '大分県 令和7年度一般会計当初予算（案）の概要', "url": 'https://www.pref.oita.jp/uploaded/attachment/2233916.pdf'},
+        },
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": '令和7年度',
+        "source": {"label": '大分県 令和7年度一般会計当初予算（案）の概要', "url": 'https://www.pref.oita.jp/uploaded/attachment/2233916.pdf'},
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 702677000000,
+            "amount_label": '7,026億7,700万円',
+            "evidence": '当初予算案702,677(6年度当初予算比+12,869+1.9%)(参考)6年度当初予算689,808',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": {"label": '大分県 令和7年度一般会計当初予算（案）の概要', "url": 'https://www.pref.oita.jp/uploaded/attachment/2233916.pdf'},
+        },
+    },
+    {
         "fiscal_year": 2026,
         "fiscal_year_label": "令和8年度",
         "source": _DOCS["ICHIRAN"],

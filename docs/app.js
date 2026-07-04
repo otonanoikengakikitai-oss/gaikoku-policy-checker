@@ -733,10 +733,11 @@ function renderTokyoYear(fy) {
     prevTotal = yr.items.reduce((a, it) => a + it.prev_yen, 0);
   }
   // 多年度トレンド（国の budget-trend と同一）
+  const yrSrc = yr.source || tk.source; // 年度別の出典（令和6年度は令和7年度版PDF）
   const trendRows = TOKYO.years
     .slice()
     .sort((a, b) => a.fiscal_year - b.fiscal_year)
-    .map((y) => ({ year: y.fiscal_year, amount_yen: y.total_yen, sourceUrl: tk.source.url }));
+    .map((y) => ({ year: y.fiscal_year, amount_yen: y.total_yen, sourceUrl: (y.source || tk.source).url }));
   // 事業別の横バー（国の省庁別 min-item と同一）。カテゴリ色で割合可視化。
   const itemRows = yr.items
     .slice()
@@ -774,7 +775,7 @@ function renderTokyoYear(fy) {
       ${heroDeltaHtml(yr.total_yen, prevTotal)}
       ${natTotal ? `<div class="budget-hero-supp">参考: 国の関係予算（総合的対応策）は ${fmtYen(natTotal)}。集計範囲・主体が異なる（国は全省庁横断、都は多文化共生・外国人材に限定）。</div>` : ""}
     </div>
-    ${shareBtn(`【東京都 ${fyL} 外国人政策予算】多文化共生・外国人材の主要事業で計${fmtYen(yr.total_yen)}（生活文化局・産業労働局）。出典は東京都財務局。`, tk.source.url, "東京都 外国人政策予算")}
+    ${shareBtn(`【東京都 ${fyL} 外国人政策予算】多文化共生・外国人材の主要事業で計${fmtYen(yr.total_yen)}（生活文化局・産業労働局）。出典は東京都財務局。`, yrSrc.url, "東京都 外国人政策予算")}
   </div>
   ${trendChartHtml(trendRows, fy)}
   ${yr.tourism ? tokyoContrastHtml(yr, fyL) : ""}
@@ -796,7 +797,7 @@ function renderTokyoYear(fy) {
   <div class="local-kpi-band"><div class="local-kpi-h">この年度のサマリー（${esc(fyL)}）</div>${tokyoKpi}</div>
   <p class="pair-note budget-caveat"><i>!</i> ${esc(tk.tourism_note)}</p>
   ${yr.external_report ? tokyoReportHtml(yr.external_report) : ""}
-  <p class="budget-basis">${esc(tk.basis_note)}${yr.source_note ? " " + esc(yr.source_note) : ""} 出典: <a href="${esc(tk.source.url)}" target="_blank" rel="noopener">${esc(tk.source.label)} ↗</a></p>`;
+  <p class="budget-basis">${esc(tk.basis_note)}${yr.source_note ? " " + esc(yr.source_note) : ""} 出典: <a href="${esc(yrSrc.url)}" target="_blank" rel="noopener">${esc(yrSrc.label)} ↗</a></p>`;
   renderTokyoItemList();
   applyGlossary(document.getElementById("tokyo"));
   renderStatsFor("tokyo", fy); // 統計の裏付けを東京都×当該年度に連動
