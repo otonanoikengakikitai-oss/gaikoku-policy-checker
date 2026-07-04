@@ -32,6 +32,7 @@ import kagawa_def
 import kanagawa_def
 import kyoto_def
 import chiba_def
+import fukui_def
 import fukushima_def
 import gifu_def
 import gunma_def
@@ -40,14 +41,19 @@ import ishikawa_def
 import kumamoto_def
 import mie_def
 import miyagi_def
+import nara_def
 import niigata_def
+import shiga_def
 import nagano_def
 import okayama_def
 import okinawa_def
+import tochigi_def
+import toyama_def
+import wakayama_def
 import shizuoka_def
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX, http_get_raw
 
-DEFS = [hokkaido_def, miyagi_def, fukushima_def, ibaraki_def, gunma_def, chiba_def, niigata_def, ishikawa_def, nagano_def, gifu_def, shizuoka_def, aichi_def, mie_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, ehime_def, kagawa_def, kumamoto_def, okinawa_def]
+DEFS = [hokkaido_def, miyagi_def, fukushima_def, ibaraki_def, tochigi_def, gunma_def, chiba_def, niigata_def, toyama_def, ishikawa_def, fukui_def, nagano_def, gifu_def, shizuoka_def, aichi_def, mie_def, shiga_def, nara_def, wakayama_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, ehime_def, kagawa_def, kumamoto_def, okinawa_def]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
@@ -64,6 +70,7 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.ibaraki.jp", "pref.ibaraki.jp",
     "www.pref.okinawa.jp", "pref.okinawa.jp",
     "www.pref.gunma.jp", "pref.gunma.jp",
+    "www.pref.toyama.jp", "pref.toyama.jp",
 )
 
 _DOC_CACHE = {}  # url -> 正規化テキスト（同一文書の重複取得を回避）

@@ -1,0 +1,95 @@
+{
+ "generated_at": "2026-07-04T02:29:17+00:00",
+ "government": "滋賀県",
+ "basis_note": "滋賀県の外国人特化予算（「当初予算案の概要」資料2・資料4に事業名と金額が明記され、行内連結証跡で検証を通過した外国人特化事業7件）。字幕表示システム等の外国人『等』向け全県民サービスは含まない。令和5〜7年度は同型資料の追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "滋賀県の外国人特化予算（令和8年度・確認可能分）は約1.5億円で、外国人材活躍促進（7,366万円）と多文化共生推進費（4,228万円・前年3,821万円から増額）が中心。県一般会計（6,823億円）の約0.022%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "滋賀県 令和8年度当初予算案 主な事業概要（資料2）",
+    "url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材活躍促進事業",
+     "bureau": "商工観光労働部",
+     "category": "外国人材",
+     "amount_yen": 73658000,
+     "amount_label": "7,365万8千円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "相談窓口の設置・マッチング支援等（内訳: 外国人材総合支援38,076・定着活躍支援12,060・ベトナム人材交流23,522千円）。"
+    },
+    {
+     "name": "多文化共生推進費",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 42284000,
+     "amount_label": "4,228万4千円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590029.pdf",
+     "desc": "外国人の在留手続・雇用・医療・出産子育て等の相談対応（多文化共生推進事業補助金24,386千円等。前年38,209千円が資料に併記）。"
+    },
+    {
+     "name": "帰国・外国人児童生徒に対するきめ細かな支援事業",
+     "bureau": "教育委員会",
+     "category": "日本語教育",
+     "amount_yen": 11265000,
+     "amount_label": "1,126万5千円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "帰国・外国人児童生徒の受入れから卒業後の進路まで一貫した支援体制の構築。"
+    },
+    {
+     "name": "外国人介護専門職育成事業",
+     "bureau": "健康医療福祉部",
+     "category": "外国人材",
+     "amount_yen": 10027000,
+     "amount_label": "1,002万7千円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "介護福祉士資格の取得を目指す技能実習生等外国人介護人材の育成支援。"
+    },
+    {
+     "name": "児童の多くが外国人である認可外保育施設支援事業",
+     "bureau": "子ども若者部",
+     "category": "多文化共生",
+     "amount_yen": 5760000,
+     "amount_label": "576万円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "児童の多くが外国人である認可外保育施設の指導監督基準達成支援（有資格者配置等）。"
+    },
+    {
+     "name": "多文化共生県民交流事業",
+     "bureau": "総合企画部",
+     "category": "多文化共生",
+     "amount_yen": 4859000,
+     "amount_label": "485万9千円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "多文化共生に関する県民の理解促進・意識高揚のための県域交流イベント（令和8年度新規）。"
+    },
+    {
+     "name": "外国人介護人材獲得強化事業費",
+     "bureau": "健康医療福祉部",
+     "category": "外国人材",
+     "amount_yen": 3500000,
+     "amount_label": "350万円",
+     "source_url": "https://www.pref.shiga.lg.jp/file/attachment/5590027.pdf",
+     "desc": "滋賀県国際介護・福祉人材センターによる外国人介護人材の中長期的な安定確保（令和8年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 151353000,
+   "general_account": {
+    "amount_yen": 682300000000,
+    "amount_label": "6,823億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "滋賀県 令和8年度当初予算案の概要（資料1）",
+     "url": "https://www.pref.shiga.lg.jp/file/attachment/5590026.pdf"
+    }
+   },
+   "contrast_pct": 0.0222,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

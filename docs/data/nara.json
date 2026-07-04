@@ -1,0 +1,68 @@
+{
+ "generated_at": "2026-07-04T02:29:21+00:00",
+ "government": "奈良県",
+ "basis_note": "奈良県の外国人特化予算（予算に関する説明書〔歳出〕に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業4件）。一般会計総額は予算書第1条の法定条文。外国人観光客向け（交流館・受入環境整備）は含まない。令和5〜7年度は同型資料の追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "奈良県の外国人特化予算（令和8年度・確認可能分）は約1.3億円で、外国人材の参入促進（7,599万円）・留学生就労支援（3,696万円）など労働力確保が中心。県一般会計（6,220億円）の約0.021%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "奈良県 令和8年度予算に関する説明書（歳出）",
+    "url": "https://www.pref.nara.lg.jp/documents/21175/04_r8_setsumeisyo_saisyutsu_093-237.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材参入促進支援事業費",
+     "bureau": "産業部門",
+     "category": "外国人材",
+     "amount_yen": 75985000,
+     "amount_label": "7,598万5千円",
+     "source_url": "https://www.pref.nara.lg.jp/documents/21175/04_r8_setsumeisyo_saisyutsu_093-237.pdf",
+     "desc": "外国人材の県内参入促進の支援。"
+    },
+    {
+     "name": "外国人留学生等県内就労支援事業",
+     "bureau": "産業部門",
+     "category": "外国人材",
+     "amount_yen": 36957000,
+     "amount_label": "3,695万7千円",
+     "source_url": "https://www.pref.nara.lg.jp/documents/21175/04_r8_setsumeisyo_saisyutsu_093-237.pdf",
+     "desc": "外国人留学生等の県内就労支援。"
+    },
+    {
+     "name": "在留外国人への支援事業費",
+     "bureau": "知事公室・県民部門",
+     "category": "多文化共生",
+     "amount_yen": 13529000,
+     "amount_label": "1,352万9千円",
+     "source_url": "https://www.pref.nara.lg.jp/documents/21175/04_r8_setsumeisyo_saisyutsu_093-237.pdf",
+     "desc": "在留外国人への生活支援・相談対応等。"
+    },
+    {
+     "name": "外国人材定着支援事業費",
+     "bureau": "産業部門",
+     "category": "外国人材",
+     "amount_yen": 2000000,
+     "amount_label": "200万円",
+     "source_url": "https://www.pref.nara.lg.jp/documents/21175/04_r8_setsumeisyo_saisyutsu_093-237.pdf",
+     "desc": "外国人材の県内定着支援。"
+    }
+   ],
+   "foreign_total_yen": 128471000,
+   "general_account": {
+    "amount_yen": 621987000000,
+    "amount_label": "6,219億8,700万円",
+    "label": "令和8年度 一般会計 当初予算（予算書第1条）",
+    "source": {
+     "label": "奈良県 令和8年度一般会計予算（予算書）",
+     "url": "https://www.pref.nara.lg.jp/documents/21175/02_r8_yasansyo_ippankaikei_01-21.pdf"
+    }
+   },
+   "contrast_pct": 0.0207,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

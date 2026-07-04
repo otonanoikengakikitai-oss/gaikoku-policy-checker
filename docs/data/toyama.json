@@ -1,0 +1,41 @@
+{
+ "generated_at": "2026-07-04T02:25:15+00:00",
+ "government": "富山県",
+ "basis_note": "富山県の外国人特化予算（財政課「主要事業一覧」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業）。福祉・介護人材マッチング・定着強化事業等に含まれる外国人向けの内数は親事業が全対象（日本人含む）のため未収録（水増し防止）。オレゴン州交流等の国際交流は含まない。一般会計総額は議案書第1条の法定条文。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "富山県の外国人特化予算（令和8年度・確認可能分）は外国人材定着モデル企業支援事業の440万円で、県一般会計（6,338億円）の約0.0007%。介護・福祉分野の外国人材支援は全対象事業の内数として実施されており、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "富山県 令和8年度当初予算 主要事業一覧",
+    "url": "https://www.pref.toyama.jp/documents/52665/08syuyoujigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材定着モデル企業支援事業",
+     "bureau": "多文化共生推進室",
+     "category": "外国人材",
+     "amount_yen": 4400000,
+     "amount_label": "440万円",
+     "source_url": "https://www.pref.toyama.jp/documents/52665/08syuyoujigyou.pdf",
+     "desc": "外国人材の県内定着に向けた日本語習得・職場環境整備・地域交流の一連の取組支援（外国人材支援デスク・行政書士等の定着支援員。令和8年度新規・一部R7.2月補正）。"
+    }
+   ],
+   "foreign_total_yen": 4400000,
+   "general_account": {
+    "amount_yen": 633815375000,
+    "amount_label": "6,338億1,537万5千円",
+    "label": "令和8年度 一般会計 当初予算（議案書第1条）",
+    "source": {
+     "label": "富山県 令和8年度当初予算議案書",
+     "url": "https://www.pref.toyama.jp/documents/52665/08giansyo.pdf"
+    }
+   },
+   "contrast_pct": 0.0007,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

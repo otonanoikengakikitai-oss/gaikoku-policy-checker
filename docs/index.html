@@ -79,7 +79,7 @@
     <button type="button" class="area-btn on" data-area="national">国（政府）</button>
     <button type="button" class="area-btn" data-area="hokkaido-tohoku">北海道・東北</button>
     <button type="button" class="area-btn" data-area="kanto">関東</button>
-    <button type="button" class="area-btn" data-area="chubu">中部</button>
+    <button type="button" class="area-btn" data-area="chubu">中部・北陸</button>
     <button type="button" class="area-btn" data-area="kinki">近畿</button>
     <button type="button" class="area-btn" data-area="chugoku-shikoku">中国・四国</button>
     <button type="button" class="area-btn" data-area="kyushu-okinawa">九州・沖縄</button>
@@ -92,18 +92,24 @@
     <button type="button" class="gov-btn" data-gov="kanagawa">神奈川県</button>
     <button type="button" class="gov-btn" data-gov="chiba">千葉県</button>
     <button type="button" class="gov-btn" data-gov="ibaraki">茨城県</button>
+    <button type="button" class="gov-btn" data-gov="tochigi">栃木県</button>
     <button type="button" class="gov-btn" data-gov="gunma">群馬県</button>
     <button type="button" class="gov-btn" data-gov="niigata">新潟県</button>
+    <button type="button" class="gov-btn" data-gov="toyama">富山県</button>
     <button type="button" class="gov-btn" data-gov="ishikawa">石川県</button>
+    <button type="button" class="gov-btn" data-gov="fukui">福井県</button>
     <button type="button" class="gov-btn" data-gov="nagano">長野県</button>
     <button type="button" class="gov-btn" data-gov="shizuoka">静岡県</button>
     <button type="button" class="gov-btn" data-gov="gifu">岐阜県</button>
     <button type="button" class="gov-btn" data-gov="mie">三重県</button>
+    <button type="button" class="gov-btn" data-gov="shiga">滋賀県</button>
     <button type="button" class="gov-btn" data-gov="kawaguchi">埼玉県<span class="tab-latest">＋川口焦点</span></button>
     <button type="button" class="gov-btn" data-gov="aichi">愛知県</button>
     <button type="button" class="gov-btn" data-gov="kyoto">京都府</button>
     <button type="button" class="gov-btn" data-gov="osaka">大阪府</button>
     <button type="button" class="gov-btn" data-gov="hyogo">兵庫県</button>
+    <button type="button" class="gov-btn" data-gov="nara">奈良県</button>
+    <button type="button" class="gov-btn" data-gov="wakayama">和歌山県</button>
     <button type="button" class="gov-btn" data-gov="okayama">岡山県</button>
     <button type="button" class="gov-btn" data-gov="hiroshima">広島県</button>
     <button type="button" class="gov-btn" data-gov="kagawa">香川県</button>
@@ -135,6 +141,42 @@
     <h2 id="fukuoka-h"><span class="nbk">福岡県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">当初予算編成概要ベース・一次ソース検証</span></h2>
     <nav class="year-tabs gov-year-tabs" id="fukuoka-year-tabs" aria-label="福岡県 データ年度切り替え"></nav>
     <div id="fukuoka"></div>
+  </section>
+
+  <section aria-labelledby="tochigi-h" id="tochigi-section" hidden>
+    <h2 id="tochigi-h"><span class="nbk">栃木県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">重点戦略ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="tochigi-year-tabs" aria-label="栃木県 データ年度切り替え"></nav>
+    <div id="tochigi"></div>
+  </section>
+
+  <section aria-labelledby="shiga-h" id="shiga-section" hidden>
+    <h2 id="shiga-h"><span class="nbk">滋賀県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">主な事業概要ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="shiga-year-tabs" aria-label="滋賀県 データ年度切り替え"></nav>
+    <div id="shiga"></div>
+  </section>
+
+  <section aria-labelledby="nara-h" id="nara-section" hidden>
+    <h2 id="nara-h"><span class="nbk">奈良県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">予算書・説明書ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="nara-year-tabs" aria-label="奈良県 データ年度切り替え"></nav>
+    <div id="nara"></div>
+  </section>
+
+  <section aria-labelledby="wakayama-h" id="wakayama-section" hidden>
+    <h2 id="wakayama-h"><span class="nbk">和歌山県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">補助金一覧ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="wakayama-year-tabs" aria-label="和歌山県 データ年度切り替え"></nav>
+    <div id="wakayama"></div>
+  </section>
+
+  <section aria-labelledby="toyama-h" id="toyama-section" hidden>
+    <h2 id="toyama-h"><span class="nbk">富山県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">主要事業一覧ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="toyama-year-tabs" aria-label="富山県 データ年度切り替え"></nav>
+    <div id="toyama"></div>
+  </section>
+
+  <section aria-labelledby="fukui-h" id="fukui-section" hidden>
+    <h2 id="fukui-h"><span class="nbk">福井県</span> <span class="nbk">外国人特化予算</span> <span class="h-sub">主要事業概要ベース・一次ソース検証</span></h2>
+    <nav class="year-tabs gov-year-tabs" id="fukui-year-tabs" aria-label="福井県 データ年度切り替え"></nav>
+    <div id="fukui"></div>
   </section>
 
   <section aria-labelledby="gunma-h" id="gunma-section" hidden>

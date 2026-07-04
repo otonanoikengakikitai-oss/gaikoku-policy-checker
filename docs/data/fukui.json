@@ -1,0 +1,54 @@
+{
+ "generated_at": "2026-07-04T02:25:33+00:00",
+ "government": "福井県",
+ "basis_note": "福井県の外国人特化予算（財政課「主要事業の概要」に事業名・部課・金額が明記され、連結証跡で検証を通過した外国人特化事業。前年度額は資料の角括弧併記）。主要事業ベースのため網羅ではない。外国人観光客向けの誘客事業は含まない。一般会計総額は前年併記＋増減のチェックサム内蔵。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "北陸の福井県の外国人特化予算（令和8年度・確認可能分）は約3,800万円で、労働（3,125万円・前年比+28%）と農業（701万円）の外国人材受入環境整備が中心。県一般会計（5,012億円）の約0.008%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "福井県 令和8年度当初予算 主要事業の概要",
+    "url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo08_d/fil/r8tousyo_syuyoujigyou.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人労働者受入環境整備事業",
+     "bureau": "産業労働部 労働政策課",
+     "category": "外国人材",
+     "amount_yen": 31250000,
+     "amount_label": "3,125万円",
+     "source_url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo08_d/fil/r8tousyo_syuyoujigyou.pdf",
+     "desc": "外国人労働者が福井を選び中長期間活躍できるよう、県内企業の受入環境整備を支援（前年度24,500千円が資料に併記）。",
+     "prev_yen": 24500000,
+     "delta_yen": 6750000
+    },
+    {
+     "name": "農業分野における外国人材受け入れ環境整備事業",
+     "bureau": "農林水産部 園芸振興課",
+     "category": "外国人材",
+     "amount_yen": 7011000,
+     "amount_label": "701万1千円",
+     "source_url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo08_d/fil/r8tousyo_syuyoujigyou.pdf",
+     "desc": "農業分野の外国人労働者の受入環境整備・初期費用支援・フォローアップ体制支援（前年度6,133千円が資料に併記）。",
+     "prev_yen": 6133000,
+     "delta_yen": 878000
+    }
+   ],
+   "foreign_total_yen": 38261000,
+   "general_account": {
+    "amount_yen": 501200000000,
+    "amount_label": "5,012億円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "福井県 令和8年度当初予算の概要",
+     "url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo08_d/fil/r8tousyo_yosanangaiyou.pdf"
+    }
+   },
+   "contrast_pct": 0.0076,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}
