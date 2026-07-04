@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-03T22:02:45+00:00",
+ "generated_at": "2026-07-04T00:02:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-04 08:28",
+   "published_iso": "2026-07-03T23:28:33+00:00"
+  },
+  {
    "title": "在留手数料「爆上げ」案、国際比較をしても高い…「目先の票集め」「日本に来たい人減る」批判",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ENzFySDdCa0ViR3JNbkFSbTA0ZnJBeEZIUUhuUWtBVFhjVTFZZ0k0bm5mVHdRRm9IYVBVcFVYdWMtNEFVOXl1b19FcExuQUh4TGxj?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-04 06:00",
    "published_iso": "2026-07-03T21:00:00+00:00"
+  },
+  {
+   "title": "アメリカで進む「部族化」…「職場の同僚は青ばかりで孤独なんだ」「娘と移民政策の話をした途端にケンカになる」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RbXlMblhGMzAwX2dqdE9mX0VnZFltWmZhb1pQUFBZUWJ1VHRPelZUbnplODByTm1kRjJrYzBCRUNYQy0xdTh3Sy1zNFRGVTkwOVJJUFJVdVpwaGZfTGo0TkN3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-04 05:01",
+   "published_iso": "2026-07-03T20:01:00+00:00"
   },
   {
    "title": "山形：外国人対応通訳が一役 天童署巡査部長 ベトナム語で早期解決 県警「民間通訳人」募集 ：地域ニュース",
@@ -48,6 +64,22 @@
    "published_iso": "2026-07-03T19:10:00+00:00"
   },
   {
+   "title": "２５０年の現在地・米国の歩みと今後：移民増加「いずれ白人は5割以下」 米成長の原動力に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xUXpJVVdmLWh1TFZMUUFGbkFlZFhZMTFOdE5kd2JvWnVBY0VXeFdXckhuZFpfRDgxcGdzWUVsVXhaZV9CaHJZaFJiMzlhTDJ3QU11eVNPWG9UNWZnY3pFUFlqSmk3cXct?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-04 02:02",
+   "published_iso": "2026-07-03T17:02:15+00:00"
+  },
+  {
+   "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体 懸念",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYjdqVjZERkdNLWRyY3Q1S2c4UnJWMHp6dkExMGVDbWVnVWFRaHA0a2gwd0xXNjAzY3lxdmpzWjBWZmRycy1WMDRxNmN4Y3BURFBjaVBmVWZlalJOSTVvRGdDXzNwNjJ4?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-04 02:01",
+   "published_iso": "2026-07-03T17:01:13+00:00"
+  },
+  {
    "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQjJ5dFZUTVlVb0N2ZDBiTm9xem40MzBSM3h0Y2dWRFdpS3lIZERxbVlyZnpDTDIxVGx3WXg5NFRDRFJQQW0xb3YxekI2S1VsMzNjSjBtcDBnZjFYV1hwU1FuTjFkamc?oc=5",
    "source": "朝日新聞",
@@ -64,12 +96,12 @@
    "published_iso": "2026-07-03T12:04:16+00:00"
   },
   {
-   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-03 20:45",
-   "published_iso": "2026-07-03T11:45:04+00:00"
+   "title": "楽天イーグルス 新外国人マッカスカーが4安打3打点の大暴れ 先発・早川も好投で日本ハムに快勝",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMUh4clk2X1dUUkFKMWIxY1hyN1hGOGtOc3NnSG5FUnRlcDhPY05PVHRZWkI0ajFrMTlSN3NHel84aWZUcDZtU3liRVo4R0IxekRRa05ZejZFM3pocVJrZA?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-07-03 20:57",
+   "published_iso": "2026-07-03T11:57:00+00:00"
   },
   {
    "title": "在留手続き手数料、入管庁が改定案を発表 大幅引き上げに「高すぎ」「在留資格を失う」と懸念の声",
@@ -78,6 +110,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-03 20:07",
    "published_iso": "2026-07-03T11:07:00+00:00"
+  },
+  {
+   "title": "SVリーグ参戦のフラーゴラッド鹿児島が新体制発表…外国人選手4人や元所属の笠利選手ら加入 トップスポンサーにニップンも",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YllOTzAteHh0SlFiU3RnelR6RkVQaXl2TFZqUF9waDlWcmtPN0dsTXZuaklFRFBaMGJWUFMxUWR5RWtVLVRUcERUWWl3bjdDWWdKaUFPWk5ydlhxX2lkYk5DS0VNMzQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-03 19:15",
+   "published_iso": "2026-07-03T10:15:00+00:00"
   },
   {
    "title": "「高市さんはなぜ外国人に厳しいの？」在留手数料の大幅引き上げ 子を持つ女性「暮らしていけない」",
@@ -102,6 +142,22 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 18:41",
    "published_iso": "2026-07-03T09:41:01+00:00"
+  },
+  {
+   "title": "外国籍住民増える富良野 多文化共生へ市が取り組み 8月からにほんごサロン",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBTFpFOWdDRTgyZlA2cS15YWNRZjhBOGlqVF9JUDRLZ1dmSl9ibVZpbjkybmlNS3Z4VTNtTG92dDRNSWpBRE12U1V3WnFXTHNjNjBGdkwxU29IQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-03 18:37",
+   "published_iso": "2026-07-03T09:37:33+00:00"
+  },
+  {
+   "title": "Almost 1.2 mn apply for Spain's migrant regularisation",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xM25GNVczX2dGb0tBNGwyZkVGaTRmWGdaMjNLYmNkUHY3VktVZE5kcWhjbHg3ZEwxZGVxQmpsOVZHTXk3b19YdTlMbTRpbW5URFE?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-03 17:30",
+   "published_iso": "2026-07-03T08:30:00+00:00"
   },
   {
    "title": "プレスリリース：［香川県委託事業］インドネシア特定技能人材プロジェクトが本格始動。AKANE株式会社が県内企業を対象に受入募集を開始（PR TIMES）",
@@ -168,20 +224,28 @@
    "published_iso": "2026-07-03T01:36:31+00:00"
   },
   {
-   "title": "【速報】外国人「永住許可」手数料を1万円から20万円に引き上げ 在留期間更新も一律6000円から1万円～7.5万円に 法務省",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIS1cyVmstTERSaC1tWUZlUm5XMFhpMmZBRFpBNF9ia0wweUkyX2RYUEpzR21sdlR6QXI1THVXZkdXQ19KNjBRVVlpZFpTZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-03 10:19",
-   "published_iso": "2026-07-03T01:19:00+00:00"
-  },
-  {
    "title": "日本語やルール講習、外国人在留審査への反映検討 永住では条件に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVUJFZG5waTBCU2ZjM3doaGw0M01lam9NSEE1Ung4Q1lXUVQxV3B0X014WUEzVjhQbDJ6Vmh4WndzUVdpQXZBQnZVRFdBMXhOUjVkQzI4TmptMVNwVEJzd19BY1hRSXA4dk1XcA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-03 10:18",
    "published_iso": "2026-07-03T01:18:05+00:00"
+  },
+  {
+   "title": "在留手続きにかかる手数料値上げ政令案公表 現行の一律6000円から1万～7万5000円に 「永住許可」は20万円へ 難民認定者などは減額対象 パブコメ募集も",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DeHN0bnJ5Sy1GaG1NVVZhalpiVWlubVgtSHlCa1MzcjRYQ1M1LWhHbDFsd05Ca19Ob1NfSVVfWTlPU2VzRnZXamJQYkZ1NW5ic3ZNWENybw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-03 10:14",
+   "published_iso": "2026-07-03T01:14:20+00:00"
+  },
+  {
+   "title": "在留手数料値上げ、ガイドライン案公表 難民申請者の減額に要件",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZERweExGaDJBQjZFZ0cyTlpLalpuNDZfclRsd3hOX092N1VpVEVsSDczblVrN0JJVldlZ1pwUVFGNXhjNDhYRHNSVGphVDNOYmNnZEYxRDZHLTN4SzlheHFpZktpcnZr?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 10:13",
+   "published_iso": "2026-07-03T01:13:05+00:00"
   },
   {
    "title": "外国人の日本語・生活学習プログラム、永住許可の要件に 入管庁方針",
@@ -194,14 +258,6 @@
   {
    "title": "外国人向け「日本語・生活学習プログラム」創設に向けた課題を公表“在留審査に受講を反映”入管庁",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5McEtkTHBZVGwtTkpIMG1mMEZ2dXM5bG9YZ3ZpZVFlR2ZqUVhta1o0SEM2bjlvSGtYcmc4ak9wN1RLSzBiUFdJRUlGcnJYWmhSWV9ZR2EwRHJhYlRvanMycloyNXRQLUc4VnFQVVRraENXTE05MUpvLVBPc2Y?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 10:13",
-   "published_iso": "2026-07-03T01:13:00+00:00"
-  },
-  {
-   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 10:13",
@@ -230,6 +286,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-03 05:00",
    "published_iso": "2026-07-02T20:00:00+00:00"
+  },
+  {
+   "title": "不要な服をどう活用 益田 中西中で難民支援活動を学ぶ授業",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BTWlXa29JR2ZGc2w5YVVkQXFPY2JiNmk4VXVkeGQzeG5uaVhsaGhJZmFUNGFGQnhJRTVjUUc1eDYwdUJIWTFpdHdFYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-03 04:00",
+   "published_iso": "2026-07-02T19:00:00+00:00"
+  },
+  {
+   "title": "移民と社会・Ｄｅｅｐ－Ｍ：集団礼拝、各地で摩擦 公園利用、行政一転許可せず SNSでの批判投稿、影響か",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aVHpsU0JVRjZlemVwTGlralhBQkJ0TFlGbTZzNGdybUJoUnA0RUVtQmx6Rk10UUhwMUdpcDI4MGVCeHRMMFp0TDFkVi1jSUJ5Qk1scTQzNGp6cGpIa1NGTmFrN20xS1RJ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 02:01",
+   "published_iso": "2026-07-02T17:01:22+00:00"
   },
   {
    "title": "外国人観光客増加で警察官も「英語対応」が急務！警察署では研修も 福島（2026年7月2日掲載）｜中テレNEWS NNN",
@@ -264,6 +336,14 @@
    "published_iso": "2026-07-02T08:00:00+00:00"
   },
   {
+   "title": "米政府、1万人超の移民を5日間で拘束 年初の2倍…背景に「ホワイトハウスの意向」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QUm9uQVYydnYzV1hNTVRfRnZPNlRUd1J1N3N2UmJwRm9IZ1pKTUxZX25lcVRPeEoxbFNxWU9fOWxXTEhIQ3UzMEZtc0owa0t2YTk4MTdCdGprNUp4SngtOEJEOHhBWFRlVW8xV01LOFl3cWFPTWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-02 16:28",
+   "published_iso": "2026-07-02T07:28:42+00:00"
+  },
+  {
    "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
    "source": "日テレNEWS NNN",
@@ -296,6 +376,22 @@
    "published_iso": "2026-07-02T04:30:00+00:00"
   },
   {
+   "title": "地域から考える難民支援セミナー ― 自治体施策・教育活動に活かす視点と事例 ―",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGd1E0aGxPaXFQaGV1QVg1U0ltLXhnSkc5MllTa2pZdkZIaUYtZWhsSkZ4VUQzOFNMeU5IRHVHNVU0c0RQOVZMT0ZVcTVLbV9sRnZVbkRYMWR0U0dqOEhGcjNJUGdwVXk4Vlg5TFFfZTBOVjVOaE9pbk9yVQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-02 13:00",
+   "published_iso": "2026-07-02T04:00:58+00:00"
+  },
+  {
+   "title": "W杯に沸く米移民社会「心は祖国と共にある」 コミュニティーに結集、試合に熱視線",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEg1enJwVzRTbVd6aFg5RElXbmFWN2l4cFEwZGJRVWZKbzIwcDcwa0FkZllVY3NDU1hHbVhSRlJkb2ZmcllESm43SEJFOXhSN05td0VzbjZpTm5tMy16QzhHM194eU5sdDdzMUpIUV9SNFV6RWZkWTg1aHZPTlpqTzBYRUN2eUcxQWF3YXNnb0JzRE1MRWd4SG5yMnBWeTlTYUVoTHdmUQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-02 13:00",
+   "published_iso": "2026-07-02T04:00:00+00:00"
+  },
+  {
    "title": "富士山 山開きで軽装外国人も 防寒着なしゲート通行拒否 初の電子決済も導入",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLbTFDUy10SG9uLUtldzZyVWc3aGFBRzJfanZaamxPVXlMWGZDTFpwWklTNkRxcE5uVlZKLTFYQlZtYnJyUUt3SmhEMzBtNU1TZE01elhCUTBJNDI4WGUxbnNERTg3M0QtSjhqZWh0ZFFjZw?oc=5",
    "source": "テレ朝NEWS",
@@ -310,102 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-02 11:30",
    "published_iso": "2026-07-02T02:30:00+00:00"
-  },
-  {
-   "title": "「敬意ない」議会で矛盾指摘も 福井知事、外国人政策の行方は",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWk14N1lMQ3Z6LTJ1dW9uSEY5R3haR1R2NnVjSE4tZWIxdWdXVFpoX1FOTDZQWU9DT1ZxQnY2U0VsT2duWGdBSzJ3VjFQQ1VUQkkxaEU3MHdpbXpCUGlfZXhSWGxlYmlI?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-02 10:48",
-   "published_iso": "2026-07-02T01:48:00+00:00"
-  },
-  {
-   "title": "外国人雇用状況、未届けの疑いが5年間で計14万895件 届け出は義務、不法就労是正の障壁に",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xVFRjY3JhQ1NZWFBoY3FrcU9JVlU1bHViU2FFVi1JOG9mS2M5T2JEMk9yR0NTTFJGamt2OGlSQm5uSlU1akdVVHVwLVhteUlBdWVHUA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-02 05:10",
-   "published_iso": "2026-07-01T20:10:00+00:00"
-  },
-  {
-   "title": "介護現場で日本語支援に力 愛知県東郷町の特養、技能実習生受け入れ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WaXV0X1p6NVBuOFFLeVVVVE1vRmoxLWgzcGJTbzB1al8tb0w2Ui1vYkpBT1kzMmdoa2twN1d2Y19QaUhXbFFDdk42Rk83clhSci1tLQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-02 05:05",
-   "published_iso": "2026-07-01T20:05:00+00:00"
-  },
-  {
-   "title": "特定技能上限「安易に引き上げるべからず」有識者会議座長の日本総研・高橋氏",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMTUZMMzRKRlV3cmQyVndESEJwelFIdnV2RDhCZ2FIVlBZLWNRWmVOTzBYRE52REFpZlc4SW5Bd0FFbUo3ZW5TbDlKODkyX3ljRG52RGtIYmRkZDFuRUlHZ0pFLWN5S1U?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-02 05:00",
-   "published_iso": "2026-07-01T20:00:00+00:00"
-  },
-  {
-   "title": "外国人受け入れ、適応能力重視で 上坊孝次氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VHU5ZE9LLWZsZW9VRDI4QlpFaWxfN1VKT0xxRUVWRzBfbzlnM0hoOTFSb1ZxbS05bGlWX0l1RnFvQVRQRGpwYmRDUjhCUEpveVJveVFYY29YUjVLbFV3alpYQ1QwZ2Q3MlNZLQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-02 02:00",
-   "published_iso": "2026-07-01T17:00:00+00:00"
-  },
-  {
-   "title": "「日本のルールを知るきっかけづくりに」外国人技能実習生が自転車の安全運転を習得 愛媛県・松山市",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xdmF3bnBnUHVmRVk4ckFRZkhobkpNZlR2RENFcVpMZXZSZVk5ekVUdHpBWVJTeTBDWVJfckp3QTJESE1UQ2wydi1nWTRBZHhIRUFNbDZuVkE4bXkxd2hzVkoyX0x0WlU?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-01 17:06",
-   "published_iso": "2026-07-01T08:06:00+00:00"
-  },
-  {
-   "title": "SOMPOケア、インドで介護人材育成 労働力確保の難題「7000ドルの壁」",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BMFBwMHRzNFcyMHB0S29DQm5JdkFIOE1JUnRrYjJKZi12Z0hvQmJiZlFSc25TNjdlWkROMUtqakVra2Ntb1EzSldTeXBIUTJhWlNrenFPUmZFZU5xVHJtSHhQaFVybVk?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-01 17:00",
-   "published_iso": "2026-07-01T08:00:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生対象の自転車安全教室、県警が国によって異なる交通ルールを周知【愛媛】",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTdwa09EdDNZTWsyNVcwTklVcmdFYm1JV3JTZERfTDBNY3lVMTFZT25kOW10UDN1X2J2a1BxempYT0o5dVhBcmJ2amNVeGRERzgtMUszd0dYYkVmR3hWeV9IRkNGQmdSYm9PRGJONGNKazQ1ckU4NjRlQmx1UzZzSTJPVG5ZVXM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-01 16:46",
-   "published_iso": "2026-07-01T07:46:01+00:00"
-  },
-  {
-   "title": "川口市の「外国人対応相談窓口」運用開始 全国初「秩序ある共生社会めざす」初日から相談 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MSlpMeWZWQTFMaTJGcm9ramNTMmRBTXVqbU5GU2ZoOHJnZWw3MGFRUnlsWFNzcTZqc0N3N2tYZERITFJNNmlQV2ZGUXY4cDY1aE9pX2E0UmlRUkdGTXg4amdWYkd6U3c1cDJBaDBWNVcyZ284T2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-01 15:35",
-   "published_iso": "2026-07-01T06:35:22+00:00"
-  },
-  {
-   "title": "外国人「育成就労」2年で最大42万人受け入れ タイと初の協力覚書、識者「トルコとも」 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80cTFybHA0bWQ2ZlI3bHpiM29WaGhnTkowY0N0YkVKOHBBWmx5RmhwbUExOHMxLUE2NkxWSEphQjd2NlhXNUpFeFNsZVFJYmdFdTYxbzFBSktfbzBRT0tjV2xleUdCT0pxSjJrcHlQTkdRVG9yQVE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-01 10:02",
-   "published_iso": "2026-07-01T01:02:18+00:00"
-  },
-  {
-   "title": "AI需要で電力争奪戦激化／失敗を語る刀・森岡毅CEO／深まる外国人材依存（2026年7月1日版）",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RWE5KSWJrQ29QNTBIeDJtdFF4NC1aQURlM0hiWDMwaG5sekJMZTBoTk5RWTRYWTF2ZXRrT0VUNmtkOHN3R2dYOGtwU1ptTGdnLUltRzZYa2JkZm5RdzlyN3RBd1hNdFk2UUE?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-01 05:03",
-   "published_iso": "2026-06-30T20:03:52+00:00"
-  },
-  {
-   "title": "「外国人に救われた」 深まる依存も、都会志向の若年層流出におびえる地方",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUXRmV1Nqajh2Z3lxS1RvSm80Q21WUU5mdjFVdUVXU0RLN21paTVQbnkxMkEyRzZkTDRuU2hGLV9tLTZHS2NOYkJnNmhTWE1mYmRiY1g0cVNlaHN5RTVMMUs1d2lqNWs?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-01 05:00",
-   "published_iso": "2026-06-30T20:00:00+00:00"
   }
  ]
 }
