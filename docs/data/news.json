@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T10:07:44+00:00",
+ "generated_at": "2026-07-04T12:05:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
-   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-04 18:09",
-   "published_iso": "2026-07-04T09:09:59+00:00"
+   "title": "ローマ教皇が米建国250年に合わせイタリア移民の島でミサ 「偉大な国の息子」と強調",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iNm1zYW53WFBoaC1tNTgzaGMxV1o4ZUJ1c3F0bkNPZTZ4TEpnaGlLOG5GX2phSmx3T3ZlMU9EQURVd0dWZWpBby1EQ1VRQ0tMYllhUWRHTUNaQUxRcVBJSTFHWUhrcHllb1dyR2U2VXF0d2k2aXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-04 19:52",
+   "published_iso": "2026-07-04T10:52:55+00:00"
+  },
+  {
+   "title": "「けがをした外国人女性が来ている」台湾の公務員の52歳女性を県警ヘリで救助 北アルプス大天井岳から槍ヶ岳方面に向かっていたところ転倒 右足の骨折で重傷",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PRnFmSDY2Zk5welZubzhlSG55ZVc1Y25nTVhra1VXUjJRQnNVb2NaME1GMFp5SXBmQVpxdW9RSmlZQkl2VGc1bjFJLUZidw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-04 19:12",
+   "published_iso": "2026-07-04T10:12:00+00:00"
+  },
+  {
+   "title": "［社説］外国人への日本語講習を共生社会の礎に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTFk1aGxvMUhtbjJ2WXBuMUdvTWRjSVF6aFdsbDVUQ1VPdWRVVDNvMjZQTzR6TEhHVzQydzEwRFk5cFFfVFJuZnNEellNZU4xRWs2NzV1MUU0SmZkaUM0LWpEN056NzNMQ21LbQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-04 19:05",
+   "published_iso": "2026-07-04T10:05:00+00:00"
   },
   {
    "title": "250年の現在地～米国の歩みと今後～：トランプ政権の移民制限は不合理？ 人口学者が考える米国の未来",
@@ -22,6 +38,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 18:00",
    "published_iso": "2026-07-04T09:00:00+00:00"
+  },
+  {
+   "title": "新田知事 外国人ルーツの青少年と意見交換 多文化共生条例の制定に向け課題などを確認",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yeE5NeWk4X0tzSDZvSG03YnRKM2hELThHNWpEdExuaHVpTzlxTEl3ZVpuX2JBNTVhTjdyQTFZUURmUGYyVDlNTE9wTndjQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-04 17:50",
+   "published_iso": "2026-07-04T08:50:00+00:00"
   },
   {
    "title": "外国人に日本の制度を出向いて説明 夜間中学でオリエンテーション",
@@ -46,14 +70,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 16:00",
    "published_iso": "2026-07-04T07:00:00+00:00"
-  },
-  {
-   "title": "「密漁禁止」外国人にも分かりやすく！ポスターデザイン、千田基衣さんの作品採用・第9管区海上保安本部",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9jTG9adlBYeHA5TnVjRTRxRWsxUEkxZHZMZm5ta0NrcF9CZFltS19URnBWeUFISmdaZDdzT0F5QmcyS0EzeWtZQV9OQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-04 14:55",
-   "published_iso": "2026-07-04T05:55:00+00:00"
   },
   {
    "title": "福井市が観光パンフリニューアル 四季折々の景色 外国人向けＰＲ ：日刊県民福井Web",
@@ -160,6 +176,14 @@
    "published_iso": "2026-07-03T15:04:00+00:00"
   },
   {
+   "title": "特定技能人材の「早期離職」問題に終止符",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwX3k0X2NZcjA5TkdXVGliZHVad2N5MU5rcXdsR3FxWUJpM0hXaURxNWszRjQ5R21UYVBHdjdCZTh6WGJmbWd6R0dNWU1kMTlF?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-07-03 21:34",
+   "published_iso": "2026-07-03T12:34:00+00:00"
+  },
+  {
    "title": "外国人の在留手数料、値上げで低水準是正 最大20倍も「高すぎない」 一部懸念も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TUJwZEprd0Y2cEQ2V0NvaS1XeFFJR3NIdV82eXM0YS15ZkVDSFN0eThqWU9nR1RHd2loQ0NhQTdlNU4zRmR1N2RSc3FnbUF2MEZKdVZ5X0luNkRWeFlwNmxHc1ZRbXpfLUJVd0lpNHZ0cUdMZ0E?oc=5",
    "source": "産経ニュース",
@@ -168,12 +192,12 @@
    "published_iso": "2026-07-03T12:04:16+00:00"
   },
   {
-   "title": "楽天イーグルス 新外国人マッカスカーが4安打3打点の大暴れ 先発・早川も好投で日本ハムに快勝",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMUh4clk2X1dUUkFKMWIxY1hyN1hGOGtOc3NnSG5FUnRlcDhPY05PVHRZWkI0ajFrMTlSN3NHel84aWZUcDZtU3liRVo4R0IxekRRa05ZejZFM3pocVJrZA?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-07-03 20:57",
-   "published_iso": "2026-07-03T11:57:00+00:00"
+   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 20:45",
+   "published_iso": "2026-07-03T11:45:04+00:00"
   },
   {
    "title": "在留手続き手数料、入管庁が改定案を発表 大幅引き上げに「高すぎ」「在留資格を失う」と懸念の声",
@@ -382,30 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-02 16:28",
    "published_iso": "2026-07-02T07:28:42+00:00"
-  },
-  {
-   "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-02 16:26",
-   "published_iso": "2026-07-02T07:26:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生の監理団体の職員ら3人を逮捕 禁止区域でタイ古式マッサージなど掲げて性的サービスを提供か 4年で1億3680万円売り上げか 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSnV1OUo5TmVuVm5YOUMxbW9ELVBYb0hTUVFRakVBdGUwNUlFaGNvZVJYQUdqN0ZXSktUZjdQcHlaSkZ3d19EbWFIVDdqeXhXb1hPN3lGNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-02 16:04",
-   "published_iso": "2026-07-02T07:04:32+00:00"
-  },
-  {
-   "title": "「キャプテン翼」「ラーメン」 日本文化が外国人サポーターを魅了―各地で青いユニホーム・Ｗ杯サッカー",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpWE9BX1RmRDhydkMyQW0wVk1vME9YdS1TVzJ4MkRwMThuVUhIWTJpcUtPeGtUQ0VkUExBME03LTZUSGFXOWh5cWo5ZlhrNWluNVljZUVFRThfcmU1SUxTaW9Udw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-02 14:32",
-   "published_iso": "2026-07-02T05:32:00+00:00"
   }
  ]
 }
