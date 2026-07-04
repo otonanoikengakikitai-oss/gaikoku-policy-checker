@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T19:08:15+00:00",
+ "generated_at": "2026-07-04T20:54:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人の運転免許取得支援サービス 岐阜の会社が大垣自動車学校と連携：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VX2hFX242ZzduQUdENGxjelFSVHhmcG1ia0tDZjlDbFNwYlFhd29RZXpzbXNoRHJUNzQwajlDMlZkUmhYQVRDdkhKS0xleTBhNlpnY0FIUnEtckhuazRj?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-05 05:00",
+   "published_iso": "2026-07-04T20:00:00+00:00"
+  },
   {
    "title": "ローマ教皇が米建国250年に合わせイタリア移民の島でミサ 「私は偉大な国の息子」",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iNm1zYW53WFBoaC1tNTgzaGMxV1o4ZUJ1c3F0bkNPZTZ4TEpnaGlLOG5GX2phSmx3T3ZlMU9EQURVd0dWZWpBby1EQ1VRQ0tMYllhUWRHTUNaQUxRcVBJSTFHWUhrcHllb1dyR2U2VXF0d2k2aXc?oc=5",
@@ -62,6 +70,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 16:00",
    "published_iso": "2026-07-04T07:00:00+00:00"
+  },
+  {
+   "title": "OUR×日南市「特定技能外国人材受入促進連携協定」が結実 協定締結後初となる特定技能人材が入国地域福祉を支える新たな一歩へ",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wb2FwbllMTG5NUjNwZGVFTy0wZkI1Z08xVThzOV9wUzFQS3ZURXBCLWx4YjhjaFpmOE5NdFoyWmppUThQelhySmJFZFJ4Uk51dFpaMGRDV2stUHRnNXVFa2RLS1h0MGZnUTVJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-04 14:40",
+   "published_iso": "2026-07-04T05:40:00+00:00"
   },
   {
    "title": "福井市が観光パンフリニューアル 四季折々の景色 外国人向けＰＲ ：日刊県民福井Web",
@@ -288,14 +304,6 @@
    "published_iso": "2026-07-03T01:13:00+00:00"
   },
   {
-   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 10:13",
-   "published_iso": "2026-07-03T01:13:00+00:00"
-  },
-  {
    "title": "「即戦力」外国人材の受け入れ停止措置、外食産業に大打撃…「採用計画は見直しに」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZV90U2VwUmJhRThYQnNvV2hVVEwwbldtalBzTnJmNVBfek1CZURBemxPTG1VS2hIOHRYbjBVY1FHUFQ4ZGxvaEh3VUV5WHhFaWJ5UEJOcm85QlVSMnQ4Nm1CVEMtUQ?oc=5",
    "source": "読売新聞",
@@ -318,14 +326,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-03 05:00",
    "published_iso": "2026-07-02T20:00:00+00:00"
-  },
-  {
-   "title": "移民と社会・Ｄｅｅｐ－Ｍ：集団礼拝、各地で摩擦 公園利用、行政一転許可せず SNSでの批判投稿、影響か",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aVHpsU0JVRjZlemVwTGlralhBQkJ0TFlGbTZzNGdybUJoUnA0RUVtQmx6Rk10UUhwMUdpcDI4MGVCeHRMMFp0TDFkVi1jSUJ5Qk1scTQzNGp6cGpIa1NGTmFrN20xS1RJ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-03 02:01",
-   "published_iso": "2026-07-02T17:01:22+00:00"
   },
   {
    "title": "「安全を確保し、母国へ」 外国人観光客の広域避難や帰国支援 国と自治体が連携した研究会が発足、初会合",
@@ -352,6 +352,14 @@
    "published_iso": "2026-07-02T08:00:00+00:00"
   },
   {
+   "title": "米政府、1万人超の移民を5日間で拘束 年初の2倍…背景に「ホワイトハウスの意向」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QUm9uQVYydnYzV1hNTVRfRnZPNlRUd1J1N3N2UmJwRm9IZ1pKTUxZX25lcVRPeEoxbFNxWU9fOWxXTEhIQ3UzMEZtc0owa0t2YTk4MTdCdGprNUp4SngtOEJEOHhBWFRlVW8xV01LOFl3cWFPTWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-02 16:28",
+   "published_iso": "2026-07-02T07:28:42+00:00"
+  },
+  {
    "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
    "source": "日テレNEWS NNN",
@@ -376,6 +384,14 @@
    "published_iso": "2026-07-02T05:32:00+00:00"
   },
   {
+   "title": "富士山 山開きで軽装外国人も 防寒着なしゲート通行拒否 初の電子決済も導入",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLbTFDUy10SG9uLUtldzZyVWc3aGFBRzJfanZaamxPVXlMWGZDTFpwWklTNkRxcE5uVlZKLTFYQlZtYnJyUUt3SmhEMzBtNU1TZE01elhCUTBJNDI4WGUxbnNERTg3M0QtSjhqZWh0ZFFjZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-02 12:39",
+   "published_iso": "2026-07-02T03:39:00+00:00"
+  },
+  {
    "title": "深刻な人手不足が続くバス業界 広がる外国人運転士導入の動き [栃木県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fREIxQU5QUXNpaGU3dG9jd3lhRy1zNHVtc3pRdXNGcmZsQkNMN1hRSGR3MlE3eVVId1NOQlhxbnBKbzdPUDBIS19pMHJ2TnhMeUJhamF4eTNjYWFDMFdzdzlkMDRmRW8?oc=5",
    "source": "朝日新聞",
@@ -390,22 +406,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-02 10:22",
    "published_iso": "2026-07-02T01:22:18+00:00"
-  },
-  {
-   "title": "介護現場で日本語支援に力 愛知県東郷町の特養、技能実習生受け入れ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WaXV0X1p6NVBuOFFLeVVVVE1vRmoxLWgzcGJTbzB1al8tb0w2Ui1vYkpBT1kzMmdoa2twN1d2Y19QaUhXbFFDdk42Rk83clhSci1tLQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-02 05:05",
-   "published_iso": "2026-07-01T20:05:00+00:00"
-  },
-  {
-   "title": "特定技能上限「安易に引き上げるべからず」有識者会議座長の日本総研・高橋氏",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMTUZMMzRKRlV3cmQyVndESEJwelFIdnV2RDhCZ2FIVlBZLWNRWmVOTzBYRE52REFpZlc4SW5Bd0FFbUo3ZW5TbDlKODkyX3ljRG52RGtIYmRkZDFuRUlHZ0pFLWN5S1U?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-02 05:00",
-   "published_iso": "2026-07-01T20:00:00+00:00"
   }
  ]
 }
