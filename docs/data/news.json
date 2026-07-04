@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T00:02:53+00:00",
+ "generated_at": "2026-07-04T04:33:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,52 @@
  ],
  "items": [
   {
-   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-04 08:28",
-   "published_iso": "2026-07-03T23:28:33+00:00"
+   "title": "福井市が観光パンフリニューアル 四季折々の景色 外国人向けＰＲ ：日刊県民福井Web",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zc1g3TXhLcm95UXQ2SmRWcjgtRUdTeTlyejBzaFJrakotRWRKdzNiNE8xM1JINTlnbHFCc2xxeC1sRnJYcnlUdms1QTZmaHVNRnk0Q2dlaDdZaVhFY0NHWDd2Y3Q?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-04 11:38",
+   "published_iso": "2026-07-04T02:38:01+00:00"
+  },
+  {
+   "title": "生きる力を教わり「異国飯」伝道 「傍らのひと」（９）移民の飲食店にカレー食器提供",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xYWVWRDhxemxFa3lvczJBbzMwZl9ia2tOVVJZX3NjMzVGSXRlU2liWGtGWkVZRkJ1UmhPYlJEMzVVM3ZNa0QtNFhPZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-04 11:00",
+   "published_iso": "2026-07-04T02:00:00+00:00"
+  },
+  {
+   "title": "6月交流会を開催しました｜外国人と学ぶ、日本で働くために知っておきたい仕事のルール",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aY2ktd1BMRE1NWTA2RU9ud0I3REJzUkhJM1FES0c4aGZla1hEUjFDZUI5Ukc0TGtvcnBNVlpfWV9Bc05UbUppUzkwazBGbVFEU3ZnY3U2cV9mUUlRYmFSNFNTak51OXJSQzRJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-04 10:10",
+   "published_iso": "2026-07-04T01:10:00+00:00"
+  },
+  {
+   "title": "人手不足なのになぜ？外食業界で働く外国人「特定技能1号」の新規受け入れ停止 病院・介護施設の調理現場にも打撃「1人1.5倍の力で働いてもらっている」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JX2NCV3pJd0N1YUlKcnhtSC1zUGdDbG9aT1Jzb2pOcks5ZFVWTDdtcHNqQ3kwazI2MERRVkx5RnhNaHpCMGhoWXdLazBBY1N2bWhqalFZOEtzQUpBN2JUWEJIZFVqaTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-04 10:00",
+   "published_iso": "2026-07-04T01:00:00+00:00"
+  },
+  {
+   "title": "「山岳遭難者」過去最多の要因は“外国人による遭難”だけではない…データから浮かび上がる「20代」「携帯電話」と「クマ」の影響",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHQUtrS1FkNGVFdlBWUlhjWjlkVlJsZF9odDE0Q1l1c1k0eFV2VXZPdWlycWtCV0JjQWhoQ1p5ZElYSzljOUJtMzJWdDBRUk16?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-07-04 10:00",
+   "published_iso": "2026-07-04T01:00:00+00:00"
+  },
+  {
+   "title": "午前2時の地下鉄、週末の街角 ニューヨークで出会った移民のリアル",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRlJ2RVJjbThzU0EzQjVKUzdMXzhCYWVaN0ppUTdlQmFIWFF1ZlZ2cDg5dHpJQUlRd3FERV9lamZDcmxKVXJXcDAxMVM0bEthc0RGbEFQQ3FEVzFudEJjTWFfQVBVRXM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-04 08:00",
+   "published_iso": "2026-07-03T23:00:00+00:00"
   },
   {
    "title": "在留手数料「爆上げ」案、国際比較をしても高い…「目先の票集め」「日本に来たい人減る」批判",
@@ -32,16 +72,16 @@
    "published_iso": "2026-07-03T20:01:00+00:00"
   },
   {
-   "title": "山形：外国人対応通訳が一役 天童署巡査部長 ベトナム語で早期解決 県警「民間通訳人」募集 ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZEw3VmJrRDNtZlNGS2tXTjV0aDFLeVV4Y3RwRFVwelFYcnoxbGZ4MzUtYnBLNldpYkItNE5ZbWNNWVNuMVZqN2VqbjAwaFNBeUVsY09XQkRhSmVMdU1vRk5wTG9PcUt3YUlLNUhxODFrVUpO?oc=5",
+   "title": "リチウムイオン電池の火災急増、外国人観光客が多いホテルでも…被害減らせる簡単なコツは「リチウムカンカン」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42YlhKZmpKTkM1RVhObzZMejdoekw0ZGhzVjJVX21INjJRUGxCZFRNZmdoM09NNzd4VXA4R0JGaE1seUo1ZE5jSTJ0WmF6VjJfMXpoNkhjWlgteWY4bFpvUUFQSWh1dEFHQUJZeE9ZWFludw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-04 05:00",
    "published_iso": "2026-07-03T20:00:00+00:00"
   },
   {
-   "title": "リチウムイオン電池の火災急増、外国人観光客が多いホテルでも…被害減らせる簡単なコツは「リチウムカンカン」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42YlhKZmpKTkM1RVhObzZMejdoekw0ZGhzVjJVX21INjJRUGxCZFRNZmdoM09NNzd4VXA4R0JGaE1seUo1ZE5jSTJ0WmF6VjJfMXpoNkhjWlgteWY4bFpvUUFQSWh1dEFHQUJZeE9ZWFludw?oc=5",
+   "title": "山形：外国人対応通訳が一役 天童署巡査部長 ベトナム語で早期解決 県警「民間通訳人」募集 ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UZEw3VmJrRDNtZlNGS2tXTjV0aDFLeVV4Y3RwRFVwelFYcnoxbGZ4MzUtYnBLNldpYkItNE5ZbWNNWVNuMVZqN2VqbjAwaFNBeUVsY09XQkRhSmVMdU1vRk5wTG9PcUt3YUlLNUhxODFrVUpO?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-04 05:00",
@@ -56,14 +96,6 @@
    "published_iso": "2026-07-03T20:00:00+00:00"
   },
   {
-   "title": "6月交流会を開催しました｜外国人と学ぶ、日本で働くために知っておきたい仕事のルール",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aY2ktd1BMRE1NWTA2RU9ud0I3REJzUkhJM1FES0c4aGZla1hEUjFDZUI5Ukc0TGtvcnBNVlpfWV9Bc05UbUppUzkwazBGbVFEU3ZnY3U2cV9mUUlRYmFSNFNTak51OXJSQzRJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-04 04:10",
-   "published_iso": "2026-07-03T19:10:00+00:00"
-  },
-  {
    "title": "２５０年の現在地・米国の歩みと今後：移民増加「いずれ白人は5割以下」 米成長の原動力に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xUXpJVVdmLWh1TFZMUUFGbkFlZFhZMTFOdE5kd2JvWnVBY0VXeFdXckhuZFpfRDgxcGdzWUVsVXhaZV9CaHJZaFJiMzlhTDJ3QU11eVNPWG9UNWZnY3pFUFlqSmk3cXct?oc=5",
    "source": "毎日新聞",
@@ -72,7 +104,7 @@
    "published_iso": "2026-07-03T17:02:15+00:00"
   },
   {
-   "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体 懸念",
+   "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体、懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYjdqVjZERkdNLWRyY3Q1S2c4UnJWMHp6dkExMGVDbWVnVWFRaHA0a2gwd0xXNjAzY3lxdmpzWjBWZmRycy1WMDRxNmN4Y3BURFBjaVBmVWZlalJOSTVvRGdDXzNwNjJ4?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
@@ -102,6 +134,14 @@
    "source_domain": "kahoku.news",
    "published": "2026-07-03 20:57",
    "published_iso": "2026-07-03T11:57:00+00:00"
+  },
+  {
+   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 20:45",
+   "published_iso": "2026-07-03T11:45:04+00:00"
   },
   {
    "title": "在留手続き手数料、入管庁が改定案を発表 大幅引き上げに「高すぎ」「在留資格を失う」と懸念の声",
@@ -152,9 +192,9 @@
    "published_iso": "2026-07-03T09:37:33+00:00"
   },
   {
-   "title": "Almost 1.2 mn apply for Spain's migrant regularisation",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xM25GNVczX2dGb0tBNGwyZkVGaTRmWGdaMjNLYmNkUHY3VktVZE5kcWhjbHg3ZEwxZGVxQmpsOVZHTXk3b19YdTlMbTRpbW5URFE?oc=5",
-   "source": "時事通信ニュース",
+   "title": "スペイン不法移民合法化、合計１１７万人が申請 多数が若年層",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYk1JNXpiemJqbkpTdTdSWFc1cWtrTC1pRlF2OTIxeDYyMEg1T1dSSVoySEZtR3Zua3duNG9sNUF3UHQtOFJfTTNEc1d5SVNGTkhpS2piLVZCRk5NRlZ4NEZoQ0ltdlFadkRhTWxyUVA0X2twemUwRF9xazA1aVk?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-03 17:30",
    "published_iso": "2026-07-03T08:30:00+00:00"
@@ -168,36 +208,12 @@
    "published_iso": "2026-07-03T07:21:41+00:00"
   },
   {
-   "title": "在留手数料の値上げ、減額対象は限定的 難民申請者への配慮求める声",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5cV82aEVTSlJncGFBWVpoc1FuSHZKc3Q4MDRsQXVpZkludDdIQlJhWjlMaWRJZ1NoZ18xdnVhd09OSm1hS1FYZlczVnZISlhRV3JHc0ttOElMcjF5SFJPQVpPRml3UWc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-03 16:00",
-   "published_iso": "2026-07-03T07:00:00+00:00"
-  },
-  {
-   "title": "スタバやタリーズ、大手カフェ北海道出店加速 再開発と外国人観光客増で",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MTBadVd6RU5wZDFoaWRUSWxiYURzNnJuLXJ4bzBxeVZzcGVQRVJ0UGNHRk1wX3FMTkUtcUpLaURPQ1lDOVQ2UlFLUldiLUlDb2hab0JYTEJ6dw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-03 13:00",
-   "published_iso": "2026-07-03T04:00:00+00:00"
-  },
-  {
    "title": "永住許可は20万円…在留許可手数料“大幅引き上げ”案明らかに 入管庁（2026年7月2日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadjVJWEpDUDFubnpQbGg5UG9RQm85eGRhcG9xVVd3aGlLSXVWd3VPSEN1MlRNTXd2VHdMV1pWZ2NYSVZjVEtCVUdJRTdSZ0V6UFNqQmp4TThqMGJFYjJmV2RqN180LVBlbFlfSFZPR2xpUjZXM3RhTl9JUG8?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 11:48",
    "published_iso": "2026-07-03T02:48:00+00:00"
-  },
-  {
-   "title": "外国人の「永住許可」20万円に 申請手数料20倍へ 10月施行目指す 増収分は日本語教育などに",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxX1pkTlItdU9OSl9PbnpNV0htbnpkWlhsbnFZRGNoLUVTMXhKOGhERU9zeDFLZUZUa3d6Nmk1OVJZRTRRUUhyZUNtaVd0dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-03 11:35",
-   "published_iso": "2026-07-03T02:35:00+00:00"
   },
   {
    "title": "外国人の在留手数料、最大７万５千円に引き上げ 永住許可は１万円から２０万円に増額―政府改定案・１０月施行方針",
@@ -270,6 +286,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-03 10:07",
    "published_iso": "2026-07-03T01:07:00+00:00"
+  },
+  {
+   "title": "県在住外国人の視点でインバウンド課題発見 福井JCがナイトウォーク",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CMHNhcWxCVVpIOVNUUmVxSWpmMzB4WnhwYkxNVm13M0xLSlhvNWktNkx6VDU3OFItWklEMW5NWDJSYW0wSFdYdXpsRUF2Z2tKQ2oyUmk4Zzl5ZlFHdXprbHN3?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-03 05:05",
+   "published_iso": "2026-07-02T20:05:00+00:00"
   },
   {
    "title": "（私の視点）在留審査の手数料引き上げ 外国人、生活より不安定に 金光敏",
@@ -368,14 +392,6 @@
    "published_iso": "2026-07-02T05:32:00+00:00"
   },
   {
-   "title": "Zenken 、インド政府主催の 人的資源モビリティ・フォーラム 」に登壇",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbkV5QTVmQ1YxQndXSUN0eWhtVU9tS3hEWnZOVUZ2ajNEQmJYNWg3NTItcmltTjhOU3JSdzZhWVBqWTl1MDRZS2dWblNmOC1sU19YUjNRcXh5bE9teHRDOXdZMnlnbzVGNVE?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-02 13:30",
-   "published_iso": "2026-07-02T04:30:00+00:00"
-  },
-  {
    "title": "地域から考える難民支援セミナー ― 自治体施策・教育活動に活かす視点と事例 ―",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGd1E0aGxPaXFQaGV1QVg1U0ltLXhnSkc5MllTa2pZdkZIaUYtZWhsSkZ4VUQzOFNMeU5IRHVHNVU0c0RQOVZMT0ZVcTVLbV9sRnZVbkRYMWR0U0dqOEhGcjNJUGdwVXk4Vlg5TFFfZTBOVjVOaE9pbk9yVQ?oc=5",
    "source": "産経ニュース",
@@ -390,22 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-02 13:00",
    "published_iso": "2026-07-02T04:00:00+00:00"
-  },
-  {
-   "title": "富士山 山開きで軽装外国人も 防寒着なしゲート通行拒否 初の電子決済も導入",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLbTFDUy10SG9uLUtldzZyVWc3aGFBRzJfanZaamxPVXlMWGZDTFpwWklTNkRxcE5uVlZKLTFYQlZtYnJyUUt3SmhEMzBtNU1TZE01elhCUTBJNDI4WGUxbnNERTg3M0QtSjhqZWh0ZFFjZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-02 12:39",
-   "published_iso": "2026-07-02T03:39:00+00:00"
-  },
-  {
-   "title": "深刻な人手不足が続くバス業界 広がる外国人運転士導入の動き [栃木県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fREIxQU5QUXNpaGU3dG9jd3lhRy1zNHVtc3pRdXNGcmZsQkNMN1hRSGR3MlE3eVVId1NOQlhxbnBKbzdPUDBIS19pMHJ2TnhMeUJhamF4eTNjYWFDMFdzdzlkMDRmRW8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-02 11:30",
-   "published_iso": "2026-07-02T02:30:00+00:00"
   }
  ]
 }
