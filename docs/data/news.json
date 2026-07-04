@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T12:05:53+00:00",
+ "generated_at": "2026-07-04T14:27:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "ローマ教皇が米建国250年に合わせイタリア移民の島でミサ 「偉大な国の息子」と強調",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iNm1zYW53WFBoaC1tNTgzaGMxV1o4ZUJ1c3F0bkNPZTZ4TEpnaGlLOG5GX2phSmx3T3ZlMU9EQURVd0dWZWpBby1EQ1VRQ0tMYllhUWRHTUNaQUxRcVBJSTFHWUhrcHllb1dyR2U2VXF0d2k2aXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-04 19:52",
-   "published_iso": "2026-07-04T10:52:55+00:00"
-  },
   {
    "title": "「けがをした外国人女性が来ている」台湾の公務員の52歳女性を県警ヘリで救助 北アルプス大天井岳から槍ヶ岳方面に向かっていたところ転倒 右足の骨折で重傷",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PRnFmSDY2Zk5welZubzhlSG55ZVc1Y25nTVhra1VXUjJRQnNVb2NaME1GMFp5SXBmQVpxdW9RSmlZQkl2VGc1bjFJLUZidw?oc=5",
@@ -256,14 +248,6 @@
    "published_iso": "2026-07-03T02:48:00+00:00"
   },
   {
-   "title": "外国人の「永住許可」20万円に 申請手数料20倍へ 10月施行目指す 増収分は日本語教育などに",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxX1pkTlItdU9OSl9PbnpNV0htbnpkWlhsbnFZRGNoLUVTMXhKOGhERU9zeDFLZUZUa3d6Nmk1OVJZRTRRUUhyZUNtaVd0dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-03 11:35",
-   "published_iso": "2026-07-03T02:35:00+00:00"
-  },
-  {
    "title": "外国人の在留手数料、最大７万５千円に引き上げ 永住許可は１万円から２０万円に増額―政府改定案・１０月施行方針",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeTRXelNPR1dIZVVqSFVLOEdJd3lGUnh4aXZaN0FsVFdJcU8yYzdEcS1kejh5VmZqM1RHRTRUMS1JSmRzbFc3VUtOQnVZVGRRZ2EydWEtZl96cV80Zkp6azZZcw?oc=5",
    "source": "時事ドットコム",
@@ -337,7 +321,7 @@
   },
   {
    "title": "県在住外国人の視点でインバウンド課題発見 福井JCがナイトウォーク",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CMHNhcWxCVVpIOVNUUmVxSWpmMzB4WnhwYkxNVm13M0xLSlhvNWktNkx6VDU3OFItWklEMW5NWDJSYW0wSFdYdXpsRUF2Z2tKQ2oyUmk4Zzl5ZlFHdXprbHN3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83czlrWGU2cE15X0NJRk1WQlFCbWZ5X3d3Y2NZNW5jOUZqRGUxOUVHNjhaY1diOFdIUlIybXJlUlo1NW5QZTJFekswdXRnMlozZWxaUg?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-03 05:05",
@@ -377,7 +361,7 @@
   },
   {
    "title": "「安全を確保し、母国へ」 外国人観光客の広域避難や帰国支援 国と自治体が連携した研究会が発足、初会合",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ia09CSXJjTWd2WjVoaWt3SHZzNTh2SHlKWUtNNmtFSzZUZGpsQmoybGY3R0FoYllMZllKWU1Zb1Bmei03ZlVNcGpBbUp4Ujd6dXlNYUpqdDg1QQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTZFl1YVhqZFdHVVdQdDNSb25LTlUyUzlhbEswT1Fxb1puRjFNVzRsdF9nWUtJT0Jhd0dHWFlnWGhMdWFXNlV3Mkd3LUE1RlZ0VXNzT1ZVNE9EaTRxNWE5NHlTYW1MdFk?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-02 18:35",
@@ -406,6 +390,22 @@
    "source_domain": "sankei.com",
    "published": "2026-07-02 16:28",
    "published_iso": "2026-07-02T07:28:42+00:00"
+  },
+  {
+   "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-02 16:26",
+   "published_iso": "2026-07-02T07:26:00+00:00"
+  },
+  {
+   "title": "外国人技能実習生の監理団体の職員ら3人を逮捕 禁止区域でタイ古式マッサージなど掲げて性的サービスを提供か 4年で1億3680万円売り上げか 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XSnV1OUo5TmVuVm5YOUMxbW9ELVBYb0hTUVFRakVBdGUwNUlFaGNvZVJYQUdqN0ZXSktUZjdQcHlaSkZ3d19EbWFIVDdqeXhXb1hPN3lGNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-02 16:04",
+   "published_iso": "2026-07-02T07:04:32+00:00"
   }
  ]
 }
