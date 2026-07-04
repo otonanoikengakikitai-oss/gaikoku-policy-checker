@@ -1,0 +1,59 @@
+{
+ "generated_at": "2026-07-04T11:18:38+00:00",
+ "government": "山梨県",
+ "basis_note": "山梨県の外国人特化予算（財政課「当初予算の概要」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業3件）。一般会計総額は概要の「532,117,350（R8）511,543,169（R7）104.0%」の前年併記連結（予算書第1条532,117,350千円とも一致の二重証跡）。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
+ "trend_note": "山梨県の外国人特化予算（令和8年度・確認可能分）は約3,800万円で、外国人材の確保・定着（2,573万円・実態調査を含む新規拡充）が中心。県一般会計（5,321億円）の約0.007%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
+ "latest": 2026,
+ "years": [
+  {
+   "fiscal_year": 2026,
+   "fiscal_year_label": "令和8年度",
+   "source": {
+    "label": "山梨県 令和8年度当初予算の概要",
+    "url": "https://www.pref.yamanashi.jp/documents/6018/02_tousyonogaiyou_1.pdf"
+   },
+   "items": [
+    {
+     "name": "外国人材確保・定着支援事業費",
+     "bureau": "産業労働部等",
+     "category": "外国人材",
+     "amount_yen": 25733000,
+     "amount_label": "2,573万3千円",
+     "source_url": "https://www.pref.yamanashi.jp/documents/6018/02_tousyonogaiyou_1.pdf",
+     "desc": "外国人材確保（新規13,000千円）・外国人活躍企業支援補助金（4,000千円）・外国人雇用・生活実態調査（新規8,733千円）。"
+    },
+    {
+     "name": "外国人留学生支援強化事業費補助金",
+     "bureau": "県民生活部等",
+     "category": "外国人材",
+     "amount_yen": 9960000,
+     "amount_label": "996万円",
+     "source_url": "https://www.pref.yamanashi.jp/documents/6018/02_tousyonogaiyou_1.pdf",
+     "desc": "外国人留学生への支援強化（令和8年度新規）。"
+    },
+    {
+     "name": "帰国・外国人児童生徒等教育推進支援事業費",
+     "bureau": "教育委員会",
+     "category": "日本語教育",
+     "amount_yen": 2485000,
+     "amount_label": "248万5千円",
+     "source_url": "https://www.pref.yamanashi.jp/documents/6018/02_tousyonogaiyou_1.pdf",
+     "desc": "帰国・外国人児童生徒等への教育推進支援（令和8年度新規）。"
+    }
+   ],
+   "foreign_total_yen": 38178000,
+   "general_account": {
+    "amount_yen": 532117350000,
+    "amount_label": "5,321億1,735万円",
+    "label": "令和8年度 一般会計 当初予算",
+    "source": {
+     "label": "山梨県 令和8年度当初予算の概要",
+     "url": "https://www.pref.yamanashi.jp/documents/6018/02_tousyonogaiyou_1.pdf"
+    }
+   },
+   "contrast_pct": 0.0072,
+   "population": null
+  }
+ ],
+ "ga_history": []
+}

@@ -16,6 +16,7 @@ import json
 import re
 import sys
 import unicodedata
+import urllib.error
 import urllib.request
 from pathlib import Path
 from urllib.parse import urlparse
@@ -31,6 +32,7 @@ import hiroshima_def
 import hokkaido_def
 import hyogo_def
 import kagawa_def
+import kagoshima_def
 import kanagawa_def
 import kyoto_def
 import chiba_def
@@ -45,11 +47,15 @@ import kochi_def
 import kumamoto_def
 import mie_def
 import miyagi_def
+import miyazaki_def
 import nara_def
 import niigata_def
+import saga_def
 import shiga_def
 import shimane_def
 import nagano_def
+import nagasaki_def
+import oita_def
 import okayama_def
 import okinawa_def
 import tochigi_def
@@ -59,10 +65,11 @@ import toyama_def
 import wakayama_def
 import yamagata_def
 import yamaguchi_def
+import yamanashi_def
 import shizuoka_def
 from common import CACHE_DIR, BROWSER_UA, UA, _CTX, http_get_raw
 
-DEFS = [hokkaido_def, aomori_def, iwate_def, akita_def, yamagata_def, miyagi_def, fukushima_def, ibaraki_def, tochigi_def, gunma_def, chiba_def, niigata_def, toyama_def, ishikawa_def, fukui_def, nagano_def, gifu_def, shizuoka_def, aichi_def, mie_def, shiga_def, nara_def, wakayama_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, tottori_def, shimane_def, yamaguchi_def, ehime_def, kagawa_def, tokushima_def, kochi_def, kumamoto_def, okinawa_def]
+DEFS = [hokkaido_def, aomori_def, iwate_def, akita_def, yamagata_def, miyagi_def, fukushima_def, ibaraki_def, tochigi_def, gunma_def, chiba_def, niigata_def, toyama_def, ishikawa_def, fukui_def, yamanashi_def, nagano_def, gifu_def, shizuoka_def, aichi_def, mie_def, shiga_def, nara_def, wakayama_def, fukuoka_def, kanagawa_def, kyoto_def, hyogo_def, hiroshima_def, okayama_def, tottori_def, shimane_def, yamaguchi_def, ehime_def, kagawa_def, tokushima_def, kochi_def, saga_def, nagasaki_def, oita_def, miyazaki_def, kagoshima_def, kumamoto_def, okinawa_def]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "docs" / "data"
 ALLOWED_SUFFIXES = (".go.jp", ".lg.jp")
@@ -82,6 +89,10 @@ EXTRA_ALLOWED_HOSTS = (
     "www.pref.toyama.jp", "pref.toyama.jp",
     "www.pref.iwate.jp", "pref.iwate.jp",
     "www.pref.yamagata.jp", "pref.yamagata.jp",
+    "www.pref.yamanashi.jp", "pref.yamanashi.jp",
+    "www.pref.nagasaki.jp", "pref.nagasaki.jp",
+    "www.pref.oita.jp", "pref.oita.jp",
+    "www.pref.kagoshima.jp", "pref.kagoshima.jp",
 )
 
 _DOC_CACHE = {}  # url -> 正規化テキスト（同一文書の重複取得を回避）
@@ -111,15 +122,31 @@ def fetch_doc(url, doc_type="pdf"):
         CACHE_DIR.mkdir(parents=True, exist_ok=True)
         dest = CACHE_DIR / ("pref_" + re.sub(r"\W+", "_", url)[-52:] + ".pdf")
         last = None
+        # 一部自治体サイト（例: 大分県）は中間証明書の不備でSSL検証に失敗するため、
+        # 検証失敗時のみ検証無効コンテキストでリトライ（真正性は公式ドメイン限定と証跡照合で担保）
+        _noverify = None
         for ua in (UA, BROWSER_UA):
-            try:
-                req = urllib.request.Request(url, headers={"User-Agent": ua})
-                with urllib.request.urlopen(req, timeout=120, context=_CTX) as r:
-                    dest.write_bytes(r.read())
+            for ctx in (_CTX, "noverify"):
+                if ctx == "noverify":
+                    if not isinstance(last, urllib.error.URLError) or "CERTIFICATE_VERIFY" not in str(last):
+                        continue
+                    if _noverify is None:
+                        import ssl as _ssl
+                        _noverify = _ssl.create_default_context()
+                        _noverify.check_hostname = False
+                        _noverify.verify_mode = _ssl.CERT_NONE
+                    ctx = _noverify
+                try:
+                    req = urllib.request.Request(url, headers={"User-Agent": ua})
+                    with urllib.request.urlopen(req, timeout=120, context=ctx) as r:
+                        dest.write_bytes(r.read())
+                    last = "OK"
+                    break
+                except Exception as e:  # noqa: BLE001
+                    last = e
+            if last == "OK":
                 break
-            except Exception as e:  # noqa: BLE001
-                last = e
-        else:
+        if last != "OK":
             raise RuntimeError(f"PDF取得失敗: {url}: {last}")
         with pdfplumber.open(dest) as pdf:
             result = _norm("\n".join((p.extract_text() or "") for p in pdf.pages))
@@ -307,8 +334,16 @@ def build_def(mod):
 
 
 def run():
+    failed = []
     for mod in DEFS:
-        build_def(mod)
+        try:
+            build_def(mod)
+        except SystemExit:
+            # 1県の障害で全体を止めない（生成可能な県はすべて生成し、最後に失敗として報告）
+            failed.append(mod.GOVERNMENT)
+    if failed:
+        print(f"エラー: 生成失敗の自治体: {'、'.join(failed)}", file=sys.stderr)
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
