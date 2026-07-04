@@ -1,10 +1,54 @@
 {
- "generated_at": "2026-07-04T11:24:59+00:00",
+ "generated_at": "2026-07-04T14:07:48+00:00",
  "government": "愛媛県",
  "basis_note": "愛媛県の外国人特化予算（財政課「当初予算（案）の部局別事業一覧」に課名・事業名・金額が明記され、番号＋課＋当年額＋前年額の連結証跡で検証を通過した外国人特化事業）。令和5・6年度の部局別事業一覧PDFはCIDフォントで機械照合ができないため、捏造防止の運用方針（照合できない数値は掲載しない）に従い令和7・8年度のみ収録（一般会計総額は4年分収録）。産業人材課の外国人材県内定着・共生推進事業費と高度外国人材受入促進事業費（計1.26億円）は令和8年度資料で確認できず終了・再編とみられる。観光インバウンド系（外国人観光客誘致等）は含まない。金額は千円単位。",
  "trend_note": "愛媛県の外国人特化予算は令和7年度に外国人材の県内定着・共生推進（6,468万円）や高度外国人材受入促進（6,141万円）等の新規立ち上げで約2.2億円となったが、令和8年度はこれらの単年事業終了により約9,700万円となった。継続の中心は外国人介護人材の受入・定着・マッチング支援（約7,900万円）と外国人相談・日本語教育で、県一般会計（7,800億円規模）の約0.012%。『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
  "latest": 2026,
  "years": [
+  {
+   "fiscal_year": 2023,
+   "fiscal_year_label": "令和5年度",
+   "source": {
+    "label": "愛媛県 令和5年度当初予算（案）の概要（計数資料編）",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/48702.pdf"
+   },
+   "items": [],
+   "foreign_total_yen": 0,
+   "general_account": {
+    "amount_yen": 706930000000,
+    "amount_label": "7,069億3,000万円",
+    "label": "令和5年度 一般会計 当初予算",
+    "source": {
+     "label": "愛媛県 令和5年度当初予算（案）の概要（計数資料編）",
+     "url": "https://www.pref.ehime.jp/uploaded/attachment/48702.pdf"
+    }
+   },
+   "contrast_pct": 0.0,
+   "population": null,
+   "empty_note": "※令和5年度は部局別事業一覧PDFがCIDフォント（機械照合不能）のため事業は未収録（一般会計総額のみ収録）。"
+  },
+  {
+   "fiscal_year": 2024,
+   "fiscal_year_label": "令和6年度",
+   "source": {
+    "label": "愛媛県 令和6年度当初予算（案）の概要（計数資料編）",
+    "url": "https://www.pref.ehime.jp/uploaded/attachment/102545.pdf"
+   },
+   "items": [],
+   "foreign_total_yen": 0,
+   "general_account": {
+    "amount_yen": 728300000000,
+    "amount_label": "7,283億円",
+    "label": "令和6年度 一般会計 当初予算",
+    "source": {
+     "label": "愛媛県 令和6年度当初予算（案）の概要（計数資料編）",
+     "url": "https://www.pref.ehime.jp/uploaded/attachment/102545.pdf"
+    }
+   },
+   "contrast_pct": 0.0,
+   "population": null,
+   "empty_note": "※令和6年度は部局別事業一覧PDFがCIDフォント（機械照合不能）のため事業は未収録（一般会計総額のみ収録）。"
+  },
   {
    "fiscal_year": 2025,
    "fiscal_year_label": "令和7年度",

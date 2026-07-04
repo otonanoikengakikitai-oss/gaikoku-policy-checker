@@ -20,6 +20,20 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2026,
+        "fiscal_year_label": "令和8年度",
+        "source": _DOCS["GAIYO8"],
+        "items": [],
+        "empty_note": '※令和8年度は主要事項一覧・概要に外国人特化事業の金額記載が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 547066000000,
+            "amount_label": "5,470億6,600万円",
+            "evidence": '一般会計:5,470億66百万円(対前年度当初比340億45百万円増)',
+            "label": "令和8年度 一般会計 当初予算",
+            "source": _DOCS["GAIYO8"],
+        },
+    },
+    {
         "fiscal_year": 2025,
         "fiscal_year_label": "令和7年度",
         "source": _DOCS["SHUYO"],

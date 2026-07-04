@@ -19,6 +19,18 @@ def _item(name, name_ev, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": {"label": "和歌山県 令和6年度当初予算の概要", "url": "https://www.pref.wakayama.lg.jp/prefg/010400/d00215992_d/fil/gaiyou.pdf"},
+        "items": [], "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 604900000000, "amount_label": "6,049億円",
+            "evidence": '6,049億円(前年度▲89億円)で過去3番目の規模', "label": "令和6年度 一般会計 当初予算", "source": {"label": "和歌山県 令和6年度当初予算の概要", "url": "https://www.pref.wakayama.lg.jp/prefg/010400/d00215992_d/fil/gaiyou.pdf"}},
+    },
+    {
+        "fiscal_year": 2025, "fiscal_year_label": "令和7年度", "source": {"label": "和歌山県 令和7年度予算の概要（全体版）", "url": "https://www.pref.wakayama.lg.jp/prefg/010400/d00219362_d/fil/01.pdf"},
+        "items": [], "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 613800000000, "amount_label": "6,138億円",
+            "evidence": '(55.3%)6,138億円', "label": "令和7年度 一般会計 当初予算", "source": {"label": "和歌山県 令和7年度予算の概要（全体版）", "url": "https://www.pref.wakayama.lg.jp/prefg/010400/d00219362_d/fil/01.pdf"}},
+    },
+    {
         "fiscal_year": 2026, "fiscal_year_label": "令和8年度", "source": _HOJOKIN,
         "items": [
             _item("和歌山県外国人材が安心して働ける環境整備事業補助金", "外国人材が安心して働ける", "外国人材", "商工労働部 労働政策課", 5000000,

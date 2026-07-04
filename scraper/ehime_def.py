@@ -37,6 +37,18 @@ def _item(doc, name, name_ev, cat, bureau, yen, amount_ev, desc, prev=None):
 
 YEARS = [
     {
+        "fiscal_year": 2023, "fiscal_year_label": "令和5年度", "source": _KEISU[2023],
+        "items": [], "empty_note": '※令和5年度は部局別事業一覧PDFがCIDフォント（機械照合不能）のため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 706930000000, "amount_label": "7,069億3,000万円",
+            "evidence": '一般会計7,069億3,000万円7,032億8,000万円36億5,000万円', "label": "令和5年度 一般会計 当初予算", "source": _KEISU[2023]},
+    },
+    {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": _KEISU[2024],
+        "items": [], "empty_note": '※令和6年度は部局別事業一覧PDFがCIDフォント（機械照合不能）のため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 728300000000, "amount_label": "7,283億円",
+            "evidence": '一般会計7,283億円7,069億3,000万円213億7,000万円', "label": "令和6年度 一般会計 当初予算", "source": _KEISU[2024]},
+    },
+    {
         "fiscal_year": 2025,
         "fiscal_year_label": "令和7年度",
         "source": _BUKYOKU_R7,

@@ -19,6 +19,32 @@ def _item(name, name_ev, dockey, cat, bureau, yen, ev, desc):
 
 YEARS = [
     {
+        "fiscal_year": 2023, "fiscal_year_label": "令和5年度", "source": {"label": "山形県 令和6年度一般会計当初予算の概要", "url": "https://www.pref.yamagata.jp/documents/38672/r6toushogaiyou.pdf"},
+        "items": [], "empty_note": '※令和5年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 681573000000, "amount_label": "6,815億7,300万円",
+            "evidence": '1予算規模649,783百万円(△31,790百万円)(△4.7%)681,573百万円', "label": "令和5年度 一般会計 当初予算", "source": {"label": "山形県 令和6年度一般会計当初予算の概要", "url": "https://www.pref.yamagata.jp/documents/38672/r6toushogaiyou.pdf"}},
+    },
+    {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": {"label": "山形県 令和6年度一般会計当初予算の概要", "url": "https://www.pref.yamagata.jp/documents/38672/r6toushogaiyou.pdf"},
+        "items": [], "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 649783000000, "amount_label": "6,497億8,300万円",
+            "evidence": '1予算規模649,783百万円(△31,790百万円)(△4.7%)681,573百万円', "label": "令和6年度 一般会計 当初予算", "source": {"label": "山形県 令和6年度一般会計当初予算の概要", "url": "https://www.pref.yamagata.jp/documents/38672/r6toushogaiyou.pdf"}},
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": "令和7年度",
+        "source": _DOCS["KEISU"],
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 675419000000,
+            "amount_label": "6,754億1,900万円",
+            "evidence": '1予算規模700,284百万円(24,865百万円)(3.7%)675,419百万円',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": _DOCS["KEISU"],
+        },
+    },
+    {
         "fiscal_year": 2026,
         "fiscal_year_label": "令和8年度",
         "source": _DOCS["SHUYO"],

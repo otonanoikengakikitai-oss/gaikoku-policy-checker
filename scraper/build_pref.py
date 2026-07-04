@@ -222,7 +222,7 @@ def build_year(gov, y, prev_amounts):
             entry["prev_yen"] = it["prev_yen"]
             entry["delta_yen"] = it["amount_yen"] - it["prev_yen"]
         items.append(entry)
-    if not items:
+    if not items and not y.get("empty_note"):
         print(f"  警告: {gov} {y['fiscal_year_label']} は検証通過事業0件のためスキップ", file=sys.stderr)
         return None
 
@@ -261,8 +261,11 @@ def build_year(gov, y, prev_amounts):
         except RuntimeError as e:
             print(f"  警告: {gov} {y['fiscal_year_label']} の人口統計取得失敗: {e}", file=sys.stderr)
 
+    if not items and not general:
+        print(f"  警告: {gov} {y['fiscal_year_label']} は空年度だが一般会計の証跡が無いためスキップ", file=sys.stderr)
+        return None
     total = sum(i["amount_yen"] for i in items)
-    return {
+    out = {
         "fiscal_year": y["fiscal_year"],
         "fiscal_year_label": y["fiscal_year_label"],
         "source": src,
@@ -272,6 +275,9 @@ def build_year(gov, y, prev_amounts):
         "contrast_pct": round(total / general["amount_yen"] * 100, 4) if general else None,
         "population": population,
     }
+    if y.get("empty_note"):
+        out["empty_note"] = y["empty_note"]  # 主要資料に外国人特化事業の記載が無い年度（一般会計のみ収録）
+    return out
 
 
 def build_ga_history(mod):

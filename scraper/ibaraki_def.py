@@ -34,6 +34,34 @@ _D_KAIGO = (
 
 YEARS = [
     {
+        "fiscal_year": 2023,
+        "fiscal_year_label": "令和5年度",
+        "source": _SIRYO[2023],
+        "items": [],
+        "empty_note": '※令和5年度の予算案関係資料には外国人施策の金額記載が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 1292194000000,
+            "amount_label": "1兆2,921億9,400万円",
+            "evidence": '一般会計予算案の規模1兆2,921億94百万円(対前年度当初比+0.8%)',
+            "label": "令和5年度 一般会計 当初予算",
+            "source": _SIRYO[2023],
+        },
+    },
+    {
+        "fiscal_year": 2026,
+        "fiscal_year_label": "令和8年度",
+        "source": _SIRYO[2026],
+        "items": [],
+        "empty_note": '※令和8年度の予算案関係資料は外国人施策を文章で記載するのみで金額がないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 1359924000000,
+            "amount_label": "1兆3,599億2,400万円",
+            "evidence": '一般会計予算案の規模1兆3,599億24百万円(対前年度当初比+7.6%)',
+            "label": "令和8年度 一般会計 当初予算",
+            "source": _SIRYO[2026],
+        },
+    },
+    {
         "fiscal_year": 2024,
         "fiscal_year_label": "令和6年度",
         "source": _SIRYO[2025],

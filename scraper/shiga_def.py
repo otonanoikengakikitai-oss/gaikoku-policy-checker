@@ -24,6 +24,18 @@ def _item(name, name_ev, doc, cat, bureau, yen, ev, desc, prev=None):
 
 YEARS = [
     {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": {"label": "滋賀県 令和7年度当初予算案の概要（資料1）", "url": "https://www.pref.shiga.lg.jp/file/attachment/5518746.pdf"},
+        "items": [], "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 614500000000, "amount_label": "6,145億円",
+            "evidence": '一般会計6,462億円6,145億円317億円(5.2%)', "label": "令和6年度 一般会計 当初予算", "source": {"label": "滋賀県 令和7年度当初予算案の概要（資料1）", "url": "https://www.pref.shiga.lg.jp/file/attachment/5518746.pdf"}},
+    },
+    {
+        "fiscal_year": 2025, "fiscal_year_label": "令和7年度", "source": {"label": "滋賀県 令和7年度当初予算案の概要（資料1）", "url": "https://www.pref.shiga.lg.jp/file/attachment/5518746.pdf"},
+        "items": [], "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 646200000000, "amount_label": "6,462億円",
+            "evidence": '一般会計6,462億円6,145億円317億円(5.2%)', "label": "令和7年度 一般会計 当初予算", "source": {"label": "滋賀県 令和7年度当初予算案の概要（資料1）", "url": "https://www.pref.shiga.lg.jp/file/attachment/5518746.pdf"}},
+    },
+    {
         "fiscal_year": 2026, "fiscal_year_label": "令和8年度", "source": _S2,
         "items": [
             _item("外国人材活躍促進事業", "外国人材活躍促進事業", _S2, "外国人材", "商工観光労働部", 73658000,

@@ -259,8 +259,10 @@ def _check_sk_block(errors, prefix, block, ga_key):
         if not host_allowed((y.get("source") or {}).get("url", "")):
             errors.append(f"{prefix}/{yl}: 出典が一次ソースでない")
         items = y.get("items") or []
-        if not items:
-            errors.append(f"{prefix}/{yl}: 事業が0件")
+        if not items and not (y.get("empty_note") or "").strip():
+            errors.append(f"{prefix}/{yl}: 事業が0件（empty_note なし）")
+        if not items and y.get("empty_note") and not (y.get("general_account") or {}).get("amount_yen"):
+            errors.append(f"{prefix}/{yl}: 空年度は一般会計総額が必須")
         s = 0
         for it in items:
             n += 1

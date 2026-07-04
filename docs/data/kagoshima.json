@@ -1,10 +1,32 @@
 {
- "generated_at": "2026-07-04T11:36:55+00:00",
+ "generated_at": "2026-07-04T14:08:49+00:00",
  "government": "鹿児島県",
  "basis_note": "鹿児島県の外国人特化予算（「当初予算（案）の概要」に事業名と金額が明記され、連結証跡で検証を通過した外国人特化事業2件）。観光注意喚起等は含まない。一般会計総額は「920,724（R8）852,734（R7）108.0%」の前年併記連結（百万円）。令和5〜7年度は追加調査で拡張予定のため未収録。金額は千円単位。",
  "trend_note": "鹿児島県の外国人特化予算（令和8年度・確認可能分）は約2,600万円で、外国人材政策推進課による確保総合支援（2,354万円）が中心。県一般会計（9,207億円）の約0.003%であり、『莫大な税金で外国人を優遇』という言説と実際の予算スケールには歴然とした差がある。",
  "latest": 2026,
  "years": [
+  {
+   "fiscal_year": 2025,
+   "fiscal_year_label": "令和7年度",
+   "source": {
+    "label": "鹿児島県 令和8年度当初予算（案）の概要",
+    "url": "https://www.pref.kagoshima.jp/ab05/kensei/zaisei/yosan/r7/documents/126340_20260209144559-1.pdf"
+   },
+   "items": [],
+   "foreign_total_yen": 0,
+   "general_account": {
+    "amount_yen": 852734000000,
+    "amount_label": "8,527億3,400万円",
+    "label": "令和7年度 一般会計 当初予算",
+    "source": {
+     "label": "鹿児島県 令和8年度当初予算（案）の概要",
+     "url": "https://www.pref.kagoshima.jp/ab05/kensei/zaisei/yosan/r7/documents/126340_20260209144559-1.pdf"
+    }
+   },
+   "contrast_pct": 0.0,
+   "population": null,
+   "empty_note": "※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。"
+  },
   {
    "fiscal_year": 2026,
    "fiscal_year_label": "令和8年度",

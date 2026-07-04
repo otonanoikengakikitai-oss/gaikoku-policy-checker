@@ -13,6 +13,18 @@ _GIAN = {"label": "富山県 令和8年度当初予算議案書", "url": "https:
 
 YEARS = [
     {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": {"label": "富山県 令和7年度当初予算 予算規模", "url": "https://www.pref.toyama.jp/documents/45902/07tousyoyosankibo.pdf"},
+        "items": [], "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 612655531000, "amount_label": "6,126億5,553万1千円",
+            "evidence": '一般会計A600,663,987612,655,531△11,991,544△2.0', "label": "令和6年度 一般会計 当初予算", "source": {"label": "富山県 令和7年度当初予算 予算規模", "url": "https://www.pref.toyama.jp/documents/45902/07tousyoyosankibo.pdf"}},
+    },
+    {
+        "fiscal_year": 2025, "fiscal_year_label": "令和7年度", "source": {"label": "富山県 令和7年度当初予算 予算規模", "url": "https://www.pref.toyama.jp/documents/45902/07tousyoyosankibo.pdf"},
+        "items": [], "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 600663987000, "amount_label": "6,006億6,398万7千円",
+            "evidence": '一般会計A600,663,987612,655,531△11,991,544△2.0', "label": "令和7年度 一般会計 当初予算", "source": {"label": "富山県 令和7年度当初予算 予算規模", "url": "https://www.pref.toyama.jp/documents/45902/07tousyoyosankibo.pdf"}},
+    },
+    {
         "fiscal_year": 2026, "fiscal_year_label": "令和8年度", "source": _JIGYO,
         "items": [{
             "name": "外国人材定着モデル企業支援事業", "name_evidence": "外国人材定着モデル企業支援事業",

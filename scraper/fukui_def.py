@@ -14,6 +14,26 @@ _GAIYO = {"label": "福井県 令和8年度当初予算の概要", "url": _B + "
 
 YEARS = [
     {
+        "fiscal_year": 2024, "fiscal_year_label": "令和6年度", "source": {"label": "福井県 令和7年度当初予算の概要", "url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo07_d/fil/r7tousyo_yosanangaiyou.pdf"},
+        "items": [], "empty_note": '※令和6年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {"amount_yen": 504700000000, "amount_label": "5,047億円",
+            "evidence": '一般会計5,0175,047△30△0.6%', "label": "令和6年度 一般会計 当初予算", "source": {"label": "福井県 令和7年度当初予算の概要", "url": "https://www.pref.fukui.lg.jp/doc/zaisei/fukuikenyosan/tousyo07_d/fil/r7tousyo_yosanangaiyou.pdf"}},
+    },
+    {
+        "fiscal_year": 2025,
+        "fiscal_year_label": "令和7年度",
+        "source": _GAIYO,
+        "items": [],
+        "empty_note": '※令和7年度は主要資料に外国人特化事業の記載（金額明記）が確認できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 501700000000,
+            "amount_label": "5,017億円",
+            "evidence": '一般会計5,0125,017△5△0.1%',
+            "label": "令和7年度 一般会計 当初予算",
+            "source": _GAIYO,
+        },
+    },
+    {
         "fiscal_year": 2026, "fiscal_year_label": "令和8年度", "source": _JIGYO,
         "items": [
             {"name": "外国人労働者受入環境整備事業", "name_evidence": "外国人労働者受入環境整備事業",

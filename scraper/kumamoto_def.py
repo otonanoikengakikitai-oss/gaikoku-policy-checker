@@ -62,6 +62,20 @@ def _item(fy, name, name_ev, cat, bureau_key, bureau, yen, amount_ev, desc, prev
 
 YEARS = [
     {
+        "fiscal_year": 2024,
+        "fiscal_year_label": "令和6年度",
+        "source": _POINT[2024],
+        "items": [],
+        "empty_note": '※令和6年度は知事改選年の骨格予算であり、査定資料の前年欄の性質（骨格/肉付け後）が特定できないため事業は未収録（一般会計総額のみ収録）。',
+        "general_account": {
+            "amount_yen": 770700000000,
+            "amount_label": "7,707億円",
+            "evidence": '総額は7,707億円で、前年度から1,428億円の減',
+            "label": "令和6年度 一般会計 当初予算",
+            "source": _POINT[2024],
+        },
+    },
+    {
         "fiscal_year": 2025,
         "fiscal_year_label": "令和7年度",
         "source": _SRC[2025],

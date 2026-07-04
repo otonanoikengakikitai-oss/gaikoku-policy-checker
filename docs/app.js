@@ -1407,6 +1407,28 @@ function renderPrefYear(gov, fy) {
   }
   PREF_YEAR[gov] = fy;
   renderPrefYearTabs(gov);
+  // 空年度（主要資料に外国人特化事業の記載が無い年度）: 注記と一般会計のみ表示
+  if (yr.empty_note && (!yr.items || !yr.items.length)) {
+    const gaE = yr.general_account;
+    host.innerHTML = `
+  <div class="budget-hero">
+    <div class="budget-hero-main">
+      <div class="budget-hero-label">${esc(cfg.label)} ${esc(fyTag(fy))} 外国人特化予算</div>
+      <div class="budget-hero-num">記載なし</div>
+      <div class="budget-hero-supp">${esc(yr.empty_note)}</div>
+      ${gaE ? `<div class="budget-hero-supp">参考: ${esc(cfg.label)}の${esc(gaE.label)}は ${esc(gaE.amount_label)}。</div>` : ""}
+    </div>
+  </div>
+  ${trendChartHtml(d.years.slice().sort((a, b) => a.fiscal_year - b.fiscal_year).map((y) => ({ year: y.fiscal_year, amount_yen: y.foreign_total_yen, sourceUrl: y.source.url })), fy)}
+  <div class="report-note">
+    <div class="rn-head"><i class="rn-i">!</i> この年度について</div>
+    <p class="rn-body">${esc(yr.empty_note)} 外国人特化の主要事業として公表資料に金額が明記されたものが確認できないことは、「莫大な税金で外国人を優遇」という言説への強い反証となる。</p>
+  </div>
+  <p class="budget-basis">${esc(d.basis_note)} 出典: <a href="${esc(yr.source.url)}" target="_blank" rel="noopener">${esc(yr.source.label)} ↗</a>${gaE && gaE.source ? ` ／ 一般会計: <a href="${esc(gaE.source.url)}" target="_blank" rel="noopener">${esc(gaE.source.label)} ↗</a>` : ""}</p>`;
+    applyGlossary(host);
+    renderStatsFor(gov, fy);
+    return;
+  }
   const ga = yr.general_account;
   const fTotal = yr.foreign_total_yen;
   const totalLabel = yenBreakdown(fTotal);
