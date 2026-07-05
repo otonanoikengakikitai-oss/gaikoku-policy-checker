@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T20:11:53+00:00",
+ "generated_at": "2026-07-05T21:59:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,8 +8,24 @@
  ],
  "items": [
   {
+   "title": "外国人とめざす外食産業の未来 新規受け入れ停止であえぐ業界の構造 [大阪府] [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OQktjNzlnYWFDQVRiQ3ZYa1JCX3psMi0xVTU5TWdCTGNXeG1Ta3UxbzNqRGhrU3BXa3lqR2RHYVByTm1LUXRwaWd4eVI1TjQ2dk1JV1lWZ1ltQW9IRTF5bkdpa1ZoZEE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-06 06:30",
+   "published_iso": "2026-07-05T21:30:00+00:00"
+  },
+  {
+   "title": "阪神の新外国人選手、セベリーノ投手＝5日、兵庫県西宮市 - 阪神セベリーノ「全力で」 自己最速164キロ更新期す - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92eHZZZmhTSUxBWWxKMEJ6RGc3UjUxNUdXWXFuRkdVMy1UWGVTSWRjcm5RaDR6a2I4T2NpVXhJbGctdDc3ejQzSHlQRHVBNjdPSmpXVDdtUQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-06 05:32",
+   "published_iso": "2026-07-05T20:32:09+00:00"
+  },
+  {
    "title": "新入学 ＨＯＷ ＴＯ準備 白山で外国人親子向け講演会",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrekI1cE9Sbi03OTZyQzRwaVJJWU1yclY5bDYwX1M0cnhrTUZudjNKWkZBNGo0aHJna2Zmek1RZzhHZjdFT3FBMldMeURXUFhHekQ0ck1adUU0MnVtOTR5Z3EyamJyRUpw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tV1kzdnFXSUF6MVJDZTBBYU9iMmwzLXRLV3VCNUQ0Sk81akk5V21PSG9KaDVVR0xWOHo3TC1Zc3U1Q3ZPSmdVcFpsaldZY0pVQlRubw?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-06 05:05",
@@ -70,22 +86,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-05 11:59",
    "published_iso": "2026-07-05T02:59:03+00:00"
-  },
-  {
-   "title": "毎日カレーに悩んだムスリム、食べられる店インスタに 届いた発信力 [埼玉県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUlcwZWJRaHRQOEdtS2JkT3gyMGNYTVNyMzNVdnE1ZHRJV1RBT25BaWJSRXlIQ0NZd2RFejdXZGEwdEU2TnZ5U1pyTUZ5eXdyWXJIdVZzVXlyY2RRWTctLU4xNTBzVE0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-05 11:40",
-   "published_iso": "2026-07-05T02:40:00+00:00"
-  },
-  {
-   "title": "富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DM0lVZHFQY2RJdGhNek9ZZGU3Q1E2SzJCbWNzSFpHYzNUWU5xLUhpRmMwb19SNVF2VWY4cHNGNWNxalNOQkgySFVTeXg0aHZSaE1hbFlKdDZaY1BpcTRweTFYNkZ4NVhXTlBnNWdUMzhYR0lTdHJpMDln?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-05 11:38",
-   "published_iso": "2026-07-05T02:38:00+00:00"
   },
   {
    "title": "【画像まとめ】富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
@@ -154,6 +154,14 @@
   {
    "title": "教皇がイタリア最南端「欧州の門」訪問…反移民強めるトランプ政権へのメッセージか",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KYTdaNExabXpfMktRY25STlJsSUl0cjZKMDlTbEsxcWNCSlJiWlFRZFRNQ3FnTEFiY2xtQUF0SHlRRmpNbk8zZXg4VGo4dkhrWHpubVNMNU5yTzFNcDdpU0lR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-05 05:00",
+   "published_iso": "2026-07-04T20:00:00+00:00"
+  },
+  {
+   "title": "アメリカの移民排除の歴史、再び…国境管理の強化・ＩＣＥの一斉摘発など強硬な取り締まりも",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTW9CRHhVVUZDc285ZDNibERnWkQ5eE5pNTlfSmh6X1hJNHdIc2tYeS1nSDRDallLaTJrU3FwYkpmcUkyLVlTOWhKMGRvSHRiY1VVM0hBZjhnZUVpMGFrbmV2MTU?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-05 05:00",
@@ -288,6 +296,14 @@
    "published_iso": "2026-07-03T09:41:01+00:00"
   },
   {
+   "title": "「移民・難民支援基金」本日より第8回公募を開始！深刻化する移民・難民課題に向き合う小規模団体や当事者団体を支援（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yVGZON2JubXFfaG5rYm54d2xoZ1BfaXNIRk1ENUpadTV4akRtZjFHdGFrVkRhUF9kbTc1SWxiNEphVl9ta2h2Nkl5bnZJMHdEclB6TGVEemNTLTgtVkk3dXBkU255RUFo?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 11:51",
+   "published_iso": "2026-07-03T02:51:31+00:00"
+  },
+  {
    "title": "永住許可は20万円…在留許可手数料“大幅引き上げ”案明らかに 入管庁（2026年7月2日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadjVJWEpDUDFubnpQbGg5UG9RQm85eGRhcG9xVVd3aGlLSXVWd3VPSEN1MlRNTXd2VHdMV1pWZ2NYSVZjVEtCVUdJRTdSZ0V6UFNqQmp4TThqMGJFYjJmV2RqN180LVBlbFlfSFZPR2xpUjZXM3RhTl9JUG8?oc=5",
    "source": "日テレNEWS NNN",
@@ -390,22 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-03 05:00",
    "published_iso": "2026-07-02T20:00:00+00:00"
-  },
-  {
-   "title": "移民増の不満高まる欧州、「合法移民」も選別 スイスでは国民投票に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhSGRlTDVoOGhNSDJxRWNPNHFFeHlzdXFWUWpFc0ZWS0pva1VrWnJWVmwxdm1sU2xiOTFCdVhZQ0FXdlQ4TGtzR1dzVElnUXlGczhsbzZqcExnTllZX0Y0NC1UQ2tPMjg?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-03 05:00",
-   "published_iso": "2026-07-02T20:00:00+00:00"
-  },
-  {
-   "title": "禁止地域で風俗店営業疑い 技能実習生の監理団体職員ら3人逮捕、タイ人勤務か 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dFBJMHZQaUNUMDRzX3BzZlljY0RTem4zVEluM3RMMDFiWGQyYTJpcW02NHZvNXBiTVBGV3J0S1VBWWNzU3dSaEYxbXhqYzdjaElGVUFZMUlhRnpVRnpzZG5GLVJITEU4eUFQRnl6cHBmaVdyVEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-02 17:35",
-   "published_iso": "2026-07-02T08:35:28+00:00"
   }
  ]
 }
