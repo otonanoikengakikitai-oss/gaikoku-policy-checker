@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T21:59:38+00:00",
+ "generated_at": "2026-07-05T23:10:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -232,6 +232,14 @@
    "published_iso": "2026-07-04T01:00:00+00:00"
   },
   {
+   "title": "アメリカで進む「部族化」…「職場の同僚は青ばかりで孤独なんだ」「娘と移民政策の話をした途端にケンカになる」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RbXlMblhGMzAwX2dqdE9mX0VnZFltWmZhb1pQUFBZUWJ1VHRPelZUbnplODByTm1kRjJrYzBCRUNYQy0xdTh3Sy1zNFRGVTkwOVJJUFJVdVpwaGZfTGo0TkN3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-04 05:01",
+   "published_iso": "2026-07-03T20:01:00+00:00"
+  },
+  {
    "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体、懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFYjdqVjZERkdNLWRyY3Q1S2c4UnJWMHp6dkExMGVDbWVnVWFRaHA0a2gwd0xXNjAzY3lxdmpzWjBWZmRycy1WMDRxNmN4Y3BURFBjaVBmVWZlalJOSTVvRGdDXzNwNjJ4?oc=5",
    "source": "毎日新聞",
@@ -294,14 +302,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 18:41",
    "published_iso": "2026-07-03T09:41:01+00:00"
-  },
-  {
-   "title": "「移民・難民支援基金」本日より第8回公募を開始！深刻化する移民・難民課題に向き合う小規模団体や当事者団体を支援（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yVGZON2JubXFfaG5rYm54d2xoZ1BfaXNIRk1ENUpadTV4akRtZjFHdGFrVkRhUF9kbTc1SWxiNEphVl9ta2h2Nkl5bnZJMHdEclB6TGVEemNTLTgtVkk3dXBkU255RUFo?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-03 11:51",
-   "published_iso": "2026-07-03T02:51:31+00:00"
   },
   {
    "title": "永住許可は20万円…在留許可手数料“大幅引き上げ”案明らかに 入管庁（2026年7月2日掲載）",
