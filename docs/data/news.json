@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-04T22:59:39+00:00",
+ "generated_at": "2026-07-05T00:09:19+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "多文化食べて考える『ガチ中華移民』中村正人著 ＜書評＞評・西山守（桜美林大准教授）",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeEFmcUJBV3lha1dSN2ZyU3FGMFU5eFBXeDNzU0MwdmNOcGJkY0h0ODZWa0FKNC1HdVFwQVdadHoyVXhjYklvZnkwWXk1eTdsWndRV0htblEzcHhkQUJVN2Q1LTdTYlVqZlg3YlZUM1Ayak53OGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-05 08:00",
+   "published_iso": "2026-07-04T23:00:00+00:00"
+  },
   {
    "title": "高市政権の外国人政策は「秩序」「ルール」強化ばかり…「人権」を明記した岸田政権とは対照的で",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qaHVOY1Y1clZtVDNlX0xKdjREYzlFaHU3RTR6ZWNVTHhKVVA3dUs3LVAxUGpNQ1FHeDg3cFF0enVJekdmQmlCM2x1TWd5NGJSWWJr?oc=5",
@@ -136,6 +144,14 @@
    "published_iso": "2026-07-03T21:00:00+00:00"
   },
   {
+   "title": "アメリカで進む「部族化」…「職場の同僚は青ばかりで孤独なんだ」「娘と移民政策の話をした途端にケンカになる」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RbXlMblhGMzAwX2dqdE9mX0VnZFltWmZhb1pQUFBZUWJ1VHRPelZUbnplODByTm1kRjJrYzBCRUNYQy0xdTh3Sy1zNFRGVTkwOVJJUFJVdVpwaGZfTGo0TkN3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-04 05:01",
+   "published_iso": "2026-07-03T20:01:00+00:00"
+  },
+  {
    "title": "リチウムイオン電池の火災急増、外国人観光客が多いホテルでも…被害減らせる簡単なコツは「リチウムカンカン」",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42YlhKZmpKTkM1RVhObzZMejdoekw0ZGhzVjJVX21INjJRUGxCZFRNZmdoM09NNzd4VXA4R0JGaE1seUo1ZE5jSTJ0WmF6VjJfMXpoNkhjWlgteWY4bFpvUUFQSWh1dEFHQUJZeE9ZWFludw?oc=5",
    "source": "読売新聞",
@@ -174,14 +190,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-03 21:04",
    "published_iso": "2026-07-03T12:04:16+00:00"
-  },
-  {
-   "title": "楽天イーグルス 新外国人マッカスカーが4安打3打点の大暴れ 先発・早川も好投で日本ハムに快勝",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qMUh4clk2X1dUUkFKMWIxY1hyN1hGOGtOc3NnSG5FUnRlcDhPY05PVHRZWkI0ajFrMTlSN3NHel84aWZUcDZtU3liRVo4R0IxekRRa05ZejZFM3pocVJrZA?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-07-03 20:57",
-   "published_iso": "2026-07-03T11:57:00+00:00"
   },
   {
    "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-02 11:30",
    "published_iso": "2026-07-02T02:30:00+00:00"
-  },
-  {
-   "title": "【米国の出生地主義】「反移民」に歯止め 政権、立法で抜け道模索",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BTEhWWHF0N3U0dFp4SE4xQW9FVUdXbnhydHVzeGd1dmx6a3JTZ2pRQ2p0M2kzVWNrd2JadEF0YlNzdUl1ZXJhZDI5T2lpRE0yQUkwMGN3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-02 10:22",
-   "published_iso": "2026-07-02T01:22:18+00:00"
   }
  ]
 }
