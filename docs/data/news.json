@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T07:55:05+00:00",
+ "generated_at": "2026-07-05T10:10:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「アジア最大級の国際犯罪組織」最高幹部とされる男、入管難民法違反容疑で再逮捕…日本で長期滞在図ったか",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EcXlXZWVCN19NTXFFekxkcWtFQ1NiUDNXVG9VeC05NzNyZmZ0ZzA2bFFMNlMzNk9qbVk1a3VBV29MVUNBTGZVcUhEZDFFVzlwWDAtVmU5UDB0OHFLODlRQVNDTkcyUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-05 18:20",
+   "published_iso": "2026-07-05T09:20:00+00:00"
+  },
+  {
+   "title": "“アジア最大級の犯罪組織”「プリンス・グループ」最高幹部とみられる男 入管難民法違反容疑で再逮捕 日本でうその住民異動届を提出した疑いですでに逮捕 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paEppOU0yeHZTdjRHVDR3OHhkaUE4ZDdqQU0wR2xZbVlrTmhXVGdtV3ZoYVFHUU9Cd3M2UG05bXZrSTdOUmxhUFNaUko0RGkzc3R0TW40TQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-05 17:59",
+   "published_iso": "2026-07-05T08:59:21+00:00"
+  },
+  {
+   "title": "国際詐欺組織幹部を再逮捕 入管法違反疑い、警視庁 「プリンス・グループ」事件",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwWGdTNTdUWElTQUlaNER0dnBjTVRuU1dVVVp2SDBMMmpvVzF1WjMwQmVaVlFkZFVYLUNYX0daaGdGX21rVkpfbFI0alN1SDQ5SVhoaDViMGZEN0txZzVVWVNCVEJkMDhhYk9LMmJPODBUSFluMkE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-05 11:59",
+   "published_iso": "2026-07-05T02:59:03+00:00"
+  },
   {
    "title": "毎日カレーに悩んだムスリム、食べられる店インスタに 届いた発信力 [埼玉県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUlcwZWJRaHRQOEdtS2JkT3gyMGNYTVNyMzNVdnE1ZHRJV1RBT25BaWJSRXlIQ0NZd2RFejdXZGEwdEU2TnZ5U1pyTUZ5eXdyWXJIdVZzVXlyY2RRWTctLU4xNTBzVE0?oc=5",
@@ -24,20 +48,12 @@
    "published_iso": "2026-07-05T02:38:00+00:00"
   },
   {
-   "title": "【速報】国際犯罪組織幹部を再逮捕、入管法違反疑い",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SQzNxRFBQZkFCSkI5dldWU0dleWhWclVjZ0IxV3Y0Ym9uMTAydW9ZVDRNNm9lX09UYzljc21vLVhOQjlLLXVjZDZHcw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-05 11:18",
-   "published_iso": "2026-07-05T02:18:21+00:00"
-  },
-  {
-   "title": "国際犯罪組織幹部を再逮捕、入管法違反疑い",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sd25xX09ZdXpNOUJfd0dydEI0SFZzdUVROEpROVFmMTZnU0lNRmpmMFhpckVBalg4TndqMjM5Sk4tY1V1bFc2VFQ0OVhKUkMya1J4S0xQVVg?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-05 11:18",
-   "published_iso": "2026-07-05T02:18:21+00:00"
+   "title": "【画像まとめ】富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3OGlLc2x1MHh6dlV5NWMtdUt0MGhFZXExRkx6Tm5VektEemowX01MMzdmb3otdnh3RlBtVFZiTUF5VWQzaDVKcDlxVnptclFXcEhCcW1KeFFrSEgxRHp0ejVsQWVtU0xDZWctSXE0bjE4NGxPNnFmUzBEOA?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-05 11:38",
+   "published_iso": "2026-07-05T02:38:00+00:00"
   },
   {
    "title": "移民排斥にあらがい「社会を面白く」混迷照らすアートの力とは",
@@ -120,6 +136,14 @@
    "published_iso": "2026-07-04T10:05:00+00:00"
   },
   {
+   "title": "山小屋「けがをした外国人の女性が来ている」台湾の公務員女性（５２）が 右足骨折の大けが・北アルプス大天井岳で転倒しけが長野県警のヘリで救助",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YQ1V5WVdWQThxRGFOZTRheEhZRjlQdV9qWkljV0huMkRBbXlmaXc5OTJQNlp5cFFDSE93QUJ3aVdKRHNXME9fNW82RlNfdE1sd2Q4RUVGTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-04 18:47",
+   "published_iso": "2026-07-04T09:47:00+00:00"
+  },
+  {
    "title": "250年の現在地～米国の歩みと今後～：トランプ政権の移民制限は不合理？ 人口学者が考える米国の未来",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUGlrTG5kTWJFQXdqVmNjZWdBT3BIMjZvNXJMSjlCWXhCZjUtdGJuU2xaamlTVWx4T1Q4SnFzbC1aYV9XQllOSXZoZTFKUUhaTXVIYTYwMnpYUG94cXdLVEFLcXNtaWFW?oc=5",
    "source": "毎日新聞",
@@ -190,6 +214,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 02:01",
    "published_iso": "2026-07-03T17:01:13+00:00"
+  },
+  {
+   "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQjJ5dFZUTVlVb0N2ZDBiTm9xem40MzBSM3h0Y2dWRFdpS3lIZERxbVlyZnpDTDIxVGx3WXg5NFRDRFJQQW0xb3YxekI2S1VsMzNjSjBtcDBnZjFYV1hwU1FuTjFkamc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-04 00:04",
+   "published_iso": "2026-07-03T15:04:00+00:00"
   },
   {
    "title": "特定技能人材の「早期離職」問題に終止符",
@@ -328,14 +360,6 @@
    "published_iso": "2026-07-03T01:13:00+00:00"
   },
   {
-   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 10:13",
-   "published_iso": "2026-07-03T01:13:00+00:00"
-  },
-  {
    "title": "「即戦力」外国人材の受け入れ停止措置、外食産業に大打撃…「採用計画は見直しに」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZV90U2VwUmJhRThYQnNvV2hVVEwwbldtalBzTnJmNVBfek1CZURBemxPTG1VS2hIOHRYbjBVY1FHUFQ4ZGxvaEh3VUV5WHhFaWJ5UEJOcm85QlVSMnQ4Nm1CVEMtUQ?oc=5",
    "source": "読売新聞",
@@ -368,14 +392,6 @@
    "published_iso": "2026-07-02T20:00:00+00:00"
   },
   {
-   "title": "外国人観光客増加で警察官も「英語対応」が急務！警察署では研修も 福島（2026年7月2日掲載）｜中テレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2FvVWJ6YTRmSXVvQkhvRkhBXzJzM1VPUlJ3QUJHM3Z6eF94VXhtTnYzd3ZKcnBQaDRqYnc4VDdkdzBmRVYyR1AzaURPWkdfd2dfM0RZbFVwWWNRd3FDOXYwd3BHOHdTTExYTWdIVDhURVdWWkxBaUdrTEJzalR3Mi1pcjFPUkk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-02 18:57",
-   "published_iso": "2026-07-02T09:57:00+00:00"
-  },
-  {
    "title": "禁止地域で風俗店営業疑い 技能実習生の監理団体職員ら3人逮捕、タイ人勤務か 警視庁",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dFBJMHZQaUNUMDRzX3BzZlljY0RTem4zVEluM3RMMDFiWGQyYTJpcW02NHZvNXBiTVBGV3J0S1VBWWNzU3dSaEYxbXhqYzdjaElGVUFZMUlhRnpVRnpzZG5GLVJITEU4eUFQRnl6cHBmaVdyVEE?oc=5",
    "source": "産経ニュース",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-02 17:00",
    "published_iso": "2026-07-02T08:00:00+00:00"
-  },
-  {
-   "title": "米政府、1万人超の移民を5日間で拘束 年初の2倍…背景に「ホワイトハウスの意向」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QUm9uQVYydnYzV1hNTVRfRnZPNlRUd1J1N3N2UmJwRm9IZ1pKTUxZX25lcVRPeEoxbFNxWU9fOWxXTEhIQ3UzMEZtc0owa0t2YTk4MTdCdGprNUp4SngtOEJEOHhBWFRlVW8xV01LOFl3cWFPTWc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-02 16:28",
-   "published_iso": "2026-07-02T07:28:42+00:00"
-  },
-  {
-   "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-02 16:26",
-   "published_iso": "2026-07-02T07:26:00+00:00"
   }
  ]
 }
