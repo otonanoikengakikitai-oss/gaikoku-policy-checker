@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T14:41:01+00:00",
+ "generated_at": "2026-07-05T16:06:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -170,14 +170,6 @@
   {
    "title": "急増する在留外国人ママを支援 官民タッグで「孤立を防げ」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPZmpQVnZpeHV6dFFTU2FLTExuR2dDNmRpU25JdlhTeEZxemUwZ3VkbFF4QjdMRkdOWU41dndRYW1qN3lNcU10S3ZaRVo5ZFpTZjlJNFBUSGxlcEFiOTE2bDhQYnJOemNn?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-04 16:00",
-   "published_iso": "2026-07-04T07:00:00+00:00"
-  },
-  {
-   "title": "読む写真 在留外国人ママを支援 官民タッグで「孤立させない」 [写真特集1/4]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EYUk0ZFNVeUhCQmFTNUJVV3ZETld4QzJYX1ROeEw5TXFkMFhGOHVYNXp6OFpJTkFVWGM1M3dtMTkwMDRVUkh2ZjJDV20zd2tXVnZ1UXQwZXNLYUhackltSXU1UVhNdw?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 16:00",
@@ -390,6 +382,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-03 05:00",
    "published_iso": "2026-07-02T20:00:00+00:00"
+  },
+  {
+   "title": "外国人観光客増加で警察官も「英語対応」が急務！警察署では研修も 福島（2026年7月2日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11RFhnWVprVEdqV3NPRE1kMlZjWHR4VVM1U0VEN0FGVWVvaXo2UkdURTRmdWZ2djVLVUU4amVHOTdDQ1Y4dy1hd1EzV05UWGE2cjI2VGo1aXRvQ1VLQlltUWgwYzEwdjlNU3lXTHppRklmWl9yY0RnYWxucm9rYlk?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-02 18:57",
+   "published_iso": "2026-07-02T09:57:00+00:00"
   },
   {
    "title": "禁止地域で風俗店営業疑い 技能実習生の監理団体職員ら3人逮捕、タイ人勤務か 警視庁",
