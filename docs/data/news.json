@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T12:14:30+00:00",
+ "generated_at": "2026-07-05T14:41:01+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -46,14 +46,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-05 11:40",
    "published_iso": "2026-07-05T02:40:00+00:00"
-  },
-  {
-   "title": "富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GVTVkOUVaQzM3MDBNOGctOWh2NkJES1BSMHQ5M3prbXpEUEptUnAzc3ZMdGpZR2xyUHNERXZRYnFEWThzRGJtSnk1UnJJeHhHRXJpZTlwY0lwbzVpakhJSE1OTWFqeENiRVkxYVNIb2VWdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-05 11:38",
-   "published_iso": "2026-07-05T02:38:00+00:00"
   },
   {
    "title": "【画像まとめ】富士山「山開き」初の週末 外国人客が雨具不足で入山拒否や押し問答",
@@ -354,6 +346,14 @@
   {
    "title": "外国人向け「日本語・生活学習プログラム」創設に向けた課題を公表“在留審査に受講を反映”入管庁",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5McEtkTHBZVGwtTkpIMG1mMEZ2dXM5bG9YZ3ZpZVFlR2ZqUVhta1o0SEM2bjlvSGtYcmc4ak9wN1RLSzBiUFdJRUlGcnJYWmhSWV9ZR2EwRHJhYlRvanMycloyNXRQLUc4VnFQVVRraENXTE05MUpvLVBPc2Y?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-03 10:13",
+   "published_iso": "2026-07-03T01:13:00+00:00"
+  },
+  {
+   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-03 10:13",
