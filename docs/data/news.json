@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T04:54:56+00:00",
+ "generated_at": "2026-07-05T07:55:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "国際詐欺組織幹部を再逮捕 入管法違反疑い、警視庁 「プリンス・グループ」事件",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwWGdTNTdUWElTQUlaNER0dnBjTVRuU1dVVVp2SDBMMmpvVzF1WjMwQmVaVlFkZFVYLUNYX0daaGdGX21rVkpfbFI0alN1SDQ5SVhoaDViMGZEN0txZzVVWVNCVEJkMDhhYk9LMmJPODBUSFluMkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-05 11:59",
-   "published_iso": "2026-07-05T02:59:03+00:00"
-  },
   {
    "title": "毎日カレーに悩んだムスリム、食べられる店インスタに 届いた発信力 [埼玉県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NUlcwZWJRaHRQOEdtS2JkT3gyMGNYTVNyMzNVdnE1ZHRJV1RBT25BaWJSRXlIQ0NZd2RFejdXZGEwdEU2TnZ5U1pyTUZ5eXdyWXJIdVZzVXlyY2RRWTctLU4xNTBzVE0?oc=5",
@@ -86,14 +78,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-05 06:00",
    "published_iso": "2026-07-04T21:00:00+00:00"
-  },
-  {
-   "title": "「センセイ」は不法就労ブローカー SNS駆使、持ちつ持たれつとはいうものの…",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sS25Vc3lOZ0Z0M1NILXZPZmhoeGNuWjZCOUxWTURSbFN5M25UY18wZ1ZxLVk1NGFUcmxaYlVlMlZwMXZkM0YyQlB2am5tbUV6ekktQg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-05 05:10",
-   "published_iso": "2026-07-04T20:10:00+00:00"
   },
   {
    "title": "外国人の運転免許取得支援サービス 岐阜の会社が大垣自動車学校と連携：ニュース",
@@ -198,14 +182,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-04 08:00",
    "published_iso": "2026-07-03T23:00:00+00:00"
-  },
-  {
-   "title": "在留手数料「爆上げ」案、国際比較をしても高い…「目先の票集め」「日本に来たい人減る」批判",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ENzFySDdCa0ViR3JNbkFSbTA0ZnJBeEZIUUhuUWtBVFhjVTFZZ0k0bm5mVHdRRm9IYVBVcFVYdWMtNEFVOXl1b19FcExuQUh4TGxj?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-04 06:00",
-   "published_iso": "2026-07-03T21:00:00+00:00"
   },
   {
    "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体、懸念",
@@ -352,6 +328,14 @@
    "published_iso": "2026-07-03T01:13:00+00:00"
   },
   {
+   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-03 10:13",
+   "published_iso": "2026-07-03T01:13:00+00:00"
+  },
+  {
    "title": "「即戦力」外国人材の受け入れ停止措置、外食産業に大打撃…「採用計画は見直しに」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZV90U2VwUmJhRThYQnNvV2hVVEwwbldtalBzTnJmNVBfek1CZURBemxPTG1VS2hIOHRYbjBVY1FHUFQ4ZGxvaEh3VUV5WHhFaWJ5UEJOcm85QlVSMnQ4Nm1CVEMtUQ?oc=5",
    "source": "読売新聞",
@@ -392,20 +376,36 @@
    "published_iso": "2026-07-02T09:57:00+00:00"
   },
   {
-   "title": "「安全を確保し、母国へ」 外国人観光客の広域避難や帰国支援 国と自治体が連携した研究会が発足、初会合",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTZFl1YVhqZFdHVVdQdDNSb25LTlUyUzlhbEswT1Fxb1puRjFNVzRsdF9nWUtJT0Jhd0dHWFlnWGhMdWFXNlV3Mkd3LUE1RlZ0VXNzT1ZVNE9EaTRxNWE5NHlTYW1MdFk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-02 18:35",
-   "published_iso": "2026-07-02T09:35:00+00:00"
-  },
-  {
    "title": "禁止地域で風俗店営業疑い 技能実習生の監理団体職員ら3人逮捕、タイ人勤務か 警視庁",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dFBJMHZQaUNUMDRzX3BzZlljY0RTem4zVEluM3RMMDFiWGQyYTJpcW02NHZvNXBiTVBGV3J0S1VBWWNzU3dSaEYxbXhqYzdjaElGVUFZMUlhRnpVRnpzZG5GLVJITEU4eUFQRnl6cHBmaVdyVEE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-02 17:35",
    "published_iso": "2026-07-02T08:35:28+00:00"
+  },
+  {
+   "title": "トヨタ、「工場内緑化」で3K払拭 技能実習生との交流の場に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWjYtbnRMREozRERsZFJ3RjczaDNqUXdxN21ocWRab1FVaWF4dFFpM2kyb2FuV2FnSUVMOE8zLWVKMnFlRUdBTHVxMzVHbHU2UUtFTnJrRnNRRERzQ3htUVR0c3U5SE0?oc=5",
+   "source": "日経ビジネス電子版",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-02 17:00",
+   "published_iso": "2026-07-02T08:00:00+00:00"
+  },
+  {
+   "title": "米政府、1万人超の移民を5日間で拘束 年初の2倍…背景に「ホワイトハウスの意向」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QUm9uQVYydnYzV1hNTVRfRnZPNlRUd1J1N3N2UmJwRm9IZ1pKTUxZX25lcVRPeEoxbFNxWU9fOWxXTEhIQ3UzMEZtc0owa0t2YTk4MTdCdGprNUp4SngtOEJEOHhBWFRlVW8xV01LOFl3cWFPTWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-02 16:28",
+   "published_iso": "2026-07-02T07:28:42+00:00"
+  },
+  {
+   "title": "「タイ古式マッサージ」うたい性的サービスか 技能実習生“支援”の男ら逮捕 （2026年7月2日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Um56UFZyWUZfWDUzbjlQOTZkeWJHR3ZiQTBxWnJZMHZjc0lsc1FhZXRSQzNRTXZ2bVJFTEV1TzhicXpoOURoWC1XeHlUWGFuaU5VaENfSEd4X3AxdlpJamhidmJWNEdGVk1VTWluWlBKRHFjaDhMa0NZNms?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-02 16:26",
+   "published_iso": "2026-07-02T07:26:00+00:00"
   }
  ]
 }
