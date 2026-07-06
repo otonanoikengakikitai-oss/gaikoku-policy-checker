@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-05T23:10:55+00:00",
+ "generated_at": "2026-07-06T02:58:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人生徒ら七夕楽しむ 短冊に願い 亀山日本語教室 三重",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpU1pWeGhfQ3ZVOC1WUENKU2pzRFdxS3A3QVY5ZU1XNWhlNks5LXpna3o0Q0VyWVpuN3pLZkpEdDVzLVgta1RZNDA3UQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-06 11:00",
+   "published_iso": "2026-07-06T02:00:00+00:00"
+  },
+  {
+   "title": "多文化共生で意見交換 いわき市議会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3dUszMWxIT2ZyUWNiSzhjcmV4TnhpakN3TXJIYTFsa0Vjb3JrdUlMSXQ4YXlfX204UWc3MDZCdURncG5XOW9wbS1wdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-06 11:00",
+   "published_iso": "2026-07-06T02:00:00+00:00"
+  },
+  {
+   "title": "サツキ×モニュメント 能美の日常風景写す 外国人フォトコン グレジルさん１位",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OUnp5aHVRa01ab1hZWDFCb3ZVbWxBY2w4R3VzN1VncnIwM2hrSHF3Nmt0Tm56T3h1TmJFSGMyeXJSV01GYU1kTHFfbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-06 10:45",
+   "published_iso": "2026-07-06T01:45:59+00:00"
+  },
+  {
+   "title": "阪神の新外国人、左腕・セベリーノが入団記者会見…最速１６０㌔超の「直球でしっかりと押していきたい」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5URE5aVFNTbmVISTNJQll6a2FNT2p2N0doY3psbFV6cWl4a2c1LUZqYm5nZlIyY0RNUmJxNDNfRGpTc0ZkaXFhU2UwaWlHZmlpME44allsbTJmVjJUcktWVmdBcklpbkd2WE94VHZSVzZYQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-06 10:37",
+   "published_iso": "2026-07-06T01:37:17+00:00"
+  },
   {
    "title": "外国人とめざす外食産業の未来 新規受け入れ停止であえぐ業界の構造 [大阪府] [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OQktjNzlnYWFDQVRiQ3ZYa1JCX3psMi0xVTU5TWdCTGNXeG1Ta3UxbzNqRGhrU3BXa3lqR2RHYVByTm1LUXRwaWd4eVI1TjQ2dk1JV1lWZ1ltQW9IRTF5bkdpa1ZoZEE?oc=5",
@@ -30,14 +62,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-06 05:05",
    "published_iso": "2026-07-05T20:05:30+00:00"
-  },
-  {
-   "title": "阪神の新外国人、左腕・セベリーノが入団記者会見…最速１６０㌔超の「直球でしっかりと押していきたい」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5URE5aVFNTbmVISTNJQll6a2FNT2p2N0doY3psbFV6cWl4a2c1LUZqYm5nZlIyY0RNUmJxNDNfRGpTc0ZkaXFhU2UwaWlHZmlpME44allsbTJmVjJUcktWVmdBcklpbkd2WE94VHZSVzZYQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-06 05:00",
-   "published_iso": "2026-07-05T20:00:00+00:00"
   },
   {
    "title": "帰れないひとびと・ミャンマー国境から：海外難民救援キャンペーン 戦火逃れ 学校で生活 学習継続、軍政権への「抵抗」",
@@ -102,14 +126,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-05 11:00",
    "published_iso": "2026-07-05T02:00:00+00:00"
-  },
-  {
-   "title": "OUR×日南市「特定技能外国人材受入促進連携協定」が結実 協定締結後初となる特定技能人材が入国地域福祉を支える新たな一歩へ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wb2FwbllMTG5NUjNwZGVFTy0wZkI1Z08xVThzOV9wUzFQS3ZURXBCLWx4YjhjaFpmOE5NdFoyWmppUThQelhySmJFZFJ4Uk51dFpaMGRDV2stUHRnNXVFa2RLS1h0MGZnUTVJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-05 08:40",
-   "published_iso": "2026-07-04T23:40:00+00:00"
   },
   {
    "title": "多文化食べて考える『ガチ中華移民』中村正人著 ＜書評＞評・西山守（桜美林大准教授）",
@@ -200,14 +216,6 @@
    "published_iso": "2026-07-04T09:00:00+00:00"
   },
   {
-   "title": "新田知事、外国にルーツの青少年と意見交換 多文化共生条例の制定に向け課題などを確認",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yeE5NeWk4X0tzSDZvSG03YnRKM2hELThHNWpEdExuaHVpTzlxTEl3ZVpuX2JBNTVhTjdyQTFZUURmUGYyVDlNTE9wTndjQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-04 17:50",
-   "published_iso": "2026-07-04T08:50:00+00:00"
-  },
-  {
    "title": "外国人に日本の制度を出向いて説明 夜間中学でオリエンテーション",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQ2NHNGxfNnRONVlxbVdRMWllcUU5MkIzNEZfTkI1M2pvLTNJUG5ZRFZvcklTekVkS19TeEl3eTd4TDhoeFpJdEVCZ05rR1VFLURGdTZDa0p2NnZTU1d6LVBzcVJBUlU?oc=5",
    "source": "朝日新聞",
@@ -224,6 +232,14 @@
    "published_iso": "2026-07-04T07:00:00+00:00"
   },
   {
+   "title": "生きる力を教わり「異国飯」伝道 「傍らのひと」（９）移民の飲食店にカレー食器提供",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xYWVWRDhxemxFa3lvczJBbzMwZl9ia2tOVVJZX3NjMzVGSXRlU2liWGtGWkVZRkJ1UmhPYlJEMzVVM3ZNa0QtNFhPZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-04 11:00",
+   "published_iso": "2026-07-04T02:00:00+00:00"
+  },
+  {
    "title": "人手不足なのになぜ？外食業界で働く外国人「特定技能1号」の新規受け入れ停止 病院・介護施設の調理現場にも打撃「1人1.5倍の力で働いてもらっている」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JX2NCV3pJd0N1YUlKcnhtSC1zUGdDbG9aT1Jzb2pOcks5ZFVWTDdtcHNqQ3kwazI2MERRVkx5RnhNaHpCMGhoWXdLazBBY1N2bWhqalFZOEtzQUpBN2JUWEJIZFVqaTQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -238,6 +254,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-04 05:01",
    "published_iso": "2026-07-03T20:01:00+00:00"
+  },
+  {
+   "title": "河村電器産業 外国人材の雇用拡大 19年度比３倍以上に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02Y0NEWlhfb1lJbUpzdmRvZ21Cby1vTnJscjh3S1dCV0NhaU1iRFpRUkpBVDNlc0NQYmlreGY2ZkpucE9tRExSZy1xOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-04 05:00",
+   "published_iso": "2026-07-03T20:00:00+00:00"
   },
   {
    "title": "在留短期ほど高負担 手数料値上げ案 難民支援団体、懸念",
@@ -296,12 +320,12 @@
    "published_iso": "2026-07-03T10:00:00+00:00"
   },
   {
-   "title": "伊予鉄バスで初の“外国人運転士”がデビュー「安全を第一に」意気込み語る【愛媛】",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORDJiQkFRTXNhM2EwM0ZNcnA1SGVmQkNXM1loXzdRNzU1RDVDNmJOeG9yd1BqZ1phM29qR1p3VlhNcUJlVVVfelo1V1ZyeE1UbjVxM19VZEFyRGpDQmRmdF9sU0toZW05MXZXWHk4WDZoUzNpd0ZnN2RpVURHLUw1VW5JT0hHREk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 18:41",
-   "published_iso": "2026-07-03T09:41:01+00:00"
+   "title": "外国籍住民増える富良野 多文化共生へ市が取り組み 8月からにほんごサロン",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBTFpFOWdDRTgyZlA2cS15YWNRZjhBOGlqVF9JUDRLZ1dmSl9ibVZpbjkybmlNS3Z4VTNtTG92dDRNSWpBRE12U1V3WnFXTHNjNjBGdkwxU29IQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-03 18:37",
+   "published_iso": "2026-07-03T09:37:33+00:00"
   },
   {
    "title": "永住許可は20万円…在留許可手数料“大幅引き上げ”案明らかに 入管庁（2026年7月2日掲載）",
@@ -376,36 +400,12 @@
    "published_iso": "2026-07-03T01:13:00+00:00"
   },
   {
-   "title": "【速報】在留許可手数料の“改定案”明らかに 在留期間に応じ1万～7.5万に“大幅引き上げ”永住許可は20万に 入管庁",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xRUFnZjRZZFVXU0w3NDk4dmFsN2xTZHMxTlZPWVNaUkpTeDlRekplODg2ZWhjMDVnTUNQMUZaWGRSZnlpNWN5RlVfcThmemlFRUl1YVVRaDIxeGNCZEpmSnBCRWE3SnAycnVQNE9Za0tOZGpTXzhEUkk0ajA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-03 10:13",
-   "published_iso": "2026-07-03T01:13:00+00:00"
-  },
-  {
    "title": "「即戦力」外国人材の受け入れ停止措置、外食産業に大打撃…「採用計画は見直しに」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04ZV90U2VwUmJhRThYQnNvV2hVVEwwbldtalBzTnJmNVBfek1CZURBemxPTG1VS2hIOHRYbjBVY1FHUFQ4ZGxvaEh3VUV5WHhFaWJ5UEJOcm85QlVSMnQ4Nm1CVEMtUQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-03 10:07",
    "published_iso": "2026-07-03T01:07:00+00:00"
-  },
-  {
-   "title": "県在住外国人の視点でインバウンド課題発見 福井JCがナイトウォーク",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83czlrWGU2cE15X0NJRk1WQlFCbWZ5X3d3Y2NZNW5jOUZqRGUxOUVHNjhaY1diOFdIUlIybXJlUlo1NW5QZTJFekswdXRnMlozZWxaUg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-03 05:05",
-   "published_iso": "2026-07-02T20:05:00+00:00"
-  },
-  {
-   "title": "（私の視点）在留審査の手数料引き上げ 外国人、生活より不安定に 金光敏",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NeW9hSE5sanVTWFA0NFRsaUJlbzZWMXc2Rk5UZV84VkVZbkRvdU9xM3BpM1FuR0hPcFlxYXJKa3RlMHcwclhjVHFYSUVCTDJTNFhHYXd2dmNNWDZS?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-03 05:00",
-   "published_iso": "2026-07-02T20:00:00+00:00"
   }
  ]
 }
