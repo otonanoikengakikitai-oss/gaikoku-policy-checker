@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T14:28:07+00:00",
+ "generated_at": "2026-07-07T17:12:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
-   "title": "八十二スタッフサービス、｢高度外国人材｣の紹介体制強化へ 県外3社と業務提携",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyc3A5TWJUT0FfRW5OdDJGWUE0VXVmTWk5S3dValV1YXM1LTVfUWJEN0JDR1MxblYycUw0eUdjdGJlSDV6T3BvOFk4MXFxTGZ6NzAzMmtvUDVLUUhVMk5kV2tfXzZPb3BzWFY1OHMxeW0?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-07 21:27",
-   "published_iso": "2026-07-07T12:27:00+00:00"
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［沖縄編］1位は「東急ステイ 沖縄那覇」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwWGR3akFWMlllVGpNQ2NmOVVDdmNscGhuNnlhTnE2b3pITjVvQVhYRDk5WlpjbnZQbU1uczlBZlZpWnZuT1RBTUgtUEJ3V19WN2lXTFFyUU9SeGJzZVh1M2Q4SGZkUVhleGpz?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-08 01:15",
+   "published_iso": "2026-07-07T16:15:00+00:00"
+  },
+  {
+   "title": "国家資格・登録日本語教員試験の応用試験に合格するための対策をまとめた一冊、『音声DL付き 最短合格！ 日本語教員試験＜応用試験＞徹底対策問題集』を7月16日に発売",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YYTAxejFNLVMzRlg1b0JFbHR5TVZnenQ4NkQ4SGp3T0tBTFVnRWFKQzlTT1hzS0JvUmtZak95QUwyVjNBVEZLVVZBbWxfTGxYR05odmxPd3VmVi1vNC1odXpGREw1cTNOdGhj?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-08 01:10",
+   "published_iso": "2026-07-07T16:10:00+00:00"
+  },
+  {
+   "title": "すし職人養成学校が外国人に人気 「仕入れ値1.5倍」店舗経営は厳しく",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sZ09aaDVON0ZsOTYyM2NUSG10VnE4QXZKcGYyVjg2SDVvY0d0bS1ydF96SU5FaUozTFNSel83UjRxaXhDbXhVcDJKUjdRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-08 00:49",
+   "published_iso": "2026-07-07T15:49:00+00:00"
   },
   {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
@@ -30,6 +46,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-07 18:43",
    "published_iso": "2026-07-07T09:43:00+00:00"
+  },
+  {
+   "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WRTV1Smk4MDQ0cVdwblk2YkZsQkc1SnNKOGh6a0FOMTNMS2VhVUNocV9DLWxORXE2SWpxQVFQQWVlMGM3Qkk1dzFKMVlDUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-07 18:18",
+   "published_iso": "2026-07-07T09:18:00+00:00"
   },
   {
    "title": "外国人雇用の手続き、AIで支援 札幌・ニナイテがシステム開発 委託に比べコスト削減",
@@ -64,12 +88,12 @@
    "published_iso": "2026-07-07T07:00:26+00:00"
   },
   {
-   "title": "【在留外国人の調査】95.8%が「今後も日本で働きたい」と回答。一方、関心がある他国1位は「韓国」―外国人材の日本での就労意欲は高水準も、「選ばれ続ける日本」に懸念の兆し―",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fYnhreW1JTkNDSEMzc1NXbm1LTDQydGRwb1FrWVB5X09NTTBsMDYxN2ZkQ0NGSlN6UHBERXVmZ1lYOGc1OXN2NGJieHRBOWc4TGNnOE1weFNNUkNMX1VCbVdiM2NUaGlUR0w0?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-07 14:16",
-   "published_iso": "2026-07-07T05:16:00+00:00"
+   "title": "京都・祇園祭を彩る「駒形提灯」の出番も間近…「外国人観光客の皆さんにも、日本の伝統的な美しさを」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoWmlBdGQzdUVKRjJpaWY3NVpFcU5zZ05KN2I1SlJwdGZSSk04bWczTHZudEpBd3NENDlRSjduRzZtTk96NWxuQzNYSjR6TURIYzVkYS10d1lwcEEzMEVWZWxSRy1QTWI5dDNiZDFHWndlUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-07 15:00",
+   "published_iso": "2026-07-07T06:00:00+00:00"
   },
   {
    "title": "川崎市川崎区、外国人に100時間の日本語教育 育成就労の施行見据え",
@@ -78,14 +102,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-07 13:59",
    "published_iso": "2026-07-07T04:59:20+00:00"
-  },
-  {
-   "title": "国家資格・登録日本語教員試験の応用試験に合格するための対策をまとめた一冊、『音声DL付き 最短合格！ 日本語教員試験＜応用試験＞徹底対策問題集』を7月16日に発売",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YYTAxejFNLVMzRlg1b0JFbHR5TVZnenQ4NkQ4SGp3T0tBTFVnRWFKQzlTT1hzS0JvUmtZak95QUwyVjNBVEZLVVZBbWxfTGxYR05odmxPd3VmVi1vNC1odXpGREw1cTNOdGhj?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-07 13:45",
-   "published_iso": "2026-07-07T04:45:00+00:00"
   },
   {
    "title": "スポーツカーで“白タク営業”外国人観光客乗せ事故…ケガさせたか 男を逮捕（2026年7月6日掲載）",
@@ -350,22 +366,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 18:00",
    "published_iso": "2026-07-04T09:00:00+00:00"
-  },
-  {
-   "title": "新田知事、外国にルーツの青少年と意見交換 多文化共生条例の制定に向け課題などを確認",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yeE5NeWk4X0tzSDZvSG03YnRKM2hELThHNWpEdExuaHVpTzlxTEl3ZVpuX2JBNTVhTjdyQTFZUURmUGYyVDlNTE9wTndjQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-04 17:50",
-   "published_iso": "2026-07-04T08:50:00+00:00"
-  },
-  {
-   "title": "外国人に日本の制度を出向いて説明 夜間中学でオリエンテーション",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpQ2NHNGxfNnRONVlxbVdRMWllcUU5MkIzNEZfTkI1M2pvLTNJUG5ZRFZvcklTekVkS19TeEl3eTd4TDhoeFpJdEVCZ05rR1VFLURGdTZDa0p2NnZTU1d6LVBzcVJBUlU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-04 16:05",
-   "published_iso": "2026-07-04T07:05:00+00:00"
   },
   {
    "title": "急増する在留外国人ママを支援 官民タッグで「孤立を防げ」",
