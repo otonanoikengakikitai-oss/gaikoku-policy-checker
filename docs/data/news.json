@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T08:21:29+00:00",
+ "generated_at": "2026-07-07T11:47:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOE1RRTI3RkZPQ3RQeVpmYmRtMktjcEpJNGFyWW5qRWF4NzZiZE1HemswWXo2M1p4X2NsVXNITllvYmZBdm1PTGQ0UGFmanNaNTF4QlhSTnRvdkZVZjBsRkwwdUxETWg4S1htMA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-07 18:45",
+   "published_iso": "2026-07-07T09:45:31+00:00"
+  },
+  {
+   "title": "情報難民を作らない！地震と豪雨二重災害の町に生まれた「まちのラジオ」が開局1周年",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNlMkRRUlNRbnFNYm0wcUhSa001SGNPU2RjSXY2azJnWFBOR2dCckc5bzJIeVlXNzFHUkVGQlp4Ulc1TlBMcDc3alFyZ2hEYkxrYkJoTzVNZnBfTWhuTE5fMGNtZDFiZ3phSG1UbXZJSEoySURuOXdrRGtTYUZrZmsybEdkSUU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-07 18:43",
+   "published_iso": "2026-07-07T09:43:00+00:00"
+  },
+  {
+   "title": "外国人雇用に必要な手続き、AIで支援 札幌・ニナイテがシステム開発",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNUsyZ1FySlp0NTRvOG5Kal9ETzVfQk9sNFVLcGNrMHUtc2xZbWRwYld5VFYzN3hHRjZfbU1XTy1ZZlpycWR6MmR2Q1hGUWNhM1Nyd3c5OG81UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-07 17:37",
+   "published_iso": "2026-07-07T08:37:54+00:00"
+  },
+  {
+   "title": "外国人雇用作業の内製化、AIで支援 札幌・ニナイテがシステム開発",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVUnhYRXhyTV9rLTJfX0trWGlTYmg4MmhaeTE1eEJpVi1FZndyQ05QQ0dhdmI4TjlQLTl4cHVHUlBWc01INnhYdy1JNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-07 17:37",
+   "published_iso": "2026-07-07T08:37:54+00:00"
+  },
+  {
+   "title": "外免切替「受からない」外国人が急増 事故多発などで厳格化 難易度アップで合格率が大幅低下 教習所で猛特訓も",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TMGk0QldVb3BuRTBqdlZGZXBQcVY4aldHbC1sQVMybzBYaUN4N0ZDaDhUM3BaQy03N25uc21hNzRVSV8zLUZqWVVJVFVCdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-07 17:30",
+   "published_iso": "2026-07-07T08:30:00+00:00"
+  },
+  {
+   "title": "外国人の管理・規制を強めた「第2次出入国在留管理基本計画」案、国民の意見を募るパブコメ9日まで",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQd1pPNnd6bU96QUlVTjlWX2dzMzNvd0xPbjRkcnZ4bEo4ZnBrVENURnFEcjVza01TaHNPZXY2UmJWUDBUZl9YMkFERHA5QXFBY0Fz?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-07 17:10",
+   "published_iso": "2026-07-07T08:10:32+00:00"
+  },
   {
    "title": "ソフトバンク、18歳の育成外国人2人が活躍 日産自動車九州を相手に追撃のソロ本塁打＆同点適時打 「ここで活躍したい」",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNLVByR0VoRWhUQ1pMeVVXOEdkWE9TaENSaWhOSjh6ZUplV202eW90UVhWay1rM01Ham9rREhzM3pwU0RNRE1mOTMtS214dEx1R08zSlpLMEpvWkg5OVI4?oc=5",
@@ -16,12 +64,12 @@
    "published_iso": "2026-07-07T07:00:26+00:00"
   },
   {
-   "title": "京都・祇園祭を彩る「駒形提灯」の出番も間近…「外国人観光客の皆さんにも、日本の伝統的な美しさを」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoWmlBdGQzdUVKRjJpaWY3NVpFcU5zZ05KN2I1SlJwdGZSSk04bWczTHZudEpBd3NENDlRSjduRzZtTk96NWxuQzNYSjR6TURIYzVkYS10d1lwcEEzMEVWZWxSRy1QTWI5dDNiZDFHWndlUQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-07 15:00",
-   "published_iso": "2026-07-07T06:00:00+00:00"
+   "title": "【在留外国人の調査】95.8%が「今後も日本で働きたい」と回答。一方、関心がある他国1位は「韓国」―外国人材の日本での就労意欲は高水準も、「選ばれ続ける日本」に懸念の兆し―",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fYnhreW1JTkNDSEMzc1NXbm1LTDQydGRwb1FrWVB5X09NTTBsMDYxN2ZkQ0NGSlN6UHBERXVmZ1lYOGc1OXN2NGJieHRBOWc4TGNnOE1weFNNUkNMX1VCbVdiM2NUaGlUR0w0?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-07 14:16",
+   "published_iso": "2026-07-07T05:16:00+00:00"
   },
   {
    "title": "川崎市川崎区、外国人に100時間の日本語教育 育成就労の施行見据え",
@@ -30,6 +78,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-07 13:59",
    "published_iso": "2026-07-07T04:59:20+00:00"
+  },
+  {
+   "title": "国家資格・登録日本語教員試験の応用試験に合格するための対策をまとめた一冊、『音声DL付き 最短合格！ 日本語教員試験＜応用試験＞徹底対策問題集』を7月16日に発売",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YYTAxejFNLVMzRlg1b0JFbHR5TVZnenQ4NkQ4SGp3T0tBTFVnRWFKQzlTT1hzS0JvUmtZak95QUwyVjNBVEZLVVZBbWxfTGxYR05odmxPd3VmVi1vNC1odXpGREw1cTNOdGhj?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-07 13:45",
+   "published_iso": "2026-07-07T04:45:00+00:00"
   },
   {
    "title": "スポーツカーで“白タク営業”外国人観光客乗せ事故…ケガさせたか 男を逮捕（2026年7月6日掲載）",
@@ -56,6 +112,14 @@
    "published_iso": "2026-07-07T03:00:00+00:00"
   },
   {
+   "title": "外国人政策 ビザの手数料引き上げ 5倍値上げ欧米並みに 進む制度の厳格化 戸惑う当事者の声 ｢夢は諦めたくない｣ 【福岡発】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6NnNSSHNnSVdEdGpEeGJsNzg3ZDdscXpqa2JHc0JwUWFQbWlNd1gzMGlaTjlqVU11WDgzd1lDTmV1S2JKdVk5Ql96R1paQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-07 11:00",
+   "published_iso": "2026-07-07T02:00:00+00:00"
+  },
+  {
    "title": "富士宮市「富士山世界遺産センター」 クルーズ船効果で外国人増 来館者の４割／多言語対応も強化",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MUHJGaVR6QUpCVmFrRGgzVHlhTVk1WnJ3NGF1NWpsQzQ2SGlobG9BMk9NQVpiUWVmWV9vYkI4N0prX1pkcWt4eGZYYw?oc=5",
    "source": "47NEWS",
@@ -78,6 +142,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-07 08:45",
    "published_iso": "2026-07-06T23:45:00+00:00"
+  },
+  {
+   "title": "サンフレに新外国人ＦＷ 元コートジボワール代表 セバスティアン・アレー選手加入",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91Q1ZUamMwV0hmdnE3azJzX2FmOXZDelNNRUFfYXUyZXV5Tm1tVTFuMVk4ZklEQzhYWWY5ZWhyOUxfUkFrcWNvUkNydFdiQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-07 07:15",
+   "published_iso": "2026-07-06T22:15:00+00:00"
   },
   {
    "title": "（移民・難民政策 揺らぐドイツ：上）極右政党と張り合う独政権",
@@ -128,36 +200,12 @@
    "published_iso": "2026-07-06T13:00:42+00:00"
   },
   {
-   "title": "サンフレッチェ広島が新外国人を獲得 欧州で豊富な実績の元得点王（2026年7月6日掲載）｜広テレ！NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzlfQ1pFZEdGWjcwdUVReWxEWW1XZnpYQWFobm9tTDVGT1BQNl91S3ZTQVpzNXRrLXc0Z2FvUHpkcktnNm4wczhZbHNvU0tyZ25ySi11WlB1cThfWlZNcW53YWVDZHI5dnBySFdYUW44N1ZhcGtpRjBFUk5Na0J3UG9MTGNTUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-06 19:54",
-   "published_iso": "2026-07-06T10:54:00+00:00"
-  },
-  {
-   "title": "「サイクリング」と「食」で外国人観光客を魅了 富山大学発ベンチャー「アドベンチャー富山」設立 立山連峰や富山湾を巡る新ツアー開始へ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hclVQNGxxVWRpeXdnbEl3RmEtaFdGRE9rSFRJR3pQckg0UlNXeUlKYWQ1TlREemF1YVZ0VHlOOU1zbTdwRGdUMEhiRExJS1ZGa2tyUm5ERXdIRm5QS1pjb25kMDMtVGc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-06 19:41",
-   "published_iso": "2026-07-06T10:41:00+00:00"
-  },
-  {
    "title": "四国初の外国人バス運転手、ベトナム人男性２人が県庁を表敬訪問…特定技能に「自動車運送業」追加で受け入れ可能に",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVF8wbkNzTWdyQXNfZmFlcHhfZDZtU29zYjF4SVVUdnhUR3I1QThuME80UXN3b0w3bWxRSnR2R3RhUVczaERXT0lfQUU1XzViTHU1V0R0bzVzVDRSZXFkSzVmQ29WQUM1UXNHSm12UUlxdw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-06 17:32",
    "published_iso": "2026-07-06T08:32:46+00:00"
-  },
-  {
-   "title": "プレスリリース：外国人来店客数が前年同期比約33％増加。高級とんかつブランド「とんかつ ひとみ」（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2eUtZYXJCMEY0Ry1OZDJJck9KUzJ6cWZ2TW45M05tUVR6dHJNQVlfcFRpUUlteUc2bEU2RU1tVWVmZElGTlpMY3JaYVE5eG5zSGwzOTBXejJNNlFyM2xRUzk3dnFZMGE5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-06 17:21",
-   "published_iso": "2026-07-06T08:21:27+00:00"
   },
   {
    "title": "高市政権の外国人政策は「秩序」「ルール」強化ばかり…「人権」を明記した岸田政権とは対照的で",
@@ -352,60 +400,12 @@
    "published_iso": "2026-07-03T15:04:00+00:00"
   },
   {
-   "title": "外国人の在留手数料、値上げで低水準是正 最大20倍も「高すぎない」 一部懸念も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43TUJwZEprd0Y2cEQ2V0NvaS1XeFFJR3NIdV82eXM0YS15ZkVDSFN0eThqWU9nR1RHd2loQ0NhQTdlNU4zRmR1N2RSc3FnbUF2MEZKdVZ5X0luNkRWeFlwNmxHc1ZRbXpfLUJVd0lpNHZ0cUdMZ0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-03 21:04",
-   "published_iso": "2026-07-03T12:04:16+00:00"
-  },
-  {
    "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-03 20:45",
    "published_iso": "2026-07-03T11:45:04+00:00"
-  },
-  {
-   "title": "「高市さんはなぜ外国人に厳しいの？」在留手数料の大幅引き上げ 子を持つ女性「暮らしていけない」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUQmk0RUVzS1J3VjdEdmJFVjFpVjd6OVZZNDIwNWVWSURZUlhoeDg2SjRaSVJ3eU5GRkpfQzY2RF91OUk2UmJya3dXZXBpV0VZSVQ4?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-03 19:00",
-   "published_iso": "2026-07-03T10:00:26+00:00"
-  },
-  {
-   "title": "「移民・難民支援基金」本日より第8回公募を開始！深刻化する移民・難民課題に向き合う小規模団体や当事者団体を支援（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yVGZON2JubXFfaG5rYm54d2xoZ1BfaXNIRk1ENUpadTV4akRtZjFHdGFrVkRhUF9kbTc1SWxiNEphVl9ta2h2Nkl5bnZJMHdEclB6TGVEemNTLTgtVkk3dXBkU255RUFo?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-03 11:51",
-   "published_iso": "2026-07-03T02:51:31+00:00"
-  },
-  {
-   "title": "訪日前から日本語学習 在留外国人適応へ報告書―法務省",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RTm9oZXVIQ3ZKdktWOHdFbTJsTk54UU9mNmFFNFc2dXEzNk80VjRpMkhZQ1Q3MWFVZUM3TUJ4R0VhOUoyZEdWaUFOQUU4WWVTTUo3UEhuZXVzVTkwTkFUc1Rmbw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-03 10:39",
-   "published_iso": "2026-07-03T01:39:00+00:00"
-  },
-  {
-   "title": "外国人の在留手数料、最大７万５千円に引き上げ 永住許可は１万円から２０万円に増額―政府改定案・１０月施行方針",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeTRXelNPR1dIZVVqSFVLOEdJd3lGUnh4aXZaN0FsVFdJcU8yYzdEcS1kejh5VmZqM1RHRTRUMS1JSmRzbFc3VUtOQnVZVGRRZ2EydWEtZl96cV80Zkp6azZZcw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-03 10:37",
-   "published_iso": "2026-07-03T01:37:00+00:00"
-  },
-  {
-   "title": "外国人永住許可の手数料20万円に 入管庁が政令案、在留資格更新も値上げ",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VUHg0c05rUnNhVUo5Rzd0dExaVXJydjMzLUVCem1LZzhoYzdMLTBaWnFYNDJ4R1BLLWp0aEJyczY4SEF5eWtEbGRlZm5SSlFuRVFLS0t2aXN0ZU5VT002VHFkc3RNZ2ZFN3p3X1B3NEFfODRxZ3c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-03 10:36",
-   "published_iso": "2026-07-03T01:36:31+00:00"
   }
  ]
 }
