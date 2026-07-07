@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T17:12:14+00:00",
+ "generated_at": "2026-07-07T19:52:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,28 +8,20 @@
  ],
  "items": [
   {
-   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［沖縄編］1位は「東急ステイ 沖縄那覇」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwWGR3akFWMlllVGpNQ2NmOVVDdmNscGhuNnlhTnE2b3pITjVvQVhYRDk5WlpjbnZQbU1uczlBZlZpWnZuT1RBTUgtUEJ3V19WN2lXTFFyUU9SeGJzZVh1M2Q4SGZkUVhleGpz?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-08 01:15",
-   "published_iso": "2026-07-07T16:15:00+00:00"
-  },
-  {
-   "title": "国家資格・登録日本語教員試験の応用試験に合格するための対策をまとめた一冊、『音声DL付き 最短合格！ 日本語教員試験＜応用試験＞徹底対策問題集』を7月16日に発売",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YYTAxejFNLVMzRlg1b0JFbHR5TVZnenQ4NkQ4SGp3T0tBTFVnRWFKQzlTT1hzS0JvUmtZak95QUwyVjNBVEZLVVZBbWxfTGxYR05odmxPd3VmVi1vNC1odXpGREw1cTNOdGhj?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-08 01:10",
-   "published_iso": "2026-07-07T16:10:00+00:00"
-  },
-  {
    "title": "すし職人養成学校が外国人に人気 「仕入れ値1.5倍」店舗経営は厳しく",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sZ09aaDVON0ZsOTYyM2NUSG10VnE4QXZKcGYyVjg2SDVvY0d0bS1ydF96SU5FaUozTFNSel83UjRxaXhDbXhVcDJKUjdRZw?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-07-08 00:49",
    "published_iso": "2026-07-07T15:49:00+00:00"
+  },
+  {
+   "title": "八十二スタッフサービス、｢高度外国人材｣の紹介体制強化へ 県外3社と業務提携",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyc3A5TWJUT0FfRW5OdDJGWUE0VXVmTWk5S3dValV1YXM1LTVfUWJEN0JDR1MxblYycUw0eUdjdGJlSDV6T3BvOFk4MXFxTGZ6NzAzMmtvUDVLUUhVMk5kV2tfXzZPb3BzWFY1OHMxeW0?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-07 21:27",
+   "published_iso": "2026-07-07T12:27:00+00:00"
   },
   {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
@@ -224,22 +216,6 @@
    "published_iso": "2026-07-06T08:32:46+00:00"
   },
   {
-   "title": "プレスリリース：外国人来店客数が前年同期比約33％増加。高級とんかつブランド「とんかつ ひとみ」（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2eUtZYXJCMEY0Ry1OZDJJck9KUzJ6cWZ2TW45M05tUVR6dHJNQVlfcFRpUUlteUc2bEU2RU1tVWVmZElGTlpMY3JaYVE5eG5zSGwzOTBXejJNNlFyM2xRUzk3dnFZMGE5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-06 17:21",
-   "published_iso": "2026-07-06T08:21:27+00:00"
-  },
-  {
-   "title": "高市政権の外国人政策は「秩序」「ルール」強化ばかり…「人権」を明記した岸田政権とは対照的で",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qaHVOY1Y1clZtVDNlX0xKdjREYzlFaHU3RTR6ZWNVTHhKVVA3dUs3LVAxUGpNQ1FHeDg3cFF0enVJekdmQmlCM2x1TWd5NGJSWWJr?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-06 16:01",
-   "published_iso": "2026-07-06T07:01:28+00:00"
-  },
-  {
    "title": "偏在ニッポン! “ヘア難民”と店を飛び出した美容師【東北ココから】",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMlBkb3RGdnlJNlV4N3NQVkFXMy1XNE9fYzhaMjc1V0hSNlZTSEE3N1c0ODYwNG9PNE5Rd1MxNGsxdXpsbmkxTUJ2MFVHaUhib3gtcll1OWxwRHRRYnZlWlZmbzM?oc=5",
    "source": "nhk.or.jp",
@@ -320,6 +296,14 @@
    "published_iso": "2026-07-04T23:00:00+00:00"
   },
   {
+   "title": "高市政権の外国人政策は「秩序」「ルール」強化ばかり…「人権」を明記した岸田政権とは対照的で",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qaHVOY1Y1clZtVDNlX0xKdjREYzlFaHU3RTR6ZWNVTHhKVVA3dUs3LVAxUGpNQ1FHeDg3cFF0enVJekdmQmlCM2x1TWd5NGJSWWJr?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-05 06:00",
+   "published_iso": "2026-07-04T21:00:00+00:00"
+  },
+  {
    "title": "「移民が米国の歴史つくってきた」 独立250年、ローマ教皇が書簡",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44bE1XNC1jbWNNYmRoUWVwYjU5NlBDNmIwdy1mMHhZUXF2c0RTbXZST041ajRsakFFcDhWZHRPQkxPelBpcUNLVUZyUG9hUDhSRmtyczh4aC1pcG45enhwMENXVFZ0bjA?oc=5",
    "source": "朝日新聞",
@@ -338,6 +322,14 @@
   {
    "title": "教皇がイタリア最南端「欧州の門」訪問…反移民強めるトランプ政権へのメッセージか",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KYTdaNExabXpfMktRY25STlJsSUl0cjZKMDlTbEsxcWNCSlJiWlFRZFRNQ3FnTEFiY2xtQUF0SHlRRmpNbk8zZXg4VGo4dkhrWHpubVNMNU5yTzFNcDdpU0lR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-05 05:00",
+   "published_iso": "2026-07-04T20:00:00+00:00"
+  },
+  {
+   "title": "アメリカの移民排除の歴史、再び…国境管理の強化・ＩＣＥの一斉摘発など強硬な取り締まりも",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTW9CRHhVVUZDc285ZDNibERnWkQ5eE5pNTlfSmh6X1hJNHdIc2tYeS1nSDRDallLaTJrU3FwYkpmcUkyLVlTOWhKMGRvSHRiY1VVM0hBZjhnZUVpMGFrbmV2MTU?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-05 05:00",
@@ -406,6 +398,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-04 00:04",
    "published_iso": "2026-07-03T15:04:00+00:00"
+  },
+  {
+   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-03 20:45",
+   "published_iso": "2026-07-03T11:45:04+00:00"
   }
  ]
 }
