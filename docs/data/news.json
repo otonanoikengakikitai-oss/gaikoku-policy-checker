@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T11:47:56+00:00",
+ "generated_at": "2026-07-07T14:28:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "八十二スタッフサービス、｢高度外国人材｣の紹介体制強化へ 県外3社と業務提携",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyc3A5TWJUT0FfRW5OdDJGWUE0VXVmTWk5S3dValV1YXM1LTVfUWJEN0JDR1MxblYycUw0eUdjdGJlSDV6T3BvOFk4MXFxTGZ6NzAzMmtvUDVLUUhVMk5kV2tfXzZPb3BzWFY1OHMxeW0?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-07 21:27",
+   "published_iso": "2026-07-07T12:27:00+00:00"
+  },
   {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOE1RRTI3RkZPQ3RQeVpmYmRtMktjcEpJNGFyWW5qRWF4NzZiZE1HemswWXo2M1p4X2NsVXNITllvYmZBdm1PTGQ0UGFmanNaNTF4QlhSTnRvdkZVZjBsRkwwdUxETWg4S1htMA?oc=5",
@@ -24,7 +32,7 @@
    "published_iso": "2026-07-07T09:43:00+00:00"
   },
   {
-   "title": "外国人雇用に必要な手続き、AIで支援 札幌・ニナイテがシステム開発",
+   "title": "外国人雇用の手続き、AIで支援 札幌・ニナイテがシステム開発 委託に比べコスト削減",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNUsyZ1FySlp0NTRvOG5Kal9ETzVfQk9sNFVLcGNrMHUtc2xZbWRwYld5VFYzN3hHRjZfbU1XTy1ZZlpycWR6MmR2Q1hGUWNhM1Nyd3c5OG81UQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
@@ -38,14 +46,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-07 17:37",
    "published_iso": "2026-07-07T08:37:54+00:00"
-  },
-  {
-   "title": "外免切替「受からない」外国人が急増 事故多発などで厳格化 難易度アップで合格率が大幅低下 教習所で猛特訓も",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TMGk0QldVb3BuRTBqdlZGZXBQcVY4aldHbC1sQVMybzBYaUN4N0ZDaDhUM3BaQy03N25uc21hNzRVSV8zLUZqWVVJVFVCdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-07 17:30",
-   "published_iso": "2026-07-07T08:30:00+00:00"
   },
   {
    "title": "外国人の管理・規制を強めた「第2次出入国在留管理基本計画」案、国民の意見を募るパブコメ9日まで",
@@ -105,9 +105,9 @@
   },
   {
    "title": "北海道遺産の増毛山道、草刈り活動に外国人が初参加 中国と英国の2人",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNG91UDl5eDUtNUZoekpwTXFzM0hBQU4yYzFUdTVqeGVZSml6b05KVEVCRktJTnNsYzBMcklWd20taFR2aGJFQVpESQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTa2IwU2Jab2s0Mk5YWm5rcGRMUHUybzN3b2owTlY5dGUxWExGeVhCUE1weUhfU0RWeU15ckJwa1VxckhHODJ2V0hzd0JhOVpkN056cGZLa0s5Zw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-07 12:00",
    "published_iso": "2026-07-07T03:00:00+00:00"
   },
@@ -206,6 +206,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-06 17:32",
    "published_iso": "2026-07-06T08:32:46+00:00"
+  },
+  {
+   "title": "プレスリリース：外国人来店客数が前年同期比約33％増加。高級とんかつブランド「とんかつ ひとみ」（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2eUtZYXJCMEY0Ry1OZDJJck9KUzJ6cWZ2TW45M05tUVR6dHJNQVlfcFRpUUlteUc2bEU2RU1tVWVmZElGTlpMY3JaYVE5eG5zSGwzOTBXejJNNlFyM2xRUzk3dnFZMGE5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-06 17:21",
+   "published_iso": "2026-07-06T08:21:27+00:00"
   },
   {
    "title": "高市政権の外国人政策は「秩序」「ルール」強化ばかり…「人権」を明記した岸田政権とは対照的で",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-04 00:04",
    "published_iso": "2026-07-03T15:04:00+00:00"
-  },
-  {
-   "title": "在留手数料、難民申請者の9割超が減額対象外 入管庁の指針案",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUUJNSVpWQlB4dzJXU21iaVpROU9Dc01WeDVUY21TN1otdHJ6QzROamtEeFJYc3VTajJwOEc0aHpyM3JjUDlkNjhxVmY0Y214VWoyaVdoWlRvRWZJeld4UzZaZ3FiNTlU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-03 20:45",
-   "published_iso": "2026-07-03T11:45:04+00:00"
   }
  ]
 }
