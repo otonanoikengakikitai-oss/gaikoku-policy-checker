@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T15:19:44+00:00",
+ "generated_at": "2026-07-08T17:26:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -17,7 +17,7 @@
   },
   {
    "title": "「観光宮崎」を支える宿泊事業者の就職面談会 人手不足の中 外国人材へ高まる期待",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYVUybmRMVVZvMzZGVExUS052TGdILVF0TUppcWRVaGRfY1JkeE8wRFkzTWt0RzRET3ZVTkF1eEd2dEpPMTFmampWbG9zTEVsc3QxWTF1UlJydw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MNC1LQWQxMUlQR1I4dEJHekVpai15dW9lZDRqendVZWxhVXJwV3pDSlNXOEI4OTRXa1pKS0tGdzFsYXVyS2RlNUdseDVkbVlHRGpQZDhZN1owQmxzTldadHFObklfTGc?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-08 19:01",
@@ -56,12 +56,12 @@
    "published_iso": "2026-07-08T08:10:00+00:00"
   },
   {
-   "title": "浜松市政に外国人の声を 8期目の市民共生審、10人の委員で協議開始",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NaDNKQmlwSTBsaFlTcVY0clNMZE5VMWpELTJtdFhjNzhPQUp5QUo0UjBsRk45ZVI3bmtqaklHaFliZktISDNLdUtVbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-08 16:47",
-   "published_iso": "2026-07-08T07:47:20+00:00"
+   "title": "“医療費の違い”などで盛りあがる…看護学校の3年生と外国人留学生の交流会「国際看護」の授業の一環で",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSU1hkMTM4ZDBoMkZ4aTEyV0o2UGJOQkpQTVVCY1NIaC1UdTNpMWQyNnp0cDRUYTJjUTlUVHI3WmMxNkVueUVHQjdabUhuZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-08 16:35",
+   "published_iso": "2026-07-08T07:35:00+00:00"
   },
   {
    "title": "リネットＪ",
@@ -112,6 +112,14 @@
    "published_iso": "2026-07-08T00:54:40+00:00"
   },
   {
+   "title": "留学生対象に自転車の安全講習会 大阪市内で外国人が絡む事故が増加傾向 「日本の交通ルール、マナー学んで」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54c1pjWkYwLXlrczBYc002ZUlnRXVmdi1DdlZSX3d3UjJWeWNYY2lLdkZNUXpOaEE4U1c3MDA1VU1NZ1d0TWJoNUpFc25xOWRnaFJZN2R4blkzOWdvRDBnZHgxcDBVR2c?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-08 09:39",
+   "published_iso": "2026-07-08T00:39:34+00:00"
+  },
+  {
    "title": "難民もビル・ゲイツも使った人気アプリDuolingo 「語学を続けさせる秘密」は",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ia1RaSXF2eklCS2w0Z01iRWIteXgyLXE5d1Zvb3Frazc0M0dqZmN5Y1dtSjRxMEhORzZZQm9ocWswR011TG1lSjNOeWJQTVhiM2c?oc=5",
    "source": "朝日新聞GLOBE＋",
@@ -136,8 +144,16 @@
    "published_iso": "2026-07-07T20:10:00+00:00"
   },
   {
+   "title": "浜松市政に外国人の声を 8期目の市民共生審、10人の委員で協議開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54aHlfTnR6QUprTjlXZWRMdjI1TXNCYkN2b1F0TWRmRkRwY09SY0Q3UFNIMHNvYXhkWFRudXM0Q2h6d0xpbFNWT3pHT0NTZ1VpWDBROGtYTDFFUkVRei1sbmV1UG5hOWNfeG9N?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-08 05:05",
+   "published_iso": "2026-07-07T20:05:00+00:00"
+  },
+  {
    "title": "「体操服」のやさしい日本語は 愛知県豊橋市の時習館高付属中で多文化共生講座",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qS1J3M1VaMUM3XzF2cWRFeTRRQjVibnhtWUxmcVVrRFNBc08yZHFISUlldWlnWXlzbDU5WXFlQ0VTemxyd3JzRU11d2UtRm1uSkQ2SEJ5QldsUmlWZ3VESWF3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZTZuLUpLNWk0QXVZcDZNUWRjQTgzRG9uSjdWT2c5NXVPd01JaFkxaHI1SnUwTzJ3c2t1ckN5WVhhMWlfN0FJSlhWNHdHSDR3LTdQMg?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-08 05:05",
@@ -150,14 +166,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-08 05:00",
    "published_iso": "2026-07-07T20:00:00+00:00"
-  },
-  {
-   "title": "すし職人養成学校が外国人に人気 「仕入れ値1.5倍」店舗経営は厳しく",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sZ09aaDVON0ZsOTYyM2NUSG10VnE4QXZKcGYyVjg2SDVvY0d0bS1ydF96SU5FaUozTFNSel83UjRxaXhDbXhVcDJKUjdRZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-08 00:49",
-   "published_iso": "2026-07-07T15:49:00+00:00"
   },
   {
    "title": "八十二スタッフサービス、｢高度外国人材｣の紹介体制強化へ 県外3社と業務提携",
@@ -222,6 +230,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-07 12:00",
    "published_iso": "2026-07-07T03:00:00+00:00"
+  },
+  {
+   "title": "外国人政策 ビザの手数料引き上げ 5倍値上げ欧米並みに 進む制度の厳格化 戸惑う当事者の声 ｢夢は諦めたくない｣ 【福岡発】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6NnNSSHNnSVdEdGpEeGJsNzg3ZDdscXpqa2JHc0JwUWFQbWlNd1gzMGlaTjlqVU11WDgzd1lDTmV1S2JKdVk5Ql96R1paQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-07 11:00",
+   "published_iso": "2026-07-07T02:00:00+00:00"
   },
   {
    "title": "九州初進出狙い、博多駅前で出店ラッシュ 「ランチ難民」懸念も",
@@ -390,22 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-04 11:00",
    "published_iso": "2026-07-04T02:00:00+00:00"
-  },
-  {
-   "title": "人手不足なのになぜ？外食業界で働く外国人「特定技能1号」の新規受け入れ停止 病院・介護施設の調理現場にも打撃「1人1.5倍の力で働いてもらっている」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JX2NCV3pJd0N1YUlKcnhtSC1zUGdDbG9aT1Jzb2pOcks5ZFVWTDdtcHNqQ3kwazI2MERRVkx5RnhNaHpCMGhoWXdLazBBY1N2bWhqalFZOEtzQUpBN2JUWEJIZFVqaTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-04 10:00",
-   "published_iso": "2026-07-04T01:00:00+00:00"
-  },
-  {
-   "title": "午前2時の地下鉄、週末の街角 ニューヨークで出会った移民のリアル",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRlJ2RVJjbThzU0EzQjVKUzdMXzhCYWVaN0ppUTdlQmFIWFF1ZlZ2cDg5dHpJQUlRd3FERV9lamZDcmxKVXJXcDAxMVM0bEthc0RGbEFQQ3FEVzFudEJjTWFfQVBVRXM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-04 08:00",
-   "published_iso": "2026-07-03T23:00:00+00:00"
   }
  ]
 }
