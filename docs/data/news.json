@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T17:26:56+00:00",
+ "generated_at": "2026-07-08T19:21:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IcEIwNkVscVJsME9Wdm43RktKYjJnMHdwdF95MHhQU2J0Nld6T01pX21kc1k1X0lxRXdVcnpoLVI3NHZ4RWZqZ1N1cldOY21WMDdGbzRCa0lTYjJOOXA5UEUySEdZNUdMOHBXUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-09 02:00",
+   "published_iso": "2026-07-08T17:00:00+00:00"
+  },
   {
    "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
@@ -232,14 +240,6 @@
    "published_iso": "2026-07-07T03:00:00+00:00"
   },
   {
-   "title": "外国人政策 ビザの手数料引き上げ 5倍値上げ欧米並みに 進む制度の厳格化 戸惑う当事者の声 ｢夢は諦めたくない｣ 【福岡発】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6NnNSSHNnSVdEdGpEeGJsNzg3ZDdscXpqa2JHc0JwUWFQbWlNd1gzMGlaTjlqVU11WDgzd1lDTmV1S2JKdVk5Ql96R1paQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-07 11:00",
-   "published_iso": "2026-07-07T02:00:00+00:00"
-  },
-  {
    "title": "九州初進出狙い、博多駅前で出店ラッシュ 「ランチ難民」懸念も",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdWVISE5DSkNIdjFRUnJTNjBpLWphQ2lYZzBDNVpDQUQ3Q2RLWi1YOFNUOWt3Y3ZsaWJYenIxOWhHTmdyOGFxbjRpdGRtVnJwWGZYZ3Exc2RrUFFZR0F5c1JhWFdCVUtm?oc=5",
    "source": "毎日新聞",
@@ -288,12 +288,12 @@
    "published_iso": "2026-07-06T13:00:42+00:00"
   },
   {
-   "title": "プレスリリース：外国人来店客数が前年同期比約33％増加。高級とんかつブランド「とんかつ ひとみ」（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2eUtZYXJCMEY0Ry1OZDJJck9KUzJ6cWZ2TW45M05tUVR6dHJNQVlfcFRpUUlteUc2bEU2RU1tVWVmZElGTlpMY3JaYVE5eG5zSGwzOTBXejJNNlFyM2xRUzk3dnFZMGE5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-06 17:21",
-   "published_iso": "2026-07-06T08:21:27+00:00"
+   "title": "サンフレッチェ広島が新外国人を獲得 欧州で豊富な実績の元得点王（2026年7月6日掲載）｜広テレ！NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzlfQ1pFZEdGWjcwdUVReWxEWW1XZnpYQWFobm9tTDVGT1BQNl91S3ZTQVpzNXRrLXc0Z2FvUHpkcktnNm4wczhZbHNvU0tyZ25ySi11WlB1cThfWlZNcW53YWVDZHI5dnBySFdYUW44N1ZhcGtpRjBFUk5Na0J3UG9MTGNTUQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-06 19:54",
+   "published_iso": "2026-07-06T10:54:00+00:00"
   },
   {
    "title": "偏在ニッポン! “ヘア難民”と店を飛び出した美容師【東北ココから】",
@@ -368,6 +368,14 @@
    "published_iso": "2026-07-04T20:00:00+00:00"
   },
   {
+   "title": "アメリカの移民排除の歴史、再び…国境管理の強化・ＩＣＥの一斉摘発など強硬な取り締まりも",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTW9CRHhVVUZDc285ZDNibERnWkQ5eE5pNTlfSmh6X1hJNHdIc2tYeS1nSDRDallLaTJrU3FwYkpmcUkyLVlTOWhKMGRvSHRiY1VVM0hBZjhnZUVpMGFrbmV2MTU?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-05 05:00",
+   "published_iso": "2026-07-04T20:00:00+00:00"
+  },
+  {
    "title": "ローマ教皇、移民への寛容を訴え 米建国250年に合わせて書簡",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fX3BpZDU0WlFYQWNpT3Y2Qzc4NzNwZ3U2bXQwS0dMRDFtU0lrc01XeDUyZVhWXzhWV25tRHFacXdmS1Nmc1N0Ri0tZw?oc=5",
    "source": "47NEWS",
@@ -390,14 +398,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-04 18:00",
    "published_iso": "2026-07-04T09:00:00+00:00"
-  },
-  {
-   "title": "急増する在留外国人ママを支援 官民タッグで「孤立を防げ」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPZmpQVnZpeHV6dFFTU2FLTExuR2dDNmRpU25JdlhTeEZxemUwZ3VkbFF4QjdMRkdOWU41dndRYW1qN3lNcU10S3ZaRVo5ZFpTZjlJNFBUSGxlcEFiOTE2bDhQYnJOemNn?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-04 16:00",
-   "published_iso": "2026-07-04T07:00:00+00:00"
   },
   {
    "title": "生きる力を教わり「異国飯」伝道 「傍らのひと」（９）移民の飲食店にカレー食器提供",
