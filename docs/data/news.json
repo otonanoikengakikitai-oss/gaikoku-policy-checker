@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T06:51:50+00:00",
+ "generated_at": "2026-07-09T10:22:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,78 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "大型クルーズ船「ダイヤモンド・プリンセス」、秋田港に寄港 秋田県、外国人観光客らの消費動向を調査",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUllYZ3VQZF9kQXB4SDE3ZlB2Yi1yV1M4WVZSVWc5SWw3MkJYTkxuQU1hR2ViRGI4R0Vsc3N1QVd0VFQzUUhhYUNkbURJdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-09 19:05",
+   "published_iso": "2026-07-09T10:05:54+00:00"
+  },
+  {
+   "title": "富山空港の新愛称「富山高山すし空港」に外国人観光客も賛否両論、「かなりバカバカしい」の声も",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YTg1ZVg4VzdPWGV5R2M5ZUVhelViZ05UTmlWLVFadC1QaFVuY2dWRHJGSlNFTFdObDBIUy1KWnptVTNhekJocDhwZFo1Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-09 18:50",
+   "published_iso": "2026-07-09T09:50:00+00:00"
+  },
+  {
+   "title": "富山空港の新愛称「富山高山すし空港」に外国人観光客も賛否両論、「かなりバカバカしい」の声も 地元からも「県民の声は聞いたのか」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JUXZiTXYyNDhJb3Jna1FaVnRQWndPRWxyZ0YxX01Qa3Z4dnJHTUoybXEwZ3hNUUhKRE1QbWJhOUoxUzRmOU45NlF3NnU4dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-09 18:46",
+   "published_iso": "2026-07-09T09:46:00+00:00"
+  },
+  {
+   "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xenp5X3AwR0lfanRLMFdZYjQxZnZxbWNKQ1VwM0IySERSejAzSk4tVF8yZ3RWaW8yYnBoNjRMaGNFX2IydHptVEdrbzlscWJDdFlMX3VlS2dra3o5eWxWLWw3ZHlWTThQOExnWA?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-09 18:21",
+   "published_iso": "2026-07-09T09:21:00+00:00"
+  },
+  {
+   "title": "【サンフレッチェ】オーストリアキャンプ密着 新外国人アレー選手も合流「みんなのつながりが素晴らしい」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZWVp1RmN2eDBBSC0wekxCQTlUaXM4QzE1QVlMaThwWG9ScVFPZDFzWjdvWmRCOUk4REs3c0pvU1czUXBKc1M0MzY4M1FSdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-09 17:42",
+   "published_iso": "2026-07-09T08:42:00+00:00"
+  },
+  {
+   "title": "【News English 300 words 】飲食店 外国人材に依存",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naWJyaE8xU0QyOGY4ZXpXTkRJVy1Sc2ZOQ0VnRnNXbVFqTUM5TnZ6Q0FWTEtuUG1neGYxaUpmWlVrTnZoNGxmUFNSaXdqemVzckVj?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-09 17:24",
+   "published_iso": "2026-07-09T08:24:39+00:00"
+  },
+  {
+   "title": "ロヒンギャ難民８人死亡＝豪雨で土砂崩れ―バングラデシュ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ubFMtekZIejg2Sm1UZm85X1VGQml5b2tnWUdiSnMtd1JKZjdrTGMxaVExcDRCeDcyWVpHcTlKU1l5UmVmRXh5OEhCMmp1X3ZNVU5aUQ?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-09 17:21",
+   "published_iso": "2026-07-09T08:21:00+00:00"
+  },
+  {
+   "title": "「数合わせ」ではない障害者雇用へ 4.38%達成した企業の発想",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PdGk4NkNfemRmM2JndEVPTk11Tml3RGpZQXY5akFxalBNNnJxTVR0bWRhcDBoTHo1WTdXN1ZkZWNuclhQZDhublJvLVBoQ19KNFdROUlERGFqZFRjN3hTX3hNdkFhcnY2?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-09 17:00",
+   "published_iso": "2026-07-09T08:00:00+00:00"
+  },
+  {
+   "title": "外国人客 「ゴールデンルート」から誘客 地元事業者、首都圏と連携 連載【やまぐち観光新章へ】第1部㊤",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVUGd3bW43Qk1GclR3OUtLSUVfaW91OXdOMTVCUWRlVmo0SUQ4R3JHZG13MFlXSE1kU3R4TVktUmpfdm0tM1h1dW5kOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 16:19",
+   "published_iso": "2026-07-09T07:19:00+00:00"
+  },
   {
    "title": "大分の外国人留学生、京都・東京に次ぐ全国3位 人口10万人あたり331人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZDhfU0VGSDRYQVRENHpBSGtzWXFOcXBTdHVIWVhDTmNVWm1jb2xkS2N5UVBPVFN3by1Sc0NPbjI4Y3BIYlNidTh4TllTeGVVSkE5SzlLRTBhTFc3cHJCTDRWSDkzUWEtTU5qQQ?oc=5",
@@ -24,12 +96,12 @@
    "published_iso": "2026-07-09T05:00:00+00:00"
   },
   {
-   "title": "洗濯代行サービス「オーサムウォッシュ」、外国人観光客・出張者向けに「当日配達プラン」を新設",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aQXRmamtYNXB4VkE1ZGxGNlY4RDhydG9QZEtJT1BKLTRtR3pYTzYycDB4d1hSb2ZaaUMyeks2bDVtMFZwTXBYM09ndXpjVF9KRnpkMDdMT0FCenIyV09LNUw5OEh1TVJyZlFJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-09 10:45",
-   "published_iso": "2026-07-09T01:45:00+00:00"
+   "title": "【画像まとめ】外国人客が中古時計店に殺到 日本製の品質に魅了され セイコーずば抜けて人気",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOVlQTTNVYzU3VzFxTWg4eF9YcnJSQloxQ0t1VmhwWVN4ZXJfdm01U0dPdTJKd0FtNkVYVVVrR2hzUUJuU1RPZjQxVWZGYW9sZHhCemo2SzItUENGRHdmcWdiZ2VoeVpiR1RVaDBhQS10S2twWHNHQnFHOA?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-09 13:22",
+   "published_iso": "2026-07-09T04:22:00+00:00"
   },
   {
    "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
@@ -46,14 +118,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 09:03",
    "published_iso": "2026-07-09T00:03:54+00:00"
-  },
-  {
-   "title": "【愛知県西尾市】知らなかったでは済まされない！外国人材の雇用に関わる企業の役割 企業向け「外国人材セミナー」開催！",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlcWV0MEV3Szg1N2pfaHdYVUZmeHJ2el8zV3c3b2VXRVRVNWhiWUZEbjNnWTRkVV9rdEtXYkxnaEZJMzhQWTh3bkpNS3QySXZ4bFEzSnRPRFlxWlRtaWdYMUEwUVlHQmhycTRiYmdZbTdVZ3NNUWZxeDA4MA?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-09 09:00",
-   "published_iso": "2026-07-09T00:00:00+00:00"
   },
   {
    "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
@@ -104,6 +168,14 @@
    "published_iso": "2026-07-08T17:00:00+00:00"
   },
   {
+   "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-08 23:11",
+   "published_iso": "2026-07-08T14:11:00+00:00"
+  },
+  {
    "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
    "source": "日テレNEWS NNN",
@@ -118,14 +190,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-08 19:01",
    "published_iso": "2026-07-08T10:01:00+00:00"
-  },
-  {
-   "title": "関空で金25キロ・3億6千万円相当の密輸発覚 外国人2人を逮捕 SNSで中国にいる人物から指示か",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEdRRFUwVkVScmR4T3dBZUNlTkJDWjU1VV9JMGpWOWxveXQydFU5d1FDelJqV2tCcUZ5VVcwTktkNk5FWHloVi1tUmJKRTludVh6QjBJRlE2SElrS013dEM1Qm1GcXY2bDQ1cnpacDlfdC1yRDRNM1BhVlVYRFduLVIyYlE5dDA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 18:49",
-   "published_iso": "2026-07-08T09:49:00+00:00"
   },
   {
    "title": "夏の浴衣人気、外国人客にも 札幌でレンタル需要増 「気軽な着物」商機に",
@@ -144,28 +208,12 @@
    "published_iso": "2026-07-08T08:48:18+00:00"
   },
   {
-   "title": "【解説】在留許可手数料、最大7万5000円に引き上げ案 専門家が算定根拠に「不均衡」と指摘",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTWlpSUJLT0t0WWxKdjV3RHVUSlVKUWVBdkI5RWhsQUMydWpuekp1MG8zdFlLZDFJeTZIWVJZZldoSm5KY0hHYzNsSkg3NGhRcEdNc051ZFBKemw2U25BcGFqWUVQWUFNYjdUVDhWUG50c1pJTzNyQVJWblo?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 17:33",
-   "published_iso": "2026-07-08T08:33:00+00:00"
-  },
-  {
    "title": "プレスリリース：［JAF札幌］外国人就労者に日本の交通ルールを知ってもらおう！（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFT3FCN2xXejlwTUFIcE94Q2pXaFBUZTlSeVlSWTMzOFJ4V0Mwa1RQdnJSMkI1NlhDRHVGbVc2bjd5cHdCMjlJc2kwcURGUC1YaFFYQ1lyMVVybWVGaXpPYjRKRVkwMkM0?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-08 13:21",
    "published_iso": "2026-07-08T04:21:46+00:00"
-  },
-  {
-   "title": "リネットＪ",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmRwYXEtSzY4T0lxQTJjZWFjZXJDaTB3eVRBcWNnWG4xdVNLYmNsQWM2aDJ1U09GZjlYdlMtTXFZTWNqOGt5RkVoZWxHbkZsR2E2ZUxnU0s3LWEzZFM1cW5uOXptbmxvaTRIYk1ORkQ1RndxQjA3TE5rSHhZZzZWVnlldlh6THJqT3d2M1QxN0JoV0VwZHRIcUNpQ09Od1dRdUVYRkRmNkYtNVRDeTdOT092UWk5aVlUNzhJMk1zUkZJSzNjVjFsbDdwNWU?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 13:00",
-   "published_iso": "2026-07-08T04:00:00+00:00"
   },
   {
    "title": "三重県、外国人宿泊者数１００万人計画…遷宮後見据え２０３５年 台湾、タイなど重点：地域ニュース",
@@ -216,28 +264,12 @@
    "published_iso": "2026-07-07T20:05:00+00:00"
   },
   {
-   "title": "英国の反移民党首が議員辞職 利益供与を否定、補選出馬へ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOVhIZ1g5Znh1Z0drTGllV3JUYUZFS0pfQkpCR3d6YmtvSjJDNWRJWEpIUjVPLUFmSzJFMG9LN0VtQUQ4ZG16M3h3Z2ZYZm5oc1VIU2ZQdTZpdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-07 23:57",
-   "published_iso": "2026-07-07T14:57:34+00:00"
-  },
-  {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOE1RRTI3RkZPQ3RQeVpmYmRtMktjcEpJNGFyWW5qRWF4NzZiZE1HemswWXo2M1p4X2NsVXNITllvYmZBdm1PTGQ0UGFmanNaNTF4QlhSTnRvdkZVZjBsRkwwdUxETWg4S1htMA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-07 18:45",
    "published_iso": "2026-07-07T09:45:31+00:00"
-  },
-  {
-   "title": "情報難民を作らない！地震と豪雨二重災害の町に生まれた「まちのラジオ」が開局1周年",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNlMkRRUlNRbnFNYm0wcUhSa001SGNPU2RjSXY2azJnWFBOR2dCckc5bzJIeVlXNzFHUkVGQlp4Ulc1TlBMcDc3alFyZ2hEYkxrYkJoTzVNZnBfTWhuTE5fMGNtZDFiZ3phSG1UbXZJSEoySURuOXdrRGtTYUZrZmsybEdkSUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-07 18:43",
-   "published_iso": "2026-07-07T09:43:00+00:00"
   },
   {
    "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
@@ -336,14 +368,6 @@
    "published_iso": "2026-07-06T13:00:42+00:00"
   },
   {
-   "title": "サンフレッチェ広島が新外国人を獲得 欧州で豊富な実績の元得点王（2026年7月6日掲載）｜広テレ！NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzlfQ1pFZEdGWjcwdUVReWxEWW1XZnpYQWFobm9tTDVGT1BQNl91S3ZTQVpzNXRrLXc0Z2FvUHpkcktnNm4wczhZbHNvU0tyZ25ySi11WlB1cThfWlZNcW53YWVDZHI5dnBySFdYUW44N1ZhcGtpRjBFUk5Na0J3UG9MTGNTUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-06 19:54",
-   "published_iso": "2026-07-06T10:54:00+00:00"
-  },
-  {
    "title": "四国初の外国人バス運転手、ベトナム人男性２人が県庁を表敬訪問…特定技能に「自動車運送業」追加で受け入れ可能に",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVF8wbkNzTWdyQXNfZmFlcHhfZDZtU29zYjF4SVVUdnhUR3I1QThuME80UXN3b0w3bWxRSnR2R3RhUVczaERXT0lfQUU1XzViTHU1V0R0bzVzVDRSZXFkSzVmQ29WQUM1UXNHSm12UUlxdw?oc=5",
    "source": "読売新聞",
@@ -368,14 +392,6 @@
    "published_iso": "2026-07-05T17:01:08+00:00"
   },
   {
-   "title": "「アジア最大級の国際犯罪組織」最高幹部とされる男、入管難民法違反容疑で再逮捕…日本で長期滞在図ったか",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EcXlXZWVCN19NTXFFekxkcWtFQ1NiUDNXVG9VeC05NzNyZmZ0ZzA2bFFMNlMzNk9qbVk1a3VBV29MVUNBTGZVcUhEZDFFVzlwWDAtVmU5UDB0OHFLODlRQVNDTkcyUQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-05 18:20",
-   "published_iso": "2026-07-05T09:20:00+00:00"
-  },
-  {
    "title": "“アジア最大級の犯罪組織”「プリンス・グループ」最高幹部とみられる男 入管難民法違反容疑で再逮捕 日本でうその住民異動届を提出した疑いですでに逮捕 警視庁",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paEppOU0yeHZTdjRHVDR3OHhkaUE4ZDdqQU0wR2xZbVlrTmhXVGdtV3ZoYVFHUU9Cd3M2UG05bXZrSTdOUmxhUFNaUko0RGkzc3R0TW40TQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -390,22 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-05 11:00",
    "published_iso": "2026-07-05T02:00:00+00:00"
-  },
-  {
-   "title": "多文化食べて考える『ガチ中華移民』中村正人著 ＜書評＞評・西山守（桜美林大准教授）",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeEFmcUJBV3lha1dSN2ZyU3FGMFU5eFBXeDNzU0MwdmNOcGJkY0h0ODZWa0FKNC1HdVFwQVdadHoyVXhjYklvZnkwWXk1eTdsWndRV0htblEzcHhkQUJVN2Q1LTdTYlVqZlg3YlZUM1Ayak53OGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-05 08:00",
-   "published_iso": "2026-07-04T23:00:00+00:00"
-  },
-  {
-   "title": "ドイツ東部２州の政権奪取を誓う 反移民の右派が党大会",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51UUZrTXJXczloWFg3MWVZVzhuUFpuQm1hSTZPUjZBZXNIXzlwNFBLME9jTmZoYUxNZlUwNy1KOHE0Vjc3WG04WXZBT3h2UWRqR2hJ?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-05 07:52",
-   "published_iso": "2026-07-04T22:52:00+00:00"
   }
  ]
 }
