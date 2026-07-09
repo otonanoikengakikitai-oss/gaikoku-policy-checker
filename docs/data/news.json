@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T16:25:59+00:00",
+ "generated_at": "2026-07-09T18:49:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "米移民当局がメキシコ人男性を射殺、摘発を再強化か 南部テキサス州",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRWNXbjE3bnhZb3lsSWJLclVCYmN4c2hWZl9yTGNiX1MyYjdmazFWZUFDWUxJTklqVFljeGtfNE84ancxSUxBUEYxUF92djc0TllPbWNXWEZHS2x5OGpZZ2FZZF9LSnRPWUhNRw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-10 03:08",
+   "published_iso": "2026-07-09T18:08:27+00:00"
+  },
+  {
+   "title": "ヤクルトが外国人3投手で無安打無得点試合、池山監督の継投ズバリ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKREVDYmpZYTI4VGZFWERyTnh0TnNBSmtvazJQOENSTzRSVTRFSU1iOC1Odkg1S0E0XzF5NWh0WGs4T042c3hHaXZqX1J6Rm1JYVBvV08wVndsOHZhWEN3bFFEeG5DdUk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 23:14",
+   "published_iso": "2026-07-09T14:14:46+00:00"
+  },
   {
    "title": "外国人不正就労の疑い 宮城の解体工事会社代表ら2人逮捕 不法残留のベトナム人働かせる",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VHE2SnB3ZTMwSlg5M1JOT3NJWG82Wm5mQmlhX29wVy1zYVc4THNlWXJJcmJWaTZxc0t0WjItbU5ibl9nbktWZXhzek9ELWdQY1Utd0syUEZrSkpnTlhCZ0VrMDlGUk9uRmV1UW5VX2pIRndwY2c?oc=5",
@@ -40,20 +56,20 @@
    "published_iso": "2026-07-09T12:09:58+00:00"
   },
   {
-   "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-09 21:09",
-   "published_iso": "2026-07-09T12:09:46+00:00"
-  },
-  {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSU9YeEJVZm85T1lwQXpQcUVCN21yZGFZbTNfTEhqMGFSU2hORmh6OHBTY0MtNUFaWmVLdWhqLW43OUJ1N3ozX3o4QVBHYmQ4UlcxSEw0VkprbEh6b1BHT2s3aTRncUU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-09 20:55",
    "published_iso": "2026-07-09T11:55:36+00:00"
+  },
+  {
+   "title": "“なごやめし”を支える外国人労働者 特定技能の受け入れ停止で広がる不安 外食・介護の現場に危機感",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NHLWtxTEFMb2RKMlgxN2szY3lNWjRORGhLMWNWdUNBd3JiT0VlS29WSXVSVmJZVXhVNUE2LU1WTXExRUhfVTdieUpjOHU5TFR2c1hwQUhYekhZQTFudHd1TkVlc2dIWFhLUS0yMFdDNFJCZzRrVmQ4YXN3cy1FM3VvVzNrZFE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-09 20:25",
+   "published_iso": "2026-07-09T11:25:00+00:00"
   },
   {
    "title": "外国人の適正な雇用推進、長野駅で訴え 東京入管や県警など",
@@ -70,14 +86,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-09 18:50",
    "published_iso": "2026-07-09T09:50:00+00:00"
-  },
-  {
-   "title": "「かなりバカバカしい」の声も 富山空港の新愛称「富山高山すし空港」に外国人観光客は賛否両論、 地元からも「県民の声は聞いたのか」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JUXZiTXYyNDhJb3Jna1FaVnRQWndPRWxyZ0YxX01Qa3Z4dnJHTUoybXEwZ3hNUUhKRE1QbWJhOUoxUzRmOU45NlF3NnU4dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-09 18:46",
-   "published_iso": "2026-07-09T09:46:00+00:00"
   },
   {
    "title": "◎ロヒンギャ難民８人死亡",
@@ -120,9 +128,9 @@
    "published_iso": "2026-07-09T08:24:39+00:00"
   },
   {
-   "title": "ロヒンギャ難民８人死亡＝豪雨で土砂崩れ―バングラデシュ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ubFMtekZIejg2Sm1UZm85X1VGQml5b2tnWUdiSnMtd1JKZjdrTGMxaVExcDRCeDcyWVpHcTlKU1l5UmVmRXh5OEhCMmp1X3ZNVU5aUQ?oc=5",
-   "source": "時事通信ニュース",
+   "title": "ロヒンギャ難民８人死亡 豪雨で土砂崩れ―バングラデシュ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9waWlRa25TUTVBTUZSUXpUMHNvN21ISE5CMDdxbEtTMlAwR0dVUHZ3bkVPYkQ4N3ZzQXNIYy15eWtOU1h4SnlKbDhoek54LXNoSWQ2d3FOZ2ZtVm9GZDY3TExWUQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-09 17:21",
    "published_iso": "2026-07-09T08:21:00+00:00"
@@ -382,14 +390,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-06 22:00",
    "published_iso": "2026-07-06T13:00:42+00:00"
-  },
-  {
-   "title": "四国初の外国人バス運転手、ベトナム人男性２人が県庁を表敬訪問…特定技能に「自動車運送業」追加で受け入れ可能に",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVF8wbkNzTWdyQXNfZmFlcHhfZDZtU29zYjF4SVVUdnhUR3I1QThuME80UXN3b0w3bWxRSnR2R3RhUVczaERXT0lfQUU1XzViTHU1V0R0bzVzVDRSZXFkSzVmQ29WQUM1UXNHSm12UUlxdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-06 17:32",
-   "published_iso": "2026-07-06T08:32:46+00:00"
   },
   {
    "title": "移民排斥にあらがい「社会を面白く」混迷照らすアートの力とは",
