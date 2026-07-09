@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T13:47:58+00:00",
+ "generated_at": "2026-07-09T16:25:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -16,14 +16,6 @@
    "published_iso": "2026-07-09T13:37:35+00:00"
   },
   {
-   "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSU9YeEJVZm85T1lwQXpQcUVCN21yZGFZbTNfTEhqMGFSU2hORmh6OHBTY0MtNUFaWmVLdWhqLW43OUJ1N3ozX3o4QVBHYmQ4UlcxSEw0VkprbEh6b1BHT2s3aTRncUU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 22:03",
-   "published_iso": "2026-07-09T13:03:40+00:00"
-  },
-  {
    "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDRNV0tGbDB5Q1JLaWhMR09sTkM3dkVOYzlQSmdDcFk0WWVvLUFRS0kyZ1F5VXBZMVhSazJVQnhPX0QxYmlrdWVyN3FfVUR5RmlkSUcwdE9GY1I0cWFCa2tLY3k0ZzlWVFFqc2JiazRzV1FNS0N0ZVJtd1dzM1NNeG53ZlU?oc=5",
    "source": "日テレNEWS NNN",
@@ -32,12 +24,36 @@
    "published_iso": "2026-07-09T12:38:00+00:00"
   },
   {
+   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 21:15",
+   "published_iso": "2026-07-09T12:15:00+00:00"
+  },
+  {
+   "title": "ヤクルト、継投で無安打無得点 外国人3投手で達成、広島戦",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWkhPbVJDdVdhNTJyYTRTVkQ1OHB1NENGXzlYNXM0Z3BzVVFIN2l3ckpyb3ZDSDNMZ0lGbnFWT3JQTlRiRnRlRFltTUl5VWF5WHhGV2pn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-09 21:09",
+   "published_iso": "2026-07-09T12:09:58+00:00"
+  },
+  {
    "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-09 21:09",
    "published_iso": "2026-07-09T12:09:46+00:00"
+  },
+  {
+   "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZSU9YeEJVZm85T1lwQXpQcUVCN21yZGFZbTNfTEhqMGFSU2hORmh6OHBTY0MtNUFaWmVLdWhqLW43OUJ1N3ozX3o4QVBHYmQ4UlcxSEw0VkprbEh6b1BHT2s3aTRncUU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 20:55",
+   "published_iso": "2026-07-09T11:55:36+00:00"
   },
   {
    "title": "外国人の適正な雇用推進、長野駅で訴え 東京入管や県警など",
@@ -56,7 +72,7 @@
    "published_iso": "2026-07-09T09:50:00+00:00"
   },
   {
-   "title": "富山空港の新愛称「富山高山すし空港」に外国人観光客も賛否両論、「かなりバカバカしい」の声も 地元からも「県民の声は聞いたのか」",
+   "title": "「かなりバカバカしい」の声も 富山空港の新愛称「富山高山すし空港」に外国人観光客は賛否両論、 地元からも「県民の声は聞いたのか」",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JUXZiTXYyNDhJb3Jna1FaVnRQWndPRWxyZ0YxX01Qa3Z4dnJHTUoybXEwZ3hNUUhKRE1QbWJhOUoxUzRmOU45NlF3NnU4dw?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
@@ -80,6 +96,14 @@
    "published_iso": "2026-07-09T09:21:00+00:00"
   },
   {
+   "title": "大型クルーズ船「ダイヤモンド・プリンセス」、秋田港に寄港 秋田県、外国人観光客らの消費動向を調査",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUllYZ3VQZF9kQXB4SDE3ZlB2Yi1yV1M4WVZSVWc5SWw3MkJYTkxuQU1hR2ViRGI4R0Vsc3N1QVd0VFQzUUhhYUNkbURJdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-09 18:00",
+   "published_iso": "2026-07-09T09:00:00+00:00"
+  },
+  {
    "title": "【サンフレッチェ】オーストリアキャンプ密着 新外国人アレー選手も合流「みんなのつながりが素晴らしい」",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZWVp1RmN2eDBBSC0wekxCQTlUaXM4QzE1QVlMaThwWG9ScVFPZDFzWjdvWmRCOUk4REs3c0pvU1czUXBKc1M0MzY4M1FSdw?oc=5",
    "source": "FNNプライムオンライン",
@@ -96,9 +120,9 @@
    "published_iso": "2026-07-09T08:24:39+00:00"
   },
   {
-   "title": "ロヒンギャ難民８人死亡 豪雨で土砂崩れ―バングラデシュ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9waWlRa25TUTVBTUZSUXpUMHNvN21ISE5CMDdxbEtTMlAwR0dVUHZ3bkVPYkQ4N3ZzQXNIYy15eWtOU1h4SnlKbDhoek54LXNoSWQ2d3FOZ2ZtVm9GZDY3TExWUQ?oc=5",
-   "source": "時事ドットコム",
+   "title": "ロヒンギャ難民８人死亡＝豪雨で土砂崩れ―バングラデシュ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ubFMtekZIejg2Sm1UZm85X1VGQml5b2tnWUdiSnMtd1JKZjdrTGMxaVExcDRCeDcyWVpHcTlKU1l5UmVmRXh5OEhCMmp1X3ZNVU5aUQ?oc=5",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-07-09 17:21",
    "published_iso": "2026-07-09T08:21:00+00:00"
@@ -128,12 +152,12 @@
    "published_iso": "2026-07-09T06:15:09+00:00"
   },
   {
-   "title": "【画像まとめ】外国人客が中古時計店に殺到 日本製の品質に魅了され セイコーずば抜けて人気",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOVlQTTNVYzU3VzFxTWg4eF9YcnJSQloxQ0t1VmhwWVN4ZXJfdm01U0dPdTJKd0FtNkVYVVVrR2hzUUJuU1RPZjQxVWZGYW9sZHhCemo2SzItUENGRHdmcWdiZ2VoeVpiR1RVaDBhQS10S2twWHNHQnFHOA?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-09 13:22",
-   "published_iso": "2026-07-09T04:22:00+00:00"
+   "title": "東広島市の山里に世界への扉 古民家カフェで月替わりのの各国料理やイベント【多文化共生のまち 芸南賀茂】",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tdHhnNmJDWW1rNWtRR09TZUI5Q3p6bUs2d0piNGs4NHdyb0xyMlN2OTNyZk9GVEkwTnMtZ1JsZlNicTlUd3QzN194SQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 12:12",
+   "published_iso": "2026-07-09T03:12:20+00:00"
   },
   {
    "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
@@ -208,28 +232,20 @@
    "published_iso": "2026-07-08T14:11:00+00:00"
   },
   {
-   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 20:39",
-   "published_iso": "2026-07-08T11:39:00+00:00"
-  },
-  {
-   "title": "「観光宮崎」を支える宿泊事業者の就職面談会 人手不足の中 外国人材へ高まる期待",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYVUybmRMVVZvMzZGVExUS052TGdILVF0TUppcWRVaGRfY1JkeE8wRFkzTWt0RzRET3ZVTkF1eEd2dEpPMTFmampWbG9zTEVsc3QxWTF1UlJydw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-08 19:01",
-   "published_iso": "2026-07-08T10:01:00+00:00"
-  },
-  {
    "title": "パーソルキャリア、外国人紹介子会社を農業派遣のYUIMEに売却",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85VUYxbmNFQ2hlMm9DWWhkNktEMk5oMGg2WThvdkNYRnJ3czNDVVVpMy1tTkxJV2k0djA2dTBvcVVJLXc3V0tic245V1pNNFFkSU1rdkY0cUgxSV9fOVdxazFsc1FGN3NPc0cwZw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-08 17:48",
    "published_iso": "2026-07-08T08:48:18+00:00"
+  },
+  {
+   "title": "米移民捜査官、メキシコ人男性を射殺 1月以来か、FBI捜査へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kV0JyX01aV01WeWpoUngzQ0dDbm5CUGlUcTZFbDVqMFRZN1FSN1RyNXpYa19ucW51c2NfeVp4TGZpYTdHeV9WLWN6N0NWYUpjRzFaVngwcXdWOUpqYWJGc3BvQWtCQk1z?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-08 15:16",
+   "published_iso": "2026-07-08T06:16:56+00:00"
   },
   {
    "title": "リネットＪ",
@@ -376,14 +392,6 @@
    "published_iso": "2026-07-06T08:32:46+00:00"
   },
   {
-   "title": "偏在ニッポン! “ヘア難民”と店を飛び出した美容師【東北ココから】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMlBkb3RGdnlJNlV4N3NQVkFXMy1XNE9fYzhaMjc1V0hSNlZTSEE3N1c0ODYwNG9PNE5Rd1MxNGsxdXpsbmkxTUJ2MFVHaUhib3gtcll1OWxwRHRRYnZlWlZmbzM?oc=5",
-   "source": "nhk.or.jp",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-07-06 15:40",
-   "published_iso": "2026-07-06T06:40:52+00:00"
-  },
-  {
    "title": "移民排斥にあらがい「社会を面白く」混迷照らすアートの力とは",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jcjhSSGs1RUVfR3UwTkl5U1BQNF9oLWkzMzQxT2tHVWxkY1Q3c0NWRGVXemZrZzhWSGxGbEdEblA0amxRaC0tWjdvQkVTdG81V0s2dm5tQk9TUVJpaEUtejNILV9ZLVVz?oc=5",
    "source": "毎日新聞",
@@ -398,14 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-05 05:00",
    "published_iso": "2026-07-04T20:00:00+00:00"
-  },
-  {
-   "title": "［社説］外国人への日本語講習を共生社会の礎に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTFk1aGxvMUhtbjJ2WXBuMUdvTWRjSVF6aFdsbDVUQ1VPdWRVVDNvMjZQTzR6TEhHVzQydzEwRFk5cFFfVFJuZnNEellNZU4xRWs2NzV1MUU0SmZkaUM0LWpEN056NzNMQ21LbQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-04 19:05",
-   "published_iso": "2026-07-04T10:05:00+00:00"
   }
  ]
 }
