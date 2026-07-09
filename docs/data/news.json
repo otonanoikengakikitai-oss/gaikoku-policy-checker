@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T20:45:52+00:00",
+ "generated_at": "2026-07-09T22:20:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "［福岡県］働く外国人「楽に」意思疎通 産学官プロジェクト 九工大生、日本語学習アプリ開発に力 現場の声反映、実用化目指す",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-10 06:00",
+   "published_iso": "2026-07-09T21:00:00+00:00"
+  },
   {
    "title": "県議会一般質問 外国人の子育て、アイパル香川に支援拠点 高松港周辺駐車場、キャッシュレス対応推進",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fdFYteTBqUFNhRG9pcVNPMW1iSzh0OWhQbHNQS0VrVDZGN2xFNGtwTnhwV2UzaG1UTEdHRk9Fa1Z5UE1XUkQwNk9Gbw?oc=5",
@@ -32,14 +40,6 @@
    "published_iso": "2026-07-09T18:08:27+00:00"
   },
   {
-   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 23:17",
-   "published_iso": "2026-07-09T14:17:01+00:00"
-  },
-  {
    "title": "外国人不正就労の疑い 宮城の解体工事会社代表ら2人逮捕 不法残留のベトナム人働かせる",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VHE2SnB3ZTMwSlg5M1JOT3NJWG82Wm5mQmlhX29wVy1zYVc4THNlWXJJcmJWaTZxc0t0WjItbU5ibl9nbktWZXhzek9ELWdQY1Utd0syUEZrSkpnTlhCZ0VrMDlGUk9uRmV1UW5VX2pIRndwY2c?oc=5",
    "source": "産経ニュース",
@@ -56,12 +56,28 @@
    "published_iso": "2026-07-09T12:38:00+00:00"
   },
   {
+   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 21:15",
+   "published_iso": "2026-07-09T12:15:00+00:00"
+  },
+  {
    "title": "ヤクルト、継投で無安打無得点 外国人3投手で達成、広島戦",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWkhPbVJDdVdhNTJyYTRTVkQ1OHB1NENGXzlYNXM0Z3BzVVFIN2l3ckpyb3ZDSDNMZ0lGbnFWT3JQTlRiRnRlRFltTUl5VWF5WHhGV2pn?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-09 21:09",
    "published_iso": "2026-07-09T12:09:58+00:00"
+  },
+  {
+   "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-09 21:09",
+   "published_iso": "2026-07-09T12:09:46+00:00"
   },
   {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
@@ -72,7 +88,7 @@
    "published_iso": "2026-07-09T11:55:36+00:00"
   },
   {
-   "title": "“なごやめし”を支える外国人労働者 特定技能の受け入れ停止で広がる不安 外食・介護の現場に危機感",
+   "title": "“なごやめし”を支える外国人労働者 特定技能の受け入れ停止で広がる不安 外食・介護の現場に危機感（2026年7月9日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NHLWtxTEFMb2RKMlgxN2szY3lNWjRORGhLMWNWdUNBd3JiT0VlS29WSXVSVmJZVXhVNUE2LU1WTXExRUhfVTdieUpjOHU5TFR2c1hwQUhYekhZQTFudHd1TkVlc2dIWFhLUS0yMFdDNFJCZzRrVmQ4YXN3cy1FM3VvVzNrZFE?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
@@ -112,20 +128,20 @@
    "published_iso": "2026-07-09T08:42:00+00:00"
   },
   {
-   "title": "【News English 300 words 】飲食店 外国人材に依存",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naWJyaE8xU0QyOGY4ZXpXTkRJVy1Sc2ZOQ0VnRnNXbVFqTUM5TnZ6Q0FWTEtuUG1neGYxaUpmWlVrTnZoNGxmUFNSaXdqemVzckVj?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-09 17:24",
-   "published_iso": "2026-07-09T08:24:39+00:00"
-  },
-  {
    "title": "ロヒンギャ難民８人死亡 豪雨で土砂崩れ―バングラデシュ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9waWlRa25TUTVBTUZSUXpUMHNvN21ISE5CMDdxbEtTMlAwR0dVUHZ3bkVPYkQ4N3ZzQXNIYy15eWtOU1h4SnlKbDhoek54LXNoSWQ2d3FOZ2ZtVm9GZDY3TExWUQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-09 17:21",
    "published_iso": "2026-07-09T08:21:00+00:00"
+  },
+  {
+   "title": "【News English 300 words 】飲食店 外国人材に依存",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Td01lTjNWT042OC1sSnVIeXpGQUo2d09KQVdvekswUDVfZllTb0c1cjQ5SU5jT1J0TjhWVXNKYm1zWnc3Vnh2Zk9SM2NDVzNTYUZTOVZxMDM0ZEJOTnhNODhWYXZBMUZSYnQ3LThBdkpjVEZVbXc?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-09 17:00",
+   "published_iso": "2026-07-09T08:00:00+00:00"
   },
   {
    "title": "「数合わせ」ではない障害者雇用へ 4.38%達成した企業の発想",
@@ -222,6 +238,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-08 23:11",
    "published_iso": "2026-07-08T14:11:00+00:00"
+  },
+  {
+   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-08 20:39",
+   "published_iso": "2026-07-08T11:39:00+00:00"
   },
   {
    "title": "パーソルキャリア、外国人紹介子会社を農業派遣のYUIMEに売却",
@@ -382,30 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-05 11:00",
    "published_iso": "2026-07-05T02:00:00+00:00"
-  },
-  {
-   "title": "外国人材 定着支える ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3ZydGY0cXhIQjFSNU1oWkdVeVlSa1liV2ZtcGJLSFhuRGJCUzZDZGdLQVg4VWlPMGJWU0p4Y1JHMGx3ekh1el9SR2NhODlSY1MycUNza2xQNmpFMEdaTGxaLUtUVGhuMmNNXzF6Umk1RzJpT1Y0d2J0akxiR3JTLVFR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-05 05:00",
-   "published_iso": "2026-07-04T20:00:00+00:00"
-  },
-  {
-   "title": "ローマ教皇、移民への寛容を米国民に訴え 建国250年で書簡",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qR2k5MUlYZDgwb01zdjBPX3BxaEpfYmNqY3JoRmpaeldFbUs2UnJqYTBUMFZDNU96MXlhS2swU2g3aTRvUW8tRkNpeEIzeFV0Vkg4MkNrOGZqa0J4eFJkeGRibG1JN19qbUo4Ug?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-04 22:15",
-   "published_iso": "2026-07-04T13:15:01+00:00"
-  },
-  {
-   "title": "［社説］外国人への日本語講習を共生社会の礎に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTFk1aGxvMUhtbjJ2WXBuMUdvTWRjSVF6aFdsbDVUQ1VPdWRVVDNvMjZQTzR6TEhHVzQydzEwRFk5cFFfVFJuZnNEellNZU4xRWs2NzV1MUU0SmZkaUM0LWpEN056NzNMQ21LbQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-04 19:05",
-   "published_iso": "2026-07-04T10:05:00+00:00"
   }
  ]
 }
