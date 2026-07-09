@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T18:49:04+00:00",
+ "generated_at": "2026-07-09T20:45:52+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "県議会一般質問 外国人の子育て、アイパル香川に支援拠点 高松港周辺駐車場、キャッシュレス対応推進",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fdFYteTBqUFNhRG9pcVNPMW1iSzh0OWhQbHNQS0VrVDZGN2xFNGtwTnhwV2UzaG1UTEdHRk9Fa1Z5UE1XUkQwNk9Gbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-10 04:00",
+   "published_iso": "2026-07-09T19:00:00+00:00"
+  },
+  {
+   "title": "日本代表、外国人の心つかむ 漫画、アニメをきっかけに",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiMTZ3LVI2Rk5ZMGpTM2NLRElVZS1KWThpNUpSaFl4UVB0UzFNbUFRVlk0T3FfZHE4Z0puZkNQOXJ5VDF6ZlFVR0ctR2x3U2VfeFJIVUNB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-10 03:47",
+   "published_iso": "2026-07-09T18:47:39+00:00"
+  },
   {
    "title": "米移民当局がメキシコ人男性を射殺、摘発を再強化か 南部テキサス州",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRWNXbjE3bnhZb3lsSWJLclVCYmN4c2hWZl9yTGNiX1MyYjdmazFWZUFDWUxJTklqVFljeGtfNE84ancxSUxBUEYxUF92djc0TllPbWNXWEZHS2x5OGpZZ2FZZF9LSnRPWUhNRw?oc=5",
@@ -16,12 +32,12 @@
    "published_iso": "2026-07-09T18:08:27+00:00"
   },
   {
-   "title": "ヤクルトが外国人3投手で無安打無得点試合、池山監督の継投ズバリ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKREVDYmpZYTI4VGZFWERyTnh0TnNBSmtvazJQOENSTzRSVTRFSU1iOC1Odkg1S0E0XzF5NWh0WGs4T042c3hHaXZqX1J6Rm1JYVBvV08wVndsOHZhWEN3bFFEeG5DdUk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 23:14",
-   "published_iso": "2026-07-09T14:14:46+00:00"
+   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 23:17",
+   "published_iso": "2026-07-09T14:17:01+00:00"
   },
   {
    "title": "外国人不正就労の疑い 宮城の解体工事会社代表ら2人逮捕 不法残留のベトナム人働かせる",
@@ -38,14 +54,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-09 21:38",
    "published_iso": "2026-07-09T12:38:00+00:00"
-  },
-  {
-   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 21:15",
-   "published_iso": "2026-07-09T12:15:00+00:00"
   },
   {
    "title": "ヤクルト、継投で無安打無得点 外国人3投手で達成、広島戦",
@@ -72,14 +80,6 @@
    "published_iso": "2026-07-09T11:25:00+00:00"
   },
   {
-   "title": "外国人の適正な雇用推進、長野駅で訴え 東京入管や県警など",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Tbi1IQVBDTmZRbWFLV29tNGpTRDE4MjdLd0tMbFpXRDV0MjNSN2VzM2h3TUZJTzhCS0NvMk45a2RTTWVNY2RLa3NpZW1hcUhkWEJFMTdNc2VrekVyTXg2WTRvTHJXc1R5aHNLWFB0UU8?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-09 20:22",
-   "published_iso": "2026-07-09T11:22:00+00:00"
-  },
-  {
    "title": "富山空港の新愛称「富山高山すし空港」に外国人観光客も賛否両論、「かなりバカバカしい」の声も",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YTg1ZVg4VzdPWGV5R2M5ZUVhelViZ05UTmlWLVFadC1QaFVuY2dWRHJGSlNFTFdObDBIUy1KWnptVTNhekJocDhwZFo1Zw?oc=5",
    "source": "FNNプライムオンライン",
@@ -102,14 +102,6 @@
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-09 18:21",
    "published_iso": "2026-07-09T09:21:00+00:00"
-  },
-  {
-   "title": "大型クルーズ船「ダイヤモンド・プリンセス」、秋田港に寄港 秋田県、外国人観光客らの消費動向を調査",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BUllYZ3VQZF9kQXB4SDE3ZlB2Yi1yV1M4WVZSVWc5SWw3MkJYTkxuQU1hR2ViRGI4R0Vsc3N1QVd0VFQzUUhhYUNkbURJdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-09 18:00",
-   "published_iso": "2026-07-09T09:00:00+00:00"
   },
   {
    "title": "【サンフレッチェ】オーストリアキャンプ密着 新外国人アレー選手も合流「みんなのつながりが素晴らしい」",
@@ -168,6 +160,14 @@
    "published_iso": "2026-07-09T03:12:20+00:00"
   },
   {
+   "title": "多文化共生社会実現への課題説明 福島経済同友会勉強会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LMUxnN0hVbnBlZWUzZ1FLNEFJT3BLU1FESm5sckZzUVFvYzE4ai1PQ1BQQmtlMm11QWI1R3pPZFl6RWxLSWp4RlVuaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-09 11:00",
+   "published_iso": "2026-07-09T02:00:00+00:00"
+  },
+  {
    "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
    "source": "朝日新聞",
@@ -192,14 +192,6 @@
    "published_iso": "2026-07-09T00:00:00+00:00"
   },
   {
-   "title": "ドローン規制強化を外国人観光客にも呼びかけ 14日から国会などの飛行禁止エリアが300メートルから1キロに拡大",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KQUI4MEI4TDY1czFTZllKVkktcjFOWDJWQ2VVa293QjVkT2Q5UnFPQ3IzTnZ5RGNFT3d1cmZtaHVjOUFrZ284MHg1V3Nrdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-09 06:47",
-   "published_iso": "2026-07-08T21:47:00+00:00"
-  },
-  {
    "title": "北米移民のパイオニア、「コロンブス」と呼ばれた男が愛西市にいた 功績を伝えようと教材を発行",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05V0hsX2pFWV9jaUNXbmpURmpoaHhPdTNDNm5NODJyN0RKRVFJdHlTcVBQTzNhWUEzWU9iYjBETWU3WjBhRjBBd0YzQWdJV1lhXzRCdg?oc=5",
    "source": "中日新聞Web",
@@ -222,14 +214,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 05:00",
    "published_iso": "2026-07-08T20:00:00+00:00"
-  },
-  {
-   "title": "“摘発した外国人は2000人以上” 特殊詐欺の撲滅作戦で「400か所以上の詐欺拠点を摘発」 カンボジアで作戦指揮の高官「詐欺問題を放置しない」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zNDczTlJaUmEteUs3SDlSSUNQUTJrWkdnYUs0REg2bFFxZGZzb2dtdFVucmU3My1YTEhKeVZKcDJ6QjFSaXUtOWVpRnpzaHFMQ3Zrd3F4cw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-09 04:17",
-   "published_iso": "2026-07-08T19:17:19+00:00"
   },
   {
    "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市",
@@ -406,6 +390,22 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-05 05:00",
    "published_iso": "2026-07-04T20:00:00+00:00"
+  },
+  {
+   "title": "ローマ教皇、移民への寛容を米国民に訴え 建国250年で書簡",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qR2k5MUlYZDgwb01zdjBPX3BxaEpfYmNqY3JoRmpaeldFbUs2UnJqYTBUMFZDNU96MXlhS2swU2g3aTRvUW8tRkNpeEIzeFV0Vkg4MkNrOGZqa0J4eFJkeGRibG1JN19qbUo4Ug?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-04 22:15",
+   "published_iso": "2026-07-04T13:15:01+00:00"
+  },
+  {
+   "title": "［社説］外国人への日本語講習を共生社会の礎に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aTFk1aGxvMUhtbjJ2WXBuMUdvTWRjSVF6aFdsbDVUQ1VPdWRVVDNvMjZQTzR6TEhHVzQydzEwRFk5cFFfVFJuZnNEellNZU4xRWs2NzV1MUU0SmZkaUM0LWpEN056NzNMQ21LbQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-04 19:05",
+   "published_iso": "2026-07-04T10:05:00+00:00"
   }
  ]
 }
