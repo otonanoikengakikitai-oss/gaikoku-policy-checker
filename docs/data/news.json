@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T02:45:46+00:00",
+ "generated_at": "2026-07-09T06:51:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "大分の外国人留学生、京都・東京に次ぐ全国3位 人口10万人あたり331人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZDhfU0VGSDRYQVRENHpBSGtzWXFOcXBTdHVIWVhDTmNVWm1jb2xkS2N5UVBPVFN3by1Sc0NPbjI4Y3BIYlNidTh4TllTeGVVSkE5SzlLRTBhTFc3cHJCTDRWSDkzUWEtTU5qQQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-09 15:15",
+   "published_iso": "2026-07-09T06:15:09+00:00"
+  },
+  {
+   "title": "訪日外国人向け伊豆諸島パッケージツアー予約システム「Tokyo Islands Explorer」が2026年7月9日正式リリース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QaklnRnhFYk1ydWpYNGoyVWNFSXFaSmtqekV4YUJWcEJzOHBWRUdOci1xNVU3dDNqM012OEI5eXllVTZLTEV1UWdPR196VzVQN3labHNtUWJ2dUdBUV9hTzFqR0JpODhoNW92aDMzRVg5SFNWbUJiZWZaOA?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-09 14:00",
+   "published_iso": "2026-07-09T05:00:00+00:00"
+  },
+  {
+   "title": "洗濯代行サービス「オーサムウォッシュ」、外国人観光客・出張者向けに「当日配達プラン」を新設",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aQXRmamtYNXB4VkE1ZGxGNlY4RDhydG9QZEtJT1BKLTRtR3pYTzYycDB4d1hSb2ZaaUMyeks2bDVtMFZwTXBYM09ndXpjVF9KRnpkMDdMT0FCenIyV09LNUw5OEh1TVJyZlFJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-09 10:45",
+   "published_iso": "2026-07-09T01:45:00+00:00"
+  },
   {
    "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
@@ -22,6 +46,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 09:03",
    "published_iso": "2026-07-09T00:03:54+00:00"
+  },
+  {
+   "title": "【愛知県西尾市】知らなかったでは済まされない！外国人材の雇用に関わる企業の役割 企業向け「外国人材セミナー」開催！",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlcWV0MEV3Szg1N2pfaHdYVUZmeHJ2el8zV3c3b2VXRVRVNWhiWUZEbjNnWTRkVV9rdEtXYkxnaEZJMzhQWTh3bkpNS3QySXZ4bFEzSnRPRFlxWlRtaWdYMUEwUVlHQmhycTRiYmdZbTdVZ3NNUWZxeDA4MA?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-09 09:00",
+   "published_iso": "2026-07-09T00:00:00+00:00"
   },
   {
    "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
@@ -88,12 +120,12 @@
    "published_iso": "2026-07-08T10:01:00+00:00"
   },
   {
-   "title": "新庄剛志監督が日本ハムの投打同時月間MVPに感激 レイエスへ「ナンバーワンの助っ人外国人 人間性も含め」 北山亘基へ「一年目から一緒にやって来てかなり成長してくれた1人です」",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OU1lUVDdqRTh3VUgtcWI4UEkzUzJkUEV1cmMtYmZHNFRHdnVtOUxzanpPb2l3WUR5cDFSMnA0NUlKVnpNZU5jY19vd1R4OER4Tk0zeU54Z2ozc01IU3Z6RG5GLXREZVZXQlllbmZUQmpxbWg2N2lURGFYRQ?oc=5",
+   "title": "関空で金25キロ・3億6千万円相当の密輸発覚 外国人2人を逮捕 SNSで中国にいる人物から指示か",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEdRRFUwVkVScmR4T3dBZUNlTkJDWjU1VV9JMGpWOWxveXQydFU5d1FDelJqV2tCcUZ5VVcwTktkNk5FWHloVi1tUmJKRTludVh6QjBJRlE2SElrS013dEM1Qm1GcXY2bDQ1cnpacDlfdC1yRDRNM1BhVlVYRFduLVIyYlE5dDA?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 18:38",
-   "published_iso": "2026-07-08T09:38:00+00:00"
+   "published": "2026-07-08 18:49",
+   "published_iso": "2026-07-08T09:49:00+00:00"
   },
   {
    "title": "夏の浴衣人気、外国人客にも 札幌でレンタル需要増 「気軽な着物」商機に",
@@ -190,14 +222,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-07 23:57",
    "published_iso": "2026-07-07T14:57:34+00:00"
-  },
-  {
-   "title": "八十二スタッフサービス、｢高度外国人材｣の紹介体制強化へ 県外3社と業務提携",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyc3A5TWJUT0FfRW5OdDJGWUE0VXVmTWk5S3dValV1YXM1LTVfUWJEN0JDR1MxblYycUw0eUdjdGJlSDV6T3BvOFk4MXFxTGZ6NzAzMmtvUDVLUUhVMk5kV2tfXzZPb3BzWFY1OHMxeW0?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-07 21:27",
-   "published_iso": "2026-07-07T12:27:00+00:00"
   },
   {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
@@ -344,6 +368,14 @@
    "published_iso": "2026-07-05T17:01:08+00:00"
   },
   {
+   "title": "「アジア最大級の国際犯罪組織」最高幹部とされる男、入管難民法違反容疑で再逮捕…日本で長期滞在図ったか",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EcXlXZWVCN19NTXFFekxkcWtFQ1NiUDNXVG9VeC05NzNyZmZ0ZzA2bFFMNlMzNk9qbVk1a3VBV29MVUNBTGZVcUhEZDFFVzlwWDAtVmU5UDB0OHFLODlRQVNDTkcyUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-05 18:20",
+   "published_iso": "2026-07-05T09:20:00+00:00"
+  },
+  {
    "title": "“アジア最大級の犯罪組織”「プリンス・グループ」最高幹部とみられる男 入管難民法違反容疑で再逮捕 日本でうその住民異動届を提出した疑いですでに逮捕 警視庁",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9paEppOU0yeHZTdjRHVDR3OHhkaUE4ZDdqQU0wR2xZbVlrTmhXVGdtV3ZoYVFHUU9Cd3M2UG05bXZrSTdOUmxhUFNaUko0RGkzc3R0TW40TQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -374,38 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-05 07:52",
    "published_iso": "2026-07-04T22:52:00+00:00"
-  },
-  {
-   "title": "ドイツ東部2州の政権奪取を誓う 反移民の右派が党大会",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mWVQyV3V6U0RjNXJVRldSaDU3TDZ1TF9CQS1BTVhyUXRrRnNRNzdkX2JxUUtjdGgzdEtHTlFWVGw4S0tqbUFLcW12N3ZZMDFQYWRnZnl3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-05 05:50",
-   "published_iso": "2026-07-04T20:50:34+00:00"
-  },
-  {
-   "title": "外国人材 定着支える ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3ZydGY0cXhIQjFSNU1oWkdVeVlSa1liV2ZtcGJLSFhuRGJCUzZDZGdLQVg4VWlPMGJWU0p4Y1JHMGx3ekh1el9SR2NhODlSY1MycUNza2xQNmpFMEdaTGxaLUtUVGhuMmNNXzF6Umk1RzJpT1Y0d2J0akxiR3JTLVFR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-05 05:00",
-   "published_iso": "2026-07-04T20:00:00+00:00"
-  },
-  {
-   "title": "アメリカの移民排除の歴史、再び…国境管理の強化・ＩＣＥの一斉摘発など強硬な取り締まりも",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzTW9CRHhVVUZDc285ZDNibERnWkQ5eE5pNTlfSmh6X1hJNHdIc2tYeS1nSDRDallLaTJrU3FwYkpmcUkyLVlTOWhKMGRvSHRiY1VVM0hBZjhnZUVpMGFrbmV2MTU?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-05 05:00",
-   "published_iso": "2026-07-04T20:00:00+00:00"
-  },
-  {
-   "title": "ローマ教皇、移民への寛容を訴え 米建国250年に合わせて書簡",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fX3BpZDU0WlFYQWNpT3Y2Qzc4NzNwZ3U2bXQwS0dMRDFtU0lrc01XeDUyZVhWXzhWV25tRHFacXdmS1Nmc1N0Ri0tZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-04 22:01",
-   "published_iso": "2026-07-04T13:01:00+00:00"
   }
  ]
 }
