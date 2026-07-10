@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T16:54:21+00:00",
+ "generated_at": "2026-07-10T18:21:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "入管法改正案採決に抗議 深刻化する国内の人手不…：山本太郎氏の歩み 写真特集",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90QlIza0o4bWVWaE1NdGc3ZXFJZXRpaVEtUlpmQV9HN3c5ZkJwRmxNTUxMUG8tRWdacHVzNDEyWV9TTEwxXzk4cG1HT0pQbU0tU2luZFR0cDRKbGNBU2lVTVY3TlFCNUU?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-11 02:41",
+   "published_iso": "2026-07-10T17:41:06+00:00"
+  },
+  {
+   "title": "川遊びをしていた18歳のベトナム人技能実習生が流され行方不明 福井市の日野川 潜水士が捜索も見つからず 11日朝に再開",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83Y05xRTRneDNOR3d1T04wWUFMNkVBemdwQnRxUW5xV0s3dlMtZ21kNk54cDIxYVg3WmpJUmJIRmItdHM0dW55NG1WR1dFUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-10 22:30",
+   "published_iso": "2026-07-10T13:30:00+00:00"
+  },
   {
    "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93XzU0RFQ4SG9DUXQ5Qm4yZHAySC1ZLU5jOXpMa192Zmh0WThLNVQ1R3pXckx6bDlMOF9fSUF2MjVCQlBqQWtlMU8wNA?oc=5",
@@ -248,6 +264,14 @@
    "published_iso": "2026-07-08T20:10:00+00:00"
   },
   {
+   "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IcEIwNkVscVJsME9Wdm43RktKYjJnMHdwdF95MHhQU2J0Nld6T01pX21kc1k1X0lxRXdVcnpoLVI3NHZ4RWZqZ1N1cldOY21WMDdGbzRCa0lTYjJOOXA5UEUySEdZNUdMOHBXUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-09 02:00",
+   "published_iso": "2026-07-08T17:00:00+00:00"
+  },
+  {
    "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市（2026年7月8日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
    "source": "日テレNEWS NNN",
@@ -304,28 +328,12 @@
    "published_iso": "2026-07-07T20:05:00+00:00"
   },
   {
-   "title": "（移民・難民政策 揺らぐドイツ：中）呼び寄せた家族に「帰国を」、強まる圧力",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kYnVtajhnUFlGX1BnMS05aVNIR1lZZEc0U0gyWDR1Ujh3U3VhTy1GUVRNYV8yYnFUSVlIZXRWQlppOHNPZ3Ribk5rVWNBZEx4TWxOZ2U5N2FrSUY0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-08 05:00",
-   "published_iso": "2026-07-07T20:00:00+00:00"
-  },
-  {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOE1RRTI3RkZPQ3RQeVpmYmRtMktjcEpJNGFyWW5qRWF4NzZiZE1HemswWXo2M1p4X2NsVXNITllvYmZBdm1PTGQ0UGFmanNaNTF4QlhSTnRvdkZVZjBsRkwwdUxETWg4S1htMA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-07 18:45",
    "published_iso": "2026-07-07T09:45:31+00:00"
-  },
-  {
-   "title": "情報難民を作らない！地震と豪雨二重災害の町に生まれた「まちのラジオ」が開局1周年（2026年7月7日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNlMkRRUlNRbnFNYm0wcUhSa001SGNPU2RjSXY2azJnWFBOR2dCckc5bzJIeVlXNzFHUkVGQlp4Ulc1TlBMcDc3alFyZ2hEYkxrYkJoTzVNZnBfTWhuTE5fMGNtZDFiZ3phSG1UbXZJSEoySURuOXdrRGtTYUZrZmsybEdkSUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-07 18:43",
-   "published_iso": "2026-07-07T09:43:00+00:00"
   },
   {
    "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
@@ -398,14 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-06 22:12",
    "published_iso": "2026-07-06T13:12:00+00:00"
-  },
-  {
-   "title": "国内宿泊施設に泊まった外国人が前年比で3か月連続で減少…観光庁が今年5月の外国人宿泊者数を発表 去年は通年で過去最多を記録",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQ1dja2oxdjEzcGtGWnlvbXJ6TDdlSWxzWlkyM1ExakdFZUl1bF9TQnBEM256X3NoS2lQOUZ6LTJYOER5dk1UT24xVXd3Ym1ZcG1XZ2htNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-06 22:00",
-   "published_iso": "2026-07-06T13:00:42+00:00"
   }
  ]
 }
