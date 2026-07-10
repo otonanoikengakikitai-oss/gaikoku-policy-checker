@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T04:49:30+00:00",
+ "generated_at": "2026-07-10T08:20:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人労働者から農場経営者へ 別海で6人に「1人1ヘクタール」任せる挑戦",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNnMyQjdBU0NiMnJFOFRYUHUyTURNZ1ZORVZZU21PLUM3VEJRaWZtd0pqalBHMnM3NC0ycmFnRDAtVkNidEFWeVhHRjVLVi1SRzI4aGpaVV90Zw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-10 15:54",
+   "published_iso": "2026-07-10T06:54:03+00:00"
+  },
+  {
+   "title": "【マチカド調査】日本のアイスクリームが外国人をトリコに！最前線を取材（2026年7月9日掲載）｜YTV NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJTQlg0bXd6RlVqWVhwcHVuR1Fwak9GSGtub3VmZFhSWUxTOW1JTG5rWHVnMWdWUmpKWDMzYzFrMHRscFUwd29DZ2FDcjN2SFlNajNNeHJZa3lUZUFfZVJ3V1NBb2NFTEIxOUZkNVlBR0NfUDl4VGtfM290QW9PZG9QSHptYWc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-10 14:56",
+   "published_iso": "2026-07-10T05:56:01+00:00"
+  },
+  {
+   "title": "難民の子に届けたい 小中学生が古着回収、和歌山県田辺・白浜",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xQ1JFakVyUDlzQkxLVnBLZDdxZU95OTVWVUxFc0NjSll6Y2tfOHczZ1duRG1CYVpWcmpVQkcxN3lIMmZLcWlSRVZWOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-10 14:30",
+   "published_iso": "2026-07-10T05:30:00+00:00"
+  },
+  {
+   "title": "デュプランティエをウエイバー公示のDeNA、今季途中での外国人選手退団は3人目 コックスとともにローテの柱期待も2人で計4登板1勝に終わる",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6czkyWnUyWVYyZWVuTnI4aGpxZEJoX0pvaXZLR0JhRjJBMXFEMjhPTkNBU1VGREp2WTVmdWwxVW9OVXo0Rm1VMjhPOWhyOC11S09oYg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-10 14:05",
+   "published_iso": "2026-07-10T05:05:14+00:00"
+  },
   {
    "title": "特定技能訪問介護解禁により、介護事業者のユーザー増！大東建託グループ ケアパートナーが特定技能管理クラウド「noborder」を導入し、確実な「自社支援」体制を構築！",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EbTVFTHlpbmZNOEhoR1ZLdVIwY2ZiaHhmWS1NTEo5RjFLbWptLS1sZm11bnMwYW9DbFBfTE1KbjNyRElSbFFRNmdvZXZ5RTlYeE5CXzVXZFZOZ0YwY2c3UVQ4TU1YSXNkNzU4a0ZiVDRxYmtoWE1YcFo5bw?oc=5",
@@ -38,6 +70,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-10 12:00",
    "published_iso": "2026-07-10T03:00:00+00:00"
+  },
+  {
+   "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-10 09:23",
+   "published_iso": "2026-07-10T00:23:13+00:00"
   },
   {
    "title": "ドイツ政権、シリア出身者に帰国圧力 専門家「経済的に自殺行為」",
@@ -72,6 +112,14 @@
    "published_iso": "2026-07-09T22:00:00+00:00"
   },
   {
+   "title": "外国人従業員からアプリの感想を聞く九州工業大の学生（右の2人） - 働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vcWZuQWhORnpyMU9QTDFYMi13YzVCeFd0QjJ1cUJvaW9KWTNIeFpjcjlkVFhFNDN6dlcteWVTSFVuay1FVEZUNTc5bkNkSTNGUFlScWVZTQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-10 06:12",
+   "published_iso": "2026-07-09T21:12:48+00:00"
+  },
+  {
    "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
    "source": "西日本新聞me",
@@ -82,14 +130,6 @@
   {
    "title": "県議会一般質問 外国人の子育て、アイパル香川に支援拠点 高松港周辺駐車場、キャッシュレス対応推進",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fdFYteTBqUFNhRG9pcVNPMW1iSzh0OWhQbHNQS0VrVDZGN2xFNGtwTnhwV2UzaG1UTEdHRk9Fa1Z5UE1XUkQwNk9Gbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-10 04:00",
-   "published_iso": "2026-07-09T19:00:00+00:00"
-  },
-  {
-   "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-10 04:00",
@@ -113,11 +153,11 @@
   },
   {
    "title": "群馬・川場村に外国人材向け寮",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSk5tczFUb0pYYjRxaXpLeUEwMW45TVpsRTQ3XzRnM0NYYmgtdVpXN1BoQUY3aW9UdnNFS1lPYXpxbWhGYmJyZUp6Q1ZEZVJMREFwU0dYQnZqWS1NZFZOQy1TMld4ZE82OGRxR0FnZDN2YUhwZHNIM05na3ZXM1JvRkhhVkFYb0k3MDc0Wi1BQ2xxWFBjY1lBaWFQMzFGMVZDQjZUbUp3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0ZzT2J4WjV6ckhoT0NYeEFSNUxiUTFvQnZpRkJUajBmNm56WlFxdnpVMlhSXzE3azZQY3B6SEJnU1RTR3N0eEFRczZxalpkUnhNMjZIR0J0YWRzTGFLOURyblpCdDl4b3l3X19oUnBIRWFGRTVmbm81RlE1WEU1UlJMUVloaVEwZ2VUbllXcXB3R051cVVfVGYzOGNqM1p5WVA4S0Vn?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-10 02:03",
-   "published_iso": "2026-07-09T17:03:40+00:00"
+   "published": "2026-07-10 02:17",
+   "published_iso": "2026-07-09T17:17:53+00:00"
   },
   {
    "title": "外国人不正就労の疑い 宮城の解体工事会社代表ら2人逮捕 不法残留のベトナム人働かせる",
@@ -168,12 +208,12 @@
    "published_iso": "2026-07-09T11:55:36+00:00"
   },
   {
-   "title": "◎ロヒンギャ難民８人死亡",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JbWdVMkdzMVJrNjVZb2pob2ltdncxS09nX1lUWXBwcVZwYm01NlpPVExaUTQ2UkdFWGllcTFfeTdpZHY0MFpGQ3lxUVhFOWxKZXFHSQ?oc=5",
-   "source": "時事通信ニュース",
+   "title": "ロヒンギャ難民８人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUGVHTlRyMExoNDg0MlEyUmtJcmstWjZZWjRfODNkYjlVcktLZ1NHdTY0d3l2XzA5OVdpWDlNYU4zN3FxSXZ2X2d6SmdEOEVlYW52WWpPa1oyTC1iTGRuTTlxWmQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-09 18:35",
-   "published_iso": "2026-07-09T09:35:00+00:00"
+   "published_iso": "2026-07-09T09:35:58+00:00"
   },
   {
    "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
@@ -232,6 +272,14 @@
    "published_iso": "2026-07-09T01:45:00+00:00"
   },
   {
+   "title": "日本に住む外国人のお宅に泊まる 「まちなか留学」が変える国際交流のかたち",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GQmVsZlhZbzZWZEM1UzI5ZVhXLW9jZ3l1d0hDaDNJZ19BQlJMWTcwYzBQN2dTXzNuYnZDbnNwc1R0NGJ3YTFmUTN0ZllSYkc0UmZCXzVB?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 09:03",
+   "published_iso": "2026-07-09T00:03:54+00:00"
+  },
+  {
    "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVVXJRdjJ4Q0ZHdFIwN2cxa1Y3NUg0TTUwTmtpOU16MmZySHpLTWFDSk1tdm1SZWh4eTNTQnU1X0hmVjdiVkJGbVdqMG11czVld2lsVm5aUkhUOFliYzFXVnkyeTFvWVE?oc=5",
    "source": "朝日新聞",
@@ -241,19 +289,11 @@
   },
   {
    "title": "北米移民のパイオニア、「コロンブス」と呼ばれた男が愛西市にいた 功績を伝えようと教材を発行",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05V0hsX2pFWV9jaUNXbmpURmpoaHhPdTNDNm5NODJyN0RKRVFJdHlTcVBQTzNhWUEzWU9iYjBETWU3WjBhRjBBd0YzQWdJV1lhXzRCdg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44NUNDdXQtM3hDc0J0VXRLTzNjNUREcGxwaTJ2N01feHcxcWNPRFpUbGdiUWw3RERQWEV5b19FUTZfUTF3YWdGRHAtYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-09 05:10",
    "published_iso": "2026-07-08T20:10:00+00:00"
-  },
-  {
-   "title": "介護施設の群馬・ほたか会、外国人スタッフ定着へ寮や資格取得支援",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNHhWT2MtTUZiZnhWeWNaQnQ0U1ZxYThSdkNMQmRRRFpnakpjbG82UTQzXzRMMjlZd19wTV93TFh0UnA1emRYMDdzVFVFdUdrOHFmdGF6LVh4Vlc1bDNJZEdwUGxhd0k0Mk9rNw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-09 05:00",
-   "published_iso": "2026-07-08T20:00:00+00:00"
   },
   {
    "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
@@ -336,14 +376,6 @@
    "published_iso": "2026-07-07T09:45:31+00:00"
   },
   {
-   "title": "情報難民を作らない！地震と豪雨二重災害の町に生まれた「まちのラジオ」が開局1周年（2026年7月7日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNlMkRRUlNRbnFNYm0wcUhSa001SGNPU2RjSXY2azJnWFBOR2dCckc5bzJIeVlXNzFHUkVGQlp4Ulc1TlBMcDc3alFyZ2hEYkxrYkJoTzVNZnBfTWhuTE5fMGNtZDFiZ3phSG1UbXZJSEoySURuOXdrRGtTYUZrZmsybEdkSUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-07 18:43",
-   "published_iso": "2026-07-07T09:43:00+00:00"
-  },
-  {
    "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WRTV1Smk4MDQ0cVdwblk2YkZsQkc1SnNKOGh6a0FOMTNMS2VhVUNocV9DLWxORXE2SWpxQVFQQWVlMGM3Qkk1dzFKMVlDUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -374,38 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-07 12:00",
    "published_iso": "2026-07-07T03:00:00+00:00"
-  },
-  {
-   "title": "交通教育のプロ直伝！事故を起こさせない外国人ドライバー採用",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvT2Jjb1pUNXozbmdPMDc0TUVzQVpJOC1TdzR2Y2pvQVhfRTR4a0Y4NXp4RGUwMmV4cENwcUVkRno0aFJFZ3QxdGR5eW5iZjZrNjZqREVTd2s4WnM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-07 02:05",
-   "published_iso": "2026-07-06T17:05:26+00:00"
-  },
-  {
-   "title": "社説：EUの移民対応厳格化 人権規範の後退懸念する",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1czVJZk1nOUJUQVZFQUpyNlNnTWVSblY5R0U1Mlcydl8xVWRSXzdiNUZuQkZOekYtT2lPQWhPNDBya04wckh5WUNmaVlvbjA3SjRocmZaVTNSZ015dW5BVU83eW9kd0Ey?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-07 02:01",
-   "published_iso": "2026-07-06T17:01:09+00:00"
-  },
-  {
-   "title": "国内宿泊施設に泊まった外国人が前年比で3か月連続で減少…観光庁が今年5月の外国人宿泊者数を発表 去年は通年で過去最多を記録",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQ1dja2oxdjEzcGtGWnlvbXJ6TDdlSWxzWlkyM1ExakdFZUl1bF9TQnBEM256X3NoS2lQOUZ6LTJYOER5dk1UT24xVXd3Ym1ZcG1XZ2htNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-06 22:00",
-   "published_iso": "2026-07-06T13:00:42+00:00"
-  },
-  {
-   "title": "四国初の外国人バス運転手、ベトナム人男性２人が県庁を表敬訪問…特定技能に「自動車運送業」追加で受け入れ可能に",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVF8wbkNzTWdyQXNfZmFlcHhfZDZtU29zYjF4SVVUdnhUR3I1QThuME80UXN3b0w3bWxRSnR2R3RhUVczaERXT0lfQUU1XzViTHU1V0R0bzVzVDRSZXFkSzVmQ29WQUM1UXNHSm12UUlxdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-06 17:32",
-   "published_iso": "2026-07-06T08:32:46+00:00"
   }
  ]
 }
