@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T14:20:59+00:00",
+ "generated_at": "2026-07-10T16:54:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93XzU0RFQ4SG9DUXQ5Qm4yZHAySC1ZLU5jOXpMa192Zmh0WThLNVQ1R3pXckx6bDlMOF9fSUF2MjVCQlBqQWtlMU8wNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-10 22:01",
+   "published_iso": "2026-07-10T13:01:30+00:00"
+  },
   {
    "title": "【速報】川で遊泳していたベトナム人技能実習生の18歳男性が行方不明 福井市南居町の日野川",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aeDJLSE9YNl9WTnlZdFlqcHA1R1FwS2k4UkVXTDFNMmNUYVdqalBqQWRwY0hnMWRudjh4X0tKaV81UmdBYmhjcUhQUmtjUQ?oc=5",
@@ -30,14 +38,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-10 20:05",
    "published_iso": "2026-07-10T11:05:00+00:00"
-  },
-  {
-   "title": "外国人客がバッグ落とし…航空機内でモバイルバッテリーから煙 機外に投げ捨てる 新千歳空港（2026年7月10日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HTEFuZ2RtbnQ3WEdJcFM4NF8tUno1SFk3ZmNhYlhXWG5nUmtNeHhLQjNGRmFVYU1CSmpXcTFSZTdHNHl0d3IyRTJXR0xyMFZwY3VFdjhKWV9tcm5VSTI0b2ctVVlmUW5wX050MTZNS0N6RnhQVXZmZFBucGI?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-10 19:24",
-   "published_iso": "2026-07-10T10:24:01+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -97,11 +97,11 @@
   },
   {
    "title": "客引き外国人集団一員か、男逮捕 歌舞伎町、訪日客に注意呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aTDVKOEhDY0t3N3oyRWs5RzN0TE96VkRTc0NlODN3Q3VfeDlhVVRnLUNsLXFRTy1qVXZRTkJ4NUNKU1RJV3AtRWFMbUlQOEtDdmdtSy1zeFFkUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-10 12:24",
-   "published_iso": "2026-07-10T03:24:27+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yT0F6QS04OVQ2bzhDZTV5YVJqOUhPdlJrbmdYOXpNYkdMVzJmeWlBeFZOUTEzMTNKTUFPelB5SEhyQ0VBVnoxVzRBQnowOTA2VUxLSzV5dklyUl9jZE9QUG9kLWlOUkxnamRNbWlJLTJSdFhtNGpqUXVB?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-10 12:17",
+   "published_iso": "2026-07-10T03:17:00+00:00"
   },
   {
    "title": "外国人に伝える「震災と原発事故」の記憶 「ホープツーリズム」で訪問者が増える福島、複雑な思いの住民も",
@@ -136,28 +136,12 @@
    "published_iso": "2026-07-09T21:12:48+00:00"
   },
   {
-   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 06:00",
-   "published_iso": "2026-07-09T21:00:00+00:00"
-  },
-  {
    "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-10 04:00",
    "published_iso": "2026-07-09T19:00:00+00:00"
-  },
-  {
-   "title": "日本代表、外国人の心つかむ 漫画、アニメをきっかけに",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiMTZ3LVI2Rk5ZMGpTM2NLRElVZS1KWThpNUpSaFl4UVB0UzFNbUFRVlk0T3FfZHE4Z0puZkNQOXJ5VDF6ZlFVR0ctR2x3U2VfeFJIVUNB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 03:47",
-   "published_iso": "2026-07-09T18:47:39+00:00"
   },
   {
    "title": "米移民当局がメキシコ人男性を射殺、摘発を再強化か 南部テキサス州",
@@ -169,11 +153,11 @@
   },
   {
    "title": "群馬・川場村に外国人材向け寮",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0ZzT2J4WjV6ckhoT0NYeEFSNUxiUTFvQnZpRkJUajBmNm56WlFxdnpVMlhSXzE3azZQY3B6SEJnU1RTR3N0eEFRczZxalpkUnhNMjZIR0J0YWRzTGFLOURyblpCdDl4b3l3X19oUnBIRWFGRTVmbm81RlE1WEU1UlJMUVloaVEwZ2VUbllXcXB3R051cVVfVGYzOGNqM1p5WVA4S0Vn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNnRSN245WXVqdEZxRkVBR0FhYmlaZkNjcWpBeFF1bDJHYzBDOG1qVHVwQWxzN1I3UWhXTENwc0JEN1NtSGE5Z1Q2elExVGJJdkg5NWo3cWpTN0hTTlJvMmtBNEo2QmFDcVNwN3kzR2QwU0xVTDJrQ0piMnVUeUpBbkE5eFBRSE4ybVowNTNlVko0MHBoaW9aNFNTYnRYb1Y5S0QzR29n?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-10 02:17",
-   "published_iso": "2026-07-09T17:17:53+00:00"
+   "published": "2026-07-10 02:03",
+   "published_iso": "2026-07-09T17:03:41+00:00"
   },
   {
    "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
@@ -240,14 +224,6 @@
    "published_iso": "2026-07-09T06:15:09+00:00"
   },
   {
-   "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 10:45",
-   "published_iso": "2026-07-09T01:45:00+00:00"
-  },
-  {
    "title": "日本に住む外国人のお宅に泊まる 「まちなか留学」が変える国際交流のかたち",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GQmVsZlhZbzZWZEM1UzI5ZVhXLW9jZ3l1d0hDaDNJZ19BQlJMWTcwYzBQN2dTXzNuYnZDbnNwc1R0NGJ3YTFmUTN0ZllSYkc0UmZCXzVB?oc=5",
    "source": "朝日新聞",
@@ -272,28 +248,12 @@
    "published_iso": "2026-07-08T20:10:00+00:00"
   },
   {
-   "title": "介護施設の群馬・ほたか会、外国人スタッフ定着へ寮や資格取得支援",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNHhWT2MtTUZiZnhWeWNaQnQ0U1ZxYThSdkNMQmRRRFpnakpjbG82UTQzXzRMMjlZd19wTV93TFh0UnA1emRYMDdzVFVFdUdrOHFmdGF6LVh4Vlc1bDNJZEdwUGxhd0k0Mk9rNw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-09 05:00",
-   "published_iso": "2026-07-08T20:00:00+00:00"
-  },
-  {
    "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市（2026年7月8日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-08 23:11",
    "published_iso": "2026-07-08T14:11:00+00:00"
-  },
-  {
-   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 20:39",
-   "published_iso": "2026-07-08T11:39:00+00:00"
   },
   {
    "title": "「観光宮崎」を支える宿泊事業者の就職面談会 人手不足の中 外国人材へ高まる期待 | MRTニュース ｜ ＭＲＴ宮崎放送",
@@ -336,6 +296,14 @@
    "published_iso": "2026-07-07T22:00:29+00:00"
   },
   {
+   "title": "「体操服」のやさしい日本語は 愛知県豊橋市の時習館高付属中で多文化共生講座",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZTZuLUpLNWk0QXVZcDZNUWRjQTgzRG9uSjdWT2c5NXVPd01JaFkxaHI1SnUwTzJ3c2t1ckN5WVhhMWlfN0FJSlhWNHdHSDR3LTdQMg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-08 05:05",
+   "published_iso": "2026-07-07T20:05:00+00:00"
+  },
+  {
    "title": "（移民・難民政策 揺らぐドイツ：中）呼び寄せた家族に「帰国を」、強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kYnVtajhnUFlGX1BnMS05aVNIR1lZZEc0U0gyWDR1Ujh3U3VhTy1GUVRNYV8yYnFUSVlIZXRWQlppOHNPZ3Ribk5rVWNBZEx4TWxOZ2U5N2FrSUY0?oc=5",
    "source": "朝日新聞",
@@ -350,6 +318,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-07 18:45",
    "published_iso": "2026-07-07T09:45:31+00:00"
+  },
+  {
+   "title": "情報難民を作らない！地震と豪雨二重災害の町に生まれた「まちのラジオ」が開局1周年（2026年7月7日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNanNlMkRRUlNRbnFNYm0wcUhSa001SGNPU2RjSXY2azJnWFBOR2dCckc5bzJIeVlXNzFHUkVGQlp4Ulc1TlBMcDc3alFyZ2hEYkxrYkJoTzVNZnBfTWhuTE5fMGNtZDFiZ3phSG1UbXZJSEoySURuOXdrRGtTYUZrZmsybEdkSUU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-07 18:43",
+   "published_iso": "2026-07-07T09:43:00+00:00"
   },
   {
    "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
@@ -384,6 +360,22 @@
    "published_iso": "2026-07-07T03:00:00+00:00"
   },
   {
+   "title": "九州初進出狙い、博多駅前で出店ラッシュ 「ランチ難民」懸念も",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdWVISE5DSkNIdjFRUnJTNjBpLWphQ2lYZzBDNVpDQUQ3Q2RLWi1YOFNUOWt3Y3ZsaWJYenIxOWhHTmdyOGFxbjRpdGRtVnJwWGZYZ3Exc2RrUFFZR0F5c1JhWFdCVUtm?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-07 08:45",
+   "published_iso": "2026-07-06T23:45:00+00:00"
+  },
+  {
+   "title": "（移民・難民政策 揺らぐドイツ：上）極右政党と張り合う独政権",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0V1hjNDVBUVpOOEV5Vy14SG9KanNrZW5JWFl6d2xkM0NyTmI1UDFDY1NmclR2bTlXYUxydHFIWWFKdXNrQnBIQUd3ekl0eWhFcTREWmtCOGpMUTl4?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-07 05:00",
+   "published_iso": "2026-07-06T20:00:00+00:00"
+  },
+  {
    "title": "交通教育のプロ直伝！事故を起こさせない外国人ドライバー採用",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvT2Jjb1pUNXozbmdPMDc0TUVzQVpJOC1TdzR2Y2pvQVhfRTR4a0Y4NXp4RGUwMmV4cENwcUVkRno0aFJFZ3QxdGR5eW5iZjZrNjZqREVTd2s4WnM?oc=5",
    "source": "朝日新聞",
@@ -398,6 +390,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-07 02:01",
    "published_iso": "2026-07-06T17:01:09+00:00"
+  },
+  {
+   "title": "W杯にアメリカの中南米系住民ら、排他的移民政策のもとで熱狂…「強制送還怖い」との声も",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZWEwWUllUnhYVk5KdmxYbzVEM2QyYm1EX2JSWDhiODlPaUI0X3JyWUtaVVBfcHlxeGtJdktOS01fZkVxOGRSclVKNVowY1ZycldZdkFtSmNuUkRKV3hiYUFB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-06 22:12",
+   "published_iso": "2026-07-06T13:12:00+00:00"
   },
   {
    "title": "国内宿泊施設に泊まった外国人が前年比で3か月連続で減少…観光庁が今年5月の外国人宿泊者数を発表 去年は通年で過去最多を記録",
