@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T08:20:28+00:00",
+ "generated_at": "2026-07-10T11:49:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "高校生らが“被爆地ナガサキ”から国連に提言「核軍縮と難民を考える若者の国際会議」長崎東高で開催《長崎》",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVA3dVlUSWFMYWV3Um9GQnZZWTZRZzNaSmVTbE9Zd09MUUdTVHUxX29tb1loeUNOaFpnd2lHdGNscktHX0FOb1pqbTRWR2tyU2FKeEJkUXZkZjZnNWhyeExLelBRRWNEZmI0SWIwY01LTVRsQU1YUVVGc2haSmhuVC1TN05ISk0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-10 20:05",
+   "published_iso": "2026-07-10T11:05:00+00:00"
+  },
+  {
+   "title": "河北新報社 ビズラボ 河北経済研究所",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fUVJ6T2cwVFpKNzFWeFpIZjhSWFA1cmVndGhaTjNRck01bU5Kck9nbGpOV0lyekg0eU1lRDA4QXBlZzlMdjdmam4xM2ZLbTRJSTJzSEltVHNndVFCanNtVjFzSkphQQ?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-07-10 19:02",
+   "published_iso": "2026-07-10T10:02:59+00:00"
+  },
+  {
+   "title": "外国人とのビジネスや暮らしを考える 「アジアとつながる」テーマに熊本市でシンポジウム",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyeDFCMTRvaTRwei1kQjRnQk1LdEl0Z0cyVW0xWkQ1Z0R6RzRycVJYTS1RMHl2VERkWGdSOG9hYnBxWk9XSHlRRldTVUV5dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-10 19:00",
+   "published_iso": "2026-07-10T10:00:00+00:00"
+  },
+  {
+   "title": "【続報】外国人客が機内でバッグ落とし「煙」と判明 客が機外にモバイルバッテリー投げ捨て 新千歳",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NGSjN1YkY1dlIzY2xrZEZET3FjbXA5UzdSMmdLcEszbl9DNmtNVXBqQ0RMZXJKdl81SkZtcVlfbERSMnlTV3RoWUpoUWNwelE3bDJoYzFja253dER3RGlxQy1yNU1kME4xZ0R6cEZnSWxxQVhVNHBCSXNLbGVCc3FPY0FZUTQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-10 17:16",
+   "published_iso": "2026-07-10T08:16:00+00:00"
+  },
   {
    "title": "外国人労働者から農場経営者へ 別海で6人に「1人1ヘクタール」任せる挑戦",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNnMyQjdBU0NiMnJFOFRYUHUyTURNZ1ZORVZZU21PLUM3VEJRaWZtd0pqalBHMnM3NC0ycmFnRDAtVkNidEFWeVhHRjVLVi1SRzI4aGpaVV90Zw?oc=5",
@@ -72,14 +104,6 @@
    "published_iso": "2026-07-10T03:00:00+00:00"
   },
   {
-   "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-10 09:23",
-   "published_iso": "2026-07-10T00:23:13+00:00"
-  },
-  {
    "title": "ドイツ政権、シリア出身者に帰国圧力 専門家「経済的に自殺行為」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zekxHaEZ5YlFmRjZMakRuM2xvQzJOQVlyLTRDNmtVQkZXVG9nQUx6VWlORjVNNVB2OEhuOE9pendiRXNEdU55VVY0LUhEMXp4U1F1NjNJclFZRkpXWldsU0RqcElMM2M?oc=5",
    "source": "朝日新聞",
@@ -104,14 +128,6 @@
    "published_iso": "2026-07-09T22:15:00+00:00"
   },
   {
-   "title": "【ヤクルト】球団史上初の継投ノーヒットノーラン達成「守備にも助けられた。彼らも同じヒーロー」7回快投ウォルターズは仲間に感謝 リランソ→キハダと外国人投手リレーで広島打線を封じる（2026年7月9日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91Y2laT3dRYUVsNnc4a3dvQkpZTURWRTRyd3JobUJXLXJramVJOWFYSTUybm9nWUZGVkRjSUNPcGZIb0wxRmY1eE1Qa0ZzMm1xblNsZ2dfLXRXZnpEbzdldkhORkIyVnN3cFJ1d0JBWVNQZVRFb3BrUWlRVQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-10 07:00",
-   "published_iso": "2026-07-09T22:00:00+00:00"
-  },
-  {
    "title": "外国人従業員からアプリの感想を聞く九州工業大の学生（右の2人） - 働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vcWZuQWhORnpyMU9QTDFYMi13YzVCeFd0QjJ1cUJvaW9KWTNIeFpjcjlkVFhFNDN6dlcteWVTSFVuay1FVEZUNTc5bkNkSTNGUFlScWVZTQ?oc=5",
    "source": "西日本新聞me",
@@ -120,16 +136,8 @@
    "published_iso": "2026-07-09T21:12:48+00:00"
   },
   {
-   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 06:00",
-   "published_iso": "2026-07-09T21:00:00+00:00"
-  },
-  {
-   "title": "県議会一般質問 外国人の子育て、アイパル香川に支援拠点 高松港周辺駐車場、キャッシュレス対応推進",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fdFYteTBqUFNhRG9pcVNPMW1iSzh0OWhQbHNQS0VrVDZGN2xFNGtwTnhwV2UzaG1UTEdHRk9Fa1Z5UE1XUkQwNk9Gbw?oc=5",
+   "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-10 04:00",
@@ -160,14 +168,6 @@
    "published_iso": "2026-07-09T17:17:53+00:00"
   },
   {
-   "title": "外国人不正就労の疑い 宮城の解体工事会社代表ら2人逮捕 不法残留のベトナム人働かせる",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VHE2SnB3ZTMwSlg5M1JOT3NJWG82Wm5mQmlhX29wVy1zYVc4THNlWXJJcmJWaTZxc0t0WjItbU5ibl9nbktWZXhzek9ELWdQY1Utd0syUEZrSkpnTlhCZ0VrMDlGUk9uRmV1UW5VX2pIRndwY2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-09 22:37",
-   "published_iso": "2026-07-09T13:37:35+00:00"
-  },
-  {
    "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDRNV0tGbDB5Q1JLaWhMR09sTkM3dkVOYzlQSmdDcFk0WWVvLUFRS0kyZ1F5VXBZMVhSazJVQnhPX0QxYmlrdWVyN3FfVUR5RmlkSUcwdE9GY1I0cWFCa2tLY3k0ZzlWVFFqc2JiazRzV1FNS0N0ZVJtd1dzM1NNeG53ZlU?oc=5",
    "source": "日テレNEWS NNN",
@@ -182,22 +182,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-09 21:15",
    "published_iso": "2026-07-09T12:15:00+00:00"
-  },
-  {
-   "title": "ヤクルト、継投で無安打無得点 外国人3投手で達成、広島戦",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWkhPbVJDdVdhNTJyYTRTVkQ1OHB1NENGXzlYNXM0Z3BzVVFIN2l3ckpyb3ZDSDNMZ0lGbnFWT3JQTlRiRnRlRFltTUl5VWF5WHhGV2pn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-09 21:09",
-   "published_iso": "2026-07-09T12:09:58+00:00"
-  },
-  {
-   "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-09 21:09",
-   "published_iso": "2026-07-09T12:09:46+00:00"
   },
   {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
@@ -312,28 +296,12 @@
    "published_iso": "2026-07-08T14:11:00+00:00"
   },
   {
-   "title": "パーソルキャリア、外国人紹介子会社を農業派遣のYUIMEに売却",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85VUYxbmNFQ2hlMm9DWWhkNktEMk5oMGg2WThvdkNYRnJ3czNDVVVpMy1tTkxJV2k0djA2dTBvcVVJLXc3V0tic245V1pNNFFkSU1rdkY0cUgxSV9fOVdxazFsc1FGN3NPc0cwZw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 17:48",
-   "published_iso": "2026-07-08T08:48:18+00:00"
-  },
-  {
    "title": "米移民捜査官、メキシコ人男性を射殺 1月以来か、FBI捜査へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kV0JyX01aV01WeWpoUngzQ0dDbm5CUGlUcTZFbDVqMFRZN1FSN1RyNXpYa19ucW51c2NfeVp4TGZpYTdHeV9WLWN6N0NWYUpjRzFaVngwcXdWOUpqYWJGc3BvQWtCQk1z?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-08 15:16",
    "published_iso": "2026-07-08T06:16:56+00:00"
-  },
-  {
-   "title": "リネットＪ",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdmRwYXEtSzY4T0lxQTJjZWFjZXJDaTB3eVRBcWNnWG4xdVNLYmNsQWM2aDJ1U09GZjlYdlMtTXFZTWNqOGt5RkVoZWxHbkZsR2E2ZUxnU0s3LWEzZFM1cW5uOXptbmxvaTRIYk1ORkQ1RndxQjA3TE5rSHhZZzZWVnlldlh6THJqT3d2M1QxN0JoV0VwZHRIcUNpQ09Od1dRdUVYRkRmNkYtNVRDeTdOT092UWk5aVlUNzhJMk1zUkZJSzNjVjFsbDdwNWU?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 13:00",
-   "published_iso": "2026-07-08T04:00:00+00:00"
   },
   {
    "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
@@ -406,6 +374,38 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-07 12:00",
    "published_iso": "2026-07-07T03:00:00+00:00"
+  },
+  {
+   "title": "交通教育のプロ直伝！事故を起こさせない外国人ドライバー採用",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvT2Jjb1pUNXozbmdPMDc0TUVzQVpJOC1TdzR2Y2pvQVhfRTR4a0Y4NXp4RGUwMmV4cENwcUVkRno0aFJFZ3QxdGR5eW5iZjZrNjZqREVTd2s4WnM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-07 02:05",
+   "published_iso": "2026-07-06T17:05:26+00:00"
+  },
+  {
+   "title": "社説：EUの移民対応厳格化 人権規範の後退懸念する",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1czVJZk1nOUJUQVZFQUpyNlNnTWVSblY5R0U1Mlcydl8xVWRSXzdiNUZuQkZOekYtT2lPQWhPNDBya04wckh5WUNmaVlvbjA3SjRocmZaVTNSZ015dW5BVU83eW9kd0Ey?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-07 02:01",
+   "published_iso": "2026-07-06T17:01:09+00:00"
+  },
+  {
+   "title": "国内宿泊施設に泊まった外国人が前年比で3か月連続で減少…観光庁が今年5月の外国人宿泊者数を発表 去年は通年で過去最多を記録",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQ1dja2oxdjEzcGtGWnlvbXJ6TDdlSWxzWlkyM1ExakdFZUl1bF9TQnBEM256X3NoS2lQOUZ6LTJYOER5dk1UT24xVXd3Ym1ZcG1XZ2htNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-06 22:00",
+   "published_iso": "2026-07-06T13:00:42+00:00"
+  },
+  {
+   "title": "四国初の外国人バス運転手、ベトナム人男性２人が県庁を表敬訪問…特定技能に「自動車運送業」追加で受け入れ可能に",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVF8wbkNzTWdyQXNfZmFlcHhfZDZtU29zYjF4SVVUdnhUR3I1QThuME80UXN3b0w3bWxRSnR2R3RhUVczaERXT0lfQUU1XzViTHU1V0R0bzVzVDRSZXFkSzVmQ29WQUM1UXNHSm12UUlxdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-06 17:32",
+   "published_iso": "2026-07-06T08:32:46+00:00"
   }
  ]
 }
