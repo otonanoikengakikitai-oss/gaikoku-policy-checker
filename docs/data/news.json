@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T20:21:13+00:00",
+ "generated_at": "2026-07-10T21:59:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,12 +24,12 @@
    "published_iso": "2026-07-10T17:41:06+00:00"
   },
   {
-   "title": "北中米Ｗ杯’２６：サッカー 息殺し、祖国応援 不法移民、摘発恐れ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lQ0lWRGFod2Y2TFgzQ0l3aFR2NENGOUhZX1plQjdYdDUtM1owOGJvV1pna3hkUWlhMzVuemFoaGVtd0EzeDIxcHhieGozVlgya244bVJtb3g0SllPVG5iRXo3bGRXVFlU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-11 02:02",
-   "published_iso": "2026-07-10T17:02:19+00:00"
+   "title": "2026年世界難民の日 レポート",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZGxzOUNPUGFwYml0dnlSUWZoSDZiWF9iZWN5TlpOUU1BWG1PaFNhWFdqLTlCMnRjalBfd01ScEJZcU1mQW16bldPdjhPald2VVVkUzZuOXdiRjNXQlNHOUU5aE9VeVd0M25v?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-10 22:40",
+   "published_iso": "2026-07-10T13:40:00+00:00"
   },
   {
    "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
@@ -130,7 +130,7 @@
   {
    "title": "客引き外国人集団一員か、男逮捕 歌舞伎町、訪日客に注意呼びかけ",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yT0F6QS04OVQ2bzhDZTV5YVJqOUhPdlJrbmdYOXpNYkdMVzJmeWlBeFZOUTEzMTNKTUFPelB5SEhyQ0VBVnoxVzRBQnowOTA2VUxLSzV5dklyUl9jZE9QUG9kLWlOUkxnamRNbWlJLTJSdFhtNGpqUXVB?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-10 12:17",
    "published_iso": "2026-07-10T03:17:00+00:00"
@@ -168,12 +168,20 @@
    "published_iso": "2026-07-09T22:45:00+00:00"
   },
   {
-   "title": "外国人従業員からアプリの感想を聞く九州工業大の学生（右の2人） - 働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vcWZuQWhORnpyMU9QTDFYMi13YzVCeFd0QjJ1cUJvaW9KWTNIeFpjcjlkVFhFNDN6dlcteWVTSFVuay1FVEZUNTc5bkNkSTNGUFlScWVZTQ?oc=5",
+   "title": "「公園で１人で缶ビールを１本のみ飲んだ」ベトナム国籍の自称技能実習生の男(25)を自転車の飲酒運転の疑いで逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSc3JpS1BkVzA0S1hZazVSbHM1MnVUQ0RwNXVnSWRtdkxkUmlHZ253RF9DekNRQ2p5dGZ1bVdrMUVzVzI4clJHLU91N3JfZkM1YXV2TTJkcjZVVkRrNEhxd1Nrcl9NZlE?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-10 07:23",
+   "published_iso": "2026-07-09T22:23:00+00:00"
+  },
+  {
+   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 06:12",
-   "published_iso": "2026-07-09T21:12:48+00:00"
+   "published": "2026-07-10 06:00",
+   "published_iso": "2026-07-09T21:00:00+00:00"
   },
   {
    "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
@@ -224,17 +232,9 @@
    "published_iso": "2026-07-09T11:55:36+00:00"
   },
   {
-   "title": "ロヒンギャ難民８人死亡",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUGVHTlRyMExoNDg0MlEyUmtJcmstWjZZWjRfODNkYjlVcktLZ1NHdTY0d3l2XzA5OVdpWDlNYU4zN3FxSXZ2X2d6SmdEOEVlYW52WWpPa1oyTC1iTGRuTTlxWmQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-09 18:35",
-   "published_iso": "2026-07-09T09:35:58+00:00"
-  },
-  {
    "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNUFiaFRwUjdQMGZ2LV9BRlZNRmVMb2ZZbGpyMmlpQlZTOGZLSnZ3NVVJM1RZRHlVZVIwTkJiclV5aHByWUZ0VWdyOEJwdTQyTXBnR1RMN1B0WnBZQlRtbVhaT3lvV2VISm53?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-09 18:21",
    "published_iso": "2026-07-09T09:21:00+00:00"
@@ -262,6 +262,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-09 15:15",
    "published_iso": "2026-07-09T06:15:09+00:00"
+  },
+  {
+   "title": "外国人客が中古時計店に殺到 日本製の品質に魅了され セイコーずば抜けて人気",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2NUtsS3BlYlQ1aUJqVmw1UDFiX2lDZEs1T3JmZkJ4TzM0U2hKSE1sa3ZhakRwY3JfTzZjYXNPTTFnaEtnR3hxRDBJRG5XX1lOWUxaclNPNVNvbWJnMFZqdzlBWEdWLUpmWm4zUEJIYTBNZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-09 13:22",
+   "published_iso": "2026-07-09T04:22:00+00:00"
   },
   {
    "title": "日本に住む外国人のお宅に泊まる 「まちなか留学」が変える国際交流のかたち",
@@ -312,6 +320,14 @@
    "published_iso": "2026-07-08T14:11:00+00:00"
   },
   {
+   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-08 20:39",
+   "published_iso": "2026-07-08T11:39:00+00:00"
+  },
+  {
    "title": "「観光宮崎」を支える宿泊事業者の就職面談会 人手不足の中 外国人材へ高まる期待 | MRTニュース ｜ ＭＲＴ宮崎放送",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYVUybmRMVVZvMzZGVExUS052TGdILVF0TUppcWRVaGRfY1JkeE8wRFkzTWt0RzRET3ZVTkF1eEd2dEpPMTFmampWbG9zTEVsc3QxWTF1UlJydw?oc=5",
    "source": "TBS NEWS DIG",
@@ -360,6 +376,14 @@
    "published_iso": "2026-07-07T20:05:00+00:00"
   },
   {
+   "title": "英国の反移民党首が議員辞職 利益供与を否定、補選出馬へ",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tNE93MGN3TEE4VUFMSkw4WjBjMG05SDBMNVhCdW96NHdPOXM5OHBvS2N0V1JXQW9ZbUE3OGl4YzFWbnQ1dVdNRXVJUjdqZ1NpTUNFTHNn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-07 23:48",
+   "published_iso": "2026-07-07T14:48:52+00:00"
+  },
+  {
    "title": "在留外国人「5年以上日本で働きたい」61%に急減 民間調査、円安響く",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOE1RRTI3RkZPQ3RQeVpmYmRtMktjcEpJNGFyWW5qRWF4NzZiZE1HemswWXo2M1p4X2NsVXNITllvYmZBdm1PTGQ0UGFmanNaNTF4QlhSTnRvdkZVZjBsRkwwdUxETWg4S1htMA?oc=5",
    "source": "日本経済新聞",
@@ -382,30 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-07 17:10",
    "published_iso": "2026-07-07T08:10:32+00:00"
-  },
-  {
-   "title": "川崎市川崎区、外国人に100時間の日本語教育 育成就労の施行見据え",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15aGtGMVRpdmVfa25FVUlyVEtiVFNsNUlJOG4xU1UwTmFPOVlOQ0QwSEJlMlN1WFNyMTd4eWR5Y3JYOFNMbWd1MXptOHktdkhXZElNYjUySDZoRGwtRVhuZXllRGtOOEZQRVIxSA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-07 13:59",
-   "published_iso": "2026-07-07T04:59:20+00:00"
-  },
-  {
-   "title": "〈本音のコラム〉外国人労働者の優遇を 鎌田慧（ルポライター）",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOSFFGQWRWRTdKYmJ5OUFRSjBhVGRrNS14aEc3RHM4dnFhM3BKaEF4X2gyczRYSXk1ZHhTWDVrZTktX0Y2RFVVQ1M4TUtKWVFJX0o0?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-07 12:00",
-   "published_iso": "2026-07-07T03:00:00+00:00"
-  },
-  {
-   "title": "九州初進出狙い、博多駅前で出店ラッシュ 「ランチ難民」懸念も",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fdWVISE5DSkNIdjFRUnJTNjBpLWphQ2lYZzBDNVpDQUQ3Q2RLWi1YOFNUOWt3Y3ZsaWJYenIxOWhHTmdyOGFxbjRpdGRtVnJwWGZYZ3Exc2RrUFFZR0F5c1JhWFdCVUtm?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-07 08:45",
-   "published_iso": "2026-07-06T23:45:00+00:00"
   }
  ]
 }
