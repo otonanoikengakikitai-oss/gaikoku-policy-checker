@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T18:21:41+00:00",
+ "generated_at": "2026-07-10T20:21:13+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "韓国、美容医療が外国人客を魅了 首都と皮膚科に偏る医師",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2hSMWJoXzhSaXpwV1pWU0ZjYzd4TVY3a2V5UU9yR2t2Q1ZadGVEWW1LbmxkaTV6YmRVSkhUQTJJNENRNXZsNkFydzYyQ2t4ZElURmhlVHJ4NnlQREtVZDJZY1dyTVlKdUdTbQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-11 05:00",
+   "published_iso": "2026-07-10T20:00:00+00:00"
+  },
   {
    "title": "入管法改正案採決に抗議 深刻化する国内の人手不…：山本太郎氏の歩み 写真特集",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90QlIza0o4bWVWaE1NdGc3ZXFJZXRpaVEtUlpmQV9HN3c5ZkJwRmxNTUxMUG8tRWdacHVzNDEyWV9TTEwxXzk4cG1HT0pQbU0tU2luZFR0cDRKbGNBU2lVTVY3TlFCNUU?oc=5",
@@ -16,18 +24,18 @@
    "published_iso": "2026-07-10T17:41:06+00:00"
   },
   {
-   "title": "川遊びをしていた18歳のベトナム人技能実習生が流され行方不明 福井市の日野川 潜水士が捜索も見つからず 11日朝に再開",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83Y05xRTRneDNOR3d1T04wWUFMNkVBemdwQnRxUW5xV0s3dlMtZ21kNk54cDIxYVg3WmpJUmJIRmItdHM0dW55NG1WR1dFUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-10 22:30",
-   "published_iso": "2026-07-10T13:30:00+00:00"
+   "title": "北中米Ｗ杯’２６：サッカー 息殺し、祖国応援 不法移民、摘発恐れ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lQ0lWRGFod2Y2TFgzQ0l3aFR2NENGOUhZX1plQjdYdDUtM1owOGJvV1pna3hkUWlhMzVuemFoaGVtd0EzeDIxcHhieGozVlgya244bVJtb3g0SllPVG5iRXo3bGRXVFlU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-11 02:02",
+   "published_iso": "2026-07-10T17:02:19+00:00"
   },
   {
    "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93XzU0RFQ4SG9DUXQ5Qm4yZHAySC1ZLU5jOXpMa192Zmh0WThLNVQ1R3pXckx6bDlMOF9fSUF2MjVCQlBqQWtlMU8wNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlU05lQ18tdzQxVFZDOWhVemxUaXNNX3Y0dHZrYjJEbGFEMUJ3WGs3dFU2Z2tVMUY5SmxxRjVKWkNMTTNvcTRHRldGaG5QRTFaUVlBZE9JTzZGUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-10 22:01",
    "published_iso": "2026-07-10T13:01:30+00:00"
   },
@@ -54,6 +62,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-10 20:05",
    "published_iso": "2026-07-10T11:05:00+00:00"
+  },
+  {
+   "title": "外国人客がバッグ落とし…航空機内でモバイルバッテリーから煙 機外に投げ捨てる 新千歳空港（2026年7月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HTEFuZ2RtbnQ3WEdJcFM4NF8tUno1SFk3ZmNhYlhXWG5nUmtNeHhLQjNGRmFVYU1CSmpXcTFSZTdHNHl0d3IyRTJXR0xyMFZwY3VFdjhKWV9tcm5VSTI0b2ctVVlmUW5wX050MTZNS0N6RnhQVXZmZFBucGI?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-10 19:24",
+   "published_iso": "2026-07-10T10:24:01+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -128,6 +144,14 @@
    "published_iso": "2026-07-10T03:00:00+00:00"
   },
   {
+   "title": "浅草寺で夏の風物詩「ほおずき市」始まる 多くの外国人観光客らで賑わう",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rY3ZyVE14cmtDemI2SzBqaTlDYzU4TTdfMEhUNHVxcVJ4bnhmcnAxcHVjYzl4ejJ4RmZVNEFnVEh4cjloV0laMk92eVZoRTdXdnc2S2haT29maEZqbHdsaXgxdGc0cHZURkFyVWR3VWctUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-10 09:29",
+   "published_iso": "2026-07-10T00:29:30+00:00"
+  },
+  {
    "title": "ドイツ政権、シリア出身者に帰国圧力 専門家「経済的に自殺行為」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zekxHaEZ5YlFmRjZMakRuM2xvQzJOQVlyLTRDNmtVQkZXVG9nQUx6VWlORjVNNVB2OEhuOE9pendiRXNEdU55VVY0LUhEMXp4U1F1NjNJclFZRkpXWldsU0RqcElMM2M?oc=5",
    "source": "朝日新聞",
@@ -184,12 +208,12 @@
    "published_iso": "2026-07-09T12:38:00+00:00"
   },
   {
-   "title": "＜多文化共生の現場から＞国際離婚の陰に潜む「孤立」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wYTY1VTlsUTAyUE5qZXVUcE80aDFxTjlJemZsZUd4NHduXzNkNThaZWczZF94VUw4SEI2Y1lOcEdxMXl4bDFkV21IWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 21:15",
-   "published_iso": "2026-07-09T12:15:00+00:00"
+   "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-09 21:09",
+   "published_iso": "2026-07-09T12:09:46+00:00"
   },
   {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
@@ -262,6 +286,14 @@
    "source_domain": "47news.jp",
    "published": "2026-07-09 05:10",
    "published_iso": "2026-07-08T20:10:00+00:00"
+  },
+  {
+   "title": "特定技能のリーディングカンパニー ONODERA USER RUN、人材サービス事業とDX事業を展開するディップ株式会社と業務提携を締結。 深刻化する人手不足への解決策を提供開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aWUJBVk9rdmZGcDhIOUQ2bW15bUduMmlrQjdHbXBvSnlQbkgwNEoyQ1lIMjBobXRqQ2Q4SGZHVkhpTldNNzBWWjFRVkdOY2NNdDFjc1Fma0tYZnBYeW5HbVA2ZzVFZ05IRlhr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-09 04:10",
+   "published_iso": "2026-07-08T19:10:00+00:00"
   },
   {
    "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
@@ -374,38 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-07 08:45",
    "published_iso": "2026-07-06T23:45:00+00:00"
-  },
-  {
-   "title": "（移民・難民政策 揺らぐドイツ：上）極右政党と張り合う独政権",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0V1hjNDVBUVpOOEV5Vy14SG9KanNrZW5JWFl6d2xkM0NyTmI1UDFDY1NmclR2bTlXYUxydHFIWWFKdXNrQnBIQUd3ekl0eWhFcTREWmtCOGpMUTl4?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-07 05:00",
-   "published_iso": "2026-07-06T20:00:00+00:00"
-  },
-  {
-   "title": "交通教育のプロ直伝！事故を起こさせない外国人ドライバー採用",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvT2Jjb1pUNXozbmdPMDc0TUVzQVpJOC1TdzR2Y2pvQVhfRTR4a0Y4NXp4RGUwMmV4cENwcUVkRno0aFJFZ3QxdGR5eW5iZjZrNjZqREVTd2s4WnM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-07 02:05",
-   "published_iso": "2026-07-06T17:05:26+00:00"
-  },
-  {
-   "title": "社説：EUの移民対応厳格化 人権規範の後退懸念する",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1czVJZk1nOUJUQVZFQUpyNlNnTWVSblY5R0U1Mlcydl8xVWRSXzdiNUZuQkZOekYtT2lPQWhPNDBya04wckh5WUNmaVlvbjA3SjRocmZaVTNSZ015dW5BVU83eW9kd0Ey?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-07 02:01",
-   "published_iso": "2026-07-06T17:01:09+00:00"
-  },
-  {
-   "title": "W杯にアメリカの中南米系住民ら、排他的移民政策のもとで熱狂…「強制送還怖い」との声も",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IZWEwWUllUnhYVk5KdmxYbzVEM2QyYm1EX2JSWDhiODlPaUI0X3JyWUtaVVBfcHlxeGtJdktOS01fZkVxOGRSclVKNVowY1ZycldZdkFtSmNuUkRKV3hiYUFB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-06 22:12",
-   "published_iso": "2026-07-06T13:12:00+00:00"
   }
  ]
 }
