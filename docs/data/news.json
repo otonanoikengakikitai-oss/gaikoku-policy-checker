@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T22:20:21+00:00",
+ "generated_at": "2026-07-10T00:02:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ベトナムから愛媛へ 伊予鉄バス初の外国人運転士2人がデビュー",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQmwwLUE2Q1h0UXZhZ2Q4VW14dl9GR2dEaV9yNjlhTkRLTE5rdzdHQklSb0xJU19uSWgxc1ZhYm9ySlJjR2ZTZ2h4ejRTSTloUkl3RkF5YkE1ZzBENlZ1dEFhM2JkSDFI?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-10 07:45",
+   "published_iso": "2026-07-09T22:45:00+00:00"
+  },
+  {
+   "title": "サンフレッチェのオーストリアキャンプ密着 新外国人アレー選手も合流 チームメイト１人１人に声かけ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YMjI1QVVTZHJ5SHFxZ2RkbGJlT3F3VDRDV3Q5dmV6b3NjcDhIZlQtNmMtYThXb1ZESnp4Q3lXOHk0VWNlQnV5dkp2bXppdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-10 07:15",
+   "published_iso": "2026-07-09T22:15:00+00:00"
+  },
+  {
+   "title": "【ヤクルト】球団史上初の継投ノーヒットノーラン達成「守備にも助けられた。彼らも同じヒーロー」7回快投ウォルターズは仲間に感謝 リランソ→キハダと外国人投手リレーで広島打線を封じる（2026年7月9日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91Y2laT3dRYUVsNnc4a3dvQkpZTURWRTRyd3JobUJXLXJramVJOWFYSTUybm9nWUZGVkRjSUNPcGZIb0wxRmY1eE1Qa0ZzMm1xblNsZ2dfLXRXZnpEbzdldkhORkIyVnN3cFJ1d0JBWVNQZVRFb3BrUWlRVQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-10 07:00",
+   "published_iso": "2026-07-09T22:00:00+00:00"
+  },
   {
    "title": "［福岡県］働く外国人「楽に」意思疎通 産学官プロジェクト 九工大生、日本語学習アプリ開発に力 現場の声反映、実用化目指す",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
@@ -96,6 +120,14 @@
    "published_iso": "2026-07-09T11:25:00+00:00"
   },
   {
+   "title": "外国人の適正な雇用推進、長野駅で訴え 東京入管や県警など",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Tbi1IQVBDTmZRbWFLV29tNGpTRDE4MjdLd0tMbFpXRDV0MjNSN2VzM2h3TUZJTzhCS0NvMk45a2RTTWVNY2RLa3NpZW1hcUhkWEJFMTdNc2VrekVyTXg2WTRvTHJXc1R5aHNLWFB0UU8?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-09 20:22",
+   "published_iso": "2026-07-09T11:22:00+00:00"
+  },
+  {
    "title": "富山空港の新愛称「富山高山すし空港」に外国人観光客も賛否両論、「かなりバカバカしい」の声も",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4YTg1ZVg4VzdPWGV5R2M5ZUVhelViZ05UTmlWLVFadC1QaFVuY2dWRHJGSlNFTFdObDBIUy1KWnptVTNhekJocDhwZFo1Zw?oc=5",
    "source": "FNNプライムオンライン",
@@ -114,18 +146,10 @@
   {
    "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xenp5X3AwR0lfanRLMFdZYjQxZnZxbWNKQ1VwM0IySERSejAzSk4tVF8yZ3RWaW8yYnBoNjRMaGNFX2IydHptVEdrbzlscWJDdFlMX3VlS2dra3o5eWxWLWw3ZHlWTThQOExnWA?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-09 18:21",
    "published_iso": "2026-07-09T09:21:00+00:00"
-  },
-  {
-   "title": "【サンフレッチェ】オーストリアキャンプ密着 新外国人アレー選手も合流「みんなのつながりが素晴らしい」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZWVp1RmN2eDBBSC0wekxCQTlUaXM4QzE1QVlMaThwWG9ScVFPZDFzWjdvWmRCOUk4REs3c0pvU1czUXBKc1M0MzY4M1FSdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-09 17:42",
-   "published_iso": "2026-07-09T08:42:00+00:00"
   },
   {
    "title": "ロヒンギャ難民８人死亡 豪雨で土砂崩れ―バングラデシュ",
@@ -166,14 +190,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-09 15:15",
    "published_iso": "2026-07-09T06:15:09+00:00"
-  },
-  {
-   "title": "東広島市の山里に世界への扉 古民家カフェで月替わりのの各国料理やイベント【多文化共生のまち 芸南賀茂】",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tdHhnNmJDWW1rNWtRR09TZUI5Q3p6bUs2d0piNGs4NHdyb0xyMlN2OTNyZk9GVEkwTnMtZ1JsZlNicTlUd3QzN194SQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 12:12",
-   "published_iso": "2026-07-09T03:12:20+00:00"
   },
   {
    "title": "多文化共生社会実現への課題説明 福島経済同友会勉強会",
@@ -238,14 +254,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-08 23:11",
    "published_iso": "2026-07-08T14:11:00+00:00"
-  },
-  {
-   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 20:39",
-   "published_iso": "2026-07-08T11:39:00+00:00"
   },
   {
    "title": "パーソルキャリア、外国人紹介子会社を農業派遣のYUIMEに売却",
@@ -398,14 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-06 22:00",
    "published_iso": "2026-07-06T13:00:42+00:00"
-  },
-  {
-   "title": "移民排斥にあらがい「社会を面白く」混迷照らすアートの力とは",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jcjhSSGs1RUVfR3UwTkl5U1BQNF9oLWkzMzQxT2tHVWxkY1Q3c0NWRGVXemZrZzhWSGxGbEdEblA0amxRaC0tWjdvQkVTdG81V0s2dm5tQk9TUVJpaEUtejNILV9ZLVVz?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-05 11:00",
-   "published_iso": "2026-07-05T02:00:00+00:00"
   }
  ]
 }
