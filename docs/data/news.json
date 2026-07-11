@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T22:44:11+00:00",
+ "generated_at": "2026-07-11T23:52:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "茨城県在住外国人、10万人突破 県調査 南西地域で増加",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zUEQ3b0tCNnIyb1RwWDVULUdRUnlUZnRFY0pXVXdJd2NlWlAwVnlpSDlWNG1Zd3MtM1dGTDRDQWNNX0xNazdjalRVbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-12 08:00",
+   "published_iso": "2026-07-11T23:00:00+00:00"
+  },
   {
    "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oQV9PN2hrbE91V1E4ZzhTWHVMLV96V1VoVVNNdlgzeHdYRjdvTm1FZXAxNXlMRHZrd0RkaUEwdFItb1Q5Nmo5ZVVRdE15WHFjYjVPQUU3d2NKdw?oc=5",
@@ -102,14 +110,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-11 05:00",
    "published_iso": "2026-07-10T20:00:00+00:00"
-  },
-  {
-   "title": "2026年世界難民の日 レポート",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZGxzOUNPUGFwYml0dnlSUWZoSDZiWF9iZWN5TlpOUU1BWG1PaFNhWFdqLTlCMnRjalBfd01ScEJZcU1mQW16bldPdjhPald2VVVkUzZuOXdiRjNXQlNHOUU5aE9VeVd0M25v?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-10 22:40",
-   "published_iso": "2026-07-10T13:40:00+00:00"
   },
   {
    "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
@@ -246,14 +246,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-09 21:38",
    "published_iso": "2026-07-09T12:38:00+00:00"
-  },
-  {
-   "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRDFNdWl1MnhPMm02YjN3SVJmd0wzT3UxWWwxNGR2bDk4UnhZb3hjb0lSOEpGTzZvUThKZk1pcmFIWl9CU2RPRmpDRFE1U1lKdzlOX01iTzZ1OXlLd0N4LVcwNGh2V2pyd0FzMTlYNFphclV2a2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-09 21:09",
-   "published_iso": "2026-07-09T12:09:46+00:00"
   },
   {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
@@ -406,6 +398,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-08 09:54",
    "published_iso": "2026-07-08T00:54:40+00:00"
+  },
+  {
+   "title": "難民もビル・ゲイツも使った人気アプリDuolingo 「語学を続けさせる秘密」は",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ia1RaSXF2eklCS2w0Z01iRWIteXgyLXE5d1Zvb3Frazc0M0dqZmN5Y1dtSjRxMEhORzZZQm9ocWswR011TG1lSjNOeWJQTVhiM2c?oc=5",
+   "source": "朝日新聞GLOBE＋",
+   "source_domain": "asahi.com",
+   "published": "2026-07-08 07:00",
+   "published_iso": "2026-07-07T22:00:29+00:00"
   }
  ]
 }
