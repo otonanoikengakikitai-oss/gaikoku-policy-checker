@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T09:26:39+00:00",
+ "generated_at": "2026-07-11T11:02:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "20代外国人は川遊びで滝壺へ飛び込み…愛知と岐阜の川で男性2人がそれぞれ溺れて死亡 もう1人はアユ釣り中に",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XSVV0cC1yeXpGbUp6a0U5WUxZLWYzVVJuc3ROQ2hwR2hkeXl0d2dVMlZWQmZ6S180S3l0TnpodWRVYU14d29teHZFUkJvUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-11 19:54",
+   "published_iso": "2026-07-11T10:54:49+00:00"
+  },
+  {
+   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-11 19:22",
+   "published_iso": "2026-07-11T10:22:15+00:00"
+  },
+  {
+   "title": "福井・日野川で川遊びのベトナム籍技能実習生（18）が溺死 前日から行方不明",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UmQ4a1hXa2Jaa21iREY1TmZEVV9yVDB6Vmx2SlFfcE94RndMdGNYOWp3YTlRazljeWU0YXNseHZGWjlKU19UOFl3SDN1WHlFZTFJLWdhcw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-11 19:22",
+   "published_iso": "2026-07-11T10:22:00+00:00"
+  },
+  {
+   "title": "「水中に沈んで行った」川遊びをしていた18歳のベトナム人技能実習生が流され行方不明 福井市の日野川 潜水士が捜索も見つからず 11日朝に再開",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83Y05xRTRneDNOR3d1T04wWUFMNkVBemdwQnRxUW5xV0s3dlMtZ21kNk54cDIxYVg3WmpJUmJIRmItdHM0dW55NG1WR1dFUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-11 18:57",
+   "published_iso": "2026-07-11T09:57:07+00:00"
+  },
   {
    "title": "東広島市の山里に世界への扉 古民家カフェで月替わりの各国料理やイベント【多文化共生のまち 芸南賀茂】",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tdHhnNmJDWW1rNWtRR09TZUI5Q3p6bUs2d0piNGs4NHdyb0xyMlN2OTNyZk9GVEkwTnMtZ1JsZlNicTlUd3QzN194SQ?oc=5",
@@ -136,14 +168,6 @@
    "published_iso": "2026-07-10T05:30:00+00:00"
   },
   {
-   "title": "特定技能訪問介護解禁により、介護事業者のユーザー増！大東建託グループ ケアパートナーが特定技能管理クラウド「noborder」を導入し、確実な「自社支援」体制を構築！",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EbTVFTHlpbmZNOEhoR1ZLdVIwY2ZiaHhmWS1NTEo5RjFLbWptLS1sZm11bnMwYW9DbFBfTE1KbjNyRElSbFFRNmdvZXZ5RTlYeE5CXzVXZFZOZ0YwY2c3UVQ4TU1YSXNkNzU4a0ZiVDRxYmtoWE1YcFo5bw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-10 13:00",
-   "published_iso": "2026-07-10T04:00:00+00:00"
-  },
-  {
    "title": "家族のルーツ、日本で探る…移民の子孫が先祖ゆかりの地を巡る旅が人気 相互理解促進も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6LVFMa3ZTYzBqYnJGS3ZXTl9MY01yMUQyM1NiU0FsbXhIUnM3U0NtbUhvbS0zb0xRd2x3cWVsTkxnSnVxNXpqTkR5bmMzNm1BTFBDTDRPNXBqV3NYTmg3c3dPZFVaTmh3XzRKaDBoNkF4dEotV0E?oc=5",
    "source": "産経ニュース",
@@ -206,6 +230,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-09 21:38",
    "published_iso": "2026-07-09T12:38:00+00:00"
+  },
+  {
+   "title": "ヤクルト、継投で無安打無得点 外国人3投手で達成、広島戦",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWkhPbVJDdVdhNTJyYTRTVkQ1OHB1NENGXzlYNXM0Z3BzVVFIN2l3ckpyb3ZDSDNMZ0lGbnFWT3JQTlRiRnRlRFltTUl5VWF5WHhGV2pn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-09 21:09",
+   "published_iso": "2026-07-09T12:09:58+00:00"
   },
   {
    "title": "ヤクルト継投で無安打無得点 外国人3投手で達成 ソフトバンク以来6球団目",
@@ -320,28 +352,12 @@
    "published_iso": "2026-07-08T19:10:00+00:00"
   },
   {
-   "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IcEIwNkVscVJsME9Wdm43RktKYjJnMHdwdF95MHhQU2J0Nld6T01pX21kc1k1X0lxRXdVcnpoLVI3NHZ4RWZqZ1N1cldOY21WMDdGbzRCa0lTYjJOOXA5UEUySEdZNUdMOHBXUA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-09 02:00",
-   "published_iso": "2026-07-08T17:00:00+00:00"
-  },
-  {
    "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市（2026年7月8日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-08 23:11",
    "published_iso": "2026-07-08T14:11:00+00:00"
-  },
-  {
-   "title": "新愛称「富山高山すし空港」 外国人観光客や専門家は（2026年7月8日掲載）｜KNB NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnliZFk0enRkVlNUTkR2S3BZclB2TkRoRWRtcC1wdkFxSUFRQmo1ejI3cWE3WjRvOV9oN2FqTC1WOXQ2bEUwWTZrNjkwOEFNWlktZmxiMmRoZ0xmb2FPelE2SXlRUUdVVzNaNEhQalNMcjlOSmF0VFNmOC1IZk1paVY3czNPN28?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 20:39",
-   "published_iso": "2026-07-08T11:39:00+00:00"
   },
   {
    "title": "福島の人口減と高齢化 2040年に介護職7500人不足予測 特定技能外国人が現場の支えに",
@@ -390,22 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-08 09:54",
    "published_iso": "2026-07-08T00:54:40+00:00"
-  },
-  {
-   "title": "難民もビル・ゲイツも使った人気アプリDuolingo 「語学を続けさせる秘密」は",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ia1RaSXF2eklCS2w0Z01iRWIteXgyLXE5d1Zvb3Frazc0M0dqZmN5Y1dtSjRxMEhORzZZQm9ocWswR011TG1lSjNOeWJQTVhiM2c?oc=5",
-   "source": "朝日新聞GLOBE＋",
-   "source_domain": "asahi.com",
-   "published": "2026-07-08 07:00",
-   "published_iso": "2026-07-07T22:00:29+00:00"
-  },
-  {
-   "title": "「体操服」のやさしい日本語は 愛知県豊橋市の時習館高付属中で多文化共生講座",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTZTZuLUpLNWk0QXVZcDZNUWRjQTgzRG9uSjdWT2c5NXVPd01JaFkxaHI1SnUwTzJ3c2t1ckN5WVhhMWlfN0FJSlhWNHdHSDR3LTdQMg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-08 05:05",
-   "published_iso": "2026-07-07T20:05:00+00:00"
   }
  ]
 }
