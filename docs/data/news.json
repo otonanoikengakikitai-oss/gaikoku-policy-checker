@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T16:54:59+00:00",
+ "generated_at": "2026-07-11T17:53:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -92,6 +92,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2hSMWJoXzhSaXpwV1pWU0ZjYzd4TVY3a2V5UU9yR2t2Q1ZadGVEWW1LbmxkaTV6YmRVSkhUQTJJNENRNXZsNkFydzYyQ2t4ZElURmhlVHJ4NnlQREtVZDJZY1dyTVlKdUdTbQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-07-11 05:00",
+   "published_iso": "2026-07-10T20:00:00+00:00"
+  },
+  {
+   "title": "外国人スタッフの戦力磨く 名古屋で外食管理職を目指すセミナー：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfU01wWjVMZjd1WW1TaHNjLXJzbjJmSFA2N2E3bVZlc2t2ZWhKOHAwWTFzSVhLQjdfSGQyWnp5TXVNbzdvRlBpRG5tdG4ydUtMRXhpTWwwMURSeXpSWjdR?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
    "published": "2026-07-11 05:00",
    "published_iso": "2026-07-10T20:00:00+00:00"
   },
@@ -358,14 +366,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-08 23:11",
    "published_iso": "2026-07-08T14:11:00+00:00"
-  },
-  {
-   "title": "「観光宮崎」を支える宿泊事業者の就職面談会 人手不足の中 外国人材へ高まる期待 | MRTニュース ｜ ＭＲＴ宮崎放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYVUybmRMVVZvMzZGVExUS052TGdILVF0TUppcWRVaGRfY1JkeE8wRFkzTWt0RzRET3ZVTkF1eEd2dEpPMTFmampWbG9zTEVsc3QxWTF1UlJydw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-08 19:01",
-   "published_iso": "2026-07-08T10:01:00+00:00"
   },
   {
    "title": "米移民捜査官、メキシコ人男性を射殺 1月以来か、FBI捜査へ",
