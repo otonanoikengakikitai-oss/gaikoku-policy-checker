@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T23:07:35+00:00",
+ "generated_at": "2026-07-11T02:26:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "司法が覆した難民不認定、25年は6件 判断の差「証拠の評価だけ」 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teVI3R2QzNVhPTlFQSmV0bFlhZWM4OVAzME9Qcl9VbG1kTjVqZUZYZFFGMURDd3daeWRjLVNMcFpQWGtmUVhxWFBkUlMyOWZya25md0FRYllkdnRnTTFJczh1YUZNMEk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-11 10:00",
+   "published_iso": "2026-07-11T01:00:00+00:00"
+  },
+  {
+   "title": "ドイツ語の学ぶ場減らす動き 逆回転する移民統合「誤ったシグナル」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydkNuSTl3VGVVVmRQZHA5MlVZU2lfZkphdVdKZEFKdEtyTTRsOFRwNVotc19ON2xrLWpONWg0TEZyVHUtVWkyejg0TzlBa1JLTDRWVVZRN2hMOTVDQ2pXc2F4V0tqaTg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-11 09:00",
+   "published_iso": "2026-07-11T00:00:00+00:00"
+  },
   {
    "title": "韓国、美容医療が外国人客を魅了 首都と皮膚科に偏る医師",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2hSMWJoXzhSaXpwV1pWU0ZjYzd4TVY3a2V5UU9yR2t2Q1ZadGVEWW1LbmxkaTV6YmRVSkhUQTJJNENRNXZsNkFydzYyQ2t4ZElURmhlVHJ4NnlQREtVZDJZY1dyTVlKdUdTbQ?oc=5",
@@ -120,20 +136,20 @@
    "published_iso": "2026-07-10T04:00:00+00:00"
   },
   {
-   "title": "客引き外国人集団一員か、男逮捕 歌舞伎町、訪日客に注意呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yT0F6QS04OVQ2bzhDZTV5YVJqOUhPdlJrbmdYOXpNYkdMVzJmeWlBeFZOUTEzMTNKTUFPelB5SEhyQ0VBVnoxVzRBQnowOTA2VUxLSzV5dklyUl9jZE9QUG9kLWlOUkxnamRNbWlJLTJSdFhtNGpqUXVB?oc=5",
-   "source": "神戸新聞NEXT",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-10 12:17",
-   "published_iso": "2026-07-10T03:17:00+00:00"
-  },
-  {
    "title": "外国人に伝える「震災と原発事故」の記憶 「ホープツーリズム」で訪問者が増える福島、複雑な思いの住民も",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMnlQTXJOeHMwWEtUQndGSVJBRkNPdHktWkpHN0h1SjZqWENnN1VXYi15V2g4U0xZNGpsZXkzdXNOb1pVT0J6azBXYW5FWjZNcG5n?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-10 12:00",
    "published_iso": "2026-07-10T03:00:00+00:00"
+  },
+  {
+   "title": "プレスリリース：特定技能1号停止後、外食業界の「次の一手」へ──200名超受け入れ企業の人事が語る特定技能2号実務セミナーを7月30日開催（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LT2RwZXY2SWk1UmpDQVJfb0pVRHZfdGNtN2FLVHpnTEFBSi04Umd4Y28yV2w0ckJ3WG9MUnltWUVKdG96cG91X3p4SDJlOVdiS0FjYW9jbmx2QklqWGs5enVSazRNWWQ2?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-10 10:21",
+   "published_iso": "2026-07-10T01:21:47+00:00"
   },
   {
    "title": "浅草寺で夏の風物詩「ほおずき市」始まる 多くの外国人観光客らで賑わう",
@@ -158,22 +174,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-10 07:45",
    "published_iso": "2026-07-09T22:45:00+00:00"
-  },
-  {
-   "title": "「公園で１人で缶ビールを１本のみ飲んだ」ベトナム国籍の自称技能実習生の男(25)を自転車の飲酒運転の疑いで逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSc3JpS1BkVzA0S1hZazVSbHM1MnVUQ0RwNXVnSWRtdkxkUmlHZ253RF9DekNRQ2p5dGZ1bVdrMUVzVzI4clJHLU91N3JfZkM1YXV2TTJkcjZVVkRrNEhxd1Nrcl9NZlE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-10 07:23",
-   "published_iso": "2026-07-09T22:23:00+00:00"
-  },
-  {
-   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 06:00",
-   "published_iso": "2026-07-09T21:00:00+00:00"
   },
   {
    "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
@@ -224,9 +224,17 @@
    "published_iso": "2026-07-09T11:55:36+00:00"
   },
   {
+   "title": "ロヒンギャ難民８人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUGVHTlRyMExoNDg0MlEyUmtJcmstWjZZWjRfODNkYjlVcktLZ1NHdTY0d3l2XzA5OVdpWDlNYU4zN3FxSXZ2X2d6SmdEOEVlYW52WWpPa1oyTC1iTGRuTTlxWmQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-09 18:35",
+   "published_iso": "2026-07-09T09:35:58+00:00"
+  },
+  {
    "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNUFiaFRwUjdQMGZ2LV9BRlZNRmVMb2ZZbGpyMmlpQlZTOGZLSnZ3NVVJM1RZRHlVZVIwTkJiclV5aHByWUZ0VWdyOEJwdTQyTXBnR1RMN1B0WnBZQlRtbVhaT3lvV2VISm53?oc=5",
-   "source": "神戸新聞NEXT",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-09 18:21",
    "published_iso": "2026-07-09T09:21:00+00:00"
@@ -289,11 +297,19 @@
   },
   {
    "title": "北米移民のパイオニア、「コロンブス」と呼ばれた男が愛西市にいた 功績を伝えようと教材を発行",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44NUNDdXQtM3hDc0J0VXRLTzNjNUREcGxwaTJ2N01feHcxcWNPRFpUbGdiUWw3RERQWEV5b19FUTZfUTF3YWdGRHAtYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05V0hsX2pFWV9jaUNXbmpURmpoaHhPdTNDNm5NODJyN0RKRVFJdHlTcVBQTzNhWUEzWU9iYjBETWU3WjBhRjBBd0YzQWdJV1lhXzRCdg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
    "published": "2026-07-09 05:10",
    "published_iso": "2026-07-08T20:10:00+00:00"
+  },
+  {
+   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 05:00",
+   "published_iso": "2026-07-08T20:00:00+00:00"
   },
   {
    "title": "特定技能のリーディングカンパニー ONODERA USER RUN、人材サービス事業とDX事業を展開するディップ株式会社と業務提携を締結。 深刻化する人手不足への解決策を提供開始",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-07 18:45",
    "published_iso": "2026-07-07T09:45:31+00:00"
-  },
-  {
-   "title": "人手不足の物流業界 特定技能実習生として佐賀で働くタイ人ドライバー3人に密着 【佐賀県】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WRTV1Smk4MDQ0cVdwblk2YkZsQkc1SnNKOGh6a0FOMTNMS2VhVUNocV9DLWxORXE2SWpxQVFQQWVlMGM3Qkk1dzFKMVlDUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-07 18:18",
-   "published_iso": "2026-07-07T09:18:00+00:00"
-  },
-  {
-   "title": "外国人の管理・規制を強めた「第2次出入国在留管理基本計画」案、国民の意見を募るパブコメ9日まで",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQd1pPNnd6bU96QUlVTjlWX2dzMzNvd0xPbjRkcnZ4bEo4ZnBrVENURnFEcjVza01TaHNPZXY2UmJWUDBUZl9YMkFERHA5QXFBY0Fz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-07 17:10",
-   "published_iso": "2026-07-07T08:10:32+00:00"
   }
  ]
 }
