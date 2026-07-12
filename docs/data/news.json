@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T19:01:56+00:00",
+ "generated_at": "2026-07-12T20:42:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KV3dlZWplSnl5MU50aV9Ha1Q0MVRYSnptZ0xXYWZWNGU5TzFCWlB0S1JCemE5cDc1aTlhUUVoZDRKODhHcGU3MHJmRkhEdUt2a1B6bWJPZXcwT29YXzFzbms2ZXk1b28?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-13 03:01",
+   "published_iso": "2026-07-12T18:01:31+00:00"
+  },
   {
    "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELU9jNnVvU0VCVGRUR0RSenBIZ2NobjVKSHVjaXJreEZKVXdVN1UwUzNaR09qVjJIQ3hXRVRrOHdLSllhcGdqODFuZ2g0cEYxMWlQVHlCdw?oc=5",
@@ -168,6 +176,14 @@
    "published_iso": "2026-07-11T04:13:00+00:00"
   },
   {
+   "title": "存在感を発揮したアフリカ勢、９チームが決勝Ｔ進出…モロッコ・カボベルデは移民系子孫などでチーム強化",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS09PRklmZWZYeGZPcVZMczlhTE1LeEJVLVdJV2lySHZuenZaVlNYUXVJZEl3WkdoRkNOd01rbk91ZW9XTmVvbFE1cEdUTHNpQlpKc2ZqbWc5aWJjZ21yOHdJZms5WVhKS05xTElxV2FxaW1VZG5ZWA?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-11 11:12",
+   "published_iso": "2026-07-11T02:12:00+00:00"
+  },
+  {
    "title": "司法が覆した難民不認定、25年は6件 判断の差「証拠の評価だけ」 [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teVI3R2QzNVhPTlFQSmV0bFlhZWM4OVAzME9Qcl9VbG1kTjVqZUZYZFFGMURDd3daeWRjLVNMcFpQWGtmUVhxWFBkUlMyOWZya25md0FRYllkdnRnTTFJczh1YUZNMEk?oc=5",
    "source": "朝日新聞",
@@ -264,6 +280,14 @@
    "published_iso": "2026-07-10T05:56:01+00:00"
   },
   {
+   "title": "難民の子に届けたい 小中学生が古着回収、和歌山県田辺・白浜",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xQ1JFakVyUDlzQkxLVnBLZDdxZU95OTVWVUxFc0NjSll6Y2tfOHczZ1duRG1CYVpWcmpVQkcxN3lIMmZLcWlSRVZWOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-10 14:30",
+   "published_iso": "2026-07-10T05:30:00+00:00"
+  },
+  {
    "title": "家族のルーツ、日本で探る…移民の子孫が先祖ゆかりの地を巡る旅が人気 相互理解促進も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6LVFMa3ZTYzBqYnJGS3ZXTl9MY01yMUQyM1NiU0FsbXhIUnM3U0NtbUhvbS0zb0xRd2x3cWVsTkxnSnVxNXpqTkR5bmMzNm1BTFBDTDRPNXBqV3NYTmg3c3dPZFVaTmh3XzRKaDBoNkF4dEotV0E?oc=5",
    "source": "産経ニュース",
@@ -310,6 +334,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-10 07:45",
    "published_iso": "2026-07-09T22:45:00+00:00"
+  },
+  {
+   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-10 06:00",
+   "published_iso": "2026-07-09T21:00:00+00:00"
   },
   {
    "title": "日本代表、外国人の心つかむ 漫画、アニメをきっかけに",
@@ -368,44 +400,12 @@
    "published_iso": "2026-07-09T09:21:00+00:00"
   },
   {
-   "title": "【News English 300 words 】飲食店 外国人材に依存",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Td01lTjNWT042OC1sSnVIeXpGQUo2d09KQVdvekswUDVfZllTb0c1cjQ5SU5jT1J0TjhWVXNKYm1zWnc3Vnh2Zk9SM2NDVzNTYUZTOVZxMDM0ZEJOTnhNODhWYXZBMUZSYnQ3LThBdkpjVEZVbXc?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-09 17:00",
-   "published_iso": "2026-07-09T08:00:00+00:00"
-  },
-  {
    "title": "「数合わせ」ではない障害者雇用へ 4.38%達成した企業の発想",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PdGk4NkNfemRmM2JndEVPTk11Tml3RGpZQXY5akFxalBNNnJxTVR0bWRhcDBoTHo1WTdXN1ZkZWNuclhQZDhublJvLVBoQ19KNFdROUlERGFqZFRjN3hTX3hNdkFhcnY2?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-09 17:00",
    "published_iso": "2026-07-09T08:00:00+00:00"
-  },
-  {
-   "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 10:45",
-   "published_iso": "2026-07-09T01:45:00+00:00"
-  },
-  {
-   "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVVXJRdjJ4Q0ZHdFIwN2cxa1Y3NUg0TTUwTmtpOU16MmZySHpLTWFDSk1tdm1SZWh4eTNTQnU1X0hmVjdiVkJGbVdqMG11czVld2lsVm5aUkhUOFliYzFXVnkyeTFvWVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 09:00",
-   "published_iso": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 05:00",
-   "published_iso": "2026-07-08T20:00:00+00:00"
   }
  ]
 }
