@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T13:36:13+00:00",
+ "generated_at": "2026-07-12T14:53:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -160,14 +160,6 @@
    "published_iso": "2026-07-11T04:13:00+00:00"
   },
   {
-   "title": "存在感を発揮したアフリカ勢、９チームが決勝Ｔ進出…モロッコ・カボベルデは移民系子孫などでチーム強化",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS09PRklmZWZYeGZPcVZMczlhTE1LeEJVLVdJV2lySHZuenZaVlNYUXVJZEl3WkdoRkNOd01rbk91ZW9XTmVvbFE1cEdUTHNpQlpKc2ZqbWc5aWJjZ21yOHdJZms5WVhKS05xTElxV2FxaW1VZG5ZWA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 11:12",
-   "published_iso": "2026-07-11T02:12:00+00:00"
-  },
-  {
    "title": "司法が覆した難民不認定、25年は6件 判断の差「証拠の評価だけ」 [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teVI3R2QzNVhPTlFQSmV0bFlhZWM4OVAzME9Qcl9VbG1kTjVqZUZYZFFGMURDd3daeWRjLVNMcFpQWGtmUVhxWFBkUlMyOWZya25md0FRYllkdnRnTTFJczh1YUZNMEk?oc=5",
    "source": "朝日新聞",
@@ -288,6 +280,14 @@
    "published_iso": "2026-07-10T03:35:00+00:00"
   },
   {
+   "title": "外国人に伝える「震災と原発事故」の記憶 「ホープツーリズム」で訪問者が増える福島、複雑な思いの住民も",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMnlQTXJOeHMwWEtUQndGSVJBRkNPdHktWkpHN0h1SjZqWENnN1VXYi15V2g4U0xZNGpsZXkzdXNOb1pVT0J6azBXYW5FWjZNcG5n?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-10 12:00",
+   "published_iso": "2026-07-10T03:00:00+00:00"
+  },
+  {
    "title": "プレスリリース：特定技能1号停止後、外食業界の「次の一手」へ──200名超受け入れ企業の人事が語る特定技能2号実務セミナーを7月30日開催（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LT2RwZXY2SWk1UmpDQVJfb0pVRHZfdGNtN2FLVHpnTEFBSi04Umd4Y28yV2w0ckJ3WG9MUnltWUVKdG96cG91X3p4SDJlOVdiS0FjYW9jbmx2QklqWGs5enVSazRNWWQ2?oc=5",
    "source": "毎日新聞",
@@ -384,14 +384,6 @@
    "published_iso": "2026-07-09T08:00:00+00:00"
   },
   {
-   "title": "多文化共生社会実現への課題説明 福島経済同友会勉強会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LMUxnN0hVbnBlZWUzZ1FLNEFJT3BLU1FESm5sckZzUVFvYzE4ai1PQ1BQQmtlMm11QWI1R3pPZFl6RWxLSWp4RlVuaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 11:32",
-   "published_iso": "2026-07-09T02:32:28+00:00"
-  },
-  {
    "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
    "source": "朝日新聞",
@@ -406,6 +398,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 09:00",
    "published_iso": "2026-07-09T00:00:00+00:00"
+  },
+  {
+   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 05:00",
+   "published_iso": "2026-07-08T20:00:00+00:00"
   }
  ]
 }
