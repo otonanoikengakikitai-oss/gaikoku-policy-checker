@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T17:02:45+00:00",
+ "generated_at": "2026-07-12T19:01:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -78,6 +78,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-07-12 11:00",
    "published_iso": "2026-07-12T02:00:00+00:00"
+  },
+  {
+   "title": "海外SNS効果？ 広島・尾道の外国人観光客70万人超に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IejJYc3M2V25aWEh0cVZqYnJ0dDdGQ0c0NHY1R1dyeHRSWWNkdlU3MUpTLUR0X1Jpb1ZBS0h3d2w4WWREMUJyM3l4Q0R4X2ViUWw5WEZ0eEhOVnVQOWVjS19KOEtsblBf?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-12 10:15",
+   "published_iso": "2026-07-12T01:15:00+00:00"
   },
   {
    "title": "移民の子ども急増、工夫重ねるドイツ教育現場 受け入れ制限の議論も",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 05:00",
    "published_iso": "2026-07-08T20:00:00+00:00"
-  },
-  {
-   "title": "米移民捜査官、メキシコ人男性を射殺 1月以来か、FBI捜査へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kV0JyX01aV01WeWpoUngzQ0dDbm5CUGlUcTZFbDVqMFRZN1FSN1RyNXpYa19ucW51c2NfeVp4TGZpYTdHeV9WLWN6N0NWYUpjRzFaVngwcXdWOUpqYWJGc3BvQWtCQk1z?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-08 15:16",
-   "published_iso": "2026-07-08T06:16:56+00:00"
   }
  ]
 }
