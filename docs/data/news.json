@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T05:55:43+00:00",
+ "generated_at": "2026-07-12T08:15:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-12 17:00",
+   "published_iso": "2026-07-12T08:00:00+00:00"
+  },
+  {
+   "title": "子供のころから暮らす地域にモスクが建つ時 藤沢の住民苦悩、モスク側と「地域協定」模索 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNaXRSZXgwUE9NQm9pNmpVTlRObWhLRW9WQzBJWnE0M2ZRdVRHaU43TjhmbW5WRFdmSW9BYmpsRXFxdUlfX1prNFRVRDJGVUE2OEY1Tm51NmVPNWt6MkI1Tl9qYXp2VEl1MlNzRHB0TXBFMU1ZaEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-12 15:30",
+   "published_iso": "2026-07-12T06:30:00+00:00"
+  },
+  {
+   "title": "愛知・アジアパラ大会まで100日 大村知事「真の共生社会を発信」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRQUI5aVNPUVNlc2JXdmNxU1g0QWloS3dYNlR2ZngwU0QxVm5EUE9sWDJ3UWUzT3NUOUtOckRibUhhbVpjU01SS0hmcUUyZ19jMUlSb2w0SFdNZmNrZ0ZweURvRDFQelpuMy1DNw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-12 15:04",
+   "published_iso": "2026-07-12T06:04:54+00:00"
+  },
+  {
+   "title": "アジアパラ「１００日前セレモニー」開催、メダルなどお披露目…大村愛知県知事「共生社会作っていきたい」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zUDQzbXdvWGV0VWtzb2ZkbjM0aEtQd3pTQWUtaXJ5MmVKWTM2aFBoeU1sTHNybUxyYUFDb1N6OGRFQkNBT1p2bTFtUkVWMzJCclZHX3hkTGRITFBCbTd4Y1BOSTJEVFR1UTNsaTN4b3dzNEx0d21seUxR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-12 14:30",
+   "published_iso": "2026-07-12T05:30:00+00:00"
+  },
   {
    "title": "「だまされた。悔しい」高度人材とは名ばかりの「偽技人国」が失意を生んだ 在留資格制度の暗部",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KNS0xUDJpalRfaUtYV2V5NHZFX2xYem5jSmpRU0RqcS1ucW1jcThlNHhpa3VFdzNzM255VkFKOXRvLVh4dVRHR0l4WEdUTzE2OGpz?oc=5",
@@ -64,6 +96,14 @@
    "published_iso": "2026-07-11T22:00:00+00:00"
   },
   {
+   "title": "多文化共生について活発に意見交換をした交流会 - 多文化「ゆるっと」話そう 久留米市で44人が交流 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbHhiS2hnMkRvNWtVbnZSeG1SeGIyY3lQdHlJYTI5MWVyZk5hU1pqWVBUTU00NG9lWFFuUzQyYmg0dWRjaW9xLTFiUkQ5TGhQRFpqR2Fudw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-12 06:22",
+   "published_iso": "2026-07-11T21:22:55+00:00"
+  },
+  {
    "title": "兼六園、外国人３年連続最多 上半期入園者、初の３０万人超 中国激減も欧米豪好調 韓国、ソウル便毎日運航で倍増",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01UlV4V2VhWFV0LXpuTF93cDRhRTRzTnhTZXptbjk4T3BXNkc3X09MSWJKSmU4dFRCVzZUNVdKcnhfN1cxT2FrTERyNA?oc=5",
    "source": "47NEWS",
@@ -104,6 +144,14 @@
    "published_iso": "2026-07-11T06:00:00+00:00"
   },
   {
+   "title": "すき焼き・すし・天ぷら…外国人観光客がハマる「食べ放題」屋形船でもんじゃ焼き作りに苦戦 “初の食材”試せるのも魅力に【気になる！】（2026年7月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95WFpOZjhfRWRuVm4tWi10ZlVWU1hOME1WMGZSUE4yQVJheS11SUxtMEowSjdjUF9aLUxRemltbzhDd3c2VGlNNlRiSlNxUURQNFk3RC1mcml0MVlmTnIxdlNxSEpsUUNyTDdMZ3U3VksxQUh5czBvQXY5aWw?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-11 13:13",
+   "published_iso": "2026-07-11T04:13:00+00:00"
+  },
+  {
    "title": "存在感を発揮したアフリカ勢、９チームが決勝Ｔ進出…モロッコ・カボベルデは移民系子孫などでチーム強化",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS09PRklmZWZYeGZPcVZMczlhTE1LeEJVLVdJV2lySHZuenZaVlNYUXVJZEl3WkdoRkNOd01rbk91ZW9XTmVvbFE1cEdUTHNpQlpKc2ZqbWc5aWJjZ21yOHdJZms5WVhKS05xTElxV2FxaW1VZG5ZWA?oc=5",
    "source": "読売新聞",
@@ -142,6 +190,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-11 05:00",
    "published_iso": "2026-07-10T20:00:00+00:00"
+  },
+  {
+   "title": "2026年世界難民の日 レポート",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZGxzOUNPUGFwYml0dnlSUWZoSDZiWF9iZWN5TlpOUU1BWG1PaFNhWFdqLTlCMnRjalBfd01ScEJZcU1mQW16bldPdjhPald2VVVkUzZuOXdiRjNXQlNHOUU5aE9VeVd0M25v?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-10 22:40",
+   "published_iso": "2026-07-10T13:40:00+00:00"
   },
   {
    "title": "「水中に沈んで行った」川遊びをしていた18歳のベトナム人技能実習生が流され行方不明 福井市の日野川 潜水士が捜索も見つからず 11日朝に再開",
@@ -273,11 +329,11 @@
   },
   {
    "title": "群馬・川場村に外国人材向け寮",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1dqSkk3b0d4SkRNWkRxczlQamRSZ0FWS0JUQlYyb0JtVGh3MFRQdXNWSU9BN2xtNDBGNVlYejBoVzF3NDRJT082V3R6LXVqa2JrdEUyYlRuamc4N2I5a29qaDRuVVBCd0xkU01hSUhrVHhtekMtWTRyeHhwczg4VTNaMURJV3dDbm5SQUNWV2dFb0xoTDY3SGpvQjJ5czZhbGVXNmtn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0ZzT2J4WjV6ckhoT0NYeEFSNUxiUTFvQnZpRkJUajBmNm56WlFxdnpVMlhSXzE3azZQY3B6SEJnU1RTR3N0eEFRczZxalpkUnhNMjZIR0J0YWRzTGFLOURyblpCdDl4b3l3X19oUnBIRWFGRTVmbm81RlE1WEU1UlJMUVloaVEwZ2VUbllXcXB3R051cVVfVGYzOGNqM1p5WVA4S0Vn?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-10 02:10",
-   "published_iso": "2026-07-09T17:10:26+00:00"
+   "published": "2026-07-10 02:17",
+   "published_iso": "2026-07-09T17:17:53+00:00"
   },
   {
    "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
@@ -328,14 +384,6 @@
    "published_iso": "2026-07-09T08:00:00+00:00"
   },
   {
-   "title": "外国人客が中古時計店に殺到 日本製の品質に魅了され セイコーずば抜けて人気",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2NUtsS3BlYlQ1aUJqVmw1UDFiX2lDZEs1T3JmZkJ4TzM0U2hKSE1sa3ZhakRwY3JfTzZjYXNPTTFnaEtnR3hxRDBJRG5XX1lOWUxaclNPNVNvbWJnMFZqdzlBWEdWLUpmWm4zUEJIYTBNZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-09 13:22",
-   "published_iso": "2026-07-09T04:22:00+00:00"
-  },
-  {
    "title": "多文化共生社会実現への課題説明 福島経済同友会勉強会",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LMUxnN0hVbnBlZWUzZ1FLNEFJT3BLU1FESm5sckZzUVFvYzE4ai1PQ1BQQmtlMm11QWI1R3pPZFl6RWxLSWp4RlVuaw?oc=5",
    "source": "47NEWS",
@@ -344,68 +392,20 @@
    "published_iso": "2026-07-09T02:32:28+00:00"
   },
   {
+   "title": "姿消した飼い主、さまようペットたち トランプ政権の移民強制送還",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lcUxWRXN4bVJsdnQ3RXFrbDd1TkE4SFcwUnVONld6NmEwV2MtT3FiejF1TzgzVnNQa3o0WFJfTlVRQTQweXI1eE1JazhRVHhRaWZZRGZMbmdKd21tUEdvekMtaUtJME0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 10:45",
+   "published_iso": "2026-07-09T01:45:00+00:00"
+  },
+  {
    "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVVXJRdjJ4Q0ZHdFIwN2cxa1Y3NUg0TTUwTmtpOU16MmZySHpLTWFDSk1tdm1SZWh4eTNTQnU1X0hmVjdiVkJGbVdqMG11czVld2lsVm5aUkhUOFliYzFXVnkyeTFvWVE?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-09 09:00",
    "published_iso": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "title": "北米移民のパイオニア、「コロンブス」と呼ばれた男が愛西市にいた 功績を伝えようと教材を発行",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44NUNDdXQtM3hDc0J0VXRLTzNjNUREcGxwaTJ2N01feHcxcWNPRFpUbGdiUWw3RERQWEV5b19FUTZfUTF3YWdGRHAtYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-09 05:10",
-   "published_iso": "2026-07-08T20:10:00+00:00"
-  },
-  {
-   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 05:00",
-   "published_iso": "2026-07-08T20:00:00+00:00"
-  },
-  {
-   "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IcEIwNkVscVJsME9Wdm43RktKYjJnMHdwdF95MHhQU2J0Nld6T01pX21kc1k1X0lxRXdVcnpoLVI3NHZ4RWZqZ1N1cldOY21WMDdGbzRCa0lTYjJOOXA5UEUySEdZNUdMOHBXUA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-09 02:00",
-   "published_iso": "2026-07-08T17:00:00+00:00"
-  },
-  {
-   "title": "米移民捜査官、メキシコ人男性を射殺 1月以来か、FBI捜査へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kV0JyX01aV01WeWpoUngzQ0dDbm5CUGlUcTZFbDVqMFRZN1FSN1RyNXpYa19ucW51c2NfeVp4TGZpYTdHeV9WLWN6N0NWYUpjRzFaVngwcXdWOUpqYWJGc3BvQWtCQk1z?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-08 15:16",
-   "published_iso": "2026-07-08T06:16:56+00:00"
-  },
-  {
-   "title": "取り締まり中…米移民税関捜査局職員がメキシコ人男性を射殺 アメリカ・テキサス州（2026年7月7日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzRUM1ZaRUROLVB0R1F1QjNZS2ZzV1VOMURnREpiSnlPNkpMdTluVHNOMFNQeEpRclNxbHFqRWpOM1Rad1d0blFpZW5BZ2pZdl9SRHRpREctM2VQSVBLSmpoRTY0WjdER0tUVkRPODFkVVpwYWtEX3gxQW5iZXpreW9vbzA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 10:07",
-   "published_iso": "2026-07-08T01:07:00+00:00"
-  },
-  {
-   "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY3VDR0pzczV5NTg4LVU1RUxVYi0xd1VKek1xRlc5c0JOR0U3bkpNcGRCV3ZMT1F6OE1BYVl3UWpKdkJST1BHc0VPQzdhUTJMX05DbXFONmNwTnYzTXd3T1RGekdJWGNOUTNhNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 10:00",
-   "published_iso": "2026-07-08T01:00:00+00:00"
-  },
-  {
-   "title": "米移民当局がメキシコ人男性を射殺、1月の事件以来か ヒューストン [トランプ再来]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLX1BuVHNKNk5UMDdpSFdCSUNMVzNUWmR0SEZMcEpDYURxNGpoQTJXR1lVMWd6SUtMQi05c3VzanFRcDg2X2x4cjhMMHVFZlIzaG5aWEYzbUVqOGM0QnJjcmIxVXpMQ0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-08 09:54",
-   "published_iso": "2026-07-08T00:54:40+00:00"
   }
  ]
 }
