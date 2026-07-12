@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T11:57:32+00:00",
+ "generated_at": "2026-07-12T13:36:13+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ELU9jNnVvU0VCVGRUR0RSenBIZ2NobjVKSHVjaXJreEZKVXdVN1UwUzNaR09qVjJIQ3hXRVRrOHdLSllhcGdqODFuZ2g0cEYxMWlQVHlCdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 22:12",
+   "published_iso": "2026-07-12T13:12:00+00:00"
+  },
   {
    "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-09 09:00",
    "published_iso": "2026-07-09T00:00:00+00:00"
-  },
-  {
-   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-09 05:00",
-   "published_iso": "2026-07-08T20:00:00+00:00"
   }
  ]
 }
