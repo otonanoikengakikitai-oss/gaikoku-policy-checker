@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T02:33:55+00:00",
+ "generated_at": "2026-07-13T06:14:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "［川崎区役所主催］就労分野の認定日本語教育機関による実証事業「就労者のための日本語講座」を実施します（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5TmFiWnF0SXhGRGZ2TGtRQzNJallNZVFtaDNrMTlaTDZLNnlJbk5KWDd6UXhTWWpOajU5ZlZRU3AwRlNOQmM3TWtjakFrUlRmU3phVHdCaEY0WDR0WllPcXAxeHZJaDha?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-13 14:22",
+   "published_iso": "2026-07-13T05:22:06+00:00"
+  },
   {
    "title": "日本からの海外送金、25年度1兆円超え 外国人の就労拡大映す",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdnhiRVdlaTJxTWx5aU5OaHRkQnpGUWx5UkZhcDA2TDV1S1FiTGNmWHR1a1FNR2dtWEtTVm15bkNUWkREVElRbVhZYndBRHBaendJMjQyOVREYklWTmNJSkxsVDVtUnBlSjFQYg?oc=5",
@@ -48,12 +56,12 @@
    "published_iso": "2026-07-12T23:57:00+00:00"
   },
   {
-   "title": "ICTで日本語教育を効率的に。「レシピー」のポリグロッツが日本語教育向けプラットフォーム「MONDO」（モンド）をリリース ーー株式会社ポリグロッツ",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5T1lockZtOEc0UEYyRTBrNlE5UmVfQWxobUUwZ3FValctaTQwVUJkNDJtSnlMVFZWNTQ3c0RvQTc2VHZ4N0dlZC1PeUtfV3lQQVkxNXc1TmtKNGxta0dLcmR5RC04Z293WVlGanV4WmU0ZG5EblNVelEzbw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-13 08:00",
-   "published_iso": "2026-07-12T23:00:00+00:00"
+   "title": "「白タク行為」で中国籍の男（42）逮捕 東京駅前で無許可でタクシー営業 外国人観光客3人を有償でホテルに送迎",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EQ0FvQlhXeTRhdlNlMG5PeXpWT055RjBrRFJXSkFqTl9pOGVYYlVJSnB2MWh3WlhxRm91blVrb01xRkVWdFY2clNpQnRudw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-13 06:37",
+   "published_iso": "2026-07-12T21:37:00+00:00"
   },
   {
    "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
@@ -66,14 +74,6 @@
   {
    "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-12 22:12",
-   "published_iso": "2026-07-12T13:12:00+00:00"
-  },
-  {
-   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (2ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hRXdhZ3VKOG1NMjhuUkY4ZDl1V0tsak9UTjJyS3hQM3REYTk0LVhLVkU1VHlseWgxSmUxcnRBd0tBVFVSVFZoZ25Ta0t5ckNyZGZmay1IRkdxeGhVOHZCckI0VQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-12 22:12",
@@ -128,14 +128,6 @@
    "published_iso": "2026-07-12T03:00:00+00:00"
   },
   {
-   "title": "「センセイ」の裏の顔は不法就労ブローカー 顔を合わさず「SNSで人を拾って…私は安全」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wdm5nYlZjUzhWUzlQWmRpVDIybC16cU03bEpLZXRialNGR3BBVHNHMExGcUFjaWxXd0d0Tmk5VTNwR21tZHdpdlk5LVk3S1dreWEw?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-12 12:00",
-   "published_iso": "2026-07-12T03:00:00+00:00"
-  },
-  {
    "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
    "source": "朝日新聞",
@@ -161,7 +153,7 @@
   },
   {
    "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oQV9PN2hrbE91V1E4ZzhTWHVMLV96V1VoVVNNdlgzeHdYRjdvTm1FZXAxNXlMRHZrd0RkaUEwdFItb1Q5Nmo5ZVVRdE15WHFjYjVPQUU3d2NKdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDROeXpsMmxIaE45Q2cySkRoZFRXZGFUQ1dnSVdCRVI2VWl2T1lockJ0OF9hODM0c0F5a3hXOWpacW9waWEtSVJTTjRPbWR0X2Y0RE8xOA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-12 07:00",
@@ -214,22 +206,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-11 13:13",
    "published_iso": "2026-07-11T04:13:00+00:00"
-  },
-  {
-   "title": "存在感を発揮したアフリカ勢、９チームが決勝Ｔ進出…モロッコ・カボベルデは移民系子孫などでチーム強化",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vS09PRklmZWZYeGZPcVZMczlhTE1LeEJVLVdJV2lySHZuenZaVlNYUXVJZEl3WkdoRkNOd01rbk91ZW9XTmVvbFE1cEdUTHNpQlpKc2ZqbWc5aWJjZ21yOHdJZms5WVhKS05xTElxV2FxaW1VZG5ZWA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 11:12",
-   "published_iso": "2026-07-11T02:12:00+00:00"
-  },
-  {
-   "title": "司法が覆した難民不認定、25年は6件 判断の差「証拠の評価だけ」 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9teVI3R2QzNVhPTlFQSmV0bFlhZWM4OVAzME9Qcl9VbG1kTjVqZUZYZFFGMURDd3daeWRjLVNMcFpQWGtmUVhxWFBkUlMyOWZya25md0FRYllkdnRnTTFJczh1YUZNMEk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-11 10:00",
-   "published_iso": "2026-07-11T01:00:00+00:00"
   },
   {
    "title": "ドイツ語の学ぶ場減らす動き 逆回転する移民統合「誤ったシグナル」",
@@ -368,22 +344,6 @@
    "published_iso": "2026-07-09T22:45:00+00:00"
   },
   {
-   "title": "働く外国人「楽に」意思疎通 産学官でプロジェクト 九工大生、日本語学習アプリ開発に注力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOHlSTVdSRGpCSkc3Q2t2LXE5QUx3ZjdhVm9DV2tNaFotdVpSWlJNNDV3bmxocUxkc0xFU0wyZEN0TjMzRzFCZEtGazR3OWlwRXlhTHl3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 06:00",
-   "published_iso": "2026-07-09T21:00:00+00:00"
-  },
-  {
-   "title": "日本代表、外国人の心つかむ 漫画、アニメをきっかけに",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiMTZ3LVI2Rk5ZMGpTM2NLRElVZS1KWThpNUpSaFl4UVB0UzFNbUFRVlk0T3FfZHE4Z0puZkNQOXJ5VDF6ZlFVR0ctR2x3U2VfeFJIVUNB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-10 03:47",
-   "published_iso": "2026-07-09T18:47:39+00:00"
-  },
-  {
    "title": "米移民当局がメキシコ人男性を射殺、摘発を再強化か 南部テキサス州",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wRWNXbjE3bnhZb3lsSWJLclVCYmN4c2hWZl9yTGNiX1MyYjdmazFWZUFDWUxJTklqVFljeGtfNE84ancxSUxBUEYxUF92djc0TllPbWNXWEZHS2x5OGpZZ2FZZF9LSnRPWUhNRw?oc=5",
    "source": "日本経済新聞",
@@ -393,11 +353,27 @@
   },
   {
    "title": "群馬・川場村に外国人材向け寮",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0ZzT2J4WjV6ckhoT0NYeEFSNUxiUTFvQnZpRkJUajBmNm56WlFxdnpVMlhSXzE3azZQY3B6SEJnU1RTR3N0eEFRczZxalpkUnhNMjZIR0J0YWRzTGFLOURyblpCdDl4b3l3X19oUnBIRWFGRTVmbm81RlE1WEU1UlJMUVloaVEwZ2VUbllXcXB3R051cVVfVGYzOGNqM1p5WVA4S0Vn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNnRSN245WXVqdEZxRkVBR0FhYmlaZkNjcWpBeFF1bDJHYzBDOG1qVHVwQWxzN1I3UWhXTENwc0JEN1NtSGE5Z1Q2elExVGJJdkg5NWo3cWpTN0hTTlJvMmtBNEo2QmFDcVNwN3kzR2QwU0xVTDJrQ0piMnVUeUpBbkE5eFBRSE4ybVowNTNlVko0MHBoaW9aNFNTYnRYb1Y5S0QzR29n?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-10 02:17",
-   "published_iso": "2026-07-09T17:17:53+00:00"
+   "published": "2026-07-10 02:03",
+   "published_iso": "2026-07-09T17:03:41+00:00"
+  },
+  {
+   "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDRNV0tGbDB5Q1JLaWhMR09sTkM3dkVOYzlQSmdDcFk0WWVvLUFRS0kyZ1F5VXBZMVhSazJVQnhPX0QxYmlrdWVyN3FfVUR5RmlkSUcwdE9GY1I0cWFCa2tLY3k0ZzlWVFFqc2JiazRzV1FNS0N0ZVJtd1dzM1NNeG53ZlU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-09 21:38",
+   "published_iso": "2026-07-09T12:38:00+00:00"
+  },
+  {
+   "title": "“なごやめし”を支える外国人労働者 特定技能の受け入れ停止で広がる不安 外食・介護の現場に危機感（2026年7月9日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0NHLWtxTEFMb2RKMlgxN2szY3lNWjRORGhLMWNWdUNBd3JiT0VlS29WSXVSVmJZVXhVNUE2LU1WTXExRUhfVTdieUpjOHU5TFR2c1hwQUhYekhZQTFudHd1TkVlc2dIWFhLUS0yMFdDNFJCZzRrVmQ4YXN3cy1FM3VvVzNrZFE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-09 20:25",
+   "published_iso": "2026-07-09T11:25:00+00:00"
   },
   {
    "title": "ロヒンギャ難民８人死亡",
@@ -406,6 +382,30 @@
    "source_domain": "jiji.com",
    "published": "2026-07-09 18:35",
    "published_iso": "2026-07-09T09:35:58+00:00"
+  },
+  {
+   "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNUFiaFRwUjdQMGZ2LV9BRlZNRmVMb2ZZbGpyMmlpQlZTOGZLSnZ3NVVJM1RZRHlVZVIwTkJiclV5aHByWUZ0VWdyOEJwdTQyTXBnR1RMN1B0WnBZQlRtbVhaT3lvV2VISm53?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-09 18:21",
+   "published_iso": "2026-07-09T09:21:00+00:00"
+  },
+  {
+   "title": "「寛容の国」ドイツ、移民・難民政策を転換 極右政党の躍進も背景に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVVXJRdjJ4Q0ZHdFIwN2cxa1Y3NUg0TTUwTmtpOU16MmZySHpLTWFDSk1tdm1SZWh4eTNTQnU1X0hmVjdiVkJGbVdqMG11czVld2lsVm5aUkhUOFliYzFXVnkyeTFvWVE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 09:00",
+   "published_iso": "2026-07-09T00:00:00+00:00"
+  },
+  {
+   "title": "（移民・難民政策 揺らぐドイツ：下）ドイツ語学ぶ場削減、広がる不安",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbHVUbEFnYlI2dXJ5aXlsUFNzQkVDcmhvbndENHhDUklHQ3dQUmN2elg1dlhvbjVhaU9COUJyUGR5RnQxR3VLOGp6UnBhX2I2YjU4TnpVR2Q3SEIw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-09 05:00",
+   "published_iso": "2026-07-08T20:00:00+00:00"
   }
  ]
 }
