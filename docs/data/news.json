@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T16:30:35+00:00",
+ "generated_at": "2026-07-13T18:42:13+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -296,14 +296,6 @@
    "published_iso": "2026-07-10T07:00:00+00:00"
   },
   {
-   "title": "外国人労働者から農場経営者へ 別海で6人に「1人1ヘクタール」任せる挑戦",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZNnMyQjdBU0NiMnJFOFRYUHUyTURNZ1ZORVZZU21PLUM3VEJRaWZtd0pqalBHMnM3NC0ycmFnRDAtVkNidEFWeVhHRjVLVi1SRzI4aGpaVV90Zw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-10 15:54",
-   "published_iso": "2026-07-10T06:54:03+00:00"
-  },
-  {
    "title": "【マチカド調査】日本のアイスクリームが外国人をトリコに！最前線を取材（2026年7月9日掲載）｜YTV NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJTQlg0bXd6RlVqWVhwcHVuR1Fwak9GSGtub3VmZFhSWUxTOW1JTG5rWHVnMWdWUmpKWDMzYzFrMHRscFUwd29DZ2FDcjN2SFlNajNNeHJZa3lUZUFfZVJ3V1NBb2NFTEIxOUZkNVlBR0NfUDl4VGtfM290QW9PZG9QSHptYWc?oc=5",
    "source": "日テレNEWS NNN",
@@ -400,12 +392,20 @@
    "published_iso": "2026-07-08T20:00:00+00:00"
   },
   {
-   "title": "移民と相互理解 政府が進めよ シンガポール保健相 オン・イーカン氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IcEIwNkVscVJsME9Wdm43RktKYjJnMHdwdF95MHhQU2J0Nld6T01pX21kc1k1X0lxRXdVcnpoLVI3NHZ4RWZqZ1N1cldOY21WMDdGbzRCa0lTYjJOOXA5UEUySEdZNUdMOHBXUA?oc=5",
+   "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市（2026年7月8日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-08 23:11",
+   "published_iso": "2026-07-08T14:11:00+00:00"
+  },
+  {
+   "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY3VDR0pzczV5NTg4LVU1RUxVYi0xd1VKek1xRlc5c0JOR0U3bkpNcGRCV3ZMT1F6OE1BYVl3UWpKdkJST1BHc0VPQzdhUTJMX05DbXFONmNwTnYzTXd3T1RGekdJWGNOUTNhNQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-09 02:00",
-   "published_iso": "2026-07-08T17:00:00+00:00"
+   "published": "2026-07-08 10:00",
+   "published_iso": "2026-07-08T01:00:00+00:00"
   }
  ]
 }
