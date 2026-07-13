@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T23:51:29+00:00",
+ "generated_at": "2026-07-13T02:33:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "日本からの海外送金、25年度1兆円超え 外国人の就労拡大映す",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdnhiRVdlaTJxTWx5aU5OaHRkQnpGUWx5UkZhcDA2TDV1S1FiTGNmWHR1a1FNR2dtWEtTVm15bkNUWkREVElRbVhZYndBRHBaendJMjQyOVREYklWTmNJSkxsVDVtUnBlSjFQYg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-13 11:08",
+   "published_iso": "2026-07-13T02:08:35+00:00"
+  },
+  {
+   "title": "在留手数料、短期ほど高負担",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdkZiV1FyVzB5WjYxX1B4U2VWWGgzVDdCQURObUJhRWZfV0dVa3VuVzcyamFsSmtzYWxWMFJvSHBxb0ZrTHExRlJsVHNGWkZHVFR0Zm9mWEk4c1dCckJvbE1BbHk2NHRtd2JSOFl5ZHg?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-13 11:00",
+   "published_iso": "2026-07-13T02:00:00+00:00"
+  },
+  {
+   "title": "中国籍の男逮捕 外国人観光客に声かけ…東京駅前で“白タク営業”か（2026年7月12日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45cGVoc2dRU18tcTY5cUE2V2ptX3hXMmRPaV9sazVQQ09Iam4zWkNQQzZOLTRjMDJicV9qaHAtc09zX3lBUGtxcVNveXh0ZkI0NmZIcTJqS1EzTTV3TWhCOHZESG1wTWdKdkt3cThPekNDUkNZcG5jekEybjg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-13 10:49",
+   "published_iso": "2026-07-13T01:49:00+00:00"
+  },
+  {
+   "title": "難民支えたメルケル政権が「怠った統合支援」 ドイツ識者がみる課題",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTENTcE1uYVBJV3U4anRuRmJZZTlacXcwNlREN0VsTUpjZksyUnpFckc0MXdrZ25BMjJTbm1qSGcxcEp0QUlkVzdMcjRWNERMQTJkSUtCR0tkY2xaQWhCbF9TSlEyVUU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-13 09:00",
+   "published_iso": "2026-07-13T00:00:00+00:00"
+  },
+  {
+   "title": "京都の観光客数、2025年は6000万人超で過去最高に：うち外国人は1200万人―市調査",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zMHBvSjdXR21MTEhIZVplbGZXTmZKUmg5dmdzSXJBcjR6M2RRaFJGVFZuMmU3VC1SWEQ2RzFtREhieFVEemt5ZnlMNXlFNUpyZUJaQUYxdw?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-07-13 08:57",
+   "published_iso": "2026-07-12T23:57:00+00:00"
+  },
+  {
+   "title": "ICTで日本語教育を効率的に。「レシピー」のポリグロッツが日本語教育向けプラットフォーム「MONDO」（モンド）をリリース ーー株式会社ポリグロッツ",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5T1lockZtOEc0UEYyRTBrNlE5UmVfQWxobUUwZ3FValctaTQwVUJkNDJtSnlMVFZWNTQ3c0RvQTc2VHZ4N0dlZC1PeUtfV3lQQVkxNXc1TmtKNGxta0dLcmR5RC04Z293WVlGanV4WmU0ZG5EblNVelEzbw?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-13 08:00",
+   "published_iso": "2026-07-12T23:00:00+00:00"
+  },
   {
    "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KV3dlZWplSnl5MU50aV9Ha1Q0MVRYSnptZ0xXYWZWNGU5TzFCWlB0S1JCemE5cDc1aTlhUUVoZDRKODhHcGU3MHJmRkhEdUt2a1B6bWJPZXcwT29YXzFzbms2ZXk1b28?oc=5",
@@ -24,8 +72,8 @@
    "published_iso": "2026-07-12T13:12:00+00:00"
   },
   {
-   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VYWJXQThQNDE1WmtPLS12Uld2a2hYbHB6UzZqamMyanhoenhXM09xXzMzNDd2SU12NG1JR1dRR0tOeGRSajZYWDBtN2k1QzBiUnI4aWN6S2hXUUpLTlNCRg?oc=5",
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (2ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hRXdhZ3VKOG1NMjhuUkY4ZDl1V0tsak9UTjJyS3hQM3REYTk0LVhLVkU1VHlseWgxSmUxcnRBd0tBVFVSVFZoZ25Ta0t5ckNyZGZmay1IRkdxeGhVOHZCckI0VQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-12 22:12",
@@ -96,14 +144,6 @@
    "published_iso": "2026-07-12T02:30:00+00:00"
   },
   {
-   "title": "海外SNS効果？ 広島・尾道の外国人観光客70万人超に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IejJYc3M2V25aWEh0cVZqYnJ0dDdGQ0c0NHY1R1dyeHRSWWNkdlU3MUpTLUR0X1Jpb1ZBS0h3d2w4WWREMUJyM3l4Q0R4X2ViUWw5WEZ0eEhOVnVQOWVjS19KOEtsblBf?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-12 10:15",
-   "published_iso": "2026-07-12T01:15:00+00:00"
-  },
-  {
    "title": "移民の子ども急増、工夫重ねるドイツ教育現場 受け入れ制限の議論も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUVRXbkdkN3NOVDJHZFdqZVlJZW1pbG5hbUdOYkd1NWFBcF82SGc2X3BUdVVNMDlMcDB4QjQ3c0VkaExjV0lzUUNKZGF6YmlmcjYwS29zbDUyV0FhRERlcF9GSmMyRnc?oc=5",
    "source": "朝日新聞",
@@ -158,14 +198,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-11 19:22",
    "published_iso": "2026-07-11T10:22:00+00:00"
-  },
-  {
-   "title": "【速報】川で遊泳していたベトナム人技能実習生の18歳男性が行方不明 福井市南居町の日野川",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aeDJLSE9YNl9WTnlZdFlqcHA1R1FwS2k4UkVXTDFNMmNUYVdqalBqQWRwY0hnMWRudjh4X0tKaV81UmdBYmhjcUhQUmtjUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-11 17:20",
-   "published_iso": "2026-07-11T08:20:31+00:00"
   },
   {
    "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
@@ -224,12 +256,12 @@
    "published_iso": "2026-07-10T13:40:00+00:00"
   },
   {
-   "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlU05lQ18tdzQxVFZDOWhVemxUaXNNX3Y0dHZrYjJEbGFEMUJ3WGs3dFU2Z2tVMUY5SmxxRjVKWkNMTTNvcTRHRldGaG5QRTFaUVlBZE9JTzZGUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-10 22:01",
-   "published_iso": "2026-07-10T13:01:30+00:00"
+   "title": "【速報】川で遊泳していたベトナム人技能実習生の18歳男性が行方不明 福井市南居町の日野川",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aeDJLSE9YNl9WTnlZdFlqcHA1R1FwS2k4UkVXTDFNMmNUYVdqalBqQWRwY0hnMWRudjh4X0tKaV81UmdBYmhjcUhQUmtjUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-10 21:30",
+   "published_iso": "2026-07-10T12:30:00+00:00"
   },
   {
    "title": "【速報】川に流され行方不明に 18歳のベトナム人技能実習生 福井市南居町･日野川 友人3人で川遊び中",
@@ -328,14 +360,6 @@
    "published_iso": "2026-07-10T01:21:47+00:00"
   },
   {
-   "title": "演劇通して相手を尊重 益田高生が共生社会について学ぶ授業",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XUnNhcGVKS2RvWnJmWUpiMjNQR09lVkdpMXdWV3NCYmxBdW5zbXpqZW94OVBPb2F0V3BqSk1tNTNaNDI2eUJDM1hXbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-10 09:23",
-   "published_iso": "2026-07-10T00:23:13+00:00"
-  },
-  {
    "title": "ベトナムから愛媛へ 伊予鉄バス初の外国人運転士2人がデビュー",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQmwwLUE2Q1h0UXZhZ2Q4VW14dl9GR2dEaV9yNjlhTkRLTE5rdzdHQklSb0xJU19uSWgxc1ZhYm9ySlJjR2ZTZ2h4ejRTSTloUkl3RkF5YkE1ZzBENlZ1dEFhM2JkSDFI?oc=5",
    "source": "毎日新聞",
@@ -376,36 +400,12 @@
    "published_iso": "2026-07-09T17:17:53+00:00"
   },
   {
-   "title": "ICE職員によるメキシコ人男性射殺に抗議 デモに1000人以上参加 米テキサス州（2026年7月9日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUDRNV0tGbDB5Q1JLaWhMR09sTkM3dkVOYzlQSmdDcFk0WWVvLUFRS0kyZ1F5VXBZMVhSazJVQnhPX0QxYmlrdWVyN3FfVUR5RmlkSUcwdE9GY1I0cWFCa2tLY3k0ZzlWVFFqc2JiazRzV1FNS0N0ZVJtd1dzM1NNeG53ZlU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-09 21:38",
-   "published_iso": "2026-07-09T12:38:00+00:00"
-  },
-  {
-   "title": "プロ野球:ヤクルト、継投ノーヒットノーラン達成 外国人3投手で",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hbTl1OWhZODdubTV2UGd3Um10SU83ZFJwNmxhMG9VMHJmUkZ3OUxDenk1cVJia25xQ3I5aGE1bE9lZjJHVWVuRExlTGo1dXduYTl1UVp4S3NGVDNob09tRW55bnNyRnNHV0RaRQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-09 21:30",
-   "published_iso": "2026-07-09T12:30:30+00:00"
-  },
-  {
    "title": "ロヒンギャ難民８人死亡",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zUGVHTlRyMExoNDg0MlEyUmtJcmstWjZZWjRfODNkYjlVcktLZ1NHdTY0d3l2XzA5OVdpWDlNYU4zN3FxSXZ2X2d6SmdEOEVlYW52WWpPa1oyTC1iTGRuTTlxWmQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-09 18:35",
    "published_iso": "2026-07-09T09:35:58+00:00"
-  },
-  {
-   "title": "アルバイトの外国人留学生を違法に働かせる 神戸のラーメン店運営会社社長らに有罪判決|事件・事故",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NNUFiaFRwUjdQMGZ2LV9BRlZNRmVMb2ZZbGpyMmlpQlZTOGZLSnZ3NVVJM1RZRHlVZVIwTkJiclV5aHByWUZ0VWdyOEJwdTQyTXBnR1RMN1B0WnBZQlRtbVhaT3lvV2VISm53?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-09 18:21",
-   "published_iso": "2026-07-09T09:21:00+00:00"
   }
  ]
 }
