@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T20:13:12+00:00",
+ "generated_at": "2026-07-13T22:24:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,62 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-14 07:07",
+   "published_iso": "2026-07-13T22:07:00+00:00"
+  },
+  {
+   "title": "【買われる日本】上海在住の中国人が土地購入！定住者たった１人の“瀬戸内のハワイ” 「外国人による土地取得」で揺れる日本の現状【ガチの門】 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUmZ6RmJxVzltYVdIdkFJRmNSQ2l2MHhxRXJLVTdZQ0FGZGhtVTJZX0pDX2VadWRUSW4wTHhwSnk1RHo3aEM0dVpQc3Rhcmp0T2h0S3gtNVlfVG9KS3ZGNzNqLVVmWHM?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-14 07:00",
+   "published_iso": "2026-07-13T22:00:00+00:00"
+  },
+  {
+   "title": "生活支援を受けるハイチからの移民たち＝3月、米メリーランド州ソールズベリー - ハイチへ強制送還の危機 米最高裁が保護取り消し 政情不安からの移民に動揺拡大 産業の担い手、経済に影響も - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xLTVpczhsbHFRNW15VV9lSFc2SlpnbWF1b2NmdnE5VVo5c0ZJZzBXeV92dWdRYUx2U2dJT2Y2Z0JRMlNfa3NqQlVHR1BKZ2p2VmZhODZMbw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-14 06:41",
+   "published_iso": "2026-07-13T21:41:46+00:00"
+  },
+  {
+   "title": "名将そろった４強 外国人監督の初優勝なるか―サッカーワールドカップ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjUndxRXNxVE92M2RRSEFKYUxwZVBJVmE4Ukp6cnV4V3ZheFdRMUVldk5ZYVhLcFRaX2Y1OG5mUGg5TEU3cGZCeWx5eTFJTGJ5aDZBaDFrZWZHVVNqengyRENPVQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-14 06:19",
+   "published_iso": "2026-07-13T21:19:00+00:00"
+  },
+  {
+   "title": "福岡から多文化共生の未来考える 「ジャーナリストカフェ」大越キャスターと本紙記者議論",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWjhJMDZNS1lJZXFZZ2JGd2dsTHZEVHB2Tl9WekhTak9KZkNYOElEN1JRV0ZHbmV2M01MbHJtOEtUWVhIWHR6N1NvT3V0X210UEQ1UzJR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-14 06:00",
+   "published_iso": "2026-07-13T21:00:00+00:00"
+  },
+  {
+   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-14 05:52",
+   "published_iso": "2026-07-13T20:52:43+00:00"
+  },
+  {
+   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 05:51",
+   "published_iso": "2026-07-13T20:51:01+00:00"
+  },
   {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb0tUaS1pekZQNGJ1SlluRHotT3ZaZEdjbE95LXdXUFdETHdnNXROa21rd0VscjBKMU1Fd0xSSTZXM2o5QkF2amE0V3o3VG1kYkJBX0dkbDN1UQ?oc=5",
@@ -200,30 +256,6 @@
    "published_iso": "2026-07-11T22:00:00+00:00"
   },
   {
-   "title": "多文化共生について活発に意見交換をした交流会 - 多文化「ゆるっと」話そう 久留米市で44人が交流 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbHhiS2hnMkRvNWtVbnZSeG1SeGIyY3lQdHlJYTI5MWVyZk5hU1pqWVBUTU00NG9lWFFuUzQyYmg0dWRjaW9xLTFiUkQ5TGhQRFpqR2Fudw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-12 06:22",
-   "published_iso": "2026-07-11T21:22:55+00:00"
-  },
-  {
-   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:15+00:00"
-  },
-  {
-   "title": "福井・日野川で川遊びのベトナム籍技能実習生（18）が溺死 前日から行方不明",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UmQ4a1hXa2Jaa21iREY1TmZEVV9yVDB6Vmx2SlFfcE94RndMdGNYOWp3YTlRazljeWU0YXNseHZGWjlKU19UOFl3SDN1WHlFZTFJLWdhcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:00+00:00"
-  },
-  {
    "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
    "source": "読売新聞",
@@ -280,20 +312,12 @@
    "published_iso": "2026-07-10T11:05:00+00:00"
   },
   {
-   "title": "【続報】外国人客が機内でバッグ落とし「煙」と判明 客が機外にモバイルバッテリー投げ捨て 新千歳",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3NGSjN1YkY1dlIzY2xrZEZET3FjbXA5UzdSMmdLcEszbl9DNmtNVXBqQ0RMZXJKdl81SkZtcVlfbERSMnlTV3RoWUpoUWNwelE3bDJoYzFja253dER3RGlxQy1yNU1kME4xZ0R6cEZnSWxxQVhVNHBCSXNLbGVCc3FPY0FZUTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-10 17:16",
-   "published_iso": "2026-07-10T08:16:00+00:00"
-  },
-  {
-   "title": "【マチカド調査】日本のアイスクリームが外国人をトリコに！最前線を取材（2026年7月9日掲載）｜YTV NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJTQlg0bXd6RlVqWVhwcHVuR1Fwak9GSGtub3VmZFhSWUxTOW1JTG5rWHVnMWdWUmpKWDMzYzFrMHRscFUwd29DZ2FDcjN2SFlNajNNeHJZa3lUZUFfZVJ3V1NBb2NFTEIxOUZkNVlBR0NfUDl4VGtfM290QW9PZG9QSHptYWc?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-10 14:56",
-   "published_iso": "2026-07-10T05:56:01+00:00"
+   "title": "偏在ニッポン!“ヘア難民”と店を飛び出した美容師【東北ココから】【MC モグライダー】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMlBkb3RGdnlJNlV4N3NQVkFXMy1XNE9fYzhaMjc1V0hSNlZTSEE3N1c0ODYwNG9PNE5Rd1MxNGsxdXpsbmkxTUJ2MFVHaUhib3gtcll1OWxwRHRRYnZlWlZmbzM?oc=5",
+   "source": "nhk.or.jp",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-07-10 16:00",
+   "published_iso": "2026-07-10T07:00:00+00:00"
   },
   {
    "title": "難民の子に届けたい 小中学生が古着回収、和歌山県田辺・白浜",
@@ -310,14 +334,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-10 13:00",
    "published_iso": "2026-07-10T04:00:00+00:00"
-  },
-  {
-   "title": "外国人に伝える「震災と原発事故」の記憶 「ホープツーリズム」で訪問者が増える福島、複雑な思いの住民も",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JMnlQTXJOeHMwWEtUQndGSVJBRkNPdHktWkpHN0h1SjZqWENnN1VXYi15V2g4U0xZNGpsZXkzdXNOb1pVT0J6azBXYW5FWjZNcG5n?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-10 12:00",
-   "published_iso": "2026-07-10T03:00:00+00:00"
   },
   {
    "title": "プレスリリース：特定技能1号停止後、外食業界の「次の一手」へ──200名超受け入れ企業の人事が語る特定技能2号実務セミナーを7月30日開催（PR TIMES）",
@@ -390,22 +406,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-08 19:25",
    "published_iso": "2026-07-08T10:25:00+00:00"
-  },
-  {
-   "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY3VDR0pzczV5NTg4LVU1RUxVYi0xd1VKek1xRlc5c0JOR0U3bkpNcGRCV3ZMT1F6OE1BYVl3UWpKdkJST1BHc0VPQzdhUTJMX05DbXFONmNwTnYzTXd3T1RGekdJWGNOUTNhNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 10:00",
-   "published_iso": "2026-07-08T01:00:00+00:00"
-  },
-  {
-   "title": "難民もビル・ゲイツも使った人気アプリDuolingo 「語学を続けさせる秘密」は",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ia1RaSXF2eklCS2w0Z01iRWIteXgyLXE5d1Zvb3Frazc0M0dqZmN5Y1dtSjRxMEhORzZZQm9ocWswR011TG1lSjNOeWJQTVhiM2c?oc=5",
-   "source": "朝日新聞GLOBE＋",
-   "source_domain": "asahi.com",
-   "published": "2026-07-08 07:00",
-   "published_iso": "2026-07-07T22:00:29+00:00"
   }
  ]
 }
