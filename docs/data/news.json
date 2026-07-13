@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-13T18:42:13+00:00",
+ "generated_at": "2026-07-13T20:13:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb0tUaS1pekZQNGJ1SlluRHotT3ZaZEdjbE95LXdXUFdETHdnNXROa21rd0VscjBKMU1Fd0xSSTZXM2o5QkF2amE0V3o3VG1kYkJBX0dkbDN1UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-14 03:30",
+   "published_iso": "2026-07-13T18:30:00+00:00"
+  },
   {
    "title": "タイ・バンコクの飲食店で大規模火災 外国人含む28人が死亡 現地の日本大使館「日本人の被害情報なし」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSHZHc3kwdmlDREdsS2x2TEVYSGp2eHZBdnloUUtfeGNwREhuaGxBWk9SYlJEcWRULV9CTXB4cGpIazRiTUJwOFpOTVAzazM2TzEzRlc0QQ?oc=5",
@@ -78,14 +86,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-13 16:11",
    "published_iso": "2026-07-13T07:11:01+00:00"
-  },
-  {
-   "title": "［川崎区役所主催］就労分野の認定日本語教育機関による実証事業「就労者のための日本語講座」を実施します（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5TmFiWnF0SXhGRGZ2TGtRQzNJallNZVFtaDNrMTlaTDZLNnlJbk5KWDd6UXhTWWpOajU5ZlZRU3AwRlNOQmM3TWtjakFrUlRmU3phVHdCaEY0WDR0WllPcXAxeHZJaDha?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 14:22",
-   "published_iso": "2026-07-13T05:22:06+00:00"
   },
   {
    "title": "日本からの海外送金、25年度1兆円超え 外国人の就労拡大映す",
@@ -288,14 +288,6 @@
    "published_iso": "2026-07-10T08:16:00+00:00"
   },
   {
-   "title": "偏在ニッポン!“ヘア難民”と店を飛び出した美容師【東北ココから】【MC モグライダー】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rMlBkb3RGdnlJNlV4N3NQVkFXMy1XNE9fYzhaMjc1V0hSNlZTSEE3N1c0ODYwNG9PNE5Rd1MxNGsxdXpsbmkxTUJ2MFVHaUhib3gtcll1OWxwRHRRYnZlWlZmbzM?oc=5",
-   "source": "nhk.or.jp",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-07-10 16:00",
-   "published_iso": "2026-07-10T07:00:00+00:00"
-  },
-  {
    "title": "【マチカド調査】日本のアイスクリームが外国人をトリコに！最前線を取材（2026年7月9日掲載）｜YTV NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJTQlg0bXd6RlVqWVhwcHVuR1Fwak9GSGtub3VmZFhSWUxTOW1JTG5rWHVnMWdWUmpKWDMzYzFrMHRscFUwd29DZ2FDcjN2SFlNajNNeHJZa3lUZUFfZVJ3V1NBb2NFTEIxOUZkNVlBR0NfUDl4VGtfM290QW9PZG9QSHptYWc?oc=5",
    "source": "日テレNEWS NNN",
@@ -392,12 +384,12 @@
    "published_iso": "2026-07-08T20:00:00+00:00"
   },
   {
-   "title": "ベトナムからの技能実習生を不法に働かせた疑い 解体業者代表の男ら2人逮捕 宮城・栗原市（2026年7月8日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3Z5RHN5NE9HTlhISzFrTDVJdDc0N0ZsZ1lKM0RhcUVsaGt3RE9kTjdGZ2hDckdBZklpWjhQUFpFM2tYOE5WSWx1YWVuamFsU0syc0YxZ0pzbmZaSGJJXzVoVVQ3cnQyUDBmV1dBRXkxRVZrc2FiaFVTUm1lSk5PNUVvM25wVjg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-08 23:11",
-   "published_iso": "2026-07-08T14:11:00+00:00"
+   "title": "福島の人口減と高齢化 2040年に介護職7500人不足予測 特定技能外国人が現場の支えに",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xb01aMkpybmpxWXFseDhxcDc3ZDVOWmQ1NmZkOEZHWFV1M2F5enpla0tKQ3R4bTNKZUV5Yzd0NkVzV0R3VGxld0hLOUZDZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-08 19:25",
+   "published_iso": "2026-07-08T10:25:00+00:00"
   },
   {
    "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-08 10:00",
    "published_iso": "2026-07-08T01:00:00+00:00"
+  },
+  {
+   "title": "難民もビル・ゲイツも使った人気アプリDuolingo 「語学を続けさせる秘密」は",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ia1RaSXF2eklCS2w0Z01iRWIteXgyLXE5d1Zvb3Frazc0M0dqZmN5Y1dtSjRxMEhORzZZQm9ocWswR011TG1lSjNOeWJQTVhiM2c?oc=5",
+   "source": "朝日新聞GLOBE＋",
+   "source_domain": "asahi.com",
+   "published": "2026-07-08 07:00",
+   "published_iso": "2026-07-07T22:00:29+00:00"
   }
  ]
 }
