@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T20:08:39+00:00",
+ "generated_at": "2026-07-14T21:55:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -17,11 +17,19 @@
   },
   {
    "title": "在留手数料上げ 外国人差別を助長する",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GclQ2eWlrSHhaUmUwTE83VlJMRWVWaGtfS2xMNzA5Z3o4UmlpWEZXY1M2OER6V2Nycng5TFdZSmJSM1RjV2U4MUVOUFZsOWdPVFFPSHBiZ0FTdk9OWFBPdlpPYzllZm8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLUx6WTcwajJNaDFzTlF0UHlLdk56TWJla3VrQjloMUU1clpDdmtfaU5ZVHFNNE52LUNFZER6T3NkWk1QSTRjUWQ3RmZHa04zeklLYmpidzRiUVZuYlF2ZlJqZ3Y?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-15 05:05",
    "published_iso": "2026-07-14T20:05:00+00:00"
+  },
+  {
+   "title": "エフレイ立地の福島・浪江 外国人研究者ら受け入れへ多文化共生の取り組み進む 多様な食文化紹介するガイド作り、町民は英会話学ぶ",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94dkRKbDJNMTgwTlhiaF9FQXh4TmM0Q2RtZ2xmS0kwYndoWTQ3a19odVBzMGJsaGdka2FWeDRzZ0xsNmtwaGFFZzM0Qlk2bl9MZklQV014MkczX2JleWNZYQ?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-07-15 05:00",
+   "published_iso": "2026-07-14T20:00:00+00:00"
   },
   {
    "title": "【大規模洪水】バングラデシュで豪雨 54人死亡…100万人超が孤立 難民キャンプで続く懸命救助",
@@ -272,14 +280,6 @@
    "published_iso": "2026-07-13T20:10:00+00:00"
   },
   {
-   "title": "伊予鉄バス 地域の足に外国人運転士 ベトナム出身 ヒェウさん、クイさん ／愛媛",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SkEzSlJZcy1XUHBuTjEtVGx6bFRxYU5HX2k4amszU1c1SHhCdmtBRDRFOHBQVlZuS3JUSmNVY3V5MldpajRuV0d1ZnZNVUM0VVczd2lJdlUyb1hSM1JSUWpENVdJd3dw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-14 05:00",
-   "published_iso": "2026-07-13T20:00:42+00:00"
-  },
-  {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb0tUaS1pekZQNGJ1SlluRHotT3ZaZEdjbE95LXdXUFdETHdnNXROa21rd0VscjBKMU1Fd0xSSTZXM2o5QkF2amE0V3o3VG1kYkJBX0dkbDN1UQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -302,14 +302,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-13 22:00",
    "published_iso": "2026-07-13T13:00:00+00:00"
-  },
-  {
-   "title": "共生社会へ手助けの輪を 千歳市、鳥取県と「あいサポート運動」協定 8月研修会",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuSGNkbUE2TGJQbUwwU3ZuSm1CZm9aTXJQQTZFLU90ajFyY3htX2U5UmZBV2sxcm9YOVd6dVBaWkpOR1lPZm5fc3N3TjU5M3NZSEdManhPOHdVdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-13 21:30",
-   "published_iso": "2026-07-13T12:30:49+00:00"
   },
   {
    "title": "人口100万人割れの富山県、外国人比率は9年で2倍に…多文化共生へタウンミーティング始動",
@@ -406,6 +398,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-12 11:30",
    "published_iso": "2026-07-12T02:30:00+00:00"
+  },
+  {
+   "title": "移民の子ども急増、工夫重ねるドイツ教育現場 受け入れ制限の議論も",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUVRXbkdkN3NOVDJHZFdqZVlJZW1pbG5hbUdOYkd1NWFBcF82SGc2X3BUdVVNMDlMcDB4QjQ3c0VkaExjV0lzUUNKZGF6YmlmcjYwS29zbDUyV0FhRERlcF9GSmMyRnc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-12 09:00",
+   "published_iso": "2026-07-12T00:00:00+00:00"
   }
  ]
 }
