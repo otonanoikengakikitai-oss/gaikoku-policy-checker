@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T14:47:39+00:00",
+ "generated_at": "2026-07-14T16:12:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
-   "title": "「外国人に税金使うな」SNS大合唱に自民から「悔しい」の声 在留手数料大幅増なのに…",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81alk3eEtFZ1pJTGlaaFhtdmotTXFldWtxdEYtWWd5Ql9ZajBWZWlCVE54SVI3ajNGeUlIMm5DS3A5dXdWcFhsQW5xSGpKYmJBcW9qc28xUTFURTY3RW1uY0FYQ19YRS1jZF9nNUJTQUtZcmI4b3c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-14 23:15",
-   "published_iso": "2026-07-14T14:15:20+00:00"
+   "title": "【大規模洪水】バングラデシュで豪雨 54人死亡…100万人超が孤立 難民キャンプで続く懸命救助",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYno2ZndKSDZsbjhIakRrQm5LWC00RlJJTFczcjhwNFVCU3RSc3lReVBOWUNUeHhZR2phVTEwSTNYQUlCSk15OWQxX2pEWW5JY1BQNXE5MnE0SGQzdUFOaG1wNkY5aDlfVFJ4Mk52NzFHMHdhcXZKZmNjdUJ5X2NsZlVRUXM?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 23:49",
+   "published_iso": "2026-07-14T14:49:00+00:00"
+  },
+  {
+   "title": "「国に帰るしか…」県内外国人も苦悩、起業家向けビザ厳格化 資本金要件が6倍の3千万円に「息子は日本語しか話せない」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuNG0yRVVyOVB6bXRWNHMtRGh4U01yU1RoNXp2RGtOMUUyeEc4Mi1WVlVMRUp2T2EtUjVOZHZ3Vld4Y0N1eXJrZXhFOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 23:20",
+   "published_iso": "2026-07-14T14:20:59+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -38,14 +46,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-14 21:00",
    "published_iso": "2026-07-14T12:00:00+00:00"
-  },
-  {
-   "title": "「国に帰るしか…」県内外国人も苦悩、起業家向けビザ厳格化 資本金要件が6倍の3千万円に「息子は日本語しか話せない」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuNG0yRVVyOVB6bXRWNHMtRGh4U01yU1RoNXp2RGtOMUUyeEc4Mi1WVlVMRUp2T2EtUjVOZHZ3Vld4Y0N1eXJrZXhFOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 20:50",
-   "published_iso": "2026-07-14T11:50:00+00:00"
   },
   {
    "title": "4年で20倍…訪日客のレンタカー事故が初の1000件超 9割以上が富士北麓 山梨（2026年7月14日掲載）",
@@ -73,15 +73,23 @@
   },
   {
    "title": "越前たけふ駅には常時タクシーは止まっていない 「事前に予約しておいて」 JRなどが二次元コード案内のボードを列車の座席に用意 外国人観光客に配慮",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0J1allaNklUVktUQTVxX3lvNHNfR1NRUHBDN2RQTE9jaEh0cnlmam5iQ0ZLT1BOWnluY3Y1QmFXMmFKTjVpNllRY3hwQmIzUUd6b2Q0WDdkZUlCdERjOUEzMkdrbnhKUExKSEhDWEZCWGtiMmw5M2VHM2h0a3Rtb0lwR25hUFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SUZDYk9tVVdiNllKQW42cy14T0Fvb3I4Wk9UQUJhQWstUXE4Ylo2eHNrQThkaXFXYUJEOTFVNGwzeXEzcUpDdVYzN1pOV1R2d3R6UkZKWWs0N2ZlZjJWazlBX1ZCWW4td240dUJ0MGl4U2t5eFRSLWN0YXJPSHM?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 18:59",
    "published_iso": "2026-07-14T09:59:00+00:00"
   },
   {
-   "title": "宿泊税活用 外国人に魅力伝えるガイド育成講座スタート＜宮城＞（2026年7月14日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UTzhJb3EtQVlja2taaklHeGJOUzR1aGIxMjJBVnlMMFZob0dXc0UxbklmMThpWG9CS0RaSzJ4S0M5cl9YeWY3b1N4a0JtRTlsdUxsNEZCWGVSU3lVbnZoQmdZV0I4SWNwZFdYRUQzRG9kVzM0eFJfX1k5TmNLcWc?oc=5",
+   "title": "「外国人に税金使うな」SNS大合唱に自民から「悔しい」の声 在留手数料大幅増なのに…",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81alk3eEtFZ1pJTGlaaFhtdmotTXFldWtxdEYtWWd5Ql9ZajBWZWlCVE54SVI3ajNGeUlIMm5DS3A5dXdWcFhsQW5xSGpKYmJBcW9qc28xUTFURTY3RW1uY0FYQ19YRS1jZF9nNUJTQUtZcmI4b3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-14 18:56",
+   "published_iso": "2026-07-14T09:56:57+00:00"
+  },
+  {
+   "title": "宿泊税活用 外国人に魅力伝えるガイド育成講座スタート＜宮城＞（2026年7月14日掲載）｜ミヤテレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmRhempvWGVKX21ETWozNkJDV3hhYXlXdF9TQkpDNm5LbVlXWjRVWFNxMTZMdUtsZzROQ2dJbWFuRDJDMnlka1ZXTHJqVjUwM1YxWi1JOE5NX0stRXNvV1JhdVMyQWNwUlZOV1ZDNngxWnlYMzBGNm9pamFKNjk1d19tcW9JVkk?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 18:45",
@@ -90,14 +98,14 @@
   {
    "title": "【新供述】逮捕の男「外国人が悪いことをしていると思った」モスクなど相次いで放火された事件 江別市",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZVI2dDlWS2ZfTVJFbS15NUxSd1hxZFViOUU3Tmg2MFFSbjM0aWdDOWYtcEQ3aG5EcWdTbi1kMGZCSzVDYm4xbkpFNnFSalQ0SzU4OUpSb3U0QQ?oc=5",
-   "source": "HTB 北海道テレビ",
+   "source": "HTB北海道",
    "source_domain": "htb.co.jp",
    "published": "2026-07-14 17:42",
    "published_iso": "2026-07-14T08:42:00+00:00"
   },
   {
    "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DeGlnX3doUkY4X1NQZWszWlktVWRhZGVTOGo5VnRSU1NWQXdJNHZjdmRFM2VYYXdvRjhLUEE4SkRlNDZ3NEpuQnA2TVpENzd6SFZJbE5zT0VEblp4S2tkRXZuaHEycEdJUmVyejRXNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaXFvTGxoZVRqSl9LUzNscmpjT1R5N3RacTAzU3FTMzFiZ3JRYWxZRmJ6TmkzcV9ESzdkUFVkQVpBTmVNakZYSXUtZEc4YlFuUHVuU3NNbE5oNTJQSm9qRktHNi1QQTRNQXUtTk5n?oc=5",
    "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-14 17:36",
@@ -376,6 +384,14 @@
    "published_iso": "2026-07-12T18:01:31+00:00"
   },
   {
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 22:12",
+   "published_iso": "2026-07-12T13:12:00+00:00"
+  },
+  {
    "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
    "source": "東京新聞デジタル",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-12 15:04",
    "published_iso": "2026-07-12T06:04:54+00:00"
-  },
-  {
-   "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-12 11:30",
-   "published_iso": "2026-07-12T02:30:00+00:00"
-  },
-  {
-   "title": "移民の子ども急増、工夫重ねるドイツ教育現場 受け入れ制限の議論も",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUVRXbkdkN3NOVDJHZFdqZVlJZW1pbG5hbUdOYkd1NWFBcF82SGc2X3BUdVVNMDlMcDB4QjQ3c0VkaExjV0lzUUNKZGF6YmlmcjYwS29zbDUyV0FhRERlcF9GSmMyRnc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-12 09:00",
-   "published_iso": "2026-07-12T00:00:00+00:00"
   }
  ]
 }
