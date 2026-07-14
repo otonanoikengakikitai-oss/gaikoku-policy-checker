@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T10:06:39+00:00",
+ "generated_at": "2026-07-14T12:09:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「国に帰るしか…」県内外国人も苦悩、起業家向けビザ厳格化 資本金要件が6倍の3千万円に「息子は日本語しか話せない」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuNG0yRVVyOVB6bXRWNHMtRGh4U01yU1RoNXp2RGtOMUUyeEc4Mi1WVlVMRUp2T2EtUjVOZHZ3Vld4Y0N1eXJrZXhFOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 20:50",
+   "published_iso": "2026-07-14T11:50:00+00:00"
+  },
+  {
+   "title": "4年で20倍…訪日客のレンタカー事故が初の1000件超 9割以上が富士北麓 山梨（2026年7月14日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTGJfeUoxZVVKa1FMYXNoWEZYekpQQ0w4WjFTN1RFNGNGSTBuRWdZeGtXQm9QNDNvQ1A3Y0daQWNjUUZKZWV6cG40YnJIQXVzWlBQSXZsTGs4WnppUmFkS2ZCVHpJUlYtYmhKc1lrMnc2U0JXQ0dCTXJ1SE5GR00?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 20:35",
+   "published_iso": "2026-07-14T11:35:00+00:00"
+  },
+  {
+   "title": "特定技能でバス運転手に 関東自動車のアウンさん（ミャンマー出身）本格デビュー、業界の人手不足に光",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MX1lMbm82LXNDZTY0ZVF3LVFsOGl2VThTMjFKV1c4WDFmUV95WU4xakZoUnpDRzk4OTlsTldlT00zemNQZmdLNXNDSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 19:50",
+   "published_iso": "2026-07-14T10:50:00+00:00"
+  },
+  {
+   "title": "「知る人ぞ知る九州の避暑地」夏場に減る外国人観光客数をアップへ おんせん県が“涼しい大分”に",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FLXcyelVUeGYxMEFhdmxJYWFuWlBsbXBfVEw4X0libWpGY0FUdzdfSnhyVzRSRVZZbGdMNG45VmtKVXlIX3BlYmpiR0hudw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-14 19:10",
+   "published_iso": "2026-07-14T10:10:00+00:00"
+  },
+  {
+   "title": "越前たけふ駅には常時タクシーは止まっていない 「事前に予約しておいて」 JRなどが二次元コード案内のボードを列車の座席に用意 外国人観光客に配慮",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0J1allaNklUVktUQTVxX3lvNHNfR1NRUHBDN2RQTE9jaEh0cnlmam5iQ0ZLT1BOWnluY3Y1QmFXMmFKTjVpNllRY3hwQmIzUUd6b2Q0WDdkZUlCdERjOUEzMkdrbnhKUExKSEhDWEZCWGtiMmw5M2VHM2h0a3Rtb0lwR25hUFE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 18:59",
+   "published_iso": "2026-07-14T09:59:00+00:00"
+  },
   {
    "title": "「外国人に税金使うな」SNS大合唱に自民から「悔しい」の声 在留手数料大幅増なのに…",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81alk3eEtFZ1pJTGlaaFhtdmotTXFldWtxdEYtWWd5Ql9ZajBWZWlCVE54SVI3ajNGeUlIMm5DS3A5dXdWcFhsQW5xSGpKYmJBcW9qc28xUTFURTY3RW1uY0FYQ19YRS1jZF9nNUJTQUtZcmI4b3c?oc=5",
@@ -22,14 +62,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 18:45",
    "published_iso": "2026-07-14T09:45:00+00:00"
-  },
-  {
-   "title": "OBC、『奉行クラウドEdge』で多言語対応。外国人労働者が使用する言語の約9割をカバーし、多様な人材が安心して働ける環境づくりを支援",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVW0yS0NjOGg3SDl1aTJCZ1MxWGE1SkI3QzVxejZGNEFuTi00SUdoczROWVQwdXNaSmoyZ1JwTUJyOUxWT3M0alJycTZUb2FpMENRUlhqazJMV25kN0lTWDYtQXppVWNkdFE4?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 18:16",
-   "published_iso": "2026-07-14T09:16:00+00:00"
   },
   {
    "title": "「外国人が悪いことをしていると思った」逮捕の男が供述 モスクなど相次いで放火された事件 江別市",
@@ -89,7 +121,7 @@
   },
   {
    "title": "JALとマリオット、弱点補完へ会員送客 外国人搭乗やホテルに国内客",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95S2hLUHdHSHVJWHVDRkNYSkhyTTViZ3ZaTThDZE1Ec1pPNEJTVVJELXhab2FsQkZ0X0JhbU53aTNGZUZ5d2YtbURhTzRWVzFyT2U0VWw2RGg2bTJrU1Y5UFNOamRWdTVTOVY1Yg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWoxNmxaMTJaQ3dxRk41eWp5NVNjYVRfb0l3NDNtdVEzSVZoUm5udE5ScmpFRlJNV3FFZDEtbm9RenZDMHkwLVRUUVNMRXBBeVlGQzZvLUUyZHMzUzdZeHMzQ3kwSFlOQ0o5MHFQWHo2eUlkYWp4X3lQMmVsWFg2Z2h5MDM5aWNnZjN5aHlvOGFKcHExUnJsaEFkMU9hRnJtVmo1dDd3?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-14 12:00",
@@ -150,6 +182,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-14 07:08",
    "published_iso": "2026-07-13T22:08:33+00:00"
+  },
+  {
+   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-14 07:07",
+   "published_iso": "2026-07-13T22:07:00+00:00"
   },
   {
    "title": "【買われる日本】上海在住の中国人が土地購入！定住者たった１人の“瀬戸内のハワイ” 「外国人による土地取得」で揺れる日本の現状【ガチの門】",
@@ -344,6 +384,14 @@
    "published_iso": "2026-07-12T06:04:54+00:00"
   },
   {
+   "title": "アジアパラ「１００日前セレモニー」開催、メダルなどお披露目…大村愛知県知事「共生社会作っていきたい」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zUDQzbXdvWGV0VWtzb2ZkbjM0aEtQd3pTQWUtaXJ5MmVKWTM2aFBoeU1sTHNybUxyYUFDb1N6OGRFQkNBT1p2bTFtUkVWMzJCclZHX3hkTGRITFBCbTd4Y1BOSTJEVFR1UTNsaTN4b3dzNEx0d21seUxR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-12 14:30",
+   "published_iso": "2026-07-12T05:30:00+00:00"
+  },
+  {
    "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
    "source": "朝日新聞",
@@ -358,54 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-12 09:00",
    "published_iso": "2026-07-12T00:00:00+00:00"
-  },
-  {
-   "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDROeXpsMmxIaE45Q2cySkRoZFRXZGFUQ1dnSVdCRVI2VWl2T1lockJ0OF9hODM0c0F5a3hXOWpacW9waWEtSVJTTjRPbWR0X2Y0RE8xOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-12 07:00",
-   "published_iso": "2026-07-11T22:00:00+00:00"
-  },
-  {
-   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:15+00:00"
-  },
-  {
-   "title": "福井・日野川で川遊びのベトナム籍技能実習生（18）が溺死 前日から行方不明",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UmQ4a1hXa2Jaa21iREY1TmZEVV9yVDB6Vmx2SlFfcE94RndMdGNYOWp3YTlRazljeWU0YXNseHZGWjlKU19UOFl3SDN1WHlFZTFJLWdhcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:00+00:00"
-  },
-  {
-   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 15:00",
-   "published_iso": "2026-07-11T06:00:00+00:00"
-  },
-  {
-   "title": "ドイツ語の学ぶ場減らす動き 逆回転する移民統合「誤ったシグナル」",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ydkNuSTl3VGVVVmRQZHA5MlVZU2lfZkphdVdKZEFKdEtyTTRsOFRwNVotc19ON2xrLWpONWg0TEZyVHUtVWkyejg0TzlBa1JLTDRWVVZRN2hMOTVDQ2pXc2F4V0tqaTg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-11 09:00",
-   "published_iso": "2026-07-11T00:00:00+00:00"
-  },
-  {
-   "title": "韓国、美容医療が外国人客を魅了 首都と皮膚科に偏る医師",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpb2hSMWJoXzhSaXpwV1pWU0ZjYzd4TVY3a2V5UU9yR2t2Q1ZadGVEWW1LbmxkaTV6YmRVSkhUQTJJNENRNXZsNkFydzYyQ2t4ZElURmhlVHJ4NnlQREtVZDJZY1dyTVlKdUdTbQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-11 05:00",
-   "published_iso": "2026-07-10T20:00:00+00:00"
   }
  ]
 }
