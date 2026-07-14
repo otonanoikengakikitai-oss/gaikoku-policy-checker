@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T16:12:28+00:00",
+ "generated_at": "2026-07-14T18:00:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -14,14 +14,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 23:49",
    "published_iso": "2026-07-14T14:49:00+00:00"
-  },
-  {
-   "title": "「国に帰るしか…」県内外国人も苦悩、起業家向けビザ厳格化 資本金要件が6倍の3千万円に「息子は日本語しか話せない」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuNG0yRVVyOVB6bXRWNHMtRGh4U01yU1RoNXp2RGtOMUUyeEc4Mi1WVlVMRUp2T2EtUjVOZHZ3Vld4Y0N1eXJrZXhFOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 23:20",
-   "published_iso": "2026-07-14T14:20:59+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -46,6 +38,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-14 21:00",
    "published_iso": "2026-07-14T12:00:00+00:00"
+  },
+  {
+   "title": "「国に帰るしか…」県内外国人も苦悩、起業家向けビザ厳格化 資本金要件が6倍の3千万円に「息子は日本語しか話せない」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuNG0yRVVyOVB6bXRWNHMtRGh4U01yU1RoNXp2RGtOMUUyeEc4Mi1WVlVMRUp2T2EtUjVOZHZ3Vld4Y0N1eXJrZXhFOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 20:50",
+   "published_iso": "2026-07-14T11:50:00+00:00"
   },
   {
    "title": "4年で20倍…訪日客のレンタカー事故が初の1000件超 9割以上が富士北麓 山梨（2026年7月14日掲載）",
@@ -98,7 +98,7 @@
   {
    "title": "【新供述】逮捕の男「外国人が悪いことをしていると思った」モスクなど相次いで放火された事件 江別市",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZVI2dDlWS2ZfTVJFbS15NUxSd1hxZFViOUU3Tmg2MFFSbjM0aWdDOWYtcEQ3aG5EcWdTbi1kMGZCSzVDYm4xbkpFNnFSalQ0SzU4OUpSb3U0QQ?oc=5",
-   "source": "HTB北海道",
+   "source": "HTB 北海道テレビ",
    "source_domain": "htb.co.jp",
    "published": "2026-07-14 17:42",
    "published_iso": "2026-07-14T08:42:00+00:00"
@@ -280,14 +280,6 @@
    "published_iso": "2026-07-13T20:00:42+00:00"
   },
   {
-   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 04:00",
-   "published_iso": "2026-07-13T19:00:00+00:00"
-  },
-  {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb0tUaS1pekZQNGJ1SlluRHotT3ZaZEdjbE95LXdXUFdETHdnNXROa21rd0VscjBKMU1Fd0xSSTZXM2o5QkF2amE0V3o3VG1kYkJBX0dkbDN1UQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-12 15:04",
    "published_iso": "2026-07-12T06:04:54+00:00"
+  },
+  {
+   "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-12 11:30",
+   "published_iso": "2026-07-12T02:30:00+00:00"
   }
  ]
 }
