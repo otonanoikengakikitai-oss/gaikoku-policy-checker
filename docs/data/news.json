@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T22:55:12+00:00",
+ "generated_at": "2026-07-14T23:52:15+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqQXdQUENqMURmSi13cDhzLVdsc3k1LWNBbjhnUV85dlZubG1fT1d6Y25ORzBJX2s5NmpvMi1GUVhwLXpFb2Z2YUtRNWtpUEN6cHdxRVpmQXNHSlA1a3oxUmRfeFpVQQ?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-15 07:56",
+   "published_iso": "2026-07-14T22:56:07+00:00"
+  },
+  {
    "title": "北波多中で子ども服回収→難民へ 「ユニクロ」「ジーユー」のプロジェクトに参加 唐津市",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5S2F1c3EweU84WUJ3N0MtOEFjdTJYX0VEeklIU0Z3czU0elp6TmpDYW5BRnBrSW8xYkxQN0pNS1pqMXI4bnZGbmFTTQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-15 07:48",
    "published_iso": "2026-07-14T22:48:07+00:00"
-  },
-  {
-   "title": "スーパーから物が無くなり、外国人が姿を消し…メディアが報じない「日本が戦争当事国になった日」に起きること",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vY2RWTm1DR29HZ00wUnVQbDgzRzRHZ2VBOHBCclpIajBnM0ZBcTdoM2tyd28tWmdpQVN5U2RFaWJLVEVKNVk2clBLOGRBSV9mV1IxcWZuN2gxZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-15 07:30",
-   "published_iso": "2026-07-14T22:30:00+00:00"
   },
   {
    "title": "移民・税関捜査局（ICE）に抗議し、「ICEはナチ、クズ」とのプラカードを掲げる人たち＝14日、メーン州ビデフォード（ロイター＝共同） - 移民捜査で車両検問停止 米東部の射殺事件受け - 写真・画像(1/1)",
@@ -54,14 +54,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-15 05:05",
    "published_iso": "2026-07-14T20:05:10+00:00"
-  },
-  {
-   "title": "在留手数料上げ 外国人差別を助長する",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLUx6WTcwajJNaDFzTlF0UHlLdk56TWJla3VrQjloMUU1clpDdmtfaU5ZVHFNNE52LUNFZER6T3NkWk1QSTRjUWQ3RmZHa04zeklLYmpidzRiUVZuYlF2ZlJqZ3Y?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-15 05:05",
-   "published_iso": "2026-07-14T20:05:00+00:00"
   },
   {
    "title": "エフレイ立地の福島・浪江 外国人研究者ら受け入れへ多文化共生の取り組み進む 多様な食文化紹介するガイド作り、町民は英会話学ぶ",
@@ -312,6 +304,14 @@
    "published_iso": "2026-07-13T18:30:00+00:00"
   },
   {
+   "title": "タイ・バンコクの飲食店で大規模火災 外国人含む28人が死亡 現地の日本大使館「日本人の被害情報なし」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSHZHc3kwdmlDREdsS2x2TEVYSGp2eHZBdnloUUtfeGNwREhuaGxBWk9SYlJEcWRULV9CTXB4cGpIazRiTUJwOFpOTVAzazM2TzEzRlc0QQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-13 23:40",
+   "published_iso": "2026-07-13T14:40:32+00:00"
+  },
+  {
    "title": "「多文化共生」を考えよう 高岡で富山県が初のタウンミーティング",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbzBQTXhLaFRCczJnMm1nSm5kcFRScU8xUThMZndlRk12djM2RkNOdndxRWd2U3RQZVpiOXhOaUI0Mi0xQ2MwTkRkbw?oc=5",
    "source": "47NEWS",
@@ -368,14 +368,6 @@
    "published_iso": "2026-07-13T02:08:35+00:00"
   },
   {
-   "title": "難民支えたメルケル政権が「怠った統合支援」 ドイツ識者がみる課題",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTENTcE1uYVBJV3U4anRuRmJZZTlacXcwNlREN0VsTUpjZksyUnpFckc0MXdrZ25BMjJTbm1qSGcxcEp0QUlkVzdMcjRWNERMQTJkSUtCR0tkY2xaQWhCbF9TSlEyVUU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-13 09:00",
-   "published_iso": "2026-07-13T00:00:00+00:00"
-  },
-  {
    "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KV3dlZWplSnl5MU50aV9Ha1Q0MVRYSnptZ0xXYWZWNGU5TzFCWlB0S1JCemE5cDc1aTlhUUVoZDRKODhHcGU3MHJmRkhEdUt2a1B6bWJPZXcwT29YXzFzbms2ZXk1b28?oc=5",
    "source": "TBS NEWS DIG",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-12 15:04",
    "published_iso": "2026-07-12T06:04:54+00:00"
+  },
+  {
+   "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-12 11:30",
+   "published_iso": "2026-07-12T02:30:00+00:00"
   }
  ]
 }
