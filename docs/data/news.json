@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T07:59:40+00:00",
+ "generated_at": "2026-07-14T10:06:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「外国人に税金使うな」SNS大合唱に自民から「悔しい」の声 在留手数料大幅増なのに…",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81alk3eEtFZ1pJTGlaaFhtdmotTXFldWtxdEYtWWd5Ql9ZajBWZWlCVE54SVI3ajNGeUlIMm5DS3A5dXdWcFhsQW5xSGpKYmJBcW9qc28xUTFURTY3RW1uY0FYQ19YRS1jZF9nNUJTQUtZcmI4b3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-14 18:56",
+   "published_iso": "2026-07-14T09:56:57+00:00"
+  },
+  {
+   "title": "宿泊税活用 外国人に魅力伝えるガイド育成講座スタート＜宮城＞（2026年7月14日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UTzhJb3EtQVlja2taaklHeGJOUzR1aGIxMjJBVnlMMFZob0dXc0UxbklmMThpWG9CS0RaSzJ4S0M5cl9YeWY3b1N4a0JtRTlsdUxsNEZCWGVSU3lVbnZoQmdZV0I4SWNwZFdYRUQzRG9kVzM0eFJfX1k5TmNLcWc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 18:45",
+   "published_iso": "2026-07-14T09:45:00+00:00"
+  },
+  {
+   "title": "OBC、『奉行クラウドEdge』で多言語対応。外国人労働者が使用する言語の約9割をカバーし、多様な人材が安心して働ける環境づくりを支援",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVW0yS0NjOGg3SDl1aTJCZ1MxWGE1SkI3QzVxejZGNEFuTi00SUdoczROWVQwdXNaSmoyZ1JwTUJyOUxWT3M0alJycTZUb2FpMENRUlhqazJMV25kN0lTWDYtQXppVWNkdFE4?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-14 18:16",
+   "published_iso": "2026-07-14T09:16:00+00:00"
+  },
+  {
+   "title": "「外国人が悪いことをしていると思った」逮捕の男が供述 モスクなど相次いで放火された事件 江別市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tZVI2dDlWS2ZfTVJFbS15NUxSd1hxZFViOUU3Tmg2MFFSbjM0aWdDOWYtcEQ3aG5EcWdTbi1kMGZCSzVDYm4xbkpFNnFSalQ0SzU4OUpSb3U0QQ?oc=5",
+   "source": "HTB 北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-07-14 17:42",
+   "published_iso": "2026-07-14T08:42:00+00:00"
+  },
+  {
+   "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DeGlnX3doUkY4X1NQZWszWlktVWRhZGVTOGo5VnRSU1NWQXdJNHZjdmRFM2VYYXdvRjhLUEE4SkRlNDZ3NEpuQnA2TVpENzd6SFZJbE5zT0VEblp4S2tkRXZuaHEycEdJUmVyejRXNA?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-14 17:36",
+   "published_iso": "2026-07-14T08:36:37+00:00"
+  },
   {
    "title": "中頓別 ７月２５日にパレスチナ・ガザの難民問題講演会",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CaWZsUldSYlVkU2dkc19fOERVUlNKV3p6cXk4RmJ1alAtX1RSa2lYeWhXZy1VTlE5bUlWQzU5czlIRmRwTWxOY294YzVYZVJ0emZaUUhVUGhldw?oc=5",
@@ -64,6 +104,14 @@
    "published_iso": "2026-07-14T02:41:00+00:00"
   },
   {
+   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-14 11:03",
+   "published_iso": "2026-07-14T02:03:12+00:00"
+  },
+  {
    "title": "アンディさんに辞令交付 ときわ会 特定技能制度で入職",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJcktFQkVMNXhsdEhEVHJlQ0FLQ0lOS1pZcDlsWDhqM3pVSXRZektaeENuR2lyV28tSWgtdlZuTGlnOXdHZll6SHVOTQ?oc=5",
    "source": "47NEWS",
@@ -102,14 +150,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-14 07:08",
    "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 07:07",
-   "published_iso": "2026-07-13T22:07:00+00:00"
   },
   {
    "title": "【買われる日本】上海在住の中国人が土地購入！定住者たった１人の“瀬戸内のハワイ” 「外国人による土地取得」で揺れる日本の現状【ガチの門】",
@@ -160,14 +200,6 @@
    "published_iso": "2026-07-13T20:52:43+00:00"
   },
   {
-   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 05:51",
-   "published_iso": "2026-07-13T20:51:01+00:00"
-  },
-  {
    "title": "名将そろった４強 外国人監督の初優勝なるか―サッカーワールドカップ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjUndxRXNxVE92M2RRSEFKYUxwZVBJVmE4Ukp6cnV4V3ZheFdRMUVldk5ZYVhLcFRaX2Y1OG5mUGg5TEU3cGZCeWx5eTFJTGJ5aDZBaDFrZWZHVVNqengyRENPVQ?oc=5",
    "source": "時事ドットコム",
@@ -182,6 +214,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-14 05:00",
    "published_iso": "2026-07-13T20:00:42+00:00"
+  },
+  {
+   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 04:00",
+   "published_iso": "2026-07-13T19:00:00+00:00"
   },
   {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
@@ -217,7 +257,7 @@
   },
   {
    "title": "人口100万人割れの富山県、外国人比率は9年で2倍に…多文化共生へタウンミーティング始動",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50UGN0MTd1M1dHVEtTWXUtaE1FR2NQc0M3a01VbGRNZVpEOUhfcmczMTBGN0k4eXBBd21lNmJicWR5MFp4VThzU0o0WTRKYkFnaUc4UjhKTlgxaUIxdHgtb0hlZTY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iOGdHOF91LUducjU5N0stckVqQmFfdi1JY1dYbXB1eGt6cmFNTXhyM1NiY25PbTdjMk03Z2xQN2VFVWdnRmpzUFVGNWwwWlBEZWlVZlJvd1lmLUhPRFFLbjVFRDhEQjQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-13 20:30",
@@ -264,28 +304,12 @@
    "published_iso": "2026-07-13T02:08:35+00:00"
   },
   {
-   "title": "中国籍の男逮捕 外国人観光客に声かけ…東京駅前で“白タク営業”か（2026年7月12日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45cGVoc2dRU18tcTY5cUE2V2ptX3hXMmRPaV9sazVQQ09Iam4zWkNQQzZOLTRjMDJicV9qaHAtc09zX3lBUGtxcVNveXh0ZkI0NmZIcTJqS1EzTTV3TWhCOHZESG1wTWdKdkt3cThPekNDUkNZcG5jekEybjg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-13 10:49",
-   "published_iso": "2026-07-13T01:49:00+00:00"
-  },
-  {
    "title": "難民支えたメルケル政権が「怠った統合支援」 ドイツ識者がみる課題",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PTENTcE1uYVBJV3U4anRuRmJZZTlacXcwNlREN0VsTUpjZksyUnpFckc0MXdrZ25BMjJTbm1qSGcxcEp0QUlkVzdMcjRWNERMQTJkSUtCR0tkY2xaQWhCbF9TSlEyVUU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-13 09:00",
    "published_iso": "2026-07-13T00:00:00+00:00"
-  },
-  {
-   "title": "京都の観光客数、2025年は6000万人超で過去最高に：うち外国人は1200万人―市調査",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zMHBvSjdXR21MTEhIZVplbGZXTmZKUmg5dmdzSXJBcjR6M2RRaFJGVFZuMmU3VC1SWEQ2RzFtREhieFVEemt5ZnlMNXlFNUpyZUJaQUYxdw?oc=5",
-   "source": "nippon.com",
-   "source_domain": "nippon.com",
-   "published": "2026-07-13 08:57",
-   "published_iso": "2026-07-12T23:57:00+00:00"
   },
   {
    "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
@@ -318,14 +342,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-12 15:04",
    "published_iso": "2026-07-12T06:04:54+00:00"
-  },
-  {
-   "title": "「だまされた。悔しい」高度人材とは名ばかりの「偽技人国」が失意を生んだ 在留資格制度の暗部",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KNS0xUDJpalRfaUtYV2V5NHZFX2xYem5jSmpRU0RqcS1ucW1jcThlNHhpa3VFdzNzM255VkFKOXRvLVh4dVRHR0l4WEdUTzE2OGpz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-12 12:00",
-   "published_iso": "2026-07-12T03:00:00+00:00"
   },
   {
    "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-11 05:00",
    "published_iso": "2026-07-10T20:00:00+00:00"
-  },
-  {
-   "title": "多文化共生のマチどう実現 恵庭・市民会議がワークショップ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93XzU0RFQ4SG9DUXQ5Qm4yZHAySC1ZLU5jOXpMa192Zmh0WThLNVQ1R3pXckx6bDlMOF9fSUF2MjVCQlBqQWtlMU8wNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-10 22:01",
-   "published_iso": "2026-07-10T13:01:30+00:00"
-  },
-  {
-   "title": "【速報】川で遊泳していたベトナム人技能実習生の18歳男性が行方不明 福井市南居町の日野川",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aeDJLSE9YNl9WTnlZdFlqcHA1R1FwS2k4UkVXTDFNMmNUYVdqalBqQWRwY0hnMWRudjh4X0tKaV81UmdBYmhjcUhQUmtjUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-10 21:30",
-   "published_iso": "2026-07-10T12:30:00+00:00"
   }
  ]
 }
