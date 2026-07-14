@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T02:13:12+00:00",
+ "generated_at": "2026-07-14T05:27:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,52 @@
  ],
  "items": [
   {
-   "title": "福岡から多文化共生の未来考える 「ジャーナリストカフェ」大越キャスターと本紙記者議論",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWjhJMDZNS1lJZXFZZ2JGd2dsTHZEVHB2Tl9WekhTak9KZkNYOElEN1JRV0ZHbmV2M01MbHJtOEtUWVhIWHR6N1NvT3V0X210UEQ1UzJR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-14 10:18",
-   "published_iso": "2026-07-14T01:18:58+00:00"
+   "title": "中日・石橋康太がヒヤリ…1軍から派遣された2軍戦で頭部死球もプレー続行、DeNAの新外国人ビドは危険球退場",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0dkJsdWRuLWFWR2thaFdrMkUyeFc0bU5JTVdfQzhvXzhZNlo5ZlZLSUpoZzBjZDRrN0UzVVRsRjk0MEwwWmVjRjZhc1A5dmxRSDlfMA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-14 13:49",
+   "published_iso": "2026-07-14T04:49:06+00:00"
   },
   {
-   "title": "移民・税関対応の「ICE捜査官」が男性射殺 米東部メーン州、抗議デモも発生",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TWVA0bDJYUVlCdlJOemVjcjR2MEJLdlFNWmhrT2ljTHNJOXJzc052NmlRVHR2c0NERlJXdGZydTlESlRaUWhpTTlIQmgtdm5jYmhIclpkaUNFQ0ZsZnRKZGtFVU11Y05hRHZJQXh1ZE9ueFVTTWc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-14 09:29",
-   "published_iso": "2026-07-14T00:29:52+00:00"
+   "title": "「世界は変えられない、けれど…」 ケイト・ブランシェットさん、難民映画作家支援",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DaEJFUHhhR2VqSnJSSmhfTEU2Z0d3dmc4VHM0ODRCNmx0aEx1RHB1Q3Q3VWhBRVM1TzNCa0tGNDlwTUtLUTlvNjR1b0VSa29veWYtU2h3MFBCTVExLVBwbmsyaFJxLW1V?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-14 13:02",
+   "published_iso": "2026-07-14T04:02:26+00:00"
+  },
+  {
+   "title": "JALとマリオット、弱点補完へ会員送客 外国人搭乗やホテルに国内客",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95S2hLUHdHSHVJWHVDRkNYSkhyTTViZ3ZaTThDZE1Ec1pPNEJTVVJELXhab2FsQkZ0X0JhbU53aTNGZUZ5d2YtbURhTzRWVzFyT2U0VWw2RGg2bTJrU1Y5UFNOamRWdTVTOVY1Yg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-14 12:00",
+   "published_iso": "2026-07-14T03:00:00+00:00"
+  },
+  {
+   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 11:41",
+   "published_iso": "2026-07-14T02:41:00+00:00"
+  },
+  {
+   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-14 11:03",
+   "published_iso": "2026-07-14T02:03:12+00:00"
+  },
+  {
+   "title": "アンディさんに辞令交付 ときわ会 特定技能制度で入職",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJcktFQkVMNXhsdEhEVHJlQ0FLQ0lOS1pZcDlsWDhqM3pVSXRZektaeENuR2lyV28tSWgtdlZuTGlnOXdHZll6SHVOTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 11:00",
+   "published_iso": "2026-07-14T02:00:00+00:00"
   },
   {
    "title": "ドイツの移民政策から見た日本への示唆 昔農・明治大准教授に聞く",
@@ -96,6 +128,14 @@
    "published_iso": "2026-07-13T21:00:00+00:00"
   },
   {
+   "title": "福岡から多文化共生の未来考える 「ジャーナリストカフェ」大越キャスターと本紙記者議論",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWjhJMDZNS1lJZXFZZ2JGd2dsTHZEVHB2Tl9WekhTak9KZkNYOElEN1JRV0ZHbmV2M01MbHJtOEtUWVhIWHR6N1NvT3V0X210UEQ1UzJR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-14 06:00",
+   "published_iso": "2026-07-13T21:00:00+00:00"
+  },
+  {
    "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
    "source": "日本経済新聞",
@@ -104,20 +144,28 @@
    "published_iso": "2026-07-13T20:52:43+00:00"
   },
   {
-   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 05:51",
-   "published_iso": "2026-07-13T20:51:01+00:00"
-  },
-  {
    "title": "名将そろった４強 外国人監督の初優勝なるか―サッカーワールドカップ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjUndxRXNxVE92M2RRSEFKYUxwZVBJVmE4Ukp6cnV4V3ZheFdRMUVldk5ZYVhLcFRaX2Y1OG5mUGg5TEU3cGZCeWx5eTFJTGJ5aDZBaDFrZWZHVVNqengyRENPVQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-14 05:10",
    "published_iso": "2026-07-13T20:10:00+00:00"
+  },
+  {
+   "title": "伊予鉄バス 地域の足に外国人運転士 ベトナム出身 ヒェウさん、クイさん ／愛媛",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SkEzSlJZcy1XUHBuTjEtVGx6bFRxYU5HX2k4amszU1c1SHhCdmtBRDRFOHBQVlZuS3JUSmNVY3V5MldpajRuV0d1ZnZNVUM0VVczd2lJdlUyb1hSM1JSUWpENVdJd3dw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-14 05:00",
+   "published_iso": "2026-07-13T20:00:42+00:00"
+  },
+  {
+   "title": "外国人も非常時対処 松江 ５カ国出身の住民が防災訓練",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNGNSWE1nRmJ2NVVDaDBiMUs1T0VRbFpRNEhIcFpyaU1JbFJhUGx1TDFIWHB0XzFhdEx4bnVDaVA4M1UxUjhRMHJKUQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 04:00",
+   "published_iso": "2026-07-13T19:00:00+00:00"
   },
   {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
@@ -192,14 +240,6 @@
    "published_iso": "2026-07-13T07:20:00+00:00"
   },
   {
-   "title": "石川の魅力を再発見 外国人観光客が金沢の暮らしや文化を体験するモニターツアー（2026年7月13日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDRhNXhpemJyMnRWUVgyMm1CRkRvYXRPZDhZTFpUNW40S1p3TTVJdXVLWUJxTlYtcjJLUGkxd1NKcjJnZFA1Wm42cjdhUmVteWEwVnZmRGJYOXdCWFZ4X0otN0tsdDlwQ2dZNHpCVkpidzdvSVVweWkyQV9wX1ZxdUhLNkpKNmM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-13 16:11",
-   "published_iso": "2026-07-13T07:11:01+00:00"
-  },
-  {
    "title": "［川崎区役所主催］就労分野の認定日本語教育機関による実証事業「就労者のための日本語講座」を実施します（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5TmFiWnF0SXhGRGZ2TGtRQzNJallNZVFtaDNrMTlaTDZLNnlJbk5KWDd6UXhTWWpOajU5ZlZRU3AwRlNOQmM3TWtjakFrUlRmU3phVHdCaEY0WDR0WllPcXAxeHZJaDha?oc=5",
    "source": "毎日新聞",
@@ -248,14 +288,6 @@
    "published_iso": "2026-07-12T23:57:00+00:00"
   },
   {
-   "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KV3dlZWplSnl5MU50aV9Ha1Q0MVRYSnptZ0xXYWZWNGU5TzFCWlB0S1JCemE5cDc1aTlhUUVoZDRKODhHcGU3MHJmRkhEdUt2a1B6bWJPZXcwT29YXzFzbms2ZXk1b28?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-13 03:01",
-   "published_iso": "2026-07-12T18:01:31+00:00"
-  },
-  {
    "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
    "source": "TBS NEWS DIG",
@@ -270,14 +302,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-12 17:00",
    "published_iso": "2026-07-12T08:00:00+00:00"
-  },
-  {
-   "title": "子供のころから暮らす地域にモスクが建つ時 藤沢の住民苦悩、モスク側と「地域協定」模索 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNaXRSZXgwUE9NQm9pNmpVTlRObWhLRW9WQzBJWnE0M2ZRdVRHaU43TjhmbW5WRFdmSW9BYmpsRXFxdUlfX1prNFRVRDJGVUE2OEY1Tm51NmVPNWt6MkI1Tl9qYXp2VEl1MlNzRHB0TXBFMU1ZaEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-12 15:30",
-   "published_iso": "2026-07-12T06:30:00+00:00"
   },
   {
    "title": "愛知・アジアパラ大会まで100日 大村知事「真の共生社会を発信」",
@@ -328,14 +352,6 @@
    "published_iso": "2026-07-11T22:00:00+00:00"
   },
   {
-   "title": "多文化共生について活発に意見交換をした交流会 - 多文化「ゆるっと」話そう 久留米市で44人が交流 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrbHhiS2hnMkRvNWtVbnZSeG1SeGIyY3lQdHlJYTI5MWVyZk5hU1pqWVBUTU00NG9lWFFuUzQyYmg0dWRjaW9xLTFiUkQ5TGhQRFpqR2Fudw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-12 06:22",
-   "published_iso": "2026-07-11T21:22:55+00:00"
-  },
-  {
    "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
    "source": "中日新聞Web",
@@ -358,14 +374,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-11 15:00",
    "published_iso": "2026-07-11T06:00:00+00:00"
-  },
-  {
-   "title": "すき焼き・すし・天ぷら…外国人観光客がハマる「食べ放題」屋形船でもんじゃ焼き作りに苦戦 “初の食材”試せるのも魅力に【気になる！】（2026年7月10日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95WFpOZjhfRWRuVm4tWi10ZlVWU1hOME1WMGZSUE4yQVJheS11SUxtMEowSjdjUF9aLUxRemltbzhDd3c2VGlNNlRiSlNxUURQNFk3RC1mcml0MVlmTnIxdlNxSEpsUUNyTDdMZ3U3VksxQUh5czBvQXY5aWw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-11 13:13",
-   "published_iso": "2026-07-11T04:13:00+00:00"
   },
   {
    "title": "ドイツ語の学ぶ場減らす動き 逆回転する移民統合「誤ったシグナル」",
@@ -398,14 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-10 21:20",
    "published_iso": "2026-07-10T12:20:00+00:00"
-  },
-  {
-   "title": "高校生らが“被爆地ナガサキ”から国連に提言「核軍縮と難民を考える若者の国際会議」長崎東高で開催《長崎》",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVA3dVlUSWFMYWV3Um9GQnZZWTZRZzNaSmVTbE9Zd09MUUdTVHUxX29tb1loeUNOaFpnd2lHdGNscktHX0FOb1pqbTRWR2tyU2FKeEJkUXZkZjZnNWhyeExLelBRRWNEZmI0SWIwY01LTVRsQU1YUVVGc2haSmhuVC1TN05ISk0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-10 20:05",
-   "published_iso": "2026-07-10T11:05:00+00:00"
   }
  ]
 }
