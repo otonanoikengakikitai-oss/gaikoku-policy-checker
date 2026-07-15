@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T21:57:46+00:00",
+ "generated_at": "2026-07-15T23:00:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-16 07:03",
+   "published_iso": "2026-07-15T22:03:00+00:00"
+  },
+  {
+   "title": "博多区の食品会社で殺人未遂事件 技能実習生の男を鑑定留置始める",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95OTI2VHZUdFh2TGlFT2NoQUdJYUVIMlEwRWhVT3BaLW5iTXhlbGNOWmZxcGpSeGZkSDZwNnJrRUx6ODJMNU81RExjZDBUSUxRNi1BUG1JeGJvcTNDWS03RTF5cVN2WEU?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-16 06:25",
+   "published_iso": "2026-07-15T21:25:00+00:00"
+  },
   {
    "title": "【まとめてわかる】日本経済支える外国人観光客 現状と課題を探る",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENUNuRGRmR1FVQ3VWcDFzOHhPUHB5aE12TFJ6UXdHSE9FdXA5WWRBdGZYZmdjdng4R0Q4R1cwTlBUSFZPcGoxdXFNT0NjaU1WWEtrZUpuWi1DUWtWckh5UFQ2ZE5UcUk?oc=5",
@@ -120,6 +136,14 @@
    "published_iso": "2026-07-15T05:30:00+00:00"
   },
   {
+   "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-15 14:00",
+   "published_iso": "2026-07-15T05:00:00+00:00"
+  },
+  {
    "title": "在留資格の要件厳格化 資本金6倍に引き上げ 外国人店主、存続に不安",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRFZNbWs2QWs5NVduZWRNOExvTHBucldlTE9mTWdocTB4YmlZb3hETmNlQl9TSldNRENvNXh0Zy1LNTMxTHlaMDBCT3pxVTJmS0djS2xhM0lIUQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -136,12 +160,12 @@
    "published_iso": "2026-07-15T01:51:00+00:00"
   },
   {
-   "title": "4強で見るＷ杯優勝のゆくえ、「バロンドール」「外国人監督」「世界1位」ジンクスに愛された国は？…追う他の国は歴史を覆せるか",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wdlc5czY1b1EzelBIS2drUDgxRGRtQ1lIQk5CaFhBcC1HTTZsamIwUU5zT3JjUjJwMDZvd2R2X3p2alFYRXBJc3M0ZVBHYk9KX2Ffag?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-15 09:43",
-   "published_iso": "2026-07-15T00:43:04+00:00"
+   "title": "株式会社ジャフプラザ、外国人材・留学生の“住まいの受け皿”を大阪圏で強化",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Yk5XdmVOMGRPeG5qUDFBU01yZjQ2VFp0VmxrRWxtc3ctcllsVjJyM2R0cTN5NUNYTzdiTVN0T2ZOR2kzOFB1UmJZTUlQSzZqd2l2alozOUQxZ2N0UEI4bEc2bno4QVZoMkpB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-15 10:10",
+   "published_iso": "2026-07-15T01:10:00+00:00"
   },
   {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
@@ -230,6 +254,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-14 18:56",
    "published_iso": "2026-07-14T09:56:57+00:00"
+  },
+  {
+   "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaXFvTGxoZVRqSl9LUzNscmpjT1R5N3RacTAzU3FTMzFiZ3JRYWxZRmJ6TmkzcV9ESzdkUFVkQVpBTmVNakZYSXUtZEc4YlFuUHVuU3NNbE5oNTJQSm9qRktHNi1QQTRNQXUtTk5n?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-14 17:36",
+   "published_iso": "2026-07-14T08:36:37+00:00"
   },
   {
    "title": "［動画］「外国人材」資本経営 東急バス・外国人運転士の研修現場に密着",
@@ -374,38 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-13 11:08",
    "published_iso": "2026-07-13T02:08:35+00:00"
-  },
-  {
-   "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-12 17:00",
-   "published_iso": "2026-07-12T08:00:00+00:00"
-  },
-  {
-   "title": "愛知・アジアパラ大会まで100日 大村知事「真の共生社会を発信」",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRQUI5aVNPUVNlc2JXdmNxU1g0QWloS3dYNlR2ZngwU0QxVm5EUE9sWDJ3UWUzT3NUOUtOckRibUhhbVpjU01SS0hmcUUyZ19jMUlSb2w0SFdNZmNrZ0ZweURvRDFQelpuMy1DNw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-12 15:04",
-   "published_iso": "2026-07-12T06:04:54+00:00"
-  },
-  {
-   "title": "ケアの｢外注｣、移民に頼るフランス 日本のシッターの担い手は",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnZWRFOWJaeTYzeXlsZldpaE9XNHdRaXNwN05TNm0zZFBpcHNfUWQ5ZV95eGlNN2wzbHlfYmJBaE1ycFgwbklGb0dCb2dVcUdaR2psZ2N5S0Q4VXNoYzhzMjBHdlZ4QVk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-12 11:30",
-   "published_iso": "2026-07-12T02:30:00+00:00"
-  },
-  {
-   "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDROeXpsMmxIaE45Q2cySkRoZFRXZGFUQ1dnSVdCRVI2VWl2T1lockJ0OF9hODM0c0F5a3hXOWpacW9waWEtSVJTTjRPbWR0X2Y0RE8xOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-12 07:00",
-   "published_iso": "2026-07-11T22:00:00+00:00"
   }
  ]
 }
