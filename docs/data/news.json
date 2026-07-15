@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T02:11:17+00:00",
+ "generated_at": "2026-07-15T05:28:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,22 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "在留資格の要件厳格化 資本金６倍に引き上げ 外国人店主、存続に不安",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRFZNbWs2QWs5NVduZWRNOExvTHBucldlTE9mTWdocTB4YmlZb3hETmNlQl9TSldNRENvNXh0Zy1LNTMxTHlaMDBCT3pxVTJmS0djS2xhM0lIUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-15 11:00",
-   "published_iso": "2026-07-15T02:00:00+00:00"
-  },
-  {
-   "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYnM4dVdCRElEa1o3S0dIWDhIQUY4WkFWakFpWjJMWDRQb3hQOThidmxDODRQcnhNZHhkbnhWcGR6RHdETGZiVXlwMlhjUDRsa0FV?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-15 10:53",
-   "published_iso": "2026-07-15T01:53:12+00:00"
-  },
   {
    "title": "阪神の新外国人セベリーノが初昇格、出場選手に登録…伏見、小幡の２選手も：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MEdhbTl0Q3lkcjktOWpWQ1E4NEJvYTVvYXRSRi1PMmNtR1UwbnQxd3VpQlR3dW9VRWp4VzZMWXlsTzhSNFpfZnhDMFZQWGptV18wZEhEVFJDVXliLUlYcHhIUm1PcHNYbnFZa3dzdmkwZw?oc=5",
@@ -48,12 +32,12 @@
    "published_iso": "2026-07-15T00:43:04+00:00"
   },
   {
-   "title": "スーパーから物が無くなり、外国人が姿を消し…メディアが報じない「日本が戦争当事国になった日」に起きること",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vY2RWTm1DR29HZ00wUnVQbDgzRzRHZ2VBOHBCclpIajBnM0ZBcTdoM2tyd28tWmdpQVN5U2RFaWJLVEVKNVk2clBLOGRBSV9mV1IxcWZuN2gxZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-15 07:30",
-   "published_iso": "2026-07-14T22:30:00+00:00"
+   "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYnM4dVdCRElEa1o3S0dIWDhIQUY4WkFWakFpWjJMWDRQb3hQOThidmxDODRQcnhNZHhkbnhWcGR6RHdETGZiVXlwMlhjUDRsa0FV?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-15 07:56",
+   "published_iso": "2026-07-14T22:56:07+00:00"
   },
   {
    "title": "移民・税関捜査局（ICE）に抗議し、「ICEはナチ、クズ」とのプラカードを掲げる人たち＝14日、メーン州ビデフォード（ロイター＝共同） - 移民捜査で車両検問停止 米東部の射殺事件受け - 写真・画像(1/1)",
@@ -72,14 +56,6 @@
    "published_iso": "2026-07-14T22:20:44+00:00"
   },
   {
-   "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QQ250WXZHVktTbmtMcG1QaV9YbExJSENxZXNrZjZpZzJZc1dnWUktSnJZcVExbGZ0NTJXd0tBb2NPYTBUeXpQeE42NGM4X0k1Ui1HSHlJbkx3UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-15 07:15",
-   "published_iso": "2026-07-14T22:15:26+00:00"
-  },
-  {
    "title": "北波多中で子ども服回収→難民へ 「ユニクロ」「ジーユー」のプロジェクトに参加 唐津市",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5S2F1c3EweU84WUJ3N0MtOEFjdTJYX0VEeklIU0Z3czU0elp6TmpDYW5BRnBrSW8xYkxQN0pNS1pqMXI4bnZGbmFTTQ?oc=5",
    "source": "47NEWS",
@@ -89,11 +65,19 @@
   },
   {
    "title": "外国人と共生 意見交換 県が高岡で初ミーティング",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvWG5FbDlJWU00TEpHQ0o2T1NqNnV5MVlVb2h4TFhyR3luMzZIX3plOWRmZDM5NHFjeTdLdGNmckhzYWlHdTFHOUs2U252bTdrNFBScm9ObzROMW15SXptT2o4bnliQQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52U2VmQmZEdTFkUFhkYUxMam9tT05SOTJGTU43T3A1dk5aX1UwMy1iX2J5ZWxFaVRXVXJLX19CY0NhV2NLNzRpbVg2UQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-15 05:05",
-   "published_iso": "2026-07-14T20:05:10+00:00"
+   "published_iso": "2026-07-14T20:05:00+00:00"
+  },
+  {
+   "title": "災害時の外国人支援学ぶ 自治体職員 翻訳アプリでやり取り 和歌山 ／和歌山",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTVWdJV3lNb0p3akNkX2tHWnUzbVFfVmtXeWdmYmtWclZSbUpzdGU4bVg5WVF1VFlPTW5scjJyTjRueVVxTnd3aVBLcUVwaHViRk9fa0VBUkl5WFJrc0VXVkR4czFiZHIt?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-15 05:04",
+   "published_iso": "2026-07-14T20:04:16+00:00"
   },
   {
    "title": "エフレイ立地の福島・浪江 外国人研究者ら受け入れへ多文化共生の取り組み進む 多様な食文化紹介するガイド作り、町民は英会話学ぶ",
@@ -120,6 +104,14 @@
    "published_iso": "2026-07-14T13:20:04+00:00"
   },
   {
+   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-14 22:11",
+   "published_iso": "2026-07-14T13:11:09+00:00"
+  },
+  {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
    "source": "東京新聞デジタル",
@@ -136,14 +128,6 @@
    "published_iso": "2026-07-14T11:50:00+00:00"
   },
   {
-   "title": "4年で20倍…訪日客のレンタカー事故が初の1000件超 9割以上が富士北麓 山梨（2026年7月14日掲載）｜YBS NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ3VnaENLbzBHbF9sOGpaSkNrcDVobG45OUJEek9OeWZSWlV0N3dubUVkVm1zX0xNbmw4dzk3dnMzanJ5NVMwZFFOZUZtaVJXYVljcVZkZUktNkNPdE1SLXhoY0dIOXhRTTdRdUhZQy1YNVhzVkxyd0haOThwM2RyTWlGU0I2N0U?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 20:35",
-   "published_iso": "2026-07-14T11:35:00+00:00"
-  },
-  {
    "title": "特定技能でバス運転手に 関東自動車のアウンさん（ミャンマー出身）本格デビュー、業界の人手不足に光",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MX1lMbm82LXNDZTY0ZVF3LVFsOGl2VThTMjFKV1c4WDFmUV95WU4xakZoUnpDRzk4OTlsTldlT00zemNQZmdLNXNDSQ?oc=5",
    "source": "47NEWS",
@@ -158,14 +142,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-14 19:10",
    "published_iso": "2026-07-14T10:10:00+00:00"
-  },
-  {
-   "title": "越前たけふ駅には常時タクシーは止まっていない 「事前に予約しておいて」 JRなどが二次元コード案内のボードを列車の座席に用意 外国人観光客に配慮",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0J1allaNklUVktUQTVxX3lvNHNfR1NRUHBDN2RQTE9jaEh0cnlmam5iQ0ZLT1BOWnluY3Y1QmFXMmFKTjVpNllRY3hwQmIzUUd6b2Q0WDdkZUlCdERjOUEzMkdrbnhKUExKSEhDWEZCWGtiMmw5M2VHM2h0a3Rtb0lwR25hUFE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 18:59",
-   "published_iso": "2026-07-14T09:59:00+00:00"
   },
   {
    "title": "「外国人に税金使うな」SNS大合唱に自民から「悔しい」の声 在留手数料大幅増なのに…",
@@ -198,6 +174,14 @@
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-14 17:36",
    "published_iso": "2026-07-14T08:36:37+00:00"
+  },
+  {
+   "title": "深刻な人手不足に備え“外国人ドライバー”を採用 3人に1人が65歳以上になる“2030年問題”に直面する物流業界",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OZnZlanNZcWVyQVdJYXkySDBaYjBwVGJXVTQ3cHFsYVVfYWZsOVdZOGhfbnR3SUhORDVZT3NQbkxJQmUxQjc0ZTR1eGlRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-14 17:07",
+   "published_iso": "2026-07-14T08:07:00+00:00"
   },
   {
    "title": "“神対応”も!?外国人が絶賛するクリニック【しらべてみたら】",
@@ -296,22 +280,6 @@
    "published_iso": "2026-07-13T22:07:00+00:00"
   },
   {
-   "title": "「デマとヘイトでアクセス稼ぐな」…差別をあおる議員を批判する「異例のデモ」に集まった人々が危ぶむ未来",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1ZDA2SDVnakcwTGNHT3lHUjZZQWtua3prTWZRc3JNQ0dvbmZscElIZDdOc2UxNlhXWnp4dXAxcXMzRGIyZXJIdWt5WDVpQWp6SnNz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-14 06:00",
-   "published_iso": "2026-07-13T21:00:00+00:00"
-  },
-  {
-   "title": "福岡から多文化共生の未来考える 「ジャーナリストカフェ」大越キャスターと本紙記者議論",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wWjhJMDZNS1lJZXFZZ2JGd2dsTHZEVHB2Tl9WekhTak9KZkNYOElEN1JRV0ZHbmV2M01MbHJtOEtUWVhIWHR6N1NvT3V0X210UEQ1UzJR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-14 06:00",
-   "published_iso": "2026-07-13T21:00:00+00:00"
-  },
-  {
    "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
    "source": "日本経済新聞",
@@ -326,6 +294,14 @@
    "source_domain": "jiji.com",
    "published": "2026-07-14 05:10",
    "published_iso": "2026-07-13T20:10:00+00:00"
+  },
+  {
+   "title": "伊予鉄バス 地域の足に外国人運転士 ベトナム出身 ヒェウさん、クイさん ／愛媛",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SkEzSlJZcy1XUHBuTjEtVGx6bFRxYU5HX2k4amszU1c1SHhCdmtBRDRFOHBQVlZuS3JUSmNVY3V5MldpajRuV0d1ZnZNVUM0VVczd2lJdlUyb1hSM1JSUWpENVdJd3dw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-14 05:00",
+   "published_iso": "2026-07-13T20:00:42+00:00"
   },
   {
    "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
@@ -406,6 +382,30 @@
    "source_domain": "asahi.com",
    "published": "2026-07-13 09:00",
    "published_iso": "2026-07-13T00:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権、24時間いつでも移民を国外に－専用航空機を保有へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KV3dlZWplSnl5MU50aV9Ha1Q0MVRYSnptZ0xXYWZWNGU5TzFCWlB0S1JCemE5cDc1aTlhUUVoZDRKODhHcGU3MHJmRkhEdUt2a1B6bWJPZXcwT29YXzFzbms2ZXk1b28?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-13 03:01",
+   "published_iso": "2026-07-12T18:01:31+00:00"
+  },
+  {
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 22:12",
+   "published_iso": "2026-07-12T13:12:00+00:00"
+  },
+  {
+   "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-12 17:00",
+   "published_iso": "2026-07-12T08:00:00+00:00"
   }
  ]
 }
