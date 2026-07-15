@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T08:04:52+00:00",
+ "generated_at": "2026-07-15T10:47:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,44 @@
  ],
  "items": [
   {
+   "title": "入管が収容したスリランカ人男性、栄養とれず丸1日 頼んだ栄養剤が支給されず…以前から食事とれない状態",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaEo5VzVoT0FFaG5tUVlPMW9Ea1MwcHU0dmNpQkFrQ0U4aWlfdUF4YW9MVDFRRnpxbkc3ZUZ2OUlkTGF6dEFOT0NEZThCUXBoM0tv?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-15 18:26",
+   "published_iso": "2026-07-15T09:26:30+00:00"
+  },
+  {
+   "title": "県内企業と外国人をつなぐ就職面接会 徳島市で開催【徳島】（2026年7月15日掲載）｜JRT NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0xwZ2U3LTRqZUI2c0ZBVGJIbTM4cDk1OERsZkgxTmc2U2pNb1dIdUNOQzZ6Y0pHakUzbHBOU0tXR0xlXzIyczdCTGptNVl3UzdRdjFvb2dXcjdxbmt0aDBaeXlQS0tTWnl4YTZuQUFnaEtKb29hZWladTJHMWRSNW5XbFVqdlE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-15 18:15",
+   "published_iso": "2026-07-15T09:15:00+00:00"
+  },
+  {
+   "title": "トルコ行進曲とともにやってくる♪＜買い物難民＞助ける移動商店…集落めぐり高齢者の安否確認・気分転換も",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZLTZiWkFrREZ5bEhoaXNyUzFGclRVX25fWnAxempkQm1XSk9sOGxRRUZGQWhHcVJ5OFd1WDZ1UUczNnh1UTVUR2drMlVFaTZIZndHeWI1WmxiWG5pTTcwQ1JqNlNZZHpZNFZKeEUxNEpydw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-15 17:34",
+   "published_iso": "2026-07-15T08:34:00+00:00"
+  },
+  {
+   "title": "「小野田大臣が一生懸命」高市早苗首相、外国人問題で人口戦略作り 参政・神谷氏に答弁",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zdTdEZy0tQV9XNHI5NnpDbzZWQ2gxZkoxcHAyRWYwOXp4ckdvMWNOYnVtQVdmRm9RelJUR05TbFZzTHFvQ2dXdEFCTll6QnJhc0JJaFRrYWdwNHNJZTlJeW5HYktIMUdLb0hPNTZjanFhSnRmUHc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-15 17:33",
+   "published_iso": "2026-07-15T08:33:01+00:00"
+  },
+  {
    "title": "6月の外国人旅行者は約314万9000人 3カ月連続で前年下回る 訪日自粛で中国からの旅行者が6割近く減少",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hQVo0dGlQdV9Pcmw0MHQxYTlITVREc05oRjNPalZXNFluUUdCaXF3a0cwUVdGNHRsclQtQmRtRm1PTHRISGVTLXQxOFNLZw?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-07-15 16:15",
    "published_iso": "2026-07-15T07:15:00+00:00"
-  },
-  {
-   "title": "越前たけふ駅には常時タクシーは止まっていない 「事前に予約しておいて」 JRが二次元コード案内のボードを特急列車の座席に用意 外国人観光客に配慮",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0J1allaNklUVktUQTVxX3lvNHNfR1NRUHBDN2RQTE9jaEh0cnlmam5iQ0ZLT1BOWnluY3Y1QmFXMmFKTjVpNllRY3hwQmIzUUd6b2Q0WDdkZUlCdERjOUEzMkdrbnhKUExKSEhDWEZCWGtiMmw5M2VHM2h0a3Rtb0lwR25hUFE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-15 15:43",
-   "published_iso": "2026-07-15T06:43:00+00:00"
   },
   {
    "title": "バングラデシュのロヒンギャ難民キャンプで土砂崩れが多発",
@@ -40,7 +64,7 @@
    "published_iso": "2026-07-15T05:30:00+00:00"
   },
   {
-   "title": "在留資格の要件厳格化 資本金６倍に引き上げ 外国人店主、存続に不安",
+   "title": "在留資格の要件厳格化 資本金6倍に引き上げ 外国人店主、存続に不安",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRFZNbWs2QWs5NVduZWRNOExvTHBucldlTE9mTWdocTB4YmlZb3hETmNlQl9TSldNRENvNXh0Zy1LNTMxTHlaMDBCT3pxVTJmS0djS2xhM0lIUQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
@@ -136,14 +160,6 @@
    "published_iso": "2026-07-14T14:49:00+00:00"
   },
   {
-   "title": "河北新報社 ビズラボ 河北経済研究所",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HaTlOOEU5aUhoaEkzdE9MLTNrZDBkRVhGLWgxZWVGWkF4M1VmRE1YckVvNV9saTNJOUZSSUlTdXkwaU5TWTIzN2FrdXh6Y29FaFlfUVQyYS1QM0VpNGdCT0tQRWtidw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-07-14 22:20",
-   "published_iso": "2026-07-14T13:20:04+00:00"
-  },
-  {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -182,14 +198,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-14 18:56",
    "published_iso": "2026-07-14T09:56:57+00:00"
-  },
-  {
-   "title": "宿泊税活用 外国人に魅力伝えるガイド育成講座スタート＜宮城＞（2026年7月14日掲載）｜ミヤテレNEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmRhempvWGVKX21ETWozNkJDV3hhYXlXdF9TQkpDNm5LbVlXWjRVWFNxMTZMdUtsZzROQ2dJbWFuRDJDMnlka1ZXTHJqVjUwM1YxWi1JOE5NX0stRXNvV1JhdVMyQWNwUlZOV1ZDNngxWnlYMzBGNm9pamFKNjk1d19tcW9JVkk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 18:45",
-   "published_iso": "2026-07-14T09:45:00+00:00"
   },
   {
    "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
@@ -376,6 +384,14 @@
    "published_iso": "2026-07-12T18:01:31+00:00"
   },
   {
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 22:12",
+   "published_iso": "2026-07-12T13:12:00+00:00"
+  },
+  {
    "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
    "source": "東京新聞デジタル",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-12 15:04",
    "published_iso": "2026-07-12T06:04:54+00:00"
-  },
-  {
-   "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDROeXpsMmxIaE45Q2cySkRoZFRXZGFUQ1dnSVdCRVI2VWl2T1lockJ0OF9hODM0c0F5a3hXOWpacW9waWEtSVJTTjRPbWR0X2Y0RE8xOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-12 07:00",
-   "published_iso": "2026-07-11T22:00:00+00:00"
-  },
-  {
-   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:15+00:00"
   }
  ]
 }
