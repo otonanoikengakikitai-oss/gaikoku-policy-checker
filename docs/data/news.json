@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T18:04:57+00:00",
+ "generated_at": "2026-07-15T20:06:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "外国人材受入の相談827件、体制拡充で従来の４倍に 栃木県支援センター開設１年で成果",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRDZPaEUwS1VocVdPODAwaU54elJPUzVmQmU1Mi1QQW9PZkFWWGpmbGFIcU5OWjM3WDZtbE5QZ2xXUEVVWTdqeFFidw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-16 05:00",
+   "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
    "title": "カンヌ独占取材 ユニクロ柳井康治氏が語る「難民支援と映画の力」",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2JUVnZ5SDY3eXAwNGJhRl9EM2x1c1ZYTi1RVjQwcy1ZRDRHbnlad1g1MkE4V0JHQmhXQTNBTkxQMUVTY0s3Y3VPOW9qQ2NlYlZvM3RiaHdaOGFoNDRRT0pmbUNFdWQ2c3JWLVM4QVBoaTZST1NkOHJ6ekNkOGxzNEF3?oc=5",
    "source": "日経クロストレンド",
    "source_domain": "nikkei.com",
    "published": "2026-07-16 00:00",
    "published_iso": "2026-07-15T15:00:00+00:00"
-  },
-  {
-   "title": "翻訳システムで会議時間短縮など意思疎通に効果 300人の外国人が働く三菱電機静岡製作所で導入",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMkFKS0h3cXUtRmZpZXBwNWVEcHJFbWNtTlp2Zk5oekttRnV6S1JBT00ycG9sRkdYM0tWVUJsTXJaQnJPeHY1eFpVcWs4UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-15 21:28",
-   "published_iso": "2026-07-15T12:28:00+00:00"
   },
   {
    "title": "なぜ外国人は「日本の包丁」に熱狂？「自宅に包丁何本ありますか？」街で聞いてみた【Nスタ解説】",
@@ -134,14 +134,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-15 06:30",
    "published_iso": "2026-07-14T21:30:00+00:00"
-  },
-  {
-   "title": "外国人と共生 意見交換 県が高岡で初ミーティング",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52U2VmQmZEdTFkUFhkYUxMam9tT05SOTJGTU43T3A1dk5aX1UwMy1iX2J5ZWxFaVRXVXJLX19CY0NhV2NLNzRpbVg2UQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-15 05:05",
-   "published_iso": "2026-07-14T20:05:00+00:00"
   },
   {
    "title": "災害時の外国人支援学ぶ 自治体職員 翻訳アプリでやり取り 和歌山 ／和歌山",
@@ -304,14 +296,6 @@
    "published_iso": "2026-07-13T20:00:42+00:00"
   },
   {
-   "title": "【独自】江別のモスクなどに放火疑い 逮捕の男「外国人が悪いことをしていると思った」",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sb0tUaS1pekZQNGJ1SlluRHotT3ZaZEdjbE95LXdXUFdETHdnNXROa21rd0VscjBKMU1Fd0xSSTZXM2o5QkF2amE0V3o3VG1kYkJBX0dkbDN1UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-14 03:30",
-   "published_iso": "2026-07-13T18:30:00+00:00"
-  },
-  {
    "title": "タイ・バンコクの飲食店で大規模火災 外国人含む28人が死亡 現地の日本大使館「日本人の被害情報なし」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSHZHc3kwdmlDREdsS2x2TEVYSGp2eHZBdnloUUtfeGNwREhuaGxBWk9SYlJEcWRULV9CTXB4cGpIazRiTUJwOFpOTVAzazM2TzEzRlc0QQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -406,6 +390,22 @@
    "source_domain": "asahi.com",
    "published": "2026-07-12 11:30",
    "published_iso": "2026-07-12T02:30:00+00:00"
+  },
+  {
+   "title": "共生社会を体現 一般に交じってリーグ戦に挑むインクルーシブなサッカーチーム「パラデイロ」の挑戦",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PMDROeXpsMmxIaE45Q2cySkRoZFRXZGFUQ1dnSVdCRVI2VWl2T1lockJ0OF9hODM0c0F5a3hXOWpacW9waWEtSVJTTjRPbWR0X2Y0RE8xOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 07:00",
+   "published_iso": "2026-07-11T22:00:00+00:00"
+  },
+  {
+   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-11 19:22",
+   "published_iso": "2026-07-11T10:22:15+00:00"
   }
  ]
 }
