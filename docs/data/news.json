@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T14:47:47+00:00",
+ "generated_at": "2026-07-15T16:19:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "カンヌ独占取材 ユニクロ柳井康治氏が語る「難民支援と映画の力」",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2JUVnZ5SDY3eXAwNGJhRl9EM2x1c1ZYTi1RVjQwcy1ZRDRHbnlad1g1MkE4V0JHQmhXQTNBTkxQMUVTY0s3Y3VPOW9qQ2NlYlZvM3RiaHdaOGFoNDRRT0pmbUNFdWQ2c3JWLVM4QVBoaTZST1NkOHJ6ekNkOGxzNEF3?oc=5",
+   "source": "日経クロストレンド",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-16 00:00",
+   "published_iso": "2026-07-15T15:00:00+00:00"
+  },
   {
    "title": "翻訳システムで会議時間短縮など意思疎通に効果 300人の外国人が働く三菱電機静岡製作所で導入",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yMkFKS0h3cXUtRmZpZXBwNWVEcHJFbWNtTlp2Zk5oekttRnV6S1JBT00ycG9sRkdYM0tWVUJsTXJaQnJPeHY1eFpVcWs4UQ?oc=5",
@@ -110,14 +118,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-15 07:56",
    "published_iso": "2026-07-14T22:56:07+00:00"
-  },
-  {
-   "title": "スーパーから物が無くなり、外国人が姿を消し…メディアが報じない「日本が戦争当事国になった日」に起きること",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vY2RWTm1DR29HZ00wUnVQbDgzRzRHZ2VBOHBCclpIajBnM0ZBcTdoM2tyd28tWmdpQVN5U2RFaWJLVEVKNVk2clBLOGRBSV9mV1IxcWZuN2gxZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-15 07:30",
-   "published_iso": "2026-07-14T22:30:00+00:00"
   },
   {
    "title": "ゼロプラン強化版 影響考える講演会 24日、千代田で",
@@ -336,14 +336,6 @@
    "published_iso": "2026-07-13T10:23:47+00:00"
   },
   {
-   "title": "「学びの希望の光に」学び直しや外国人が対象 県内初の公立夜間中学校 開校へ授業体験",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVRqTkd2QjFjWmJjYXB2SzNMdlpBT3RRc1ZrSzdEMWlDYmtKSURONlRQd3RtelUzMVExZUdDTmJkMVg2aXBWZXRmQVVnY3dncm1mWWJRM2ctd0RxRmpIX3A3SnFrR0JzYlJNQkR1U3V2MlNjX3ZnQUNybTBFMGhXeVVWSHZfUUE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-13 19:09",
-   "published_iso": "2026-07-13T10:09:00+00:00"
-  },
-  {
    "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
    "source": "毎日新聞",
@@ -366,6 +358,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-13 11:08",
    "published_iso": "2026-07-13T02:08:35+00:00"
+  },
+  {
+   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-12 22:12",
+   "published_iso": "2026-07-12T13:12:00+00:00"
   },
   {
    "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
