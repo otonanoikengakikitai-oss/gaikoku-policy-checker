@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T20:06:33+00:00",
+ "generated_at": "2026-07-15T21:57:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
+   "title": "【まとめてわかる】日本経済支える外国人観光客 現状と課題を探る",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENUNuRGRmR1FVQ3VWcDFzOHhPUHB5aE12TFJ6UXdHSE9FdXA5WWRBdGZYZmdjdng4R0Q4R1cwTlBUSFZPcGoxdXFNT0NjaU1WWEtrZUpuWi1DUWtWckh5UFQ2ZE5UcUk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 06:00",
+   "published_iso": "2026-07-15T21:00:00+00:00"
+  },
+  {
    "title": "外国人材受入の相談827件、体制拡充で従来の４倍に 栃木県支援センター開設１年で成果",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRDZPaEUwS1VocVdPODAwaU54elJPUzVmQmU1Mi1QQW9PZkFWWGpmbGFIcU5OWjM3WDZtbE5QZ2xXUEVVWTdqeFFidw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-16 05:00",
    "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
+   "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 05:00",
+   "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
+   "title": "米移民摘発 再び波紋 「１日２０００人逮捕」…車止めようと射殺 相次ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13LVpsNHplQWVHTWs3QnhuZkpnelZaWDRhb0E0UzZFVEdQcjVBZFpQaVlHZDREaXhoa3V0V251bjlfZngtUzBPcHA4ZVBobUNxZGZQZ1l3VDgxcEMzSGVjLTdn?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-16 05:00",
+   "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
+   "title": "きょうはなんの日？ 7月15日 外国人力士の日",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 00:00",
+   "published_iso": "2026-07-15T15:00:00+00:00"
   },
   {
    "title": "カンヌ独占取材 ユニクロ柳井康治氏が語る「難民支援と映画の力」",
@@ -200,14 +232,6 @@
    "published_iso": "2026-07-14T09:56:57+00:00"
   },
   {
-   "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaXFvTGxoZVRqSl9LUzNscmpjT1R5N3RacTAzU3FTMzFiZ3JRYWxZRmJ6TmkzcV9ESzdkUFVkQVpBTmVNakZYSXUtZEc4YlFuUHVuU3NNbE5oNTJQSm9qRktHNi1QQTRNQXUtTk5n?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-14 17:36",
-   "published_iso": "2026-07-14T08:36:37+00:00"
-  },
-  {
    "title": "［動画］「外国人材」資本経営 東急バス・外国人運転士の研修現場に密着",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUEgyNjNmMlhlb1NoN2lNSE04aXBQbzdqYm1ZNjJyX0lJNVdGbW5abFlyLTVZcmc1akJyREx3WlBtVVpEbHpRZ2kwVHFyZ2dUU195aDN0SkUzZWtkN3EzelRJcEFSUlE?oc=5",
    "source": "日経ビジネス電子版",
@@ -288,14 +312,6 @@
    "published_iso": "2026-07-13T20:10:00+00:00"
   },
   {
-   "title": "伊予鉄バス 地域の足に外国人運転士 ベトナム出身 ヒェウさん、クイさん ／愛媛",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94SkEzSlJZcy1XUHBuTjEtVGx6bFRxYU5HX2k4amszU1c1SHhCdmtBRDRFOHBQVlZuS3JUSmNVY3V5MldpajRuV0d1ZnZNVUM0VVczd2lJdlUyb1hSM1JSUWpENVdJd3dw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-14 05:00",
-   "published_iso": "2026-07-13T20:00:42+00:00"
-  },
-  {
    "title": "タイ・バンコクの飲食店で大規模火災 外国人含む28人が死亡 現地の日本大使館「日本人の被害情報なし」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSHZHc3kwdmlDREdsS2x2TEVYSGp2eHZBdnloUUtfeGNwREhuaGxBWk9SYlJEcWRULV9CTXB4cGpIazRiTUJwOFpOTVAzazM2TzEzRlc0QQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -360,14 +376,6 @@
    "published_iso": "2026-07-13T02:08:35+00:00"
   },
   {
-   "title": "外国人女性３人が疲労などで動けず遭難救助…北アルプス白馬岳の小雪渓付近 マレーシアとシンガポールの43歳～39歳の女性 | SBC NEWS | 長野のニュース | SBC信越放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tb19VV1NrdXZZRHY3bUFqbXVxbndiaEJWMzdlNzRrdTRBYkR6TGJwTjEtRURNcmt4U2JCZGg1SnVrQ3g0T2xpVHQyRW1ueUJSNWc3d0pwYTBZTmlsS2FpenlQUXZ2LU0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-12 22:12",
-   "published_iso": "2026-07-12T13:12:00+00:00"
-  },
-  {
    "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
    "source": "東京新聞デジタル",
@@ -398,14 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-12 07:00",
    "published_iso": "2026-07-11T22:00:00+00:00"
-  },
-  {
-   "title": "川に流されベトナム人技能実習生が死亡 福井市の日野川で友人と川遊び中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBldWJISGdCUEpQNnZMeFEzbUgxQVBSVHpCYmt2RW16RmYyV1ItZFQ1YjVoZVVISVJXNWpDaGYtZldYTklTb25LTG5WdTY0MERrcnVmcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:15+00:00"
   }
  ]
 }
