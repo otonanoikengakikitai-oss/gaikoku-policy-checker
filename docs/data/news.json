@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T20:02:42+00:00",
+ "generated_at": "2026-07-16T22:01:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "富士山周辺で外国人観光客のレンタカー事故が急増 「止まれ」標識や左側通行に戸惑い 事故は4年で20倍超",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUWtfeVlFb0VFOVBXcDg4V0cza3Y3aXpPcXhPa3hScEFlVnNLRjdsMnVpYTdCRVI2ZVZHY1ctOHlURFlMZFdaRWdKajdLQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 06:00",
+   "published_iso": "2026-07-16T21:00:00+00:00"
+  },
+  {
+   "title": "米ICEが移民2人射殺 「過剰対応」再び、再発防止策も徹底されず",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVEN4aW00YV93bkhoMXpzRnoybmYwRG1lNnRBYzhFUlpHcnNPWVVCVjdEN3VVWXhZWWFnaXVocERkUFVVaElrZUFGR193UEdGZExqY1NBanJKTFJfRi1EQkpGMG5VX0pL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-17 06:00",
+   "published_iso": "2026-07-16T21:00:00+00:00"
+  },
   {
    "title": "論点：外国人にどう向き合う",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vNV92NGN5NFdWMVlQejJvR2otQ3MwSXFLUmZqeV9BVlFvaGVBdzByak1LdHdUeXdWaHgzNnhYRjFlUEwwcmRkTGc0TUJmUnA0OENIY1NnMXZiVWdTOVRuejRhbVF5aFAw?oc=5",
@@ -72,8 +88,16 @@
    "published_iso": "2026-07-16T09:30:14+00:00"
   },
   {
+   "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 18:25",
+   "published_iso": "2026-07-16T09:25:00+00:00"
+  },
+  {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iZHJMdWFyNDhMU2hGUzA1YlNxVUs4WG03OG4tckY2M2Qwa3dpRTFHZmpSdG5NV1ZTUXRkZUMwMmszTlBVQTFGcW8yV3FwQ3hoY1l6UE42a2lzVWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54aXdXa2dxTGVCVGJEMGZKODd0X2lydDlxYTVzZTVraUdfbHNDaDN1SVpNMkZWNlVLWHJqN0lTNjJaUm4tazZudFlKd1dOQVJ1R24yTVRMc0RqR3dic0NaOVVvbw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-16 17:05",
@@ -102,14 +126,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-07-16 13:56",
    "published_iso": "2026-07-16T04:56:46+00:00"
-  },
-  {
-   "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？ 「見逃すわけにはいかない」、警察が執念の捜査で逮捕",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Ylg5UnpxZm56QWk2ckxDZTZRcXNQY3RCSlBxSFZra0NQb2U4NkhvYmtiWGNKN1hXeUpIemdPX0h0X1E2QWM0OURIVTYzMkZQeFJyelRjb0szbmxGakJYZTVUZ0xVSndEZXJR?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-16 13:00",
-   "published_iso": "2026-07-16T04:00:01+00:00"
   },
   {
    "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
@@ -288,6 +304,14 @@
    "published_iso": "2026-07-14T21:30:00+00:00"
   },
   {
+   "title": "災害時の外国人支援学ぶ 自治体職員 翻訳アプリでやり取り 和歌山 ／和歌山",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTVWdJV3lNb0p3akNkX2tHWnUzbVFfVmtXeWdmYmtWclZSbUpzdGU4bVg5WVF1VFlPTW5scjJyTjRueVVxTnd3aVBLcUVwaHViRk9fa0VBUkl5WFJrc0VXVkR4czFiZHIt?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-15 05:04",
+   "published_iso": "2026-07-14T20:04:16+00:00"
+  },
+  {
    "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDRUVU1TOHVmdnBFYlhVbnVEN2tlSjNkNk5uWG5ENDJLWVNXWHRqWklTR29MODJLaDV1NlBNZERiOXRRSGw4SG1mNXJHSVlkUElhZEFhcXRGdw?oc=5",
    "source": "北海道新聞デジタル",
@@ -360,6 +384,14 @@
    "published_iso": "2026-07-14T02:41:00+00:00"
   },
   {
+   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-14 11:03",
+   "published_iso": "2026-07-14T02:03:12+00:00"
+  },
+  {
    "title": "ドイツの移民政策から見た日本への示唆 昔農・明治大准教授に聞く",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bnVCbW1aOEJZdTgwUzVIUnFjb2hWeWlfaDkwRnNYR0Y2aHZoMHBnUDZaOF9URl9SRGFGbG5IdEhuTnpBMm8tM2NCRUUxczR1QW5mUnktSjQtdkx2d0JONG9EWk9qczg?oc=5",
    "source": "朝日新聞",
@@ -374,38 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-07-14 08:12",
    "published_iso": "2026-07-13T23:12:00+00:00"
-  },
-  {
-   "title": "米東部メーン州 ICE（移民当局）の発砲で1人死亡 コロンビア出身の男性（26）で就労許可あり 職場に向かうところ発砲される",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZUVNNXdTTzlvYTBaYmpYeUFaTGk4SzlIQXZ4cVhSaDRPYzlZME82ZGFsOGJ0dXV3a2FpX1BaOGNMZE1HOF9ZWmlhWm9LZFZoYk1IWmtfQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-14 07:45",
-   "published_iso": "2026-07-13T22:45:36+00:00"
-  },
-  {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 07:07",
-   "published_iso": "2026-07-13T22:07:00+00:00"
-  },
-  {
-   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-14 05:52",
-   "published_iso": "2026-07-13T20:52:43+00:00"
   }
  ]
 }
