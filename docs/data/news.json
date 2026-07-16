@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T22:01:40+00:00",
+ "generated_at": "2026-07-16T23:56:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -46,6 +46,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-16 23:34",
    "published_iso": "2026-07-16T14:34:15+00:00"
+  },
+  {
+   "title": "“レンタカー”のワゴン車が列車と衝突 乗っていた外国人５人が病院搬送 一時運転見合わせ JR富良野線",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcG1RUWh1WVlJOVN2a29oYTVvX1VlX1Q4eGtSOWE0V0pFOUxkSnI5YXpkVlkwazloMnM1Mk11NTh5LTE4aDExVVlBb0ozUFVNcTlxQ00yZUd3Zw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-07-16 22:17",
+   "published_iso": "2026-07-16T13:17:00+00:00"
   },
   {
    "title": "踏切で列車と衝突…車に乗っていた外国人とみられる5人が搬送＿JR富良野線で衝突事故＿列車4本が運休＜北海道上富良野町",
@@ -144,14 +152,6 @@
    "published_iso": "2026-07-16T02:21:43+00:00"
   },
   {
-   "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 11:00",
-   "published_iso": "2026-07-16T02:00:00+00:00"
-  },
-  {
    "title": "上半期の訪日外国人客は2％減 前年割り込むのは5年ぶり 中国の渡航自粛要請が影響",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VElpa0hvdWN6a0lzdktLdFFZSzVleUZDb09URExQVGo5UW41QlJOYUJDd0x6Vk1HTmNGWFhHSlBQTzZtUGxJS1pISFptRnpVbDNJZmhRYm9XMWhSYkx6VEJQaGNaTEZ5NUxHQkctQjNrUQ?oc=5",
    "source": "テレ朝NEWS",
@@ -214,14 +214,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-16 05:00",
    "published_iso": "2026-07-15T20:00:00+00:00"
-  },
-  {
-   "title": "きょうはなんの日？ 7月15日 外国人力士の日",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 00:00",
-   "published_iso": "2026-07-15T15:00:00+00:00"
   },
   {
    "title": "なぜ外国人は「日本の包丁」に熱狂？「自宅に包丁何本ありますか？」街で聞いてみた【Nスタ解説】",
@@ -406,6 +398,14 @@
    "source_domain": "jiji.com",
    "published": "2026-07-14 08:12",
    "published_iso": "2026-07-13T23:12:00+00:00"
+  },
+  {
+   "title": "米東部メーン州 ICE（移民当局）の発砲で1人死亡 コロンビア出身の男性（26）で就労許可あり 職場に向かうところ発砲される",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZUVNNXdTTzlvYTBaYmpYeUFaTGk4SzlIQXZ4cVhSaDRPYzlZME82ZGFsOGJ0dXV3a2FpX1BaOGNMZE1HOF9ZWmlhWm9LZFZoYk1IWmtfQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-14 07:45",
+   "published_iso": "2026-07-13T22:45:36+00:00"
   }
  ]
 }
