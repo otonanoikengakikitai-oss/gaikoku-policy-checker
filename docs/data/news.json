@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T10:56:53+00:00",
+ "generated_at": "2026-07-16T12:21:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "東京入管が収容中のスリランカ人男性を解放する方針 「なぜ収容されなければならなかったのか」妻は憤り",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cGo2WlhuUkxQeDZGaGpTVkE3NmhHTWJnZjdwSnVadlZsaTMxS0o5RGhSUEVZOWRXVWs3bGg3QXRzWEtlWjItMVI4dUthako0QjE4?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-16 20:46",
+   "published_iso": "2026-07-16T11:46:02+00:00"
+  },
   {
    "title": "外国人観光客の誘致へ トレンドは文化や自然の“体験型” 観光連盟の職員など対象にセミナー 講師「価値の発信を積極的に」",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3R6ZlBuWmpJVnBPeFdtUnU4NUtnY3AwM0JMMWJJNV9HdzZVc2pzRVJzaUhTa1ViUXhnUnlaQkxQLUhRVjNqSjJEWU82dC04dTZXME9xLU1qWWMzTmEwTXBuNFF0bTBtbGgwdkZ0SWFQYjlmdlhtOFB6NXl4bEtLdjh2eTZBQ1k?oc=5",
@@ -22,6 +30,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-16 18:30",
    "published_iso": "2026-07-16T09:30:14+00:00"
+  },
+  {
+   "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 18:25",
+   "published_iso": "2026-07-16T09:25:00+00:00"
   },
   {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
@@ -80,6 +96,14 @@
    "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
+   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-16 11:21",
+   "published_iso": "2026-07-16T02:21:43+00:00"
+  },
+  {
    "title": "株式会社いきがい、日本の大学生がネパールの日本語教育を支える海外プログラムを始動 ― 「教える経験」で次世代グローバル人材を育成",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RHB5ZWROM0gtbXVzNDZyVTJ2blVDZ0kyR3JmaU1vd0VGd2xkbXlsaFhYZDdQVnJjRUVYVENjRExzMzhvZUprR0dzWUFpYXQtNkViZzBGNVpWdk1YbGttb1ZzMlFKNEdWQ3RF?oc=5",
    "source": "時事ドットコム",
@@ -92,14 +116,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
    "source": "AERA DIGITAL",
    "source_domain": "asahi.com",
-   "published": "2026-07-16 11:00",
-   "published_iso": "2026-07-16T02:00:00+00:00"
-  },
-  {
-   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-07-16 11:00",
    "published_iso": "2026-07-16T02:00:00+00:00"
   },
@@ -206,6 +222,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-15 17:33",
    "published_iso": "2026-07-15T08:33:01+00:00"
+  },
+  {
+   "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-15 14:00",
+   "published_iso": "2026-07-15T05:00:00+00:00"
   },
   {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
@@ -382,30 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-13 20:30",
    "published_iso": "2026-07-13T11:30:00+00:00"
-  },
-  {
-   "title": "外国人の国保加入、要件見直しを 倶知安町長が国に要望書 税金未納増加で",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LRGxiNUhjR1p4Q05sUDJ4NFRCcklZY1BwaEZWTHJLNS0yc0JDeUtJVU41OEg3UmlxLVFqalUwbktXcGZZaGN2U2V2VkVNck13VHhfdkkxRzdIQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-13 19:23",
-   "published_iso": "2026-07-13T10:23:47+00:00"
-  },
-  {
-   "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 17:00",
-   "published_iso": "2026-07-13T08:00:00+00:00"
-  },
-  {
-   "title": "［川崎区役所主催］就労分野の認定日本語教育機関による実証事業「就労者のための日本語講座」を実施します（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5TmFiWnF0SXhGRGZ2TGtRQzNJallNZVFtaDNrMTlaTDZLNnlJbk5KWDd6UXhTWWpOajU5ZlZRU3AwRlNOQmM3TWtjakFrUlRmU3phVHdCaEY0WDR0WllPcXAxeHZJaDha?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 14:22",
-   "published_iso": "2026-07-13T05:22:06+00:00"
   }
  ]
 }
