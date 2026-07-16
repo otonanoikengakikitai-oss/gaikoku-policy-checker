@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T16:24:17+00:00",
+ "generated_at": "2026-07-16T18:04:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "論点：外国人にどう向き合う",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vNV92NGN5NFdWMVlQejJvR2otQ3MwSXFLUmZqeV9BVlFvaGVBdzByak1LdHdUeXdWaHgzNnhYRjFlUEwwcmRkTGc0TUJmUnA0OENIY1NnMXZiVWdTOVRuejRhbVF5aFAw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-17 02:00",
+   "published_iso": "2026-07-16T17:00:49+00:00"
+  },
+  {
    "title": "米留学ビザ原則4年に短縮 強硬な移民政策の一環、9月にも発効",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCX1d6TE1JUnp6Zi1qU2preWxQWXJCMXFLb2JtLVg1Z2d3Nk1YcENRV1ZhVG1jUll3Rkk4RS1OeFNSbDFvZ2k4V2xXalp4THZPdEFuenh6eGpNZ0VHeHdTNTV5aDBJNTBiSURta3VMZEVGNFA1N3c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-17 00:25",
    "published_iso": "2026-07-16T15:25:11+00:00"
+  },
+  {
+   "title": "ガンバ大阪からサウジクラブに電撃就任のドイツ人監督、早速クラブと対立？外国人選手獲得を巡り「寝耳に水」 現地評論家が「特報」伝える",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnN1IxaGs4eUhCbE8tZ3BpRVVma3ZZZV9QY191amJXV3R0aG44Vjh0Rmx2ZHcwN1ZMLUs2Y2ZoMUpTeFFQZGoyZlRVbDRqMW9RU24zQQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-16 23:34",
+   "published_iso": "2026-07-16T14:34:15+00:00"
   },
   {
    "title": "踏切で列車と衝突…車に乗っていた外国人とみられる5人が搬送＿JR富良野線で衝突事故＿列車4本が運休＜北海道上富良野町",
@@ -54,6 +70,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-16 18:30",
    "published_iso": "2026-07-16T09:30:14+00:00"
+  },
+  {
+   "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 18:25",
+   "published_iso": "2026-07-16T09:25:00+00:00"
   },
   {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
@@ -232,6 +256,14 @@
    "published_iso": "2026-07-15T05:00:00+00:00"
   },
   {
+   "title": "在留資格の要件厳格化 資本金6倍に引き上げ 外国人店主、存続に不安",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KRFZNbWs2QWs5NVduZWRNOExvTHBucldlTE9mTWdocTB4YmlZb3hETmNlQl9TSldNRENvNXh0Zy1LNTMxTHlaMDBCT3pxVTJmS0djS2xhM0lIUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-15 11:00",
+   "published_iso": "2026-07-15T02:00:00+00:00"
+  },
+  {
    "title": "阪神の新外国人セベリーノが初昇格、出場選手に登録…伏見、小幡の２選手も：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MEdhbTl0Q3lkcjktOWpWQ1E4NEJvYTVvYXRSRi1PMmNtR1UwbnQxd3VpQlR3dW9VRWp4VzZMWXlsTzhSNFpfZnhDMFZQWGptV18wZEhEVFJDVXliLUlYcHhIUm1PcHNYbnFZa3dzdmkwZw?oc=5",
    "source": "読売新聞",
@@ -374,38 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-07-14 05:10",
    "published_iso": "2026-07-13T20:10:00+00:00"
-  },
-  {
-   "title": "タイ・バンコクの飲食店で大規模火災 外国人含む28人が死亡 現地の日本大使館「日本人の被害情報なし」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zSHZHc3kwdmlDREdsS2x2TEVYSGp2eHZBdnloUUtfeGNwREhuaGxBWk9SYlJEcWRULV9CTXB4cGpIazRiTUJwOFpOTVAzazM2TzEzRlc0QQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-13 23:40",
-   "published_iso": "2026-07-13T14:40:32+00:00"
-  },
-  {
-   "title": "「多文化共生」を考えよう 高岡で富山県が初のタウンミーティング",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zbzBQTXhLaFRCczJnMm1nSm5kcFRScU8xUThMZndlRk12djM2RkNOdndxRWd2U3RQZVpiOXhOaUI0Mi0xQ2MwTkRkbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-13 22:00",
-   "published_iso": "2026-07-13T13:00:00+00:00"
-  },
-  {
-   "title": "人口100万人割れの富山県、外国人比率は9年で2倍に…多文化共生へタウンミーティング始動",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWHRPRTJaeFcxWGZ4VHdySVRkbHkzSGh5QzRnU0dOdkh5MVcxY1hJZWVPTnkxSENQWTVKYkZ4aWJBeG16X0xHVkJSRDBzd3ZXMG1WODh2U05DQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-13 20:30",
-   "published_iso": "2026-07-13T11:30:00+00:00"
-  },
-  {
-   "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 17:00",
-   "published_iso": "2026-07-13T08:00:00+00:00"
   }
  ]
 }
