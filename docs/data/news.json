@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T14:59:03+00:00",
+ "generated_at": "2026-07-16T16:24:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "米留学ビザ原則4年に短縮 強硬な移民政策の一環、9月にも発効",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCX1d6TE1JUnp6Zi1qU2preWxQWXJCMXFLb2JtLVg1Z2d3Nk1YcENRV1ZhVG1jUll3Rkk4RS1OeFNSbDFvZ2k4V2xXalp4THZPdEFuenh6eGpNZ0VHeHdTNTV5aDBJNTBiSURta3VMZEVGNFA1N3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-17 00:25",
+   "published_iso": "2026-07-16T15:25:11+00:00"
+  },
   {
    "title": "踏切で列車と衝突…車に乗っていた外国人とみられる5人が搬送＿JR富良野線で衝突事故＿列車4本が運休＜北海道上富良野町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MkFCT3hPYjRLaFBwLU83MzNHZTRvV1ZhZm9FYm1tMXZ5UDVmZEpjODVwb2N5YzhEeXRLaENJNWtnZndmX2M5V0tLSW1Edw?oc=5",
@@ -22,14 +30,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-16 20:46",
    "published_iso": "2026-07-16T11:46:02+00:00"
-  },
-  {
-   "title": "外国人観光客の誘致へ トレンドは文化や自然の“体験型” 観光連盟の職員など対象にセミナー 講師「価値の発信を積極的に」",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3R6ZlBuWmpJVnBPeFdtUnU4NUtnY3AwM0JMMWJJNV9HdzZVc2pzRVJzaUhTa1ViUXhnUnlaQkxQLUhRVjNqSjJEWU82dC04dTZXME9xLU1qWWMzTmEwTXBuNFF0bTBtbGgwdkZ0SWFQYjlmdlhtOFB6NXl4bEtLdjh2eTZBQ1k?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-16 19:09",
-   "published_iso": "2026-07-16T10:09:00+00:00"
   },
   {
    "title": "4年前の20倍超…富士山周辺で外国人観光客のレンタカー事故急増 「たまにガリガリッて音」日本語標識や狭い道路に困惑か",
@@ -48,12 +48,12 @@
    "published_iso": "2026-07-16T09:30:14+00:00"
   },
   {
-   "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-16 18:25",
-   "published_iso": "2026-07-16T09:25:00+00:00"
+   "title": "亡くなった山本優生さんの遺影（家族提供）",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmdpSEQzcG4yeVhyaEJUd2J0b19oS1pSVWhfS3Z6a0VMTHBNeUVZT24wQnpXdzVNZDEta3N6dWhtV3NXTUhXcFlhY0J1aEQ3ZjZJUHYzOThSOXdOT1VfSWdXa2I2S2t5ZnNnTjJ2ZkFMM3FrWW9acW43RVlfVWNHX2N5Vkp0V3ljSGNRcmhkM21aS1QzbGhYX0dJY2c3NFhreVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-16 18:30",
+   "published_iso": "2026-07-16T09:30:14+00:00"
   },
   {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
@@ -104,18 +104,18 @@
    "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
-   "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 11:00",
-   "published_iso": "2026-07-16T02:00:00+00:00"
-  },
-  {
    "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
+   "published": "2026-07-16 11:21",
+   "published_iso": "2026-07-16T02:21:43+00:00"
+  },
+  {
+   "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
    "published": "2026-07-16 11:00",
    "published_iso": "2026-07-16T02:00:00+00:00"
   },
