@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T23:00:56+00:00",
+ "generated_at": "2026-07-16T02:24:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wQW9tSk5ibzdGZHlXeXpFeFFvUmJVcHU5dko0UjVzWGNwWU1KcWRsQnNTdmtsWlV0YVo1Q1RBVlFpcm1rRWpMcFFDT0MyZFAx?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 11:00",
+   "published_iso": "2026-07-16T02:00:00+00:00"
+  },
+  {
+   "title": "上半期の訪日外国人客は2％減 前年割り込むのは5年ぶり 中国の渡航自粛要請が影響",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VElpa0hvdWN6a0lzdktLdFFZSzVleUZDb09URExQVGo5UW41QlJOYUJDd0x6Vk1HTmNGWFhHSlBQTzZtUGxJS1pISFptRnpVbDNJZmhRYm9XMWhSYkx6VEJQaGNaTEZ5NUxHQkctQjNrUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-16 10:04",
+   "published_iso": "2026-07-16T01:04:49+00:00"
+  },
   {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
@@ -40,15 +56,7 @@
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
   {
-   "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 05:00",
-   "published_iso": "2026-07-15T20:00:00+00:00"
-  },
-  {
-   "title": "米移民摘発 再び波紋 「１日２０００人逮捕」…車止めようと射殺 相次ぐ",
+   "title": "車止めようと相次ぎ射殺、米移民摘発に伴う車両停止で反発広がる…トランプ氏は擁護「最も効果的な犯罪対策」",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13LVpsNHplQWVHTWs3QnhuZkpnelZaWDRhb0E0UzZFVEdQcjVBZFpQaVlHZDREaXhoa3V0V251bjlfZngtUzBPcHA4ZVBobUNxZGZQZ1l3VDgxcEMzSGVjLTdn?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
@@ -217,11 +225,11 @@
   },
   {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-14 22:11",
-   "published_iso": "2026-07-14T13:11:09+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZHUyUnVxRFNWdDVHS0hxenR1YmJFd1NPY1FiV0F3ak96ekRWZEw3TDJOSXd0UkdqbUZwbGlucnp5RXZ4bkNFSG9iYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 23:17",
+   "published_iso": "2026-07-14T14:17:17+00:00"
   },
   {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
@@ -254,14 +262,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-14 18:56",
    "published_iso": "2026-07-14T09:56:57+00:00"
-  },
-  {
-   "title": "外国人との共生考えよう 支援者や大学教授ら登壇する研修会、8月開催 神戸 |社会",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaXFvTGxoZVRqSl9LUzNscmpjT1R5N3RacTAzU3FTMzFiZ3JRYWxZRmJ6TmkzcV9ESzdkUFVkQVpBTmVNakZYSXUtZEc4YlFuUHVuU3NNbE5oNTJQSm9qRktHNi1QQTRNQXUtTk5n?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-14 17:36",
-   "published_iso": "2026-07-14T08:36:37+00:00"
   },
   {
    "title": "［動画］「外国人材」資本経営 東急バス・外国人運転士の研修現場に密着",
@@ -400,12 +400,12 @@
    "published_iso": "2026-07-13T07:20:00+00:00"
   },
   {
-   "title": "日本からの海外送金、25年度1兆円超え 外国人の就労拡大映す",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdnhiRVdlaTJxTWx5aU5OaHRkQnpGUWx5UkZhcDA2TDV1S1FiTGNmWHR1a1FNR2dtWEtTVm15bkNUWkREVElRbVhZYndBRHBaendJMjQyOVREYklWTmNJSkxsVDVtUnBlSjFQYg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-13 11:08",
-   "published_iso": "2026-07-13T02:08:35+00:00"
+   "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-12 17:00",
+   "published_iso": "2026-07-12T08:00:00+00:00"
   }
  ]
 }
