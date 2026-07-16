@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T02:24:14+00:00",
+ "generated_at": "2026-07-16T05:37:57+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,60 @@
  ],
  "items": [
   {
+   "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？ 「見逃すわけにはいかない」、警察が執念の捜査で逮捕",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Ylg5UnpxZm56QWk2ckxDZTZRcXNQY3RCSlBxSFZra0NQb2U4NkhvYmtiWGNKN1hXeUpIemdPX0h0X1E2QWM0OURIVTYzMkZQeFJyelRjb0szbmxGakJYZTVUZ0xVSndEZXJR?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-16 13:00",
+   "published_iso": "2026-07-16T04:00:01+00:00"
+  },
+  {
+   "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？|ニュースの核心",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82QTZRc3Z4cWRSZU5UZHlEZThoeTRKVFptWDE2bElBTE1VWEZSaDZ4Y0R3OVZjUVN2ZlpEMUZlVm4wai1ZQ2hEQkd2aEpUcG5abWNLMjEwNFZoS0RKZnpsbHZEcHFXNTROWGxKNWt2SGpEbW8wck9UZWNVejY?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-16 13:00",
+   "published_iso": "2026-07-16T04:00:00+00:00"
+  },
+  {
+   "title": "2026年度制度改定、特定技能の対象業種拡大「工業製品製造業」と技人国ビザの審査厳格化についても解説",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTnFzNmZWbjB1UmNVajVmbEU2WjFpTmQtTUlCWXZ3Q1VZNHZZWVBVSi02MFlYYTJvMmx2dTR0c1V6TXpocXZTSUlMUTZNTldYT3BYNGxMNzRXbHFBNjFEbHBiYnVHZmZMeWg0?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 12:46",
+   "published_iso": "2026-07-16T03:46:00+00:00"
+  },
+  {
+   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-16 11:30",
+   "published_iso": "2026-07-16T02:30:00+00:00"
+  },
+  {
+   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-16 11:21",
+   "published_iso": "2026-07-16T02:21:43+00:00"
+  },
+  {
+   "title": "株式会社いきがい、日本の大学生がネパールの日本語教育を支える海外プログラムを始動 ― 「教える経験」で次世代グローバル人材を育成",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RHB5ZWROM0gtbXVzNDZyVTJ2blVDZ0kyR3JmaU1vd0VGd2xkbXlsaFhYZDdQVnJjRUVYVENjRExzMzhvZUprR0dzWUFpYXQtNkViZzBGNVpWdk1YbGttb1ZzMlFKNEdWQ3RF?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 11:16",
+   "published_iso": "2026-07-16T02:16:00+00:00"
+  },
+  {
    "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wQW9tSk5ibzdGZHlXeXpFeFFvUmJVcHU5dko0UjVzWGNwWU1KcWRsQnNTdmtsWlV0YVo1Q1RBVlFpcm1rRWpMcFFDT0MyZFAx?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
    "source": "AERA DIGITAL",
    "source_domain": "asahi.com",
    "published": "2026-07-16 11:00",
    "published_iso": "2026-07-16T02:00:00+00:00"
-  },
-  {
-   "title": "上半期の訪日外国人客は2％減 前年割り込むのは5年ぶり 中国の渡航自粛要請が影響",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VElpa0hvdWN6a0lzdktLdFFZSzVleUZDb09URExQVGo5UW41QlJOYUJDd0x6Vk1HTmNGWFhHSlBQTzZtUGxJS1pISFptRnpVbDNJZmhRYm9XMWhSYkx6VEJQaGNaTEZ5NUxHQkctQjNrUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-16 10:04",
-   "published_iso": "2026-07-16T01:04:49+00:00"
   },
   {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
@@ -48,10 +88,26 @@
    "published_iso": "2026-07-15T21:00:00+00:00"
   },
   {
+   "title": "外国人労働者「ルール整備前提に受け入れを」53％ 「慎重に進めるべき」3割 長野県民世論調査",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBWmVyU2lMbk9rWGpoZkppejd4M3pQbG1KX2Z4R2w3U0FlMmptRFI2QlN2SHVHeHY2alRLdE84MzJEcG8weWxRV0Zzb2FYQXluTm8yWXd4eXFsU00wR0xzUXN1S1FxNGpKVWtwRllhbVI?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-16 06:00",
+   "published_iso": "2026-07-15T21:00:00+00:00"
+  },
+  {
    "title": "外国人材受入の相談827件、体制拡充で従来の４倍に 栃木県支援センター開設１年で成果",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRDZPaEUwS1VocVdPODAwaU54elJPUzVmQmU1Mi1QQW9PZkFWWGpmbGFIcU5OWjM3WDZtbE5QZ2xXUEVVWTdqeFFidw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
+   "published": "2026-07-16 05:00",
+   "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
+   "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-07-16 05:00",
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
@@ -96,14 +152,6 @@
    "published_iso": "2026-07-15T09:26:30+00:00"
   },
   {
-   "title": "県内企業と外国人をつなぐ就職面接会 徳島市で開催【徳島】（2026年7月15日掲載）｜JRT NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0xwZ2U3LTRqZUI2c0ZBVGJIbTM4cDk1OERsZkgxTmc2U2pNb1dIdUNOQzZ6Y0pHakUzbHBOU0tXR0xlXzIyczdCTGptNVl3UzdRdjFvb2dXcjdxbmt0aDBaeXlQS0tTWnl4YTZuQUFnaEtKb29hZWladTJHMWRSNW5XbFVqdlE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-15 18:15",
-   "published_iso": "2026-07-15T09:15:00+00:00"
-  },
-  {
    "title": "トルコ行進曲とともにやってくる♪＜買い物難民＞助ける移動商店…集落めぐり高齢者の安否確認・気分転換も",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZLTZiWkFrREZ5bEhoaXNyUzFGclRVX25fWnAxempkQm1XSk9sOGxRRUZGQWhHcVJ5OFd1WDZ1UUczNnh1UTVUR2drMlVFaTZIZndHeWI1WmxiWG5pTTcwQ1JqNlNZZHpZNFZKeEUxNEpydw?oc=5",
    "source": "読売新聞",
@@ -126,22 +174,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-15 16:15",
    "published_iso": "2026-07-15T07:15:00+00:00"
-  },
-  {
-   "title": "バングラデシュのロヒンギャ難民キャンプで土砂崩れが多発",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zb3djb3pUT050U0F5Z3JvZUYwY2NzaVFNSG5XUUtPSVN0alZ5LXpPbUIzMk5COHVVS19RR1RoN0oxS09SX0JhQkRZM3BPZDFzU0xjeXpVQ0dnWFFJRWFyTGdIMXQ5WUpGQ24w?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-15 14:45",
-   "published_iso": "2026-07-15T05:45:00+00:00"
-  },
-  {
-   "title": "「5年以上日本で働きたい」 在留外国人、61%に急減",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90WXZWSWllOUcwUUY0TWV6MEd3MmtNc3pQbFloX2ZBa3FYTEgyQTRFNVdMUlpMNkdKYnczcEM3bzNMMm5wTU14MDUteHRwaXVhZkpfb2pUNlRTM1U0Ynktci1CaFNGSjY2Qkp5Rw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-15 14:30",
-   "published_iso": "2026-07-15T05:30:00+00:00"
   },
   {
    "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
@@ -288,12 +320,12 @@
    "published_iso": "2026-07-14T02:41:00+00:00"
   },
   {
-   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-14 11:03",
-   "published_iso": "2026-07-14T02:03:12+00:00"
+   "title": "ドイツの移民政策から見た日本への示唆 昔農・明治大准教授に聞く",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bnVCbW1aOEJZdTgwUzVIUnFjb2hWeWlfaDkwRnNYR0Y2aHZoMHBnUDZaOF9URl9SRGFGbG5IdEhuTnpBMm8tM2NCRUUxczR1QW5mUnktSjQtdkx2d0JONG9EWk9qczg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-14 09:00",
+   "published_iso": "2026-07-14T00:00:00+00:00"
   },
   {
    "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
@@ -368,44 +400,12 @@
    "published_iso": "2026-07-13T12:30:49+00:00"
   },
   {
-   "title": "外国人の国保加入、要件見直しを 倶知安町長が国に要望書 税金未納増加で",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LRGxiNUhjR1p4Q05sUDJ4NFRCcklZY1BwaEZWTHJLNS0yc0JDeUtJVU41OEg3UmlxLVFqalUwbktXcGZZaGN2U2V2VkVNck13VHhfdkkxRzdIQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-13 19:23",
-   "published_iso": "2026-07-13T10:23:47+00:00"
-  },
-  {
-   "title": "「学びの希望の光に」学び直しや外国人が対象 県内初の公立夜間中学校 開校へ授業体験",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVRqTkd2QjFjWmJjYXB2SzNMdlpBT3RRc1ZrSzdEMWlDYmtKSURONlRQd3RtelUzMVExZUdDTmJkMVg2aXBWZXRmQVVnY3dncm1mWWJRM2ctd0RxRmpIX3A3SnFrR0JzYlJNQkR1U3V2MlNjX3ZnQUNybTBFMGhXeVVWSHZfUUE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-13 19:09",
-   "published_iso": "2026-07-13T10:09:00+00:00"
-  },
-  {
-   "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 17:00",
-   "published_iso": "2026-07-13T08:00:00+00:00"
-  },
-  {
-   "title": "京都府北部の小中学生「難民1億2300万人」の現状に驚き 服を送る支援に参加",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zX3RiYWZjZy1fZXNLclZ6MXFGSU10am1BN3FvRHRQdkdfR0pWUWR3MFhfZTRHc1Zva2g0ZTBVY2FKV0JoLXl0WDMtTjRuYi1HcHB2cjFleWk?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-13 16:20",
-   "published_iso": "2026-07-13T07:20:00+00:00"
-  },
-  {
-   "title": "外国人の不法就労問題、日本側にも課題 事業主の未届け疑いが7.5倍に急増、5年間で14万件",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fNTVTSFJVN3ltdzNIYmNfRmtMQ1JfZFh6RTBvbFZtbkl5TTBzamwybmdWWU96UlpZLWlBWll1Y2ZSUzNBM0pxejN1ZjdqcU43eFNj?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-12 17:00",
-   "published_iso": "2026-07-12T08:00:00+00:00"
+   "title": "人口100万人割れの富山県、外国人比率は9年で2倍に…多文化共生へタウンミーティング始動",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWHRPRTJaeFcxWGZ4VHdySVRkbHkzSGh5QzRnU0dOdkh5MVcxY1hJZWVPTnkxSENQWTVKYkZ4aWJBeG16X0xHVkJSRDBzd3ZXMG1WODh2U05DQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-13 20:30",
+   "published_iso": "2026-07-13T11:30:00+00:00"
   }
  ]
 }
