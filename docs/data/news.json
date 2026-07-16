@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-16T12:21:14+00:00",
+ "generated_at": "2026-07-16T14:59:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "踏切で列車と衝突…車に乗っていた外国人とみられる5人が搬送＿JR富良野線で衝突事故＿列車4本が運休＜北海道上富良野町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3MkFCT3hPYjRLaFBwLU83MzNHZTRvV1ZhZm9FYm1tMXZ5UDVmZEpjODVwb2N5YzhEeXRLaENJNWtnZndmX2M5V0tLSW1Edw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-16 21:15",
+   "published_iso": "2026-07-16T12:15:00+00:00"
+  },
   {
    "title": "東京入管が収容中のスリランカ人男性を解放する方針 「なぜ収容されなければならなかったのか」妻は憤り",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cGo2WlhuUkxQeDZGaGpTVkE3NmhHTWJnZjdwSnVadlZsaTMxS0o5RGhSUEVZOWRXVWs3bGg3QXRzWEtlWjItMVI4dUthako0QjE4?oc=5",
@@ -22,6 +30,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-16 19:09",
    "published_iso": "2026-07-16T10:09:00+00:00"
+  },
+  {
+   "title": "4年前の20倍超…富士山周辺で外国人観光客のレンタカー事故急増 「たまにガリガリッて音」日本語標識や狭い道路に困惑か",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsSVk0cDRrY3cxNEFQZ0ZSUjN4a3NJa2VVeEVWZ0tjQ3FiZ0N3a1FHczA5QXpPdkRldFpPOTUtUlNUcTNtbFFWaEt5RjBodw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-16 18:40",
+   "published_iso": "2026-07-16T09:40:00+00:00"
   },
   {
    "title": "「息子はルールを守らない外国人に未来を奪われた」被害男性の母 増える外国人交通事故 「移民」と日本人",
@@ -64,12 +80,12 @@
    "published_iso": "2026-07-16T07:00:00+00:00"
   },
   {
-   "title": "＜7/16のevery.＞ 点滴に異物混入で殺害か…看護師の女素顔は▼銀座でトンカツ外国人絶賛",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vYjhiWkV4c0gtcFB3S3V0WFNIUWlDQVFvM01DeEZpM2JCd3Nmdk03NTJCSkJHUWdfNzFBeXlJZHlKNXlJV3ZVMzA3R3c1SE1nVzFnR1FLT1Z3aUlEdU1CMC1CQ1RMdmNlSW9MWEMwWktGSUF5VkRhVmVnZTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-16 14:28",
-   "published_iso": "2026-07-16T05:28:01+00:00"
+   "title": "私とあなたと、働く外国人～共生の道のりは～「首都圏情報 ネタドリ!」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EbmJGSS1CWGZqUGdlY3dpX0pYZzljeG9rUXpyM09vSDR1dkJnNTF2aDRNR3lrbW02eks3YlBubkN5U3dpZF8wR1NRTlF2NUdQdnozZzFwWkozSjlZZVF1T2tqUF8yX2M?oc=5",
+   "source": "nhk.or.jp",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-07-16 13:56",
+   "published_iso": "2026-07-16T04:56:46+00:00"
   },
   {
    "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？ 「見逃すわけにはいかない」、警察が執念の捜査で逮捕",
@@ -80,14 +96,6 @@
    "published_iso": "2026-07-16T04:00:01+00:00"
   },
   {
-   "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？|ニュースの核心",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82QTZRc3Z4cWRSZU5UZHlEZThoeTRKVFptWDE2bElBTE1VWEZSaDZ4Y0R3OVZjUVN2ZlpEMUZlVm4wai1ZQ2hEQkd2aEpUcG5abWNLMjEwNFZoS0RKZnpsbHZEcHFXNTROWGxKNWt2SGpEbW8wck9UZWNVejY?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-16 13:00",
-   "published_iso": "2026-07-16T04:00:00+00:00"
-  },
-  {
    "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
    "source": "産経ニュース",
@@ -96,28 +104,28 @@
    "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
-   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-16 11:21",
-   "published_iso": "2026-07-16T02:21:43+00:00"
-  },
-  {
-   "title": "株式会社いきがい、日本の大学生がネパールの日本語教育を支える海外プログラムを始動 ― 「教える経験」で次世代グローバル人材を育成",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42RHB5ZWROM0gtbXVzNDZyVTJ2blVDZ0kyR3JmaU1vd0VGd2xkbXlsaFhYZDdQVnJjRUVYVENjRExzMzhvZUprR0dzWUFpYXQtNkViZzBGNVpWdk1YbGttb1ZzMlFKNEdWQ3RF?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-16 11:16",
-   "published_iso": "2026-07-16T02:16:00+00:00"
-  },
-  {
    "title": "レイエスだけじゃない！ エスピノーザ、ハーン、キャベッジら今オフ争奪戦に？ 注目の助っ人外国人",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxNl9teFFrSHZ1SEV3RVlIa2FQWktvbE5zdnNpUmZQaHJ2YWZibHRaeVE4cGs3Q3lXM3hvMTQ3QTVTRmwwdnByb1hIY1YyQ2VIU00tYzVHLUFDZw?oc=5",
    "source": "AERA DIGITAL",
    "source_domain": "asahi.com",
    "published": "2026-07-16 11:00",
    "published_iso": "2026-07-16T02:00:00+00:00"
+  },
+  {
+   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-16 11:00",
+   "published_iso": "2026-07-16T02:00:00+00:00"
+  },
+  {
+   "title": "上半期の訪日外国人客は2％減 前年割り込むのは5年ぶり 中国の渡航自粛要請が影響",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VElpa0hvdWN6a0lzdktLdFFZSzVleUZDb09URExQVGo5UW41QlJOYUJDd0x6Vk1HTmNGWFhHSlBQTzZtUGxJS1pISFptRnpVbDNJZmhRYm9XMWhSYkx6VEJQaGNaTEZ5NUxHQkctQjNrUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-16 10:04",
+   "published_iso": "2026-07-16T01:04:49+00:00"
   },
   {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
@@ -184,14 +192,6 @@
    "published_iso": "2026-07-15T15:00:00+00:00"
   },
   {
-   "title": "カンヌ独占取材 ユニクロ柳井康治氏が語る「難民支援と映画の力」",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2JUVnZ5SDY3eXAwNGJhRl9EM2x1c1ZYTi1RVjQwcy1ZRDRHbnlad1g1MkE4V0JHQmhXQTNBTkxQMUVTY0s3Y3VPOW9qQ2NlYlZvM3RiaHdaOGFoNDRRT0pmbUNFdWQ2c3JWLVM4QVBoaTZST1NkOHJ6ekNkOGxzNEF3?oc=5",
-   "source": "日経クロストレンド",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-16 00:00",
-   "published_iso": "2026-07-15T15:00:00+00:00"
-  },
-  {
    "title": "なぜ外国人は「日本の包丁」に熱狂？「自宅に包丁何本ありますか？」街で聞いてみた【Nスタ解説】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vOHV3OHRyd1UwQjNkZGtyRF9IV0l0QnBQbmtJZzA4cG9PQUgySVJDN09LZnVLLVpEeEZWSlp5MzBRT2NEZkdCNi02N2RtT0x0d0NTN3RPYw?oc=5",
    "source": "TBS NEWS DIG",
@@ -232,6 +232,14 @@
    "published_iso": "2026-07-15T05:00:00+00:00"
   },
   {
+   "title": "阪神の新外国人セベリーノが初昇格、出場選手に登録…伏見、小幡の２選手も：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MEdhbTl0Q3lkcjktOWpWQ1E4NEJvYTVvYXRSRi1PMmNtR1UwbnQxd3VpQlR3dW9VRWp4VzZMWXlsTzhSNFpfZnhDMFZQWGptV18wZEhEVFJDVXliLUlYcHhIUm1PcHNYbnFZa3dzdmkwZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-15 10:51",
+   "published_iso": "2026-07-15T01:51:00+00:00"
+  },
+  {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYnM4dVdCRElEa1o3S0dIWDhIQUY4WkFWakFpWjJMWDRQb3hQOThidmxDODRQcnhNZHhkbnhWcGR6RHdETGZiVXlwMlhjUDRsa0FV?oc=5",
    "source": "東京新聞デジタル",
@@ -254,14 +262,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 23:49",
    "published_iso": "2026-07-14T14:49:00+00:00"
-  },
-  {
-   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZHUyUnVxRFNWdDVHS0hxenR1YmJFd1NPY1FiV0F3ak96ekRWZEw3TDJOSXd0UkdqbUZwbGlucnp5RXZ4bkNFSG9iYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-14 23:17",
-   "published_iso": "2026-07-14T14:17:17+00:00"
   },
   {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
@@ -392,20 +392,20 @@
    "published_iso": "2026-07-13T13:00:00+00:00"
   },
   {
-   "title": "共生社会へ手助けの輪を 千歳市、鳥取県と「あいサポート運動」協定 8月研修会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVajFvUVBQTnRRM2liZ1NaRVk5dkZIZTUtMzByRXlkUGZDNDEzLU1PREVKYUNNZDlXRUo2QnJITmJOZmNDR1FDdGhrOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-13 21:30",
-   "published_iso": "2026-07-13T12:30:49+00:00"
-  },
-  {
    "title": "人口100万人割れの富山県、外国人比率は9年で2倍に…多文化共生へタウンミーティング始動",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWHRPRTJaeFcxWGZ4VHdySVRkbHkzSGh5QzRnU0dOdkh5MVcxY1hJZWVPTnkxSENQWTVKYkZ4aWJBeG16X0xHVkJSRDBzd3ZXMG1WODh2U05DQQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-13 20:30",
    "published_iso": "2026-07-13T11:30:00+00:00"
+  },
+  {
+   "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-13 17:00",
+   "published_iso": "2026-07-13T08:00:00+00:00"
   }
  ]
 }
