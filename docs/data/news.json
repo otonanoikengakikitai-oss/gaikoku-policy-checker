@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T14:41:48+00:00",
+ "generated_at": "2026-07-17T16:13:19+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBV00yWG1Pa0lNOFpkQ1htM1h4b3VvNGRyazNULTluaVNhaWg3ZW9Gc3YyZTJOMFlxZ01Ydy1YWUhfN1dQdHktd1Vscw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-17 22:40",
+   "published_iso": "2026-07-17T13:40:00+00:00"
+  },
   {
    "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR0VTcGNHSGxzcjZXR0xJS2pJdm1yX1FuRVJxcHpidDVkazd3SVQyZXl4MlNsZkdSelptQUY2cllzZTE1WG5qdmxyTFBNSEhzMlhIX1E2M2tvZw?oc=5",
@@ -54,14 +62,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-17 18:46",
    "published_iso": "2026-07-17T09:46:05+00:00"
-  },
-  {
-   "title": "吉田麻也がアメリカ永住権を取得 LAギャラクシーの「外国人枠」対象外に W杯にも帯同し献身",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WUJUN0hsanI2dEpJX1BuRlFjWERSMElDRVY0b1lyUjBKdGlWcGJmNXhrTnpMSE83RFhRZEJwWXZtZTFtZ1hwS3NYeEF3NTJYeHNKV2trYmh0RGJ4NWRIY1ViOU9TTGFfeENSU1cyYlcwRkdKM1pPNEhfUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-17 17:40",
-   "published_iso": "2026-07-17T08:40:00+00:00"
   },
   {
    "title": "外国人材の採用へ…福岡の企業と韓国の大学生が交流会「マッチングの機会に」企業選びや価値観など意見交換",
@@ -240,14 +240,6 @@
    "published_iso": "2026-07-16T04:56:46+00:00"
   },
   {
-   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-16 11:30",
-   "published_iso": "2026-07-16T02:30:00+00:00"
-  },
-  {
    "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
    "source": "47NEWS",
@@ -406,6 +398,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 11:41",
    "published_iso": "2026-07-14T02:41:00+00:00"
+  },
+  {
+   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-14 11:03",
+   "published_iso": "2026-07-14T02:03:12+00:00"
   }
  ]
 }
