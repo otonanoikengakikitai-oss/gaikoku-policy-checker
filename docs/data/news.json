@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T12:07:30+00:00",
+ "generated_at": "2026-07-17T14:41:48+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR0VTcGNHSGxzcjZXR0xJS2pJdm1yX1FuRVJxcHpidDVkazd3SVQyZXl4MlNsZkdSelptQUY2cllzZTE1WG5qdmxyTFBNSEhzMlhIX1E2M2tvZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-17 21:59",
+   "published_iso": "2026-07-17T12:59:52+00:00"
+  },
+  {
    "title": "外国人か5人乗車のレンタカー踏切事故 5人ケガをし病院搬送 列車の乗客・乗務員にケガなし 北海道・上富良野町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NX2RNcVNBWEdNY1RzSWNwbDljZGRxZDcxYllzeThsYUNRSUNhSUxNM2cxUkRNQlBRc0VFUllRdXdXZEQ3TWVabGpUeTlqZw?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-07-17 20:21",
    "published_iso": "2026-07-17T11:21:00+00:00"
+  },
+  {
+   "title": "「ノー！電話だめ！」寸劇で学ぶ自転車ルール 富山のイスラム教礼拝堂で外国人向け講習会",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44U0NYWTFpdDJhQ1FwNGkyRjNYcG1zVDhKckwtanhpaDJIMFl1RFdZRWp1TFNfbVpKU3hIMlZRRW1hNGtkNUlfT09jZEg2Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 20:00",
+   "published_iso": "2026-07-17T11:00:00+00:00"
   },
   {
    "title": "外国人に日本の交通ルールを 富山県警が自転車交通安全講習会開く（2026年7月17日掲載）｜KNB NEWS NNN",
@@ -38,6 +54,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-17 18:46",
    "published_iso": "2026-07-17T09:46:05+00:00"
+  },
+  {
+   "title": "吉田麻也がアメリカ永住権を取得 LAギャラクシーの「外国人枠」対象外に W杯にも帯同し献身",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WUJUN0hsanI2dEpJX1BuRlFjWERSMElDRVY0b1lyUjBKdGlWcGJmNXhrTnpMSE83RFhRZEJwWXZtZTFtZ1hwS3NYeEF3NTJYeHNKV2trYmh0RGJ4NWRIY1ViOU9TTGFfeENSU1cyYlcwRkdKM1pPNEhfUQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-17 17:40",
+   "published_iso": "2026-07-17T08:40:00+00:00"
   },
   {
    "title": "外国人材の採用へ…福岡の企業と韓国の大学生が交流会「マッチングの機会に」企業選びや価値観など意見交換",
@@ -88,22 +112,6 @@
    "published_iso": "2026-07-17T06:06:55+00:00"
   },
   {
-   "title": "県内企業×外国人材のオンラインマッチングを静岡県が無料でサポート",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waHgtZnZqVjNwLWdsQVdqN2NZVXI3Z1YxeUttZ05ldkVKazFmZXdmNnVld0U5ZC14eUJXWmllb0EwLWlCSTRzRVp2N1Y1Yll5Q01VaHBHcjhGbnhlM1hhN2NKOHJGZ0p1R2dr?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-17 14:46",
-   "published_iso": "2026-07-17T05:46:00+00:00"
-  },
-  {
-   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OLTBHQURYN1VzZHlmLUtydHY2Tk53ZDZkUFFiQXdaTC1vdVFSem5CdGVOZm1kcXV4X1d1ZTRKMW9wRFVGV19pN0ZZVTlndGQ5dm8yNHI2UXROUWJ0cDNRRGVEY2ZDdy1OTVlZRnlPS0ZRUQ?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-17 13:00",
-   "published_iso": "2026-07-17T04:00:00+00:00"
-  },
-  {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRmVzVS02SE1yWVZ4MldCM1FwZ3Z0WWVkU0ZRNWRtLXJnTGFqV2lMdU5mcUVFa051d0J5UHptTGFnRksxWS05aWdNS3UxUVZsYU5mYVotbS1hZGRZczByX1ZLVVlhX1BU?oc=5",
    "source": "毎日新聞",
@@ -118,6 +126,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-17 12:53",
    "published_iso": "2026-07-17T03:53:00+00:00"
+  },
+  {
+   "title": "【京都外国語大学】地元の小中学生と外国人観光客を言葉でつなぐ！「保津川下り 外国人観光客アンケート調査」に本学学生が語学サポーターとして今年も参加（７月25日～７月31日）",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uWVNzcnJPbEVtRG5vWmxOaGVrSDhSeDBLd2RLRjNYSVg1Zlljc05tNVpoeEdVa0tab0x4elpGMWlTSm5rRjdMRVdMOV83SjhXc21vaEd3YnRBRk50VV9sYVpZQzYzR084ZVY0?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-17 10:46",
+   "published_iso": "2026-07-17T01:46:00+00:00"
   },
   {
    "title": "サッカー吉田麻也選手、米国永住権取得 外国人枠から外れる 所属の米クラブが発表",
@@ -153,7 +169,7 @@
   },
   {
    "title": "新図書館にみんなの意見反映を 三重県四日市の市民団体が市長に提言、障害者や外国人ら少数への配慮訴え",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zSWFobElYcmdibllOeDU4SjJJdHh2SHM2Zl9SV2lQSWtFazRNWWUtM0c0X1JfbVlrcC0xYTA1aEtrSkU3YkZsaG9pS0Z1a0gzX0hjLXdPNVNMTDVKa1Q0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNVZUUTMzYU9OOEZVSlpGTE1yWWdhMHhFcHdWV3gxWU9JOWFTRDlrOHUzSkxHS0M2dDZzY1NtZnRWYXdkcUNDNmZQYml2VTd5cERKbQ?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-17 05:05",
@@ -222,6 +238,14 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-07-16 13:56",
    "published_iso": "2026-07-16T04:56:46+00:00"
+  },
+  {
+   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-16 11:30",
+   "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
    "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
@@ -336,14 +360,6 @@
    "published_iso": "2026-07-14T21:30:00+00:00"
   },
   {
-   "title": "【大規模洪水】バングラデシュで豪雨 54人死亡…100万人超が孤立 難民キャンプで続く懸命救助",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYno2ZndKSDZsbjhIakRrQm5LWC00RlJJTFczcjhwNFVCU3RSc3lReVBOWUNUeHhZR2phVTEwSTNYQUlCSk15OWQxX2pEWW5JY1BQNXE5MnE0SGQzdUFOaG1wNkY5aDlfVFJ4Mk52NzFHMHdhcXZKZmNjdUJ5X2NsZlVRUXM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 23:49",
-   "published_iso": "2026-07-14T14:49:00+00:00"
-  },
-  {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
    "source": "東京新聞デジタル",
@@ -390,22 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 11:41",
    "published_iso": "2026-07-14T02:41:00+00:00"
-  },
-  {
-   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-14 11:03",
-   "published_iso": "2026-07-14T02:03:12+00:00"
-  },
-  {
-   "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbFYzaFJCMmRVMXN5LXMyRndTVk1EZ3o4T2R3MC1XUl92N25haDdCRnFnUTlJSDFjRTBiWDFWbFdxSTkxYlZpaVFtaE40MWxpS0tJWm5NMTUzX3hWYWVNTlBYYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 08:12",
-   "published_iso": "2026-07-13T23:12:00+00:00"
   }
  ]
 }
