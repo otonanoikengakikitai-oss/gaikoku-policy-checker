@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T02:48:45+00:00",
+ "generated_at": "2026-07-17T05:40:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
-   "title": "1件目の申請からちょうど3年。在留資格申請SaaS「RakuVisa」、累計申請案件2万件を突破",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXOU5LWFEyUS1vNWxYbkx4X01uaW1CY0tydW16SGw2WFd5emJfUUNNRDRKc3hzWElObWRXUjhHa3Y0bnN2OXFJX0NIV1FvMTdhSUZjbHRIQ21jWDVEU21mTEVFbDYwaFVMOVlj?oc=5",
+   "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRmVzVS02SE1yWVZ4MldCM1FwZ3Z0WWVkU0ZRNWRtLXJnTGFqV2lMdU5mcUVFa051d0J5UHptTGFnRksxWS05aWdNS3UxUVZsYU5mYVotbS1hZGRZczByX1ZLVVlhX1BU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-17 13:00",
+   "published_iso": "2026-07-17T04:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権がビザ滞在期間を短縮する新規則を発表…外国人の管理を強化するねらい",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41eDYxbzJVZUo4aVg4Tm5ZNGNpdERUTHVNUzFCQkdFTGRSS0FCNGgxRFZGUi1pVGpWZk9pMktrRDRmOU15SHBpX3diU1hZRVNMa0FWdG84N2l1VnpybFBRUmhB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-17 12:53",
+   "published_iso": "2026-07-17T03:53:00+00:00"
+  },
+  {
+   "title": "「AI共生社会」でのAIとのかしこい付き合い方・リスク対策：「文系視点でスグわかる！生成ＡＩ監査・リスキリング速習講座」セミナー2026年10月22日AM10時～17時@ZOOMライブ by 戸村智憲",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UeE5YWmZfanZScmd2YWIzRXJ2QWNMSU5HN3ZCc1k5N0FHSUlwb0g1T1UzUWVlY2R1cC1FRTZQeTc4WkNDbmgybVVPS2lrT2NCaW9DbWRvekM5WW9MNG5SRkp6cFRzSFFFa0E4?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-07-17 11:16",
-   "published_iso": "2026-07-17T02:16:00+00:00"
+   "published": "2026-07-17 12:46",
+   "published_iso": "2026-07-17T03:46:00+00:00"
+  },
+  {
+   "title": "東京・丸の内で「共生社会」を体感する2日間 内閣府「ともともフェスタ2026」開催 ～出会う、ふれあう、未来がかわる～ 障害の有無にかかわらず、ともに楽しみ、交流と相互理解を促進",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41T3JjeTA5U1NuZmV6NHZFaDlzNndpaUtfVFpMTF9aRkdhMkpxRHgxMmFicF9rcTRzOWJ3ZWRkOUZ3UkxKVzdEVUZMdXJGbGktUXNFdktrZEFoZXU3dklZUk5DQ0Z2UjRBUGgw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-17 12:16",
+   "published_iso": "2026-07-17T03:16:00+00:00"
   },
   {
    "title": "ブラジル人学校生が地元の職業訓練施設を見学 進路考える機会に [岐阜県] [外国人]",
@@ -24,12 +48,12 @@
    "published_iso": "2026-07-17T02:00:00+00:00"
   },
   {
-   "title": "トランプ政権“米に滞在できる期間短縮する”外国人留学生や報道関係者向けビザ（2026年7月16日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQi1TLWZyR2xIRjQ5dGJqNE13YklhU2hXRTd3azRIR2dQMTR3bVA5U05xd256a3hoVlo2aDM2Vlh5Tkt6MThJLTVsa21TbGlwMG9iR1pIRG1aSEczdllqdEgyQmlUcDZjaTF6ZFE5TXRKUXZsTkxhS2ZXZ2l6VXJOS0hRMS0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-17 09:52",
-   "published_iso": "2026-07-17T00:52:01+00:00"
+   "title": "サッカー吉田麻也選手、米国永住権取得 外国人枠から外れる 所属の米クラブが発表",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUc2Vms5Q0xxLXBhNFBTQlNWdzN2OE9aNmVpTUJBOUl6MjZ6MDllTmlzRUhQU0RtZTlQZmk1UGRlMXozcWpVOHJsOVNfM3dtSE9Xa2lQa3pUMWl3alI5dFljZmZmbHZLYThCd0p3YkhXcWI1Z3UxQThWNjFlX01oWmRnazRkSU1ZRnNkdkstWmJoeVo2LVhBbzg3THlSOHhPSWEyM1JSSQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-17 10:32",
+   "published_iso": "2026-07-17T01:32:13+00:00"
   },
   {
    "title": "吉田麻也、米国永住権取得＝外国人枠から外れる―米サッカー",
@@ -82,7 +106,7 @@
   {
    "title": "“レンタカー”のワゴン車が列車と衝突 乗っていた外国人５人が病院搬送 一時運転見合わせ JR富良野線",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HcG1RUWh1WVlJOVN2a29oYTVvX1VlX1Q4eGtSOWE0V0pFOUxkSnI5YXpkVlkwazloMnM1Mk11NTh5LTE4aDExVVlBb0ozUFVNcTlxQ00yZUd3Zw?oc=5",
-   "source": "HTB 北海道テレビ",
+   "source": "HTB北海道",
    "source_domain": "htb.co.jp",
    "published": "2026-07-16 22:17",
    "published_iso": "2026-07-16T13:17:00+00:00"
@@ -114,14 +138,6 @@
   {
    "title": "「息子はルールを守らない外国人に未来を奪われた」被害男性の母 増える外国人交通事故 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Z0JzRGVLUDdKX1BYaGVrUm9GUnoyYUxUY0FzZ0ZrSWlsVzQzTFNWS0NkX3NwcjVCMVpKRll6VmJ0ekNCN0F0dUpqZ3JjS09RMjVRUEN3VF9uNUw3U3FDM0dCaUczOE1hLXYwMHVtMTl0MkpNOUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-16 18:30",
-   "published_iso": "2026-07-16T09:30:14+00:00"
-  },
-  {
-   "title": "亡くなった山本優生さんの遺影（家族提供）",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmdpSEQzcG4yeVhyaEJUd2J0b19oS1pSVWhfS3Z6a0VMTHBNeUVZT24wQnpXdzVNZDEta3N6dWhtV3NXTUhXcFlhY0J1aEQ3ZjZJUHYzOThSOXdOT1VfSWdXa2I2S2t5ZnNnTjJ2ZkFMM3FrWW9acW43RVlfVWNHX2N5Vkp0V3ljSGNRcmhkM21aS1QzbGhYX0dJY2c3NFhreVE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-16 18:30",
@@ -312,14 +328,6 @@
    "published_iso": "2026-07-14T20:04:16+00:00"
   },
   {
-   "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDRUVU1TOHVmdnBFYlhVbnVEN2tlSjNkNk5uWG5ENDJLWVNXWHRqWklTR29MODJLaDV1NlBNZERiOXRRSGw4SG1mNXJHSVlkUElhZEFhcXRGdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-15 04:24",
-   "published_iso": "2026-07-14T19:24:29+00:00"
-  },
-  {
    "title": "【大規模洪水】バングラデシュで豪雨 54人死亡…100万人超が孤立 難民キャンプで続く懸命救助",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYno2ZndKSDZsbjhIakRrQm5LWC00RlJJTFczcjhwNFVCU3RSc3lReVBOWUNUeHhZR2phVTEwSTNYQUlCSk15OWQxX2pEWW5JY1BQNXE5MnE0SGQzdUFOaG1wNkY5aDlfVFJ4Mk52NzFHMHdhcXZKZmNjdUJ5X2NsZlVRUXM?oc=5",
    "source": "日テレNEWS NNN",
@@ -382,14 +390,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-07-14 11:03",
    "published_iso": "2026-07-14T02:03:12+00:00"
-  },
-  {
-   "title": "ドイツの移民政策から見た日本への示唆 昔農・明治大准教授に聞く",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bnVCbW1aOEJZdTgwUzVIUnFjb2hWeWlfaDkwRnNYR0Y2aHZoMHBnUDZaOF9URl9SRGFGbG5IdEhuTnpBMm8tM2NCRUUxczR1QW5mUnktSjQtdkx2d0JONG9EWk9qczg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 09:00",
-   "published_iso": "2026-07-14T00:00:00+00:00"
   },
   {
    "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
