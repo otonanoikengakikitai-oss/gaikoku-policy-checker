@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T18:04:07+00:00",
+ "generated_at": "2026-07-17T20:04:16+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -14,14 +14,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-18 02:00",
    "published_iso": "2026-07-17T17:00:00+00:00"
-  },
-  {
-   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUSGNfVXZPbHc3QXdRTE1kb2Z4eVRUamFWR2wzRzB4VXFlbXk3ZVY1X0FGRFdKSmFRMlA1QmhTaHNfODVUWjFnWWoyYllYWHk4RmNiT0lsN0Z4Y1F1dlhfaVZCeC14VC0zX1U4?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-18 01:15",
-   "published_iso": "2026-07-17T16:15:00+00:00"
   },
   {
    "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
@@ -248,14 +240,6 @@
    "published_iso": "2026-07-16T04:56:46+00:00"
   },
   {
-   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-16 11:21",
-   "published_iso": "2026-07-16T02:21:43+00:00"
-  },
-  {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -406,6 +390,22 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-14 13:02",
    "published_iso": "2026-07-14T04:02:26+00:00"
+  },
+  {
+   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 11:41",
+   "published_iso": "2026-07-14T02:41:00+00:00"
+  },
+  {
+   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-14 11:03",
+   "published_iso": "2026-07-14T02:03:12+00:00"
   }
  ]
 }
