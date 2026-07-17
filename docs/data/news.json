@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T20:04:16+00:00",
+ "generated_at": "2026-07-17T21:51:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NjEtQ2VjODV2ZnNsaHBUZXRiUFRReTR1MmF1M0VpZmZfSXBkWmt1ZHJkaDdtZGczOExCUThKOE5sWHJaTS14SkNEaW84SDNzVEJoSTJHcGRmN25naW9FT3V5enB5MmdmbHhnTA?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-18 05:10",
+   "published_iso": "2026-07-17T20:10:00+00:00"
+  },
   {
    "title": "移民は悪か？ イアン・ゴールディン著 移動の人類史から見る世界",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFanFNSzZtRkVmcmVLQzJiczBtYlBYbmlHN1l2QzdHcmo5OFBRQlYwUGxvRUMtZHVlRWRpYjZnX3F6TUh2RXA5S2J4NDdBelRwLVRoR0pFMnV1bkI1S0xXcGJTbVRFUWt4WXhIYg?oc=5",
@@ -136,14 +144,6 @@
    "published_iso": "2026-07-17T03:53:00+00:00"
   },
   {
-   "title": "【京都外国語大学】地元の小中学生と外国人観光客を言葉でつなぐ！「保津川下り 外国人観光客アンケート調査」に本学学生が語学サポーターとして今年も参加（７月25日～７月31日）",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uWVNzcnJPbEVtRG5vWmxOaGVrSDhSeDBLd2RLRjNYSVg1Zlljc05tNVpoeEdVa0tab0x4elpGMWlTSm5rRjdMRVdMOV83SjhXc21vaEd3YnRBRk50VV9sYVpZQzYzR084ZVY0?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-17 10:46",
-   "published_iso": "2026-07-17T01:46:00+00:00"
-  },
-  {
    "title": "サッカー吉田麻也選手、米国永住権取得 外国人枠から外れる 所属の米クラブが発表",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUc2Vms5Q0xxLXBhNFBTQlNWdzN2OE9aNmVpTUJBOUl6MjZ6MDllTmlzRUhQU0RtZTlQZmk1UGRlMXozcWpVOHJsOVNfM3dtSE9Xa2lQa3pUMWl3alI5dFljZmZmbHZLYThCd0p3YkhXcWI1Z3UxQThWNjFlX01oWmRnazRkSU1ZRnNkdkstWmJoeVo2LVhBbzg3THlSOHhPSWEyM1JSSQ?oc=5",
    "source": "産経ニュース",
@@ -240,6 +240,14 @@
    "published_iso": "2026-07-16T04:56:46+00:00"
   },
   {
+   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-16 11:30",
+   "published_iso": "2026-07-16T02:30:00+00:00"
+  },
+  {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -268,14 +276,6 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yRDZPaEUwS1VocVdPODAwaU54elJPUzVmQmU1Mi1QQW9PZkFWWGpmbGFIcU5OWjM3WDZtbE5QZ2xXUEVVWTdqeFFidw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-07-16 05:00",
-   "published_iso": "2026-07-15T20:00:00+00:00"
-  },
-  {
-   "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
    "published": "2026-07-16 05:00",
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
@@ -360,6 +360,14 @@
    "published_iso": "2026-07-14T12:00:00+00:00"
   },
   {
+   "title": "同志社女子大学×同志社大学×京田辺市 多文化共生地域イベント「親子でキンパ作り」開催について",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lOWxLUWIyUnRSVW12Sk4zdlFuZ3RjTFBpbVF1WWQzU3d3T2E2NW1qcXlDaklHWVF4WkdqZUstbXRMd2lGTjFGbzFYVlUydGV6LXpMeFVOMWN3Zw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-14 20:21",
+   "published_iso": "2026-07-14T11:21:16+00:00"
+  },
+  {
    "title": "特定技能でバス運転手に 関東自動車のアウンさん（ミャンマー出身）本格デビュー、業界の人手不足に光",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MX1lMbm82LXNDZTY0ZVF3LVFsOGl2VThTMjFKV1c4WDFmUV95WU4xakZoUnpDRzk4OTlsTldlT00zemNQZmdLNXNDSQ?oc=5",
    "source": "47NEWS",
@@ -398,14 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 11:41",
    "published_iso": "2026-07-14T02:41:00+00:00"
-  },
-  {
-   "title": "日本からの海外送金が1兆円超で過去最大 10年で2倍以上に 外国人労働者の増加を反映",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrZERtUlkzcERncEg4Q0dRNVRDdE4yeThLMHlVaXREaENRZXhuUS1BQm56MzNqUTN3N083VE9HbGZ3TzRHQjIxaW1NWTJLWmtTSEpWU0owRm82NzdBaEcwR0lLbmlDVlB0MjM3c3hxRVFMZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-14 11:03",
-   "published_iso": "2026-07-14T02:03:12+00:00"
   }
  ]
 }
