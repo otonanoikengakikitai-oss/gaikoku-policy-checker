@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T22:46:56+00:00",
+ "generated_at": "2026-07-17T23:50:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,6 +38,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-17 21:59",
    "published_iso": "2026-07-17T12:59:52+00:00"
+  },
+  {
+   "title": "外国人か5人乗車のレンタカー踏切事故 5人ケガをし病院搬送 列車の乗客・乗務員にケガなし 北海道・上富良野町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NX2RNcVNBWEdNY1RzSWNwbDljZGRxZDcxYllzeThsYUNRSUNhSUxNM2cxUkRNQlBRc0VFUllRdXdXZEQ3TWVabGpUeTlqZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 20:21",
+   "published_iso": "2026-07-17T11:21:00+00:00"
   },
   {
    "title": "「ノー！電話だめ！」寸劇で学ぶ自転車ルール 富山のイスラム教礼拝堂で外国人向け講習会",
@@ -89,7 +97,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -238,6 +246,14 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-07-16 13:56",
    "published_iso": "2026-07-16T04:56:46+00:00"
+  },
+  {
+   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-16 11:30",
+   "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
    "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-14 15:30",
    "published_iso": "2026-07-14T06:30:00+00:00"
-  },
-  {
-   "title": "「世界は変えられない、けれど…」 ケイト・ブランシェットさん、難民映画作家支援",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DaEJFUHhhR2VqSnJSSmhfTEU2Z0d3dmc4VHM0ODRCNmx0aEx1RHB1Q3Q3VWhBRVM1TzNCa0tGNDlwTUtLUTlvNjR1b0VSa29veWYtU2h3MFBCTVExLVBwbmsyaFJxLW1V?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-14 13:02",
-   "published_iso": "2026-07-14T04:02:26+00:00"
-  },
-  {
-   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 11:41",
-   "published_iso": "2026-07-14T02:41:00+00:00"
   }
  ]
 }
