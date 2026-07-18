@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T05:23:13+00:00",
+ "generated_at": "2026-07-18T07:45:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-18 15:30",
+   "published_iso": "2026-07-18T06:30:00+00:00"
+  },
+  {
    "title": "学生記者から大越健介キャスターに直言！ 多文化共生テーマにリアルイベント",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQzRNLU5LYUJfcGZJVjNCa1FHS2xDN2xhTDNSOWRjYmVKdVRENUJhckY5eEhTOE05LXpQelo1WTN1cDVNeVVlYmNXVzh3RHJselBuRFBR?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-18 10:00",
    "published_iso": "2026-07-18T01:00:00+00:00"
-  },
-  {
-   "title": "【10社限定・3ヶ月無料】外国人ドライバーの「言葉の壁」を解消する業務支援アプリ「Coco-Logi Works」先行モニター企業の募集を開始｜船井総研サプライチェーンコンサルティング",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TcGtzUlRnaFRFb29lZnhGLTZlMm83QkhBaVhlV3FjalNzQ0oxNlY0UFFsMnNoaVNQMkJlSWNVcTlRdDgyZGlXUVdWelMxWnUwV0lKQmZTWHFjbDlWOTlSNmZMSnAzbDkxY201VkhYRnAxU2thSUdGOTZ0Yw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-18 08:50",
-   "published_iso": "2026-07-17T23:50:00+00:00"
   },
   {
    "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
@@ -64,14 +64,6 @@
    "published_iso": "2026-07-17T11:21:00+00:00"
   },
   {
-   "title": "「ノー！電話だめ！」寸劇で学ぶ自転車ルール 富山のイスラム教礼拝堂で外国人向け講習会",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44U0NYWTFpdDJhQ1FwNGkyRjNYcG1zVDhKckwtanhpaDJIMFl1RFdZRWp1TFNfbVpKU3hIMlZRRW1hNGtkNUlfT09jZEg2Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-17 20:00",
-   "published_iso": "2026-07-17T11:00:00+00:00"
-  },
-  {
    "title": "外国人に日本の交通ルールを 富山県警が自転車交通安全講習会開く（2026年7月17日掲載）｜KNB NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJDSzROaTNMWFhrUkdOZHM3MDVRWmJnenoxdnlGQnB3ZExIbzdDT1ZGNWFLbDVTdXdURE4yN0hOLXRaczBGc0JoR204bXgyZHpPbzR6RFR4bGNucG15RTd3ZjZNZGo0TmVuUHpYM0hFTjNMX1BIMVpzSThkRUtiOW5fQV9RQlk?oc=5",
    "source": "日テレNEWS NNN",
@@ -86,22 +78,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-17 19:17",
    "published_iso": "2026-07-17T10:17:28+00:00"
-  },
-  {
-   "title": "楽天の新外国人・マルテが来日 2025年には中日で35試合に登板、手薄なブルペン陣の一角として期待",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBncXE1ZjNQR1JvTWdTeklMUVlwcElBNmVqejNfOFowNGxIMW9YYndiVGxCU2VtT1FBdHJKY3BGY1ctU1BuZ3B5Q1d6ZnZwLUcxV1FZVA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-17 18:46",
-   "published_iso": "2026-07-17T09:46:05+00:00"
-  },
-  {
-   "title": "吉田麻也がアメリカ永住権を取得 LAギャラクシーの「外国人枠」対象外に W杯にも帯同し献身",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WUJUN0hsanI2dEpJX1BuRlFjWERSMElDRVY0b1lyUjBKdGlWcGJmNXhrTnpMSE83RFhRZEJwWXZtZTFtZ1hwS3NYeEF3NTJYeHNKV2trYmh0RGJ4NWRIY1ViOU9TTGFfeENSU1cyYlcwRkdKM1pPNEhfUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-17 17:40",
-   "published_iso": "2026-07-17T08:40:00+00:00"
   },
   {
    "title": "外国人材の採用へ…福岡の企業と韓国の大学生が交流会「マッチングの機会に」企業選びや価値観など意見交換",
@@ -137,11 +113,19 @@
   },
   {
    "title": "ヤクルトの3投手が継投ノーヒットノーラン 外国人のみでは史上初",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R0kzaG01QXRaWHR5VEY2TmtFeU9JU2I3UlV5djB3V1JCdnBQMDBwT1JOeVZiUHJ3anlvNDRTd2x4UEUzNHJfMjRqODhfZEI5UlVsVWhodmJhUFgweHNWUGxoaGtpWXU1anc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLbDhRNEpHUTlxT0NYdklwYmV6TG55cmhQQzZkTmtESW5rWDNjTmZhYkx1LWFjeU95N19BUm9aaU1ZZGk2OFJfbEdfelg4YXNSVnczc2hEbnBFbE9DckRXZHo2dGNrd1hSQlE?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-07-17 15:06",
-   "published_iso": "2026-07-17T06:06:55+00:00"
+   "published": "2026-07-17 13:32",
+   "published_iso": "2026-07-17T04:32:53+00:00"
+  },
+  {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OLTBHQURYN1VzZHlmLUtydHY2Tk53ZDZkUFFiQXdaTC1vdVFSem5CdGVOZm1kcXV4X1d1ZTRKMW9wRFVGV19pN0ZZVTlndGQ5dm8yNHI2UXROUWJ0cDNRRGVEY2ZDdy1OTVlZRnlPS0ZRUQ?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-17 13:00",
+   "published_iso": "2026-07-17T04:00:00+00:00"
   },
   {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
@@ -150,6 +134,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-17 13:00",
    "published_iso": "2026-07-17T04:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権がビザ滞在期間を短縮する新規則を発表…外国人の管理を強化するねらい",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41eDYxbzJVZUo4aVg4Tm5ZNGNpdERUTHVNUzFCQkdFTGRSS0FCNGgxRFZGUi1pVGpWZk9pMktrRDRmOU15SHBpX3diU1hZRVNMa0FWdG84N2l1VnpybFBRUmhB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-17 12:53",
+   "published_iso": "2026-07-17T03:53:00+00:00"
   },
   {
    "title": "サッカー吉田麻也選手、米国永住権取得 外国人枠から外れる 所属の米クラブが発表",
@@ -225,7 +217,7 @@
   },
   {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LNzRhUkhqX0NOWFUwdVQ2YTdyMWFxNkhmMHVwV01zWUdZQ3lxMzJKeFg1bXdmbjQ1QUx2b3Q1SE9ORlFCdVZmYld6ZUNKblB3V0s0V2FKTHBwaUw2UXBBalBDOA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54aXdXa2dxTGVCVGJEMGZKODd0X2lydDlxYTVzZTVraUdfbHNDaDN1SVpNMkZWNlVLWHJqN0lTNjJaUm4tazZudFlKd1dOQVJ1R24yTVRMc0RqR3dic0NaOVVvbw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-16 17:05",
@@ -280,14 +272,6 @@
    "published_iso": "2026-07-15T21:00:00+00:00"
   },
   {
-   "title": "外国人労働者「ルール整備前提に受け入れを」53％ 「慎重に進めるべき」3割 長野県民世論調査",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBWmVyU2lMbk9rWGpoZkppejd4M3pQbG1KX2Z4R2w3U0FlMmptRFI2QlN2SHVHeHY2alRLdE84MzJEcG8weWxRV0Zzb2FYQXluTm8yWXd4eXFsU00wR0xzUXN1S1FxNGpKVWtwRllhbVI?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-16 06:00",
-   "published_iso": "2026-07-15T21:00:00+00:00"
-  },
-  {
    "title": "車止めようと相次ぎ射殺、米移民摘発に伴う車両停止で反発広がる…トランプ氏は擁護「最も効果的な犯罪対策」",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13LVpsNHplQWVHTWs3QnhuZkpnelZaWDRhb0E0UzZFVEdQcjVBZFpQaVlHZDREaXhoa3V0V251bjlfZngtUzBPcHA4ZVBobUNxZGZQZ1l3VDgxcEMzSGVjLTdn?oc=5",
    "source": "読売新聞",
@@ -310,6 +294,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-15 18:26",
    "published_iso": "2026-07-15T09:26:30+00:00"
+  },
+  {
+   "title": "県内企業と外国人をつなぐ就職面接会 徳島市で開催【徳島】（2026年7月15日掲載）｜JRT NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0xwZ2U3LTRqZUI2c0ZBVGJIbTM4cDk1OERsZkgxTmc2U2pNb1dIdUNOQzZ6Y0pHakUzbHBOU0tXR0xlXzIyczdCTGptNVl3UzdRdjFvb2dXcjdxbmt0aDBaeXlQS0tTWnl4YTZuQUFnaEtKb29hZWladTJHMWRSNW5XbFVqdlE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-15 18:15",
+   "published_iso": "2026-07-15T09:15:00+00:00"
   },
   {
    "title": "トルコ行進曲とともにやってくる♪＜買い物難民＞助ける移動商店…集落めぐり高齢者の安否確認・気分転換も",
@@ -406,6 +398,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 11:41",
    "published_iso": "2026-07-14T02:41:00+00:00"
+  },
+  {
+   "title": "ドイツの移民政策から見た日本への示唆 昔農・明治大准教授に聞く",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bnVCbW1aOEJZdTgwUzVIUnFjb2hWeWlfaDkwRnNYR0Y2aHZoMHBnUDZaOF9URl9SRGFGbG5IdEhuTnpBMm8tM2NCRUUxczR1QW5mUnktSjQtdkx2d0JONG9EWk9qczg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-14 09:00",
+   "published_iso": "2026-07-14T00:00:00+00:00"
   }
  ]
 }
