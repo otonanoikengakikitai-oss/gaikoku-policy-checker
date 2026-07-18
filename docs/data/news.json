@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T15:54:21+00:00",
+ "generated_at": "2026-07-18T16:55:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -102,6 +102,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-17 17:40",
    "published_iso": "2026-07-17T08:40:00+00:00"
+  },
+  {
+   "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-17 17:30",
+   "published_iso": "2026-07-17T08:30:00+00:00"
   },
   {
    "title": "【速報】五色沼湖沼群遊歩道でクマに襲われ外国人女性が腕などけが 福島・北塩原村",
@@ -222,14 +230,6 @@
    "source_domain": "jiji.com",
    "published": "2026-07-16 17:05",
    "published_iso": "2026-07-16T08:05:00+00:00"
-  },
-  {
-   "title": "プレスリリース：外国人材のAI定着支援プラットフォーム「KIZASHI」、利用企業250社を突破 - 無料体験も受付中（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xOXFubV90d0FZbXUzN0NNNkJCMENTbnJnU3RmTVkwNWE4bFJxLXNMaDFhaHdxZXJ0SVktRXlsTXZzRmtocG1VOGhBOVEyQ1NOLTNQX1BtVWp3eXhoNGpsaXg2WXNQNS1x?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-16 14:52",
-   "published_iso": "2026-07-16T05:52:20+00:00"
   },
   {
    "title": "私とあなたと、働く外国人～共生の道のりは～「首都圏情報 ネタドリ!」",
