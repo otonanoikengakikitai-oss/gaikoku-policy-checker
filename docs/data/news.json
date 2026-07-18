@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T22:46:04+00:00",
+ "generated_at": "2026-07-18T23:51:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【日本も「同じ末路」に?】“EU外”の移民が大幅増／GDP4%分の打撃／2大政党制は崩壊／エネルギー価格は先進国で最高値／ ブレグジットは世界全体を分断した【CROSS DIG DOCUMENT】",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTWZHb2dRN3lzU1dOM1FmRVF6T2ZpZE1pdmFOS1JBV3FNMVFWMkVKS0s5M3dTcGtrQzdmYU4taEdoSlVlckF5Y3hrUks2cW5KWTlPbHZKc0V1OEdqN3dmdnk3UlZ3XzZpb3ZOUHdVRWJEeFVY?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-19 08:00",
+   "published_iso": "2026-07-18T23:00:00+00:00"
+  },
   {
    "title": "（今さら聞けない世界）インド観光名所、外国人は入場料が２２倍 蛯澤俊典さん",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DUGoybHQ3R29aN1hNVjlhV0JSUXFOMmJHdktSa25tMjg3Yncxc3ZSWmE0SV9RZHZXUlVibl80QkF0UWE4RmVVTXN4NktHdi0yQ001Uk4tYkdTYzdq?oc=5",
@@ -97,7 +105,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -398,14 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 07:29",
    "published_iso": "2026-07-13T22:29:00+00:00"
-  },
-  {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
   }
  ]
 }
