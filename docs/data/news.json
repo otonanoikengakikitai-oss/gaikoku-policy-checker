@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T19:00:20+00:00",
+ "generated_at": "2026-07-18T20:42:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "（今さら聞けない世界）インド観光名所、外国人は入場料が２２倍 蛯澤俊典さん",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DUGoybHQ3R29aN1hNVjlhV0JSUXFOMmJHdktSa25tMjg3Yncxc3ZSWmE0SV9RZHZXUlVibl80QkF0UWE4RmVVTXN4NktHdi0yQ001Uk4tYkdTYzdq?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-19 05:00",
+   "published_iso": "2026-07-18T20:00:00+00:00"
+  },
   {
    "title": "【サーカスＱ＆Ａ】 何カ国の外国人が働いているの？",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55NkhuSVIxb29TdWI0Y2dCek5zYzNQdDlhUThtUEd6OERtV2ctT1lPX0Qtcy1pS2dINVRnQVBMV3k1UDJxdmN2eVVVbw?oc=5",
@@ -57,11 +65,11 @@
   },
   {
    "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBV00yWG1Pa0lNOFpkQ1htM1h4b3VvNGRyazNULTluaVNhaWg3ZW9Gc3YyZTJOMFlxZ01Ydy1YWUhfN1dQdHktd1Vscw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-17 22:40",
-   "published_iso": "2026-07-17T13:40:00+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBscGFObkNiTGZHSkEyZ05ndk1KVG5LNUlqbjNwZkhwSWR1MWZYaUptUUNneGRtLVhxVTVLZVNRd2lWcTBLYzZzQkluWU9uYUtTR3hUWjdBVUNSVnJHcTZMU0RRVEhYdw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-17 22:10",
+   "published_iso": "2026-07-17T13:10:51+00:00"
   },
   {
    "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
@@ -70,6 +78,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-17 21:59",
    "published_iso": "2026-07-17T12:59:52+00:00"
+  },
+  {
+   "title": "外国人か5人乗車のレンタカー踏切事故 5人ケガをし病院搬送 列車の乗客・乗務員にケガなし 北海道・上富良野町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NX2RNcVNBWEdNY1RzSWNwbDljZGRxZDcxYllzeThsYUNRSUNhSUxNM2cxUkRNQlBRc0VFUllRdXdXZEQ3TWVabGpUeTlqZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 20:21",
+   "published_iso": "2026-07-17T11:21:00+00:00"
   },
   {
    "title": "外国人に日本の交通ルールを 富山県警が自転車交通安全講習会開く（2026年7月17日掲載）｜KNB NEWS NNN",
@@ -94,14 +110,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-17 17:40",
    "published_iso": "2026-07-17T08:40:00+00:00"
-  },
-  {
-   "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-17 17:30",
-   "published_iso": "2026-07-17T08:30:00+00:00"
   },
   {
    "title": "【速報】五色沼湖沼群遊歩道でクマに襲われ外国人女性が腕などけが 福島・北塩原村",
@@ -264,14 +272,6 @@
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
   {
-   "title": "きょうはなんの日？ 7月16日 外国人力士の日",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 00:00",
-   "published_iso": "2026-07-15T15:00:00+00:00"
-  },
-  {
    "title": "「日本で育ったのに見捨てられて」…クルド人の高校生や大学生が日常や将来への不安を訴え 国会内で集会",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWdl92MnRMMl8wTXF3STJIOGlxTmhFZDNscnh5akpBN0RhQ2NZYU0zMUZnZTNzUUNvaVpFbkRRVjVLWm0xcGVGNFc2b3Q0WGNGNE5F?oc=5",
    "source": "東京新聞デジタル",
@@ -320,12 +320,12 @@
    "published_iso": "2026-07-14T22:56:07+00:00"
   },
   {
-   "title": "北波多中で子ども服回収→難民へ 「ユニクロ」「ジーユー」のプロジェクトに参加 唐津市",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5S2F1c3EweU84WUJ3N0MtOEFjdTJYX0VEeklIU0Z3czU0elp6TmpDYW5BRnBrSW8xYkxQN0pNS1pqMXI4bnZGbmFTTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-15 06:30",
-   "published_iso": "2026-07-14T21:30:00+00:00"
+   "title": "移民・税関捜査局（ICE）に抗議し、「ICEはナチ、クズ」とのプラカードを掲げる人たち＝14日、メーン州ビデフォード（ロイター＝共同） - 移民捜査で車両検問停止 米東部の射殺事件受け - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjSGJqYVFLWXlXNUF4YmNISTBfbjNxV0xSM3k3S3d6Yng5dnQ3OFlua2NPR2FQX0NGeE81eUcxR3hVQjdnNTdlSFdaZVNiZkVPX0ptb21NYw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-15 07:26",
+   "published_iso": "2026-07-14T22:26:24+00:00"
   },
   {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
