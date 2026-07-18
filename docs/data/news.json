@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T09:22:12+00:00",
+ "generated_at": "2026-07-18T11:01:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,6 +38,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-18 02:00",
    "published_iso": "2026-07-17T17:00:00+00:00"
+  },
+  {
+   "title": "株式会社ジャフプラザ、外国人材・留学生の“住まいの受け皿”を大阪圏で強化",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Yk5XdmVOMGRPeG5qUDFBU01yZjQ2VFp0VmxrRWxtc3ctcllsVjJyM2R0cTN5NUNYTzdiTVN0T2ZOR2kzOFB1UmJZTUlQSzZqd2l2alozOUQxZ2N0UEI4bEc2bno4QVZoMkpB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-17 23:10",
+   "published_iso": "2026-07-17T14:10:00+00:00"
   },
   {
    "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
@@ -264,6 +272,14 @@
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
   {
+   "title": "きょうはなんの日？ 7月16日 外国人力士の日",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 00:00",
+   "published_iso": "2026-07-15T15:00:00+00:00"
+  },
+  {
    "title": "カンヌ独占取材 ユニクロ柳井康治氏が語る「難民支援と映画の力」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xaXAybWtaUlp0dWs0TVR2Nm5aekZIRVRtNFV4eEMtN25jQnp1Z0pNdTFNQUdMRmdGeWw0RGFENzVzOUxheDZHQ1BndldybHNzZW02bWJ5ZHc3Rk1vcDBlU0FWYThmQQ?oc=5",
    "source": "日経クロストレンド",
@@ -310,6 +326,14 @@
    "source_domain": "47news.jp",
    "published": "2026-07-15 06:30",
    "published_iso": "2026-07-14T21:30:00+00:00"
+  },
+  {
+   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-14 22:11",
+   "published_iso": "2026-07-14T13:11:09+00:00"
   },
   {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
@@ -382,30 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-14 07:45",
    "published_iso": "2026-07-13T22:45:36+00:00"
-  },
-  {
-   "title": "移民税関捜査局の職員が発砲、コロンビア人の男性死亡 アメリカ・メーン州（2026年7月13日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT05BdkhBeDYySFlVZm9QYnJTbWlaWUVQLU1scGp1X3JENWs4S3AwUDc5NmNKLUVLYXVmZXRyR1pFbE94dFIwdDRZUk5HY3h5WmxPd0NsX3VhNlVINVl4VVhYUlhQMkNXcFBYS2pGTnJxMTNnWWZiZldaTkpHcUJhUDdOZE8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 07:29",
-   "published_iso": "2026-07-13T22:29:00+00:00"
-  },
-  {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "＜ポッドキャスト＞ミャンマー難民の今 いまだ帰れない人々",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV05fNldoUlhpckNTZno2WHRNQUlqZ0VqellnOWZBU1MtejFiQ1pRVHBJamtmZ3IySHQwQ0ZadWFGY1RaV1FDNm9ZNHItSUtTdFlIbElmeG5SbHpRZVhvNXFXOUh5dVZC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-13 17:00",
-   "published_iso": "2026-07-13T08:00:00+00:00"
   }
  ]
 }
