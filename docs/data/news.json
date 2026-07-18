@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T16:55:41+00:00",
+ "generated_at": "2026-07-18T19:00:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -72,14 +72,6 @@
    "published_iso": "2026-07-17T12:59:52+00:00"
   },
   {
-   "title": "外国人か5人乗車のレンタカー踏切事故 5人ケガをし病院搬送 列車の乗客・乗務員にケガなし 北海道・上富良野町",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NX2RNcVNBWEdNY1RzSWNwbDljZGRxZDcxYllzeThsYUNRSUNhSUxNM2cxUkRNQlBRc0VFUllRdXdXZEQ3TWVabGpUeTlqZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-17 20:21",
-   "published_iso": "2026-07-17T11:21:00+00:00"
-  },
-  {
    "title": "外国人に日本の交通ルールを 富山県警が自転車交通安全講習会開く（2026年7月17日掲載）｜KNB NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzJDSzROaTNMWFhrUkdOZHM3MDVRWmJnenoxdnlGQnB3ZExIbzdDT1ZGNWFLbDVTdXdURE4yN0hOLXRaczBGc0JoR204bXgyZHpPbzR6RFR4bGNucG15RTd3ZjZNZGo0TmVuUHpYM0hFTjNMX1BIMVpzSThkRUtiOW5fQV9RQlk?oc=5",
    "source": "日テレNEWS NNN",
@@ -105,7 +97,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -216,14 +208,6 @@
    "published_iso": "2026-07-16T09:30:14+00:00"
   },
   {
-   "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-16 18:25",
-   "published_iso": "2026-07-16T09:25:00+00:00"
-  },
-  {
    "title": "在留手数料上げ、賛成５割 時事世論調査",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54aXdXa2dxTGVCVGJEMGZKODd0X2lydDlxYTVzZTVraUdfbHNDaDN1SVpNMkZWNlVLWHJqN0lTNjJaUm4tazZudFlKd1dOQVJ1R24yTVRMc0RqR3dic0NaOVVvbw?oc=5",
    "source": "時事ドットコム",
@@ -302,6 +286,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-15 18:26",
    "published_iso": "2026-07-15T09:26:30+00:00"
+  },
+  {
+   "title": "トルコ行進曲とともにやってくる♪＜買い物難民＞助ける移動商店…集落めぐり高齢者の安否確認・気分転換も",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZLTZiWkFrREZ5bEhoaXNyUzFGclRVX25fWnAxempkQm1XSk9sOGxRRUZGQWhHcVJ5OFd1WDZ1UUczNnh1UTVUR2drMlVFaTZIZndHeWI1WmxiWG5pTTcwQ1JqNlNZZHpZNFZKeEUxNEpydw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-15 17:34",
+   "published_iso": "2026-07-15T08:34:00+00:00"
   },
   {
    "title": "「小野田大臣が一生懸命」高市早苗首相、外国人問題で人口戦略作り 参政・神谷氏に答弁",
@@ -406,6 +398,14 @@
    "source_domain": "jiji.com",
    "published": "2026-07-14 08:12",
    "published_iso": "2026-07-13T23:12:00+00:00"
+  },
+  {
+   "title": "米東部メーン州 ICE（移民当局）の発砲で1人死亡 コロンビア出身の男性（26）で就労許可あり 職場に向かうところ発砲される",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZUVNNXdTTzlvYTBaYmpYeUFaTGk4SzlIQXZ4cVhSaDRPYzlZME82ZGFsOGJ0dXV3a2FpX1BaOGNMZE1HOF9ZWmlhWm9LZFZoYk1IWmtfQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-14 07:45",
+   "published_iso": "2026-07-13T22:45:36+00:00"
   }
  ]
 }
