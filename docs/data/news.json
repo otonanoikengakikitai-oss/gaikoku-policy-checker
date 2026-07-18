@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T23:50:37+00:00",
+ "generated_at": "2026-07-18T02:11:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,8 +8,24 @@
  ],
  "items": [
   {
+   "title": "学生記者から大越健介キャスターに直言！ 多文化共生テーマにリアルイベント",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQzRNLU5LYUJfcGZJVjNCa1FHS2xDN2xhTDNSOWRjYmVKdVRENUJhckY5eEhTOE05LXpQelo1WTN1cDVNeVVlYmNXVzh3RHJselBuRFBR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-18 10:00",
+   "published_iso": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUSGNfVXZPbHc3QXdRTE1kb2Z4eVRUamFWR2wzRzB4VXFlbXk3ZVY1X0FGRFdKSmFRMlA1QmhTaHNfODVUWjFnWWoyYllYWHk4RmNiT0lsN0Z4Y1F1dlhfaVZCeC14VC0zX1U4?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-18 07:10",
+   "published_iso": "2026-07-17T22:10:00+00:00"
+  },
+  {
    "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NjEtQ2VjODV2ZnNsaHBUZXRiUFRReTR1MmF1M0VpZmZfSXBkWmt1ZHJkaDdtZGczOExCUThKOE5sWHJaTS14SkNEaW84SDNzVEJoSTJHcGRmN25naW9FT3V5enB5MmdmbHhnTA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMjQyaEZ4aXhXT19wVWZJYlpUZFpGVU81RzZfemJ4V2c5WmNFQ2JIT1V5cEhZcmpNaHE0RlZFaHdDLThsT3dZS01OQkRXYUxaQXQyQTlCY2tFYVE1QmlPVy1wUGtaQXRaVm5v?oc=5",
    "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-18 05:10",
@@ -97,7 +113,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -121,7 +137,7 @@
   },
   {
    "title": "「不法滞在とみられる外国人がいるようだ」最長9年、ベトナム国籍の男女6人摘発＝静岡県警など",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUUo4OU1WcXF2Y3hYalZpUk5XWVMxZnV4TTQ2Zk9DUHZKMGlKd08xOXNjZ2kwS0E5YlczbE9BSWFtaEVkTUh2RDRVM0VtM3FxS1RQX0IybWhRdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBySzVrTDEwdU5sVmdERkJXYXVtdnZfYjZJcU53ZkViNEsyZE8wV29TUFlPcF80WGYyYno5Wk9GQjZ2OHVub1dweEtiMzRxWExPUThIcmdVdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-17 16:10",
@@ -158,14 +174,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-17 10:32",
    "published_iso": "2026-07-17T01:32:13+00:00"
-  },
-  {
-   "title": "吉田麻也、米国永住権取得＝外国人枠から外れる―米サッカー",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSmlKLTFTakZnWnkxUThkWUR1cWFyekhuaWpxQy04anY0OEg3N3Q4aUJHaWE0SzBGam5GZXpzY1ZZV3lvcXVZVVpWNUVKaUt3ajIxXw?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-07-17 09:46",
-   "published_iso": "2026-07-17T00:46:00+00:00"
   },
   {
    "title": "富士山周辺で外国人観光客のレンタカー事故が急増 「止まれ」標識や左側通行に戸惑い 事故は4年で20倍超",
@@ -366,14 +374,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-14 21:41",
    "published_iso": "2026-07-14T12:41:40+00:00"
-  },
-  {
-   "title": "熊本県が家事支援の外国人材の受け入れ事業で企業１社を初認定「負担軽減に」国の特区を活用【熊本発】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FYW1wMGNfTlhlcHRJTjZJeE93Q2ZVd0ZsdWhYTGkydk9rdm9EcTVyUElRbG9JWW12NExBMnlzYmxhVWJSWExfaHZuSFNCQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-14 21:00",
-   "published_iso": "2026-07-14T12:00:00+00:00"
   },
   {
    "title": "同志社女子大学×同志社大学×京田辺市 多文化共生地域イベント「親子でキンパ作り」開催について",
