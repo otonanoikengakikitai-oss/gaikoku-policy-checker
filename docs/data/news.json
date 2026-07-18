@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T13:08:36+00:00",
+ "generated_at": "2026-07-18T14:49:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【サーカスＱ＆Ａ】 何カ国の外国人が働いているの？",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55NkhuSVIxb29TdWI0Y2dCek5zYzNQdDlhUThtUEd6OERtV2ctT1lPX0Qtcy1pS2dINVRnQVBMV3k1UDJxdmN2eVVVbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-18 23:07",
+   "published_iso": "2026-07-18T14:07:02+00:00"
+  },
   {
    "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
@@ -94,14 +102,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-17 17:40",
    "published_iso": "2026-07-17T08:40:00+00:00"
-  },
-  {
-   "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-17 17:30",
-   "published_iso": "2026-07-17T08:30:00+00:00"
   },
   {
    "title": "【速報】五色沼湖沼群遊歩道でクマに襲われ外国人女性が腕などけが 福島・北塩原村",
@@ -272,14 +272,6 @@
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
   {
-   "title": "きょうはなんの日？ 7月16日 外国人力士の日",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 00:00",
-   "published_iso": "2026-07-15T15:00:00+00:00"
-  },
-  {
    "title": "「日本で育ったのに見捨てられて」…クルド人の高校生や大学生が日常や将来への不安を訴え 国会内で集会",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWdl92MnRMMl8wTXF3STJIOGlxTmhFZDNscnh5akpBN0RhQ2NZYU0zMUZnZTNzUUNvaVpFbkRRVjVLWm0xcGVGNFc2b3Q0WGNGNE5F?oc=5",
    "source": "東京新聞デジタル",
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-14 07:45",
    "published_iso": "2026-07-13T22:45:36+00:00"
+  },
+  {
+   "title": "移民税関捜査局の職員が発砲、コロンビア人の男性死亡 アメリカ・メーン州（2026年7月13日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT05BdkhBeDYySFlVZm9QYnJTbWlaWUVQLU1scGp1X3JENWs4S3AwUDc5NmNKLUVLYXVmZXRyR1pFbE94dFIwdDRZUk5HY3h5WmxPd0NsX3VhNlVINVl4VVhYUlhQMkNXcFBYS2pGTnJxMTNnWWZiZldaTkpHcUJhUDdOZE8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 07:29",
+   "published_iso": "2026-07-13T22:29:00+00:00"
   }
  ]
 }
