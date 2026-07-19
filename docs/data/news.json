@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T22:49:28+00:00",
+ "generated_at": "2026-07-19T23:54:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -9,7 +9,7 @@
  "items": [
   {
    "title": "「やさしい日本語」で落語上演、外国人にも分かりやすく 神戸在住の桂かい枝さん、8月3日に公演会|文化",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNcWM3clo1QkxvQmtXSjI0SDQwY2pXV1ozSjZ3WUpjREViN2duTmNFMUVOMTZTSFh5UmNqQ3Q5ZV9uc1NPLXp0cW8wRTBELXYtYi1DOUwtT2xXMHVBcGxCN2N0ekRnNVdoWWRscFZqVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTGt5RTltS3MxT0FXbkJpYmJsU0V3SUl4ZzNLd04wYnh4ZUpWMGpHMlgydEluQ1FyMzdtWTBzUWlVLUEyS1NUQnRobTNEUVdlNFUtQl9UeERMZ3ZPNWVheVBKZ09wVGh3dXp5SUJB?oc=5",
    "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-20 05:10",
@@ -296,14 +296,6 @@
    "published_iso": "2026-07-16T09:25:00+00:00"
   },
   {
-   "title": "在留手数料上げ、賛成５割 時事世論調査",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54aXdXa2dxTGVCVGJEMGZKODd0X2lydDlxYTVzZTVraUdfbHNDaDN1SVpNMkZWNlVLWHJqN0lTNjJaUm4tazZudFlKd1dOQVJ1R24yTVRMc0RqR3dic0NaOVVvbw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-16 17:05",
-   "published_iso": "2026-07-16T08:05:00+00:00"
-  },
-  {
    "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
    "source": "産経ニュース",
@@ -353,11 +345,11 @@
   },
   {
    "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40YTJ0Z2JEQ0oyaVVNMEIyWXNmLTNSLV8xaWVTUGRUWjRrZU82QkRXb0l6WE5vc094OUNfVzlDWEt3ZklXMHBTUTNCQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-15 07:07",
-   "published_iso": "2026-07-14T22:07:00+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QQ250WXZHVktTbmtMcG1QaV9YbExJSENxZXNrZjZpZzJZc1dnWUktSnJZcVExbGZ0NTJXd0tBb2NPYTBUeXpQeE42NGM4X0k1Ui1HSHlJbkx3UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-15 07:15",
+   "published_iso": "2026-07-14T22:15:26+00:00"
   },
   {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
@@ -406,6 +398,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-14 06:00",
    "published_iso": "2026-07-13T21:00:00+00:00"
+  },
+  {
+   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-14 05:52",
+   "published_iso": "2026-07-13T20:52:43+00:00"
   }
  ]
 }
