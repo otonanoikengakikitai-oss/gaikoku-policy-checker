@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T23:51:28+00:00",
+ "generated_at": "2026-07-19T02:29:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -105,7 +105,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -126,14 +126,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-17 16:10",
    "published_iso": "2026-07-17T07:10:00+00:00"
-  },
-  {
-   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OLTBHQURYN1VzZHlmLUtydHY2Tk53ZDZkUFFiQXdaTC1vdVFSem5CdGVOZm1kcXV4X1d1ZTRKMW9wRFVGV19pN0ZZVTlndGQ5dm8yNHI2UXROUWJ0cDNRRGVEY2ZDdy1OTVlZRnlPS0ZRUQ?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-17 13:00",
-   "published_iso": "2026-07-17T04:00:00+00:00"
   },
   {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
@@ -270,6 +262,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-16 05:00",
    "published_iso": "2026-07-15T20:00:00+00:00"
+  },
+  {
+   "title": "きょうはなんの日？ 7月16日 外国人力士の日",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYU5FY3IwdjJrZExNb0pSb2RiN3RJcjA5WmxWcF8wcnJvZ3FiYmtfaWR2Zk51Um1oU2l3Ym1DSkNUcTBWdXVVUUsxVWVPRnhHbTREYUs0WkN0d0x3NzJIXzNGd2xCV3ZU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-16 00:00",
+   "published_iso": "2026-07-15T15:00:00+00:00"
   },
   {
    "title": "入管が収容したスリランカ人男性、栄養とれず丸1日 頼んだ栄養剤が支給されず…以前から食事とれない状態",
