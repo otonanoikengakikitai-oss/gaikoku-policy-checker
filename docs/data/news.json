@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T13:16:21+00:00",
+ "generated_at": "2026-07-19T14:53:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -14,6 +14,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-19 19:18",
    "published_iso": "2026-07-19T10:18:00+00:00"
+  },
+  {
+   "title": "熊本で暮らす外国人と高校生 ミニバレーボールで交流",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ScUZXZnlMemxJUHN2bzBsVjBuYXkyclFCNXNkMS1sYU9JLVo1WWdqMldmUDhQMWlaVDZNSnhQMnRtZUpEbndsVVd2a083UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-19 18:00",
+   "published_iso": "2026-07-19T09:00:00+00:00"
   },
   {
    "title": "外国人に大人気の東京ばな奈！製造工程を特別取材し、テレビ初公開の映像も！あばれる君とお菓子大国スウェーデン親子が人気の秘密を大調査【それスタ】",
@@ -136,14 +144,6 @@
    "published_iso": "2026-07-17T13:40:00+00:00"
   },
   {
-   "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR0VTcGNHSGxzcjZXR0xJS2pJdm1yX1FuRVJxcHpidDVkazd3SVQyZXl4MlNsZkdSelptQUY2cllzZTE1WG5qdmxyTFBNSEhzMlhIX1E2M2tvZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-17 21:59",
-   "published_iso": "2026-07-17T12:59:52+00:00"
-  },
-  {
    "title": "スリランカ人男性が解放「早く出てこれ、みなさんに感謝」 東京入管が14日から収容",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqM09HcGNrT05OSUVGSk1maUcydzAwZFdSZk9fYzBjNHV0VlN6WmZGQkI4dFJfX3dJb2JjSERNR2ExeVN5RHQyRks5S0ZVenloc0Zn?oc=5",
    "source": "東京新聞デジタル",
@@ -206,6 +206,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-17 10:32",
    "published_iso": "2026-07-17T01:32:13+00:00"
+  },
+  {
+   "title": "富士山周辺で外国人観光客のレンタカー事故が急増 「止まれ」標識や左側通行に戸惑い 事故は4年で20倍超",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUWtfeVlFb0VFOVBXcDg4V0cza3Y3aXpPcXhPa3hScEFlVnNLRjdsMnVpYTdCRVI2ZVZHY1ctOHlURFlMZFdaRWdKajdLQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 06:00",
+   "published_iso": "2026-07-16T21:00:00+00:00"
   },
   {
    "title": "米ICEが移民2人射殺 「過剰対応」再び、再発防止策も徹底されず",
@@ -312,6 +320,14 @@
    "published_iso": "2026-07-15T20:00:00+00:00"
   },
   {
+   "title": "なぜ外国人は「日本の包丁」に熱狂？「自宅に包丁何本ありますか？」街で聞いてみた【Nスタ解説】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vOHV3OHRyd1UwQjNkZGtyRF9IV0l0QnBQbmtJZzA4cG9PQUgySVJDN09LZnVLLVpEeEZWSlp5MzBRT2NEZkdCNi02N2RtT0x0d0NTN3RPYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-15 22:23",
+   "published_iso": "2026-07-15T13:23:00+00:00"
+  },
+  {
    "title": "入管が収容したスリランカ人男性、栄養とれず丸1日 頼んだ栄養剤が支給されず…以前から食事とれない状態",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaEo5VzVoT0FFaG5tUVlPMW9Ea1MwcHU0dmNpQkFrQ0U4aWlfdUF4YW9MVDFRRnpxbkc3ZUZ2OUlkTGF6dEFOT0NEZThCUXBoM0tv?oc=5",
    "source": "東京新聞デジタル",
@@ -326,14 +342,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-15 17:34",
    "published_iso": "2026-07-15T08:34:00+00:00"
-  },
-  {
-   "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-15 14:00",
-   "published_iso": "2026-07-15T05:00:00+00:00"
   },
   {
    "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
@@ -390,14 +398,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-14 15:30",
    "published_iso": "2026-07-14T06:30:00+00:00"
-  },
-  {
-   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 11:41",
-   "published_iso": "2026-07-14T02:41:00+00:00"
   },
   {
    "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
