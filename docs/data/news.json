@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T11:55:50+00:00",
+ "generated_at": "2026-07-19T13:16:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "福山市、1万2000人暮らす外国人の定着後押し ごみ出しなどの生活ルールや日本語習得、講座や補助開始",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OM2RkS20tVndQblM4cm85QVMtbzMwTXZUMUN1NGRvazBtWG5HU2ZIMUVCTUFpVTQ1V0J1NVMtTW03YUxrcFlzdklYbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-19 20:31",
-   "published_iso": "2026-07-19T11:31:07+00:00"
-  },
   {
    "title": "忍者に扮した大学生も！冷茶や和菓子を外国人観光客に振る舞い地元の魅力をPR 通り道ではなく回遊を",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92V1Y5emdybzhDY1lYZV92TmtMWDVGdTZNZWxyNDNaNzlCM18yWTBuaUNZTm5rUkREMnNsdGRiVG5pNlhjVEhmRHpnWWhBQQ?oc=5",
@@ -30,6 +22,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-19 16:00",
    "published_iso": "2026-07-19T07:00:42+00:00"
+  },
+  {
+   "title": "福山市、1万2000人暮らす外国人の定着後押し ごみ出しなどの生活ルールや日本語習得、講座や補助開始",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OM2RkS20tVndQblM4cm85QVMtbzMwTXZUMUN1NGRvazBtWG5HU2ZIMUVCTUFpVTQ1V0J1NVMtTW03YUxrcFlzdklYbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-19 16:00",
+   "published_iso": "2026-07-19T07:00:00+00:00"
   },
   {
    "title": "独自＞外国人運転者の人身事故件数、埼玉で中国が最多 「事故率」はトルコ国籍が高率 「移民」と日本人",
@@ -352,12 +352,12 @@
    "published_iso": "2026-07-14T22:56:07+00:00"
   },
   {
-   "title": "トランプ政権、移民捜査での車両検問を停止 射殺事件受け",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQZ2FxV01ZODJkNzRmODZzR29xTVNCb0x5eXR5MUVOZ1ZJU3lXX3M4cUp6U0FFcjhHdGFxRzZLOFBWMkJRa1RzT180QjZkM1RWQ09QV1ZuR24zVklmNU40TEI5dDlwWmpFWi0wWA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-15 07:29",
-   "published_iso": "2026-07-14T22:29:03+00:00"
+   "title": "移民捜査で車両検問停止 米東部の射殺事件受け",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40YTJ0Z2JEQ0oyaVVNMEIyWXNmLTNSLV8xaWVTUGRUWjRrZU82QkRXb0l6WE5vc094OUNfVzlDWEt3ZklXMHBTUTNCQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-15 07:07",
+   "published_iso": "2026-07-14T22:07:00+00:00"
   },
   {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
