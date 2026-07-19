@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T16:56:34+00:00",
+ "generated_at": "2026-07-19T17:57:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -96,14 +96,6 @@
    "published_iso": "2026-07-18T06:30:00+00:00"
   },
   {
-   "title": "外国人宿泊者数が初めて10万人突破 台湾での観光プロモーションが成果に 去年1年間 全体の宿泊者数は2.4パーセント減 新幹線開業特需が落ち着いた影響",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2JIZE9udVdVSURkYnRmU0NaR1RDMXhBdDhfbkJMQ1FHaUx4THdhVEt5ZU5nLUpHQTNELXhCaVMzaW5kN1VXNEt2YmNheWdBZnVsWjFfWDhPd3JhWDBDeHRaa1didnhucmRnR1BpNGYyWTZ5VG1SUEd0UF9kSVlaNnJSMEJ6WjQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-18 12:18",
-   "published_iso": "2026-07-18T03:18:00+00:00"
-  },
-  {
    "title": "スイカ割に流しそうめん！日本の夏の風物詩に挑戦 多文化共生へ楽しみながら交流を",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FcElZSmRNRUlBN2VCVDFwZkxLc0pmdDB3WGZfbUVxNEViRHN4SHJ0dy1iSG9rYzM3b0pnQjl0Q2J1cTRCVHlacDRIWF93Zw?oc=5",
    "source": "FNNプライムオンライン",
@@ -142,6 +134,14 @@
    "source_domain": "47news.jp",
    "published": "2026-07-17 22:40",
    "published_iso": "2026-07-17T13:40:00+00:00"
+  },
+  {
+   "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uRVc0QkhSRnpBUUpic3RCdlZQYTdPWjFCSldING9IYXh4andJZFBtXzlBVzFPVUFLNzA3QUJJYzlOMjU1WklVcW5oRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-17 21:59",
+   "published_iso": "2026-07-17T12:59:52+00:00"
   },
   {
    "title": "スリランカ人男性が解放「早く出てこれ、みなさんに感謝」 東京入管が14日から収容",
@@ -344,6 +344,14 @@
    "published_iso": "2026-07-15T08:34:00+00:00"
   },
   {
+   "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-15 14:00",
+   "published_iso": "2026-07-15T05:00:00+00:00"
+  },
+  {
    "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDREhLSlBWeG9WUkxEYm82M2JvdWtHS2VJWHFUVWRGbWJjdmZYSk95YkUtdl80b1E0MVFXNjQ1eFhFVnV1eFIyZS1nWQ?oc=5",
    "source": "47NEWS",
@@ -398,14 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-14 15:30",
    "published_iso": "2026-07-14T06:30:00+00:00"
-  },
-  {
-   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-14 05:52",
-   "published_iso": "2026-07-13T20:52:43+00:00"
   }
  ]
 }
