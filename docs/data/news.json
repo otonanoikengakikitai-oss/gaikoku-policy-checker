@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T05:49:44+00:00",
+ "generated_at": "2026-07-19T08:12:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人に大人気の東京ばな奈！製造工程を特別取材し、テレビ初公開の映像も！あばれる君とお菓子大国スウェーデン親子が人気の秘密を大調査【それスタ】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mdEVGWnBvSXZoOXgzWUJYTTY5dGNOcEY2b3lHd2w3aEVWSXlpNWZ0b0lMLUNxS3JyQmRIZnd2TDhUaVBnODUxY3kzdVFLVk9hUWNnVkFZcw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-19 16:00",
+   "published_iso": "2026-07-19T07:00:42+00:00"
+  },
+  {
+   "title": "独自＞外国人運転者の人身事故件数、埼玉で中国が最多 「事故率」はトルコ国籍が高率 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EOG9DeVRVd3ExUHFUTHNQbVIyeVJuLVJEUVFCQTc3MF9FZUV4R0ZGMzQwN2ZkdE1lN3I1emhYdzIycHhIa21VVlFPRHBPdXA4YVBBU1RXYWtaTTRTMm5YMmlrNkVTT1ViZmYxN3dHemFXZFBTaHc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-19 15:30",
+   "published_iso": "2026-07-19T06:30:00+00:00"
+  },
   {
    "title": "外国人は「活躍」でなく「活用」 共生の壁は根強い「優越意識」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iSDJnZXVBN2VZbVhRMU0yX0E0azZMaFpMQVE1ODZ6cFFSVkc3MlhiQ2cxbHVlam1sVnZGU1FNRnJIYWY1bHgtNGdEWWItcUVsSDJ5NWI5OGNXVUhwWEFhYnJMRkROSmNz?oc=5",
@@ -22,6 +38,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-19 12:00",
    "published_iso": "2026-07-19T03:00:00+00:00"
+  },
+  {
+   "title": "日本人よりラーメンに詳しい外国人 こだわりの食べ方 “朝ラーの街”にも変化が",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWTRMQkEyZ2N5T3A0RU83WDcyelpIbHRzVm92WUVudHcxZURKZnZnel9CeHVDWlJiUWdCc0pBdUVDYU43c3RDSW9JX0k3R205Qnl6NDc0QlA1SEg3dG9YZjd1ZU1JZ0lfNW1TZjk3Y2FSZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-19 11:00",
+   "published_iso": "2026-07-19T02:00:00+00:00"
   },
   {
    "title": "【日本も「同じ末路」に?】“EU外”の移民が大幅増／GDP4%分の打撃／2大政党制は崩壊／エネルギー価格は先進国で最高値／ ブレグジットは世界全体を分断した【CROSS DIG DOCUMENT】",
@@ -54,6 +78,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-18 15:30",
    "published_iso": "2026-07-18T06:30:00+00:00"
+  },
+  {
+   "title": "外国人宿泊者数が初めて10万人突破 台湾での観光プロモーションが成果に 去年1年間 全体の宿泊者数は2.4パーセント減 新幹線開業特需が落ち着いた影響",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2JIZE9udVdVSURkYnRmU0NaR1RDMXhBdDhfbkJMQ1FHaUx4THdhVEt5ZU5nLUpHQTNELXhCaVMzaW5kN1VXNEt2YmNheWdBZnVsWjFfWDhPd3JhWDBDeHRaa1didnhucmRnR1BpNGYyWTZ5VG1SUEd0UF9kSVlaNnJSMEJ6WjQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-18 12:18",
+   "published_iso": "2026-07-18T03:18:00+00:00"
   },
   {
    "title": "スイカ割に流しそうめん！日本の夏の風物詩に挑戦 多文化共生へ楽しみながら交流を",
@@ -113,7 +145,7 @@
   },
   {
    "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TZGkxRFBLVEliRjZZc0dnSGFTNHY3cndPMVgxLU9IRkdiWVoyWER3bGhRd1I4V1pLTXJ0RUZjS1RvaWNLSkRid1BWUnlNQlJrekJIZFR5bmZVTkdZdnJETmM5UEVuLWhldkt3NEJB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFR6ZWozYXhqZlhUMXdWQ1RWWHMyMGNKc09ZbnpWbkJnZXRNaFMxaVc5NldUYm8xaXdvTWFUNnZ6b3F3N1pVUjZ5OFUtY3VEZ2ZCWHYwakFNOTJ3dkl6M1lQdk04czk1SlNfUVJUU3VYaG1tUDlhOU1LeHRwY0NoYWUyakI2Z2ZlWXFRUXdB?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-17 17:30",
@@ -134,6 +166,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-17 16:10",
    "published_iso": "2026-07-17T07:10:00+00:00"
+  },
+  {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［兵庫編］1位は「神戸ポートピアホテル」！| インバウンド人気ホテル・旅館ランキング ＃MEO",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OLTBHQURYN1VzZHlmLUtydHY2Tk53ZDZkUFFiQXdaTC1vdVFSem5CdGVOZm1kcXV4X1d1ZTRKMW9wRFVGV19pN0ZZVTlndGQ5dm8yNHI2UXROUWJ0cDNRRGVEY2ZDdy1OTVlZRnlPS0ZRUQ?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-17 13:00",
+   "published_iso": "2026-07-17T04:00:00+00:00"
   },
   {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
@@ -158,14 +198,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-17 10:32",
    "published_iso": "2026-07-17T01:32:13+00:00"
-  },
-  {
-   "title": "富士山周辺で外国人観光客のレンタカー事故が急増 「止まれ」標識や左側通行に戸惑い 事故は4年で20倍超",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUWtfeVlFb0VFOVBXcDg4V0cza3Y3aXpPcXhPa3hScEFlVnNLRjdsMnVpYTdCRVI2ZVZHY1ctOHlURFlMZFdaRWdKajdLQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-17 06:00",
-   "published_iso": "2026-07-16T21:00:00+00:00"
   },
   {
    "title": "米ICEが移民2人射殺 「過剰対応」再び、再発防止策も徹底されず",
@@ -288,14 +320,6 @@
    "published_iso": "2026-07-15T08:34:00+00:00"
   },
   {
-   "title": "「小野田大臣が一生懸命」高市早苗首相、外国人問題で人口戦略作り 参政・神谷氏に答弁",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zdTdEZy0tQV9XNHI5NnpDbzZWQ2gxZkoxcHAyRWYwOXp4ckdvMWNOYnVtQVdmRm9RelJUR05TbFZzTHFvQ2dXdEFCTll6QnJhc0JJaFRrYWdwNHNJZTlJeW5HYktIMUdLb0hPNTZjanFhSnRmUHc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-15 17:33",
-   "published_iso": "2026-07-15T08:33:01+00:00"
-  },
-  {
    "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
    "source": "毎日新聞",
@@ -352,14 +376,6 @@
    "published_iso": "2026-07-14T06:30:00+00:00"
   },
   {
-   "title": "「世界は変えられない、けれど…」 ケイト・ブランシェットさん、難民映画作家支援",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DaEJFUHhhR2VqSnJSSmhfTEU2Z0d3dmc4VHM0ODRCNmx0aEx1RHB1Q3Q3VWhBRVM1TzNCa0tGNDlwTUtLUTlvNjR1b0VSa29veWYtU2h3MFBCTVExLVBwbmsyaFJxLW1V?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-14 13:02",
-   "published_iso": "2026-07-14T04:02:26+00:00"
-  },
-  {
    "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
    "source": "日テレNEWS NNN",
@@ -390,22 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-14 07:29",
    "published_iso": "2026-07-13T22:29:00+00:00"
-  },
-  {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-14 05:52",
-   "published_iso": "2026-07-13T20:52:43+00:00"
   }
  ]
 }
