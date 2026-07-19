@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T10:25:31+00:00",
+ "generated_at": "2026-07-19T11:55:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
-   "title": "熊本で暮らす外国人と高校生 ミニバレーボールで交流",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ScUZXZnlMemxJUHN2bzBsVjBuYXkyclFCNXNkMS1sYU9JLVo1WWdqMldmUDhQMWlaVDZNSnhQMnRtZUpEbndsVVd2a083UQ?oc=5",
+   "title": "福山市、1万2000人暮らす外国人の定着後押し ごみ出しなどの生活ルールや日本語習得、講座や補助開始",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OM2RkS20tVndQblM4cm85QVMtbzMwTXZUMUN1NGRvazBtWG5HU2ZIMUVCTUFpVTQ1V0J1NVMtTW03YUxrcFlzdklYbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-19 20:31",
+   "published_iso": "2026-07-19T11:31:07+00:00"
+  },
+  {
+   "title": "忍者に扮した大学生も！冷茶や和菓子を外国人観光客に振る舞い地元の魅力をPR 通り道ではなく回遊を",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92V1Y5emdybzhDY1lYZV92TmtMWDVGdTZNZWxyNDNaNzlCM18yWTBuaUNZTm5rUkREMnNsdGRiVG5pNlhjVEhmRHpnWWhBQQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
-   "published": "2026-07-19 18:00",
-   "published_iso": "2026-07-19T09:00:00+00:00"
+   "published": "2026-07-19 19:18",
+   "published_iso": "2026-07-19T10:18:00+00:00"
   },
   {
    "title": "外国人に大人気の東京ばな奈！製造工程を特別取材し、テレビ初公開の映像も！あばれる君とお菓子大国スウェーデン親子が人気の秘密を大調査【それスタ】",
@@ -46,14 +54,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-19 12:00",
    "published_iso": "2026-07-19T03:00:00+00:00"
-  },
-  {
-   "title": "日本人よりラーメンに詳しい外国人 こだわりの食べ方 “朝ラーの街”にも変化が",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWTRMQkEyZ2N5T3A0RU83WDcyelpIbHRzVm92WUVudHcxZURKZnZnel9CeHVDWlJiUWdCc0pBdUVDYU43c3RDSW9JX0k3R205Qnl6NDc0QlA1SEg3dG9YZjd1ZU1JZ0lfNW1TZjk3Y2FSZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-19 11:00",
-   "published_iso": "2026-07-19T02:00:00+00:00"
   },
   {
    "title": "【日本も「同じ末路」に?】“EU外”の移民が大幅増／GDP4%分の打撃／2大政党制は崩壊／エネルギー価格は先進国で最高値／ ブレグジットは世界全体を分断した【CROSS DIG DOCUMENT】",
@@ -190,6 +190,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-17 12:53",
    "published_iso": "2026-07-17T03:53:00+00:00"
+  },
+  {
+   "title": "家庭に眠る移民史料の保存協力を 滋賀・彦根で24日までパネル展 [滋賀県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iN3FhMUlmNFdEWnNGSFhBLUdzY0RkRE1fYy1WLWJYQ0Qxa1RfYjZXenJieEp4YnkyS0pzSGVNb05TNmk0SHcxZlg1UmdyOXZSamswcjZqU0hWTjc2M2V0N2pybE5Bb28?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-17 10:45",
+   "published_iso": "2026-07-17T01:45:00+00:00"
   },
   {
    "title": "サッカー吉田麻也選手、米国永住権取得 外国人枠から外れる 所属の米クラブが発表",
@@ -344,10 +352,18 @@
    "published_iso": "2026-07-14T22:56:07+00:00"
   },
   {
+   "title": "トランプ政権、移民捜査での車両検問を停止 射殺事件受け",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQZ2FxV01ZODJkNzRmODZzR29xTVNCb0x5eXR5MUVOZ1ZJU3lXX3M4cUp6U0FFcjhHdGFxRzZLOFBWMkJRa1RzT180QjZkM1RWQ09QV1ZuR24zVklmNU40TEI5dDlwWmpFWi0wWA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-15 07:29",
+   "published_iso": "2026-07-14T22:29:03+00:00"
+  },
+  {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZHUyUnVxRFNWdDVHS0hxenR1YmJFd1NPY1FiV0F3ak96ekRWZEw3TDJOSXd0UkdqbUZwbGlucnp5RXZ4bkNFSG9iYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-14 22:11",
    "published_iso": "2026-07-14T13:11:09+00:00"
   },
@@ -384,28 +400,12 @@
    "published_iso": "2026-07-14T02:41:00+00:00"
   },
   {
-   "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbFYzaFJCMmRVMXN5LXMyRndTVk1EZ3o4T2R3MC1XUl92N25haDdCRnFnUTlJSDFjRTBiWDFWbFdxSTkxYlZpaVFtaE40MWxpS0tJWm5NMTUzX3hWYWVNTlBYYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 08:12",
-   "published_iso": "2026-07-13T23:12:00+00:00"
-  },
-  {
-   "title": "米東部メーン州 ICE（移民当局）の発砲で1人死亡 コロンビア出身の男性（26）で就労許可あり 職場に向かうところ発砲される",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jZUVNNXdTTzlvYTBaYmpYeUFaTGk4SzlIQXZ4cVhSaDRPYzlZME82ZGFsOGJ0dXV3a2FpX1BaOGNMZE1HOF9ZWmlhWm9LZFZoYk1IWmtfQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-14 07:45",
-   "published_iso": "2026-07-13T22:45:36+00:00"
-  },
-  {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
+   "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITWhZVFJSX2ZNaWtVYVFTeTRpTXZmYmR5QUF6STd3VlhNN0pKZWVqN3lRSlNCZzBSNzZVWW9UUkxtSXAtSGVwQTFTczN4RGdsang5NGJNQ190UzRBdTk3YlJNUXRJNVMwSDRjLQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-14 05:52",
+   "published_iso": "2026-07-13T20:52:43+00:00"
   }
  ]
 }
