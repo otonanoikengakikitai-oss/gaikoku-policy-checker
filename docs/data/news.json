@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T06:15:46+00:00",
+ "generated_at": "2026-07-20T09:58:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人運転とみられるレンタカーが車線はみ出しか…連休最終日の観光ルートで正面衝突…男女6人が重軽傷・ドクターヘリなどで病院搬送＜北海道富良野市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vSTdzTkhybWdURkZ2bWd6b2Vob0gtTjc5bnRoU0E1OG1PNHdKS201MGhyQXozNWdnVXJ5TGxrYnEwYl93RWlKR3ZiNGhHUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-20 18:15",
+   "published_iso": "2026-07-20T09:15:00+00:00"
+  },
+  {
+   "title": "【速報】観光地、富良野で車同士の正面衝突 6人けが 意識あり 乗用車はレンタカーで外国人が運転か",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NcXBYU3AzNC1HcEpWSkFOZkJ1TXRIX2lOaURpZTEzQWdjSjVhaEhXeU9LY3B3UWhSX1NRRk9oZkI4VVRpWmVJUnNxWExNM0x2VkkxNk9Kc2c5dw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-07-20 18:07",
+   "published_iso": "2026-07-20T09:07:00+00:00"
+  },
+  {
+   "title": "『ニホンジン？じゃあコッチ、コッチ』外国人風の男が夜道で女性の身体をしつこく触り連れ去ろうとする…首に“円柱状の太鼓”を掛けたエキゾチックな不審者に警戒＜北海道岩見沢市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6RDVFZURTMC1UWElUb0FqN3k5MUx2X3BzUGFDd0dFWFA0RkotM0FyWEY0Sm9oVXVyUW9Vb3UyZnhBRXAxNVY2R0RLaW44Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-20 15:15",
+   "published_iso": "2026-07-20T06:15:00+00:00"
+  },
   {
    "title": "熊本県で増える外国人労働者、労災事故も増加…経験浅い時期に発生、雇い入れ時に安全衛生教育が不十分か",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hU05Hd1JTUmU5RWdRNlk2RjJjc3BVNzhpWDlnd1d3aEdvVFVXSURtbGhHS0xmQlZwMHJrRFBrbWtXYXpISWFLQXh1MTlrWHpWSzdod3UzSUdwUXJNaWNkekgxb1dTdWxaOHF4YldRTldKQQ?oc=5",
@@ -16,20 +40,20 @@
    "published_iso": "2026-07-20T06:02:00+00:00"
   },
   {
-   "title": "サムライの面影にわく訪日客、移動のバスは人手不足「30代いない」 [長野県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RLURRYUFzd2JwS1QzUDB2VHdwX25scUdtc1hCWi1DZ2dzeVFrYUJrSW93VHhpckhiaUxqcV8yMEJncnVPTjNWU1l5T3JDZFR2cE1SRk9qb2UtTk9rU0otVnZKNG55TVU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-20 14:14",
-   "published_iso": "2026-07-20T05:14:32+00:00"
-  },
-  {
    "title": "ケルン市立図書館は外国人支援も 地元ボランティアはやりがい感じる｜with Planet",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FQU9lakRHblduWUxCQWlRRE5NeXBxOEQwdW9QanZ4RzBkOGlBbmhJVFRvX2prQUVpTTZCRGJKRDdGYWZPX1ZtV2lkc3VNeTJJWjAxUENPWDkyQ1lyVGc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-20 14:09",
    "published_iso": "2026-07-20T05:09:02+00:00"
+  },
+  {
+   "title": "サムライの面影にわく訪日客、移動のバスは人手不足「30代いない」 [長野県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RLURRYUFzd2JwS1QzUDB2VHdwX25scUdtc1hCWi1DZ2dzeVFrYUJrSW93VHhpckhiaUxqcV8yMEJncnVPTjNWU1l5T3JDZFR2cE1SRk9qb2UtTk9rU0otVnZKNG55TVU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-20 10:00",
+   "published_iso": "2026-07-20T01:00:00+00:00"
   },
   {
    "title": "「やさしい日本語」で落語上演、外国人にも分かりやすく 神戸在住の桂かい枝さん、8月3日に公演会|文化",
@@ -72,22 +96,6 @@
    "published_iso": "2026-07-19T10:18:00+00:00"
   },
   {
-   "title": "外国人に大人気の東京ばな奈！製造工程を特別取材し、テレビ初公開の映像も！あばれる君とお菓子大国スウェーデン親子が人気の秘密を大調査【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mdEVGWnBvSXZoOXgzWUJYTTY5dGNOcEY2b3lHd2w3aEVWSXlpNWZ0b0lMLUNxS3JyQmRIZnd2TDhUaVBnODUxY3kzdVFLVk9hUWNnVkFZcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-19 16:00",
-   "published_iso": "2026-07-19T07:00:42+00:00"
-  },
-  {
-   "title": "福山市、1万2000人暮らす外国人の定着後押し ごみ出しなどの生活ルールや日本語習得、講座や補助開始",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OM2RkS20tVndQblM4cm85QVMtbzMwTXZUMUN1NGRvazBtWG5HU2ZIMUVCTUFpVTQ1V0J1NVMtTW03YUxrcFlzdklYbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-19 16:00",
-   "published_iso": "2026-07-19T07:00:00+00:00"
-  },
-  {
    "title": "独自＞外国人運転者の人身事故件数、埼玉で中国が最多 「事故率」はトルコ国籍が高率 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EOG9DeVRVd3ExUHFUTHNQbVIyeVJuLVJEUVFCQTc3MF9FZUV4R0ZGMzQwN2ZkdE1lN3I1emhYdzIycHhIa21VVlFPRHBPdXA4YVBBU1RXYWtaTTRTMm5YMmlrNkVTT1ViZmYxN3dHemFXZFBTaHc?oc=5",
    "source": "産経ニュース",
@@ -96,7 +104,7 @@
    "published_iso": "2026-07-19T06:30:00+00:00"
   },
   {
-   "title": "韓国、ウォン取引規制を大幅緩和へ－外国人の取引容易に",
+   "title": "韓国、ウォン取引規制を大幅緩和へ－外国人の取引容易に | TBS CROSS DIG with Bloomberg",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tSU5DcE1mZWlmRjJZZTBuOVI1bHBxcFp5V2hSdFdYenM4WE1oTVNLaGxFUUxxM1R1aVhTOHFlTWRIMUJ3M3h5blJhUE16UkpqYzZpQ0hvUmRTNVFqaFhzQ2trTXNuTW8?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
@@ -128,14 +136,6 @@
    "published_iso": "2026-07-18T23:00:00+00:00"
   },
   {
-   "title": "（今さら聞けない世界）インド観光名所、外国人は入場料が２２倍 蛯澤俊典さん",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DUGoybHQ3R29aN1hNVjlhV0JSUXFOMmJHdktSa25tMjg3Yncxc3ZSWmE0SV9RZHZXUlVibl80QkF0UWE4RmVVTXN4NktHdi0yQ001Uk4tYkdTYzdq?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-19 05:00",
-   "published_iso": "2026-07-18T20:00:00+00:00"
-  },
-  {
    "title": "【サーカスＱ＆Ａ】 何カ国の外国人が働いているの？",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55NkhuSVIxb29TdWI0Y2dCek5zYzNQdDlhUThtUEd6OERtV2ctT1lPX0Qtcy1pS2dINVRnQVBMV3k1UDJxdmN2eVVVbw?oc=5",
    "source": "47NEWS",
@@ -150,14 +150,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-18 15:30",
    "published_iso": "2026-07-18T06:30:00+00:00"
-  },
-  {
-   "title": "外国人宿泊者数が初めて10万人突破 台湾での観光プロモーションが成果に 去年1年間 全体の宿泊者数は2.4パーセント減 新幹線開業特需が落ち着いた影響",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2JIZE9udVdVSURkYnRmU0NaR1RDMXhBdDhfbkJMQ1FHaUx4THdhVEt5ZU5nLUpHQTNELXhCaVMzaW5kN1VXNEt2YmNheWdBZnVsWjFfWDhPd3JhWDBDeHRaa1didnhucmRnR1BpNGYyWTZ5VG1SUEd0UF9kSVlaNnJSMEJ6WjQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-18 12:18",
-   "published_iso": "2026-07-18T03:18:00+00:00"
   },
   {
    "title": "学生記者から大越健介キャスターに直言！ 多文化共生テーマにリアルイベント",
@@ -176,18 +168,10 @@
    "published_iso": "2026-07-17T20:10:00+00:00"
   },
   {
-   "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBV00yWG1Pa0lNOFpkQ1htM1h4b3VvNGRyazNULTluaVNhaWg3ZW9Gc3YyZTJOMFlxZ01Ydy1YWUhfN1dQdHktd1Vscw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-17 22:40",
-   "published_iso": "2026-07-17T13:40:00+00:00"
-  },
-  {
    "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uRVc0QkhSRnpBUUpic3RCdlZQYTdPWjFCSldING9IYXh4andJZFBtXzlBVzFPVUFLNzA3QUJJYzlOMjU1WklVcW5oRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR0VTcGNHSGxzcjZXR0xJS2pJdm1yX1FuRVJxcHpidDVkazd3SVQyZXl4MlNsZkdSelptQUY2cllzZTE1WG5qdmxyTFBNSEhzMlhIX1E2M2tvZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-17 21:59",
    "published_iso": "2026-07-17T12:59:52+00:00"
   },
@@ -200,12 +184,12 @@
    "published_iso": "2026-07-17T10:17:28+00:00"
   },
   {
-   "title": "【速報】五色沼湖沼群遊歩道でクマに襲われ外国人女性が腕などけが 福島・北塩原村",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqbkc5T2Z0UVpoNk83X2Zycy1mb1FhMmpzVUNrZWlwZUxvM0RkdVRkbU96QXpyeTZPRnRqSE5MZFRQVGhLMGVTOVo1a19MeXhZVEVicUlobkVXRDNGUExuN3ZXSmE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-17 17:12",
-   "published_iso": "2026-07-17T08:12:00+00:00"
+   "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-17 17:30",
+   "published_iso": "2026-07-17T08:30:00+00:00"
   },
   {
    "title": "「不法滞在とみられる外国人がいるようだ」最長9年、ベトナム国籍の男女6人摘発＝静岡県警など",
@@ -222,14 +206,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-17 13:00",
    "published_iso": "2026-07-17T04:00:00+00:00"
-  },
-  {
-   "title": "トランプ政権がビザ滞在期間を短縮する新規則を発表…外国人の管理を強化するねらい",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41eDYxbzJVZUo4aVg4Tm5ZNGNpdERUTHVNUzFCQkdFTGRSS0FCNGgxRFZGUi1pVGpWZk9pMktrRDRmOU15SHBpX3diU1hZRVNMa0FWdG84N2l1VnpybFBRUmhB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-17 12:53",
-   "published_iso": "2026-07-17T03:53:00+00:00"
   },
   {
    "title": "家庭に眠る移民史料の保存協力を 滋賀・彦根で24日までパネル展 [滋賀県]",
@@ -296,14 +272,6 @@
    "published_iso": "2026-07-16T02:30:00+00:00"
   },
   {
-   "title": "介護外国人材 絆づくり 水戸の事業者、海外大と連携 日本語教室や就業体験 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZ1lQUEhlT3BpUjZ5ZlQ1b0dReHpyc3RyeU1OYVhHMml4eFpuaEJYeks1a0xSYnZscGhCQkJEM1FCMVRwS29kN0h1Zw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-16 11:00",
-   "published_iso": "2026-07-16T02:00:00+00:00"
-  },
-  {
    "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -336,6 +304,14 @@
    "published_iso": "2026-07-15T09:26:30+00:00"
   },
   {
+   "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDREhLSlBWeG9WUkxEYm82M2JvdWtHS2VJWHFUVWRGbWJjdmZYSk95YkUtdl80b1E0MVFXNjQ1eFhFVnV1eFIyZS1nWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-15 09:10",
+   "published_iso": "2026-07-15T00:10:00+00:00"
+  },
+  {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYnM4dVdCRElEa1o3S0dIWDhIQUY4WkFWakFpWjJMWDRQb3hQOThidmxDODRQcnhNZHhkbnhWcGR6RHdETGZiVXlwMlhjUDRsa0FV?oc=5",
    "source": "東京新聞デジタル",
@@ -352,12 +328,12 @@
    "published_iso": "2026-07-14T22:15:26+00:00"
   },
   {
-   "title": "日本、難民保護支持「64％」 国連調査、統合には懐疑的",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55NDRUVU1TOHVmdnBFYlhVbnVEN2tlSjNkNk5uWG5ENDJLWVNXWHRqWklTR29MODJLaDV1NlBNZERiOXRRSGw4SG1mNXJHSVlkUElhZEFhcXRGdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-15 04:24",
-   "published_iso": "2026-07-14T19:24:29+00:00"
+   "title": "北波多中で子ども服回収→難民へ 「ユニクロ」「ジーユー」のプロジェクトに参加 唐津市",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5S2F1c3EweU84WUJ3N0MtOEFjdTJYX0VEeklIU0Z3czU0elp6TmpDYW5BRnBrSW8xYkxQN0pNS1pqMXI4bnZGbmFTTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-15 06:30",
+   "published_iso": "2026-07-14T21:30:00+00:00"
   },
   {
    "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
@@ -406,6 +382,30 @@
    "source_domain": "47news.jp",
    "published": "2026-07-14 11:00",
    "published_iso": "2026-07-14T02:00:00+00:00"
+  },
+  {
+   "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbFYzaFJCMmRVMXN5LXMyRndTVk1EZ3o4T2R3MC1XUl92N25haDdCRnFnUTlJSDFjRTBiWDFWbFdxSTkxYlZpaVFtaE40MWxpS0tJWm5NMTUzX3hWYWVNTlBYYw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-14 08:12",
+   "published_iso": "2026-07-13T23:12:00+00:00"
+  },
+  {
+   "title": "移民税関捜査局の職員が発砲、コロンビア人の男性死亡 アメリカ・メーン州（2026年7月13日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT05BdkhBeDYySFlVZm9QYnJTbWlaWUVQLU1scGp1X3JENWs4S3AwUDc5NmNKLUVLYXVmZXRyR1pFbE94dFIwdDRZUk5HY3h5WmxPd0NsX3VhNlVINVl4VVhYUlhQMkNXcFBYS2pGTnJxMTNnWWZiZldaTkpHcUJhUDdOZE8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 07:29",
+   "published_iso": "2026-07-13T22:29:00+00:00"
+  },
+  {
+   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-14 07:08",
+   "published_iso": "2026-07-13T22:08:33+00:00"
   }
  ]
 }
