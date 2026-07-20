@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T15:09:58+00:00",
+ "generated_at": "2026-07-20T19:52:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ニューヨークの政府庁舎で煙と炎 FBIが男1人拘束、移民当局に反発か",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMDQ0MlY1OHJTQnhTejVWVnVvRUpaR2pjV0I3WUFjWnBHaGxXTktFbDhrZUloMmEwd2dSWHk4V2drWkRTYTJKU0wwMGNKcl8wbnJORm5BSC1ILW9xVlRZdnlfcENjeUZ1dFdwNw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-21 04:17",
+   "published_iso": "2026-07-20T19:17:03+00:00"
+  },
+  {
+   "title": "帰れないひとびと・ミャンマー国境から：海外難民救援キャンペーン 内戦が刻んだ傷、深く リハビリ 終わらぬ闘い",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waE5XNWZROTBOQW5sTzJpeWxENUtKOVlvUllDdVFTMDlNYmxvazBmVjlsYWV1NG5VLTNnVTgxSWtfN0lEVzdGQnJhZl9KdXc1NkFGdWMtbFJsMjg5YTRPbjZVTzBKeWtz?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-21 02:02",
+   "published_iso": "2026-07-20T17:02:03+00:00"
+  },
+  {
+   "title": "そこが聞きたい：根深い外国人嫌悪 立教大兼任講師・小林真生氏",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSmpsbXdRWDdYdVV0VWhSQkpIQWpSV05hckxZNXZYUnFSd0ZieENwdHFWa3oxbmFBMXRGdzR0NF9KaEt3dThrWnI0cU10OExST2hqM3NiZzQtRHZFUWVGQ21zTXdYRVN4?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-21 02:00",
+   "published_iso": "2026-07-20T17:00:55+00:00"
+  },
   {
    "title": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kR0hWU3g4WDVSMGg2UTdnMV9BVl9OVVFrczdoQUE0X1pwMzFJQjFBNWlIR2lYeWZiNlNsM1JUbml2emVZbGxhTkx6Y21oZE80blN4VFpleVYyaUFaR21BM000dzc?oc=5",
@@ -30,14 +54,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-20 19:08",
    "published_iso": "2026-07-20T10:08:00+00:00"
-  },
-  {
-   "title": "異例、東ティモールで邦人拘束か 特殊詐欺関与疑い 中国人と一緒に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wOWRZZTZwV0YyazE3RUExRWhBbGEzOWtNNkllRmhRcWJtV08zTExtNjJBNVQxWGJ4c1JNeGZTaHlwOHpidDBNVFlrVkQ3ai1weDBGZUJoQ0FwTDJvaUY1UDJMazRQdm8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-20 19:06",
-   "published_iso": "2026-07-20T10:06:21+00:00"
   },
   {
    "title": "外国人絶賛！憧れのバイトはコンビニ!?【しらべてみたら】",
@@ -78,14 +94,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-20 10:00",
    "published_iso": "2026-07-20T01:00:00+00:00"
-  },
-  {
-   "title": "「やさしい日本語」で落語上演、外国人にも分かりやすく 神戸在住の桂かい枝さん、8月3日に公演会|文化",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTGt5RTltS3MxT0FXbkJpYmJsU0V3SUl4ZzNLd04wYnh4ZUpWMGpHMlgydEluQ1FyMzdtWTBzUWlVLUEyS1NUQnRobTNEUVdlNFUtQl9UeERMZ3ZPNWVheVBKZ09wVGh3dXp5SUJB?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-20 05:10",
-   "published_iso": "2026-07-19T20:10:00+00:00"
   },
   {
    "title": "不法残留の外国人摘発強化、入管職員２００人超を異例の緊急増員…今月末にも閣議決定へ",
@@ -136,6 +144,22 @@
    "published_iso": "2026-07-19T03:00:00+00:00"
   },
   {
+   "title": "日本人よりラーメンに詳しい外国人 こだわりの食べ方 “朝ラーの街”にも変化が",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WWTRMQkEyZ2N5T3A0RU83WDcyelpIbHRzVm92WUVudHcxZURKZnZnel9CeHVDWlJiUWdCc0pBdUVDYU43c3RDSW9JX0k3R205Qnl6NDc0QlA1SEg3dG9YZjd1ZU1JZ0lfNW1TZjk3Y2FSZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-19 11:00",
+   "published_iso": "2026-07-19T02:00:00+00:00"
+  },
+  {
+   "title": "【日本も「同じ末路」に?】“EU外”の移民が大幅増／GDP4%分の打撃／2大政党制は崩壊／エネルギー価格は先進国で最高値／ ブレグジットは世界全体を分断した【CROSS DIG DOCUMENT】",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTWZHb2dRN3lzU1dOM1FmRVF6T2ZpZE1pdmFOS1JBV3FNMVFWMkVKS0s5M3dTcGtrQzdmYU4taEdoSlVlckF5Y3hrUks2cW5KWTlPbHZKc0V1OEdqN3dmdnk3UlZ3XzZpb3ZOUHdVRWJEeFVY?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-19 08:00",
+   "published_iso": "2026-07-18T23:00:00+00:00"
+  },
+  {
    "title": "（今さら聞けない世界）インド観光名所、外国人は入場料が２２倍 蛯澤俊典さん",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yaUFRZlJtM1VvS3A4S1hRSFBBaFFaSXFoTjNVbXpaVnFQREdVeDNQeTB2WXVCMmZwMjI3NTVfdGFOLXp5NUszbTJFUWdRMjd4ZFNFdWxaemtrY2I3VzBTZlJvR2FqdnA5NGJLMFN3?oc=5",
    "source": "朝日新聞",
@@ -150,14 +174,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-18 15:30",
    "published_iso": "2026-07-18T06:30:00+00:00"
-  },
-  {
-   "title": "学生記者から大越健介キャスターに直言！ 多文化共生テーマにリアルイベント",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQzRNLU5LYUJfcGZJVjNCa1FHS2xDN2xhTDNSOWRjYmVKdVRENUJhckY5eEhTOE05LXpQelo1WTN1cDVNeVVlYmNXVzh3RHJselBuRFBR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-18 10:00",
-   "published_iso": "2026-07-18T01:00:00+00:00"
   },
   {
    "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-14 05:52",
    "published_iso": "2026-07-13T20:52:43+00:00"
-  },
-  {
-   "title": "福井・日野川で川遊びのベトナム籍技能実習生（18）が溺死 前日から行方不明",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UmQ4a1hXa2Jaa21iREY1TmZEVV9yVDB6Vmx2SlFfcE94RndMdGNYOWp3YTlRazljeWU0YXNseHZGWjlKU19UOFl3SDN1WHlFZTFJLWdhcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-11 19:22",
-   "published_iso": "2026-07-11T10:22:00+00:00"
-  },
-  {
-   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 16:00",
-   "published_iso": "2026-07-11T07:00:00+00:00"
   }
  ]
 }
