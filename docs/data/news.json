@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T19:52:44+00:00",
+ "generated_at": "2026-07-20T21:10:10+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
+   "title": "多くの外国人旅行者が参拝に訪れる太宰府天満宮＝5月、福岡県太宰府市 - 太宰府天満宮「参拝者数の変化は感じない」 中国客半減でも訪日消費は上半期最高額 - 写真・画像(1/2)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00cWIxQW40Wml6ZjA0dzZzUzB0Y1k3RFZsSU5YY0FBd3FRSU03RU11SDQ1Rm9Uc2FiU2ZxX2lmYkZYUHJEZ0R6aEd1dkZQdzU1SXczNDBJWQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-21 06:07",
+   "published_iso": "2026-07-20T21:07:15+00:00"
+  },
+  {
+   "title": "ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0l2dnlmYmNHMGFobm0xVXBVUnpmWjZFS29xWVlRU3JUd0RlRmNNdzRjaVk4aGxpcG9NWTZnLWlxeG5IM1hpdXVHN3RpdTZfa3RtNi12N1p2c3ZISDc5LWliUmJ6ZXQyR0FtMzkzeUxnSzYwTXpiZFp3SmFQbnZuTkp4TlFabXNranRSNjVB?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-21 06:00",
+   "published_iso": "2026-07-20T21:00:00+00:00"
+  },
+  {
+   "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UkRTQTVBX0UxQklxYk9aY3BtclI5MUZJSGNuVnc4NVZPOGtGaV8zNjlQZlRfbEEwSGpudy1yRmZYbUYxZkpoUHdKdFJvOUV3R2VwVnNTaXI?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-21 05:40",
+   "published_iso": "2026-07-20T20:40:00+00:00"
+  },
+  {
    "title": "ニューヨークの政府庁舎で煙と炎 FBIが男1人拘束、移民当局に反発か",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMDQ0MlY1OHJTQnhTejVWVnVvRUpaR2pjV0I3WUFjWnBHaGxXTktFbDhrZUloMmEwd2dSWHk4V2drWkRTYTJKU0wwMGNKcl8wbnJORm5BSC1ILW9xVlRZdnlfcENjeUZ1dFdwNw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-07-21 04:17",
-   "published_iso": "2026-07-20T19:17:03+00:00"
+   "published": "2026-07-21 02:39",
+   "published_iso": "2026-07-20T17:39:57+00:00"
   },
   {
    "title": "帰れないひとびと・ミャンマー国境から：海外難民救援キャンペーン 内戦が刻んだ傷、深く リハビリ 終わらぬ闘い",
@@ -38,14 +62,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-20 22:36",
    "published_iso": "2026-07-20T13:36:00+00:00"
-  },
-  {
-   "title": "外国人運転のレンタカーが車線はみだしSUVと正面衝突…中国籍の男女4人含む6人が重軽傷…ドクヘリなどで搬送…連休最終日の観光ルートで事故＜北海道富良野市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSjJmWmw4b3Z3dkp1MldYWDRTbGNrcW5OY2FjYzgzVGxUdzFpUmU0YVJlX213OWstYVVQandScHhtUk5rOVh5R2t5Xy1mZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-20 21:20",
-   "published_iso": "2026-07-20T12:20:00+00:00"
   },
   {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
@@ -174,14 +190,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-18 15:30",
    "published_iso": "2026-07-18T06:30:00+00:00"
-  },
-  {
-   "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMjQyaEZ4aXhXT19wVWZJYlpUZFpGVU81RzZfemJ4V2c5WmNFQ2JIT1V5cEhZcmpNaHE0RlZFaHdDLThsT3dZS01OQkRXYUxaQXQyQTlCY2tFYVE1QmlPVy1wUGtaQXRaVm5v?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-18 05:10",
-   "published_iso": "2026-07-17T20:10:00+00:00"
   },
   {
    "title": "ごみ分別きっかけ 外国人住民と交流目指す 石狩の団地自治会、8月2日イベント",
@@ -390,14 +398,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-14 07:08",
    "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 07:07",
-   "published_iso": "2026-07-13T22:07:00+00:00"
   },
   {
    "title": "米金融規制当局、移民向け融資で厳格姿勢を要請 銀行業界に指針",
