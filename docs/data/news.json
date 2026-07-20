@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T02:44:43+00:00",
+ "generated_at": "2026-07-20T06:15:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "熊本県で増える外国人労働者、労災事故も増加…経験浅い時期に発生、雇い入れ時に安全衛生教育が不十分か",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hU05Hd1JTUmU5RWdRNlk2RjJjc3BVNzhpWDlnd1d3aEdvVFVXSURtbGhHS0xmQlZwMHJrRFBrbWtXYXpISWFLQXh1MTlrWHpWSzdod3UzSUdwUXJNaWNkekgxb1dTdWxaOHF4YldRTldKQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-20 15:02",
+   "published_iso": "2026-07-20T06:02:00+00:00"
+  },
+  {
    "title": "サムライの面影にわく訪日客、移動のバスは人手不足「30代いない」 [長野県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RLURRYUFzd2JwS1QzUDB2VHdwX25scUdtc1hCWi1DZ2dzeVFrYUJrSW93VHhpckhiaUxqcV8yMEJncnVPTjNWU1l5T3JDZFR2cE1SRk9qb2UtTk9rU0otVnZKNG55TVU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-07-20 10:00",
-   "published_iso": "2026-07-20T01:00:00+00:00"
+   "published": "2026-07-20 14:14",
+   "published_iso": "2026-07-20T05:14:32+00:00"
+  },
+  {
+   "title": "ケルン市立図書館は外国人支援も 地元ボランティアはやりがい感じる｜with Planet",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FQU9lakRHblduWUxCQWlRRE5NeXBxOEQwdW9QanZ4RzBkOGlBbmhJVFRvX2prQUVpTTZCRGJKRDdGYWZPX1ZtV2lkc3VNeTJJWjAxUENPWDkyQ1lyVGc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-20 14:09",
+   "published_iso": "2026-07-20T05:09:02+00:00"
   },
   {
    "title": "「やさしい日本語」で落語上演、外国人にも分かりやすく 神戸在住の桂かい枝さん、8月3日に公演会|文化",
@@ -48,12 +64,12 @@
    "published_iso": "2026-07-19T17:00:00+00:00"
   },
   {
-   "title": "熊本で暮らす外国人と高校生 ミニバレーボールで交流",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ScUZXZnlMemxJUHN2bzBsVjBuYXkyclFCNXNkMS1sYU9JLVo1WWdqMldmUDhQMWlaVDZNSnhQMnRtZUpEbndsVVd2a083UQ?oc=5",
+   "title": "忍者に扮した大学生も！冷茶や和菓子を外国人観光客に振る舞い地元の魅力をPR 通り道ではなく回遊を",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92V1Y5emdybzhDY1lYZV92TmtMWDVGdTZNZWxyNDNaNzlCM18yWTBuaUNZTm5rUkREMnNsdGRiVG5pNlhjVEhmRHpnWWhBQQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
-   "published": "2026-07-19 18:00",
-   "published_iso": "2026-07-19T09:00:00+00:00"
+   "published": "2026-07-19 19:18",
+   "published_iso": "2026-07-19T10:18:00+00:00"
   },
   {
    "title": "外国人に大人気の東京ばな奈！製造工程を特別取材し、テレビ初公開の映像も！あばれる君とお菓子大国スウェーデン親子が人気の秘密を大調査【それスタ】",
@@ -144,14 +160,6 @@
    "published_iso": "2026-07-18T03:18:00+00:00"
   },
   {
-   "title": "スイカ割に流しそうめん！日本の夏の風物詩に挑戦 多文化共生へ楽しみながら交流を",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FcElZSmRNRUlBN2VCVDFwZkxLc0pmdDB3WGZfbUVxNEViRHN4SHJ0dy1iSG9rYzM3b0pnQjl0Q2J1cTRCVHlacDRIWF93Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-18 12:09",
-   "published_iso": "2026-07-18T03:09:00+00:00"
-  },
-  {
    "title": "学生記者から大越健介キャスターに直言！ 多文化共生テーマにリアルイベント",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tQzRNLU5LYUJfcGZJVjNCa1FHS2xDN2xhTDNSOWRjYmVKdVRENUJhckY5eEhTOE05LXpQelo1WTN1cDVNeVVlYmNXVzh3RHJselBuRFBR?oc=5",
    "source": "西日本新聞me",
@@ -166,14 +174,6 @@
    "source_domain": "kobe-np.co.jp",
    "published": "2026-07-18 05:10",
    "published_iso": "2026-07-17T20:10:00+00:00"
-  },
-  {
-   "title": "書評『移民は悪か？』イアン・ゴールディン著",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTN1czMmJIWFp5WFZseE1wTmVnVGFWWWtQVkJRUFhMVU5hcEN6amx1Y1pPV1E0cndndkpBUFJyd0gwdzc3Z3gxenh4NUhlVFFwWE9oeS1KS0RFcTh2RUI1Q3Z4b3cweXpDNTB0Uw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-18 02:00",
-   "published_iso": "2026-07-17T17:00:00+00:00"
   },
   {
    "title": "サッカー吉田麻也が米国永住権 外国人枠の対象外に",
@@ -198,14 +198,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-17 19:17",
    "published_iso": "2026-07-17T10:17:28+00:00"
-  },
-  {
-   "title": "難民認定で敗訴のスリランカ人、入管収容解かれる 監理措置、帰国へ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSk9BcXAwcGUxN2ZmZjFmSWFqMTJzdzROeVgxN05LQzE1WUtSNmtHenc3b21MSHdKamdaRUNrSGp3OTgxSE5pWUlNMkY0Y2k0cGdsREpsUXV5UmhFcDgzQ19Ja0Z0UU9VYktXenRR?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-17 17:30",
-   "published_iso": "2026-07-17T08:30:00+00:00"
   },
   {
    "title": "【速報】五色沼湖沼群遊歩道でクマに襲われ外国人女性が腕などけが 福島・北塩原村",
@@ -254,14 +246,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-17 10:32",
    "published_iso": "2026-07-17T01:32:13+00:00"
-  },
-  {
-   "title": "富士山周辺で外国人観光客のレンタカー事故が急増 「止まれ」標識や左側通行に戸惑い 事故は4年で20倍超",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGUWtfeVlFb0VFOVBXcDg4V0cza3Y3aXpPcXhPa3hScEFlVnNLRjdsMnVpYTdCRVI2ZVZHY1ctOHlURFlMZFdaRWdKajdLQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-17 06:00",
-   "published_iso": "2026-07-16T21:00:00+00:00"
   },
   {
    "title": "米ICEが移民2人射殺 「過剰対応」再び、再発防止策も徹底されず",
@@ -320,6 +304,14 @@
    "published_iso": "2026-07-16T02:00:00+00:00"
   },
   {
+   "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-16 07:03",
+   "published_iso": "2026-07-15T22:03:00+00:00"
+  },
+  {
    "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
    "source": "朝日新聞",
@@ -342,14 +334,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-15 18:26",
    "published_iso": "2026-07-15T09:26:30+00:00"
-  },
-  {
-   "title": "「白人が半分以下」となる米国 歴史が示す「反移民」政策の先",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BTjhXbEJYN0JWQmJMem1DYnoyQWVxLTRnam1wNkd3QXo3cUtfMUc2Y2s2X0pJRGVoRVJtaWFoOFRIWU9TMjhPekk0bGJyT3RiYWhDWnNDNzl5UXN4T2gxNU5Qb0o1WUpL?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-15 14:00",
-   "published_iso": "2026-07-15T05:00:00+00:00"
   },
   {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
@@ -406,6 +390,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-14 15:30",
    "published_iso": "2026-07-14T06:30:00+00:00"
+  },
+  {
+   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-14 11:41",
+   "published_iso": "2026-07-14T02:41:00+00:00"
+  },
+  {
+   "title": "アンディさんに辞令交付 ときわ会 特定技能制度で入職",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJcktFQkVMNXhsdEhEVHJlQ0FLQ0lOS1pZcDlsWDhqM3pVSXRZektaeENuR2lyV28tSWgtdlZuTGlnOXdHZll6SHVOTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-14 11:00",
+   "published_iso": "2026-07-14T02:00:00+00:00"
   }
  ]
 }
