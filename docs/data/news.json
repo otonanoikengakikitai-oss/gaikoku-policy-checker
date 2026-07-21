@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T21:06:12+00:00",
+ "generated_at": "2026-07-21T22:53:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人観光客の消費額1人当たり消費トップはメキシコで50万円超 中国人半減もアメリカやアジアは増加し3カ月で2.5兆円に",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtM1RLRlZuT21JdVZOTXRQelJ4WmxaeEZvdHd4UjlUTFhmMG1TTmhJWXpsV09kY1dRRVlRdEs4OEJSRVVEamFvTWpEanJVdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-22 06:30",
+   "published_iso": "2026-07-21T21:30:00+00:00"
+  },
   {
    "title": "成長力高めるために… 戦略的に高度外国人材活用を 大和総研の小林若葉さんに聞く【経済トレンド／にっぽん診断】",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uOW9CdVRHdzMwUzNFZXV3b1FfT00yYXlGVkJrb2J2UlFTRW5JY0R6WlN1RGVSNERvUUlhN2c1Vzg4Z1BpbnAxdmVaYnBDNVRHMEhEeTVpbmtXRk9rb3V1bnB2bVkxd0djTEYw?oc=5",
@@ -72,14 +80,6 @@
    "published_iso": "2026-07-21T09:10:00+00:00"
   },
   {
-   "title": "SNSで外国人男性を名乗る人物に好意 暗号資産「1万円の利益」で信用…50代女性が1040万円の詐欺被害",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wNVRKczlTU1VVRmJ3dDNCYjJqbnR0VDZieS1Oa2lKUDRwS2tqZ1ZuNVVkZnJzN0twVW1EdG5GRzAwRzloVU84d3l1MVl0UEhXSFB1SlNoWHJfdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-21 17:59",
-   "published_iso": "2026-07-21T08:59:00+00:00"
-  },
-  {
    "title": "日本の外国人政策㊤秩序の維持掲げ、進める「排除」 国費の強制送還は過去最多に＜イチから！解説",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CN0UwdTB5RVpTdmprNDl2dkhoZXgtUFBwUUJtNkMtakJxX0hnOElrQUpkYk9iTmQzdW1idkpYRjQ3b2phWDVBdlltWmFMNEVwcDRBZXZrYko1dw?oc=5",
    "source": "北海道新聞デジタル",
@@ -94,14 +94,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-21 14:30",
    "published_iso": "2026-07-21T05:30:55+00:00"
-  },
-  {
-   "title": "石原良純＆小泉孝太郎、総額約2億3000万円の“金の延べ棒”に緊張！入管＆税関に特別潜入",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qdDRudl9zRUQteWt4VXhKMng1b1VCaWV2X1V0MWxCYnduYkttYTN1Rjk2UGl1MHIzTUFCT2FVRTBJRzBaRUVQNFVua0p2dHZUZGfSAVdBVV95cUxQcHdOU2U0S1NjLUNCYXZWcDE5dTJxc0NkUW5KUURtTDFaSlJuSEhSQU1DOVhlOFpHb2NoVWFpeTJvUVhnWktfaWl6MFZhd0FyR1hYYUMyeTQ?oc=5",
-   "source": "テレ朝POST",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-21 14:02",
-   "published_iso": "2026-07-21T05:02:38+00:00"
   },
   {
    "title": "トランプ政権がUNHCR脱退検討、難民支援滞る可能性 ロイター報道",
@@ -264,6 +256,14 @@
    "published_iso": "2026-07-20T08:19:00+00:00"
   },
   {
+   "title": "ケルン市立図書館は外国人支援も 地元ボランティアはやりがい感じる｜with Planet",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FQU9lakRHblduWUxCQWlRRE5NeXBxOEQwdW9QanZ4RzBkOGlBbmhJVFRvX2prQUVpTTZCRGJKRDdGYWZPX1ZtV2lkc3VNeTJJWjAxUENPWDkyQ1lyVGc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-20 14:09",
+   "published_iso": "2026-07-20T05:09:02+00:00"
+  },
+  {
    "title": "サムライの面影にわく訪日客、移動のバスは人手不足「30代いない」 [長野県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RLURRYUFzd2JwS1QzUDB2VHdwX25scUdtc1hCWi1DZ2dzeVFrYUJrSW93VHhpckhiaUxqcV8yMEJncnVPTjNWU1l5T3JDZFR2cE1SRk9qb2UtTk9rU0otVnZKNG55TVU?oc=5",
    "source": "朝日新聞",
@@ -294,14 +294,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-19 15:30",
    "published_iso": "2026-07-19T06:30:00+00:00"
-  },
-  {
-   "title": "韓国、ウォン取引規制を大幅緩和へ－外国人の取引容易に | TBS CROSS DIG with Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tSU5DcE1mZWlmRjJZZTBuOVI1bHBxcFp5V2hSdFdYenM4WE1oTVNLaGxFUUxxM1R1aVhTOHFlTWRIMUJ3M3h5blJhUE16UkpqYzZpQ0hvUmRTNVFqaFhzQ2trTXNuTW8?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-19 14:08",
-   "published_iso": "2026-07-19T05:08:14+00:00"
   },
   {
    "title": "外国人は「活躍」でなく「活用」 共生の壁は根強い「優越意識」",
@@ -344,6 +336,14 @@
    "published_iso": "2026-07-18T01:00:00+00:00"
   },
   {
+   "title": "難民の子どもへ理解深める 北摂三田高・人間科学類型2年生 服を届ける事業の一環|三田",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMjQyaEZ4aXhXT19wVWZJYlpUZFpGVU81RzZfemJ4V2c5WmNFQ2JIT1V5cEhZcmpNaHE0RlZFaHdDLThsT3dZS01OQkRXYUxaQXQyQTlCY2tFYVE1QmlPVy1wUGtaQXRaVm5v?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-18 05:10",
+   "published_iso": "2026-07-17T20:10:00+00:00"
+  },
+  {
    "title": "移民は悪か？ イアン・ゴールディン著 移動の人類史から見る世界",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFanFNSzZtRkVmcmVLQzJiczBtYlBYbmlHN1l2QzdHcmo5OFBRQlYwUGxvRUMtZHVlRWRpYjZnX3F6TUh2RXA5S2J4NDdBelRwLVRoR0pFMnV1bkI1S0xXcGJTbVRFUWt4WXhIYg?oc=5",
    "source": "日本経済新聞",
@@ -384,6 +384,14 @@
    "published_iso": "2026-07-16T21:00:00+00:00"
   },
   {
+   "title": "米留学ビザ原則4年に短縮 強硬な移民政策の一環、9月にも発効",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCX1d6TE1JUnp6Zi1qU2preWxQWXJCMXFLb2JtLVg1Z2d3Nk1YcENRV1ZhVG1jUll3Rkk4RS1OeFNSbDFvZ2k4V2xXalp4THZPdEFuenh6eGpNZ0VHeHdTNTV5aDBJNTBiSURta3VMZEVGNFA1N3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-17 00:25",
+   "published_iso": "2026-07-16T15:25:11+00:00"
+  },
+  {
    "title": "東京入管が収容中のスリランカ人男性を解放する方針 「なぜ収容されなければならなかったのか」妻は憤り",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cGo2WlhuUkxQeDZGaGpTVkE3NmhHTWJnZjdwSnVadlZsaTMxS0o5RGhSUEVZOWRXVWs3bGg3QXRzWEtlWjItMVI4dUthako0QjE4?oc=5",
    "source": "東京新聞デジタル",
@@ -398,14 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-16 06:25",
    "published_iso": "2026-07-15T21:25:00+00:00"
-  },
-  {
-   "title": "車止めようと相次ぎ射殺、米移民摘発に伴う車両停止で反発広がる…トランプ氏は擁護「最も効果的な犯罪対策」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13LVpsNHplQWVHTWs3QnhuZkpnelZaWDRhb0E0UzZFVEdQcjVBZFpQaVlHZDREaXhoa3V0V251bjlfZngtUzBPcHA4ZVBobUNxZGZQZ1l3VDgxcEMzSGVjLTdn?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-16 05:00",
-   "published_iso": "2026-07-15T20:00:00+00:00"
   }
  ]
 }
