@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T22:53:59+00:00",
+ "generated_at": "2026-07-21T23:54:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「思いやりで心は伝わる」 高島平団地で外国人の日本語スピーチ大会 地元NPOが初開催 50人で多文化交流",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNzd4UF9iamRkNGItNkRiUnYxa0hiMVd5c3dYSlAyM3pZR1FJUi1jNFlZYVAzOEtxV2ctaVE4bGFVLU9mX2xRaHFEWE9zdGg3eENF?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-22 08:46",
+   "published_iso": "2026-07-21T23:46:47+00:00"
+  },
   {
    "title": "外国人観光客の消費額1人当たり消費トップはメキシコで50万円超 中国人半減もアメリカやアジアは増加し3カ月で2.5兆円に",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtM1RLRlZuT21JdVZOTXRQelJ4WmxaeEZvdHd4UjlUTFhmMG1TTmhJWXpsV09kY1dRRVlRdEs4OEJSRVVEamFvTWpEanJVdw?oc=5",
@@ -73,11 +81,11 @@
   },
   {
    "title": "50代女性がロマンス詐欺で約1040万円被害 SNSに外国人男性を名乗る人物からメッセージ 大分",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96SXZmcS1BSkJmTDN0aVJqUTNkck1QdjV0VnFxSURncWhSeUw1S294UlFJb2Nha2N1alJneTFRNW9DY2ozbWNlS1hNQjNJUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 18:10",
-   "published_iso": "2026-07-21T09:10:00+00:00"
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XM1poelZHQVpnbjQxZk9VT1FvcVYxWnJfbmNxeTBQU0R2V3hLQmFZTm1NVGtHVzR2OXc1dW5HZFBfaXA4M0FpeXd6V0pnR2tsNW5hbHNaN2laMkhHRFpLMF9qX3RVVVdGMjAzQk1aeTdOTGF2V2tqY2tVcHJhM2s?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-21 18:30",
+   "published_iso": "2026-07-21T09:30:01+00:00"
   },
   {
    "title": "日本の外国人政策㊤秩序の維持掲げ、進める「排除」 国費の強制送還は過去最多に＜イチから！解説",
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-16 20:46",
    "published_iso": "2026-07-16T11:46:02+00:00"
-  },
-  {
-   "title": "博多区の食品会社で殺人未遂事件 技能実習生の男を鑑定留置始める",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95OTI2VHZUdFh2TGlFT2NoQUdJYUVIMlEwRWhVT3BaLW5iTXhlbGNOWmZxcGpSeGZkSDZwNnJrRUx6ODJMNU81RExjZDBUSUxRNi1BUG1JeGJvcTNDWS03RTF5cVN2WEU?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-16 06:25",
-   "published_iso": "2026-07-15T21:25:00+00:00"
   }
  ]
 }
