@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T00:01:38+00:00",
+ "generated_at": "2026-07-21T04:13:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,76 @@
  ],
  "items": [
   {
-   "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tYURQSHViVWhiUnB2ZGo0OFVBN1ZOcmNQZVBwUmFzTXVWNjFyRWt4dDFUR3FQSVZfVndvVWp1bmdrR0NMZTZhbnlKQUQxQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 08:00",
-   "published_iso": "2026-07-20T23:00:00+00:00"
+   "title": "トランプ政権、国連難民高等弁務官事務所から脱退検討 ロイター報道",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HMmF0c2JxUnY0a2RqcUxmQkNlRWY2YVdxYTJLeEw5amVmaGZqZmFENWpsdkZoNnJzOHExNGdMQXJWY0ExNWhoLWtJNnAtM3kteVR2VU9mQmtTU3N6LVZkd2M2cERhN2JLMEZQVA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-21 11:49",
+   "published_iso": "2026-07-21T02:49:57+00:00"
+  },
+  {
+   "title": "ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUWI3LVBLSm92cXAwdkRCTXRWb1l4UllqdGI5clJxVzZKRGlyaVdIMUxxbTVuSWctdWFZbzZxQ09DTkN1VHFuZlozZUlHOE92QUh3VVpGMWRObU90bGlEZTNRRmJCeFU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-21 11:38",
+   "published_iso": "2026-07-21T02:38:15+00:00"
+  },
+  {
+   "title": "「自治体任せではなく、国が移民を包摂する政策を」モスク・土葬問題",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeUFpUkdKNzlrNWo1Tk9WUXRxOUpFNTVUaFZXNUdUUzQ2MGRYUW5wNENJOVhDeTFPUmxsNkF4RUtaMGZ2bTM3NkpLcWxwUVluZVVYTVJLbU5kRzU5cTBMUkxEZkI5LTQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-21 11:00",
+   "published_iso": "2026-07-21T02:00:00+00:00"
+  },
+  {
+   "title": "米、UNHCR脱退検討か 難民支援機関、予算・支出改革訴える候補任命されず反発か",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZUFRMkNTN3E3R1NOQXF6NWxKVUhZY1c0NGNrbzRpbnYzQ0U0YTVsMUdTV2t3cHMxckpLcXc1YjdGNFFaTTM1a1hiT2xUMTlST09aZDc1VDIzZk1HNTNOSFJmLXphMjJzaWlkNENUZlcyNmJybGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-21 10:55",
+   "published_iso": "2026-07-21T01:55:49+00:00"
+  },
+  {
+   "title": "過去最多４９３万人 ２５年県内宿泊 外国人、初の１００万人超え",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IREVzeS1YcFY2ai1HQnhXM1hiaTlkc19LajcwbXRzbG5YX0h4cUw1RkRMeDVHWVNTQnVFS0FCa1BIWjFLeWd4YVdhWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-21 10:46",
+   "published_iso": "2026-07-21T01:46:44+00:00"
+  },
+  {
+   "title": "【米国と学術研究】揺らぐ科学技術立国 移民が源泉、排他的政策",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Qng0Tjd1dlJOMVFZTzBqXzJaM2JtN3dQOWNIV2dUWS1NVVo0b0Y2MkNhUTJqYzNibllyTTZabk5kT1FHMlF0QkZwOVdoWVVsZDc2endn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-21 10:40",
+   "published_iso": "2026-07-21T01:40:10+00:00"
+  },
+  {
+   "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？ 「見逃すわけにはいかない」、警察が執念の捜査で逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RUUdZaWMzb3VSX0VkUjN3MXVUdUhHZG40ck9BclNNUHV6ZzVkUjNLUVlmOTB6Ymt4akRuSlhnVjI1MVNVXzdaekZpbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-21 10:30",
+   "published_iso": "2026-07-21T01:30:00+00:00"
+  },
+  {
+   "title": "「ICE＝移民当局を街から追い出せ」ニューヨーク連邦庁舎に放火か 元アメリカ陸軍兵士を拘束",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KYlVESWMtQU1ZUXFaOGl5cENBclBRMkgwRTZaT0tsWXFTRWNhZnVoREJ3cjlRd1B1YnJ6R1hkQkgwZUNueWUyQUFYUGdJT1hOS2YtTDF4ZEY4bWlPZi1zSWQxRlM?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-21 09:59",
+   "published_iso": "2026-07-21T00:59:26+00:00"
+  },
+  {
+   "title": "ポテンシャルを成果に変える！明光キャリアパートナーズが「外国人エンジニア特化型日本語レッスン」を新規リリース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iekw0a2ZzZGxOWkVONVJFS2N4T3BkSnVsc0IwNnF6REV1UkNPdlNROGdSUVNfdEpQNzJONHZNaTJkVUNuRGRiRWlXOHhKb2ZSanRZaWVHZFdpVEdDandxWUJ3cnB6cUN6SE80d0FKeUZSQUo1X0dfaDQ0Zw?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-21 09:00",
+   "published_iso": "2026-07-21T00:00:00+00:00"
   },
   {
    "title": "放火事件があった移民・税関捜査局（ICE）などが入る連邦庁舎そばに停車した警察車両＝20日、米ニューヨーク（ロイター・共同） - 米NY、移民捜査局庁舎前で放火 マンハッタン3人軽傷、男を拘束 - 写真・画像(1/1)",
@@ -38,14 +102,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-21 06:07",
    "published_iso": "2026-07-20T21:07:15+00:00"
-  },
-  {
-   "title": "ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か [トランプ再来]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUWI3LVBLSm92cXAwdkRCTXRWb1l4UllqdGI5clJxVzZKRGlyaVdIMUxxbTVuSWctdWFZbzZxQ09DTkN1VHFuZlozZUlHOE92QUh3VVpGMWRObU90bGlEZTNRRmJCeFU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-21 06:00",
-   "published_iso": "2026-07-20T21:00:00+00:00"
   },
   {
    "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
@@ -112,20 +168,20 @@
    "published_iso": "2026-07-20T10:08:00+00:00"
   },
   {
-   "title": "外国人運転とみられるレンタカーが車線はみ出しか…連休最終日の観光ルートで正面衝突…男女6人が重軽傷・ドクターヘリなどで病院搬送＜北海道富良野市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vSTdzTkhybWdURkZ2bWd6b2Vob0gtTjc5bnRoU0E1OG1PNHdKS201MGhyQXozNWdnVXJ5TGxrYnEwYl93RWlKR3ZiNGhHUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-20 18:15",
-   "published_iso": "2026-07-20T09:15:00+00:00"
-  },
-  {
    "title": "外国人絶賛！憧れのバイトはコンビニ!?【しらべてみたら】",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aREJHSDRzYUJjZDNtd09lT2szRTRlNUkyTHY2bE5zNWtKbVR0NHZQQXYyZG5ZbksyMHdCeURMSVlxY05QZmx1TmZybzNqQQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-07-20 17:30",
    "published_iso": "2026-07-20T08:30:00+00:00"
+  },
+  {
+   "title": "熊本県で増える外国人労働者、労災事故も増加…経験浅い時期に発生、雇い入れ時に安全衛生教育が不十分か",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hU05Hd1JTUmU5RWdRNlk2RjJjc3BVNzhpWDlnd1d3aEdvVFVXSURtbGhHS0xmQlZwMHJrRFBrbWtXYXpISWFLQXh1MTlrWHpWSzdod3UzSUdwUXJNaWNkekgxb1dTdWxaOHF4YldRTldKQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-20 15:02",
+   "published_iso": "2026-07-20T06:02:00+00:00"
   },
   {
    "title": "ケルン市立図書館は外国人支援も 地元ボランティアはやりがい感じる｜with Planet",
@@ -232,22 +288,6 @@
    "published_iso": "2026-07-17T12:59:52+00:00"
   },
   {
-   "title": "スリランカ人男性が解放「早く出てこれ、みなさんに感謝」 東京入管が14日から収容",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqM09HcGNrT05OSUVGSk1maUcydzAwZFdSZk9fYzBjNHV0VlN6WmZGQkI4dFJfX3dJb2JjSERNR2ExeVN5RHQyRks5S0ZVenloc0Zn?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-17 19:17",
-   "published_iso": "2026-07-17T10:17:28+00:00"
-  },
-  {
-   "title": "「不法滞在とみられる外国人がいるようだ」最長9年、ベトナム国籍の男女6人摘発＝静岡県警など",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBySzVrTDEwdU5sVmdERkJXYXVtdnZfYjZJcU53ZkViNEsyZE8wV29TUFlPcF80WGYyYno5Wk9GQjZ2OHVub1dweEtiMzRxWExPUThIcmdVdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-17 16:10",
-   "published_iso": "2026-07-17T07:10:00+00:00"
-  },
-  {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRmVzVS02SE1yWVZ4MldCM1FwZ3Z0WWVkU0ZRNWRtLXJnTGFqV2lMdU5mcUVFa051d0J5UHptTGFnRksxWS05aWdNS3UxUVZsYU5mYVotbS1hZGRZczByX1ZLVVlhX1BU?oc=5",
    "source": "毎日新聞",
@@ -280,14 +320,6 @@
    "published_iso": "2026-07-16T11:46:02+00:00"
   },
   {
-   "title": "「息子はルールを守らない外国人に未来を奪われた」被害男性の母 増える外国人交通事故 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81Z0JzRGVLUDdKX1BYaGVrUm9GUnoyYUxUY0FzZ0ZrSWlsVzQzTFNWS0NkX3NwcjVCMVpKRll6VmJ0ekNCN0F0dUpqZ3JjS09RMjVRUEN3VF9uNUw3U3FDM0dCaUczOE1hLXYwMHVtMTl0MkpNOUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-16 18:30",
-   "published_iso": "2026-07-16T09:30:14+00:00"
-  },
-  {
    "title": "船転覆、５００人超死亡か ミャンマー沖、大半は少数民族ロヒンギャ―国連",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6WHFrblVzWFdMdlNxSFZzWFY4V1VIa2JockxoSW5vUndPTVNCbXF4MkFJMmh2QUg3bV9xcnFxRVJId21WS1llaFhPd2hKdWpJdU02X0N0c1d5cU12cmJVYVp4MA?oc=5",
    "source": "時事ドットコム",
@@ -296,28 +328,12 @@
    "published_iso": "2026-07-16T09:25:00+00:00"
   },
   {
-   "title": "独自＞川口のバイク19歳男性死亡事故、トルコ国籍の男起訴 赤信号無視 さいたま地検 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYeDhHemY3V3dvQTh1cEF5ZVhWLUhYWW4yWTlEbHpNSEhOS0FKd08yWFlCc0k0dllOMkhyRlRBSTJjTUdPZDF1eXpQSlhMNFNiVVdFMHNRMzNlcGdxUS1fWWtlNEdYdUNOOE5xUnlScThZaFlTV0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-16 11:30",
-   "published_iso": "2026-07-16T02:30:00+00:00"
-  },
-  {
-   "title": "トランプ氏、移民当局の方針を覆し「車両止める措置」を継続へ 移民への厳しい姿勢緩めず",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dnlNUE5YeDNVV19zRVhqZUZvS2FTdnFrSWNUeG40STRnRkZkWFFySUNWdURBSEZMNVNZaXRtY3BoTlMwR3dONnlNVTEzQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-16 07:03",
-   "published_iso": "2026-07-15T22:03:00+00:00"
-  },
-  {
-   "title": "難民申請、国は退け司法は認めた 「３回目以降送還可」に疑問の声",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdlpGYWNnSXhjQ0o0cWZ0X0cxVDdYUXduUlJUUkZnOU4tX0ZGOFNDWU9xN2JGTkxYRi1RX1Bvd081QTFneFdjWHZuLXNaU0t5aFZrR1lod2doVktT?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-16 05:00",
-   "published_iso": "2026-07-15T20:00:00+00:00"
+   "title": "外国人材のAI定着支援プラットフォーム「KIZASHI」、利用企業250社を突破 - 無料体験も受付中",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VUhNRWFIX3FLdnZPRGxFUDY2SlNvcndRYkJOQUFyNXlKQThreU5PbGdNM0hwM0JZT3psZzhiazlXa1BiSVVvM201dmFKN1NPQnRPQ1U0czVocGJ5NWF3Q0EtRG00UFV4aWJN?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-16 14:46",
+   "published_iso": "2026-07-16T05:46:00+00:00"
   },
   {
    "title": "車止めようと相次ぎ射殺、米移民摘発に伴う車両停止で反発広がる…トランプ氏は擁護「最も効果的な犯罪対策」",
@@ -368,28 +384,12 @@
    "published_iso": "2026-07-14T02:00:00+00:00"
   },
   {
-   "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-14 07:08",
-   "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
    "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-11 16:00",
    "published_iso": "2026-07-11T07:00:00+00:00"
-  },
-  {
-   "title": "【速報】川で遊泳していたベトナム人技能実習生の18歳男性が行方不明 福井市南居町の日野川",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aeDJLSE9YNl9WTnlZdFlqcHA1R1FwS2k4UkVXTDFNMmNUYVdqalBqQWRwY0hnMWRudjh4X0tKaV81UmdBYmhjcUhQUmtjUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-10 16:00",
-   "published_iso": "2026-07-10T07:00:00+00:00"
   },
   {
    "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
