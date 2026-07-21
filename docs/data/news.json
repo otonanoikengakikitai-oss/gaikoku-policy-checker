@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T15:02:01+00:00",
+ "generated_at": "2026-07-21T17:15:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［香川編］1位は「コンフォートホテル高松」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xal9MY3p6N0xJS0pqbXVFYThtdmpUcnFFNC1ZQWg3eVIyTW1mblJNQlFXeGZma0NZUERRNGlsTG1SZHB4dndaZEJQWENWOUFrTmlkN3RsOVRtbkprclpoQkMyV1lXWVZ2bU5j?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 01:15",
+   "published_iso": "2026-07-21T16:15:00+00:00"
+  },
+  {
+   "title": "「移民当局出ていけ」ニューヨークのビルにガソリンまき放火 連邦職員など3人軽傷 元陸軍兵士の43歳男を拘束",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80TVh3WEhUU1E5V3ZWTUUteFJmOEFhOTRKTFlsTHdqMzM5SGdEbVpCM0MtVkdCa0xhN1NEZmg5WjRpWHdHTmI2MkZyUDEyZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-21 20:01",
+   "published_iso": "2026-07-21T11:01:00+00:00"
+  },
+  {
    "title": "外国人実習生ら浴衣で夜市満喫 スリランカ、フィリピンの14人",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pNmhZNjcyZHFSSXlYME9IbHBNR1VLV0RYV1VRTVBhazlRTW9VLXdrM2lCa1FuRUJTUWtvYUY5M1R2Y01VdEpwUl9GSQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-07-21 21:17",
-   "published_iso": "2026-07-21T12:17:13+00:00"
+   "published": "2026-07-21 19:15",
+   "published_iso": "2026-07-21T10:15:00+00:00"
   },
   {
    "title": "トルコ国籍の男「もう運転したくない」川口のバイク19歳死亡、信号無視の起訴内容認める 「移民」と日本人",
@@ -30,6 +46,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-21 18:46",
    "published_iso": "2026-07-21T09:46:00+00:00"
+  },
+  {
+   "title": "50代女性がロマンス詐欺で約1040万円被害 SNSに外国人男性を名乗る人物からメッセージ 大分",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96SXZmcS1BSkJmTDN0aVJqUTNkck1QdjV0VnFxSURncWhSeUw1S294UlFJb2Nha2N1alJneTFRNW9DY2ozbWNlS1hNQjNJUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-21 18:10",
+   "published_iso": "2026-07-21T09:10:00+00:00"
   },
   {
    "title": "SNSで外国人男性を名乗る人物に好意 暗号資産「1万円の利益」で信用…50代女性が1040万円の詐欺被害",
@@ -312,6 +336,14 @@
    "published_iso": "2026-07-17T12:59:52+00:00"
   },
   {
+   "title": "外国人材の採用へ…福岡の企業と韓国の大学生が交流会「マッチングの機会に」企業選びや価値観など意見交換",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82aXVYOUpqYVZmWUViX1hfaGt3VVF2OF92bk9iTnBNMU1IODU3QVZNTFhWVXNtNnh6OWZiWW1wcTVzTWdqcU16V2VJREV6UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-17 17:40",
+   "published_iso": "2026-07-17T08:40:00+00:00"
+  },
+  {
    "title": "「コンサータ難民」減らせるのか ADHD薬、薬局間で融通可能に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRmVzVS02SE1yWVZ4MldCM1FwZ3Z0WWVkU0ZRNWRtLXJnTGFqV2lMdU5mcUVFa051d0J5UHptTGFnRksxWS05aWdNS3UxUVZsYU5mYVotbS1hZGRZczByX1ZLVVlhX1BU?oc=5",
    "source": "毎日新聞",
@@ -374,38 +406,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-14 22:11",
    "published_iso": "2026-07-14T13:11:09+00:00"
-  },
-  {
-   "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-14 21:41",
-   "published_iso": "2026-07-14T12:41:40+00:00"
-  },
-  {
-   "title": "［動画］「外国人材」資本経営 東急バス・外国人運転士の研修現場に密着",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUEgyNjNmMlhlb1NoN2lNSE04aXBQbzdqYm1ZNjJyX0lJNVdGbW5abFlyLTVZcmc1akJyREx3WlBtVVpEbHpRZ2kwVHFyZ2dUU195aDN0SkUzZWtkN3EzelRJcEFSUlE?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-14 15:30",
-   "published_iso": "2026-07-14T06:30:00+00:00"
-  },
-  {
-   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 16:00",
-   "published_iso": "2026-07-11T07:00:00+00:00"
-  },
-  {
-   "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQjJ5dFZUTVlVb0N2ZDBiTm9xem40MzBSM3h0Y2dWRFdpS3lIZERxbVlyZnpDTDIxVGx3WXg5NFRDRFJQQW0xb3YxekI2S1VsMzNjSjBtcDBnZjFYV1hwU1FuTjFkamc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-04 16:00",
-   "published_iso": "2026-07-04T07:00:00+00:00"
   }
  ]
 }
