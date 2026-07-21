@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T22:58:14+00:00",
+ "generated_at": "2026-07-21T00:01:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tYURQSHViVWhiUnB2ZGo0OFVBN1ZOcmNQZVBwUmFzTXVWNjFyRWt4dDFUR3FQSVZfVndvVWp1bmdrR0NMZTZhbnlKQUQxQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-21 08:00",
+   "published_iso": "2026-07-20T23:00:00+00:00"
+  },
   {
    "title": "放火事件があった移民・税関捜査局（ICE）などが入る連邦庁舎そばに停車した警察車両＝20日、米ニューヨーク（ロイター・共同） - 米NY、移民捜査局庁舎前で放火 マンハッタン3人軽傷、男を拘束 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NTV0YzZkbUVYcDI2am0wbVJtNDNVOWt0UGNreFpEbnhiVmFVMnZqX3RUNFFLOUNxMmkwanRXYTNRMjItRk5DYlBKSUJHTTR4bTB5TVZ5Zw?oc=5",
@@ -88,6 +96,14 @@
    "published_iso": "2026-07-20T13:36:00+00:00"
   },
   {
+   "title": "「とっとっと」「せからしか」外国人に熊本弁は難解!?熊本県が方言ハンドブック作成（2026年7月20日掲載）｜KKT NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2ZCb1BTbk1kZEJhYkNneDJoNVRQZHJSRlVROGxRQ19jdmhGNmxTWW5EX25IQTh4UXB4OU1MUmU4cTQ2TFcyckxBZ3BqYkd3SVI0SHVtdFN5VmE2bHg1UkVlVloxSkRyVDRjUDVDa2J2WGRrRFczWWdPWmpkRnpGZHJ0OXg0dVE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-20 19:48",
+   "published_iso": "2026-07-20T10:48:00+00:00"
+  },
+  {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rWEk5TTE2MDduaVZ5U3pNZzlrVXppZXNEVDZDemE2VnpuSTZVZ05IdVhxTjVXOVBuT0pHYkVkT0pNUWY3UGhsQ0NFVktaS1NMVjhkLTRfNlprUQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -110,14 +126,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-20 17:30",
    "published_iso": "2026-07-20T08:30:00+00:00"
-  },
-  {
-   "title": "『ニホンジン？じゃあコッチ、コッチ』外国人風の男が夜道で女性の身体をしつこく触り連れ去ろうとする…首に“円柱状の太鼓”を掛けたエキゾチックな風貌の不審者に警戒＜北海道岩見沢市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6RDVFZURTMC1UWElUb0FqN3k5MUx2X3BzUGFDd0dFWFA0RkotM0FyWEY0Sm9oVXVyUW9Vb3UyZnhBRXAxNVY2R0RLaW44Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-20 15:15",
-   "published_iso": "2026-07-20T06:15:00+00:00"
   },
   {
    "title": "ケルン市立図書館は外国人支援も 地元ボランティアはやりがい感じる｜with Planet",
@@ -352,14 +360,6 @@
    "published_iso": "2026-07-14T12:41:40+00:00"
   },
   {
-   "title": "ICE職員が発砲…就労許可持つ移民男性が死亡 アメリカ・メーン州（2026年7月13日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGJaenhocmlHZzNhekp4MUJFeDNxdWhPUWdtaEd6TlBWb3Vkc1JwMU5yaGR5ZE5kRkxsdG9UQ0dpcGRZU2VVYko4M0lzWW85XzhCYnNUOE1pNzBabEhzazZwN2hDcGtmLU9fbjZyTlVhSFpRNlI5SWR4T2M1cnQ2V0RrRTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-14 11:41",
-   "published_iso": "2026-07-14T02:41:00+00:00"
-  },
-  {
    "title": "アンディさんに辞令交付 ときわ会 特定技能制度で入職",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJcktFQkVMNXhsdEhEVHJlQ0FLQ0lOS1pZcDlsWDhqM3pVSXRZektaeENuR2lyV28tSWgtdlZuTGlnOXdHZll6SHVOTQ?oc=5",
    "source": "47NEWS",
@@ -368,28 +368,12 @@
    "published_iso": "2026-07-14T02:00:00+00:00"
   },
   {
-   "title": "米、移民当局発砲で１人死亡 ２週連続、メキシコから抗議",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xbFYzaFJCMmRVMXN5LXMyRndTVk1EZ3o4T2R3MC1XUl92N25haDdCRnFnUTlJSDFjRTBiWDFWbFdxSTkxYlZpaVFtaE40MWxpS0tJWm5NMTUzX3hWYWVNTlBYYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 08:12",
-   "published_iso": "2026-07-13T23:12:00+00:00"
-  },
-  {
    "title": "1週間で2度目、移民当局の発砲で男性死亡 トランプ政権批判高まる",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yNG9NUUdEbzhQcnQyOExTY1VpZlJBR0VFMm1CSHZLU2VpMXRWLTNSRS1oa0hCV2gwc3NDVXA3VWlaUzBzc2FMWWlFbjRJS2pzTlNxNTljU0JncGNKYUN2LWtqMlpxV0E?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-14 07:08",
    "published_iso": "2026-07-13T22:08:33+00:00"
-  },
-  {
-   "title": "国境越える「ディアスポラ」の大会 移民国家に残る壁も―世界を映すＷ杯サッカー（下）",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdVo4RzlnNFF2RjBRRVhYcTZ1NjIxdHNLZzBfVmRLY3ROd2x2d2lueEJTeWlkTkt3bkdVY1dTSU03MS1LS1FEeEdzWUxXdlFPVnJSRk5Zc3M0enJDTTlubXRvMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-14 07:07",
-   "published_iso": "2026-07-13T22:07:00+00:00"
   },
   {
    "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
@@ -406,6 +390,22 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-10 16:00",
    "published_iso": "2026-07-10T07:00:00+00:00"
+  },
+  {
+   "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQjJ5dFZUTVlVb0N2ZDBiTm9xem40MzBSM3h0Y2dWRFdpS3lIZERxbVlyZnpDTDIxVGx3WXg5NFRDRFJQQW0xb3YxekI2S1VsMzNjSjBtcDBnZjFYV1hwU1FuTjFkamc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-04 16:00",
+   "published_iso": "2026-07-04T07:00:00+00:00"
+  },
+  {
+   "title": "外国人の在留手数料、最大７万５千円に引き上げ 永住許可は１万円から２０万円に増額―政府改定案・１０月施行方針",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeTRXelNPR1dIZVVqSFVLOEdJd3lGUnh4aXZaN0FsVFdJcU8yYzdEcS1kejh5VmZqM1RHRTRUMS1JSmRzbFc3VUtOQnVZVGRRZ2EydWEtZl96cV80Zkp6azZZcw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-03 16:00",
+   "published_iso": "2026-07-03T07:00:00+00:00"
   }
  ]
 }
