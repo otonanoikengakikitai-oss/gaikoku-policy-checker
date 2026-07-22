@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T11:07:11+00:00",
+ "generated_at": "2026-07-22T13:46:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,32 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-22 20:02",
-   "published_iso": "2026-07-22T11:02:29+00:00"
+   "published": "2026-07-22 21:09",
+   "published_iso": "2026-07-22T12:09:17+00:00"
+  },
+  {
+   "title": "北アルプスに来る外国人登山者､出身地はどこ？ 山小屋の世界地図ボードに多くのピン",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbnNtN1o5R1l4UmtPT21uT2I0eFI3RnlPclZVTHdnWVBDak1abkVfd0d5WVRaVHVMdXd3M09rNGJtN3J3NWZxUFhfZ3BVbHN4U0RiV0ZBSmRjMHRWUmU3NUNJUDFlNWZla2dwdGpHc0w?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-22 20:56",
+   "published_iso": "2026-07-22T11:56:00+00:00"
+  },
+  {
+   "title": "北アルプスに来る外国人登山者、出身地はどこ？ 山小屋の世界地図ボードに多くのピン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qcHFDVlJUMzFFQm16MmowS2hRZS1FWUYycTUxaTF1QXN2cDRsOFJhMGg1UXFWbndXenlfRUJDSDNLekNnVXV4dzVOcw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-22 20:56",
+   "published_iso": "2026-07-22T11:56:00+00:00"
+  },
+  {
+   "title": "松屋が9月銀座に新館 アニメや漫画の企画展、若者や外国人に的",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBMkJoaTRpenhoeXZMQzZZZlhoYU9xY092SG9RSnN2Ykw1RC1sWW9jYjRJN0lYcU1iT3Jxc1Mxa2pHM25CcGc4SFZ4cmhldDItcEdiRkFGS3RlMVBjclpUU3hZRWhrQXI1cVBPVA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-22 20:43",
+   "published_iso": "2026-07-22T11:43:26+00:00"
   },
   {
    "title": "ロッテの新外国人・ルケーシーが来日「早くチームの力になりチームメートと共に残りのシーズンを戦っていきたい」",
@@ -48,12 +72,20 @@
    "published_iso": "2026-07-22T09:44:01+00:00"
   },
   {
-   "title": "オンライン日本語教育事業を法人向けに運営するバベルメソッド社が、Sun*グループに参画",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50U0NxZG9DWldTczVTdnpwRHRrR0Npdk13LWtaOXdDai1ETWl0QnpwaVBRRXozQXJqejNRU190S3JWcC1URnc5ODlwTC00UllySFpDSWswbWVFcDF5aDNRTVZVWnV4MjducDBn?oc=5",
+   "title": "不法移民排斥激化の南ア、２か月で約１６万人出国",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45b3FWSDRMOVYtN3gwTXpVejFMdU9LQlNsdW96QTZDMFh4eE1TcndMWV9XU3JkVkcxN1Zwd0tLaFNJcE5UeF82Rm84UnZxY05QYVJxRC1xbXBPWTJsY2dsUHVtOEJ2UQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-07-22 16:45",
-   "published_iso": "2026-07-22T07:45:00+00:00"
+   "published": "2026-07-22 17:49",
+   "published_iso": "2026-07-22T08:49:00+00:00"
+  },
+  {
+   "title": "ウィシュマさん入管死が結審 判決１２月、医療対応が争点―名古屋地裁",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hQ2hRb3ZlcEJZdGhJSi1qSWFHVXFuZHlzNEcxV1ZleHoydGpmRmpxNEppS3FEelVuV0djUXlacHlRNHNrMkMtMU1VZ0FvWFd0R1JPRklDV3BIbWtwZzlHNTlpWQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 17:39",
+   "published_iso": "2026-07-22T08:39:00+00:00"
   },
   {
    "title": "在留外国人「いまが一番不安」 厳しくなった資格審査、揺らぐ共生",
@@ -70,14 +102,6 @@
    "source_domain": "jiji.com",
    "published": "2026-07-22 16:15",
    "published_iso": "2026-07-22T07:15:00+00:00"
-  },
-  {
-   "title": "【7/28無料ウェビナー】外国人の83.7％が日本以外の就労にも関心―採用競争が変化する中で企業が備えるべきこととは",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GODlFc0RvUVFYeDY5U2t6dFN5Z0N1WkxTcFdEVGE5YWFUdF9wSzJYRXJNR216U0g5LWhDU2NZakwta0FuZjI0enJzd3pyQzVaemdXWlZtdEQxWHdvR2hVbnBLb3ZyaU5SY0JR?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 15:15",
-   "published_iso": "2026-07-22T06:15:00+00:00"
   },
   {
    "title": "外国人技能実習生の監理団体の職員ら2人を再逮捕 入管難民法違反の疑い 「タイ古式マッサージ」うたい店を経営 4年で3億4300万円売り上げか 警視庁",
@@ -232,38 +256,6 @@
    "published_iso": "2026-07-21T00:50:49+00:00"
   },
   {
-   "title": "米、国連の難民機関から脱退検討か",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ic3p2Ti1YUkZVSTh6aWRDWDRGTnJkeEhZMUJrUkhmUFZHbG1JZVRENmRHT0NKMmFHX0pnRTV2a3kxTk12WG9BY0djY3ViU1VsZDNWMHRweVA?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-21 09:50",
-   "published_iso": "2026-07-21T00:50:49+00:00"
-  },
-  {
-   "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tYURQSHViVWhiUnB2ZGo0OFVBN1ZOcmNQZVBwUmFzTXVWNjFyRWt4dDFUR3FQSVZfVndvVWp1bmdrR0NMZTZhbnlKQUQxQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 08:00",
-   "published_iso": "2026-07-20T23:00:00+00:00"
-  },
-  {
-   "title": "放火事件があった移民・税関捜査局（ICE）などが入る連邦庁舎そばに停車した警察車両＝20日、米ニューヨーク（ロイター・共同） - 米NY、移民捜査局庁舎前で放火 マンハッタン3人軽傷、男を拘束 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NTV0YzZkbUVYcDI2am0wbVJtNDNVOWt0UGNreFpEbnhiVmFVMnZqX3RUNFFLOUNxMmkwanRXYTNRMjItRk5DYlBKSUJHTTR4bTB5TVZ5Zw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-21 07:33",
-   "published_iso": "2026-07-20T22:33:41+00:00"
-  },
-  {
-   "title": "マンハッタンの移民捜査局庁舎前で放火 米NY中心部、男を拘束 一時騒然",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11Zkp2VGRiSDE2NFNKaXNZZE0wTXNSOThJWTNoYXdlTjFVMnFMRFRtTTJENEZreTJGVzg2d3VQcC1iSUw4eWVXYk53ZllhWlZBcVkyMUN6bHp4OUUwb2wyOHZxb3kydjk5UTBldkE0czl0YWYyRXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-21 06:43",
-   "published_iso": "2026-07-20T21:43:48+00:00"
-  },
-  {
    "title": "「移民当局出ていけ」ニューヨークでICE入るビルの前で放火 元陸軍兵士の男逮捕 3人軽傷",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SQU1iLUJVc085U3hKdjV5U3NwdGItRl9tRndLZFJ6QzBLSmlyRFZySUkweENFTnVZaTR3TF95OXZ2M0FpT1hHcWhHUGxGdw?oc=5",
    "source": "FNNプライムオンライン",
@@ -302,14 +294,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-21 02:02",
    "published_iso": "2026-07-20T17:02:03+00:00"
-  },
-  {
-   "title": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kR0hWU3g4WDVSMGg2UTdnMV9BVl9OVVFrczdoQUE0X1pwMzFJQjFBNWlIR2lYeWZiNlNsM1JUbml2emVZbGxhTkx6Y21oZE80blN4VFpleVYyaUFaR21BM000dzc?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-20 22:36",
-   "published_iso": "2026-07-20T13:36:00+00:00"
   },
   {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
@@ -400,12 +384,28 @@
    "published_iso": "2026-07-16T11:46:02+00:00"
   },
   {
-   "title": "車止めようと相次ぎ射殺、米移民摘発に伴う車両停止で反発広がる…トランプ氏は擁護「最も効果的な犯罪対策」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13LVpsNHplQWVHTWs3QnhuZkpnelZaWDRhb0E0UzZFVEdQcjVBZFpQaVlHZDREaXhoa3V0V251bjlfZngtUzBPcHA4ZVBobUNxZGZQZ1l3VDgxcEMzSGVjLTdn?oc=5",
+   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-14 16:00",
+   "published_iso": "2026-07-14T07:00:00+00:00"
+  },
+  {
+   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-16 05:00",
-   "published_iso": "2026-07-15T20:00:00+00:00"
+   "published": "2026-07-11 16:00",
+   "published_iso": "2026-07-11T07:00:00+00:00"
+  },
+  {
+   "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY3VDR0pzczV5NTg4LVU1RUxVYi0xd1VKek1xRlc5c0JOR0U3bkpNcGRCV3ZMT1F6OE1BYVl3UWpKdkJST1BHc0VPQzdhUTJMX05DbXFONmNwTnYzTXd3T1RGekdJWGNOUTNhNQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-08 16:00",
+   "published_iso": "2026-07-08T07:00:00+00:00"
   }
  ]
 }
