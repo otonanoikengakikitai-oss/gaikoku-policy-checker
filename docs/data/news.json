@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T17:15:30+00:00",
+ "generated_at": "2026-07-22T19:13:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -88,6 +88,14 @@
    "published_iso": "2026-07-22T09:44:01+00:00"
   },
   {
+   "title": "外国人観光客が増加する一方で…市街地の「ごみのポイ捨て」深刻化 「スマートごみ箱」導入で対策へ 宿泊税などを活用して設置 岐阜・高山市",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajdfZ0xpajVjLWlRa055Ynl3MUE3UXN2NnNKTm9Eb3pNUXFMOWY1Sm8yTlgwT3pGaUlzb1hHYjVYTi11S3lhWWJkc0wyZ0oydDlYWndDSnFnN3NhVHRWR0M3cnVRMzBYRzRjalJFbUpCZFYxUmxzVU10SVZDWkppdlpvWQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-22 18:00",
+   "published_iso": "2026-07-22T09:00:00+00:00"
+  },
+  {
    "title": "不法移民排斥激化の南ア、２か月で約１６万人出国",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45b3FWSDRMOVYtN3gwTXpVejFMdU9LQlNsdW96QTZDMFh4eE1TcndMWV9XU3JkVkcxN1Zwd0tLaFNJcE5UeF82Rm84UnZxY05QYVJxRC1xbXBPWTJsY2dsUHVtOEJ2UQ?oc=5",
    "source": "時事ドットコム",
@@ -102,6 +110,14 @@
    "source_domain": "jiji.com",
    "published": "2026-07-22 17:39",
    "published_iso": "2026-07-22T08:39:00+00:00"
+  },
+  {
+   "title": "ウィシュマさん訴訟が結審 １２月判決、入管施設で死亡",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xUjZKSXVCSnNBMV9rLUNrWUtfS29vZkVpNVMwNWpKRDJnenRwNXptaHRsLW5ieEpYcU1FbXJOZHRNOVJ2ell2alBvRUs5SGpRY0lR?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-22 16:51",
+   "published_iso": "2026-07-22T07:51:00+00:00"
   },
   {
    "title": "在留外国人「いまが一番不安」 厳しくなった資格審査、揺らぐ共生",
@@ -150,6 +166,14 @@
    "source_domain": "jiji.com",
    "published": "2026-07-22 11:16",
    "published_iso": "2026-07-22T02:16:00+00:00"
+  },
+  {
+   "title": "外国人受け入れ・交流で意見交換 「多文化共生」条例へ富山県が企画",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2R1OWdYWDFmNkM5RS1qVFNRWEx5T1pIQWZKMjhHZy0ycG0wV2w0SXdlVUFPcGlweWNnMUZmWmhXWXg3X1l5NkJSeFhEUmQ1Ykg5ZUFHbEMwN2dhdklCMHd0UXViVjFUZkpKTFhoVm41Vm5kc0ZLMkZjbEdZMTAwVTlldG82NHh0d1k0LWcyTERnYkN2Ym1oTkl3bnpybGZ2SElRWQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-22 11:00",
+   "published_iso": "2026-07-22T02:00:01+00:00"
   },
   {
    "title": "外国人雇用へ「副業人材活用を」 滋賀県甲賀市で検討企業対象に講習会",
@@ -240,14 +264,6 @@
    "published_iso": "2026-07-21T02:49:57+00:00"
   },
   {
-   "title": "トランプ政権、UNHCRからの脱退検討か 難民支援に影響必至",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Pbk1FLXo1NHlvdjV1ZjJMdHhjRXFIZnlDNUZrN1U0bmxWTm9Sc3pVUDFFbUtVemM1V09tQU9hOWtrZ2F0Qmc0VGNDZnJ1WmphYUJpTzRpU3lnNllaT29CaHNaMlFBcXAx?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-21 11:35",
-   "published_iso": "2026-07-21T02:35:14+00:00"
-  },
-  {
    "title": "「自治体任せではなく、国が移民を包摂する政策を」モスク・土葬問題",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeUFpUkdKNzlrNWo1Tk9WUXRxOUpFNTVUaFZXNUdUUzQ2MGRYUW5wNENJOVhDeTFPUmxsNkF4RUtaMGZ2bTM3NkpLcWxwUVluZVVYTVJLbU5kRzU5cTBMUkxEZkI5LTQ?oc=5",
    "source": "朝日新聞",
@@ -270,6 +286,38 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-21 09:59",
    "published_iso": "2026-07-21T00:59:26+00:00"
+  },
+  {
+   "title": "米、国連の難民機関から脱退検討か",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ic3p2Ti1YUkZVSTh6aWRDWDRGTnJkeEhZMUJrUkhmUFZHbG1JZVRENmRHT0NKMmFHX0pnRTV2a3kxTk12WG9BY0djY3ViU1VsZDNWMHRweVA?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-21 09:50",
+   "published_iso": "2026-07-21T00:50:49+00:00"
+  },
+  {
+   "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tYURQSHViVWhiUnB2ZGo0OFVBN1ZOcmNQZVBwUmFzTXVWNjFyRWt4dDFUR3FQSVZfVndvVWp1bmdrR0NMZTZhbnlKQUQxQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-21 08:00",
+   "published_iso": "2026-07-20T23:00:00+00:00"
+  },
+  {
+   "title": "放火事件があった移民・税関捜査局（ICE）などが入る連邦庁舎そばに停車した警察車両＝20日、米ニューヨーク（ロイター・共同） - 米NY、移民捜査局庁舎前で放火 マンハッタン3人軽傷、男を拘束 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NTV0YzZkbUVYcDI2am0wbVJtNDNVOWt0UGNreFpEbnhiVmFVMnZqX3RUNFFLOUNxMmkwanRXYTNRMjItRk5DYlBKSUJHTTR4bTB5TVZ5Zw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-21 07:33",
+   "published_iso": "2026-07-20T22:33:41+00:00"
+  },
+  {
+   "title": "マンハッタンの移民捜査局庁舎前で放火 米NY中心部、男を拘束 一時騒然",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11Zkp2VGRiSDE2NFNKaXNZZE0wTXNSOThJWTNoYXdlTjFVMnFMRFRtTTJENEZreTJGVzg2d3VQcC1iSUw4eWVXYk53ZllhWlZBcVkyMUN6bHp4OUUwb2wyOHZxb3kydjk5UTBldkE0czl0YWYyRXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-21 06:43",
+   "published_iso": "2026-07-20T21:43:48+00:00"
   },
   {
    "title": "「移民当局出ていけ」ニューヨークでICE入るビルの前で放火 元陸軍兵士の男逮捕 3人軽傷",
@@ -358,54 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-19 12:01",
    "published_iso": "2026-07-19T03:01:00+00:00"
-  },
-  {
-   "title": "在留資格でピンチ！日本のカレー文化 多様な味「食べて応援を」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZTTJzLVFhNDZwZzRMSUg0VXdpXzFtMW9xUTJ6aGktSEwxSC1GSC13NFZwUldkd3d4d1hFaXhXaTBFZG12RlUtaVIxSTFrU1NJSEk1VTdQN3BWVUVmejNBTzg0S296dU9x?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-19 12:00",
-   "published_iso": "2026-07-19T03:00:00+00:00"
-  },
-  {
-   "title": "【日本も「同じ末路」に?】“EU外”の移民が大幅増／GDP4%分の打撃／2大政党制は崩壊／エネルギー価格は先進国で最高値／ ブレグジットは世界全体を分断した【CROSS DIG DOCUMENT】",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XTWZHb2dRN3lzU1dOM1FmRVF6T2ZpZE1pdmFOS1JBV3FNMVFWMkVKS0s5M3dTcGtrQzdmYU4taEdoSlVlckF5Y3hrUks2cW5KWTlPbHZKc0V1OEdqN3dmdnk3UlZ3XzZpb3ZOUHdVRWJEeFVY?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-19 08:00",
-   "published_iso": "2026-07-18T23:00:00+00:00"
-  },
-  {
-   "title": "外国人材AI採用管理プラットフォームGlobal Hub Career、プロダクト全面リニューアルのお知らせ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wVUNVdVl3QVZWeWNYNk4zVWFSWldpZUtaaUdHYzg2aEl2TUNnU3dLNDJwdG1LMWNjS203YWtLMFRrWXNDb2RlbzBGN1owNUEwUHZXMFFqRU1DMHFjbzBZM2hkQ1hwSkRvZndN?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-17 21:10",
-   "published_iso": "2026-07-17T12:10:00+00:00"
-  },
-  {
-   "title": "東京入管が収容中のスリランカ人男性を解放する方針 「なぜ収容されなければならなかったのか」妻は憤り",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cGo2WlhuUkxQeDZGaGpTVkE3NmhHTWJnZjdwSnVadlZsaTMxS0o5RGhSUEVZOWRXVWs3bGg3QXRzWEtlWjItMVI4dUthako0QjE4?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-16 20:46",
-   "published_iso": "2026-07-16T11:46:02+00:00"
-  },
-  {
-   "title": "博多区の食品会社で殺人未遂事件 技能実習生の男を鑑定留置始める",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95OTI2VHZUdFh2TGlFT2NoQUdJYUVIMlEwRWhVT3BaLW5iTXhlbGNOWmZxcGpSeGZkSDZwNnJrRUx6ODJMNU81RExjZDBUSUxRNi1BUG1JeGJvcTNDWS03RTF5cVN2WEU?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-16 06:25",
-   "published_iso": "2026-07-15T21:25:00+00:00"
-  },
-  {
-   "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-14 16:00",
-   "published_iso": "2026-07-14T07:00:00+00:00"
   }
  ]
 }
