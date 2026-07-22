@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T21:14:06+00:00",
+ "generated_at": "2026-07-22T23:00:02+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "なぜ役員報酬1億円超が過去最多？ 日本人トップは3位のソニー、上位は外国人 業績連動型じわり",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRYmJfeG5Ub3hVci1YVlgyVHZpdDdJVFlrWGFaSGo3MmZldVYtN3c3dUFNV1BHY0xDLVlQVU5NRlRJWUpUNkpRRlhSZ0VNTkUy?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-07-23 07:00",
+   "published_iso": "2026-07-22T22:00:00+00:00"
+  },
   {
    "title": "ウィシュマさん妹「入管の責任認めて」 国賠結審、弁護団は収容期限の仕組み見直し訴え",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVbm1IdG9PWmQzWTdWMDg0Zmx3N09TemczMW1LSGdGR1JaMlhUelhiRnBpandNMWNybmd6LWtrOUpQVDBPbTNqM0xlWGdvQWtoV3ZtQg?oc=5",
@@ -110,14 +118,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-22 18:44",
    "published_iso": "2026-07-22T09:44:01+00:00"
-  },
-  {
-   "title": "外国人観光客が増加する一方で…市街地の「ごみのポイ捨て」深刻化 「スマートごみ箱」導入で対策へ 宿泊税などを活用して設置 岐阜・高山市",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQajdfZ0xpajVjLWlRa055Ynl3MUE3UXN2NnNKTm9Eb3pNUXFMOWY1Sm8yTlgwT3pGaUlzb1hHYjVYTi11S3lhWWJkc0wyZ0oydDlYWndDSnFnN3NhVHRWR0M3cnVRMzBYRzRjalJFbUpCZFYxUmxzVU10SVZDWkppdlpvWQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-22 18:00",
-   "published_iso": "2026-07-22T09:00:00+00:00"
   },
   {
    "title": "不法移民排斥激化の南ア、２か月で約１６万人出国",
@@ -248,14 +248,6 @@
    "published_iso": "2026-07-21T10:00:21+00:00"
   },
   {
-   "title": "日本の外国人政策㊤秩序の維持掲げ、進める「排除」 国費の強制送還は過去最多に＜イチから！解説",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CN0UwdTB5RVpTdmprNDl2dkhoZXgtUFBwUUJtNkMtakJxX0hnOElrQUpkYk9iTmQzdW1idkpYRjQ3b2phWDVBdlltWmFMNEVwcDRBZXZrYko1dw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-21 14:30",
-   "published_iso": "2026-07-21T05:30:55+00:00"
-  },
-  {
    "title": "トランプ政権がUNHCR脱退検討、難民支援滞る可能性 ロイター報道",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HMmF0c2JxUnY0a2RqcUxmQkNlRWY2YVdxYTJLeEw5amVmaGZqZmFENWpsdkZoNnJzOHExNGdMQXJWY0ExNWhoLWtJNnAtM3kteVR2VU9mQmtTU3N6LVZkd2M2cERhN2JLMEZQVA?oc=5",
    "source": "日本経済新聞",
@@ -294,14 +286,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-21 09:59",
    "published_iso": "2026-07-21T00:59:26+00:00"
-  },
-  {
-   "title": "米、国連の難民機関から脱退検討か",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ic3p2Ti1YUkZVSTh6aWRDWDRGTnJkeEhZMUJrUkhmUFZHbG1JZVRENmRHT0NKMmFHX0pnRTV2a3kxTk12WG9BY0djY3ViU1VsZDNWMHRweVA?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-21 09:50",
-   "published_iso": "2026-07-21T00:50:49+00:00"
   },
   {
    "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
@@ -344,12 +328,28 @@
    "published_iso": "2026-07-20T21:00:00+00:00"
   },
   {
+   "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UkRTQTVBX0UxQklxYk9aY3BtclI5MUZJSGNuVnc4NVZPOGtGaV8zNjlQZlRfbEEwSGpudy1yRmZYbUYxZkpoUHdKdFJvOUV3R2VwVnNTaXI?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-21 05:40",
+   "published_iso": "2026-07-20T20:40:00+00:00"
+  },
+  {
    "title": "ニューヨークの政府庁舎で煙と炎 FBIが男1人拘束、移民当局に反発か",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMDQ0MlY1OHJTQnhTejVWVnVvRUpaR2pjV0I3WUFjWnBHaGxXTktFbDhrZUloMmEwd2dSWHk4V2drWkRTYTJKU0wwMGNKcl8wbnJORm5BSC1ILW9xVlRZdnlfcENjeUZ1dFdwNw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-21 02:39",
    "published_iso": "2026-07-20T17:39:57+00:00"
+  },
+  {
+   "title": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kR0hWU3g4WDVSMGg2UTdnMV9BVl9OVVFrczdoQUE0X1pwMzFJQjFBNWlIR2lYeWZiNlNsM1JUbml2emVZbGxhTkx6Y21oZE80blN4VFpleVYyaUFaR21BM000dzc?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-20 22:36",
+   "published_iso": "2026-07-20T13:36:00+00:00"
   },
   {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
