@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T15:39:05+00:00",
+ "generated_at": "2026-07-22T17:15:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,14 +24,6 @@
    "published_iso": "2026-07-22T11:56:00+00:00"
   },
   {
-   "title": "松屋が9月銀座に新館 アニメや漫画の企画展、若者や外国人に的",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBMkJoaTRpenhoeXZMQzZZZlhoYU9xY092SG9RSnN2Ykw1RC1sWW9jYjRJN0lYcU1iT3Jxc1Mxa2pHM25CcGc4SFZ4cmhldDItcEdiRkFGS3RlMVBjclpUU3hZRWhrQXI1cVBPVA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-22 20:43",
-   "published_iso": "2026-07-22T11:43:26+00:00"
-  },
-  {
    "title": "入管で亡くなったウィシュマさん訴訟結審…「一日たりとも姉のことを思わない日はない」妹が法廷で涙の訴え",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
    "source": "東京新聞デジタル",
@@ -54,6 +46,22 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-22 19:36",
    "published_iso": "2026-07-22T10:36:55+00:00"
+  },
+  {
+   "title": "4年超の裁判が結審…入管収容中のスリランカ人女性が死亡した問題「国側は助けなかった」などと妹が訴える 12/11判決",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZVpGM0g4bU5tVWZkbHVwbHk2ak03TmgzM3pDOUdvTGRaRXpKVnFNMnZTNm1oNGtZMzhpNk9IeVAyQkd5M0FYUm5RU2dyUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-22 19:12",
+   "published_iso": "2026-07-22T10:12:11+00:00"
+  },
+  {
+   "title": "入管職員２００人増員へ 不法滞在の摘発強化図る",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMDBVXzJzNVZhT29fWFFfRXM3bTNVWWNHTTlVZm5vcmtYRi1aN3RJZk5qdjUwUFJFSzVsUWltdTg0UVJ4em9KVmpDVnRzWjNmX3BvSDJSeUlPdkJrLXNKczk2cw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 18:56",
+   "published_iso": "2026-07-22T09:56:00+00:00"
   },
   {
    "title": "入管施設でスリランカ人の女性死亡 国に損害賠償求める裁判で妹が涙の訴え ｢同じようなことが繰り返されてほしくない｣ 名古屋",
@@ -104,20 +112,12 @@
    "published_iso": "2026-07-22T07:30:00+00:00"
   },
   {
-   "title": "倉庫業の経営者の半数以上が、特定技能制度への物流倉庫分野追加後、特定技能外国人の採用に前向きな姿勢を示している！",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Wlk1SFNsS2Zxcy1SWWJwWGRyejN0TzlRaF9RYVJhaE5mZzktdHBDd2luYVplYXBXQi1ZLTB4X0dSS0cxM2Q5am01c1p2djFOdVhWTERBQ01MWDMzQXI0QWVTY3ZHU3RzdmlZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 16:15",
-   "published_iso": "2026-07-22T07:15:00+00:00"
-  },
-  {
    "title": "外国人技能実習生の監理団体の職員ら2人を再逮捕 入管難民法違反の疑い 「タイ古式マッサージ」うたい店を経営 4年で3億4300万円売り上げか 警視庁",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FTmR3eXZDSGxyc3JXM1hBeC11dkVGdG1NcVBoWkJ2bDBGSTVvaFhOdURRcHpkOXQ5M0c0eDJ1VEFwbk1iOWVfTlB2Vng2SE94UC1zNkw2RQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-22 15:10",
-   "published_iso": "2026-07-22T06:10:41+00:00"
+   "published_iso": "2026-07-22T06:10:00+00:00"
   },
   {
    "title": "「留学」の在留資格などのタイ人3人を風俗店で働かせた疑い 経営者ら2人再逮捕 警視庁",
@@ -272,14 +272,6 @@
    "published_iso": "2026-07-21T00:59:26+00:00"
   },
   {
-   "title": "【速報】米、国連の難民機関から脱退検討か",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0LU5za1M5cGk4TW9fWjhNWFpadWx3UFM0d3Y3ZWRnTzFYX2U0aUtDRnBaNklORG9jVW1paG03TzdPYW1CSDZ6c25ncw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-21 09:50",
-   "published_iso": "2026-07-21T00:50:49+00:00"
-  },
-  {
    "title": "「移民当局出ていけ」ニューヨークでICE入るビルの前で放火 元陸軍兵士の男逮捕 3人軽傷",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SQU1iLUJVc085U3hKdjV5U3NwdGItRl9tRndLZFJ6QzBLSmlyRFZySUkweENFTnVZaTR3TF95OXZ2M0FpT1hHcWhHUGxGdw?oc=5",
    "source": "FNNプライムオンライン",
@@ -392,20 +384,28 @@
    "published_iso": "2026-07-17T12:10:00+00:00"
   },
   {
-   "title": "外国人材の採用へ…福岡の企業と韓国の大学生が交流会「マッチングの機会に」企業選びや価値観など意見交換",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82aXVYOUpqYVZmWUViX1hfaGt3VVF2OF92bk9iTnBNMU1IODU3QVZNTFhWVXNtNnh6OWZiWW1wcTVzTWdqcU16V2VJREV6UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-17 17:40",
-   "published_iso": "2026-07-17T08:40:00+00:00"
-  },
-  {
    "title": "東京入管が収容中のスリランカ人男性を解放する方針 「なぜ収容されなければならなかったのか」妻は憤り",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cGo2WlhuUkxQeDZGaGpTVkE3NmhHTWJnZjdwSnVadlZsaTMxS0o5RGhSUEVZOWRXVWs3bGg3QXRzWEtlWjItMVI4dUthako0QjE4?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-16 20:46",
    "published_iso": "2026-07-16T11:46:02+00:00"
+  },
+  {
+   "title": "博多区の食品会社で殺人未遂事件 技能実習生の男を鑑定留置始める",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95OTI2VHZUdFh2TGlFT2NoQUdJYUVIMlEwRWhVT3BaLW5iTXhlbGNOWmZxcGpSeGZkSDZwNnJrRUx6ODJMNU81RExjZDBUSUxRNi1BUG1JeGJvcTNDWS03RTF5cVN2WEU?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-16 06:25",
+   "published_iso": "2026-07-15T21:25:00+00:00"
+  },
+  {
+   "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-14 16:00",
+   "published_iso": "2026-07-14T07:00:00+00:00"
   }
  ]
 }
