@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T05:47:41+00:00",
+ "generated_at": "2026-07-22T08:24:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "オンライン日本語教育事業を法人向けに運営するバベルメソッド社が、Sun*グループに参画",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50U0NxZG9DWldTczVTdnpwRHRrR0Npdk13LWtaOXdDai1ETWl0QnpwaVBRRXozQXJqejNRU190S3JWcC1URnc5ODlwTC00UllySFpDSWswbWVFcDF5aDNRTVZVWnV4MjducDBn?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 16:45",
+   "published_iso": "2026-07-22T07:45:00+00:00"
+  },
+  {
+   "title": "在留外国人「いまが一番不安」 厳しくなった資格審査、揺らぐ共生",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Cb0xaSnFaVWJsa1paUjdaY3dZMnVtQXFJNWZxYlIwdVRnSHBGOC0yODQ3OWtSa1NxeGplMVVxbDRFT0VXY2QxNTFTOXFSWG1DQV90Z0VQTXVDYXY2?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-22 16:30",
+   "published_iso": "2026-07-22T07:30:00+00:00"
+  },
+  {
+   "title": "【7/28無料ウェビナー】外国人の83.7％が日本以外の就労にも関心―採用競争が変化する中で企業が備えるべきこととは",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GODlFc0RvUVFYeDY5U2t6dFN5Z0N1WkxTcFdEVGE5YWFUdF9wSzJYRXJNR216U0g5LWhDU2NZakwta0FuZjI0enJzd3pyQzVaemdXWlZtdEQxWHdvR2hVbnBLb3ZyaU5SY0JR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 15:15",
+   "published_iso": "2026-07-22T06:15:00+00:00"
+  },
+  {
+   "title": "外国人技能実習生の監理団体の職員ら2人を再逮捕 入管難民法違反の疑い 「タイ古式マッサージ」うたい店を経営 4年で3億4300万円売り上げか 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FTmR3eXZDSGxyc3JXM1hBeC11dkVGdG1NcVBoWkJ2bDBGSTVvaFhOdURRcHpkOXQ5M0c0eDJ1VEFwbk1iOWVfTlB2Vng2SE94UC1zNkw2RQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-22 15:10",
+   "published_iso": "2026-07-22T06:10:41+00:00"
+  },
   {
    "title": "外国人観光客の消費額1人当たり消費トップはメキシコで50万円超 中国人半減もアメリカやアジアは増加し3カ月で2.5兆円に",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtM1RLRlZuT21JdVZOTXRQelJ4WmxaeEZvdHd4UjlUTFhmMG1TTmhJWXpsV09kY1dRRVlRdEs4OEJSRVVEamFvTWpEanJVdw?oc=5",
@@ -32,20 +64,20 @@
    "published_iso": "2026-07-22T02:16:00+00:00"
   },
   {
-   "title": "外国人雇用へ「副業人材活用を」 滋賀県甲賀市で検討企業対象に講習会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmdGFkUUpjQTBZcU9pYlRDWkNvQWFxRGtlTjlRR3pCWEc2SnlRbWFTRDlraXFzZ3ZVY2w2dDRVNG8xOHdhaElRbF9PZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-22 10:47",
-   "published_iso": "2026-07-22T01:47:04+00:00"
-  },
-  {
    "title": "アニメ絵馬 祈願の変遷 秩父高3生徒が調査 定林寺、聖地定着 外国人にも人気",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RSUN3UEhTaHBkRThSc0xTX0VxQzhaVEU1WFFEU1o2UGUzVmMzbGl2QVE1MXlGNFBNVGhQQ0hxZDYyc2VNZy1EWktSQUxjWlJnUHVv?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-22 07:56",
    "published_iso": "2026-07-21T22:56:43+00:00"
+  },
+  {
+   "title": "難民１４０人超が死亡・不明 モーリタニア沖、２５日間漂流も―国連",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzeHRSZWdGOVN0WHVNTXhFbTRHRjlkVmVwNUpJRzB1dHliZWlSMFRPOHFOcFA5WHZQQWVsdVJpWl9PMlE4UzhjVW41SDRzcFlXamRESmFpVkJ6Ym5tdk1Da3JYVQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 05:47",
+   "published_iso": "2026-07-21T20:47:00+00:00"
   },
   {
    "title": "成長力高めるために… 戦略的に高度外国人材活用を 大和総研の小林若葉さんに聞く【経済トレンド／にっぽん診断】",
@@ -72,6 +104,14 @@
    "published_iso": "2026-07-21T20:00:00+00:00"
   },
   {
+   "title": "外国人実習生ら浴衣で夜市満喫 スリランカ、フィリピンの14人",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pNmhZNjcyZHFSSXlYME9IbHBNR1VLV0RYV1VRTVBhazlRTW9VLXdrM2lCa1FuRUJTUWtvYUY5M1R2Y01VdEpwUl9GSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-21 21:17",
+   "published_iso": "2026-07-21T12:17:13+00:00"
+  },
+  {
    "title": "「移民当局出ていけ」ニューヨークのビルにガソリンまき放火 連邦職員など3人軽傷 元陸軍兵士の43歳男を拘束",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80TVh3WEhUU1E5V3ZWTUUteFJmOEFhOTRKTFlsTHdqMzM5SGdEbVpCM0MtVkdCa0xhN1NEZmg5WjRpWHdHTmI2MkZyUDEyZw?oc=5",
    "source": "FNNプライムオンライン",
@@ -80,28 +120,12 @@
    "published_iso": "2026-07-21T11:01:00+00:00"
   },
   {
-   "title": "外国人実習生ら浴衣で夜市満喫 スリランカ、フィリピンの14人",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pNmhZNjcyZHFSSXlYME9IbHBNR1VLV0RYV1VRTVBhazlRTW9VLXdrM2lCa1FuRUJTUWtvYUY5M1R2Y01VdEpwUl9GSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-21 19:15",
-   "published_iso": "2026-07-21T10:15:00+00:00"
-  },
-  {
    "title": "トルコ国籍の男「もう運転したくない」川口のバイク19歳死亡、信号無視の起訴内容認める 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dHdTckNmTkowMmhfbXFzazdpVVV4eXBmdkhDZU5ZRFh2dDVDNHR6V1dZUy1EdU1oa2t5cE5qTUpxc2dXRTZCeVJQWGQ5ZHlaYlBYVTMyUXpoQURfTFNIamJ1Zzc5WC1FbWpKbWRTRVUwZ0xOWEE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-21 19:00",
    "published_iso": "2026-07-21T10:00:21+00:00"
-  },
-  {
-   "title": "県内初！バス外国人運転手デビューを目指す！インドネシア出身の２人…悪戦苦闘する姿を密着！広島交通",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1feldDN3JUNUdQZmtsWkdIT1B4YTdodTl2ZUc1SXZvTzI2WHRoYzFNQ2lNYkZLZ0luNUdGWWJseEM1U213WnMtUS1fcXA0dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 18:46",
-   "published_iso": "2026-07-21T09:46:00+00:00"
   },
   {
    "title": "日本の外国人政策㊤秩序の維持掲げ、進める「排除」 国費の強制送還は過去最多に＜イチから！解説",
@@ -128,22 +152,6 @@
    "published_iso": "2026-07-21T02:00:00+00:00"
   },
   {
-   "title": "過去最多４９３万人 ２５年県内宿泊 外国人、初の１００万人超え",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IREVzeS1YcFY2ai1HQnhXM1hiaTlkc19LajcwbXRzbG5YX0h4cUw1RkRMeDVHWVNTQnVFS0FCa1BIWjFLeWd4YVdhWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-21 10:46",
-   "published_iso": "2026-07-21T01:46:44+00:00"
-  },
-  {
-   "title": "【米国と学術研究】揺らぐ科学技術立国 移民が源泉、排他的政策",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Qng0Tjd1dlJOMVFZTzBqXzJaM2JtN3dQOWNIV2dUWS1NVVo0b0Y2MkNhUTJqYzNibllyTTZabk5kT1FHMlF0QkZwOVdoWVVsZDc2endn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-21 10:40",
-   "published_iso": "2026-07-21T01:40:10+00:00"
-  },
-  {
    "title": "日本の入管は「正直、なめられていた」、国際犯罪者集団の幹部が高度専門職？ 「見逃すわけにはいかない」、警察が執念の捜査で逮捕",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RUUdZaWMzb3VSX0VkUjN3MXVUdUhHZG40ck9BclNNUHV6ZzVkUjNLUVlmOTB6Ymt4akRuSlhnVjI1MVNVXzdaekZpbw?oc=5",
    "source": "47NEWS",
@@ -158,6 +166,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-21 09:59",
    "published_iso": "2026-07-21T00:59:26+00:00"
+  },
+  {
+   "title": "米、国連の難民機関から脱退検討か",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ic3p2Ti1YUkZVSTh6aWRDWDRGTnJkeEhZMUJrUkhmUFZHbG1JZVRENmRHT0NKMmFHX0pnRTV2a3kxTk12WG9BY0djY3ViU1VsZDNWMHRweVA?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-21 09:50",
+   "published_iso": "2026-07-21T00:50:49+00:00"
   },
   {
    "title": "ニューヨークでICE入るビルの前で放火 3人軽傷 元陸軍兵士の男逮捕 「移民当局出ていけ」と書かれたカートには斧やハンマー",
@@ -328,12 +344,12 @@
    "published_iso": "2026-07-18T23:00:00+00:00"
   },
   {
-   "title": "書評『移民は悪か？』イアン・ゴールディン著",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTN1czMmJIWFp5WFZseE1wTmVnVGFWWWtQVkJRUFhMVU5hcEN6amx1Y1pPV1E0cndndkpBUFJyd0gwdzc3Z3gxenh4NUhlVFFwWE9oeS1KS0RFcTh2RUI1Q3Z4b3cweXpDNTB0Uw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-18 02:00",
-   "published_iso": "2026-07-17T17:00:00+00:00"
+   "title": "独自＞外国人運転者の人身事故、埼玉で急増 年間558件、5年で3倍 高い外国人比率 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cnNQMUQzSFd5cjlfRmR6V2FtaUp2czRsdnVjOUZHWmNyeDJoYl9UVDlzUXF4Q25GdHMzelhNNDJYVzVERmdhQzZDSm5zckxFZlpfa1RaZzhDQ1Y0TUE3Z0F0SjN3cEVDSW9OZThNQVhpZTV3ZGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-18 15:30",
+   "published_iso": "2026-07-18T06:30:00+00:00"
   },
   {
    "title": "外国人材AI採用管理プラットフォームGlobal Hub Career、プロダクト全面リニューアルのお知らせ",
@@ -384,28 +400,12 @@
    "published_iso": "2026-07-15T09:26:30+00:00"
   },
   {
-   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-14 22:11",
-   "published_iso": "2026-07-14T13:11:09+00:00"
-  },
-  {
    "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-14 21:41",
    "published_iso": "2026-07-14T12:41:40+00:00"
-  },
-  {
-   "title": "［動画］「外国人材」資本経営 東急バス・外国人運転士の研修現場に密着",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUEgyNjNmMlhlb1NoN2lNSE04aXBQbzdqYm1ZNjJyX0lJNVdGbW5abFlyLTVZcmc1akJyREx3WlBtVVpEbHpRZ2kwVHFyZ2dUU195aDN0SkUzZWtkN3EzelRJcEFSUlE?oc=5",
-   "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-14 15:30",
-   "published_iso": "2026-07-14T06:30:00+00:00"
   }
  ]
 }
