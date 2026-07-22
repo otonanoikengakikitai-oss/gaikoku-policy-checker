@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T13:46:32+00:00",
+ "generated_at": "2026-07-22T15:39:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "入管で亡くなったウィシュマさん訴訟結審…「一日たりとも姉のことを思わない日はない」妹が法廷で涙の訴え",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-22 21:09",
-   "published_iso": "2026-07-22T12:09:17+00:00"
-  },
   {
    "title": "北アルプスに来る外国人登山者､出身地はどこ？ 山小屋の世界地図ボードに多くのピン",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbnNtN1o5R1l4UmtPT21uT2I0eFI3RnlPclZVTHdnWVBDak1abkVfd0d5WVRaVHVMdXd3M09rNGJtN3J3NWZxUFhfZ3BVbHN4U0RiV0ZBSmRjMHRWUmU3NUNJUDFlNWZla2dwdGpHc0w?oc=5",
@@ -38,6 +30,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-22 20:43",
    "published_iso": "2026-07-22T11:43:26+00:00"
+  },
+  {
+   "title": "入管で亡くなったウィシュマさん訴訟結審…「一日たりとも姉のことを思わない日はない」妹が法廷で涙の訴え",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-22 20:02",
+   "published_iso": "2026-07-22T11:02:29+00:00"
+  },
+  {
+   "title": "外国人客が福井で飲食や宿泊に使った金額は4万7000円 前年比で減少も県全体では増加し10億円に 個人消費増やす仕掛けが課題に 観光庁が調査",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON2ExTTJqT3NtQWdMYmhvRjNlUkNlZVNuZlVVeFNRazBtcTNydzczYTRpM3lENGNMLWU3Qi1LR3BkS1RlRkxtamZFeTd6c0lFZkVCT1ZoelhVZU1JWEg2ZFktT1RTNDBtZVV2UGdzVHNpbFNtZ0dXRE56WElPYjZ4NWMwVmZtRFE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-22 19:58",
+   "published_iso": "2026-07-22T10:58:01+00:00"
   },
   {
    "title": "ロッテの新外国人・ルケーシーが来日「早くチームの力になりチームメートと共に残りのシーズンを戦っていきたい」",
@@ -128,12 +136,28 @@
    "published_iso": "2026-07-22T02:49:00+00:00"
   },
   {
+   "title": "沖縄移民125周年 ドキュメンタリー映画制作発表記者会見",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cEp4UFpCX1ZjOExYOFVfdkFERjFZSDU0M0ZXNms0b3Q0bE0tV0pPeGhzaUJqZDZpUVhmN3lpMjBlc0l0VWJUR1d4V3Z1dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-22 11:40",
+   "published_iso": "2026-07-22T02:40:00+00:00"
+  },
+  {
    "title": "【育成就労】新制度における監査のポイントを解説 外部監査人・監理支援機関のための監査実務セミナー",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uLUFkRmNhNHZkMi1SeWgxY1EwMzg3U2Q2SFlhUXZlODRtWmQxSG5EeTlLTGVpR3Q2UzZEQmFPZGM2bFI3YVVQTl8xaldSSEtlMHQtSzJRMWVDLXlTUzViVXNFWUxwWGotV3hV?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-22 11:16",
    "published_iso": "2026-07-22T02:16:00+00:00"
+  },
+  {
+   "title": "外国人雇用へ「副業人材活用を」 滋賀県甲賀市で検討企業対象に講習会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmdGFkUUpjQTBZcU9pYlRDWkNvQWFxRGtlTjlRR3pCWEc2SnlRbWFTRDlraXFzZ3ZVY2w2dDRVNG8xOHdhaElRbF9PZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-22 10:47",
+   "published_iso": "2026-07-22T01:47:04+00:00"
   },
   {
    "title": "アニメ絵馬 祈願の変遷 秩父高3生徒が調査 定林寺、聖地定着 外国人にも人気",
@@ -272,14 +296,6 @@
    "published_iso": "2026-07-20T21:00:00+00:00"
   },
   {
-   "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UkRTQTVBX0UxQklxYk9aY3BtclI5MUZJSGNuVnc4NVZPOGtGaV8zNjlQZlRfbEEwSGpudy1yRmZYbUYxZkpoUHdKdFJvOUV3R2VwVnNTaXI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-21 05:40",
-   "published_iso": "2026-07-20T20:40:00+00:00"
-  },
-  {
    "title": "ニューヨークの政府庁舎で煙と炎 FBIが男1人拘束、移民当局に反発か",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMDQ0MlY1OHJTQnhTejVWVnVvRUpaR2pjV0I3WUFjWnBHaGxXTktFbDhrZUloMmEwd2dSWHk4V2drWkRTYTJKU0wwMGNKcl8wbnJORm5BSC1ILW9xVlRZdnlfcENjeUZ1dFdwNw?oc=5",
    "source": "日本経済新聞",
@@ -294,6 +310,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-21 02:02",
    "published_iso": "2026-07-20T17:02:03+00:00"
+  },
+  {
+   "title": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kR0hWU3g4WDVSMGg2UTdnMV9BVl9OVVFrczdoQUE0X1pwMzFJQjFBNWlIR2lYeWZiNlNsM1JUbml2emVZbGxhTkx6Y21oZE80blN4VFpleVYyaUFaR21BM000dzc?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-20 22:36",
+   "published_iso": "2026-07-20T13:36:00+00:00"
   },
   {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
@@ -382,30 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-16 20:46",
    "published_iso": "2026-07-16T11:46:02+00:00"
-  },
-  {
-   "title": "日本の行事やルール紹介 森町で技能実習生と函教大生交流",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcjFsRzdIeEJ4WC1PY2Vic0ZaVWZRUExEdElUeGs3bDZ4Z09KRWtFbTkyMG9Tc2ltT2FGTUpGRUZaUGRsS1dWbHhsNHpTXzNiNzliRUVKMHNBQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-14 16:00",
-   "published_iso": "2026-07-14T07:00:00+00:00"
-  },
-  {
-   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 16:00",
-   "published_iso": "2026-07-11T07:00:00+00:00"
-  },
-  {
-   "title": "技能実習生に｢一時帰国を｣提案は悪手？ 在留期限、見落とした延長策",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BY3VDR0pzczV5NTg4LVU1RUxVYi0xd1VKek1xRlc5c0JOR0U3bkpNcGRCV3ZMT1F6OE1BYVl3UWpKdkJST1BHc0VPQzdhUTJMX05DbXFONmNwTnYzTXd3T1RGekdJWGNOUTNhNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-08 16:00",
-   "published_iso": "2026-07-08T07:00:00+00:00"
   }
  ]
 }
