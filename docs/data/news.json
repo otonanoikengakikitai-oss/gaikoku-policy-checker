@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T22:53:40+00:00",
+ "generated_at": "2026-07-23T23:58:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -144,14 +144,6 @@
    "published_iso": "2026-07-23T01:30:00+00:00"
   },
   {
-   "title": "北アルプスに来る外国人登山者､出身地はどこ？ 山小屋の世界地図ボードに多くのピン",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHbzZ4SkVSeWVJc2g5QTlzd0ppaVRnMGlxQTV4RVFyclY2NE9RaUtvQjhlUGdBb2FvcHRCbmNTVlJUbnVyQlZKa1NWQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-23 09:21",
-   "published_iso": "2026-07-23T00:21:21+00:00"
-  },
-  {
    "title": "ウィシュマさん遺族が最後の口頭弁論 名古屋入管に収容中に死亡 妹「入管と国の責任を明らかに」",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT3hDYl9mQkxJcGRTZzhWNkJxNUVheVFJTDhFRmFKTmtyRWZ6ckFSQV9YN3kzM1hFUS0wNXNwS2lxYWR6cjNnenJCMFdJcFVralhjRVo5dzRRNk1fbklfbDBZdHg3bU5ydDhEMWd3RlRlc0N2bG5jbjNSX056bVdRV0FwSFg1aHM?oc=5",
    "source": "日テレNEWS NNN",
@@ -176,28 +168,20 @@
    "published_iso": "2026-07-22T20:00:00+00:00"
   },
   {
+   "title": "北アルプスに来る外国人登山者､出身地はどこ？ 山小屋の世界地図ボードに多くのピン",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbnNtN1o5R1l4UmtPT21uT2I0eFI3RnlPclZVTHdnWVBDak1abkVfd0d5WVRaVHVMdXd3M09rNGJtN3J3NWZxUFhfZ3BVbHN4U0RiV0ZBSmRjMHRWUmU3NUNJUDFlNWZla2dwdGpHc0w?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-22 20:56",
+   "published_iso": "2026-07-22T11:56:00+00:00"
+  },
+  {
    "title": "入管で亡くなったウィシュマさん訴訟結審…「一日たりとも姉のことを思わない日はない」妹が法廷で涙の訴え",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-22 20:02",
    "published_iso": "2026-07-22T11:02:29+00:00"
-  },
-  {
-   "title": "外国人客が福井で飲食や宿泊に使った金額は4万7000円 前年比で減少も県全体では増加し10億円に 個人消費増やす仕掛けが課題に 観光庁が調査",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON2ExTTJqT3NtQWdMYmhvRjNlUkNlZVNuZlVVeFNRazBtcTNydzczYTRpM3lENGNMLWU3Qi1LR3BkS1RlRkxtamZFeTd6c0lFZkVCT1ZoelhVZU1JWEg2ZFktT1RTNDBtZVV2UGdzVHNpbFNtZ0dXRE56WElPYjZ4NWMwVmZtRFE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-22 19:58",
-   "published_iso": "2026-07-22T10:58:01+00:00"
-  },
-  {
-   "title": "ロッテの新外国人・ルケーシーが来日「早くチームの力になりチームメートと共に残りのシーズンを戦っていきたい」",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80ajJ1TjU2UG9iSURKcV9jR0xCTU1SeDNUVUFwVWowUU5KYjNfQXQ5VE14MlJ6encyWmZSczNLa2hyakVkclhPSTYydmt1TXhET1cySg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-22 19:36",
-   "published_iso": "2026-07-22T10:36:55+00:00"
   },
   {
    "title": "入管職員２００人増員へ 不法滞在の摘発強化図る",
@@ -406,6 +390,22 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-21 06:32",
    "published_iso": "2026-07-20T21:32:00+00:00"
+  },
+  {
+   "title": "ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUWI3LVBLSm92cXAwdkRCTXRWb1l4UllqdGI5clJxVzZKRGlyaVdIMUxxbTVuSWctdWFZbzZxQ09DTkN1VHFuZlozZUlHOE92QUh3VVpGMWRObU90bGlEZTNRRmJCeFU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-21 06:00",
+   "published_iso": "2026-07-20T21:00:00+00:00"
+  },
+  {
+   "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UkRTQTVBX0UxQklxYk9aY3BtclI5MUZJSGNuVnc4NVZPOGtGaV8zNjlQZlRfbEEwSGpudy1yRmZYbUYxZkpoUHdKdFJvOUV3R2VwVnNTaXI?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-21 05:40",
+   "published_iso": "2026-07-20T20:40:00+00:00"
   }
  ]
 }
