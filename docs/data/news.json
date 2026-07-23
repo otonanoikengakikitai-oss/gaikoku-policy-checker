@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T04:13:41+00:00",
+ "generated_at": "2026-07-23T07:31:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
-   "title": "建設業の人手不足を救う「外国人リーダー」の輩出へ 外国人社員 4名が国家資格「2級建築施工管理技士」第一次検定合格",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00dnFLWjlaeHltWlhub0wzNnFsMjhvOGlRRTlycE0yV0s4c2xPc0tjVmZRcFI1am95U2VHOUxva29LUVdFNjdPNEJyWEdGaEM1VWhFeGFHOTF3QzAtYmpHRGtWNDVRS2Fmazk0?oc=5",
+   "title": "外国人採用のミスマッチを解消する教育発のキャリアイベント「WEWORLD CAREER EXPO」開催レポート",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JUTltc05lb1BqLVZ2TThRRGRDelhDVGRRMmxUM3h6R2xaU1lxUXpocHY5MlBmc013VEY1NHVwRzdMRmJZODMzMmRsbnh1aGZoODg4djd0VUV4bHZ0N1NCbDhOY05tS1ZwdjdN?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-07-23 12:45",
-   "published_iso": "2026-07-23T03:45:00+00:00"
+   "published": "2026-07-23 13:15",
+   "published_iso": "2026-07-23T04:15:00+00:00"
+  },
+  {
+   "title": "「黙認」から「厳格化」へ…不法就労を巡る課題を探る 「移民ビジネスを追う」第3部",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6UGsydzlNd05NUWNzNWljQ3lpM2dPZS1XSTdoWjA3Ti1HOVN4YmRTUG84U1hqVS1qSDZHY09nR2JGT0FrY1ItZHRhU0R4S3BzeDE0NA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-23 13:14",
+   "published_iso": "2026-07-23T04:14:10+00:00"
   },
   {
    "title": "金メダル獲得も競技者減、遺産に「共生社会」 東京オリパラから5年",
@@ -38,14 +46,6 @@
    "source_domain": "47news.jp",
    "published": "2026-07-23 09:21",
    "published_iso": "2026-07-23T00:21:21+00:00"
-  },
-  {
-   "title": "なぜ役員報酬1億円超が過去最多？ 日本人トップは3位のソニー、上位は外国人 業績連動型じわり",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tT1IwbWtqcVNkcG1iVUs4MUgyenFpVS14SjhYN3RqS1QxUFhJdlhtM05kUXlKRmg3bjloTHp0SDRCYmxMbENSRVVldmV5Z3RyYTE1b1E5VXNkQQ?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-07-23 07:00",
-   "published_iso": "2026-07-22T22:00:00+00:00"
   },
   {
    "title": "ウィシュマさん遺族が最後の口頭弁論 名古屋入管に収容中に死亡 妹「入管と国の責任を明らかに」",
@@ -128,14 +128,6 @@
    "published_iso": "2026-07-22T09:44:47+00:00"
   },
   {
-   "title": "【金沢ワンダフル】北陸で人気の“揚げあられ” 外国人リポーターが学ぶ愛され続ける理由",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekJDNEZUbVFidHJ6d1ZZLWJFOXZxbTFYUTRHTjJtVzdmamdsSDktM3BSQUowZ2d4M2NpWHc0UEpUMDcwZ2QtRXhQYkM4OHBadVBUaXF3dHprWkVvRnFtcVQ3Y0J3OWY4S0Nlb01tXzM0Q3BqM0NSNGpwR2c4ekJFeU41Yw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-22 18:44",
-   "published_iso": "2026-07-22T09:44:01+00:00"
-  },
-  {
    "title": "不法移民排斥激化の南ア、２か月で約１６万人出国",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45b3FWSDRMOVYtN3gwTXpVejFMdU9LQlNsdW96QTZDMFh4eE1TcndMWV9XU3JkVkcxN1Zwd0tLaFNJcE5UeF82Rm84UnZxY05QYVJxRC1xbXBPWTJsY2dsUHVtOEJ2UQ?oc=5",
    "source": "時事ドットコム",
@@ -176,6 +168,14 @@
    "published_iso": "2026-07-22T06:10:00+00:00"
   },
   {
+   "title": "「留学」の在留資格などのタイ人3人を風俗店で働かせた疑い 経営者ら2人再逮捕 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QYkJqZ250SXNoOVc0MlpqZzF1ZlFiLUdnQnc5S0hoX1o3Q21BSFAyaDBsTmJ6QTdEaktqMUk4NUtvTGpBMWNXWm42LXFUSnB3dW5heVp0YU1Hc1BCamhKdVdzdHAyVFMySWpnejdsMFA3UkYwZEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-22 13:38",
+   "published_iso": "2026-07-22T04:38:46+00:00"
+  },
+  {
    "title": "沖縄移民125周年 ドキュメンタリー映画制作発表記者会見",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cEp4UFpCX1ZjOExYOFVfdkFERjFZSDU0M0ZXNms0b3Q0bE0tV0pPeGhzaUJqZDZpUVhmN3lpMjBlc0l0VWJUR1d4V3Z1dw?oc=5",
    "source": "FNNプライムオンライン",
@@ -198,6 +198,14 @@
    "source_domain": "asahi.com",
    "published": "2026-07-22 11:00",
    "published_iso": "2026-07-22T02:00:01+00:00"
+  },
+  {
+   "title": "「思いやりで心は伝わる」 高島平団地で外国人の日本語スピーチ大会 地元NPOが初開催 50人で多文化交流",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNzd4UF9iamRkNGItNkRiUnYxa0hiMVd5c3dYSlAyM3pZR1FJUi1jNFlZYVAzOEtxV2ctaVE4bGFVLU9mX2xRaHFEWE9zdGg3eENF?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-22 08:46",
+   "published_iso": "2026-07-21T23:46:47+00:00"
   },
   {
    "title": "難民１４０人超が死亡・不明 モーリタニア沖、２５日間漂流も―国連",
@@ -304,6 +312,14 @@
    "published_iso": "2026-07-20T20:40:00+00:00"
   },
   {
+   "title": "帰れないひとびと・ミャンマー国境から：海外難民救援キャンペーン 内戦が刻んだ傷、深く リハビリ 終わらぬ闘い",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9waE5XNWZROTBOQW5sTzJpeWxENUtKOVlvUllDdVFTMDlNYmxvazBmVjlsYWV1NG5VLTNnVTgxSWtfN0lEVzdGQnJhZl9KdXc1NkFGdWMtbFJsMjg5YTRPbjZVTzBKeWtz?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-21 02:02",
+   "published_iso": "2026-07-20T17:02:03+00:00"
+  },
+  {
    "title": "年々増加する外国人住民 「多文化共生ミーティング」で理解深める 富山",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rWEk5TTE2MDduaVZ5U3pNZzlrVXppZXNEVDZDemE2VnpuSTZVZ05IdVhxTjVXOVBuT0pHYkVkT0pNUWY3UGhsQ0NFVktaS1NMVjhkLTRfNlprUQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -376,36 +392,20 @@
    "published_iso": "2026-07-16T05:52:20+00:00"
   },
   {
+   "title": "入管が収容したスリランカ人男性、栄養とれず丸1日 頼んだ栄養剤が支給されず…以前から食事とれない状態",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaEo5VzVoT0FFaG5tUVlPMW9Ea1MwcHU0dmNpQkFrQ0U4aWlfdUF4YW9MVDFRRnpxbkc3ZUZ2OUlkTGF6dEFOT0NEZThCUXBoM0tv?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-15 18:26",
+   "published_iso": "2026-07-15T09:26:30+00:00"
+  },
+  {
    "title": "〈社説〉在留手数料上げ 外国人差別を助長する",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kYnM4dVdCRElEa1o3S0dIWDhIQUY4WkFWakFpWjJMWDRQb3hQOThidmxDODRQcnhNZHhkbnhWcGR6RHdETGZiVXlwMlhjUDRsa0FV?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-15 07:56",
    "published_iso": "2026-07-14T22:56:07+00:00"
-  },
-  {
-   "title": "東京入管がスリランカ人男性を収容 病状悪化の恐れ…国会議員有志7人が解放求める",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQ3JTYWg2RjRWc0ZSQi11ZDVQLWxaWkc3Q3Q0ZHR5eFJKb2g0QXVqelJ6S284MW5uQXVLNkRfWWVQN0hseVdUSFZtMnNyZ1lDU1FZ?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-14 16:00",
-   "published_iso": "2026-07-14T07:00:00+00:00"
-  },
-  {
-   "title": "不法就労助長罪の「欠格事由」追加、入管庁が要請へ…一定期間は同業の事業不可に",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTlJTRXBmdmFlSkxWYkFYemNaZ2ozSmpiUjRKdTFneEVkcnB3Y0N4aHlQR0tNQnpLTlhXQUJnMnd3SHRTdVV0Q28yanpWR3hjbHNRQ2pONnZ6Y2JNR0FoT1RscEJ0dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-11 16:00",
-   "published_iso": "2026-07-11T07:00:00+00:00"
-  },
-  {
-   "title": "育成就労制度とは（今さら聞けない 日本政治の超基本）",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQjJ5dFZUTVlVb0N2ZDBiTm9xem40MzBSM3h0Y2dWRFdpS3lIZERxbVlyZnpDTDIxVGx3WXg5NFRDRFJQQW0xb3YxekI2S1VsMzNjSjBtcDBnZjFYV1hwU1FuTjFkamc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-04 16:00",
-   "published_iso": "2026-07-04T07:00:00+00:00"
   }
  ]
 }
