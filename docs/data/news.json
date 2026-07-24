@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T11:39:56+00:00",
+ "generated_at": "2026-07-24T13:39:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-24 21:05",
+   "published_iso": "2026-07-24T12:05:14+00:00"
+  },
+  {
    "title": "入管職員200人超増員へ 政府、不法残留者の対応を強化",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zLXZzVEV6ZkZoSUJDM0FncUpJTHIyeVV3VmduNTBxWndzN243djV6UUU3cmJiSndIRVBPN1FkaVBidU1DeTJDczc1dmxpMTMweGlQOUZCSndIVlh5SzhIcE9nTmd0cnNqck8zZDlqcFFCRTVvNmc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-24 20:20",
    "published_iso": "2026-07-24T11:20:20+00:00"
-  },
-  {
-   "title": "犯罪組織プリンスG幹部、入管に引き渡し 在留カード提供罪は起訴",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aGVBNG9iT0pSYTBtMnZ3M1BvcWUwYkx6ZTRabTlZTG1FRGlFdHZiTEk2Q2JETU5lY2NjdUdRa0xMc0FCSnpOazZoTkl6Q0dXbHBaYllDWDc5S3ZFTm9ab0FwYWNNV2M?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-24 20:15",
-   "published_iso": "2026-07-24T11:15:54+00:00"
   },
   {
    "title": "アジア杯優先し異例の決断 外国人招聘も視野 当初「W杯まで」だった森保監督続投の内幕",
@@ -40,12 +40,12 @@
    "published_iso": "2026-07-24T10:46:06+00:00"
   },
   {
-   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-24 19:44",
-   "published_iso": "2026-07-24T10:44:00+00:00"
+   "title": "入管職員、200人超増員へ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vc3ZCZUVXbjVydHhRMHlqeDE1QWxoaTVQejVTSkI5anc4Q1J2Mi1jcU1vY0hueGFZc0M4SzBQbmsxVTZKYWs2a2dpcTZ6UjZoNk9rNVhkVHkwV2pmNzZJbUR2UQ?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-07-24 19:23",
+   "published_iso": "2026-07-24T10:23:03+00:00"
   },
   {
    "title": "【速報】入管職員、200人超増員へ",
@@ -64,12 +64,20 @@
    "published_iso": "2026-07-24T10:22:27+00:00"
   },
   {
-   "title": "外国人の永住許可、「厚生年金30年」を原則に 入管庁が厳格化案",
+   "title": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RGhFaHRCSjBaSXpjRE1DR1hVbkhvWXBOVzB5LXVHWkdsYU1JWGF5SndKSk04RUhobDRFRjBIeS11ZGx1WVlYYVNtTnpSbVFtNFV6aHN6Z1ZoRmcwY1NJdHJuNHliN00?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-07-24 19:04",
-   "published_iso": "2026-07-24T10:04:46+00:00"
+   "published_iso": "2026-07-24T10:04:00+00:00"
+  },
+  {
+   "title": "犯罪組織プリンスG幹部、入管に引き渡し 在留カード提供罪は起訴",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aGVBNG9iT0pSYTBtMnZ3M1BvcWUwYkx6ZTRabTlZTG1FRGlFdHZiTEk2Q2JETU5lY2NjdUdRa0xMc0FCSnpOazZoTkl6Q0dXbHBaYllDWDc5S3ZFTm9ab0FwYWNNV2M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 18:45",
+   "published_iso": "2026-07-24T09:45:00+00:00"
   },
   {
    "title": "【DeNA】6月加入の新外国人右腕、25日中日戦で来日初登板初先発！「とにかく楽しみ」 デビュー戦前に”同郷”サノーと親交深める：中日スポーツ・東京中日スポーツ",
@@ -280,6 +288,14 @@
    "published_iso": "2026-07-24T00:07:00+00:00"
   },
   {
+   "title": "【速報】木原官房長官は外国人政策関係閣僚会議で、入管庁の体制強化を指示した",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FWkxfWEVmMmtibkV0UGxNa3V0LU5tMjllYXQ5ZWZ3LV92RDBZY1R6ODdiejRIUC11ODJ1cDZJVUVGSnJaUHZiOFRGYjhwZzBUOG9NWHNCN3FPVlVicW9CUjNQcGEzUQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-24 08:56",
+   "published_iso": "2026-07-23T23:56:00+00:00"
+  },
+  {
    "title": "「やまゆりの日」犠牲者追悼式典 「共生社会実現へ努力続ける」 書家・金沢さん揮毫 思いひとつに",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNnJHTGg0c19rNElXcEhTZ2gxbmVNSDhhMTRCQ05Rclk1bjd2LU53UHdHRUNtdmZXMzlsNnVyenh2d1o1Q2g3cWtMMXFac3FHOGhz?oc=5",
    "source": "東京新聞デジタル",
@@ -390,22 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-23 05:00",
    "published_iso": "2026-07-22T20:00:00+00:00"
-  },
-  {
-   "title": "特定技能のリーディングカンパニー ONODERA USER RUN 難関・航空機整備の特定技能試験、2年連続【合格率100％】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMkREcXVjaDRBM3g5TFFoNm1TelJoR2EtNFNVdWRxY3NFek9mbWMybW5kODBvMmFvWGg3ODNDeFpvUlRGRWtodndybXhhRzNLWUU4S0VzUEdoVHdibnZHVW1iTm1YTDdhQTl3?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 23:10",
-   "published_iso": "2026-07-22T14:10:00+00:00"
-  },
-  {
-   "title": "入管職員２００人増員へ 不法滞在の摘発強化図る",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMDBVXzJzNVZhT29fWFFfRXM3bTNVWWNHTTlVZm5vcmtYRi1aN3RJZk5qdjUwUFJFSzVsUWltdTg0UVJ4em9KVmpDVnRzWjNmX3BvSDJSeUlPdkJrLXNKczk2cw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 18:56",
-   "published_iso": "2026-07-22T09:56:00+00:00"
   }
  ]
 }
