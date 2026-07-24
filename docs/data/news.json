@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T23:58:04+00:00",
+ "generated_at": "2026-07-24T03:18:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,78 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【速報】政府、在留外国人規制議論へ有識者会議設置",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0VkVrOElJYzVMRDRaQmNlSEgxOXVWLVdaTXF3M1p0WVRGbG1wVDI0M183cV9oTTJJOU8tX1JkSWFKRWctaW15WlUzbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 12:08",
+   "published_iso": "2026-07-24T03:08:49+00:00"
+  },
+  {
+   "title": "私たちも昔「移民」だった アニメ映画「ニホンジン」上映へ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tQjRIdXQ0QnZPMHVUcHlpYWp2bDZ5Qm5qUnhGcVRHbmFHVFFPS3Q1TG15M1V2Y19XWWd6Sk5LSGNMdWRaTXRnX3NKNnhUaXI3R0E?oc=5",
+   "source": "朝日新聞GLOBE＋",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 12:00",
+   "published_iso": "2026-07-24T03:00:55+00:00"
+  },
+  {
+   "title": "ひろぎんワールドビジネス、常陽銀行と協業へ 茨城県で外国人材の受け入れ支援",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtUkFrLURidHBuRjNPY0g4bVlmWWRwYWNVZDNuNWZOR1AxcDZlYWNjc0hPcTNsWlBfQ2p4aWhCdEhzWWZYbEk2emNuZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 11:34",
+   "published_iso": "2026-07-24T02:34:55+00:00"
+  },
+  {
+   "title": "政府、入管庁の体制強化へ 外国人受け入れで有識者作業部会",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vaGtiRWNyTExkckpFNjZFeWFfYzh0RHdoZFFLbzNGdzlla1BSc1AzZVN2UXdsZlFsVUNmX3VUS0FrNG1hOFFVWHgwV01LLWcxeEoybWhmbS1QWXViWWpiRllYTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-24 11:14",
+   "published_iso": "2026-07-24T02:14:00+00:00"
+  },
+  {
+   "title": "木原官房長官 外国人受け入れの在り方について有識者会議の設置を確認 出入国在留管理庁の緊急的な体制整備求める",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFU2pjT2RGem9hYjBHQXYyczNFWkIxX1ZpQ2QwR0oybEJKbE5JR0ZDRWQ5NGJKY294aXRrTm9HY28yTHhldUluaHhiT3dQQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-24 11:07",
+   "published_iso": "2026-07-24T02:07:00+00:00"
+  },
+  {
+   "title": "政府「外国人受け入れ基本方針」策定へ 入管庁体制強化、土地取得や地下水利用のルールも",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNDRRb2pYQy1fQXBhbG05Y3ExR3R1SFpFczAtLXl5djBvZjhJZmR2WHEzWGlIYmFnMENRMDVMeEVQYzZkU3pJMXZwZUh5aWIzTnY0RlZRTXAzMHVzOXNKMERxc0pmNHp2VlJzVmFsOXM3STI0clE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-24 10:20",
+   "published_iso": "2026-07-24T01:20:21+00:00"
+  },
+  {
+   "title": "政府 外国人受け入れのあり方について有識者会議を設置 今年度中に基本方針を取りまとめるよう検討加速を確認",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05Mk84Yi15UmlpQWFobC1HUldKZFNzUk9vQ3pLY0lxdUpQeVVmUmdCaWVlM1FVZENER0o0anN4QS1JX3o1QXpheHVhU3NMeEtobFdGaUZGOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-24 10:08",
+   "published_iso": "2026-07-24T01:08:28+00:00"
+  },
+  {
+   "title": "入管庁の体制強化へ＝外国人受け入れで有識者会議",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PTTZWYXdMbFI3SWJHbVZFcUUxblVQS3pNd0hMcnp2WmNqU3hSZFRIQ005emxiWnhWWnR1M1pHUlVpSUNGV1pGZU9wbkM0N3h1SC12OQ?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-24 09:07",
+   "published_iso": "2026-07-24T00:07:00+00:00"
+  },
+  {
+   "title": "【速報】木原官房長官は外国人政策関係閣僚会議で、入管庁の体制強化を指示した",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FWkxfWEVmMmtibkV0UGxNa3V0LU5tMjllYXQ5ZWZ3LV92RDBZY1R6ODdiejRIUC11ODJ1cDZJVUVGSnJaUHZiOFRGYjhwZzBUOG9NWHNCN3FPVlVicW9CUjNQcGEzUQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-24 08:56",
+   "published_iso": "2026-07-23T23:56:00+00:00"
+  },
   {
    "title": "「やまゆりの日」犠牲者追悼式典 「共生社会実現へ努力続ける」 書家・金沢さん揮毫 思いひとつに",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNnJHTGg0c19rNElXcEhTZ2gxbmVNSDhhMTRCQ05Rclk1bjd2LU53UHdHRUNtdmZXMzlsNnVyenh2d1o1Q2g3cWtMMXFac3FHOGhz?oc=5",
@@ -17,7 +89,7 @@
   },
   {
    "title": "空き家に侵入し指輪2点を盗む ベトナム国籍の技能実習生(23)を逮捕（山形・天童市）",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CU1hYSW9sVXIwaWZhOWNxVVZvNW1jRXdzN3BzZmtPelJpTklIcy01a2JiRmlLWXRQb0xVV0s2azRyT3AzNkdXQW9lNEctLVNhSFdQWTJCZXpRSHJyclp0OHJ4RW1aWDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0NS0wZ0c3TVNXNnF4dE5XWjFnYnQwSHFIdXVnNGRTcUZNTVNpUVEtLXhGZTRpeFNfeHd2YUVKRDM4Z1NWbXZMckdrUXFRSkI3Qm1HbDl5V2Jjdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-24 07:30",
@@ -134,6 +206,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-23 13:14",
    "published_iso": "2026-07-23T04:14:10+00:00"
+  },
+  {
+   "title": "吉崎さん「恩返ししたい」 いわきＳＣマネジャー 共生社会会議で講話",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GaTNxeDJQLVZFUjRIb1VaSnhzYXh6bTNWNDV2MnJTZlZLVXpHMVdfWW55Y3Fib1p6cDQwa1I1TXpCYWcyUTltbFVsTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-23 11:00",
+   "published_iso": "2026-07-23T02:00:00+00:00"
   },
   {
    "title": "京都市の観光客「年６０００万人」初めて突破…昨年６２７９万人・うち外国人は過去最高１２６８万人",
@@ -264,14 +344,6 @@
    "published_iso": "2026-07-22T06:10:00+00:00"
   },
   {
-   "title": "「留学」の在留資格などのタイ人3人を風俗店で働かせた疑い 経営者ら2人再逮捕 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QYkJqZ250SXNoOVc0MlpqZzF1ZlFiLUdnQnc5S0hoX1o3Q21BSFAyaDBsTmJ6QTdEaktqMUk4NUtvTGpBMWNXWm42LXFUSnB3dW5heVp0YU1Hc1BCamhKdVdzdHAyVFMySWpnejdsMFA3UkYwZEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-22 13:38",
-   "published_iso": "2026-07-22T04:38:46+00:00"
-  },
-  {
    "title": "沖縄移民125周年 ドキュメンタリー映画制作発表記者会見",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cEp4UFpCX1ZjOExYOFVfdkFERjFZSDU0M0ZXNms0b3Q0bE0tV0pPeGhzaUJqZDZpUVhmN3lpMjBlc0l0VWJUR1d4V3Z1dw?oc=5",
    "source": "FNNプライムオンライン",
@@ -334,78 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-21 19:00",
    "published_iso": "2026-07-21T10:00:21+00:00"
-  },
-  {
-   "title": "「自治体任せではなく、国が移民を包摂する政策を」モスク・土葬問題",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeUFpUkdKNzlrNWo1Tk9WUXRxOUpFNTVUaFZXNUdUUzQ2MGRYUW5wNENJOVhDeTFPUmxsNkF4RUtaMGZ2bTM3NkpLcWxwUVluZVVYTVJLbU5kRzU5cTBMUkxEZkI5LTQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-21 11:00",
-   "published_iso": "2026-07-21T02:00:00+00:00"
-  },
-  {
-   "title": "米、ＵＮＨＣＲ脱退検討か 難民支援機関、弱体化懸念",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mQ0VUSmhBMm0zLUo1ZzZMY3ltU0pfNXFwcW5sMWR1OGRldTVyLWZpOTg0OUQxMUpHRk90U3AwTUZmVl96VjRWejdobHhwb1JIdnM2QnBoQ3E1OFJOa0laRGlUWQ?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-07-21 10:56",
-   "published_iso": "2026-07-21T01:56:38+00:00"
-  },
-  {
-   "title": "米、UNHCR脱退検討か 難民支援機関、予算・支出改革訴える候補任命されず反発か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZUFRMkNTN3E3R1NOQXF6NWxKVUhZY1c0NGNrbzRpbnYzQ0U0YTVsMUdTV2t3cHMxckpLcXc1YjdGNFFaTTM1a1hiT2xUMTlST09aZDc1VDIzZk1HNTNOSFJmLXphMjJzaWlkNENUZlcyNmJybGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-21 10:55",
-   "published_iso": "2026-07-21T01:55:49+00:00"
-  },
-  {
-   "title": "【米国と学術研究】揺らぐ科学技術立国 移民が源泉、排他的政策",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Qng0Tjd1dlJOMVFZTzBqXzJaM2JtN3dQOWNIV2dUWS1NVVo0b0Y2MkNhUTJqYzNibllyTTZabk5kT1FHMlF0QkZwOVdoWVVsZDc2endn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-21 10:40",
-   "published_iso": "2026-07-21T01:40:10+00:00"
-  },
-  {
-   "title": "「ICE＝移民当局を街から追い出せ」ニューヨーク連邦庁舎に放火か 元アメリカ陸軍兵士を拘束",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wREc0VS1kbWNKb3dmY3F1UjJaNlpIdW5Vc0szMVk2SkhpUHJPRzBlTU8tQkJsWVA4cDE2N3Joemd0eElVUUlFVUhUdktZa2xZaXdLRWxHaWdweU9SLW9ZMjFJRVhvb2xXVGd1UTZPanBXSExv?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-21 09:59",
-   "published_iso": "2026-07-21T00:59:26+00:00"
-  },
-  {
-   "title": "【特定技能外食1号の一時停止を受け初開催】株式会社Linc、特定技能2号に特化した合同転職イベントを実施",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iQkwtREpzUkw1dE9SWDZGV2JSWlFqV0ppQkJkQldYOTRhNllEMUpIdlViT0ZYU19tVVdQMzFwbFRrLUR4bDRXVzBmajJRUnpjQ1RlVDRSUl9OZzJhUDZjSnhXZ0VJY29jb1Y4Y2RsOWdFMVVEMFJGNm5zUQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-21 09:00",
-   "published_iso": "2026-07-21T00:00:00+00:00"
-  },
-  {
-   "title": "「移民当局出ていけ」ニューヨークでICE入るビルの前で放火 元陸軍兵士の男逮捕 3人軽傷",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SQU1iLUJVc085U3hKdjV5U3NwdGItRl9tRndLZFJ6QzBLSmlyRFZySUkweENFTnVZaTR3TF95OXZ2M0FpT1hHcWhHUGxGdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 06:32",
-   "published_iso": "2026-07-20T21:32:00+00:00"
-  },
-  {
-   "title": "ニューヨークの連邦政府ビル前に火、批判高まる移民当局へ男が抗議か [トランプ再来]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpUWI3LVBLSm92cXAwdkRCTXRWb1l4UllqdGI5clJxVzZKRGlyaVdIMUxxbTVuSWctdWFZbzZxQ09DTkN1VHFuZlozZUlHOE92QUh3VVpGMWRObU90bGlEZTNRRmJCeFU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-21 06:00",
-   "published_iso": "2026-07-20T21:00:00+00:00"
-  },
-  {
-   "title": "滋賀県彦根市の子孫らが「移民の歴史展」開催 カナダ移民の写真や資料の提供を呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16UkRTQTVBX0UxQklxYk9aY3BtclI5MUZJSGNuVnc4NVZPOGtGaV8zNjlQZlRfbEEwSGpudy1yRmZYbUYxZkpoUHdKdFJvOUV3R2VwVnNTaXI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-21 05:40",
-   "published_iso": "2026-07-20T20:40:00+00:00"
   }
  ]
 }
