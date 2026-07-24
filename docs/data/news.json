@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T09:19:27+00:00",
+ "generated_at": "2026-07-24T11:39:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,118 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "入管職員200人超増員へ 政府、不法残留者の対応を強化",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zLXZzVEV6ZkZoSUJDM0FncUpJTHIyeVV3VmduNTBxWndzN243djV6UUU3cmJiSndIRVBPN1FkaVBidU1DeTJDczc1dmxpMTMweGlQOUZCSndIVlh5SzhIcE9nTmd0cnNqck8zZDlqcFFCRTVvNmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-24 20:20",
+   "published_iso": "2026-07-24T11:20:20+00:00"
+  },
+  {
+   "title": "犯罪組織プリンスG幹部、入管に引き渡し 在留カード提供罪は起訴",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aGVBNG9iT0pSYTBtMnZ3M1BvcWUwYkx6ZTRabTlZTG1FRGlFdHZiTEk2Q2JETU5lY2NjdUdRa0xMc0FCSnpOazZoTkl6Q0dXbHBaYllDWDc5S3ZFTm9ab0FwYWNNV2M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 20:15",
+   "published_iso": "2026-07-24T11:15:54+00:00"
+  },
+  {
+   "title": "アジア杯優先し異例の決断 外国人招聘も視野 当初「W杯まで」だった森保監督続投の内幕",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odzhoZDhHY1pJeHB1ZUUwNl9qbVkzY3BjRUdJdGh0UzNBcjMwZGkweHJiV0Fac1ZSZW8xZEdHNFU4N2tuc3hPWmx2cnBhTDkwUXJKTDctTmo1MEc5THVLa3JSVGxmeFROaUluWG11NWZQaUJic2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-24 19:51",
+   "published_iso": "2026-07-24T10:51:55+00:00"
+  },
+  {
+   "title": "岡山で外国人運転手受け入れ説明会 バス、タクシー事業者対象",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45TVZLczFVV2xCLV9oaWRiTUtleHE2ZlZuVV9IbHdDYzVmRW1PMl9TNkU1MVlRQmx1cFZZZjBZYmVPSHgyYnl5RlRITQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 19:46",
+   "published_iso": "2026-07-24T10:46:06+00:00"
+  },
+  {
+   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-24 19:44",
+   "published_iso": "2026-07-24T10:44:00+00:00"
+  },
+  {
+   "title": "【速報】入管職員、200人超増員へ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Tk9oWUVBUWc0cVJtaV9VbFBucjlTNWh6dFNZaFE1T1ctR24yNjBvMmtPaWJySEpnaEQ2N01iMEtYbkQ1REkyS2dpWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 19:22",
+   "published_iso": "2026-07-24T10:22:27+00:00"
+  },
+  {
+   "title": "入管職員、２００人超増員へ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BN0YzcnNBMWVoZkd3dzBhaGRrbWM0XzhvWWtXMWF6c0J2NVhab1EtRDNlRHQ3bEJ6cXNVN1JCRDZLRG9uMTNjUlpBZkVpOWRSTV9ScUExY3k?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-24 19:22",
+   "published_iso": "2026-07-24T10:22:27+00:00"
+  },
+  {
+   "title": "外国人の永住許可、「厚生年金30年」を原則に 入管庁が厳格化案",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RGhFaHRCSjBaSXpjRE1DR1hVbkhvWXBOVzB5LXVHWkdsYU1JWGF5SndKSk04RUhobDRFRjBIeS11ZGx1WVlYYVNtTnpSbVFtNFV6aHN6Z1ZoRmcwY1NJdHJuNHliN00?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 19:04",
+   "published_iso": "2026-07-24T10:04:46+00:00"
+  },
+  {
+   "title": "【DeNA】6月加入の新外国人右腕、25日中日戦で来日初登板初先発！「とにかく楽しみ」 デビュー戦前に”同郷”サノーと親交深める：中日スポーツ・東京中日スポーツ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMlBiR2ctbktQbHphUmh3b2tha3VsZUZ0ZFRVdmhTMWdaNnkzZkVfYnUtTUNzUTMtZVlFNlVKN1BmaDl0aGVtNzczenlxaGhsYjhtSw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-24 18:41",
+   "published_iso": "2026-07-24T09:41:36+00:00"
+  },
+  {
+   "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社HKPの事業好調",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQ0RsY2NHck55ei1samdwT252YjVJc0xESUVtNlRrSDlCSF93MHc1dm9mdElmcXZEWnJFYlRWYjVCWmROcDFMcGZsM05UQzdqSEY1MFlFNHUzdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-24 18:33",
+   "published_iso": "2026-07-24T09:33:37+00:00"
+  },
+  {
+   "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社の事業好調",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14MzVFXzJxcVBxYm5hZDdqdmNaVm9ZZURMU1pzXzJVd1lJdklteVJZc2dCQlF6RkhicWI1aURCNVk3LWdKR092LW5WTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 18:33",
+   "published_iso": "2026-07-24T09:33:37+00:00"
+  },
+  {
+   "title": "外国人「量的管理」検討へ 政府、来年３月に基本方針",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vaGtiRWNyTExkckpFNjZFeWFfYzh0RHdoZFFLbzNGdzlla1BSc1AzZVN2UXdsZlFsVUNmX3VUS0FrNG1hOFFVWHgwV01LLWcxeEoybWhmbS1QWXViWWpiRllYTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-24 18:25",
+   "published_iso": "2026-07-24T09:25:00+00:00"
+  },
+  {
+   "title": "２５年度の国民年金納付率、７９・６％で１４年連続改善…外国人の２３年度最終納付率は５５・０％にとどまる",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yWDJ4SjRVQ3BOTm1mRzRBTzZyS1pLZWJQZWlDbldzYUlRUXZCR3FHMi1VZ3ZzbkFJR2Y3OG9pNDlMeDRaeW5KUEs4Z0lZSXBWLWxPaTQ5NjVrSGo2YXFqbnEwN0tFUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-24 18:21",
+   "published_iso": "2026-07-24T09:21:00+00:00"
+  },
+  {
+   "title": "「プリンス」幹部を略式起訴 入管法違反、アジア最大犯罪組織",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82SnVPZUlORkg2RkNab3ZWNWYwMGJnWWI3cHNNS3pVeEwxa0Y4ZDRYTGNjaVdKS3RnOFkxVDlEdFFibG5EWmhYZmZXQlVXV2wxV0IwVTBR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-24 18:19",
+   "published_iso": "2026-07-24T09:19:13+00:00"
+  },
   {
    "title": "本村賢太郎相模原市長 - 相模原市長「共生社会実現を」 知的障害者施設、殺傷事件10年 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aQ0JNNWdTcmF5VlM4YU1CWmhoeG01X3pQa3dpQ194X2lMbWFJalE3eldqUHdqNVZGdVhsLTNleXdFeWtGMkZIOGNDcVVCWmlVb1lFSE42QQ?oc=5",
@@ -32,12 +144,20 @@
    "published_iso": "2026-07-24T08:30:00+00:00"
   },
   {
-   "title": "外国人にも日本人にも選ばれるまちに 国籍超え文化交流、岐阜県関市で「ワールドカフェ」",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0QmJNWGc2VTRrU0NnM1A2bmoxQTNBX29OT3MyLTRBbjhXLTMtYkw3U0VDdHRUbWotR3k5QTBtYld6NUFaX2lkZjNQRVFkcDFnRXJEa2tsNTZDU0Z1dEloMg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-24 17:10",
-   "published_iso": "2026-07-24T08:10:18+00:00"
+   "title": "「東九条マダン」存続に不安の声 示し続けたい多文化共生社会の縮図 [京都府]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JNUVCVk82MHJOZ3hyRDBIOUhsMEFZT19OTHhJSlhwOTNwTGRxaUMybzBYTWR5OFE1SFl6ZkppTEZOZlFFZU9kTDlJRUtSUGY5YVBobWFiem40NjRsbzRhWmF3QTdVWEk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 17:00",
+   "published_iso": "2026-07-24T08:00:00+00:00"
+  },
+  {
+   "title": "外国人採用のミスマッチと早期離職を防止！株式会社クオリティ・オブ・ライフ、「高度外国人材の採用・定着支援サービス」を開始",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pS1RGb2xxWnJhX0ZmS3dQWG82am1NOTRiNWRaaE8xZVZZc1h4d1B1QmtrRlktQWZtNnl6djVHTlk5OW1hUkdtei1xVV9QSXB6dEdWRzBoTTRtcTdobHQ4XzQ0LVo1MWFYODlHbWY0VWRfVHAwdnhBYVNuaw?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-24 16:34",
+   "published_iso": "2026-07-24T07:34:50+00:00"
   },
   {
    "title": "共生社会の理念に賛同する企業・団体を募集します",
@@ -86,6 +206,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-24 12:24",
    "published_iso": "2026-07-24T03:24:23+00:00"
+  },
+  {
+   "title": "【速報】政府、在留外国人規制議論へ有識者会議設置",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0VkVrOElJYzVMRDRaQmNlSEgxOXVWLVdaTXF3M1p0WVRGbG1wVDI0M183cV9oTTJJOU8tX1JkSWFKRWctaW15WlUzbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 12:08",
+   "published_iso": "2026-07-24T03:08:49+00:00"
   },
   {
    "title": "政府、在留外国人規制議論へ有識者会議設置",
@@ -152,14 +280,6 @@
    "published_iso": "2026-07-24T00:07:00+00:00"
   },
   {
-   "title": "【速報】木原官房長官は外国人政策関係閣僚会議で、入管庁の体制強化を指示した",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FWkxfWEVmMmtibkV0UGxNa3V0LU5tMjllYXQ5ZWZ3LV92RDBZY1R6ODdiejRIUC11ODJ1cDZJVUVGSnJaUHZiOFRGYjhwZzBUOG9NWHNCN3FPVlVicW9CUjNQcGEzUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-24 08:56",
-   "published_iso": "2026-07-23T23:56:00+00:00"
-  },
-  {
    "title": "「やまゆりの日」犠牲者追悼式典 「共生社会実現へ努力続ける」 書家・金沢さん揮毫 思いひとつに",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JNnJHTGg0c19rNElXcEhTZ2gxbmVNSDhhMTRCQ05Rclk1bjd2LU53UHdHRUNtdmZXMzlsNnVyenh2d1o1Q2g3cWtMMXFac3FHOGhz?oc=5",
    "source": "東京新聞デジタル",
@@ -198,14 +318,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-07-24 06:00",
    "published_iso": "2026-07-23T21:00:00+00:00"
-  },
-  {
-   "title": "書評 読書日記：もっと知ってほしい！ 子どもの未来を奪う日本の外国人政策 ブレイディみかこ",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MdXV6YlVBX0FQZDY3OWhuNk81WkRVRXY3d2Z3TkROMXBpZUtjQUdZcnpMbl9BT2ZLbFJ2U2lVNDdMMU5Zb3hqN2daUDZPOHk2TEdwX2Z3VlFTWUQ1UEdRdmh4MjIwLWROZWgtTVA0cm5rUmpMY0gxVDdoRjhxZ0k?oc=5",
-   "source": "週刊エコノミスト Online",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-24 00:04",
-   "published_iso": "2026-07-23T15:04:49+00:00"
   },
   {
    "title": "入管難民法違反の疑い、タイ国籍の女2人逮捕 須坂署",
@@ -280,12 +392,12 @@
    "published_iso": "2026-07-22T20:00:00+00:00"
   },
   {
-   "title": "入管で亡くなったウィシュマさん訴訟結審…「一日たりとも姉のことを思わない日はない」妹が法廷で涙の訴え",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcUFDOUJVVUk3RnlwUFNLaVpjX0xfdEFucDlRYXk4VV84eDdoa0JDbmQxYTJ1eF8yTU5hRTgyVE1yWjJIX29jc19DeGpmTW8yVnA4?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-22 20:02",
-   "published_iso": "2026-07-22T11:02:29+00:00"
+   "title": "特定技能のリーディングカンパニー ONODERA USER RUN 難関・航空機整備の特定技能試験、2年連続【合格率100％】",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMkREcXVjaDRBM3g5TFFoNm1TelJoR2EtNFNVdWRxY3NFek9mbWMybW5kODBvMmFvWGg3ODNDeFpvUlRGRWtodndybXhhRzNLWUU4S0VzUEdoVHdibnZHVW1iTm1YTDdhQTl3?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-22 23:10",
+   "published_iso": "2026-07-22T14:10:00+00:00"
   },
   {
    "title": "入管職員２００人増員へ 不法滞在の摘発強化図る",
@@ -294,118 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-07-22 18:56",
    "published_iso": "2026-07-22T09:56:00+00:00"
-  },
-  {
-   "title": "不法移民排斥激化の南ア、２か月で約１６万人出国",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45b3FWSDRMOVYtN3gwTXpVejFMdU9LQlNsdW96QTZDMFh4eE1TcndMWV9XU3JkVkcxN1Zwd0tLaFNJcE5UeF82Rm84UnZxY05QYVJxRC1xbXBPWTJsY2dsUHVtOEJ2UQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 17:49",
-   "published_iso": "2026-07-22T08:49:00+00:00"
-  },
-  {
-   "title": "ウィシュマさん入管死が結審 判決１２月、医療対応が争点―名古屋地裁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hQ2hRb3ZlcEJZdGhJSi1qSWFHVXFuZHlzNEcxV1ZleHoydGpmRmpxNEppS3FEelVuV0djUXlacHlRNHNrMkMtMU1VZ0FvWFd0R1JPRklDV3BIbWtwZzlHNTlpWQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 17:39",
-   "published_iso": "2026-07-22T08:39:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生の監理団体の職員ら2人を再逮捕 入管難民法違反の疑い 「タイ古式マッサージ」うたい店を経営 4年で3億4300万円売り上げか 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FTmR3eXZDSGxyc3JXM1hBeC11dkVGdG1NcVBoWkJ2bDBGSTVvaFhOdURRcHpkOXQ5M0c0eDJ1VEFwbk1iOWVfTlB2Vng2SE94UC1zNkw2RQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-22 15:10",
-   "published_iso": "2026-07-22T06:10:00+00:00"
-  },
-  {
-   "title": "沖縄移民125周年 ドキュメンタリー映画制作発表記者会見",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cEp4UFpCX1ZjOExYOFVfdkFERjFZSDU0M0ZXNms0b3Q0bE0tV0pPeGhzaUJqZDZpUVhmN3lpMjBlc0l0VWJUR1d4V3Z1dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-22 11:40",
-   "published_iso": "2026-07-22T02:40:00+00:00"
-  },
-  {
-   "title": "【育成就労】新制度における監査のポイントを解説 外部監査人・監理支援機関のための監査実務セミナー",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uLUFkRmNhNHZkMi1SeWgxY1EwMzg3U2Q2SFlhUXZlODRtWmQxSG5EeTlLTGVpR3Q2UzZEQmFPZGM2bFI3YVVQTl8xaldSSEtlMHQtSzJRMWVDLXlTUzViVXNFWUxwWGotV3hV?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 11:16",
-   "published_iso": "2026-07-22T02:16:00+00:00"
-  },
-  {
-   "title": "難民１４０人超が死亡・不明 モーリタニア沖、２５日間漂流も―国連",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzeHRSZWdGOVN0WHVNTXhFbTRHRjlkVmVwNUpJRzB1dHliZWlSMFRPOHFOcFA5WHZQQWVsdVJpWl9PMlE4UzhjVW41SDRzcFlXamRESmFpVkJ6Ym5tdk1Da3JYVQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-22 05:47",
-   "published_iso": "2026-07-21T20:47:00+00:00"
-  },
-  {
-   "title": "成長力高めるために… 戦略的に高度外国人材活用を 大和総研の小林若葉さんに聞く【経済トレンド／にっぽん診断】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uOW9CdVRHdzMwUzNFZXV3b1FfT00yYXlGVkJrb2J2UlFTRW5JY0R6WlN1RGVSNERvUUlhN2c1Vzg4Z1BpbnAxdmVaYnBDNVRHMEhEeTVpbmtXRk9rb3V1bnB2bVkxd0djTEYw?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-22 05:00",
-   "published_iso": "2026-07-21T20:00:05+00:00"
-  },
-  {
-   "title": "介護の外国人材定着へ、川崎市はインターン生紹介 永住視野の育成も",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fdThQVG1zNlE5MGg2OG8tVkY5QnZLVlpORllMRUlHMVozdUxBWWx0UGxkanVKYzYybE1pMjhGTnIwS3dHNU55SlZmQkNuancwYm1GVUk1SDVCZWpOc0RrenhxVXZMNDBWX2E2Mg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-22 05:00",
-   "published_iso": "2026-07-21T20:00:00+00:00"
-  },
-  {
-   "title": "香川の自動車学校、法人向け運転コンサル 外国人材の技能も見える化",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdFFEM0VMekd0b0FURjM3aWhSUElNQkV2TXd4OWxBZFVBQWNlUjJJTmVMT2lUTzNFM3NPTDRIaGF6RDlKTWVRNWhNUGVwOVVmWEt4M0EtQkdQOVpYbEtGcTY1alktd2x4Sm94Rg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-22 05:00",
-   "published_iso": "2026-07-21T20:00:00+00:00"
-  },
-  {
-   "title": "「移民当局出ていけ」ニューヨークのビルにガソリンまき放火 連邦職員など3人軽傷 元陸軍兵士の43歳男を拘束",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80TVh3WEhUU1E5V3ZWTUUteFJmOEFhOTRKTFlsTHdqMzM5SGdEbVpCM0MtVkdCa0xhN1NEZmg5WjRpWHdHTmI2MkZyUDEyZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-21 20:01",
-   "published_iso": "2026-07-21T11:01:00+00:00"
-  },
-  {
-   "title": "トルコ国籍の男「もう運転したくない」川口のバイク19歳死亡、信号無視の起訴内容認める 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dHdTckNmTkowMmhfbXFzazdpVVV4eXBmdkhDZU5ZRFh2dDVDNHR6V1dZUy1EdU1oa2t5cE5qTUpxc2dXRTZCeVJQWGQ5ZHlaYlBYVTMyUXpoQURfTFNIamJ1Zzc5WC1FbWpKbWRTRVUwZ0xOWEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-21 19:00",
-   "published_iso": "2026-07-21T10:00:21+00:00"
-  },
-  {
-   "title": "「自治体任せではなく、国が移民を包摂する政策を」モスク・土葬問題",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeUFpUkdKNzlrNWo1Tk9WUXRxOUpFNTVUaFZXNUdUUzQ2MGRYUW5wNENJOVhDeTFPUmxsNkF4RUtaMGZ2bTM3NkpLcWxwUVluZVVYTVJLbU5kRzU5cTBMUkxEZkI5LTQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-21 11:00",
-   "published_iso": "2026-07-21T02:00:00+00:00"
-  },
-  {
-   "title": "米、UNHCR脱退検討か 難民支援機関、予算・支出改革訴える候補任命されず反発か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uZUFRMkNTN3E3R1NOQXF6NWxKVUhZY1c0NGNrbzRpbnYzQ0U0YTVsMUdTV2t3cHMxckpLcXc1YjdGNFFaTTM1a1hiT2xUMTlST09aZDc1VDIzZk1HNTNOSFJmLXphMjJzaWlkNENUZlcyNmJybGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-21 10:55",
-   "published_iso": "2026-07-21T01:55:49+00:00"
-  },
-  {
-   "title": "【米国と学術研究】揺らぐ科学技術立国 移民が源泉、排他的政策",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2Qng0Tjd1dlJOMVFZTzBqXzJaM2JtN3dQOWNIV2dUWS1NVVo0b0Y2MkNhUTJqYzNibllyTTZabk5kT1FHMlF0QkZwOVdoWVVsZDc2endn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-21 10:40",
-   "published_iso": "2026-07-21T01:40:10+00:00"
   }
  ]
 }
