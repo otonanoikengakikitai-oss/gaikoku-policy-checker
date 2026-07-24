@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T20:59:53+00:00",
+ "generated_at": "2026-07-24T22:13:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,32 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tY2lyYjJjaGE0N2hSbERjWDVmY3UzTUZqbkprMHZMLVlHdVZiNlU0SFhoMjZxc2xLYVhwNUl2YlRLajJDSko5eEw2bmpzaUItUWlCTHQtSVBYS2Rrdi1NR1loNjY3dw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-25 05:00",
-   "published_iso": "2026-07-24T20:00:00+00:00"
+   "published": "2026-07-25 06:18",
+   "published_iso": "2026-07-24T21:18:27+00:00"
+  },
+  {
+   "title": "外国人観光客のぼったくり被害防止を…アジア大会を前に愛知県警と名古屋市が注意喚起のリーフレット配布 5つの言語で作成",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nYkNWOUZTX0lYS2NweVBMTXVFNjZlZE8wR3VwVWhVbnoyUmNYQ0ZYZFp5X3M4VVNjTEdZWEhVTkIwQ3FhemxJdTM3UHM4QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-25 06:01",
+   "published_iso": "2026-07-24T21:01:56+00:00"
+  },
+  {
+   "title": "［福岡県］技能実習生が桜馬場で水やり",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbFc3cDRPaFZkOWp3QlBGX3RIWkZZWElnSUZ3Q3lZcVVWUmtLZTEydmtnXzZwVW8zNWZCOUJzcjhGcktHU0I3NUY0aG1hMTZGN29yQU5n?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-25 06:00",
+   "published_iso": "2026-07-24T21:00:00+00:00"
+  },
+  {
+   "title": "やまゆり事件を機に、障害を理解しようとする人と、排他的な人に二極化…永井清光園長が願う共生社会の実現",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkQ0QtZnJyZEVpcTZLUVdwWWFYVEpZZ1BJT2lqTGxvRDdyXzZtSlFUNjU5a1hUdzc3M2lETVN1aTU1OEhGSGk1MWdLUmFTSFdRN3g0?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-25 06:00",
+   "published_iso": "2026-07-24T21:00:00+00:00"
   },
   {
    "title": "在留外国人 数値目標検討 政府、３月に基本方針 有識者会議新設",
@@ -126,14 +150,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-24 18:45",
    "published_iso": "2026-07-24T09:45:00+00:00"
-  },
-  {
-   "title": "【DeNA】6月加入の新外国人右腕、25日中日戦で来日初登板初先発！「とにかく楽しみ」 デビュー戦前に”同郷”サノーと親交深める：中日スポーツ・東京中日スポーツ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WMlBiR2ctbktQbHphUmh3b2tha3VsZUZ0ZFRVdmhTMWdaNnkzZkVfYnUtTUNzUTMtZVlFNlVKN1BmaDl0aGVtNzczenlxaGhsYjhtSw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-24 18:41",
-   "published_iso": "2026-07-24T09:41:36+00:00"
   },
   {
    "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社HKPの事業好調",
@@ -360,14 +376,6 @@
    "published_iso": "2026-07-23T22:15:00+00:00"
   },
   {
-   "title": "対向車にも列車にも… 外国人レンタカーの事故 北海道で“過去最多”ペース今年はもう25件 店は4カ国語指導",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NNktnQ1VkLUpJNkhya2ZnUTNBRWhLQ0o0RVRlN2xVZkJMaUJrRXk3eEo0eHh2azFIRmdHaUlleXlScWFFODA4VVBVVENKUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-24 07:00",
-   "published_iso": "2026-07-23T22:00:00+00:00"
-  },
-  {
    "title": "〈社説〉入管収容死結審 裁判所は厳正な判断を",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01U1pnYmxIVm1iQkttdDhsTDBsRDNqRXJGaGNUa3JIUXBGNVdyYWRIcU4zWnUwLVYwWVozYmVMNVBoOTdfblhlZGhpU2lqMWgxUGdXTS1rRnRvbmRVTUFDUUx3OEF3VkYxNTFQV2MtUzg?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -398,14 +406,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-23 18:59",
    "published_iso": "2026-07-23T09:59:12+00:00"
-  },
-  {
-   "title": "外国人の誤進入相次ぐ 高速道路の立ち入り防止へ 関係機関が対策を協議 山梨 （2026年7月23日掲載）｜YBS NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDRrb0NPSEQ1WHlvYUNoYWJLZzVrTERhUFI5S240NXNVc3pPX0dHTnZ0dnZTaGpwMnNpSDBGNEphMURUVHRwZzd3eVVPa2VybE5xUVlJcS1hUG9jOXJVaWpzQkhUWkM5TnJJNFptUjQ2LWlocTFabmpsejlPSjhIdm5TU0p2dW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-23 18:55",
-   "published_iso": "2026-07-23T09:55:01+00:00"
   }
  ]
 }
