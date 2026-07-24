@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-24T13:39:09+00:00",
+ "generated_at": "2026-07-24T15:23:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
-   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-24 21:05",
-   "published_iso": "2026-07-24T12:05:14+00:00"
+   "title": "外国人急増に対応、入管職員226人増員へ 政府、元自衛官の採用も [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GdzYzWGh1VUZxRjFGS1gxeUpEb2ZqTkV5RzZkR25EcHB3NFNEZWJ3dXhnYzZwSGotUVJmTWp0REdVdWIwbEZkR0N2X0JQVmNLM216em9OQmZaLTlIVDlmdl90QWhNMm8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 23:35",
+   "published_iso": "2026-07-24T14:35:09+00:00"
+  },
+  {
+   "title": "追い詰められる外国人「35年で一番不安」「日本、誇りだったのに」 [兵庫県]",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlhvc1ZlbnAyN211MVNfN0hmc1U3dTlQU0g5OWFTcEJFV2g3SnAwTkFsbE1vUWNzckJjbGw5WE0xTDkxVUVDSXVvZzg1cG5zSEhvamlDZXJoSy14cDBCMEd6QV9jQlVURGREb0JiSDhzdU4xdzB3NkEzZkVJdHV1SHFxOU80dWFZRlRCejA2M3JzU1dmUEhubnNzODIyUloxeURaQQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 23:15",
+   "published_iso": "2026-07-24T14:15:15+00:00"
+  },
+  {
+   "title": "【ＤｅＮＡ】新外国人ビド、２５日中日戦で来日初登板初先発「とにかく楽しみ」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WSS02bkRMWlZqZGNTaGlTWGZ6MmlwelgyTXpJajlScGlBQjFCYWplaE9tMDBYVHBWcWpMOEx3eFY3NGo4OVNqcFhSbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 22:50",
+   "published_iso": "2026-07-24T13:50:00+00:00"
+  },
+  {
+   "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社HKPの事業好調",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQ0RsY2NHck55ei1samdwT252YjVJc0xESUVtNlRrSDlCSF93MHc1dm9mdElmcXZEWnJFYlRWYjVCWmROcDFMcGZsM05UQzdqSEY1MFlFNHUzdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-24 22:35",
+   "published_iso": "2026-07-24T13:35:07+00:00"
   },
   {
    "title": "入管職員200人超増員へ 政府、不法残留者の対応を強化",
@@ -38,6 +62,14 @@
    "source_domain": "47news.jp",
    "published": "2026-07-24 19:46",
    "published_iso": "2026-07-24T10:46:06+00:00"
+  },
+  {
+   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-24 19:44",
+   "published_iso": "2026-07-24T10:44:00+00:00"
   },
   {
    "title": "入管職員、200人超増員へ",
@@ -86,14 +118,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-24 18:41",
    "published_iso": "2026-07-24T09:41:36+00:00"
-  },
-  {
-   "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社HKPの事業好調",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQ0RsY2NHck55ei1samdwT252YjVJc0xESUVtNlRrSDlCSF93MHc1dm9mdElmcXZEWnJFYlRWYjVCWmROcDFMcGZsM05UQzdqSEY1MFlFNHUzdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-24 18:33",
-   "published_iso": "2026-07-24T09:33:37+00:00"
   },
   {
    "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社の事業好調",
@@ -160,14 +184,6 @@
    "published_iso": "2026-07-24T08:00:00+00:00"
   },
   {
-   "title": "外国人採用のミスマッチと早期離職を防止！株式会社クオリティ・オブ・ライフ、「高度外国人材の採用・定着支援サービス」を開始",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pS1RGb2xxWnJhX0ZmS3dQWG82am1NOTRiNWRaaE8xZVZZc1h4d1B1QmtrRlktQWZtNnl6djVHTlk5OW1hUkdtei1xVV9QSXB6dEdWRzBoTTRtcTdobHQ4XzQ0LVo1MWFYODlHbWY0VWRfVHAwdnhBYVNuaw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-24 16:34",
-   "published_iso": "2026-07-24T07:34:50+00:00"
-  },
-  {
    "title": "共生社会の理念に賛同する企業・団体を募集します",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV1hrbW1UVUd5MG00aDRFQ0drWU43cmo0a1lDcnYyZ2lDakRuZEVRM2E1aGRpSERRUGprMDdSWXBuNmxxcDFKbWRuU2RGUHR0OVBzVTVOYjU2VDl3VS05cE5OY3hzaEdmamNZ?oc=5",
    "source": "時事ドットコム",
@@ -190,6 +206,14 @@
    "source_domain": "sankei.com",
    "published": "2026-07-24 13:37",
    "published_iso": "2026-07-24T04:37:43+00:00"
+  },
+  {
+   "title": "政府、外国人受け入れ規制議論へ 有識者会議新設、今年度中に方針",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZU1hWjh6LVRGNTBXT2NmN1puR29VX0MwRWNsSTd5TmJJWXRFeTY5Q3BsVUpPTmFuQmVlMHhPUVBkUTZhTUxEOXRMUzM2bVVKd0thdG1LcFNVdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-24 12:57",
+   "published_iso": "2026-07-24T03:57:46+00:00"
   },
   {
    "title": "入管職員を２３０人増員、政府が不法残留外国人の摘発強化を決定…外国人受け入れ数値目標の検討へ有識者会議も新設",
@@ -352,14 +376,6 @@
    "published_iso": "2026-07-23T09:59:12+00:00"
   },
   {
-   "title": "外国人の誤進入相次ぐ 高速道路の立ち入り防止へ 関係機関が対策を協議 山梨 （2026年7月23日掲載）｜YBS NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSDRrb0NPSEQ1WHlvYUNoYWJLZzVrTERhUFI5S240NXNVc3pPX0dHTnZ0dnZTaGpwMnNpSDBGNEphMURUVHRwZzd3eVVPa2VybE5xUVlJcS1hUG9jOXJVaWpzQkhUWkM5TnJJNFptUjQ2LWlocTFabmpsejlPSjhIdm5TU0p2dW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-23 18:55",
-   "published_iso": "2026-07-23T09:55:01+00:00"
-  },
-  {
    "title": "政府、外国人規制の有識者会議設置へ 議論基に「人口戦略」策定",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YVHJSbVQ2U3N4RUpMbDdBdGNvNTZqazlsWDJFWTFndTFpaXVmdlZ6MFMzMTZsYVluNzgtNWJrZWlXc2pHRW5zQTJfbW1YYW9ndHhHRnFaVlQ4Y29XSFE2RDJtMG55aDFt?oc=5",
    "source": "毎日新聞",
@@ -390,22 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-23 13:14",
    "published_iso": "2026-07-23T04:14:10+00:00"
-  },
-  {
-   "title": "吉崎さん「恩返ししたい」 いわきＳＣマネジャー 共生社会会議で講話",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GaTNxeDJQLVZFUjRIb1VaSnhzYXh6bTNWNDV2MnJTZlZLVXpHMVdfWW55Y3Fib1p6cDQwa1I1TXpCYWcyUTltbFVsTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-23 11:00",
-   "published_iso": "2026-07-23T02:00:00+00:00"
-  },
-  {
-   "title": "入管で死亡のウィシュマさん国賠訴訟が結審、１２月１１日に判決…適切な医療措置が提供されたかなど争点",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ueXBsNzF4ZGxiNk93MFZjMU5WVUxLN2Q3bWxhTXFUbDZEOUFHUjRoYm9nbl9uMWt3VExOZ3oxQmgxZDBsRDVGNk9WZGNVQ1hOWlYwcjFCdi04OUVSSWwzUlFkWkswZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-23 05:00",
-   "published_iso": "2026-07-22T20:00:00+00:00"
   }
  ]
 }
