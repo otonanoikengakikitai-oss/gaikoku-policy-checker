@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T00:01:46+00:00",
+ "generated_at": "2026-07-25T04:07:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,68 @@
  ],
  "items": [
   {
-   "title": "外国人の受け入れ人数に数値目標を検討、来年３月に基本方針…経済界からは制限強化の動きに懸念の声も",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eeno0V2M4bk9fSmFLV3otMGtneEF0aUxMVVJBLXA0RXRTaDdqMXVKRFZtRkhDdmQ1ZjE1ajk5S004ZC14dnkxclVBVjZfV1E2SmxabWxvbVNtYWZ3ZjFnaWFDWXRWQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-25 08:20",
-   "published_iso": "2026-07-24T23:20:24+00:00"
+   "title": "2026年8月6日(木)「外国人ドライバー採用」をテーマとした説明会に船井総研サプライチェーンコンサルティングのコンサルタントが登壇します (主催:株式会社シンク・スリー様)",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PZE14N1NjRkNzZXN5QkxjTU5CVmNid05wRDhUNndQcnBteUI5ZmlnMkJFUDdQQ2RwaUpRNTllNGJObjRhRjMxUWRBOElFa0RfajItWTlGR043MmdhMW9NSHlPeW1fdVJBNW00?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-25 12:45",
+   "published_iso": "2026-07-25T03:45:00+00:00"
+  },
+  {
+   "title": "「は？」「頭が固いな」板垣李光人VS眞栄田郷敦、犬猿の仲の“税関職員＆入国審査官”が第1話から火花バチバチ！＜大空港＞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51R2h3ZzY5UWdYMVJWNWZQN1ptRldJcjZJODg4N1FWdXpSY3F4TmktWWZ6akUwS0ZZY2lhcFBmZEFYSnR6eXVYeFVrNlloUllOelHSAVdBVV95cUxPTGZOblh1YmJyUWdhNXctS2xZWEt1aEJCeEpTMnJKNElPTXBBcDhfdGh0S2c2d0dHREVLRzV1MU1pVFZpajlwUmUxZGVIX01MRGFWQ21TMUU?oc=5",
+   "source": "テレ朝POST",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-25 12:40",
+   "published_iso": "2026-07-25T03:40:35+00:00"
+  },
+  {
+   "title": "首相官邸 - 外国人の永住許可要件厳格化へ 年収、日本人の平均以上 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZlRqem5lWklPQWhjVnpCM1JCUTZrc3lGaDBoeFJURE9hSkpDVWZDaEFQTmNSaHpTS3otcF9QaUpsYl9JV09rdl9EM2IwOE5xX0huOWFjcw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-25 12:33",
+   "published_iso": "2026-07-25T03:33:08+00:00"
+  },
+  {
+   "title": "外国人の永住許可要件厳格化へ 年収、日本人の平均以上 政府方針「年金30年水準」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wdW4yTHc0OUdGYUxXQzUzanhUZ2RKVzl0d25pZXVScmR0VUVCc3ZGd0E1bVJhYURNZVF2VkVLRGJVa041MzFyOFVwRUdXdDNHUXg5X2xXRl9vR2RSYUVvSU40M1V1ZWtSbUwzU2VmaWRBNEdkTGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-25 12:03",
+   "published_iso": "2026-07-25T03:03:41+00:00"
+  },
+  {
+   "title": "外国人の永住要件を厳格に 指針改定、日本人の平均年収超えなど新設",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BOUlvUE5tekFqbmxPV1FXU2pnYXcwYXpwR3ZrMjMwdUtsYmVBNjJZUTAzRjdGdklESHhwRlk3Y3BqaGhqTEl0eTBVeFNXNExjMklfOXNxSWpRdnJ4MXJETXhXMGxFY1BpOC1wcQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-25 11:40",
+   "published_iso": "2026-07-25T02:40:14+00:00"
+  },
+  {
+   "title": "政府、外国人の永住許可要件厳格化へ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05TWNfTTluUkE2Rzd2OF85VmNUNHBpZmRIMVk3dGx0aTF3c2tfRjAxUl9lelQ5MGNhV1NUOTJYVEI3WGdHYWtkX1RJMmxkSHRySFRCX2QxbnluQlZtN0pEYkRHUQ?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-07-25 11:28",
+   "published_iso": "2026-07-25T02:28:03+00:00"
+  },
+  {
+   "title": "【速報】政府、外国人の永住許可要件厳格化へ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LWE1OaEM2OEhIeExHdlJ5U2d6TmtEQXpIcW9ZcVcwYlZvNmMzcGdtRUY0UGZpbnJ3ZHd4Q3drTmc4VDdFMDZDZHFGaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-25 11:27",
+   "published_iso": "2026-07-25T02:27:21+00:00"
+  },
+  {
+   "title": "外国人ら７人救急搬送 車が田んぼに転落 ガードパイプ突き破り３メートル下へ 鹿児島市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VTm5jQW92UEVFN09TbEZNTkRjZ2xYc2RSd2NzcFAtNnVuR0xJTnpYanBRakZYbFFrcUdtT3NUZkFxVnVXcHg2M0hWaTNoRmtmcms1Tkg5aw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-25 10:52",
+   "published_iso": "2026-07-25T01:52:00+00:00"
   },
   {
    "title": "「民間人だろうと殺しても構わない」移民当局が入るビルに放火 元アメリカ陸軍兵士の男を拘束 移民政策に反発か アメリカ・ニューヨーク",
@@ -32,7 +88,7 @@
    "published_iso": "2026-07-24T21:01:56+00:00"
   },
   {
-   "title": "［福岡県］技能実習生が桜馬場で水やり",
+   "title": "福岡・小郡市の九州国際学院技能実習生が「桜馬場」で水やり",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbFc3cDRPaFZkOWp3QlBGX3RIWkZZWElnSUZ3Q3lZcVVWUmtLZTEydmtnXzZwVW8zNWZCOUJzcjhGcktHU0I3NUY0aG1hMTZGN29yQU5n?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
@@ -46,6 +102,30 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-25 06:00",
    "published_iso": "2026-07-24T21:00:00+00:00"
+  },
+  {
+   "title": "つなぐ・つむぐ：差別あおる恐れも 埼玉・戸田 河合市議 全国移民反対デモ 大阪にも市民つめかけ－情緒的主張多く ／大阪",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbUZMazZUemNzNEJZMHFkSmY3YUJGN09nMXJUelloWERxVDBjNkVSb3EyVGt6U1FHanlCREtRR1JEY1k2eFh0QUVPcEM4OWVxbEkxV25HNENYMGlhLXNNSEY1TXlnVkx5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-25 05:05",
+   "published_iso": "2026-07-24T20:05:43+00:00"
+  },
+  {
+   "title": "山車曳き わっしょい 技能実習生ら地域交流 幸手 ／埼玉",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoYm1ncVdkUEpJWXNCWVBwZmhqV1M0aDFsc3BqcDJoVVlpbm1ud2FNYzVCSW9ybk9JSGFyMEZ1QllzclliSU5EYXdFVGRsNGZuYTM0QXlNcTdJekxJV3VEYUI0WnpCZzdV?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-25 05:02",
+   "published_iso": "2026-07-24T20:02:03+00:00"
+  },
+  {
+   "title": "外国人の受け入れ人数に数値目標を検討、来年３月に基本方針…経済界からは制限強化の動きに懸念の声も",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eeno0V2M4bk9fSmFLV3otMGtneEF0aUxMVVJBLXA0RXRTaDdqMXVKRFZtRkhDdmQ1ZjE1ajk5S004ZC14dnkxclVBVjZfV1E2SmxabWxvbVNtYWZ3ZjFnaWFDWXRWQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-25 05:00",
+   "published_iso": "2026-07-24T20:00:00+00:00"
   },
   {
    "title": "外国人の永住許可要件を厳格化、「日本人の平均上回る年収水準」新指針に明記へ",
@@ -62,22 +142,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-25 05:00",
    "published_iso": "2026-07-24T20:00:00+00:00"
-  },
-  {
-   "title": "【1999年夏の全国高校野球京都大会】京都韓国学園が外国人学校として初出場 京都府北部勢は悲願の甲子園出場なるか",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14TXVvTHNuNC16OW5aVXBvMEhzaFAwdkczYzBvZHlORGFoWXpNendubDZSQjF4ZlBrSnJwaWJCYTJtZmlIeHE5aUwyZkZpZGZHWUhOOUxTRlg?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-25 04:45",
-   "published_iso": "2026-07-24T19:45:00+00:00"
-  },
-  {
-   "title": "共生社会の理念に賛同する企業・団体を募集します",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV1hrbW1UVUd5MG00aDRFQ0drWU43cmo0a1lDcnYyZ2lDakRuZEVRM2E1aGRpSERRUGprMDdSWXBuNmxxcDFKbWRuU2RGUHR0OVBzVTVOYjU2VDl3VS05cE5OY3hzaEdmamNZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-25 01:40",
-   "published_iso": "2026-07-24T16:40:00+00:00"
   },
   {
    "title": "外国人急増に対応、入管職員226人増員へ 政府、元自衛官の採用も [外国人政策 高市早苗総理 自民党]",
@@ -145,11 +209,11 @@
   },
   {
    "title": "「プリンス」幹部を略式起訴 入管法違反、アジア最大犯罪組織",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5feDN6T3Zfd2xVRTRIbmhGN0VZNVlScWRLMk80SGI3R2pacmlKblFGZm1qVm1NaGJ2eDZzczZXQVJsQ1E0Qk5Odlo0UQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94VnpvSTBfSXRTNjM0TENOck01TDJOdmdNUmJ6NHpVYlpUd3pKYVJ0OWxBR2JXZTFqV0ZicmxMLThESHhJeDktVWVoWWxwQUR6cXI3dlM2M204d1hCUWxfelh2UQ?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
    "published": "2026-07-24 19:14",
-   "published_iso": "2026-07-24T10:14:00+00:00"
+   "published_iso": "2026-07-24T10:14:35+00:00"
   },
   {
    "title": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案",
@@ -232,14 +296,6 @@
    "published_iso": "2026-07-24T08:00:00+00:00"
   },
   {
-   "title": "被爆医師の体験記「長崎の鐘」英語版が異例の売れ行き…原爆資料館で販売、購入の９割が外国人",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WFhHU1FFYS1xcHVRemJ1SmZrTFVkTkE4dEdVRXZBWm14VDhweU9JNllsSE42TkZrUEtEVUV0YUJfRGtFWkFrWDN0emVBRVJDWnUyYjlLa3BGUmNZeUxoZ1NB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-24 14:22",
-   "published_iso": "2026-07-24T05:22:00+00:00"
-  },
-  {
    "title": "外国人受け入れでWG新設 連立合意の「量的マネジメント」含め検討 年度内に基本方針",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96SERkR184UGFZVXVUWjZmVHhvSXpJemZoVllzVG1XN0lUS2pJa0lNSVlVMlFQMzlKbTFsY0dHdXdaYkhCa2pzT0pDNFNhMjdHY3E1ekZwdWFFTl9aWjdyaDRJbmRobDZ3MFRXSzVBcUg5OGFxZmc?oc=5",
    "source": "産経ニュース",
@@ -264,14 +320,6 @@
    "published_iso": "2026-07-24T03:38:00+00:00"
   },
   {
-   "title": "富士山で高齢登山者や外国人観光客の救助要請相次ぐ ◆富士山周辺で外国人によるレンタカー事故も増加中",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uNkhBZ2o2NnJXX1F1T0JJeWZYWUVlZFpUZHZWSTlGdkRyYkFaS1c1WEJJejNrQW1VYzE2OXBUOFJQR20wSlFWUTVIVGdmQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-24 12:28",
-   "published_iso": "2026-07-24T03:28:00+00:00"
-  },
-  {
    "title": "不法残留の外国人対策強化、入国審査官ら200人緊急増員 入管庁",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FYnVMQ1hScUwzQVpvTDhwQ092QUJlTEFMUlZWd0V6a3ExQ09xSmRPY0N2UzEzc0Y2NXdvbmhoa3lnal9HcHdSQWVIQlI0c19pYWM1X21odkp1TWt3NlA0MFVvclhXOFpJbkRRbQ?oc=5",
    "source": "日本経済新聞",
@@ -288,28 +336,12 @@
    "published_iso": "2026-07-24T03:08:49+00:00"
   },
   {
-   "title": "政府、在留外国人規制議論へ有識者会議設置",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QWVNBT2J2akZSN1dSNDNGa1AwOXpJcGYtNUJNeUs3Y3pJUTRKSzNJSVpOeUdic0JuWldtSUw3UkdXVHlNNnBpb3J5cDZXeGZ6YVNQS3NoTmI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-24 12:08",
-   "published_iso": "2026-07-24T03:08:49+00:00"
-  },
-  {
    "title": "私たちも昔「移民」だった アニメ映画「ニホンジン」上映へ",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tQjRIdXQ0QnZPMHVUcHlpYWp2bDZ5Qm5qUnhGcVRHbmFHVFFPS3Q1TG15M1V2Y19XWWd6Sk5LSGNMdWRaTXRnX3NKNnhUaXI3R0E?oc=5",
    "source": "朝日新聞GLOBE＋",
    "source_domain": "asahi.com",
    "published": "2026-07-24 12:00",
    "published_iso": "2026-07-24T03:00:55+00:00"
-  },
-  {
-   "title": "戦時下でも日本語教育を続けるウクライナの教師・学生24名を招へい",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UX1MxVy1jMm9kVzNqMWh5RGwtaHFiaWJBdHNhNkxkV0xPNGtyYUdzRWhvU2ROTW9LTGhVdjdVejRDSVFaQXctaGd3dzFkX3h0Y1JveTU5X3dPSDZtR0tURUFxSGtxM0RnYTU5Tzh4blNvbE94cTRYSFE1TQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-24 11:58",
-   "published_iso": "2026-07-24T02:58:52+00:00"
   },
   {
    "title": "ひろぎんワールドビジネス、常陽銀行と協業へ 茨城県で外国人材の受け入れ支援",
@@ -326,14 +358,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-07-24 11:07",
    "published_iso": "2026-07-24T02:07:00+00:00"
-  },
-  {
-   "title": "政府「外国人受け入れ基本方針」策定へ 入管庁体制強化、土地取得や地下水利用のルールも",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jNDRRb2pYQy1fQXBhbG05Y3ExR3R1SFpFczAtLXl5djBvZjhJZmR2WHEzWGlIYmFnMENRMDVMeEVQYzZkU3pJMXZwZUh5aWIzTnY0RlZRTXAzMHVzOXNKMERxc0pmNHp2VlJzVmFsOXM3STI0clE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-24 10:20",
-   "published_iso": "2026-07-24T01:20:21+00:00"
   },
   {
    "title": "政府 外国人受け入れのあり方について有識者会議を設置 今年度中に基本方針を取りまとめるよう検討加速を確認",
@@ -382,30 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-24 07:15",
    "published_iso": "2026-07-23T22:15:00+00:00"
-  },
-  {
-   "title": "〈社説〉入管収容死結審 裁判所は厳正な判断を",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01U1pnYmxIVm1iQkttdDhsTDBsRDNqRXJGaGNUa3JIUXBGNVdyYWRIcU4zWnUwLVYwWVozYmVMNVBoOTdfblhlZGhpU2lqMWgxUGdXTS1rRnRvbmRVTUFDUUx3OEF3VkYxNTFQV2MtUzg?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-24 06:00",
-   "published_iso": "2026-07-23T21:00:00+00:00"
-  },
-  {
-   "title": "外国人にも日本人にも選ばれるまちに 国籍超え文化交流、岐阜県関市で「ワールドカフェ」",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2SE9yVGtfRHN0RkloREs4N3JfcGV1QWFfUG9VLTVLb0N5N0JxWkpoNkItRXd5dFRHUGpvanRnbUhzUmZlb0V0aDVjZ2h6RTItX005NA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-24 05:05",
-   "published_iso": "2026-07-23T20:05:00+00:00"
-  },
-  {
-   "title": "入管難民法違反の疑い、タイ国籍の女2人逮捕 須坂署",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCS09McTdMN1Q0cVE0UzlScXM4c0MtY0FnaVI2NlJ2YjJlTnZFQVg1TXJZS2ktOVAwOC1tbGNGNUxhcGFzTmVoaGN2UWpQdWdVd0FEREdYdzExaWhPUE1YckFCTGNnczY2by1vVUxBQWY?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-23 21:22",
-   "published_iso": "2026-07-23T12:22:00+00:00"
   }
  ]
 }
