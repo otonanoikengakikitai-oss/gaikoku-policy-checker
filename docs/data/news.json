@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T09:44:01+00:00",
+ "generated_at": "2026-07-25T11:07:18+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "津久井やまゆり園事件10年を前に追悼式 黒岩祐治知事、共生社会の実現に「今後も全力で取り組む」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mbGMydmRVZ3BJQUpkZ2hUWjI1NDFFdFRNdHp1ODl6Y2FCdm5mSkhobjBjT0pGcjhzdnVrOWJscDk0Zm5oTmRJLVFfQU5vOFRxVXln?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-25 18:49",
+   "published_iso": "2026-07-25T09:49:06+00:00"
+  },
+  {
+   "title": "DeNA新外国人のビド、来日初登板初先発で初勝利 相川監督「しっかり自分の投球をした」と評価 攻めの投球貫き5イニング無失点",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jOFYwNHJ4V2NpQjI1VzZFY24zWTBkdEQ4ZmgzTjJteWU1SnMyaFlDNXZGV093RjZXckdRcHdqNV9pWHpsN0NsWkdLbFBld3E2NDFNYQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-25 18:38",
+   "published_iso": "2026-07-25T09:38:06+00:00"
+  },
   {
    "title": "西武・カナリオは貢献度「高」 ソフトバンク、日本ハムは戦力化できず… パ・リーグ新外国人中間報告",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LSkgyX3lmR0FGelJMbXdOUVpOZV81WG9mUFd5UW5qZFBFX192Rm1wSVhNY2FUdS1rLW5oQmhqekZYeWQySGo0dUVnY1ZoZnh3?oc=5",
@@ -152,14 +168,6 @@
    "published_iso": "2026-07-24T20:00:00+00:00"
   },
   {
-   "title": "共生社会の理念に賛同する企業・団体を募集します",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZV1hrbW1UVUd5MG00aDRFQ0drWU43cmo0a1lDcnYyZ2lDakRuZEVRM2E1aGRpSERRUGprMDdSWXBuNmxxcDFKbWRuU2RGUHR0OVBzVTVOYjU2VDl3VS05cE5OY3hzaEdmamNZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-25 01:40",
-   "published_iso": "2026-07-24T16:40:00+00:00"
-  },
-  {
    "title": "外国人急増に対応、入管職員226人増員へ 政府、元自衛官の採用も [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GdzYzWGh1VUZxRjFGS1gxeUpEb2ZqTkV5RzZkR25EcHB3NFNEZWJ3dXhnYzZwSGotUVJmTWp0REdVdWIwbEZkR0N2X0JQVmNLM216em9OQmZaLTlIVDlmdl90QWhNMm8?oc=5",
    "source": "朝日新聞",
@@ -190,14 +198,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-24 19:51",
    "published_iso": "2026-07-24T10:51:55+00:00"
-  },
-  {
-   "title": "岡山で外国人運転手受け入れ説明会 バス、タクシー事業者対象",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45TVZLczFVV2xCLV9oaWRiTUtleHE2ZlZuVV9IbHdDYzVmRW1PMl9TNkU1MVlRQmx1cFZZZjBZYmVPSHgyYnl5RlRITQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-24 19:46",
-   "published_iso": "2026-07-24T10:46:06+00:00"
   },
   {
    "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
@@ -304,14 +304,6 @@
    "published_iso": "2026-07-24T04:37:43+00:00"
   },
   {
-   "title": "政府、外国人受け入れ規制議論へ 有識者会議新設、今年度中に方針",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmZU1hWjh6LVRGNTBXT2NmN1puR29VX0MwRWNsSTd5TmJJWXRFeTY5Q3BsVUpPTmFuQmVlMHhPUVBkUTZhTUxEOXRMUzM2bVVKd0thdG1LcFNVdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-24 12:57",
-   "published_iso": "2026-07-24T03:57:46+00:00"
-  },
-  {
    "title": "入管職員を２３０人増員、政府が不法残留外国人の摘発強化を決定…外国人受け入れ数値目標の検討へ有識者会議も新設",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kcVA3VmowOUIxUGNwcXRlUWdTbkxoLUEwd2s5ZnhiaDZCRTVXZUNzTExDY1ByQ2VON1BhcDhFTnViUHViVG5abU9MWkR3NWJPNDd3VDFicnBGUk9JYktUTXpRXzJHUQ?oc=5",
    "source": "読売新聞",
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-24 07:15",
    "published_iso": "2026-07-23T22:15:00+00:00"
+  },
+  {
+   "title": "〈社説〉入管収容死結審 裁判所は厳正な判断を",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01U1pnYmxIVm1iQkttdDhsTDBsRDNqRXJGaGNUa3JIUXBGNVdyYWRIcU4zWnUwLVYwWVozYmVMNVBoOTdfblhlZGhpU2lqMWgxUGdXTS1rRnRvbmRVTUFDUUx3OEF3VkYxNTFQV2MtUzg?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-24 06:00",
+   "published_iso": "2026-07-23T21:00:00+00:00"
   }
  ]
 }
