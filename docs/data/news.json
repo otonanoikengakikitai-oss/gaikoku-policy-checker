@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T02:41:15+00:00",
+ "generated_at": "2026-07-27T06:27:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
-   "title": "相模原の障害者施設殺傷：相模原殺傷10年 共生社会へ祈り",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWmZLcENJUTlZOUp5QUR2Q0NoQVVJdXRPUlRDU2w4MGM4MzhlWXlZM05Eb1dXcUItdXYySzUxMnB0NVZsdG85djNUOWZ4VFgxVERQSEJqWkFvN3lVcERTcUJMSFVJZG1s?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 11:04",
-   "published_iso": "2026-07-27T02:04:43+00:00"
-  },
-  {
    "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYWRJcDE0aEtsTUptblJMY2JOWERRNG1hOG12STF1LXpnbm5mYXFUcDJlS1pxTVA1RzE5Z2lFOVpQLUh5Zl8ya1JEN2o2cS1yU1V6UWhCUWZtYmJQc0ZzUkwtOFRROHFa?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
-   "published": "2026-07-27 11:00",
-   "published_iso": "2026-07-27T02:00:00+00:00"
+   "published": "2026-07-27 15:13",
+   "published_iso": "2026-07-27T06:13:34+00:00"
+  },
+  {
+   "title": "経済不振続く南アフリカで相次ぐ移民襲撃、失業や格差など不満のはけ口に…５月以降１６万人が帰国",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95VTJDRDFKTElPYW0xQ3lHeWVrNjVsRjczV3BhYVhPUWk0VllveXZFbHE1WEI2Q3pXOHpQRENzRGhWZXA0NzkwbjYtTERyejlIM0VRMHZXRU9kMmZTMXVWVEtB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-27 15:06",
+   "published_iso": "2026-07-27T06:06:13+00:00"
   },
   {
    "title": "外国人介護人材確保へ 宮崎県などインドネシアでＰＲ",
@@ -33,7 +33,7 @@
   },
   {
    "title": "歓迎！ 旅して働く「デジタルノマド」 外国人向け住居、案内人も 受け入れ先進地 長崎・五島ルポ",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WNVVZYVZlYWlUb3F4ZW1ldHdXOERHTWp4QTYxUmJ3eWdlV25fTGg3SWhiU1d3T0NJX2xvUGF5RWNZT3pQMnoyZC03T05nUzY1cTVHcy1VUzR5VFliS2RB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cFVGSFZIZlNNWEhFaGozeDFRbGZKZ094bGdfaWxLN3dGTHByVlA2eC1RX1NnbzRyek90UmllcmJjdUZIVVM0Z1pFYW41VDZTWGww?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-27 07:40",
@@ -57,11 +57,11 @@
   },
   {
    "title": "外国人親子が消防体験 署で119番通報や消火器",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiS2gyTHhpY215TnpxYzZsTlZ3YndQY0xta1U1Y1V0ZU1KSkJrWDE2U2lHSFhONldZbTlJTkxyOFk5Mko5MTRUMGxkcGU3MF8xR1NHS1NVaFJkQ2t3ajJ3Q2pyN3ZxNGxU?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hSFExS0NZdVZmbVRjM1pIenNRNjFQVUdhelNjYjJLc0JDNnAxZkJuV183QjJsYklYY0FmQThsOUlzUWtXcm5aZHdCNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-27 05:05",
-   "published_iso": "2026-07-26T20:05:20+00:00"
+   "published_iso": "2026-07-26T20:05:00+00:00"
   },
   {
    "title": "外国人労働者、長く勤めてもらうには ２７年度から技能実習→育成就労、転籍しやすく",
@@ -72,12 +72,12 @@
    "published_iso": "2026-07-26T20:00:00+00:00"
   },
   {
-   "title": "南ア 移民襲撃相次ぐ 失業、格差… 不満のはけ口",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95VTJDRDFKTElPYW0xQ3lHeWVrNjVsRjczV3BhYVhPUWk0VllveXZFbHE1WEI2Q3pXOHpQRENzRGhWZXA0NzkwbjYtTERyejlIM0VRMHZXRU9kMmZTMXVWVEtB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-27 05:00",
-   "published_iso": "2026-07-26T20:00:00+00:00"
+   "title": "相模原の障害者施設殺傷：相模原殺傷10年 共生社会へ祈り",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWmZLcENJUTlZOUp5QUR2Q0NoQVVJdXRPUlRDU2w4MGM4MzhlWXlZM05Eb1dXcUItdXYySzUxMnB0NVZsdG85djNUOWZ4VFgxVERQSEJqWkFvN3lVcERTcUJMSFVJZG1s?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-27 02:02",
+   "published_iso": "2026-07-26T17:02:23+00:00"
   },
   {
    "title": "みんなの広場：建設現場で活躍する外国人＝NPO法人顧問・鈴井宣行・76",
@@ -336,14 +336,6 @@
    "published_iso": "2026-07-24T10:51:55+00:00"
   },
   {
-   "title": "入管職員、200人超増員へ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vc3ZCZUVXbjVydHhRMHlqeDE1QWxoaTVQejVTSkI5anc4Q1J2Mi1jcU1vY0hueGFZc0M4SzBQbmsxVTZKYWs2a2dpcTZ6UjZoNk9rNVhkVHkwV2pmNzZJbUR2UQ?oc=5",
-   "source": "nippon.com",
-   "source_domain": "nippon.com",
-   "published": "2026-07-24 19:23",
-   "published_iso": "2026-07-24T10:23:03+00:00"
-  },
-  {
    "title": "【速報】入管職員、200人超増員へ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Tk9oWUVBUWc0cVJtaV9VbFBucjlTNWh6dFNZaFE1T1ctR24yNjBvMmtPaWJySEpnaEQ2N01iMEtYbkQ1REkyS2dpWQ?oc=5",
    "source": "47NEWS",
@@ -398,6 +390,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-07-24 18:09",
    "published_iso": "2026-07-24T09:09:48+00:00"
+  },
+  {
+   "title": "空き家から指輪を盗んだ疑い…技能実習生のベトナム人を逮捕 山形",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tc1c0R1hnZElzZHlHVFVQb2d6V3owN2RHdFhUWXc5TXQ5c2ZhLVNDMUFhMkFqYVdodVpBS01JUTkydVY4QVVoX1FWbFBMZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-24 18:00",
+   "published_iso": "2026-07-24T09:00:00+00:00"
   },
   {
    "title": "サッカー日本代表 外国人監督の登用「議論あった」 宮本恒靖会長は「コーチングスタッフなど、全く新しいチームとなるより…」と理由説明",
