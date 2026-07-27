@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T16:15:19+00:00",
+ "generated_at": "2026-07-27T18:22:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,12 +24,12 @@
    "published_iso": "2026-07-27T11:33:21+00:00"
   },
   {
-   "title": "外国人材・留学生の〝住まい〟から地域をつなぐ 尼崎の国際交流シェアハウス「大阪ＨＵＢ」に刷新",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pZGRINkFsdGVlZ1liR28xNjkwUkRNZ29hdTRaREpZNVN0d0p5eFcxRklPeHV5U2p2UVZ1eHJPMnJDWjhtbUVhUnc5aw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 20:19",
-   "published_iso": "2026-07-27T11:19:20+00:00"
+   "title": "クマに襲われ外国人観光客ケガ 各地で目撃相次ぐ（2026年7月27日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rUkQ2WmF5ZURoSjVwWlNDWlR4b01VajdGVm1HVlJLSVZaaUpvMktWUHE4WjZYckxmV3ZqWVg3N2JncTM5aDJseDAwSTA2ZW9pbDNrZlpVTUFWWHdaaXlBa1VadmszcHR3THhET0Y5aGg0dEpRZHp2Z0tQdW8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-27 20:13",
+   "published_iso": "2026-07-27T11:13:01+00:00"
   },
   {
    "title": "高市早苗首相「外国人に対しフレンドリーでないイメージ持たれないように」外国人政策巡り",
@@ -62,14 +62,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-27 19:19",
    "published_iso": "2026-07-27T10:19:53+00:00"
-  },
-  {
-   "title": "クマ - 外国人男性クマ襲われけが、岩手 野田村、ハイキング中 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VdTQtS0U3d0xBRVU2bEFvVHRzS01nQW9kUGdTbU5rVjNXdUZHemtlNVVNQ2dlRnZZQWVUZTdFc1JHRDRfWXNITmllZ1BzdlRRYnpIQ092NA?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-27 19:14",
-   "published_iso": "2026-07-27T10:14:42+00:00"
   },
   {
    "title": "【社説】国が日本語学習プログラム創設 選別でなく共生のために [外国人]",
@@ -200,14 +192,6 @@
    "published_iso": "2026-07-26T17:02:23+00:00"
   },
   {
-   "title": "みんなの広場：建設現場で活躍する外国人＝NPO法人顧問・鈴井宣行・76",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZHBIR0NNQVNnNDEwT1BoT0xLeXZBSkRqd0hxbjFOLVNPMmtvd0E3bjYyR0JWVUgxRkFQQWVxVkpFTksyLUlYYjBHa1ZmcGxjZVlscVlzSTlvVkVaQk1yZVpPV2c1MThj?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 02:01",
-   "published_iso": "2026-07-26T17:01:38+00:00"
-  },
-  {
    "title": "ともに・共生社会へ：ビジョン・コンソーシアム 視覚使わず音で料理 味の素",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DWlAxcFFHSDMyOTAwQ1RrWUo1azR2RkdVelNzZ0t3MlVoZGZlUE45SkxGT2ZoWGJ6eUg0bFZtTTRiTUtYNVU1VFIyU0w3RTNTU3hoUUNoOHotRUJ5NWlYYkhyVHR2Ym5U?oc=5",
    "source": "毎日新聞",
@@ -286,14 +270,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-26 05:00",
    "published_iso": "2026-07-25T20:00:00+00:00"
-  },
-  {
-   "title": "米国：冷酷ICE 震える移民 米で摘発強化 相次ぐ射殺",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RS2hMRGt0RUFXUF80YVZRbU40OENOalBHVVN2aFlNS1VQYnJDMU0xaUxOdnoteFo3eVVlYWZiOGV6MlRIbUNxUUg4UVZ3UUxwdlljWlN1SENab0pkSzNwSHgxRG9qOXJW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-26 02:01",
-   "published_iso": "2026-07-25T17:01:41+00:00"
   },
   {
    "title": "＜独自＞外国人の永住資格、税金納付意思なしや財産隠しで取り消し ガイドライン案判明",
@@ -406,6 +382,30 @@
    "source_domain": "sankei.com",
    "published": "2026-07-24 20:20",
    "published_iso": "2026-07-24T11:20:20+00:00"
+  },
+  {
+   "title": "「プリンス」幹部を略式起訴 入管法違反、アジア最大犯罪組織",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5feDN6T3Zfd2xVRTRIbmhGN0VZNVlScWRLMk80SGI3R2pacmlKblFGZm1qVm1NaGJ2eDZzczZXQVJsQ1E0Qk5Odlo0UQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-24 19:14",
+   "published_iso": "2026-07-24T10:14:00+00:00"
+  },
+  {
+   "title": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RGhFaHRCSjBaSXpjRE1DR1hVbkhvWXBOVzB5LXVHWkdsYU1JWGF5SndKSk04RUhobDRFRjBIeS11ZGx1WVlYYVNtTnpSbVFtNFV6aHN6Z1ZoRmcwY1NJdHJuNHliN00?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 19:04",
+   "published_iso": "2026-07-24T10:04:00+00:00"
+  },
+  {
+   "title": "犯罪組織プリンスG幹部、入管に引き渡し 在留カード提供罪は起訴",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aGVBNG9iT0pSYTBtMnZ3M1BvcWUwYkx6ZTRabTlZTG1FRGlFdHZiTEk2Q2JETU5lY2NjdUdRa0xMc0FCSnpOazZoTkl6Q0dXbHBaYllDWDc5S3ZFTm9ab0FwYWNNV2M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 18:45",
+   "published_iso": "2026-07-24T09:45:00+00:00"
   }
  ]
 }
