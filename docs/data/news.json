@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T10:40:21+00:00",
+ "generated_at": "2026-07-27T13:37:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人雇用など視察 村井知事が現場ミーティング 気仙沼 企業と意見交換",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyczQ2QUJiekpaTm9tMFcyQ0piem1ocTRpZ1hwa1JnMjlsbWo4dUlZMGVMbU5Qd1RicWc0Q0FrM0NteWtlUkszcmpWWEEtWUVLZ0h0Z1BzQ3ZiME9WWDByZw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-07-27 20:47",
+   "published_iso": "2026-07-27T11:47:34+00:00"
+  },
+  {
+   "title": "高市早苗首相「外国人に対しフレンドリーでないイメージ持たれないように」外国人政策巡り",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRmpWUGhPSEtJeXg0YmpJcWVuekthM2dMa1BFZFRIbDlIcktvQXA5RHZyTng5YnZyeDlHeVFDTzVqRXlNTzYwaC1qMDJ6U1ZjSm53cG1Wcm82Y1hFQmE1OEJ4UHNWTUlNVlljMm96cEw3MUtpV3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-27 20:00",
+   "published_iso": "2026-07-27T11:00:43+00:00"
+  },
+  {
+   "title": "山林でハイキングしていた外国人男性、クマに顔や腹をかまれけが…通行人が１１９番",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IQlJMVDlJV2VNSi00bUNuaTBIUkZ3TDkzdnNzdWJuWTVOTW1HZ3V0UUg0YXF5YmF2dzdSLV9qaUV6dTV5cjhNY05XVXFTWjl0OERISHhKTjdON0l6VWZKNExENFNYZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-27 19:46",
+   "published_iso": "2026-07-27T10:46:00+00:00"
+  },
+  {
+   "title": "外国人を「特別視せず隣人として」 白石町で女性フェスタ 多文化共生テーマにシンポジウム",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RT1ZMZGt2Nk54MlRZLTI4X21fUmc3NHZuRUpoeVZ1R3BvNTVjVDh0MERRRXVGS1loQ3hNNHlRb0pqanRoY0hDUFMtRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-27 19:30",
+   "published_iso": "2026-07-27T10:30:00+00:00"
+  },
+  {
+   "title": "クマ - 外国人男性クマ襲われけが、岩手 野田村、ハイキング中 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VdTQtS0U3d0xBRVU2bEFvVHRzS01nQW9kUGdTbU5rVjNXdUZHemtlNVVNQ2dlRnZZQWVUZTdFc1JHRDRfWXNITmllZ1BzdlRRYnpIQ092NA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-27 19:14",
+   "published_iso": "2026-07-27T10:14:42+00:00"
+  },
   {
    "title": "【社説】国が日本語学習プログラム創設 選別でなく共生のために [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81ZmFWaHIzTVA3T2xBY0owNE5DSUl0bmhaT1g1Ymk0MVZ4NEhnOENDbGVidWNuQmN2dEFBVHZXQ3k5VE9NSHFDRmpTNlVmdlBsM1hoc0JCMnBHY3RaTkN3OFFpU3ZvWGc?oc=5",
@@ -17,7 +57,7 @@
   },
   {
    "title": "【タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13TFVyZ2xnUEx2aGxMLW1mWnhGN0JBaEpSNXUyLVNyem1pVTdVZUIxRktMbFVYN2I4dE9IZVpkbGhZX2NhV0g2SDVQckxUbFo4R2RqLXNickFNN1V1MEwzNUhuZHBqRWI3dlJhYS1nYkZMQlRodE4yb2VGY3FQcDg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBNRk1lRVNjUkZ2emVyd3FVYUp2MWxEcUFqMk5NWUpQQXA0YXRNaXpDSEJqVEN3RXNJYmkzZVRmek1Xc2FDOHNmcDRYdTdBRUlKMzBHQzRQY1hYMzhGNzZvQUtEMGw1a3JkbjllR2U0VHB1WGVPZGVjbFp6cTJuMHM2blJZNW8?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-27 18:22",
@@ -32,12 +72,12 @@
    "published_iso": "2026-07-27T09:19:46+00:00"
   },
   {
-   "title": "都内の河川敷で「マナー違反」バーベキューの生ゴミや炭、器具など放置 “クマ被害誘発”に不安の声 外国人が“禁止”の川に飛び込みも",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aZTBfbHlPd2R5YW41X0FtbFBaQVZaRmszVnFvN2EyUWgzNnVXTk5PekpxYTc2all2akUtVFBMUUN2TWNZMnBmRXVHMEEzUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-07-27 18:08",
-   "published_iso": "2026-07-27T09:08:00+00:00"
+   "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVXZFaTUtVXpITXlrZG9DbXdEWXd0UjA5Zng0M1A2M2RodlFHNXdYTWpIRl9wNmlnZXpCcnJMTVFjRE5QQnowMGtXQWR0VEFVaHY1a1dobXBWREFjbHk5NHljbWlVMlNnUGZhZVo1aFM?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-27 18:19",
+   "published_iso": "2026-07-27T09:19:00+00:00"
   },
   {
    "title": "【速報】岩手で25歳外国人男性がクマに襲われけが",
@@ -96,18 +136,18 @@
    "published_iso": "2026-07-26T20:40:00+00:00"
   },
   {
-   "title": "外国人親子が消防体験 署で119番通報や消火器",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hSFExS0NZdVZmbVRjM1pIenNRNjFQVUdhelNjYjJLc0JDNnAxZkJuV183QjJsYklYY0FmQThsOUlzUWtXcm5aZHdCNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 05:05",
-   "published_iso": "2026-07-26T20:05:00+00:00"
-  },
-  {
    "title": "日本の暑さ、こうして和らげま～す 愛知県新城市の軽トラ市会場で外国人ら打ち水大作戦",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZRUlQYng2aGEydWx2TTg0dnlaQkNUeDVzRUtjOE16OHFGelhoT1VKYnRyTmc5cGU0QjdVQjhET0VPUWx6SjAzR2o0bnM1NUN4U0d0QjRqa0VxTlRLcFMxcFlB?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
+   "published": "2026-07-27 05:05",
+   "published_iso": "2026-07-26T20:05:00+00:00"
+  },
+  {
+   "title": "外国人親子が消防体験 署で119番通報や消火器",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hSFExS0NZdVZmbVRjM1pIenNRNjFQVUdhelNjYjJLc0JDNnAxZkJuV183QjJsYklYY0FmQThsOUlzUWtXcm5aZHdCNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-27 05:05",
    "published_iso": "2026-07-26T20:05:00+00:00"
   },
@@ -134,6 +174,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-27 02:02",
    "published_iso": "2026-07-26T17:02:23+00:00"
+  },
+  {
+   "title": "みんなの広場：建設現場で活躍する外国人＝NPO法人顧問・鈴井宣行・76",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZHBIR0NNQVNnNDEwT1BoT0xLeXZBSkRqd0hxbjFOLVNPMmtvd0E3bjYyR0JWVUgxRkFQQWVxVkpFTksyLUlYYjBHa1ZmcGxjZVlscVlzSTlvVkVaQk1yZVpPV2c1MThj?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-27 02:01",
+   "published_iso": "2026-07-26T17:01:38+00:00"
   },
   {
    "title": "ともに・共生社会へ：ビジョン・コンソーシアム 視覚使わず音で料理 味の素",
@@ -240,14 +288,6 @@
    "published_iso": "2026-07-25T09:49:06+00:00"
   },
   {
-   "title": "外国人の永住許可要件厳格化へ 年収、日本人の平均以上",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqVFN3dXplNE5PVWxRVGg1RUd4TVlqVFBWQUNJaHRpUndKeXRmbFZVN2xXQVB2RHVmejdtMGtoX2FwZUFCUmlYZUNWYVFNQ2lsSk9hSWVLVzdnQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-25 12:12",
-   "published_iso": "2026-07-25T03:12:16+00:00"
-  },
-  {
    "title": "外国人の永住許可要件厳格化へ 年収、日本人の平均以上 政府方針「年金30年水準」",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wdW4yTHc0OUdGYUxXQzUzanhUZ2RKVzl0d25pZXVScmR0VUVCc3ZGd0E1bVJhYURNZVF2VkVLRGJVa041MzFyOFVwRUdXdDNHUXg5X2xXRl9vR2RSYUVvSU40M1V1ZWtSbUwzU2VmaWRBNEdkTGc?oc=5",
    "source": "産経ニュース",
@@ -352,22 +392,6 @@
    "published_iso": "2026-07-24T11:20:20+00:00"
   },
   {
-   "title": "アジア杯優先し異例の決断 外国人招聘も視野 当初「W杯まで」だった森保監督続投の内幕",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odzhoZDhHY1pJeHB1ZUUwNl9qbVkzY3BjRUdJdGh0UzNBcjMwZGkweHJiV0Fac1ZSZW8xZEdHNFU4N2tuc3hPWmx2cnBhTDkwUXJKTDctTmo1MEc5THVLa3JSVGxmeFROaUluWG11NWZQaUJic2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-24 19:51",
-   "published_iso": "2026-07-24T10:51:55+00:00"
-  },
-  {
-   "title": "【速報】入管職員、200人超増員へ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Tk9oWUVBUWc0cVJtaV9VbFBucjlTNWh6dFNZaFE1T1ctR24yNjBvMmtPaWJySEpnaEQ2N01iMEtYbkQ1REkyS2dpWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-24 19:22",
-   "published_iso": "2026-07-24T10:22:27+00:00"
-  },
-  {
    "title": "「プリンス」幹部を略式起訴 入管法違反、アジア最大犯罪組織",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5feDN6T3Zfd2xVRTRIbmhGN0VZNVlScWRLMk80SGI3R2pacmlKblFGZm1qVm1NaGJ2eDZzczZXQVJsQ1E0Qk5Odlo0UQ?oc=5",
    "source": "47NEWS",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-07-24 19:04",
    "published_iso": "2026-07-24T10:04:00+00:00"
-  },
-  {
-   "title": "犯罪組織プリンスG幹部、入管に引き渡し 在留カード提供罪は起訴",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01aGVBNG9iT0pSYTBtMnZ3M1BvcWUwYkx6ZTRabTlZTG1FRGlFdHZiTEk2Q2JETU5lY2NjdUdRa0xMc0FCSnpOazZoTkl6Q0dXbHBaYllDWDc5S3ZFTm9ab0FwYWNNV2M?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-24 18:45",
-   "published_iso": "2026-07-24T09:45:00+00:00"
-  },
-  {
-   "title": "建設現場施工管理に外国人材派遣 北洋銀行子会社HKPの事業好調",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQ0RsY2NHck55ei1samdwT252YjVJc0xESUVtNlRrSDlCSF93MHc1dm9mdElmcXZEWnJFYlRWYjVCWmROcDFMcGZsM05UQzdqSEY1MFlFNHUzdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-24 18:33",
-   "published_iso": "2026-07-24T09:33:37+00:00"
-  },
-  {
-   "title": "外国人「量的管理」検討へ 政府、来年３月に基本方針",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vaGtiRWNyTExkckpFNjZFeWFfYzh0RHdoZFFLbzNGdzlla1BSc1AzZVN2UXdsZlFsVUNmX3VUS0FrNG1hOFFVWHgwV01LLWcxeEoybWhmbS1QWXViWWpiRllYTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-24 18:25",
-   "published_iso": "2026-07-24T09:25:00+00:00"
   }
  ]
 }
