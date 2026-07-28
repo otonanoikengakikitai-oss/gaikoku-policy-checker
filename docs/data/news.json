@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T03:26:21+00:00",
+ "generated_at": "2026-07-28T06:24:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,44 @@
  ],
  "items": [
   {
+   "title": "入管職員２２６人緊急増員…年度途中採用 不法残留摘発強化へ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zWm42VkI0QUJpWkp2Q21vcDlyWURwRHZSS3ZqNHNDMDM2cmJYZVhJajdvdmp4QUJVQjZUMm1vTXRCeDFoVG01LUNvRExBdjFGTnFvUUl3ckRBZGpNV3E0ZEszUmlqQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-28 15:00",
+   "published_iso": "2026-07-28T06:00:00+00:00"
+  },
+  {
+   "title": "政府、不法残留の外国人対策で緊急増員 入国警備官ら計226人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aajF5MzBvUWwtWjJTa3lWU282YXR5dkE4aHBDRm40SzNWOUp0UVpUMGhGZDdvZDhveFQzdkFWU0tZZXVKV092Yko3VjRBc0ZBOXotWUc0N2FzSzNRUnI3YzV4N2RHaHhCRDJuMQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-28 13:30",
+   "published_iso": "2026-07-28T04:30:00+00:00"
+  },
+  {
+   "title": "入管職員に退職自衛官ら採用へ 法相「即戦力」、記者から「関東大震災と軍隊」巡る質問も",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMG9FOUEteVJxbE52QU8zWEM4Q0NmeHF3SmI4ZXdpd2ZGbE02Mjg0UXRWQ3FjMjY0cTJKdGVNR2dkY0JWelI0OUVOMXRXNnhuRUhsblRFY1dmWmUwbXhHbFdHQ20wWEZvUWZybmZCenl2Y0NSNFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-28 13:16",
+   "published_iso": "2026-07-28T04:16:24+00:00"
+  },
+  {
+   "title": "Ｚｅｎｋｅｎ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY2s1TEN4ZTJLUHYyZGFpY0JfSlBrQl9HU3YwZXBjTDNwV05Sdkc5a09EOHlOQ3Z2WDFWR1VhcEJKdUQwd0RJaDNPcnpKMURXQjJJVVRYN3pobDNlNTd3QWE5bHRLdnhNeUE?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-28 12:00",
+   "published_iso": "2026-07-28T03:00:00+00:00"
+  },
+  {
    "title": "「子供服を難民へ」ユニクロの会社から講師、世界の現状を中３学ぶ…本庄東",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2FYMDRkSEtVWFNWNjV5Nk5UbGt1X0VDbVJ4bFRDZUZ6WV9Qengwa1B4bVNkZVBweDV4VGVRczc5U3BjaU9MT1VwSngxZUxTelVlV3BqRVU2SXVXOFlDNDJ0b0hvVDNWak9IWkpVMDFLNnBJTDdITnNobHJXdWZtdUp1RWZqX3VIYUE?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 12:00",
    "published_iso": "2026-07-28T03:00:00+00:00"
-  },
-  {
-   "title": "訪日外国人にストレスのない購買体験を提供するには？～商品検索から決済まで徹底解説～",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GT1NXUGQ2NXVJS2ZrU0lOTFVyMHpQd3dLdUV2VjVOeFpQWTFPMHRYU1NYN01GRXpSN3RQVFZjTGp0RG1DZ2JVVXRhSFo4bzNHNHNacmk0RC15U3haaDJkMWxVd2NMMWdpaWxv?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-28 11:45",
-   "published_iso": "2026-07-28T02:45:00+00:00"
   },
   {
    "title": "入管職員を緊急で226人増員 政府が閣議決定 平口法務大臣「高止まりしている不法残留者に対する対応の強化や在留審査の迅速化・厳格化の必要性」",
@@ -116,8 +140,8 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYUpPMmxOUkFGUGtnUlI3MGJnNmtDZ2FvSlRTLXF2c1dMTWttSkwxbGZkQ29ROFhmZFhJQWJnODZ4djZ5Q3VrYV9TUQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-07-28 04:21",
-   "published_iso": "2026-07-27T19:21:42+00:00"
+   "published": "2026-07-28 04:00",
+   "published_iso": "2026-07-27T19:00:00+00:00"
   },
   {
    "title": "外国人雇用など視察 村井知事が現場ミーティング 気仙沼 企業と意見交換",
@@ -160,28 +184,20 @@
    "published_iso": "2026-07-27T10:46:00+00:00"
   },
   {
-   "title": "外国人を「特別視せず隣人として」 白石町で女性フェスタ 多文化共生テーマにシンポジウム",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RT1ZMZGt2Nk54MlRZLTI4X21fUmc3NHZuRUpoeVZ1R3BvNTVjVDh0MERRRXVGS1loQ3hNNHlRb0pqanRoY0hDUFMtRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 19:30",
-   "published_iso": "2026-07-27T10:30:00+00:00"
-  },
-  {
-   "title": "【社説】国が日本語学習プログラム創設 選別でなく共生のために [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81ZmFWaHIzTVA3T2xBY0owNE5DSUl0bmhaT1g1Ymk0MVZ4NEhnOENDbGVidWNuQmN2dEFBVHZXQ3k5VE9NSHFDRmpTNlVmdlBsM1hoc0JCMnBHY3RaTkN3OFFpU3ZvWGc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-27 19:00",
-   "published_iso": "2026-07-27T10:00:00+00:00"
-  },
-  {
    "title": "「風化させてはならない」やまゆり園事件１０年で木原官房長官、共生社会の実現へ決意",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xYkJxUHBmQl82c2tqM1dsX0ctMDZaOTIyTV9XVklCaGIzUVJzMEJTSVRCeGh6YjVPeVNISEZrck5kRHlVQk1zVHFhdw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-07-27 19:00",
    "published_iso": "2026-07-27T10:00:00+00:00"
+  },
+  {
+   "title": "外国人男性クマ襲われけが、岩手 野田村、ハイキング中",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50ajd0ZFJ4NFo4bS1rMVBaRVVBQlFZRXdZbkp0WDRLYll4YWI3ZUFVREFLUG10dDVIQ3pHZ2cwRWJybGZjMjgyVGVpRTdQR05KWU1yemFaSXkxQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-27 18:54",
+   "published_iso": "2026-07-27T09:54:34+00:00"
   },
   {
    "title": "【タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
@@ -206,22 +222,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-07-27 18:19",
    "published_iso": "2026-07-27T09:19:00+00:00"
-  },
-  {
-   "title": "【速報】岩手で25歳外国人男性がクマに襲われけが",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GallEekR1c3VRZHp0WlllTy1Pd3hzZWUwOU5PYXFWNURSTjdwQTVwVTZBaFE1MmdxTzMzLXA2YmtMa1ZNXzVrTmhiQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 17:43",
-   "published_iso": "2026-07-27T08:43:52+00:00"
-  },
-  {
-   "title": "岩手で２５歳外国人男性がクマに襲われけが",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WdkltelhzeGN1eGhadndyOWF5QmhKQzVSeDN0VnhoZTItNTg5d2lhekZRUHJOaEtpZHRYcm1pS1BxLWVQdk1aaE04OHlPSGRIeWE4d0ZNNGw?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-27 17:43",
-   "published_iso": "2026-07-27T08:43:52+00:00"
   },
   {
    "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材",
@@ -288,14 +288,6 @@
    "published_iso": "2026-07-26T17:02:23+00:00"
   },
   {
-   "title": "みんなの広場：建設現場で活躍する外国人＝NPO法人顧問・鈴井宣行・76",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sZHBIR0NNQVNnNDEwT1BoT0xLeXZBSkRqd0hxbjFOLVNPMmtvd0E3bjYyR0JWVUgxRkFQQWVxVkpFTksyLUlYYjBHa1ZmcGxjZVlscVlzSTlvVkVaQk1yZVpPV2c1MThj?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 02:01",
-   "published_iso": "2026-07-26T17:01:38+00:00"
-  },
-  {
    "title": "ともに・共生社会へ：ビジョン・コンソーシアム 視覚使わず音で料理 味の素",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DWlAxcFFHSDMyOTAwQ1RrWUo1azR2RkdVelNzZ0t3MlVoZGZlUE45SkxGT2ZoWGJ6eUg0bFZtTTRiTUtYNVU1VFIyU0w3RTNTU3hoUUNoOHotRUJ5NWlYYkhyVHR2Ym5U?oc=5",
    "source": "毎日新聞",
@@ -310,14 +302,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-27 02:01",
    "published_iso": "2026-07-26T17:01:30+00:00"
-  },
-  {
-   "title": "ともに・共生社会へ：インフォメーション 仕事のリアル、学んで",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aSTNfRS1PWTZYZTV1MHZJWURDcV9LYTZIZVR0QTQtR3pRaTJMSWdXd0VSSHBuLU1UR1hobDdrSG9qZksyNEhyNDkyeHE4TGc2ekowY1Njdk4yMElRbHN2cENlaDFLcUJm?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 02:01",
-   "published_iso": "2026-07-26T17:01:26+00:00"
   },
   {
    "title": "１歳の誕生日迎えた「パンチ」、外国人が「ハッピーバースデー・トゥー・ユー」合唱でお祝い",
@@ -376,6 +360,14 @@
    "published_iso": "2026-07-25T20:00:00+00:00"
   },
   {
+   "title": "米国：冷酷ICE 震える移民 米で摘発強化 相次ぐ射殺",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RS2hMRGt0RUFXUF80YVZRbU40OENOalBHVVN2aFlNS1VQYnJDMU0xaUxOdnoteFo3eVVlYWZiOGV6MlRIbUNxUUg4UVZ3UUxwdlljWlN1SENab0pkSzNwSHgxRG9qOXJW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-26 02:01",
+   "published_iso": "2026-07-25T17:01:41+00:00"
+  },
+  {
    "title": "＜独自＞外国人の永住資格、税金納付意思なしや財産隠しで取り消し ガイドライン案判明",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMlpYZVN4QnppZENCS1JXMElWblUtcjBLZjNkTDN3RzRCX3FLQnRqaERKbVRHQkk1QlBOZ2Q3ak0yUFdURkJDeElObFRwVUd4WmROTjdpbWlFbFVHbGVnb2h2aHJvSUQ0cUFqdndINGdtQnUyanc?oc=5",
    "source": "産経ニュース",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-25 11:40",
    "published_iso": "2026-07-25T02:40:14+00:00"
+  },
+  {
+   "title": "外国人ら７人救急搬送 車が田んぼに転落 ガードパイプ突き破り３メートル下へ 鹿児島市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VTm5jQW92UEVFN09TbEZNTkRjZ2xYc2RSd2NzcFAtNnVuR0xJTnpYanBRakZYbFFrcUdtT3NUZkFxVnVXcHg2M0hWaTNoRmtmcms1Tkg5aw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-25 10:52",
+   "published_iso": "2026-07-25T01:52:00+00:00"
   }
  ]
 }
