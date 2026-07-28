@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T20:14:40+00:00",
+ "generated_at": "2026-07-28T22:02:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -280,14 +280,6 @@
    "published_iso": "2026-07-27T11:00:43+00:00"
   },
   {
-   "title": "【タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBNRk1lRVNjUkZ2emVyd3FVYUp2MWxEcUFqMk5NWUpQQXA0YXRNaXpDSEJqVEN3RXNJYmkzZVRmek1Xc2FDOHNmcDRYdTdBRUlKMzBHQzRQY1hYMzhGNzZvQUtEMGw1a3JkbjllR2U0VHB1WGVPZGVjbFp6cTJuMHM2blJZNW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-27 18:22",
-   "published_iso": "2026-07-27T09:22:01+00:00"
-  },
-  {
    "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVXZFaTUtVXpITXlrZG9DbXdEWXd0UjA5Zng0M1A2M2RodlFHNXdYTWpIRl9wNmlnZXpCcnJMTVFjRE5QQnowMGtXQWR0VEFVaHY1a1dobXBWREFjbHk5NHljbWlVMlNnUGZhZVo1aFM?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-26 02:01",
    "published_iso": "2026-07-25T17:01:41+00:00"
+  },
+  {
+   "title": "津久井やまゆり園事件10年を前に追悼式 黒岩祐治知事、共生社会の実現に「今後も全力で取り組む」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mbGMydmRVZ3BJQUpkZ2hUWjI1NDFFdFRNdHp1ODl6Y2FCdm5mSkhobjBjT0pGcjhzdnVrOWJscDk0Zm5oTmRJLVFfQU5vOFRxVXln?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-25 18:49",
+   "published_iso": "2026-07-25T09:49:06+00:00"
   }
  ]
 }
