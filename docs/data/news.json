@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T06:24:28+00:00",
+ "generated_at": "2026-07-28T09:35:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,31 @@
  ],
  "items": [
   {
-   "title": "入管職員２２６人緊急増員…年度途中採用 不法残留摘発強化へ",
+   "title": "政府 入管職員226人の緊急増員を閣議決定 外国人の不法残留対策強化",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zX185eEd0Z1ZjeFdMWjNJLVcycURlblJnN00yaDU0MC1UQU5ZOWFXM0NXQ3gzVFp0STc3VDZFc2FiR2xIV28ySzF4aG5nYVhFNURXR3lRTTZ4STJyeTVfNnJLa0xYYl9SSE1NSGJXbFA1a0U?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-28 16:26",
+   "published_iso": "2026-07-28T07:26:11+00:00"
+  },
+  {
+   "title": "永住許可の年収水準、外国の親族含む扶養5人以上で加算 入管庁方針",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjaW1EczBvdGxGejY5S1dOSl9XREFCYXlRQUJYa0lwOEphVHBzWnlmZm1TWTlTODRETUoxMklGQnZFNnJHby1WOFJKMXY0dWZiNXRRbHJhLVpBSFp4Yy1STzR0MzRwLXc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-28 15:51",
+   "published_iso": "2026-07-28T06:51:05+00:00"
+  },
+  {
+   "title": "「入管」定員を200人以上増へ 不法滞在者の対応強化などで 政府が閣議決定（2026年7月27日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HY2hHZjFvaHcyRTl0Y011eHYwTEtXRmN6ZXFXWG4tRUNfTW9GYmtkT0JrYTNHYkplcS1CZm1SRDR5aFoyNGlIZ2lQcGY5MDI1cVBDbVhwemQyZGh6SjlWaUlBT01hTDJVclNvMEdMZTlhZkozN1FvYTN4Tmc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-28 15:27",
+   "published_iso": "2026-07-28T06:27:01+00:00"
+  },
+  {
+   "title": "「不法残留」摘発強化へ、入管職員２２６人緊急増員…異例の年度途中採用・茨城県への集中配置も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zWm42VkI0QUJpWkp2Q21vcDlyWURwRHZSS3ZqNHNDMDM2cmJYZVhJajdvdmp4QUJVQjZUMm1vTXRCeDFoVG01LUNvRExBdjFGTnFvUUl3ckRBZGpNV3E0ZEszUmlqQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
@@ -46,6 +70,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 12:00",
    "published_iso": "2026-07-28T03:00:00+00:00"
+  },
+  {
+   "title": "入管職員、２２６人増員へ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtWklRbFZHWTJoVFNURVFaYW9MQklUTThWS1pDTkdhQ0xxbkdjMG1FdDZzdzk4eUF1b09DOUxrV3JPY2lGY0hWaTJURWpkWlJUREg0VA?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-28 11:14",
+   "published_iso": "2026-07-28T02:14:00+00:00"
   },
   {
    "title": "入管職員を緊急で226人増員 政府が閣議決定 平口法務大臣「高止まりしている不法残留者に対する対応の強化や在留審査の迅速化・厳格化の必要性」",
@@ -144,76 +176,12 @@
    "published_iso": "2026-07-27T19:00:00+00:00"
   },
   {
-   "title": "外国人雇用など視察 村井知事が現場ミーティング 気仙沼 企業と意見交換",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyczQ2QUJiekpaTm9tMFcyQ0piem1ocTRpZ1hwa1JnMjlsbWo4dUlZMGVMbU5Qd1RicWc0Q0FrM0NteWtlUkszcmpWWEEtWUVLZ0h0Z1BzQ3ZiME9WWDByZw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-07-27 20:47",
-   "published_iso": "2026-07-27T11:47:34+00:00"
-  },
-  {
-   "title": "高市首相「今国会、反省点は特にない」 連立、支持率、外国人…会見で記者たちの質問にどう答えた？",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2OTNBTFdqYXVSZE5aM0ZxQU95WGlDWGFnRG80N2tPbm5ZWEhkbGV2Nm5nTmtDUDRWZEF5Ny0yUlhjWHJpT1cyeDE5S0lLS3pDQlk4?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-27 20:33",
-   "published_iso": "2026-07-27T11:33:21+00:00"
-  },
-  {
-   "title": "クマに襲われ外国人観光客ケガ 各地で目撃相次ぐ（2026年7月27日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rUkQ2WmF5ZURoSjVwWlNDWlR4b01VajdGVm1HVlJLSVZaaUpvMktWUHE4WjZYckxmV3ZqWVg3N2JncTM5aDJseDAwSTA2ZW9pbDNrZlpVTUFWWHdaaXlBa1VadmszcHR3THhET0Y5aGg0dEpRZHp2Z0tQdW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-27 20:13",
-   "published_iso": "2026-07-27T11:13:01+00:00"
-  },
-  {
    "title": "高市早苗首相「外国人に対しフレンドリーでないイメージ持たれないように」外国人政策巡り",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRmpWUGhPSEtJeXg0YmpJcWVuekthM2dMa1BFZFRIbDlIcktvQXA5RHZyTng5YnZyeDlHeVFDTzVqRXlNTzYwaC1qMDJ6U1ZjSm53cG1Wcm82Y1hFQmE1OEJ4UHNWTUlNVlljMm96cEw3MUtpV3c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-27 20:00",
    "published_iso": "2026-07-27T11:00:43+00:00"
-  },
-  {
-   "title": "山林でハイキングしていた外国人男性、クマに顔や腹をかまれけが…通行人が１１９番",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IQlJMVDlJV2VNSi00bUNuaTBIUkZ3TDkzdnNzdWJuWTVOTW1HZ3V0UUg0YXF5YmF2dzdSLV9qaUV6dTV5cjhNY05XVXFTWjl0OERISHhKTjdON0l6VWZKNExENFNYZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-27 19:46",
-   "published_iso": "2026-07-27T10:46:00+00:00"
-  },
-  {
-   "title": "「風化させてはならない」やまゆり園事件１０年で木原官房長官、共生社会の実現へ決意",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xYkJxUHBmQl82c2tqM1dsX0ctMDZaOTIyTV9XVklCaGIzUVJzMEJTSVRCeGh6YjVPeVNISEZrck5kRHlVQk1zVHFhdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 19:00",
-   "published_iso": "2026-07-27T10:00:00+00:00"
-  },
-  {
-   "title": "外国人男性クマ襲われけが、岩手 野田村、ハイキング中",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50ajd0ZFJ4NFo4bS1rMVBaRVVBQlFZRXdZbkp0WDRLYll4YWI3ZUFVREFLUG10dDVIQ3pHZ2cwRWJybGZjMjgyVGVpRTdQR05KWU1yemFaSXkxQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-27 18:54",
-   "published_iso": "2026-07-27T09:54:34+00:00"
-  },
-  {
-   "title": "【タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBNRk1lRVNjUkZ2emVyd3FVYUp2MWxEcUFqMk5NWUpQQXA0YXRNaXpDSEJqVEN3RXNJYmkzZVRmek1Xc2FDOHNmcDRYdTdBRUlKMzBHQzRQY1hYMzhGNzZvQUtEMGw1a3JkbjllR2U0VHB1WGVPZGVjbFp6cTJuMHM2blJZNW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-27 18:22",
-   "published_iso": "2026-07-27T09:22:01+00:00"
-  },
-  {
-   "title": "やまゆり事件を機に、障害を理解しようとする人と、排他的な人に二極化…永井清光園長が願う共生社会の実現",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40T09wNDhwM0hnTm52WUJxUk5XaW50OFl1OUw4Z0Rob3hiWHl3VFdhVVBIcDk2Nk9GNkRMQmZ6X3ZEWHUybVlJOTY2WC1WYkNmd0RvdA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-07-27 18:19",
-   "published_iso": "2026-07-27T09:19:46+00:00"
   },
   {
    "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
@@ -238,14 +206,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-27 11:00",
    "published_iso": "2026-07-27T02:00:00+00:00"
-  },
-  {
-   "title": "歓迎！ 旅して働く「デジタルノマド」 外国人向け住居、案内人も 受け入れ先進地 長崎・五島ルポ",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53cFVGSFZIZlNNWEhFaGozeDFRbGZKZ094bGdfaWxLN3dGTHByVlA2eC1RX1NnbzRyek90UmllcmJjdUZIVVM0Z1pFYW41VDZTWGww?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-27 07:40",
-   "published_iso": "2026-07-26T22:40:11+00:00"
   },
   {
    "title": "宮崎県知事選まで５ヵ月 外国人材巡り３氏温度差",
@@ -304,20 +264,12 @@
    "published_iso": "2026-07-26T17:01:30+00:00"
   },
   {
-   "title": "１歳の誕生日迎えた「パンチ」、外国人が「ハッピーバースデー・トゥー・ユー」合唱でお祝い",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DRFQ5NWRKX3BVOE1ROUFGa1E1YlExSy01b3VmczdQTk1vcWJfSHpQUXp5TktDS1BrdS16MXZzQkpYa3hydUNQN3o5MGhzQWxWREtlbERIUFY1YWdMVUtRdnRkakxoQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-26 19:10",
-   "published_iso": "2026-07-26T10:10:00+00:00"
-  },
-  {
-   "title": "外国人が絶賛する「日本のカップ麺」。日本独自の味わいと世界初の製造技術に驚きの連続！あばれる君とドイツ人も大興奮！【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tVWU1a1VfZU5xMC1jMW1kc2ZIWGI3VDRWU2NLS2ZYVTd5dU9FWFBGRWRVWVV4NVNnSndwaU1ROU9LeVdYcGZPMjNzdUFjUHFvWW0zdzZxQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-26 17:00",
-   "published_iso": "2026-07-26T08:00:48+00:00"
+   "title": "佐賀市共生社会推進アドバイザーとして活動する池田実さん（66）",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRVHJUcjhFT2hQUU82Q2tCWWpJNXNBeE5HNjlvWlRNTVo5RGM1YVpvNWxWNXNHVmhqdWg2RkpqcDNicFVIbG9MNGtQdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-26 17:30",
+   "published_iso": "2026-07-26T08:30:00+00:00"
   },
   {
    "title": "「お父さん」と呼ばれた少年時代 日本で背負った見えない責任",
@@ -352,22 +304,6 @@
    "published_iso": "2026-07-25T20:05:36+00:00"
   },
   {
-   "title": "米国援助激減のアフリカ 難民女性を支援、縫製教育で自立めざす",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81U3gwb2F4NE90bjZRTjZvbGhUVHB2VERtbU84bFhITHA4WTh3TENhU0V6Si14aDNraXBFLXl3a1RpT0FjN3VzNS1Wc2pCSEM1Y2hnVFJJQWFMc1pfVnA0TDlITWVReVA2X1F2Sw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-26 05:00",
-   "published_iso": "2026-07-25T20:00:00+00:00"
-  },
-  {
-   "title": "米国：冷酷ICE 震える移民 米で摘発強化 相次ぐ射殺",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RS2hMRGt0RUFXUF80YVZRbU40OENOalBHVVN2aFlNS1VQYnJDMU0xaUxOdnoteFo3eVVlYWZiOGV6MlRIbUNxUUg4UVZ3UUxwdlljWlN1SENab0pkSzNwSHgxRG9qOXJW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-26 02:01",
-   "published_iso": "2026-07-25T17:01:41+00:00"
-  },
-  {
    "title": "＜独自＞外国人の永住資格、税金納付意思なしや財産隠しで取り消し ガイドライン案判明",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OMlpYZVN4QnppZENCS1JXMElWblUtcjBLZjNkTDN3RzRCX3FLQnRqaERKbVRHQkk1QlBOZ2Q3ak0yUFdURkJDeElObFRwVUd4WmROTjdpbWlFbFVHbGVnb2h2aHJvSUQ0cUFqdndINGdtQnUyanc?oc=5",
    "source": "産経ニュース",
@@ -400,12 +336,76 @@
    "published_iso": "2026-07-25T02:40:14+00:00"
   },
   {
-   "title": "外国人ら７人救急搬送 車が田んぼに転落 ガードパイプ突き破り３メートル下へ 鹿児島市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VTm5jQW92UEVFN09TbEZNTkRjZ2xYc2RSd2NzcFAtNnVuR0xJTnpYanBRakZYbFFrcUdtT3NUZkFxVnVXcHg2M0hWaTNoRmtmcms1Tkg5aw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-25 10:52",
-   "published_iso": "2026-07-25T01:52:00+00:00"
+   "title": "難民の子どもたちに服を 白浜中の生徒たちが支援活動に参加 和歌山 [和歌山県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VRDZqejExLW5BYUFkRkl2d0QyWVZqMEhYeHJpUDBqUkhncF83RTlSUVhsWVNsZklyNGhZcDkwczM5V0lkRDgwWmxMVVk4UW93SjNfQ0k2TldJT3B2cnUyWEthcENmTm8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-25 10:45",
+   "published_iso": "2026-07-25T01:45:00+00:00"
+  },
+  {
+   "title": "つなぐ・つむぐ：差別あおる恐れも 埼玉・戸田 河合市議 全国移民反対デモ 大阪にも市民つめかけ－情緒的主張多く ／大阪",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LbUZMazZUemNzNEJZMHFkSmY3YUJGN09nMXJUelloWERxVDBjNkVSb3EyVGt6U1FHanlCREtRR1JEY1k2eFh0QUVPcEM4OWVxbEkxV25HNENYMGlhLXNNSEY1TXlnVkx5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-25 05:05",
+   "published_iso": "2026-07-24T20:05:43+00:00"
+  },
+  {
+   "title": "共生社会、障害あってもなくても 三重県津市で26日「津久井やまゆり園事件を考える集会」",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xWDR0cjd2UHo2N3lyeG91VVhBNU1CYXJIZFRETjMwYlBVM09ORTJVNXQ5bWpaSHRmLVNUOG01Q1BmOE1qNU10RGtRVzRmTHRwb2pCQw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-25 05:05",
+   "published_iso": "2026-07-24T20:05:00+00:00"
+  },
+  {
+   "title": "山車曳き わっしょい 技能実習生ら地域交流 幸手 ／埼玉",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoYm1ncVdkUEpJWXNCWVBwZmhqV1M0aDFsc3BqcDJoVVlpbm1ud2FNYzVCSW9ybk9JSGFyMEZ1QllzclliSU5EYXdFVGRsNGZuYTM0QXlNcTdJekxJV3VEYUI0WnpCZzdV?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-25 05:02",
+   "published_iso": "2026-07-24T20:02:03+00:00"
+  },
+  {
+   "title": "外国人の永住許可要件を厳格化、「日本人の平均上回る年収水準」新指針に明記へ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tY2lyYjJjaGE0N2hSbERjWDVmY3UzTUZqbkprMHZMLVlHdVZiNlU0SFhoMjZxc2xLYVhwNUl2YlRLajJDSko5eEw2bmpzaUItUWlCTHQtSVBYS2Rrdi1NR1loNjY3dw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-25 05:00",
+   "published_iso": "2026-07-24T20:00:00+00:00"
+  },
+  {
+   "title": "外国人の受け入れ人数に数値目標を検討、来年３月に基本方針…経済界からは制限強化の動きに懸念の声も",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Eeno0V2M4bk9fSmFLV3otMGtneEF0aUxMVVJBLXA0RXRTaDdqMXVKRFZtRkhDdmQ1ZjE1ajk5S004ZC14dnkxclVBVjZfV1E2SmxabWxvbVNtYWZ3ZjFnaWFDWXRWQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-25 05:00",
+   "published_iso": "2026-07-24T20:00:00+00:00"
+  },
+  {
+   "title": "外国人急増に対応、入管職員226人増員へ 政府、元自衛官の採用も [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GdzYzWGh1VUZxRjFGS1gxeUpEb2ZqTkV5RzZkR25EcHB3NFNEZWJ3dXhnYzZwSGotUVJmTWp0REdVdWIwbEZkR0N2X0JQVmNLM216em9OQmZaLTlIVDlmdl90QWhNMm8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-24 23:35",
+   "published_iso": "2026-07-24T14:35:09+00:00"
+  },
+  {
+   "title": "入管職員200人超増員へ 政府、不法残留者の対応を強化",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zLXZzVEV6ZkZoSUJDM0FncUpJTHIyeVV3VmduNTBxWndzN243djV6UUU3cmJiSndIRVBPN1FkaVBidU1DeTJDczc1dmxpMTMweGlQOUZCSndIVlh5SzhIcE9nTmd0cnNqck8zZDlqcFFCRTVvNmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-24 20:20",
+   "published_iso": "2026-07-24T11:20:20+00:00"
+  },
+  {
+   "title": "「特定技能」などの在留外国人受け入れ、数値目標など検討する有識者会議設置を決定",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Za29FclVsa3NzZUZCcmhNZXBCRjhQTGxTZHFVZWpHSlpLU19hLUl2aENERVhscG8zT3ZQdnFwVEV3Tkh4UUh2aE5oS0tkVktMejJ0S1NoeFgzeWhZekE4Ylhkc3V6QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-24 19:44",
+   "published_iso": "2026-07-24T10:44:00+00:00"
   }
  ]
 }
