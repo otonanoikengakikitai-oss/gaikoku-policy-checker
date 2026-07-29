@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T11:24:12+00:00",
+ "generated_at": "2026-07-29T14:04:31+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "＜カムチャツカ沖地震1年 東胆振・日高＞㊥外国人住民 支援充実を",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pY0dDbG8wQS1qNTlCbnM5eTM3NmR4Yk0xSFF3SnFMbmg3RWhuQkNWeF9OSkZuYjBLdS1oMUF4cmdvM1AwS3RBQkhPckU1TDNGekFCbmFORjQ3Nzl2U3ZNZ0tKTnA?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-29 21:53",
+   "published_iso": "2026-07-29T12:53:37+00:00"
+  },
+  {
+   "title": "人気観光地・富士河口湖町に外国人観光客のレンタカー事故“集中地帯” 「もう10回以上…」車がこすって削られたような跡があちこちに",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoMVIyTG9Ia0dycXJtTDhHUWhZenVhWjhKd1JEMGY5bi11cDdwUm9rcGlHZUpfSnVzRVk3d2xPbnVub3dZYmdlS1NFZHJCQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-29 20:22",
+   "published_iso": "2026-07-29T11:22:00+00:00"
+  },
   {
    "title": "東海3県の外国人、8%増の49万人 総人口は微減で1113万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wWjBvaGVsM0JkUUswLXpDVEtPdDRUa3dBOGM3RXd2S1JiSkVuSm4wZEZNRnM2QW1GMll4T2hwblg0b2hicGNkVVBnNEt0ZWhjRkZMeVgtT0lRQ3lNWC14dVpVb2FsOHZPcG1Dcw?oc=5",
@@ -144,14 +160,6 @@
    "published_iso": "2026-07-29T02:58:45+00:00"
   },
   {
-   "title": "広島市中区のシャレオに和文化体験スペースがオープン 書道・茶道・福山琴…外国人客の利用図る",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwQ1BnQ3hKa3hZZUhOaUhIdEJjUlA2QTZkbU1aZEwxOWtNNTdHRXpldjluMjNhMlYzOEpEakFPX2t2ZnFSTTU3QlFqZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-29 11:05",
-   "published_iso": "2026-07-29T02:05:38+00:00"
-  },
-  {
    "title": "「日本選ばれないかも」免許厳格化に懸念も 来日前教習に熱視線",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50R0lUSWxXazdTRzlPYkFQLUpHd3g5VkpuWk4tbXBzbmo4c2dFeVVpWGxSd3Vic3pQNFZMSEp1ODlXLTJyZERJTGhadWFoZk5JX1N1bVBURU85aVNCNjBhc3lQTjdEeF9G?oc=5",
    "source": "毎日新聞",
@@ -192,14 +200,6 @@
    "published_iso": "2026-07-28T20:00:00+00:00"
   },
   {
-   "title": "社説：外国籍の子供 日本語教育の充実で共生図れ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYlgySDhJcDN4TkxMQkJEa3RJN2g3TFhyYk54QmhHVEJ5Ti0tNE93dG1rekpXODRLUjhJQ21FeUdPd3ZZbGttTGNXZllPRDNVZGFXX0hWLTdRWDF3bmJhY3RmQ0tNU1U?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-29 05:00",
-   "published_iso": "2026-07-28T20:00:00+00:00"
-  },
-  {
    "title": "スペイン 不法移民合法化 労働力確保へ滞在許可…中南米系中心１１７万人申請",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwb3RXOUNlRDdjVjlodDZHMkF5YUZPVE5UVjhQSEtHYjkyNThPUkFkaFFGcERFUV9OVmRfUXhkX29UVmM3X2NsQWFOYXhUM2M0VjdvQWlPcnRFcVRqTzdKaVRR?oc=5",
    "source": "読売新聞",
@@ -208,36 +208,12 @@
    "published_iso": "2026-07-28T20:00:00+00:00"
   },
   {
-   "title": "暗号資産が中国AI株投資の抜け道に 外国人保有規制を回避",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92SjQ0RkRBbFFMN2dBSHJkUTJaTjdESkxJd0hnQ0xvRkt1QURWcW1adlk4UDlGb2VHT0JIRGZYbGNpT2p6MWJMcXdVbC14cW9IcXlEOEgxbzJMalhuQmNKcEFnN3A2YTJ2M2s0Q01feTBUOE5abjA4?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-29 00:00",
-   "published_iso": "2026-07-28T15:00:00+00:00"
-  },
-  {
    "title": "D&Mグループ、外国人特定技能人材の皆さまとの交流会を開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByVWp5NWtQZDFjLUlXdnBuQy1QamJ5eDdIRnhCQ2h1Z25lU3ZjSXJXdkN2RE14d3dlNm1WUEdKU214cms5MG1ZVFU4bmJKd1l1UmNmeXhDUHhES09UVzBwRUJBU3dhWnZZRXpR?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-28 23:40",
    "published_iso": "2026-07-28T14:40:00+00:00"
-  },
-  {
-   "title": "水(みず)をやる技能実習生(ぎのうじっしゅうせい)たち - 【やさしい日本語】技能実習生(ぎのうじっしゅうせい)が 桜(さくら)の 木(き)に 水(みず)を やった - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tUDA3aE5oNTNTeU1obXM0ZThQaG9ZUjB6LXpxRk9TU0ZmdmVVUUY4MUJJWTdMUFoxbjVaOW5yOEZWZVprOTQ0Rm9LTEtZMS1KVEpxNVJLVQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-28 22:08",
-   "published_iso": "2026-07-28T13:08:07+00:00"
-  },
-  {
-   "title": "【やさしい日本語】技能実習生(ぎのうじっしゅうせい)が 桜(さくら)の 木(き)に 水(みず)を やった",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PQktBY0x4eUtrUVJ0NVlVenNsNVZCaWtxVG81ckprTGVKUkd1bU4zc25VYXJjVUVLaFB0OHROTDY0MWlDWDI5X2k0WDJ2SmM2S1JZVENn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-28 22:00",
-   "published_iso": "2026-07-28T13:00:00+00:00"
   },
   {
    "title": "外国人との社交場「長崎内外倶楽部」復活へ グラバー子息の胸像移設",
@@ -264,28 +240,12 @@
    "published_iso": "2026-07-28T10:14:08+00:00"
   },
   {
-   "title": "入管、２２６人緊急増員",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GQzlNTHFVRk5JeGxfVnVDS1FwRU0wRllXS05VMG5VRnZ4WXV0S25RbW5yM0N3OGI2R0pKTDZ6T0w0ZXZNTVlXbE8zZTRxMEY2T2g4ei1kWGFSRUxTNWs2WC1XbHk?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-28 17:19",
-   "published_iso": "2026-07-28T08:19:15+00:00"
-  },
-  {
    "title": "入管、２２６人緊急増員 退職自衛官ら「即戦力」",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ODFjWmpIbWxsbXctOGZUWXF1UFdELW5KeTFhNDVfSjZKV0xKQjRnb211dWxJSVhzN0VFX2V4bUU2aVdZNUQ4T19DRzdnUmx2a1hQWGRnOWp6WmdMaEtOVkNFUQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-28 17:03",
    "published_iso": "2026-07-28T08:03:00+00:00"
-  },
-  {
-   "title": "入管職員226人緊急増員 不法残留、審査厳格化に対応",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCR1Z6N3oxNkhvOFRZR3A3Q3FmdlRXRFpEZllub1NEODdqVV80cWhHV1pSUTFvbDIyQ3EzSUdZY3p3dldMR0FaM1RzNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-28 16:56",
-   "published_iso": "2026-07-28T07:56:00+00:00"
   },
   {
    "title": "政府 入管職員226人の緊急増員を閣議決定 外国人の不法残留対策強化",
@@ -384,14 +344,6 @@
    "published_iso": "2026-07-27T19:00:00+00:00"
   },
   {
-   "title": "外国人材・留学生の〝住まい〟から地域をつなぐ 尼崎の国際交流シェアハウス「大阪ＨＵＢ」に刷新",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pZGRINkFsdGVlZ1liR28xNjkwUkRNZ29hdTRaREpZNVN0d0p5eFcxRklPeHV5U2p2UVZ1eHJPMnJDWjhtbUVhUnc5aw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-27 20:19",
-   "published_iso": "2026-07-27T11:19:20+00:00"
-  },
-  {
    "title": "高市早苗首相「外国人に対しフレンドリーでないイメージ持たれないように」外国人政策巡り",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRmpWUGhPSEtJeXg0YmpJcWVuekthM2dMa1BFZFRIbDlIcktvQXA5RHZyTng5YnZyeDlHeVFDTzVqRXlNTzYwaC1qMDJ6U1ZjSm53cG1Wcm82Y1hFQmE1OEJ4UHNWTUlNVlljMm96cEw3MUtpV3c?oc=5",
    "source": "産経ニュース",
@@ -406,6 +358,54 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-27 18:22",
    "published_iso": "2026-07-27T09:22:01+00:00"
+  },
+  {
+   "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVXZFaTUtVXpITXlrZG9DbXdEWXd0UjA5Zng0M1A2M2RodlFHNXdYTWpIRl9wNmlnZXpCcnJMTVFjRE5QQnowMGtXQWR0VEFVaHY1a1dobXBWREFjbHk5NHljbWlVMlNnUGZhZVo1aFM?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-07-27 18:19",
+   "published_iso": "2026-07-27T09:19:00+00:00"
+  },
+  {
+   "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYWRJcDE0aEtsTUptblJMY2JOWERRNG1hOG12STF1LXpnbm5mYXFUcDJlS1pxTVA1RzE5Z2lFOVpQLUh5Zl8ya1JEN2o2cS1yU1V6UWhCUWZtYmJQc0ZzUkwtOFRROHFa?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-27 11:00",
+   "published_iso": "2026-07-27T02:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材 [写真特集1/11]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fclBseGlWWFVmM3IzVExiUDlpMnV1djBVdUNlUzNxV2U3eTlJMnNPcEhDQnotSGIxZlpBYUI4TC11ZHpXU1ZCNjROak1tcnlCeGpEZlhJaGJaSlgzVV9Rc2NrY2ZyZw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-27 11:00",
+   "published_iso": "2026-07-27T02:00:00+00:00"
+  },
+  {
+   "title": "特定技能のリーディングカンパニー ONODERA USER RUN 難関・航空機整備の特定技能試験、2年連続【合格率100％】",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMkREcXVjaDRBM3g5TFFoNm1TelJoR2EtNFNVdWRxY3NFek9mbWMybW5kODBvMmFvWGg3ODNDeFpvUlRGRWtodndybXhhRzNLWUU4S0VzUEdoVHdibnZHVW1iTm1YTDdhQTl3?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-27 06:40",
+   "published_iso": "2026-07-26T21:40:00+00:00"
+  },
+  {
+   "title": "「相模原殺傷事件10年」京都市で講演会 参加者150人が共生社会への筋道探る",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWnlJNjRrODVvcURhQUozRDBSbHU0UVNxRkV5UWQ1Wm56Q2ZFcHRnVjVncW5wWmVfeE9JdXZuSlFDR3RaVVNwQTZGNDNVQndxR1c4LVBjTE0?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-27 05:40",
+   "published_iso": "2026-07-26T20:40:00+00:00"
+  },
+  {
+   "title": "外国人労働者、長く勤めてもらうには ２７年度から技能実習→育成就労、転籍しやすく",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjY2JRS2tQUWVETnNEcjFoeXQwc1l2dERxNkUwV3NMZWxvYUF5YVFBcVBfRzNNdEwtUVMxd1NmWGh5bWo1TENnd3ZuNF92Qk1PeXRzcTY5N2VScERk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-27 05:00",
+   "published_iso": "2026-07-26T20:00:00+00:00"
   }
  ]
 }
