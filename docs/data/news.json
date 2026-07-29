@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T16:19:39+00:00",
+ "generated_at": "2026-07-29T18:04:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -104,18 +104,18 @@
    "published_iso": "2026-07-29T08:11:00+00:00"
   },
   {
-   "title": "北海道の外国人増加率14.8％ 全国一も伸びに陰り 円安や在留資格の厳格化で鈍化続く可能性",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBubnYzSERfcWtweXl5X3BqS1BrdEg2d0JKR0E1cG9vX0htTWFTeUY2V0xxbVpuQTg3QkEzLTJKMmdmUkRUQWdYSkVGVG5QcVdCeVpkVWxOLXVYUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-29 17:00",
-   "published_iso": "2026-07-29T08:00:00+00:00"
-  },
-  {
    "title": "九州・沖縄の人口1400万人割れ、外国人は2桁増続く",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBldnNtQkc3SkxxQTE3bHBnLWVkVWFPdTZxLTZkNTRpcDFOeExtNWw3UkJUM3pmZnh5dmJWcDJRek44RldyLWszQWQ5RzN1NWFla1JRS2hGOG9mU3A1aTRhZDFJM3FCWWN4VDFtQQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-07-29 17:00",
+   "published_iso": "2026-07-29T08:00:00+00:00"
+  },
+  {
+   "title": "北海道の外国人増加率14.8％ 全国一も伸びに陰り 円安や在留資格の厳格化で鈍化続く可能性",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91SkpXd2RlUU5Ec09YZ3RsRHk1bkVqZkFIdFlKOE9FcmtYcTdpMElHQ0R0STE4QmU1SzhHRGptT2Vlek5NUnJUSDNjVQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-07-29 17:00",
    "published_iso": "2026-07-29T08:00:00+00:00"
   },
@@ -170,7 +170,7 @@
   {
    "title": "三重県 外国人採用、今年度には方針…知事会見：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44c29iYW5uN1JSNEJyZnU2UVRIN1YwelktMmxSdXo2MWJ1UmlNdVNfX0taRUlrbnAwS3FEdFZ2ZGpaeC1OVFNjOTdtRG1aR3VHTkJDX3dVYUxDcWJSMFVyMVJRbS1TZzNBSlBUMzV5dHI?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-29 09:30",
    "published_iso": "2026-07-29T00:30:00+00:00"
@@ -186,34 +186,18 @@
   {
    "title": "ラー麺ずんどう屋流、外国人材が離れぬ職場づくり 課長で年収800万円の道も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUmVHc04yWFBvVTdRWWNvaEFTZWJsSVdTTnNaYjdma0N6ZlpNTGsxVnV6YzZSYWxwN2FxWGFyNFl4eGEzWVZaUEtrNFlpNkxjbnVkbWs5MVdNZGZreklOUHExTWxORFk?oc=5",
-   "source": "business.nikkei.com",
+   "source": "日経ビジネス電子版",
    "source_domain": "nikkei.com",
-   "published": "2026-07-29 05:00",
-   "published_iso": "2026-07-28T20:00:00+00:00"
-  },
-  {
-   "title": "社説：外国籍の子供 日本語教育の充実で共生図れ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYlgySDhJcDN4TkxMQkJEa3RJN2g3TFhyYk54QmhHVEJ5Ti0tNE93dG1rekpXODRLUjhJQ21FeUdPd3ZZbGttTGNXZllPRDNVZGFXX0hWLTdRWDF3bmJhY3RmQ0tNU1U?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-07-29 05:00",
    "published_iso": "2026-07-28T20:00:00+00:00"
   },
   {
    "title": "スペイン 不法移民合法化 労働力確保へ滞在許可…中南米系中心１１７万人申請",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwb3RXOUNlRDdjVjlodDZHMkF5YUZPVE5UVjhQSEtHYjkyNThPUkFkaFFGcERFUV9OVmRfUXhkX29UVmM3X2NsQWFOYXhUM2M0VjdvQWlPcnRFcVRqTzdKaVRR?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-29 05:00",
    "published_iso": "2026-07-28T20:00:00+00:00"
-  },
-  {
-   "title": "D&Mグループ、外国人特定技能人材の皆さまとの交流会を開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByVWp5NWtQZDFjLUlXdnBuQy1QamJ5eDdIRnhCQ2h1Z25lU3ZjSXJXdkN2RE14d3dlNm1WUEdKU214cms5MG1ZVFU4bmJKd1l1UmNmeXhDUHhES09UVzBwRUJBU3dhWnZZRXpR?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-28 23:40",
-   "published_iso": "2026-07-28T14:40:00+00:00"
   },
   {
    "title": "外国人との社交場「長崎内外倶楽部」復活へ グラバー子息の胸像移設",
@@ -290,7 +274,7 @@
   {
    "title": "「不法残留」摘発強化へ、入管職員２２６人緊急増員…異例の年度途中採用・茨城県への集中配置も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zWm42VkI0QUJpWkp2Q21vcDlyWURwRHZSS3ZqNHNDMDM2cmJYZVhJajdvdmp4QUJVQjZUMm1vTXRCeDFoVG01LUNvRExBdjFGTnFvUUl3ckRBZGpNV3E0ZEszUmlqQQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 15:00",
    "published_iso": "2026-07-28T06:00:00+00:00"
@@ -314,7 +298,7 @@
   {
    "title": "「子供服を難民へ」ユニクロの会社から講師、世界の現状を中３学ぶ…本庄東",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2FYMDRkSEtVWFNWNjV5Nk5UbGt1X0VDbVJ4bFRDZUZ6WV9Qengwa1B4bVNkZVBweDV4VGVRczc5U3BjaU9MT1VwSngxZUxTelVlV3BqRVU2SXVXOFlDNDJ0b0hvVDNWak9IWkpVMDFLNnBJTDdITnNobHJXdWZtdUp1RWZqX3VIYUE?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 12:00",
    "published_iso": "2026-07-28T03:00:00+00:00"
@@ -406,6 +390,22 @@
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-07-27 05:40",
    "published_iso": "2026-07-26T20:40:00+00:00"
+  },
+  {
+   "title": "外国人労働者、長く勤めてもらうには ２７年度から技能実習→育成就労、転籍しやすく",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjY2JRS2tQUWVETnNEcjFoeXQwc1l2dERxNkUwV3NMZWxvYUF5YVFBcVBfRzNNdEwtUVMxd1NmWGh5bWo1TENnd3ZuNF92Qk1PeXRzcTY5N2VScERk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-27 05:00",
+   "published_iso": "2026-07-26T20:00:00+00:00"
+  },
+  {
+   "title": "経済不振続く南アフリカで相次ぐ移民襲撃、失業や格差など不満のはけ口に…５月以降１６万人が帰国",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95VTJDRDFKTElPYW0xQ3lHeWVrNjVsRjczV3BhYVhPUWk0VllveXZFbHE1WEI2Q3pXOHpQRENzRGhWZXA0NzkwbjYtTERyejlIM0VRMHZXRU9kMmZTMXVWVEtB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-27 05:00",
+   "published_iso": "2026-07-26T20:00:00+00:00"
   }
  ]
 }
