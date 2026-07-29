@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T02:41:44+00:00",
+ "generated_at": "2026-07-29T05:50:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "稚内の踊り 外国人がつなぐ ベトナム人らチーム結成、みなと南極まつりに参加 浴衣着用「母国でも教えたい」",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNHhwSG5SVEw2YVV0UXdCcUUwdzd3TjdCcTNyVDJJQ3lmOEFNd1ZsVmZocU9VZzQtQmhnVUFlSzJoR0FYUU1aM0ExLUFYTC05djdUX0pTY3Rvdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-29 13:43",
+   "published_iso": "2026-07-29T04:43:07+00:00"
+  },
+  {
+   "title": "広島市中区のシャレオに和文化体験スペースがオープン 書道・茶道・福山琴…外国人客の利用図る",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwQ1BnQ3hKa3hZZUhOaUhIdEJjUlA2QTZkbU1aZEwxOWtNNTdHRXpldjluMjNhMlYzOEpEakFPX2t2ZnFSTTU3QlFqZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-29 11:05",
+   "published_iso": "2026-07-29T02:05:38+00:00"
+  },
+  {
+   "title": "「日本選ばれないかも」免許厳格化に懸念も 来日前教習に熱視線",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50R0lUSWxXazdTRzlPYkFQLUpHd3g5VkpuWk4tbXBzbmo4c2dFeVVpWGxSd3Vic3pQNFZMSEp1ODlXLTJyZERJTGhadWFoZk5JX1N1bVBURU85aVNCNjBhc3lQTjdEeF9G?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-29 11:00",
+   "published_iso": "2026-07-29T02:00:00+00:00"
+  },
   {
    "title": "出入国在留管理庁の定員226人増を閣議決定 摘発・送還要員の採用強化へ",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pbkhId2dTUV9oSTVYMDZyR3J5TnJ1Q2xCYWM0NS1BcVV3czZ3OUZnQnVsaWt4cmM5NUpQbEdTeU1TTV81NWtFOE9qbWN1VUxuN2xqSEJkclItZWlJWFpyMkYtbXAtMTNIUnN2YXV6OU8xVVU?oc=5",
@@ -22,6 +46,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-29 09:30",
    "published_iso": "2026-07-29T00:30:00+00:00"
+  },
+  {
+   "title": "趣里主演『大空港～GATE24～』、税関＆出入国在留管理庁【史上初】連名タイアップ！コラボポスター解禁",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Q1IyZUxKNmc2WnVFVmNrY2hpRG9PMVZ0X1NDdjVuUGhSQ3JKemhPMlNWLUxLeFNybVdFcGx6NVViamNSXy14MGJpeWNsaV9UMnfSAVdBVV95cUxPMENQYkgybjAxUjVublQ0Y2RQOVpNSmpmaXlFMHg3Tm5HWjhEOTVORGRoVV9LUzdTTHZ0SENKVzB4d2Y3YkJFdWlVVGZfYmt3aUR4cThhbWM?oc=5",
+   "source": "テレ朝POST",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-29 07:28",
+   "published_iso": "2026-07-28T22:28:51+00:00"
   },
   {
    "title": "不法残留摘発 入管増員 ２２６人 年度途中採用へ",
@@ -126,14 +158,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-28 18:51",
    "published_iso": "2026-07-28T09:51:00+00:00"
-  },
-  {
-   "title": "「熊本で大きな地震がありました」外国人の防災考える被災英国人が英語で発信",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VYmtrOFB3TTlJVTkwQm9ObUd1aFpoUWhpVlJaaFExWWxMdUZNemRscVRLcDJhX1FjQ0tBTk9oaDh5RkxLRWJET3lyclBhd2Z0TjNFT1VXT0xwY19VWHNPWmhsWHRLR1dDaXNGdEZDVTV5Skpnenc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-28 18:19",
-   "published_iso": "2026-07-28T09:19:59+00:00"
   },
   {
    "title": "入管、２２６人緊急増員",
@@ -328,6 +352,14 @@
    "published_iso": "2026-07-27T02:00:00+00:00"
   },
   {
+   "title": "特定技能のリーディングカンパニー ONODERA USER RUN 難関・航空機整備の特定技能試験、2年連続【合格率100％】",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMkREcXVjaDRBM3g5TFFoNm1TelJoR2EtNFNVdWRxY3NFek9mbWMybW5kODBvMmFvWGg3ODNDeFpvUlRGRWtodndybXhhRzNLWUU4S0VzUEdoVHdibnZHVW1iTm1YTDdhQTl3?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-27 06:40",
+   "published_iso": "2026-07-26T21:40:00+00:00"
+  },
+  {
    "title": "「相模原殺傷事件10年」京都市で講演会 参加者150人が共生社会への筋道探る",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWnlJNjRrODVvcURhQUozRDBSbHU0UVNxRkV5UWQ1Wm56Q2ZFcHRnVjVncW5wWmVfeE9JdXZuSlFDR3RaVVNwQTZGNDNVQndxR1c4LVBjTE0?oc=5",
    "source": "京都新聞デジタル",
@@ -374,38 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-26 19:10",
    "published_iso": "2026-07-26T10:10:00+00:00"
-  },
-  {
-   "title": "佐賀市共生社会推進アドバイザーとして活動する池田実さん（66）",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRVHJUcjhFT2hQUU82Q2tCWWpJNXNBeE5HNjlvWlRNTVo5RGM1YVpvNWxWNXNHVmhqdWg2RkpqcDNicFVIbG9MNGtQdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-26 17:30",
-   "published_iso": "2026-07-26T08:30:00+00:00"
-  },
-  {
-   "title": "「お父さん」と呼ばれた少年時代 日本で背負った見えない責任",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pTTg0eDM5N21yMUJGcmNnYWlidFJSdS1JeTR6QXhfTHNybk4tNzVsWDBhVTYtS0g0R1l6b2JOSE1xWnAzX1FGWENIU2tLYzhTT09ORVBlUTFaVDM0bmE1UUNWNVoxeGRE?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-26 11:00",
-   "published_iso": "2026-07-26T02:00:00+00:00"
-  },
-  {
-   "title": "地域共生社会考えよう ２日、磐梯でイベント",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0X2Z2SUxiWjBUUUVsRU50TmhWZ0hTYWxVcFVETzd4NFpaRjRhWV9GRVBpSE80YVpmZGRiN0tpbmpKNzRUT2JVNWRJbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-26 11:00",
-   "published_iso": "2026-07-26T02:00:00+00:00"
-  },
-  {
-   "title": "やまゆり事件の何年も前から「予感」はあった 脳性まひの渋谷治巳さんが信じる「共生社会」への道",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZQ2Zoenk1MHk4Y3dXMXI4VG9DX3A2blRPOHFfOENTODdrMW5ENkNQdURLdlZYQV9JSDVPUkdKTGpiVGl4RFpDY1ZOd19selV1aE9J?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-26 07:25",
-   "published_iso": "2026-07-25T22:25:27+00:00"
   }
  ]
 }
