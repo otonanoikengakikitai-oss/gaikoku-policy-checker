@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T08:36:15+00:00",
+ "generated_at": "2026-07-29T11:24:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,84 @@
  ],
  "items": [
   {
-   "title": "大阪府、6年ぶり人口増 外国人転入超過大きく1万人増",
+   "title": "東海3県の外国人、8%増の49万人 総人口は微減で1113万人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wWjBvaGVsM0JkUUswLXpDVEtPdDRUa3dBOGM3RXd2S1JiSkVuSm4wZEZNRnM2QW1GMll4T2hwblg0b2hicGNkVVBnNEt0ZWhjRkZMeVgtT0lRQ3lNWC14dVpVb2FsOHZPcG1Dcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 20:04",
+   "published_iso": "2026-07-29T11:04:52+00:00"
+  },
+  {
+   "title": "“外国人の密輸品”粗悪ブランド品や大量のユニフォーム偽物か...“密輸防止の最前線”空港税関【気になる！】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tMlFObTZ1bTQwTjdpa1lDcEhtZzBtZDJKZGt1emtqZzlkT3ZzVFZvbXB3Z3gzQ0NyV1lNV0VidHVkZjBEUGJGWDB5WW95SGFJUVFqbUtBZEVFWjR6MHVyRHVJd0cxTjdmcFhmYlZfU2ZudVczNVh0dkZVV2o?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-29 19:59",
+   "published_iso": "2026-07-29T10:59:01+00:00"
+  },
+  {
+   "title": "沖縄総人口148万人 外国人が下支え 自然減は全国最小 総務省・人口動態調査",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaU29ITkFYWDNoWU1NRDc3V3Npa3dfcHhiZ1QtSlFlVnlKNzZmSFJ2YThaSEY0Q3ZONTdWWVViT21OTjM5X043dE9SOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-29 18:55",
+   "published_iso": "2026-07-29T09:55:05+00:00"
+  },
+  {
+   "title": "日本人の人口、1億2000万人割れ 42年ぶり水準、91万人減 外国人は最多 総務省",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpQms1OFJGa29UU0RoMlJWQzNzb2ptMXVGdXBzSVBnUU0wamxHWGN6VTdmZTFhQWluNGtseGxRNlVjM2ZRUFJWQW1wUnpXcDhYaVhQQ01XTm00TVZ2Y0Jlemhod2dEYkJsaGY3TE8yTmNuMHRiOWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-29 18:39",
+   "published_iso": "2026-07-29T09:39:50+00:00"
+  },
+  {
+   "title": "日本人過去最大91万人減、出生者67万人で過去最少 総務省発表 [消滅可能性自治体]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZQXdSZ1dtSGU0Q0NwaWRBS1daQzdCNTliVUtJeFRRcElDc1Yzc1dQX3Z5ZExmb3dBa0k3cU1FMkFjdG1WNzZCQk1wako5Q19MU2JCc1BVTmNLSmNqdXl5ckVRYWUxdw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-29 18:36",
+   "published_iso": "2026-07-29T09:36:46+00:00"
+  },
+  {
+   "title": "外国人によるレンタカー事故が集中する“魔の細道” 民泊施設建ち並ぶ“同じ場所”で17回も 山梨・富士河口湖町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0M1FHbllnVzRfNEg3U2E4QzFlZUlWRVhqa1NFNDZaSVFUTUVIVFdnYmNiTkh3REEyckxGR3hJcFg3VHZPRGF4bEhuMTQ0QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-07-29 18:31",
+   "published_iso": "2026-07-29T09:31:00+00:00"
+  },
+  {
+   "title": "日本の人口減、外国人労働者が和らげる 国外から転入72万人で最多に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Tk02ZUJENkdaMHJlRFNhOGFHcWo2RXBOQWMxYmdrR2MwSmZoejl6akVNZ2VwYWdONXZzclp4N01DTUhta2VlSzZ4SFcxbUtCNUU3TUFSMUFaQmlYZHRSMW9JZ0hyWFo3QXZhdg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 18:15",
+   "published_iso": "2026-07-29T09:15:00+00:00"
+  },
+  {
+   "title": "山梨県の人口、0.8%減の79万人 外国人比率3.1%に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONHZ3ZVhwS2x6MU9MZXNnTmhYeVF6OFVWZFNTX3RaWVlJSllqTmtPQzRQYk9YYXFZQndnVkYyRGRkT3c5SVREYUhLbGxTQUFWUDl3a3ZZdllhZVJweFN0ZXRCN2wtSHJWM2hGRw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 17:54",
+   "published_iso": "2026-07-29T08:54:03+00:00"
+  },
+  {
+   "title": "大阪府人口6年ぶり増加 外国人転入超過が1万人増、自然減は全国最多",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50eDREVF9Ra3RDN2ZWT25HZTZ5bWhnWVJHdTc2ZFhmQl9NbHNmZkU1cEt6ZzNibDhqOFd6U2R1bHdDZ2pKYU14c3hVbTh2X2w2dTVlMzVjaURPTlc1Yk9aLTJwODZKenZpTGE2Nw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-07-29 17:30",
    "published_iso": "2026-07-29T08:30:00+00:00"
+  },
+  {
+   "title": "日本人、１億２０００万人割れ 過去最大９１万人減―外国人４００万人超・総務省",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YY3ZtTnFTaGhHbjg3ZmdZVFBnU3VwOW1wZkxKRzBZSThaRVVnQjgtQk02TG5jREp1MEZfbjBVUnBpeUd1Z0NUMUR3N2lSb2RKTzVhdHZHZkhZZ2Q4WHV6UjNRMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-29 17:11",
+   "published_iso": "2026-07-29T08:11:00+00:00"
   },
   {
    "title": "北海道の外国人増加率14.8％ 全国一も伸びに陰り 円安や在留資格の厳格化で鈍化続く可能性",
@@ -32,14 +104,6 @@
    "published_iso": "2026-07-29T08:00:00+00:00"
   },
   {
-   "title": "日本人、１億２０００万人割れ＝過去最大９１万人減―外国人４００万人超・総務省",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JYXhsamJfc1dGSEtSaS0xMVRCcG0xQ3lWNVBxVzk1dE0yMUZpZzM5WDRUUmptX01nRjB3ZGJpV3JHX0o4eDBXTGkwR1FEMUYzOUpLNA?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-07-29 17:00",
-   "published_iso": "2026-07-29T08:00:00+00:00"
-  },
-  {
    "title": "十勝の人口1.2％減 動態調査 外国人増で減少緩和",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSZUprZlRXTHBReW9jQ2FFeWF3X05PZjlsT200RkJvWld4T0hCNkozdFl0N05IR2tHaWpQdzhVU0FUZ3NreUdvcnIwNWxyb1VKR0pGSjlabjVHQQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -48,12 +112,12 @@
    "published_iso": "2026-07-29T08:00:00+00:00"
   },
   {
-   "title": "日本人の人口が４２年ぶり１億２千万人割れ…９１万人減の１億１９７３万人、外国人は３５万人増",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QandmNEx0SGdkUGxqVEtpaTdlWDQzX25WX3ZNVVdZSlpRb04tYzY0WFhmOExTNERuMW91ckpYTk9kd1dHXzlSUzdLYUlwcU1CaEh4VzNMVEpvdUZrTDBUY0oyYms0UQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-29 17:00",
-   "published_iso": "2026-07-29T08:00:00+00:00"
+   "title": "【奈良市】外国人訪問者数、外国人宿泊者数が過去最多！2025年 奈良市観光入込客数調査について【市長会見】（令和8年7月29日発表）",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02bnN5YzZRRE1RWkJyYUotVXk0S09ydDAtdURfV2xvb1FvNHNRZTlKaHhWNnVSY2ZOQVBNSWc1aGRHOV9iSFQzUkM5d3VpMllDUDlBdHJWMWhzX2tna2NZT09OYVdZS1pKbWZ3?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-29 16:46",
+   "published_iso": "2026-07-29T07:46:00+00:00"
   },
   {
    "title": "九州7県の外国人入国者数、6月は9%増の41万人",
@@ -120,18 +184,18 @@
    "published_iso": "2026-07-28T22:28:51+00:00"
   },
   {
-   "title": "不法残留摘発 入管増員 ２２６人 年度途中採用へ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxYXJlYzZ1RXlXZjU1X3F4UXFJcVVmaWtKQnp3Qk9pS2dOM2lHVlNjNmlGeDk4NVNHWTJld05CTUtmS3A3U3RZVGxISjc3X0hmVk5YRUpSblZRWm5NYWJVMzB1Yw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-29 05:00",
-   "published_iso": "2026-07-28T20:00:00+00:00"
-  },
-  {
    "title": "ラー麺ずんどう屋流、外国人材が離れぬ職場づくり 課長で年収800万円の道も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUmVHc04yWFBvVTdRWWNvaEFTZWJsSVdTTnNaYjdma0N6ZlpNTGsxVnV6YzZSYWxwN2FxWGFyNFl4eGEzWVZaUEtrNFlpNkxjbnVkbWs5MVdNZGZreklOUHExTWxORFk?oc=5",
    "source": "日経ビジネス電子版",
    "source_domain": "nikkei.com",
+   "published": "2026-07-29 05:00",
+   "published_iso": "2026-07-28T20:00:00+00:00"
+  },
+  {
+   "title": "社説：外国籍の子供 日本語教育の充実で共生図れ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYlgySDhJcDN4TkxMQkJEa3RJN2g3TFhyYk54QmhHVEJ5Ti0tNE93dG1rekpXODRLUjhJQ21FeUdPd3ZZbGttTGNXZllPRDNVZGFXX0hWLTdRWDF3bmJhY3RmQ0tNU1U?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-07-29 05:00",
    "published_iso": "2026-07-28T20:00:00+00:00"
   },
@@ -342,70 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-07-27 18:22",
    "published_iso": "2026-07-27T09:22:01+00:00"
-  },
-  {
-   "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVXZFaTUtVXpITXlrZG9DbXdEWXd0UjA5Zng0M1A2M2RodlFHNXdYTWpIRl9wNmlnZXpCcnJMTVFjRE5QQnowMGtXQWR0VEFVaHY1a1dobXBWREFjbHk5NHljbWlVMlNnUGZhZVo1aFM?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-07-27 18:19",
-   "published_iso": "2026-07-27T09:19:00+00:00"
-  },
-  {
-   "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmYWRJcDE0aEtsTUptblJMY2JOWERRNG1hOG12STF1LXpnbm5mYXFUcDJlS1pxTVA1RzE5Z2lFOVpQLUh5Zl8ya1JEN2o2cS1yU1V6UWhCUWZtYmJQc0ZzUkwtOFRROHFa?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 11:00",
-   "published_iso": "2026-07-27T02:00:00+00:00"
-  },
-  {
-   "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材 [写真特集1/11]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fclBseGlWWFVmM3IzVExiUDlpMnV1djBVdUNlUzNxV2U3eTlJMnNPcEhDQnotSGIxZlpBYUI4TC11ZHpXU1ZCNjROak1tcnlCeGpEZlhJaGJaSlgzVV9Rc2NrY2ZyZw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 11:00",
-   "published_iso": "2026-07-27T02:00:00+00:00"
-  },
-  {
-   "title": "特定技能のリーディングカンパニー ONODERA USER RUN 難関・航空機整備の特定技能試験、2年連続【合格率100％】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xMkREcXVjaDRBM3g5TFFoNm1TelJoR2EtNFNVdWRxY3NFek9mbWMybW5kODBvMmFvWGg3ODNDeFpvUlRGRWtodndybXhhRzNLWUU4S0VzUEdoVHdibnZHVW1iTm1YTDdhQTl3?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-27 06:40",
-   "published_iso": "2026-07-26T21:40:00+00:00"
-  },
-  {
-   "title": "「相模原殺傷事件10年」京都市で講演会 参加者150人が共生社会への筋道探る",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWnlJNjRrODVvcURhQUozRDBSbHU0UVNxRkV5UWQ1Wm56Q2ZFcHRnVjVncW5wWmVfeE9JdXZuSlFDR3RaVVNwQTZGNDNVQndxR1c4LVBjTE0?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-27 05:40",
-   "published_iso": "2026-07-26T20:40:00+00:00"
-  },
-  {
-   "title": "外国人労働者、長く勤めてもらうには ２７年度から技能実習→育成就労、転籍しやすく",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjY2JRS2tQUWVETnNEcjFoeXQwc1l2dERxNkUwV3NMZWxvYUF5YVFBcVBfRzNNdEwtUVMxd1NmWGh5bWo1TENnd3ZuNF92Qk1PeXRzcTY5N2VScERk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-27 05:00",
-   "published_iso": "2026-07-26T20:00:00+00:00"
-  },
-  {
-   "title": "経済不振続く南アフリカで相次ぐ移民襲撃、失業や格差など不満のはけ口に…５月以降１６万人が帰国",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95VTJDRDFKTElPYW0xQ3lHeWVrNjVsRjczV3BhYVhPUWk0VllveXZFbHE1WEI2Q3pXOHpQRENzRGhWZXA0NzkwbjYtTERyejlIM0VRMHZXRU9kMmZTMXVWVEtB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-27 05:00",
-   "published_iso": "2026-07-26T20:00:00+00:00"
-  },
-  {
-   "title": "相模原の障害者施設殺傷：相模原殺傷10年 共生社会へ祈り",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yWmZLcENJUTlZOUp5QUR2Q0NoQVVJdXRPUlRDU2w4MGM4MzhlWXlZM05Eb1dXcUItdXYySzUxMnB0NVZsdG85djNUOWZ4VFgxVERQSEJqWkFvN3lVcERTcUJMSFVJZG1s?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 02:02",
-   "published_iso": "2026-07-26T17:02:23+00:00"
   }
  ]
 }
