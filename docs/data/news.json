@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-28T23:56:21+00:00",
+ "generated_at": "2026-07-29T02:41:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "出入国在留管理庁の定員226人増を閣議決定 摘発・送還要員の採用強化へ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pbkhId2dTUV9oSTVYMDZyR3J5TnJ1Q2xCYWM0NS1BcVV3czZ3OUZnQnVsaWt4cmM5NUpQbEdTeU1TTV81NWtFOE9qbWN1VUxuN2xqSEJkclItZWlJWFpyMkYtbXAtMTNIUnN2YXV6OU8xVVU?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-29 09:56",
+   "published_iso": "2026-07-29T00:56:28+00:00"
+  },
+  {
+   "title": "三重県 外国人採用、今年度には方針…知事会見：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44c29iYW5uN1JSNEJyZnU2UVRIN1YwelktMmxSdXo2MWJ1UmlNdVNfX0taRUlrbnAwS3FEdFZ2ZGpaeC1OVFNjOTdtRG1aR3VHTkJDX3dVYUxDcWJSMFVyMVJRbS1TZzNBSlBUMzV5dHI?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-29 09:30",
+   "published_iso": "2026-07-29T00:30:00+00:00"
+  },
   {
    "title": "不法残留摘発 入管増員 ２２６人 年度途中採用へ",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxYXJlYzZ1RXlXZjU1X3F4UXFJcVVmaWtKQnp3Qk9pS2dOM2lHVlNjNmlGeDk4NVNHWTJld05CTUtmS3A3U3RZVGxISjc3X0hmVk5YRUpSblZRWm5NYWJVMzB1Yw?oc=5",
@@ -104,6 +120,14 @@
    "published_iso": "2026-07-28T10:14:08+00:00"
   },
   {
+   "title": "【速報】富士山に登っていた外国人の男性が9合目付近で体調不良のため救助要請... | 静岡のニュース | SBSNEWS | 静岡放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xd3N2Tl9NR1VrTVk5Z2lkSGltTnctM2QzMU5KeHlPeGxKOThlUUlUNlJhMjF3MVluZFdYc3NSdFBoVWlZZks2TGhzM1BpOHBKbVNSYWdzQzRmUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-28 18:51",
+   "published_iso": "2026-07-28T09:51:00+00:00"
+  },
+  {
    "title": "「熊本で大きな地震がありました」外国人の防災考える被災英国人が英語で発信",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VYmtrOFB3TTlJVTkwQm9ObUd1aFpoUWhpVlJaaFExWWxMdUZNemRscVRLcDJhX1FjQ0tBTk9oaDh5RkxLRWJET3lyclBhd2Z0TjNFT1VXT0xwY19VWHNPWmhsWHRLR1dDaXNGdEZDVTV5Skpnenc?oc=5",
    "source": "産経ニュース",
@@ -192,14 +216,6 @@
    "published_iso": "2026-07-28T03:23:00+00:00"
   },
   {
-   "title": "Ｚｅｎｋｅｎ",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY2s1TEN4ZTJLUHYyZGFpY0JfSlBrQl9HU3YwZXBjTDNwV05Sdkc5a09EOHlOQ3Z2WDFWR1VhcEJKdUQwd0RJaDNPcnpKMURXQjJJVVRYN3pobDNlNTd3QWE5bHRLdnhNeUE?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-28 12:00",
-   "published_iso": "2026-07-28T03:00:00+00:00"
-  },
-  {
    "title": "「子供服を難民へ」ユニクロの会社から講師、世界の現状を中３学ぶ…本庄東",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2FYMDRkSEtVWFNWNjV5Nk5UbGt1X0VDbVJ4bFRDZUZ6WV9Qengwa1B4bVNkZVBweDV4VGVRczc5U3BjaU9MT1VwSngxZUxTelVlV3BqRVU2SXVXOFlDNDJ0b0hvVDNWak9IWkpVMDFLNnBJTDdITnNobHJXdWZtdUp1RWZqX3VIYUE?oc=5",
    "source": "読売新聞",
@@ -280,7 +296,7 @@
    "published_iso": "2026-07-27T11:00:43+00:00"
   },
   {
-   "title": "【タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
+   "title": "【ミニ・タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBNRk1lRVNjUkZ2emVyd3FVYUp2MWxEcUFqMk5NWUpQQXA0YXRNaXpDSEJqVEN3RXNJYmkzZVRmek1Xc2FDOHNmcDRYdTdBRUlKMzBHQzRQY1hYMzhGNzZvQUtEMGw1a3JkbjllR2U0VHB1WGVPZGVjbFp6cTJuMHM2blJZNW8?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
@@ -352,12 +368,12 @@
    "published_iso": "2026-07-26T17:01:30+00:00"
   },
   {
-   "title": "ともに・共生社会へ：東京湾、生命見つめ半世紀 水中写真家 中村征夫さん",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1aFFnb3JzLW5mdDlicklaUzBiNmQ5R0lRWm5vUjlPaHhscFEzQVBkbUk5b0R3QU9ITG4yR2xpbld1Y3cyNzJXU3RXbVVDNzJnams1U1pTeldSQlZmQzYtdnBERnZiU3FV?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 02:01",
-   "published_iso": "2026-07-26T17:01:30+00:00"
+   "title": "１歳の誕生日迎えた「パンチ」、外国人が「ハッピーバースデー・トゥー・ユー」合唱でお祝い",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DRFQ5NWRKX3BVOE1ROUFGa1E1YlExSy01b3VmczdQTk1vcWJfSHpQUXp5TktDS1BrdS16MXZzQkpYa3hydUNQN3o5MGhzQWxWREtlbERIUFY1YWdMVUtRdnRkakxoQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-26 19:10",
+   "published_iso": "2026-07-26T10:10:00+00:00"
   },
   {
    "title": "佐賀市共生社会推進アドバイザーとして活動する池田実さん（66）",
@@ -390,22 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-26 07:25",
    "published_iso": "2026-07-25T22:25:27+00:00"
-  },
-  {
-   "title": "相模原殺傷10年 追悼式 共生社会へ 諦めない 「障害あっても、心生きている」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aZXdMT21WUW5uRVl0SFoyTS1Edjh3ajhJOUZBOTlDcHAxR3prLXBodE1XQWdxZm1pZDl4MzgtbUFncmt4VDFQaGFQMXIzSExfWWNCSTllNjdaMndCS3ItSGd3X2xqRU1o?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-26 05:05",
-   "published_iso": "2026-07-25T20:05:36+00:00"
-  },
-  {
-   "title": "米国：冷酷ICE 震える移民 米で摘発強化 相次ぐ射殺",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RS2hMRGt0RUFXUF80YVZRbU40OENOalBHVVN2aFlNS1VQYnJDMU0xaUxOdnoteFo3eVVlYWZiOGV6MlRIbUNxUUg4UVZ3UUxwdlljWlN1SENab0pkSzNwSHgxRG9qOXJW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-26 02:01",
-   "published_iso": "2026-07-25T17:01:41+00:00"
   }
  ]
 }
