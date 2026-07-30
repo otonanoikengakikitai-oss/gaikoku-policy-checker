@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T15:50:36+00:00",
+ "generated_at": "2026-07-30T17:23:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -26,7 +26,7 @@
   {
    "title": "AIで偽画像、「外国人窃盗団が」…熊本地震でもSNSで誤情報が拡散 専門家「いいねや保存も控えて」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yejJ5NHNqRm5ZcUlaZkVTeXc5TXBBYVVibWc1UGYtcFVVZ0hOQ0NWZlB5aF9JYUU2WGxMa1JfbVFuV2h2UnBjOFlKVmhIUHJuV2hPalB3?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-07-30 18:18",
    "published_iso": "2026-07-30T09:18:00+00:00"
@@ -90,7 +90,7 @@
   {
    "title": "熊本地震でベトナム人の技能実習生1人死亡 勤務していた工場でクレーンが落下し下敷きになったか ベトナム大使館",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzREVYeExnV1VDZGlWTmFOcG5oNUpUbE84Wm51N3pwZV9oVDV3UWs5dnNzcXZRVjFnZUdYbDVWYjZ4MDZ0dzZrYVVKd2ZlTWhEQXhZb2tMWQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-30 12:35",
    "published_iso": "2026-07-30T03:35:50+00:00"
@@ -248,9 +248,17 @@
    "published_iso": "2026-07-29T02:00:00+00:00"
   },
   {
+   "title": "趣里主演『大空港～GATE24～』、税関＆出入国在留管理庁【史上初】連名タイアップ！コラボポスター解禁",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Q1IyZUxKNmc2WnVFVmNrY2hpRG9PMVZ0X1NDdjVuUGhSQ3JKemhPMlNWLUxLeFNybVdFcGx6NVViamNSXy14MGJpeWNsaV9UMnfSAVdBVV95cUxPMENQYkgybjAxUjVublQ0Y2RQOVpNSmpmaXlFMHg3Tm5HWjhEOTVORGRoVV9LUzdTTHZ0SENKVzB4d2Y3YkJFdWlVVGZfYmt3aUR4cThhbWM?oc=5",
+   "source": "テレ朝POST",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-29 07:28",
+   "published_iso": "2026-07-28T22:28:51+00:00"
+  },
+  {
    "title": "ラー麺ずんどう屋流、外国人材が離れぬ職場づくり 課長で年収800万円の道も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUmVHc04yWFBvVTdRWWNvaEFTZWJsSVdTTnNaYjdma0N6ZlpNTGsxVnV6YzZSYWxwN2FxWGFyNFl4eGEzWVZaUEtrNFlpNkxjbnVkbWs5MVdNZGZreklOUHExTWxORFk?oc=5",
-   "source": "日経ビジネス電子版",
+   "source": "business.nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-07-29 05:00",
    "published_iso": "2026-07-28T20:00:00+00:00"
@@ -274,7 +282,7 @@
   {
    "title": "「ヘイトにNO！」署名20万5000筆超え 「多民族・多文化共生社会の方がいいという声なき声を示せた」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kaXdFRWpKMTY4TjRQNnZZNmtjcFhjLTdLTUpxREhRVEowOGdGY2NjcTlmOHpUaU5LVmM1bDJ0eUliOFl4QUZqeWpCTXlieUZOcG9r?oc=5",
-   "source": "東京新聞デジタル",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-28 19:48",
    "published_iso": "2026-07-28T10:48:53+00:00"
@@ -282,7 +290,7 @@
   {
    "title": "入管庁職員「年度内に226人増員」と政府が決定…「日本版ICE」を危ぶむ市民らが首相官邸前で集会",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WYk1GZDNScGt0MUtJR0xZOVozUW1QX2pSam9IX2RrVE5NTlNJMHduTG94TllvbUE5ei1KT3poNm5hZHFjQmpjd1JoeUVTeTBaZmQ4?oc=5",
-   "source": "東京新聞デジタル",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-07-28 19:14",
    "published_iso": "2026-07-28T10:14:08+00:00"
@@ -302,6 +310,14 @@
    "source_domain": "47news.jp",
    "published": "2026-07-28 16:56",
    "published_iso": "2026-07-28T07:56:00+00:00"
+  },
+  {
+   "title": "政府 入管職員226人の緊急増員を閣議決定 外国人の不法残留対策強化",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zX185eEd0Z1ZjeFdMWjNJLVcycURlblJnN00yaDU0MC1UQU5ZOWFXM0NXQ3gzVFp0STc3VDZFc2FiR2xIV28ySzF4aG5nYVhFNURXR3lRTTZ4STJyeTVfNnJLa0xYYl9SSE1NSGJXbFA1a0U?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-28 16:26",
+   "published_iso": "2026-07-28T07:26:11+00:00"
   },
   {
    "title": "永住許可の年収水準、外国の親族含む扶養5人以上で加算 入管庁方針",
@@ -390,22 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-27 11:00",
    "published_iso": "2026-07-27T02:00:00+00:00"
-  },
-  {
-   "title": "移民と社会：日本の血流支えるトラック運送 生き残りの「勝ち筋」は外国人材 [写真特集1/11]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fclBseGlWWFVmM3IzVExiUDlpMnV1djBVdUNlUzNxV2U3eTlJMnNPcEhDQnotSGIxZlpBYUI4TC11ZHpXU1ZCNjROak1tcnlCeGpEZlhJaGJaSlgzVV9Rc2NrY2ZyZw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-27 11:00",
-   "published_iso": "2026-07-27T02:00:00+00:00"
-  },
-  {
-   "title": "外国人労働者、長く勤めてもらうには ２７年度から技能実習→育成就労、転籍しやすく",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjY2JRS2tQUWVETnNEcjFoeXQwc1l2dERxNkUwV3NMZWxvYUF5YVFBcVBfRzNNdEwtUVMxd1NmWGh5bWo1TENnd3ZuNF92Qk1PeXRzcTY5N2VScERk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-27 05:00",
-   "published_iso": "2026-07-26T20:00:00+00:00"
   }
  ]
 }
