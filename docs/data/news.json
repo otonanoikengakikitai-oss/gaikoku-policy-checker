@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T11:05:38+00:00",
+ "generated_at": "2026-07-30T15:50:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "7月31日 ユダヤ難民救った杉原氏死去 1986（昭和61）年",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fUmktSjNtaVlvOU9GVUZHaGpjWnJXS0NIalVTUTdOZElwUzdhbFpYUjhpVEprcFZTa3lRMkJCeXZRc0VPaUhrZndaUXBTM2x6ZDVUQ0d3R1I?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-07-31 00:00",
+   "published_iso": "2026-07-30T15:00:00+00:00"
+  },
+  {
+   "title": "南太平洋の島国ナウル、「ナオエロ」に改称 外国人の発音間違え由来の旧称から脱却",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcmdENS1pVlIzUDFTUlJvN2tsV21PM1hiR0Ffcmdmb19jUzIwSnVSb1ZYeTZmTDZpUU9NenlDWXFxRU5JdUNjaGp0UU5oRWxEaC1YaDlhNDR1d0plUFZYVm8xclNVLURmVk91RFdLTWdMRlcybGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-30 22:36",
+   "published_iso": "2026-07-30T13:36:32+00:00"
+  },
   {
    "title": "AIで偽画像、「外国人窃盗団が」…熊本地震でもSNSで誤情報が拡散 専門家「いいねや保存も控えて」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yejJ5NHNqRm5ZcUlaZkVTeXc5TXBBYVVibWc1UGYtcFVVZ0hOQ0NWZlB5aF9JYUU2WGxMa1JfbVFuV2h2UnBjOFlKVmhIUHJuV2hPalB3?oc=5",
@@ -40,28 +56,20 @@
    "published_iso": "2026-07-30T07:24:21+00:00"
   },
   {
-   "title": "【外食業界の特定技能1号・受付停止を受け支援強化】ワールドインワーカー、外食業分野 特定技能2号評価試験対策セミナーを毎月無料開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wYWJIZVhtTEVFSU16R2Z0TUxtQnl0bHJUSTFkaW5mQnVRXzNpSkdiLXhLRXhoTFRnMUZOVEVRaWhhQnR0ZXd5bzAyUUE4YU9JZHIwaHRCU3MyLW54RHFIbUlldjdaVmI1T0dJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-30 16:15",
-   "published_iso": "2026-07-30T07:15:00+00:00"
-  },
-  {
    "title": "外国人漫才王、出場者募集 今秋、東京で決定戦開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EeDRkaHR3REF6X3R6bGpfc2tTdEFVSXRXOU14OGFDa1Z2aG9CYUI0c3R0QXVlaWFMWXBRejFwR3VJMWo1Z2tkbm03NFg3eFl2YmZHMWlHVFNZMzB5ek8taDlQVGVabUJTZHM0?oc=5",
-   "source": "shinmai.co.jp",
+   "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-07-30 16:12",
    "published_iso": "2026-07-30T07:12:12+00:00"
   },
   {
-   "title": "訪日外国人旅行者が訪れる「吊り橋」を分析",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OTUFBcjVaNXg5QVMwY0dfR3k4d2o3bmVyQ09UanVJMzd6VFI5eHJKYUpQWTRBWWJsaE1sTzk1TWhJY29oTXp1YWNjYWZTV1k3U1VGV0NMQjFMRUVQVWM4ZEZ1YXY5VS1zLTlF?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-30 14:46",
-   "published_iso": "2026-07-30T05:46:00+00:00"
+   "title": "外国人漫才王、出場者募集 今秋、東京で決定戦開催|文化・エンタメ",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzB0eVBPTXI1bDZrTnFvRWZvWlZVcGVsUDRCYTRpV3FXS1laZ0tzemtQOHgzMnVnUlBBTC12VE82bkVJMG13TmVlLW9kZ2RoSnAxUkwta0lTX1pUS2lRaklLWUVKdnhsVmhobTVqQ0ZWUDdoQWMwOGVTMURHVWZneUt3?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-07-30 16:12",
+   "published_iso": "2026-07-30T07:12:00+00:00"
   },
   {
    "title": "滝上町で若者交流イベント「FOREST」 外国人含む60人が芝ざくら公園で交流",
@@ -88,6 +96,14 @@
    "published_iso": "2026-07-30T03:35:50+00:00"
   },
   {
+   "title": "大阪市の人口増、外国人住民が押し上げ…「社会増」の７割",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PbUpzUWV0SFlURlNEYVZQa0s3SFZNWC1ReVNLVmJPRDdObXh2Uzl2V3pGWGU3aFhYcTE3T3JSa084amRmUU1iR1NJOGJrYVNYNDJHakRfZ2R1bmpncko0UFFtWWx6WTFOTnJrNE0zMUpFZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-30 12:05",
+   "published_iso": "2026-07-30T03:05:00+00:00"
+  },
+  {
    "title": "多国籍化する外国人、多岐にわたるニーズ 日本語教育「善意と熱意」では限界も、「長野県が音頭を」",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyMHh2T3dHYVA4WE1XanJTOFo0YmtGdlJiakp6Z0E3WDdGd0g2R1FYRFJXUGFGY0pSOXo0enE2Q3FuRUZnRkV0UUlOQ0RheW5uRUtmLQ?oc=5",
    "source": "中日新聞Web",
@@ -104,28 +120,12 @@
    "published_iso": "2026-07-30T02:06:35+00:00"
   },
   {
-   "title": "外国人増踏まえ活動再開し協力 双葉地区雇用者連協",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcnNkczZDMGpYdVNFVHpHYVFPU09sYnN0N05VcnRmSlp6VE5tUzVMbG8wOW52R2RvVnRtRjNCOG5odGxYZmhTejNOaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-30 11:00",
-   "published_iso": "2026-07-30T02:00:00+00:00"
-  },
-  {
    "title": "岐阜県人口１万６０３９人減、１９３万５２５３人…外国人住民割合４．０６％ ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TldwYjZtYUNUTkctdUN3ak90Q0V0NFBCUVR3bHFWTFBZSUdfOEY5U1YtTWc2UGY2OG5mdlF3VXRwWnl4UXV1N2FtMTVPYnRzWUlBRlpmZWtRVHBxMUJvcTYzajlGRWZtcEhxT0wwVW0?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-30 10:50",
    "published_iso": "2026-07-30T01:50:00+00:00"
-  },
-  {
-   "title": "無人駅にタッチパネル…障害者を生きづらくする社会構造 共生社会の実現へ、全盲の弁護士・大胡田誠さんの考えは",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpd25XU0tub3p3YVVJS1gxcTlqNTRDWlR4T2ctcGZqTUx3N3pZdTFuMEFLS3lzOGNyc3AwLTVYU2hUWUtIblBsSmpUbWhvbFhGRHpnN1IwUjNyVGhNcmEwaEtkUFc?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-30 07:12",
-   "published_iso": "2026-07-29T22:12:27+00:00"
   },
   {
    "title": "外国人人口、全都道府県で増加 転入者が過去最多―住基台帳",
@@ -184,6 +184,14 @@
    "published_iso": "2026-07-29T12:53:37+00:00"
   },
   {
+   "title": "東海3県の外国人、8%増の49万人 総人口は微減で1113万人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wWjBvaGVsM0JkUUswLXpDVEtPdDRUa3dBOGM3RXd2S1JiSkVuSm4wZEZNRnM2QW1GMll4T2hwblg0b2hicGNkVVBnNEt0ZWhjRkZMeVgtT0lRQ3lNWC14dVpVb2FsOHZPcG1Dcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 20:04",
+   "published_iso": "2026-07-29T11:04:52+00:00"
+  },
+  {
    "title": "日本の人口減、外国人労働者が和らげる 国外から転入72万人で最多に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55Tk02ZUJENkdaMHJlRFNhOGFHcWo2RXBOQWMxYmdrR2MwSmZoejl6akVNZ2VwYWdONXZzclp4N01DTUhta2VlSzZ4SFcxbUtCNUU3TUFSMUFaQmlYZHRSMW9JZ0hyWFo3QXZhdg?oc=5",
    "source": "日本経済新聞",
@@ -192,8 +200,24 @@
    "published_iso": "2026-07-29T09:15:00+00:00"
   },
   {
+   "title": "山梨県の人口、0.8%減の79万人 外国人比率3.1%に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONHZ3ZVhwS2x6MU9MZXNnTmhYeVF6OFVWZFNTX3RaWVlJSllqTmtPQzRQYk9YYXFZQndnVkYyRGRkT3c5SVREYUhLbGxTQUFWUDl3a3ZZdllhZVJweFN0ZXRCN2wtSHJWM2hGRw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 17:54",
+   "published_iso": "2026-07-29T08:54:03+00:00"
+  },
+  {
+   "title": "大阪府人口6年ぶり増加 外国人転入超過が1万人増、自然減は全国最多",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50eDREVF9Ra3RDN2ZWT25HZTZ5bWhnWVJHdTc2ZFhmQl9NbHNmZkU1cEt6ZzNibDhqOFd6U2R1bHdDZ2pKYU14c3hVbTh2X2w2dTVlMzVjaURPTlc1Yk9aLTJwODZKenZpTGE2Nw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-29 17:30",
+   "published_iso": "2026-07-29T08:30:00+00:00"
+  },
+  {
    "title": "日本人、１億２０００万人割れ 過去最大９１万人減―外国人４００万人超・総務省",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YY3ZtTnFTaGhHbjg3ZmdZVFBnU3VwOW1wZkxKRzBZSThaRVVnQjgtQk02TG5jREp1MEZfbjBVUnBpeUd1Z0NUMUR3N2lSb2RKTzVhdHZHZkhZZ2Q4WHV6UjNRMA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanhwdG9JSW5kZHNWQi1NWWZaMHR1OTNac0syMlNCcEI2RUlQUHgzajdyZU52RFI4WXM0aFJIem5OTHZXMEo4endLRHNTem12VVhRZzBDUWdIU25ldVpWajdRZUVCbEFHMnpmellKbHJqZWUyOXZzc00zM0Vvbnp3eWxn?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-29 17:11",
@@ -226,7 +250,7 @@
   {
    "title": "ラー麺ずんどう屋流、外国人材が離れぬ職場づくり 課長で年収800万円の道も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUmVHc04yWFBvVTdRWWNvaEFTZWJsSVdTTnNaYjdma0N6ZlpNTGsxVnV6YzZSYWxwN2FxWGFyNFl4eGEzWVZaUEtrNFlpNkxjbnVkbWs5MVdNZGZreklOUHExTWxORFk?oc=5",
-   "source": "business.nikkei.com",
+   "source": "日経ビジネス電子版",
    "source_domain": "nikkei.com",
    "published": "2026-07-29 05:00",
    "published_iso": "2026-07-28T20:00:00+00:00"
@@ -352,25 +376,9 @@
    "published_iso": "2026-07-27T19:00:00+00:00"
   },
   {
-   "title": "高市早苗首相「外国人に対しフレンドリーでないイメージ持たれないように」外国人政策巡り",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vRmpWUGhPSEtJeXg0YmpJcWVuekthM2dMa1BFZFRIbDlIcktvQXA5RHZyTng5YnZyeDlHeVFDTzVqRXlNTzYwaC1qMDJ6U1ZjSm53cG1Wcm82Y1hFQmE1OEJ4UHNWTUlNVlljMm96cEw3MUtpV3c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-27 20:00",
-   "published_iso": "2026-07-27T11:00:43+00:00"
-  },
-  {
-   "title": "【ミニ・タカオカ解説】ドイツ・ベルリン“パレード襲撃” 「性的マイノリティ」イベント標的か 犯人は保護観察中のイスラム過激思想者 移民問題と社会分断への影響は？",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNVBNRk1lRVNjUkZ2emVyd3FVYUp2MWxEcUFqMk5NWUpQQXA0YXRNaXpDSEJqVEN3RXNJYmkzZVRmek1Xc2FDOHNmcDRYdTdBRUlKMzBHQzRQY1hYMzhGNzZvQUtEMGw1a3JkbjllR2U0VHB1WGVPZGVjbFp6cTJuMHM2blJZNW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-27 18:22",
-   "published_iso": "2026-07-27T09:22:01+00:00"
-  },
-  {
    "title": "｢多文化共生のまち」実現へ 箕輪町が推進計画の策定委員会を発足",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVXZFaTUtVXpITXlrZG9DbXdEWXd0UjA5Zng0M1A2M2RodlFHNXdYTWpIRl9wNmlnZXpCcnJMTVFjRE5QQnowMGtXQWR0VEFVaHY1a1dobXBWREFjbHk5NHljbWlVMlNnUGZhZVo1aFM?oc=5",
-   "source": "shinmai.co.jp",
+   "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-07-27 18:19",
    "published_iso": "2026-07-27T09:19:00+00:00"
@@ -396,14 +404,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjY2JRS2tQUWVETnNEcjFoeXQwc1l2dERxNkUwV3NMZWxvYUF5YVFBcVBfRzNNdEwtUVMxd1NmWGh5bWo1TENnd3ZuNF92Qk1PeXRzcTY5N2VScERk?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-07-27 05:00",
-   "published_iso": "2026-07-26T20:00:00+00:00"
-  },
-  {
-   "title": "経済不振続く南アフリカで相次ぐ移民襲撃、失業や格差など不満のはけ口に…５月以降１６万人が帰国",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95VTJDRDFKTElPYW0xQ3lHeWVrNjVsRjczV3BhYVhPUWk0VllveXZFbHE1WEI2Q3pXOHpQRENzRGhWZXA0NzkwbjYtTERyejlIM0VRMHZXRU9kMmZTMXVWVEtB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-07-27 05:00",
    "published_iso": "2026-07-26T20:00:00+00:00"
   }
