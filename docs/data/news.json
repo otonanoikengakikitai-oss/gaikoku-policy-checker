@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T21:06:14+00:00",
+ "generated_at": "2026-07-30T23:03:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "北アフリカのスペイン領セウタにモロッコからの数千人の移民流入",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhNTRCSHRRS1pKY3FrSVhhRExIOWwtSy1YbzVhbWU3cWtYalFPcS1HbEU4aTA4X29hWHpvUTFNckdyTmJJZDVpQTJPSTRsMzZMcURSWFF3WQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-31 06:20",
+   "published_iso": "2026-07-30T21:20:37+00:00"
+  },
+  {
+   "title": "外国人労働者をつなぎとめたい 変わる地方企業 「育成就労」に備え",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvM1RmbFl2UmVkbFhpSnYtaFV1SDVBYlpqLVlTbTZGa1g4N2E5dUtTamgwRlgzYnVzel9iMWV1bHoyUUhhaDBEcmZ3ODNrV0NyRmV2MzVGNmVUZy1od3Rpa0hKblgwbjA?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-07-31 06:10",
+   "published_iso": "2026-07-30T21:10:00+00:00"
+  },
+  {
+   "title": "熊本地震で「外国人犯罪が増えている事実ない」のに、なぜデマが…大災害時に繰り返されるヘイト、防ぐには",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oTHRVSHhDTmRPekJBaG9oMDZBLTlucGxrRUhYX00yaXMyYWZxRGF2NlhMZFVONHRZNWlnUW9DNVNLbzY3VE1NWXByWmltTWEwY3Y4?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-31 06:00",
+   "published_iso": "2026-07-30T21:00:00+00:00"
+  },
+  {
+   "title": "外国人職員採用の三重県民アンケ設問は「差別」 諮問機関が判断",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JcGV5ektxN3hJaFpyVmRnSWdONU5Edjc4bVhVUXlzNzdTUFd2YS1YbzgwMWJzN0x5ZVZtbldUMV83Z3J0TVVjeVk3aGlqNXROYWt0NFpOTlBpenc4SXpuTlZSOG9JaGRV?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-31 05:30",
+   "published_iso": "2026-07-30T20:30:00+00:00"
+  },
   {
    "title": "農業の外国人材高く評価 受け入れ例を紹介：日刊県民福井Web",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yeXJEWFJ5ZFBCYThTRGJkMUR6OVY4Y3NibGJzQ2p5RE5ES1JvRFhJaVp6c2VTeVFCMUQwV3JHbzJGZm1ubGw0N2NTMlh1bUlkVFZvNmhmWUtPWjg?oc=5",
@@ -96,20 +128,20 @@
    "published_iso": "2026-07-30T07:24:21+00:00"
   },
   {
+   "title": "外国人漫才日本一を決める新大会がこの秋に 「外国人漫才王決定戦」出場者募集",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yNFBLWTdVQWNmbFVYY2VhbllNTjNvaTRIcktxUWNyOHh3QmlyMlgtbld3QmNNa0pQSV9nT3F4bjA5VWtmX2pLcGNSaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-30 16:17",
+   "published_iso": "2026-07-30T07:17:45+00:00"
+  },
+  {
    "title": "外国人漫才王、出場者募集 今秋、東京で決定戦開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EeDRkaHR3REF6X3R6bGpfc2tTdEFVSXRXOU14OGFDa1Z2aG9CYUI0c3R0QXVlaWFMWXBRejFwR3VJMWo1Z2tkbm03NFg3eFl2YmZHMWlHVFNZMzB5ek8taDlQVGVabUJTZHM0?oc=5",
    "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-07-30 16:12",
    "published_iso": "2026-07-30T07:12:12+00:00"
-  },
-  {
-   "title": "外国人漫才王、出場者募集 今秋、東京で決定戦開催|文化・エンタメ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzB0eVBPTXI1bDZrTnFvRWZvWlZVcGVsUDRCYTRpV3FXS1laZ0tzemtQOHgzMnVnUlBBTC12VE82bkVJMG13TmVlLW9kZ2RoSnAxUkwta0lTX1pUS2lRaklLWUVKdnhsVmhobTVqQ0ZWUDdoQWMwOGVTMURHVWZneUt3?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-07-30 16:12",
-   "published_iso": "2026-07-30T07:12:00+00:00"
   },
   {
    "title": "滝上町で若者交流イベント「FOREST」 外国人含む60人が芝ざくら公園で交流",
@@ -122,7 +154,7 @@
   {
    "title": "1週間で120本の電柱を… ハンセン病療養所にいた「外国人」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NaE1NTlNVcXVHaVl1d1NBZVpxUE5RaEZtZFhFakt6ZUxPNmtKbVFsWjdsTWVDR0V5WnlaTkFLZkh3emxVTWNIYXVQSlY2NEhBYi1JbXBSS21QY1k1b3BVSlh5TjBiT2Fs?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-30 13:15",
    "published_iso": "2026-07-30T04:15:00+00:00"
@@ -130,7 +162,7 @@
   {
    "title": "熊本地震でベトナム人の技能実習生1人死亡 勤務していた工場でクレーンが落下し下敷きになったか ベトナム大使館",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzREVYeExnV1VDZGlWTmFOcG5oNUpUbE84Wm51N3pwZV9oVDV3UWs5dnNzcXZRVjFnZUdYbDVWYjZ4MDZ0dzZrYVVKd2ZlTWhEQXhZb2tMWQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-30 12:35",
    "published_iso": "2026-07-30T03:35:50+00:00"
@@ -186,7 +218,7 @@
   {
    "title": "「多文化共生＝地域の未来」 水戸・情報交換会 ／茨城",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Q2NSRm1la0FScFd6ODRiTTlSMmFHQ2x5WklBSDZqclY4Ti1id1QzMXhZaWpNNXl4SnhybHRPRGJwMlNLakFsUXJmLWRQQmhmRnduUlkxQWR2Q3pZbnBmVm9UVWZTOU83?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-30 05:01",
    "published_iso": "2026-07-29T20:01:41+00:00"
@@ -266,7 +298,7 @@
   {
    "title": "「日本選ばれないかも」免許厳格化に懸念も 来日前教習に熱視線",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50R0lUSWxXazdTRzlPYkFQLUpHd3g5VkpuWk4tbXBzbmo4c2dFeVVpWGxSd3Vic3pQNFZMSEp1ODlXLTJyZERJTGhadWFoZk5JX1N1bVBURU85aVNCNjBhc3lQTjdEeF9G?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-29 11:00",
    "published_iso": "2026-07-29T02:00:00+00:00"
@@ -374,38 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 12:00",
    "published_iso": "2026-07-28T03:00:00+00:00"
-  },
-  {
-   "title": "移民と社会：ドライバー上限「大手動けばすぐ埋まる」 危機感抱く中小の戦略",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PenNLamZlWWhza0RBNmFnV1J4cnpZTkJmbnZxUTNMQ202MWJBa054eE1JNE9XS1hiSE9LV3RNN1Uzc2wyajgyMVNGWkVBVkwzZDNnUDRodlNZVEhvdDdTcC1PMkJld3pU?oc=5",
-   "source": "mainichi.jp",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-28 11:00",
-   "published_iso": "2026-07-28T02:00:00+00:00"
-  },
-  {
-   "title": "介護の将来見据え、外国人材を積極活用 現地へ足運び親と面談",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVnFFSVp6bWJwN1RlMnUxYzRjVXFzQnFRcERKVnBieVlTeHdmXzZlb0JPZGNOSEs4TzdZaEJlOFFEUFp4c3RXY0tSbGoydzN6cFIxQTZCZm1LX1k0T1cyNnVCMVR0RlFLay1mNg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-28 05:00",
-   "published_iso": "2026-07-27T20:00:00+00:00"
-  },
-  {
-   "title": "（社説）日本語学習 選別でなく共生のため",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmTUd3UXEzLWVkMDBUWm5xWThWT0piRzczZ2Q1cnhtNy11anZVa3pXUTZSaTFYY0tVOVVlaUhQSjdSUmVmWWsxc1F4T0l6cHNDTFdnWmhsOWhOa3ct?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-28 05:00",
-   "published_iso": "2026-07-27T20:00:00+00:00"
-  },
-  {
-   "title": "覚醒剤所持容疑 技能実習生の男再逮捕 エアコンフィルターに隠す 茨城県警",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYUpPMmxOUkFGUGtnUlI3MGJnNmtDZ2FvSlRTLXF2c1dMTWttSkwxbGZkQ29ROFhmZFhJQWJnODZ4djZ5Q3VrYV9TUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-28 04:00",
-   "published_iso": "2026-07-27T19:00:00+00:00"
   }
  ]
 }
