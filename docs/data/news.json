@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T18:18:22+00:00",
+ "generated_at": "2026-07-31T20:18:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
+   "title": "外国人の受け入れどう変わる？ 転職が可能に、人数増は限定的",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 05:00",
+   "published_iso": "2026-07-31T20:00:00+00:00"
+  },
+  {
    "title": "不法移民４万人超、スペイン領に殺到",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tV201QnVpek5iNUpaQWt3VnRIYnA1WFpsQjMzUUtCSTJfS0htaWZKU29FclpoWmdhd2F1dW55ZG12R3JsYk4wOVY4S2cyYzhRWkd1dnNoN0hUN21FLTFXV21sdUo?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-01 03:03",
-   "published_iso": "2026-07-31T18:03:11+00:00"
+   "published": "2026-08-01 04:33",
+   "published_iso": "2026-07-31T19:33:11+00:00"
+  },
+  {
+   "title": "不法移民５万人、スペイン領に殺到",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUbnoxQzRwd09UZ21aTDdXNjMzVmZoVERVVFhELXU3MkdoMGs2aVRCaWJLWmMzVW4yQzR1V3pJTWpGNlNfNUY5UnNXaE9IVXIxZVVHbmdWVkhZenFfNDdteFN5SGs?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-01 04:02",
+   "published_iso": "2026-07-31T19:02:59+00:00"
+  },
+  {
+   "title": "北アフリカスペイン領への移民、4万8000人超がモロッコに帰還",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdHBXeXhGNGEtb0xiVUhIUnlwckNaTHQtVEhqeFVRNWp0ZnMxQURjZ05BdlVoYzhJQ3NlUzdsNkEwcEpvQzdrYmoyYUNKeTlvOUZwRDFpSnhqaGl0NGMtTUZEcjBhZGJRc0EwSA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 03:24",
+   "published_iso": "2026-07-31T18:24:19+00:00"
   },
   {
    "title": "モロッコからスペインに約5万人の不法移民が海を渡って流入 少なくとも57人死亡",
@@ -34,13 +58,13 @@
   {
    "title": "スペイン領の飛び地へ…モロッコ移民約6万人か スペイン政府は軍隊派遣し沈静化へ",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2lwRkJEbGtNZFpXcmNKYnhBandRcl9PZG1lT21RbV9IdDM0aTdNUGozWlJZWkl5LUktM3FMbGg0MHRhcm5QYkpnUC02dzJpVktMVmtkbjRFdDZlMVZCVXBEbFNYWUhGYWpHUmxSSFJ0OU5FZkxnUWdHWkN5OGVlZUZ5NVU?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-01 01:05",
    "published_iso": "2026-07-31T16:05:00+00:00"
   },
   {
-   "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから流入で",
+   "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから大量流入",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWnlIYktPRm5MLU40MFBBWkNRWXZKWG5nNnBDUjd1aVdCM3pvajVzcTNSLURhNDE2UDYzRTBQWHNWNDhMOGl0SjB1NzJkSllLWllITE9vNTBLQWNEdDVZSTFfZm82SER5N2NwcVRzdXZTU2h6c3c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
@@ -56,20 +80,12 @@
    "published_iso": "2026-07-31T15:40:21+00:00"
   },
   {
-   "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
+   "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）｜日テレNEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-01 00:18",
    "published_iso": "2026-07-31T15:18:00+00:00"
-  },
-  {
-   "title": "外国人の「永住権」取得の要件厳格化へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbGZTMVBONVk5ak0tRi1VNnZvZEJOaEFfWDFLRzBMMlFTT0d3YVhJNjNIazJGLVdfd3ZPWWlLdklCWjlNWkQxNURZaVhPSXFpSWs5bDI5X1g1elo4a2JILTVPeFdQal9vUmFJU1czaU1Lczg?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-31 22:11",
-   "published_iso": "2026-07-31T13:11:38+00:00"
   },
   {
    "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
@@ -130,7 +146,7 @@
   {
    "title": "【密着】渋谷の手荷物預かり所 スーツケースの中にイス？ 多くの外国人観光客の姿も【気になる！】",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01Nlg1Wll2OVBkMll0RXNBajdSOXR5ZDh4VnZSWnM4bzdxYjJOOXdVdXlzSHR0UnB3VjFmUW5tZy12S3o3dThvSnZ4eHVsN0RoRXNBQ2s1VWZfUi1tNkFuUUpwaWh2VnN5NjhIWnVwQkVJdmF1Wk5uTDZsc1A?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-31 20:14",
    "published_iso": "2026-07-31T11:14:00+00:00"
@@ -158,6 +174,22 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 19:17",
    "published_iso": "2026-07-31T10:17:41+00:00"
+  },
+  {
+   "title": "「外国人の職員採用を続けるべきか」県民アンケート質問 県の諮問委員会が判断「差別に該当する」 三重県",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGo5ZlRSTktLbTExRy01RkFmVHk0YjB3ZEZpeHBDamVfQ2JKSlllNHE2TTFRcGxHaDVWR3pQdVQydndxVG1CZnJBQXRGVktWQmVIWkpKQnJHVkVRREZueXE5bFIxUU1sNWR4bjRqZFNsalkzRTZNU0xfZEEtUjRlMGFiOWRlbVk?oc=5",
+   "source": "news.ntv.co.jp",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-31 19:16",
+   "published_iso": "2026-07-31T10:16:00+00:00"
+  },
+  {
+   "title": "南太平洋の島国ナウル、国名を現地語発音に基づく「ナオエロ」に変更…外国人には発音難しく「ナウル」広まる",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91TURMWkFJZXoyX2RLV3NxZGxPNjdzNkdLbjZWbFFuQU92ZHJhbmNRdjdmbGl4T2tobk1zMXRTeE5iTm9nMFI3UHdDMjJzVjFhOFYzdVJnc1FlUUtUeWlLQUlR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-31 18:16",
+   "published_iso": "2026-07-31T09:16:00+00:00"
   },
   {
    "title": "移民大国ドイツが悩む「1年生の壁」 言葉通じぬ子に小学校苦闘 企業支援の語学教室も",
@@ -288,6 +320,14 @@
    "published_iso": "2026-07-31T02:36:32+00:00"
   },
   {
+   "title": "◎外国人の社会適応を促進＝入管計画７年ぶり策定",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05NHNJWG1VeEJYcVg2bFlxZEFTZDVDVWxCZWFCZXNtRl9oUmxKeUZSVGZZN1FiMlhKdmFWd2hTV0p4OGtEX3hNVXZUOW9MME1XbUtiZA?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 11:20",
+   "published_iso": "2026-07-31T02:20:00+00:00"
+  },
+  {
    "title": "楽しみながら英会話に挑戦 外国人の指導助手と「生きた英語」堪能 ネームプレート作りやゲームとともに",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvcUEydGozYm5xcEM2UzZwNmVLTVlaWlVobndyNHRBYnU4WUM3NEViN25iaFRCYTlGOEozcjVMT0ZRaEZ3ejdlTHNudEhvZw?oc=5",
    "source": "FNNプライムオンライン",
@@ -366,46 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-31 05:05",
    "published_iso": "2026-07-30T20:05:00+00:00"
-  },
-  {
-   "title": "＜街かどネット＞技能実習生対象にパークゴルフ教室",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMnBRRi1nVHNwVHhJRnFJUm9mSG1BRmlDaGZScmx0bE1UdG9BUTVmdXcwNXRvOElFYjRQVWt6RTIxUDU2VlZnVVNhLThEcVZNLXZBSU0zRE1lQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-31 05:00",
-   "published_iso": "2026-07-30T20:00:00+00:00"
-  },
-  {
-   "title": "北アフリカのスペイン飛び地に数万人流入 海を泳ぎ越境、施設パンク",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43M25XZU5GMGJMQUZaZ3dZM0VtTy1ZNWtKYWs0RzJtdHFscDF0VFN0elpLTFU0VXQwYXdRbmN3aUVWLVdMeEstU0w3a2RQTDd1M1FKS1VBd0tnTGFRT0M5N2tMcTJvc0k?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-31 05:00",
-   "published_iso": "2026-07-30T20:00:00+00:00"
-  },
-  {
-   "title": "マックス、鉄筋結束機に海外から引き合い 北米の移民政策が追い風",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OQU5KbFlpTE5QV3JvT2VlWDBBc1htZWJVZk9rOGJQNGoyd3dkcVJKdWpEZFJqek5nTW5wcE12RzJza2xDY0YzQ0xyVFRoMG9ETUJrUmVDTE9hRFoxR3Zick9ZNTVtMjRHMmlNQmd3dzc1ZWtUVUNCbUJVTXBEdw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-31 05:00",
-   "published_iso": "2026-07-30T20:00:00+00:00"
-  },
-  {
-   "title": "南太平洋の島国ナウル、「ナオエロ」に改称 外国人の発音間違え由来の旧称から脱却",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcmdENS1pVlIzUDFTUlJvN2tsV21PM1hiR0Ffcmdmb19jUzIwSnVSb1ZYeTZmTDZpUU9NenlDWXFxRU5JdUNjaGp0UU5oRWxEaC1YaDlhNDR1d0plUFZYVm8xclNVLURmVk91RFdLTWdMRlcybGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-30 22:36",
-   "published_iso": "2026-07-30T13:36:32+00:00"
-  },
-  {
-   "title": "育成就労制度で“転籍”可能に 地域あげて外国人材定着へ 愛媛",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14LTJzcVBONW0zbmR1X0lpMWUtZmxiVWJxbnl1ZGstalZmdk5iOTE4c2VxQkZiVnVYaTh1dTVZU053WjZzRkR3T2VDRVBsZzBrMlpFSi1NR0FZWUdxdXV6T21rZjNmLU83?oc=5",
-   "source": "nhk.or.jp",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-07-30 18:40",
-   "published_iso": "2026-07-30T09:40:38+00:00"
   }
  ]
 }
