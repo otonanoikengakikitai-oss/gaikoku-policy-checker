@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T23:03:50+00:00",
+ "generated_at": "2026-07-31T02:35:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "◎外国人の社会適応を促進＝入管計画７年ぶり策定",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05NHNJWG1VeEJYcVg2bFlxZEFTZDVDVWxCZWFCZXNtRl9oUmxKeUZSVGZZN1FiMlhKdmFWd2hTV0p4OGtEX3hNVXZUOW9MME1XbUtiZA?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 11:20",
+   "published_iso": "2026-07-31T02:20:00+00:00"
+  },
+  {
+   "title": "三重県のアンケートは「差別」、第三者委が答申へ 外国人採用の是非尋ねる設問、結果の非公表求める",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oa1Y5OXQxUDNRM0JYV1BBODZ5Y1Z0RkFrb2lpRzUtcjRmVEVWR2VGYzkwb3pHWnU4VXFoOFB3YUxlbEJzYkdiRC1TNXVzSGthWUZnUQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-07-31 10:39",
+   "published_iso": "2026-07-31T01:39:46+00:00"
+  },
+  {
+   "title": "「国境が完全崩壊」モロッコ移民数千人越境 スペイン飛び地、秩序回復のため軍派遣決定",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MY3phLXMxUWNaWklhcFdKVHcxRjlTT0p6NUllZmxYVHRmY1pVMUpSeVRoUFNsa2tHdDRQekNrTDY2NDhrbUI5Qmh3eW52ZTdvdnFEdjVYWWV4aWk2UDlmYlBVazZCSnpua2d5YjZRVzdUVklzaWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-31 10:30",
+   "published_iso": "2026-07-31T01:30:36+00:00"
+  },
+  {
+   "title": "モロッコから泳いでスペイン・セウタに渡ろうとする移民＝30日（ゲッティ＝共同） - モロッコ移民数千人スペイン領に 国境フェンス突破、軍派遣を決定 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yOEJsNzBkYnEyWWNZajN5REt1NDQ2c3V4Ui1sOVh6dVBZZ2NxY1JGRmFzalpwY092YTdfY244YXNOSHpQTlYwMjA4ZVRWN2ZmN0steUk4QQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-31 09:36",
+   "published_iso": "2026-07-31T00:36:14+00:00"
+  },
+  {
+   "title": "モロッコ移民数千人スペイン領に 国境フェンス突破、軍派遣を決定",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aQmwtX0lkMlFTZGlQa08zQ29PeVpLcnM4N3VIN2k2N1BhU1VMN0xpNmQ4WG5GeU1ub1MtTC00eS11b0I2T3QxRzZaSXQ3ak85XzEzUGZB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-07-31 09:14",
+   "published_iso": "2026-07-31T00:14:23+00:00"
+  },
   {
    "title": "北アフリカのスペイン領セウタにモロッコからの数千人の移民流入",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhNTRCSHRRS1pKY3FrSVhhRExIOWwtSy1YbzVhbWU3cWtYalFPcS1HbEU4aTA4X29hWHpvUTFNckdyTmJJZDVpQTJPSTRsMzZMcURSWFF3WQ?oc=5",
@@ -90,10 +130,18 @@
   {
    "title": "医療の未来を考える高校生・大学生サマープログラム― 外国人患者の言葉と文化の課題。患者を支える仕事を学ぼう ―",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wR0JOTjRuT0o3eWlrMHpyNEFGamlpdVNQeXBucFJRZ1liS0N1Uk1neTdqalQ5Tk44WHF5bTFuLXozWlpSTFdwZ3N4ZFhkMVQzT192RGthSEgyLVUzaGZCVzJXakNXdnNMaEM4?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-07-30 22:10",
    "published_iso": "2026-07-30T13:10:00+00:00"
+  },
+  {
+   "title": "育成就労制度で“転籍”可能に 地域あげて外国人材定着へ 愛媛",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14LTJzcVBONW0zbmR1X0lpMWUtZmxiVWJxbnl1ZGstalZmdk5iOTE4c2VxQkZiVnVYaTh1dTVZU053WjZzRkR3T2VDRVBsZzBrMlpFSi1NR0FZWUdxdXV6T21rZjNmLU83?oc=5",
+   "source": "nhk.or.jp",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-07-30 18:40",
+   "published_iso": "2026-07-30T09:40:38+00:00"
   },
   {
    "title": "AIで偽画像、「外国人窃盗団が」…熊本地震でもSNSで誤情報が拡散 専門家「いいねや保存も控えて」",
@@ -144,22 +192,6 @@
    "published_iso": "2026-07-30T07:12:12+00:00"
   },
   {
-   "title": "滝上町で若者交流イベント「FOREST」 外国人含む60人が芝ざくら公園で交流",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VEcxQ1hpQnU5cHhLSDdfTVhOWlVUdFpNR2tPSFJCaXJlWXJNb0NheS1yR0prbl85QXFWbnRsRU5CNFdyTXBkbHJsdDJGUlRvX2FVU0ZHLUFHZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-07-30 13:21",
-   "published_iso": "2026-07-30T04:21:01+00:00"
-  },
-  {
-   "title": "1週間で120本の電柱を… ハンセン病療養所にいた「外国人」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NaE1NTlNVcXVHaVl1d1NBZVpxUE5RaEZtZFhFakt6ZUxPNmtKbVFsWjdsTWVDR0V5WnlaTkFLZkh3emxVTWNIYXVQSlY2NEhBYi1JbXBSS21QY1k1b3BVSlh5TjBiT2Fs?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-30 13:15",
-   "published_iso": "2026-07-30T04:15:00+00:00"
-  },
-  {
    "title": "熊本地震でベトナム人の技能実習生1人死亡 勤務していた工場でクレーンが落下し下敷きになったか ベトナム大使館",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzREVYeExnV1VDZGlWTmFOcG5oNUpUbE84Wm51N3pwZV9oVDV3UWs5dnNzcXZRVjFnZUdYbDVWYjZ4MDZ0dzZrYVVKd2ZlTWhEQXhZb2tMWQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -184,22 +216,6 @@
    "published_iso": "2026-07-30T03:00:00+00:00"
   },
   {
-   "title": "外国人対応で連携確認 双葉地区雇用者連協 安全確保へ活動再開",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Yi1iZ21FdTl5WTBUbmo3VGJrRTQzQUtaV3dqeU4yYVcxZFJURkxuMmI5U24zeEtQbmxsVnFRbWltS0E0VEVRNm1ycw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-30 11:06",
-   "published_iso": "2026-07-30T02:06:35+00:00"
-  },
-  {
-   "title": "外国人増踏まえ活動再開し協力 双葉地区雇用者連協",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VcnNkczZDMGpYdVNFVHpHYVFPU09sYnN0N05VcnRmSlp6VE5tUzVMbG8wOW52R2RvVnRtRjNCOG5odGxYZmhTejNOaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-30 11:00",
-   "published_iso": "2026-07-30T02:00:00+00:00"
-  },
-  {
    "title": "岐阜県人口１万６０３９人減、１９３万５２５３人…外国人住民割合４．０６％ ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TldwYjZtYUNUTkctdUN3ak90Q0V0NFBCUVR3bHFWTFBZSUdfOEY5U1YtTWc2UGY2OG5mdlF3VXRwWnl4UXV1N2FtMTVPYnRzWUlBRlpmZWtRVHBxMUJvcTYzajlGRWZtcEhxT0wwVW0?oc=5",
    "source": "読売新聞",
@@ -208,9 +224,33 @@
    "published_iso": "2026-07-30T01:50:00+00:00"
   },
   {
+   "title": "県警と外国人アドバイザー協力 交通ルールの徹底目指す 和光で講習会",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TRUQ4NzhtMUNtd0RMSWV2MHd1a2J3VjlkYTZxWU54OEpJbFl5Mk5vR3AtdU1vZWRKUGZwc1VwRTgzQ1JVVmhvODc5RVk4Y1ZsVXNz?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-30 07:33",
+   "published_iso": "2026-07-29T22:33:19+00:00"
+  },
+  {
+   "title": "無人駅にタッチパネル…障害者を生きづらくする社会構造 共生社会の実現へ、全盲の弁護士・大胡田誠さんの考えは",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kV0lvU0ZYVEs0X0d5VkFKb0ZlU2N0aGVJdTdFRTN6NnVoUE9kQzJfTUxrcVdEMktsV05xbUlMUFBLcHluWkE1UV9nSXJhV3JZQXVz?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-30 07:12",
+   "published_iso": "2026-07-29T22:12:27+00:00"
+  },
+  {
+   "title": "難民保護弱体化を懸念 「ゼロプラン」強化版考える 千代田で講演会",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dERRcWlFVnRNM0ZrS1JKMGFXYy04cldvaWUyNFFMdktacThhSmROelFVa05tY0FJLTBWTGpqTE5XVnFGdzkzTnlVWW1BcWtZaXNN?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-07-30 07:11",
+   "published_iso": "2026-07-29T22:11:18+00:00"
+  },
+  {
    "title": "外国人人口、全都道府県で増加 転入者が過去最多―住基台帳",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DOGctR0RWT3QtRWM2aGJ5RHZNVjIwa3hPZjBRcy1sS29EdGRhUUJPSHI4ZV94SnpHWHBWcGwzTks5bmJhRFlBbkZiLWpqVzlwcUs0UjJjWjlQZkFEQ1lsWnNuUQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-07-30 07:04",
    "published_iso": "2026-07-29T22:04:00+00:00"
@@ -272,17 +312,9 @@
    "published_iso": "2026-07-29T09:15:00+00:00"
   },
   {
-   "title": "大阪府人口6年ぶり増加 外国人転入超過が1万人増、自然減は全国最多",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50eDREVF9Ra3RDN2ZWT25HZTZ5bWhnWVJHdTc2ZFhmQl9NbHNmZkU1cEt6ZzNibDhqOFd6U2R1bHdDZ2pKYU14c3hVbTh2X2w2dTVlMzVjaURPTlc1Yk9aLTJwODZKenZpTGE2Nw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-29 17:30",
-   "published_iso": "2026-07-29T08:30:00+00:00"
-  },
-  {
    "title": "日本人、１億２０００万人割れ 過去最大９１万人減―外国人４００万人超・総務省",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNanhwdG9JSW5kZHNWQi1NWWZaMHR1OTNac0syMlNCcEI2RUlQUHgzajdyZU52RFI4WXM0aFJIem5OTHZXMEo4endLRHNTem12VVhRZzBDUWdIU25ldVpWajdRZUVCbEFHMnpmellKbHJqZWUyOXZzc00zM0Vvbnp3eWxn?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-07-29 17:11",
    "published_iso": "2026-07-29T08:11:00+00:00"
@@ -302,14 +334,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-29 11:00",
    "published_iso": "2026-07-29T02:00:00+00:00"
-  },
-  {
-   "title": "趣里主演『大空港～GATE24～』、税関＆出入国在留管理庁【史上初】連名タイアップ！コラボポスター解禁",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Q1IyZUxKNmc2WnVFVmNrY2hpRG9PMVZ0X1NDdjVuUGhSQ3JKemhPMlNWLUxLeFNybVdFcGx6NVViamNSXy14MGJpeWNsaV9UMnfSAVdBVV95cUxPMENQYkgybjAxUjVublQ0Y2RQOVpNSmpmaXlFMHg3Tm5HWjhEOTVORGRoVV9LUzdTTHZ0SENKVzB4d2Y3YkJFdWlVVGZfYmt3aUR4cThhbWM?oc=5",
-   "source": "テレ朝POST",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-29 07:28",
-   "published_iso": "2026-07-28T22:28:51+00:00"
   },
   {
    "title": "ラー麺ずんどう屋流、外国人材が離れぬ職場づくり 課長で年収800万円の道も",
@@ -354,18 +378,18 @@
   {
    "title": "入管、２２６人緊急増員 退職自衛官ら「即戦力」",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04ODFjWmpIbWxsbXctOGZUWXF1UFdELW5KeTFhNDVfSjZKV0xKQjRnb211dWxJSVhzN0VFX2V4bUU2aVdZNUQ4T19DRzdnUmx2a1hQWGRnOWp6WmdMaEtOVkNFUQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-07-28 17:03",
    "published_iso": "2026-07-28T08:03:00+00:00"
   },
   {
-   "title": "入管職員226人緊急増員 不法残留、審査厳格化に対応",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCR1Z6N3oxNkhvOFRZR3A3Q3FmdlRXRFpEZllub1NEODdqVV80cWhHV1pSUTFvbDIyQ3EzSUdZY3p3dldMR0FaM1RzNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-28 16:56",
-   "published_iso": "2026-07-28T07:56:00+00:00"
+   "title": "政府 入管職員226人の緊急増員を閣議決定 外国人の不法残留対策強化",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zX185eEd0Z1ZjeFdMWjNJLVcycURlblJnN00yaDU0MC1UQU5ZOWFXM0NXQ3gzVFp0STc3VDZFc2FiR2xIV28ySzF4aG5nYVhFNURXR3lRTTZ4STJyeTVfNnJLa0xYYl9SSE1NSGJXbFA1a0U?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-28 16:26",
+   "published_iso": "2026-07-28T07:26:11+00:00"
   },
   {
    "title": "永住許可の年収水準、外国の親族含む扶養5人以上で加算 入管庁方針",
@@ -382,30 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-28 15:00",
    "published_iso": "2026-07-28T06:00:00+00:00"
-  },
-  {
-   "title": "政府、不法残留の外国人対策で緊急増員 入国警備官ら計226人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aajF5MzBvUWwtWjJTa3lWU282YXR5dkE4aHBDRm40SzNWOUp0UVpUMGhGZDdvZDhveFQzdkFWU0tZZXVKV092Yko3VjRBc0ZBOXotWUc0N2FzSzNRUnI3YzV4N2RHaHhCRDJuMQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-28 13:30",
-   "published_iso": "2026-07-28T04:30:00+00:00"
-  },
-  {
-   "title": "入管職員に退職自衛官ら採用へ 法相「即戦力」、記者から「関東大震災と軍隊」巡る質問も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMG9FOUEteVJxbE52QU8zWEM4Q0NmeHF3SmI4ZXdpd2ZGbE02Mjg0UXRWQ3FjMjY0cTJKdGVNR2dkY0JWelI0OUVOMXRXNnhuRUhsblRFY1dmWmUwbXhHbFdHQ20wWEZvUWZybmZCenl2Y0NSNFE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-28 13:16",
-   "published_iso": "2026-07-28T04:16:24+00:00"
-  },
-  {
-   "title": "「子供服を難民へ」ユニクロの会社から講師、世界の現状を中３学ぶ…本庄東",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU2FYMDRkSEtVWFNWNjV5Nk5UbGt1X0VDbVJ4bFRDZUZ6WV9Qengwa1B4bVNkZVBweDV4VGVRczc5U3BjaU9MT1VwSngxZUxTelVlV3BqRVU2SXVXOFlDNDJ0b0hvVDNWak9IWkpVMDFLNnBJTDdITnNobHJXdWZtdUp1RWZqX3VIYUE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-28 12:00",
-   "published_iso": "2026-07-28T03:00:00+00:00"
   }
  ]
 }
