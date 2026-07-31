@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T16:43:21+00:00",
+ "generated_at": "2026-07-31T18:18:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,16 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tV201QnVpek5iNUpaQWt3VnRIYnA1WFpsQjMzUUtCSTJfS0htaWZKU29FclpoWmdhd2F1dW55ZG12R3JsYk4wOVY4S2cyYzhRWkd1dnNoN0hUN21FLTFXV21sdUo?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-01 01:33",
-   "published_iso": "2026-07-31T16:33:11+00:00"
+   "published": "2026-08-01 03:03",
+   "published_iso": "2026-07-31T18:03:11+00:00"
+  },
+  {
+   "title": "モロッコからスペインに約5万人の不法移民が海を渡って流入 少なくとも57人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idW5SRUE1QWlwRFdrMlpsNzZvRGNvOHVqRHhaY0NpY01UNFNVMlpERTc2VXQzWVYzTEs4UjJXRVVtd2FYU1BqQU1GOTB2dw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-01 01:54",
+   "published_iso": "2026-07-31T16:54:00+00:00"
   },
   {
    "title": "北アフリカのスペイン領セウタにモロッコからの移民流入 およそ5万人とスペイン内務省 海岸に多数の遺体も…伊・メローニ首相も懸念を表明 波紋広がる",
@@ -24,12 +32,12 @@
    "published_iso": "2026-07-31T16:05:37+00:00"
   },
   {
-   "title": "不法移民５万人、スペイン領に殺到",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUbnoxQzRwd09UZ21aTDdXNjMzVmZoVERVVFhELXU3MkdoMGs2aVRCaWJLWmMzVW4yQzR1V3pJTWpGNlNfNUY5UnNXaE9IVXIxZVVHbmdWVkhZenFfNDdteFN5SGs?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-01 01:02",
-   "published_iso": "2026-07-31T16:02:59+00:00"
+   "title": "スペイン領の飛び地へ…モロッコ移民約6万人か スペイン政府は軍隊派遣し沈静化へ",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2lwRkJEbGtNZFpXcmNKYnhBandRcl9PZG1lT21RbV9IdDM0aTdNUGozWlJZWkl5LUktM3FMbGg0MHRhcm5QYkpnUC02dzJpVktMVmtkbjRFdDZlMVZCVXBEbFNYWUhGYWpHUmxSSFJ0OU5FZkxnUWdHWkN5OGVlZUZ5NVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-01 01:05",
+   "published_iso": "2026-07-31T16:05:00+00:00"
   },
   {
    "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから流入で",
@@ -65,7 +73,7 @@
   },
   {
    "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ1FQOE01SjM0OXM3Mlg2eXhialM2dTBUa05IMVV0blhKQ3c3dFk2bXFzUmVNdGloYURnbE91RENudXBETlM4d2IybkVDbGw0VkVsb1NTZk1UOXJRMXYxWTJHREFNWnpfYTV5elNsdHFjRzhHeC12ZDF5RFZuTDBpaWFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-07-31 21:50",
@@ -152,22 +160,6 @@
    "published_iso": "2026-07-31T10:17:41+00:00"
   },
   {
-   "title": "プロ野球の補強期間終了 ソフトバンク、山本祐大をトレードで獲得 1件の外国人、7選手を育成から支配下登録",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Qc3JiZ1JDZ3Y2WEVlYzdBX2p5bWF4cXlZU0FmWDhyU1E5bTZVNFFPeU8ycnNLdzA1ZG04SVZ6NWc3SElnb1IwOF83c2NtRVZESmJpTWlNb0l6YngzXzBJ?oc=5",
-   "source": "西スポWEB OTTO!",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-31 19:03",
-   "published_iso": "2026-07-31T10:03:03+00:00"
-  },
-  {
-   "title": "南太平洋の島国ナウル、国名を現地語発音に基づく「ナオエロ」に変更…外国人には発音難しく「ナウル」広まる",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91TURMWkFJZXoyX2RLV3NxZGxPNjdzNkdLbjZWbFFuQU92ZHJhbmNRdjdmbGl4T2tobk1zMXRTeE5iTm9nMFI3UHdDMjJzVjFhOFYzdVJnc1FlUUtUeWlLQUlR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-31 18:16",
-   "published_iso": "2026-07-31T09:16:00+00:00"
-  },
-  {
    "title": "移民大国ドイツが悩む「1年生の壁」 言葉通じぬ子に小学校苦闘 企業支援の語学教室も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uZlZRMTB6eWN5R25jVTRIS3lqekVoemp6eWljUEE3cjNNa3V1LWN2OEROU3JUaFVKQ2RxcFphTThWQW15SkcwT1NWSFUwVHlGQkhHX1VtaFRzZnJGVWFGQi1wRXRfZW5DNW5WbXJQWFlBdkR3clE?oc=5",
    "source": "産経ニュース",
@@ -192,7 +184,7 @@
    "published_iso": "2026-07-31T08:32:44+00:00"
   },
   {
-   "title": "北アフリカのスペイン領に移民6万人殺到 イタリアは国境管理主張",
+   "title": "北アフリカのスペイン領に移民6万人殺到、途中で溺れ34人死亡",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmtreWlHQ1VrZ2kwakdzcjNhTUU3aTQyQTRmY0JtWjY2YVU3Vl9DUy00YTk2SkNuTVY0d3FBUzN6Q2dlalk3VmRmSHdlcHNLcm1EUHhWRU5iS0pHWUtzREhWMnpfOGtjc2cyYQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -306,7 +298,7 @@
   {
    "title": "「三重県のアンケートは差別」第三者委が答申へ 外国人採用の是非尋ねる設問、結果の非公表求める",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oa1Y5OXQxUDNRM0JYV1BBODZ5Y1Z0RkFrb2lpRzUtcjRmVEVWR2VGYzkwb3pHWnU4VXFoOFB3YUxlbEJzYkdiRC1TNXVzSGthWUZnUQ?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-31 10:39",
    "published_iso": "2026-07-31T01:39:46+00:00"
@@ -370,7 +362,7 @@
   {
    "title": "農業の外国人材高く評価 受け入れ例を紹介：日刊県民福井Web",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yeXJEWFJ5ZFBCYThTRGJkMUR6OVY4Y3NibGJzQ2p5RE5ES1JvRFhJaVp6c2VTeVFCMUQwV3JHbzJGZm1ubGw0N2NTMlh1bUlkVFZvNmhmWUtPWjg?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-31 05:05",
    "published_iso": "2026-07-30T20:05:00+00:00"
@@ -398,6 +390,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-07-31 05:00",
    "published_iso": "2026-07-30T20:00:00+00:00"
+  },
+  {
+   "title": "南太平洋の島国ナウル、「ナオエロ」に改称 外国人の発音間違え由来の旧称から脱却",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcmdENS1pVlIzUDFTUlJvN2tsV21PM1hiR0Ffcmdmb19jUzIwSnVSb1ZYeTZmTDZpUU9NenlDWXFxRU5JdUNjaGp0UU5oRWxEaC1YaDlhNDR1d0plUFZYVm8xclNVLURmVk91RFdLTWdMRlcybGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-30 22:36",
+   "published_iso": "2026-07-30T13:36:32+00:00"
   },
   {
    "title": "育成就労制度で“転籍”可能に 地域あげて外国人材定着へ 愛媛",
