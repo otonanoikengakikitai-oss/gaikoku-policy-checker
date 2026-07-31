@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T11:57:28+00:00",
+ "generated_at": "2026-07-31T14:15:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "不法移民４万人超、スペイン領に殺到",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tV201QnVpek5iNUpaQWt3VnRIYnA1WFpsQjMzUUtCSTJfS0htaWZKU29FclpoWmdhd2F1dW55ZG12R3JsYk4wOVY4S2cyYzhRWkd1dnNoN0hUN21FLTFXV21sdUo?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 22:33",
+   "published_iso": "2026-07-31T13:33:11+00:00"
+  },
+  {
+   "title": "不法移民５万人、スペイン領に殺到",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUbnoxQzRwd09UZ21aTDdXNjMzVmZoVERVVFhELXU3MkdoMGs2aVRCaWJLWmMzVW4yQzR1V3pJTWpGNlNfNUY5UnNXaE9IVXIxZVVHbmdWVkhZenFfNDdteFN5SGs?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 22:10",
+   "published_iso": "2026-07-31T13:10:57+00:00"
+  },
+  {
+   "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 21:50",
+   "published_iso": "2026-07-31T12:50:00+00:00"
+  },
+  {
+   "title": "モロッコからスペイン領に移民4.9万人流入 渡航中18人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83Ti1jZUlKa2hTUV92OWVQUzJudldHR1lUeUZiRmpSZjVRQTBCdXZtTWpCeTE3VG5wempheHY5X3BXVS1qNUtnS2tTWVg0Nmw0ZWpxNWZ3aFROUUl0Sm16RzRwUHcxUEQ5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-31 20:57",
+   "published_iso": "2026-07-31T11:57:21+00:00"
+  },
+  {
+   "title": "◎不法移民４万人超、スペイン領に殺到",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92cEhuMkpCeDlRaXl1cGhBUWxOc2R5ZVRhN3hndWoydFdFMk5hZklCMWFseVo5eXNoNTBHakdveTRlS3RKcm1IQjNHLXJwS3ZDVHZibg?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-07-31 20:54",
+   "published_iso": "2026-07-31T11:54:00+00:00"
+  },
+  {
+   "title": "【速報】スペイン飛び地への越境移民、6万人に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sdG1rSUZIbXROa3BtQ05oR0JhRXhQRzJjNk14LWhGRVpzZm1Cbk1ERy1jVmNKZ0FGUFRJUjhSYUxmYWxVd29rUW1EOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-31 20:45",
+   "published_iso": "2026-07-31T11:45:19+00:00"
+  },
   {
    "title": "スペイン飛び地への越境移民、６万人に",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pOE14N180SGp3X3RZdjhvOWI2WWFubWtiejlod0ZTcXhqYzNuRWw5REtSWXBOU3FfcEdLbjYweFZQTDItcHpncTMtUXZGYVZWU3NmRXp3dTc?oc=5",
@@ -16,9 +64,17 @@
    "published_iso": "2026-07-31T11:45:19+00:00"
   },
   {
+   "title": "【速報】スペイン飛び地への越境移民、4万人に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBySnY1Mm5WRENFMzUwY1lkYXk1Q3lHQW43NWt2OWVOckdNcGgzc2RKa05MOTZld0RyQlBBOVk2dUJMdkZJaGhuOGM1cw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-31 20:32",
+   "published_iso": "2026-07-31T11:32:29+00:00"
+  },
+  {
    "title": "｢外国人の職員採用を続けるべきか｣ 三重県のアンケート 諮問機関が“差別にあたる”と判断",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQ1lYbEYyUXk0bDl4S0wwUEhjRjBNaGdiTUtVYXFQSXQzak9YVWtxM1ZFLTZVdFhRcHZLNlg4QkRNbGVPMXF3a1ZheFhzOGlfZ195V1dYU1N2UQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 20:21",
    "published_iso": "2026-07-31T11:21:00+00:00"
@@ -26,7 +82,7 @@
   {
    "title": "【密着】渋谷の手荷物預かり所 スーツケースの中にイス？ 多くの外国人観光客の姿も【気になる！】",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01Nlg1Wll2OVBkMll0RXNBajdSOXR5ZDh4VnZSWnM4bzdxYjJOOXdVdXlzSHR0UnB3VjFmUW5tZy12S3o3dThvSnZ4eHVsN0RoRXNBQ2s1VWZfUi1tNkFuUUpwaWh2VnN5NjhIWnVwQkVJdmF1Wk5uTDZsc1A?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-07-31 20:14",
    "published_iso": "2026-07-31T11:14:00+00:00"
@@ -40,14 +96,6 @@
    "published_iso": "2026-07-31T11:12:11+00:00"
   },
   {
-   "title": "自転車の交通違反をピクトグラムで周知 外国人留学生に岡山東署が教室",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tXzB4RmVJeWtvUVdqQVdKYnNZUDluZGltMDg3UzVjekFEUkF4TzFnLXN2OVhRM21vMWxadEVUdzJRenVnWGlGQ1lKYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-31 19:50",
-   "published_iso": "2026-07-31T10:50:28+00:00"
-  },
-  {
    "title": "スペイン、北アフリカからの移民流入が5万人に急増 国境配備の軍部隊に投石も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYVlsci0tZjFJVENQVzVhTzNUcUdHN2NuX1NnQXhUYk5tU01aSEFkTW9DZHJzRHFWeVljYkJ2aFF3bDJJcl9WTGhYblM4VnYxdGVXZTQ0V0xQYjR5bWRXNnNCbWNPdHdQWlo2dHBqbXNoTnl5eGc?oc=5",
    "source": "産経ニュース",
@@ -58,18 +106,10 @@
   {
    "title": "海泳ぎ防波堤を上る人も…北アフリカのスペイン領セウタにモロッコからの移民流入 24時間で約4万9000人とスペイン内務省",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zek1HUGtNLUFDZm44cjE1N0VYTVdqbHZTVEkzNWVBTktldVV3eGF5amZoeDQweE5aaEVDem5SdjgyY05lRkd4aVc4Z0RlV1RZNWtTUlQxb3prQUtMU3V2U2tjN2EtMTlRUWl1VmRDc1N4UklH?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 19:17",
    "published_iso": "2026-07-31T10:17:41+00:00"
-  },
-  {
-   "title": "「外国人の職員採用を続けるべきか」県民アンケート質問 県の諮問委員会が判断「差別に該当する」 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGo5ZlRSTktLbTExRy01RkFmVHk0YjB3ZEZpeHBDamVfQ2JKSlllNHE2TTFRcGxHaDVWR3pQdVQydndxVG1CZnJBQXRGVktWQmVIWkpKQnJHVkVRREZueXE5bFIxUU1sNWR4bjRqZFNsalkzRTZNU0xfZEEtUjRlMGFiOWRlbVk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-31 19:16",
-   "published_iso": "2026-07-31T10:16:00+00:00"
   },
   {
    "title": "プロ野球の補強期間終了 ソフトバンク、山本祐大をトレードで獲得 1件の外国人、7選手を育成から支配下登録",
@@ -80,12 +120,28 @@
    "published_iso": "2026-07-31T10:03:03+00:00"
   },
   {
+   "title": "南太平洋の島国ナウル、国名を現地語発音に基づく「ナオエロ」に変更…外国人には発音難しく「ナウル」広まる",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91TURMWkFJZXoyX2RLV3NxZGxPNjdzNkdLbjZWbFFuQU92ZHJhbmNRdjdmbGl4T2tobk1zMXRTeE5iTm9nMFI3UHdDMjJzVjFhOFYzdVJnc1FlUUtUeWlLQUlR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-31 18:16",
+   "published_iso": "2026-07-31T09:16:00+00:00"
+  },
+  {
    "title": "移民大国ドイツが悩む「1年生の壁」 言葉通じぬ子に小学校苦闘 企業支援の語学教室も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uZlZRMTB6eWN5R25jVTRIS3lqekVoemp6eWljUEE3cjNNa3V1LWN2OEROU3JUaFVKQ2RxcFphTThWQW15SkcwT1NWSFUwVHlGQkhHX1VtaFRzZnJGVWFGQi1wRXRfZW5DNW5WbXJQWFlBdkR3clE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-07-31 18:00",
    "published_iso": "2026-07-31T09:00:00+00:00"
+  },
+  {
+   "title": "自転車の交通違反をピクトグラムで周知 外国人留学生に岡山東署が教室",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tXzB4RmVJeWtvUVdqQVdKYnNZUDluZGltMDg3UzVjekFEUkF4TzFnLXN2OVhRM21vMWxadEVUdzJRenVnWGlGQ1lKYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-07-31 17:33",
+   "published_iso": "2026-07-31T08:33:17+00:00"
   },
   {
    "title": "上半期の外国人運転者による死亡・重傷事故が最多に 全国交通事故死は1162人 警察庁",
@@ -96,7 +152,7 @@
    "published_iso": "2026-07-31T08:32:44+00:00"
   },
   {
-   "title": "北アフリカのスペイン領に移民4万人殺到 イタリアは国境管理主張",
+   "title": "北アフリカのスペイン領に移民6万人殺到 イタリアは国境管理主張",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmtreWlHQ1VrZ2kwakdzcjNhTUU3aTQyQTRmY0JtWjY2YVU3Vl9DUy00YTk2SkNuTVY0d3FBUzN6Q2dlalk3VmRmSHdlcHNLcm1EUHhWRU5iS0pHWUtzREhWMnpfOGtjc2cyYQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -233,16 +289,16 @@
   },
   {
    "title": "モロッコ移民数千人スペイン領に 国境フェンス突破、軍派遣を決定",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aQmwtX0lkMlFTZGlQa08zQ29PeVpLcnM4N3VIN2k2N1BhU1VMN0xpNmQ4WG5GeU1ub1MtTC00eS11b0I2T3QxRzZaSXQ3ak85XzEzUGZB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-07-31 09:14",
-   "published_iso": "2026-07-31T00:14:23+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZHgzdExhdkRXM0l6ZDRNajNfV0plZE9Cb1NYb1FnQy1fYTdON2FWaXViZ3U0OFpqeXJqUkVTMWhMME1mM1FleGVZai1XLXFfRC03VngyYVd6UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-07-31 09:21",
+   "published_iso": "2026-07-31T00:21:34+00:00"
   },
   {
    "title": "北アフリカのスペイン領セウタにモロッコからの数千人の移民流入",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhNTRCSHRRS1pKY3FrSVhhRExIOWwtSy1YbzVhbWU3cWtYalFPcS1HbEU4aTA4X29hWHpvUTFNckdyTmJJZDVpQTJPSTRsMzZMcURSWFF3WQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 06:20",
    "published_iso": "2026-07-30T21:20:37+00:00"
@@ -312,22 +368,6 @@
    "published_iso": "2026-07-30T20:00:00+00:00"
   },
   {
-   "title": "7月31日 ユダヤ難民救った杉原氏死去 1986（昭和61）年",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fUmktSjNtaVlvOU9GVUZHaGpjWnJXS0NIalVTUTdOZElwUzdhbFpYUjhpVEprcFZTa3lRMkJCeXZRc0VPaUhrZndaUXBTM2x6ZDVUQ0d3R1I?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-31 00:00",
-   "published_iso": "2026-07-30T15:00:00+00:00"
-  },
-  {
-   "title": "南太平洋の島国ナウル、「ナオエロ」に改称 外国人の発音間違え由来の旧称から脱却",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcmdENS1pVlIzUDFTUlJvN2tsV21PM1hiR0Ffcmdmb19jUzIwSnVSb1ZYeTZmTDZpUU9NenlDWXFxRU5JdUNjaGp0UU5oRWxEaC1YaDlhNDR1d0plUFZYVm8xclNVLURmVk91RFdLTWdMRlcybGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-30 22:36",
-   "published_iso": "2026-07-30T13:36:32+00:00"
-  },
-  {
    "title": "育成就労制度で“転籍”可能に 地域あげて外国人材定着へ 愛媛",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14LTJzcVBONW0zbmR1X0lpMWUtZmxiVWJxbnl1ZGstalZmdk5iOTE4c2VxQkZiVnVYaTh1dTVZU053WjZzRkR3T2VDRVBsZzBrMlpFSi1NR0FZWUdxdXV6T21rZjNmLU83?oc=5",
    "source": "nhk.or.jp",
@@ -344,17 +384,9 @@
    "published_iso": "2026-07-30T07:44:57+00:00"
   },
   {
-   "title": "外国人漫才日本一を決める新大会がこの秋に 「外国人漫才王決定戦」出場者募集",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yNFBLWTdVQWNmbFVYY2VhbllNTjNvaTRIcktxUWNyOHh3QmlyMlgtbld3QmNNa0pQSV9nT3F4bjA5VWtmX2pLcGNSaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-07-30 16:17",
-   "published_iso": "2026-07-30T07:17:45+00:00"
-  },
-  {
    "title": "熊本地震でベトナム人の技能実習生1人死亡 勤務していた工場でクレーンが落下し下敷きになったか ベトナム大使館",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzREVYeExnV1VDZGlWTmFOcG5oNUpUbE84Wm51N3pwZV9oVDV3UWs5dnNzcXZRVjFnZUdYbDVWYjZ4MDZ0dzZrYVVKd2ZlTWhEQXhZb2tMWQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-30 12:35",
    "published_iso": "2026-07-30T03:35:50+00:00"
@@ -374,38 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-07-30 12:00",
    "published_iso": "2026-07-30T03:00:00+00:00"
-  },
-  {
-   "title": "岐阜県人口１万６０３９人減、１９３万５２５３人…外国人住民割合４．０６％ ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10TldwYjZtYUNUTkctdUN3ak90Q0V0NFBCUVR3bHFWTFBZSUdfOEY5U1YtTWc2UGY2OG5mdlF3VXRwWnl4UXV1N2FtMTVPYnRzWUlBRlpmZWtRVHBxMUJvcTYzajlGRWZtcEhxT0wwVW0?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-30 10:50",
-   "published_iso": "2026-07-30T01:50:00+00:00"
-  },
-  {
-   "title": "県警と外国人アドバイザー協力 交通ルールの徹底目指す 和光で講習会",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TRUQ4NzhtMUNtd0RMSWV2MHd1a2J3VjlkYTZxWU54OEpJbFl5Mk5vR3AtdU1vZWRKUGZwc1VwRTgzQ1JVVmhvODc5RVk4Y1ZsVXNz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-30 07:33",
-   "published_iso": "2026-07-29T22:33:19+00:00"
-  },
-  {
-   "title": "無人駅にタッチパネル…障害者を生きづらくする社会構造 共生社会の実現へ、全盲の弁護士・大胡田誠さんの考えは",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kV0lvU0ZYVEs0X0d5VkFKb0ZlU2N0aGVJdTdFRTN6NnVoUE9kQzJfTUxrcVdEMktsV05xbUlMUFBLcHluWkE1UV9nSXJhV3JZQXVz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-30 07:12",
-   "published_iso": "2026-07-29T22:12:27+00:00"
-  },
-  {
-   "title": "難民保護弱体化を懸念 「ゼロプラン」強化版考える 千代田で講演会",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dERRcWlFVnRNM0ZrS1JKMGFXYy04cldvaWUyNFFMdktacThhSmROelFVa05tY0FJLTBWTGpqTE5XVnFGdzkzTnlVWW1BcWtZaXNN?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-07-30 07:11",
-   "published_iso": "2026-07-29T22:11:18+00:00"
   }
  ]
 }
