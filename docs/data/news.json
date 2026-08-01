@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T13:14:20+00:00",
+ "generated_at": "2026-08-01T14:58:00+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "スペイン、モロッコとの国境沿岸に海上フェンス 不法移民防止で",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQldITTl3cUVsMUNRNDh1a0JCa0pxTy1VaUU0MmpybFlnSXUtVUE3NnZJQ2EyZS1VOFR1ZS1PcEViWldSM2pLNUZ4M2JicE00eklwT2x1cEFrNGlpenNsaUhPZ1k2Qk5USEQyZA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 23:20",
+   "published_iso": "2026-08-01T14:20:16+00:00"
+  },
+  {
+   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YkxJRzBVaUdGQ1c0U3RlRXNtd3AwSzA0V3N5bVNnRlNWbFZUT3k4SW1yYmZjMkQ3OFhiYkRXVjNCOUMwVGluZnd4Z3k4QTNTaEg1SFBiVjB5RzAzcFR1Ty1lRQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-01 21:57",
+   "published_iso": "2026-08-01T12:57:00+00:00"
+  },
   {
    "title": "EU22カ国が不法移民対策強化を要請 スペイン領セウタへの移民5万人流入受け緊急対応要請",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtU0ZEb1pMTmxtSXFRZHlPRDVyR3dJX25DUHhJR0lRNUUwM2FldWNSaUZPbEJxajBHNmlLMThjbEhLY1F4a0VnaHFud29Tdw?oc=5",
@@ -80,14 +96,6 @@
    "published_iso": "2026-08-01T06:30:00+00:00"
   },
   {
-   "title": "在留資格など学ぶ 外国人材受け入れを検討する企業向けのセミナー【佐賀県】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9la00tNExvSFJhRkRESU1acTJZTnpOWTZ6cVh0RlFkd29qLXNKTDVXNm1zVjdlcm44eW5zUkdtSXBRZm10SXdtd3YyZXlvQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-01 14:46",
-   "published_iso": "2026-08-01T05:46:00+00:00"
-  },
-  {
    "title": "スペインと自由往来停止 イタリア モロッコ不法移民防ぐ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTmFXQjJ6T3ZUaDZiWmkxYUxoQ3VFd0xVbHJiMkNwaXBFZkU2ZHg0aGh4LWFhYm1KeGlOTWFqQ0ZSSTJ5WDhhNG1xUGVVREdwYnlxcHMyZEhFWDZ4TE42eWFNVHlRV3N5UEhSaQ?oc=5",
    "source": "日本経済新聞",
@@ -122,7 +130,7 @@
   {
    "title": "外国人に関する設問は「差別」 調整委が答申へ 県民アンケートで採用是非 三重",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YeGQxSUY3eWFJbmhrVWdKX2JFX1hhYkR3enRUellURTltWHFCUGNyeUpjaGdDSGNBczJWNFp1SHNhWVdRa1hyZ3hDSQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-01 11:01",
    "published_iso": "2026-08-01T02:01:08+00:00"
@@ -234,7 +242,7 @@
   {
    "title": "移民越境で欧州分断危機 スペインに強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaMGRXNThpb0lHT2xMUjlIdUFRSEc1YWxIMF9keHFPVmtLazltQ3dLTUdjRm5BOV9WWVlrUlB3NHFzeGJtNnplaUg2SFdwWmZqWkVYYS1ReEFJUQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-01 05:57",
    "published_iso": "2026-07-31T20:57:15+00:00"
@@ -268,14 +276,6 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-08-01 05:00",
-   "published_iso": "2026-07-31T20:00:00+00:00"
-  },
-  {
-   "title": "子ども服を寄付 難民の力に 名寄 風連中1年 支援企画に参加",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WZVNEOEVWTHZabTFsSi05UXoyT1NYTE80YVpwNFYwVkNtZjUzd29JdE5wVnY0Mlk4TFFKTk04a25DWU9Jd1NMNWdYQm1tZGluRGZKNlBLS00?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
   },
