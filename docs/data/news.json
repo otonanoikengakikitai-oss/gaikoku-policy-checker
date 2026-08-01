@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T22:52:34+00:00",
+ "generated_at": "2026-08-01T23:55:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -18,7 +18,7 @@
   {
    "title": "スペインへの移民6万人突入の影にモロッコの揺さぶり工作か EUが再発阻止へ緊急会合",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZDZhLUViN2ZEYTdxYS1CbGw2Qkg1S0h5MXE1MW0tMjNJcGc2LXVrc1RnUWhGQ3k3dkEtZmZNSVl2dGdlQThqT2xyM3B4OFZRbWQ1Q3VGZDhOZnNqNXNMOWxCNUwtNlNOcFlxWXhHeFd2blA0UFE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-02 07:29",
    "published_iso": "2026-08-01T22:29:44+00:00"
@@ -130,7 +130,7 @@
   {
    "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-01 15:30",
    "published_iso": "2026-08-01T06:30:00+00:00"
@@ -162,7 +162,7 @@
   {
    "title": "米国務省、多数の移民が流入したスペインの政府を批判 「容認し助長してきた結果」",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MGFTZjViZ2NKLVBzT3JUX1oydDdBWnpoMEFZYk5QWXFMZmpQdW5ReXZ6VW9WMENiRTRiOWowYkZyMldlTTVXd0pnd3RLNElNU3NyYVVZZTNSbkhod0s1MlA1Rk9zM0RVVTBuZHRnUFNNVE9zclE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-01 11:03",
    "published_iso": "2026-08-01T02:03:24+00:00"
@@ -170,7 +170,7 @@
   {
    "title": "外国人に関する設問は「差別」 調整委が答申へ 県民アンケートで採用是非 三重",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YeGQxSUY3eWFJbmhrVWdKX2JFX1hhYkR3enRUellURTltWHFCUGNyeUpjaGdDSGNBczJWNFp1SHNhWVdRa1hyZ3hDSQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-01 11:01",
    "published_iso": "2026-08-01T02:01:08+00:00"
@@ -186,7 +186,7 @@
   {
    "title": "医療費不払い外国人の入国審査厳格化、白タク取り締まり強化 政府が外国人政策の進捗公表 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UkYtZW5NX0o0cnNkaFJqbTR2QjNkOUNXOHJhNHNlQmtuc2ZjTWdLXzlBbGNZbFQ4NWR6UndQeWc2R191cVFkRUhOWkMtM2FqMEU3MnBxRkE1SkdHRDRpOVlKSDY1aDZjWkhlTE0xcnBGelc5dkE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-01 10:30",
    "published_iso": "2026-08-01T01:30:00+00:00"
@@ -226,7 +226,7 @@
   {
    "title": "移民越境で欧州分断危機 スペインに強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-01 08:38",
    "published_iso": "2026-07-31T23:38:00+00:00"
@@ -234,7 +234,7 @@
   {
    "title": "スペインに北アフリカから移民6万人突入 イタリアは波及を警戒、国境検問を一方的復活",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbnA0U09GRTUtZ3l3RjZLcTJCWDhDN0JnR0I3RGdickJRN29TZjR2VEcwTnFzOU1JNjE2dExrLTAtR0kxOURObVlLRTQ0dVVhZjJKcGU1SzAta1N2YW9nWDdfNThZOHBnUkhuV0NRRTR4a0hyZ1E?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-01 08:25",
    "published_iso": "2026-07-31T23:25:44+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから大量流入",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWnlIYktPRm5MLU40MFBBWkNRWXZKWG5nNnBDUjd1aVdCM3pvajVzcTNSLURhNDE2UDYzRTBQWHNWNDhMOGl0SjB1NzJkSllLWllITE9vNTBLQWNEdDVZSTFfZm82SER5N2NwcVRzdXZTU2h6c3c?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-01 00:58",
    "published_iso": "2026-07-31T15:58:09+00:00"
@@ -370,7 +370,7 @@
   {
    "title": "入管難民法違反で略式起訴の「アジア最大級の犯罪集団」幹部を米国に送還 関係者",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxTFVkX05pRUZIX3dfSU15aEh6Q3I4RkF2ak1JR3JUY09SN2p3dzJpWmdxOHVsSzE3eHFSWVlNSkpNektTTGRqNEI2VS1fZmJvSUhYa2xTRDl5NGxrVE9MRHhyZEtBbEE1R0drR0RrdTBlR255ZFE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-07-31 20:28",
    "published_iso": "2026-07-31T11:28:32+00:00"
@@ -394,7 +394,7 @@
   {
    "title": "スペイン、北アフリカからの移民流入が5万人に急増 国境配備の軍部隊に投石も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYVlsci0tZjFJVENQVzVhTzNUcUdHN2NuX1NnQXhUYk5tU01aSEFkTW9DZHJzRHFWeVljYkJ2aFF3bDJJcl9WTGhYblM4VnYxdGVXZTQ0V0xQYjR5bWRXNnNCbWNPdHdQWlo2dHBqbXNoTnl5eGc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-07-31 19:30",
    "published_iso": "2026-07-31T10:30:09+00:00"
