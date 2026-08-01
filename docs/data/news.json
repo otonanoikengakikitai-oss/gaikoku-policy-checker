@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T06:26:35+00:00",
+ "generated_at": "2026-08-01T09:04:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "モロッコからスペイン領に移民5万人、大半は帰国 50人超死亡",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSUkzWlZ2NzNQbktZYlhhaEVUaXFHcUFoUGdmejZlY192dGlabVNfN0daWTY5TnFmVlN6aXV1RUpKV0FsTFVLZlE0eXlUczVWalVoTWVsZXlwSE1oSmdqeUUzbzFnZUR0?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-01 17:40",
+   "published_iso": "2026-08-01T08:40:00+00:00"
+  },
+  {
+   "title": "スペイン飛び地へ最大6万の不法入国者、大半は自らモロッコに帰還か",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iMVpTOTdSM3ZLWGRJeTdjT3oxM1RtSmNfV3diMkVDVEhhdmNaQnhhQmRDZWhOWHlnVjVibzFzdUU4NUdkRWFRYklUb0YtdThzRHItVV9KSUR4YjA5ZEloSGdTZ1ZFTXc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-01 17:00",
+   "published_iso": "2026-08-01T08:00:00+00:00"
+  },
+  {
+   "title": "入国審査官・入国警備官に元自衛官採用へ 外国人政策は今後どうなる？",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xUlYzTzB4S2xaUGswSkFCbkRIbjdaNldHUC1UVlZ6TENZYWVmb25wTUZlUWlvVWI1WjVfWHJld3Uzakh6SmN3X0wtR18tOUJSZ3B3NFhIX0xMQzhvdVZrYVFDNWRWLWgwWXNJVXI4UFBKVTA?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-01 15:57",
+   "published_iso": "2026-08-01T06:57:17+00:00"
+  },
+  {
+   "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 15:30",
+   "published_iso": "2026-08-01T06:30:00+00:00"
+  },
   {
    "title": "スペインと自由往来停止 イタリア モロッコ不法移民防ぐ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTmFXQjJ6T3ZUaDZiWmkxYUxoQ3VFd0xVbHJiMkNwaXBFZkU2ZHg0aGh4LWFhYm1KeGlOTWFqQ0ZSSTJ5WDhhNG1xUGVVREdwYnlxcHMyZEhFWDZ4TE42eWFNVHlRV3N5UEhSaQ?oc=5",
@@ -22,6 +54,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 12:16",
    "published_iso": "2026-08-01T03:16:20+00:00"
+  },
+  {
+   "title": "大分県内の人口１０９万１３０４人…外国人住民の増加率１３・９０％で全国３番目：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yWkJZblcySTJWbUV0TDBGRjNlcFdxNXBFN3BmbTdxeFRMUjVsbzRxenlXREdfWmZRR3dPdFlROWc3NElQeXFpaml4blpCeDRELVcxUElNejhFeU13c0dTbFF1VThNSDhQWmVzbi1VYjF5Zw?oc=5",
+   "source": "yomiuri.co.jp",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-01 12:00",
+   "published_iso": "2026-08-01T03:00:00+00:00"
   },
   {
    "title": "米国務省、多数の移民が流入したスペインの政府を批判 「容認し助長してきた結果」",
@@ -56,12 +96,12 @@
    "published_iso": "2026-08-01T01:30:00+00:00"
   },
   {
-   "title": "モロッコからスペイン領に移民5万人、大半は帰国 50人超死亡",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSUkzWlZ2NzNQbktZYlhhaEVUaXFHcUFoUGdmejZlY192dGlabVNfN0daWTY5TnFmVlN6aXV1RUpKV0FsTFVLZlE0eXlUczVWalVoTWVsZXlwSE1oSmdqeUUzbzFnZUR0?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-01 10:29",
-   "published_iso": "2026-08-01T01:29:04+00:00"
+   "title": "外国人政策の関係閣僚会議に臨む小野田紀美外国人共生担当相ら＝7月24日、首相官邸（春名中撮影）",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzM2NExfM2d5Ri1KWmFTUVBzaWxESGQ5MDlKQUNaTVhVLVNkYVd2elBxOXptZHJUNGtqN01QMGhuYnhLdVhoemRRMlFCLWZQX2YxOVA4bEFQRjJIRTV3V014TjIzTzFkUkxtOThla0UxZi1EN1VrVW95LXdwQ3V6MndQNjZJeHJ5RU56UkJxbzQ3b3U0ODBHMThLaldTTllYWVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 10:30",
+   "published_iso": "2026-08-01T01:30:00+00:00"
   },
   {
    "title": "不法移民５万人、スペイン領に殺到",
@@ -78,22 +118,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 10:00",
    "published_iso": "2026-08-01T01:00:00+00:00"
-  },
-  {
-   "title": "イタリアがスペインとの国境検査を再導入 不法移民流入受けシェンゲン協定の自由移動を一時停止に",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QR3NQSkVKcHB3N2UzX3RnMjlnaFdnS0pKSG5odTg0WnBmZ3hJS2s1WGY3aGJNZFRRTmxBbEFma2xENmh4QXRXVjBPSGVoUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-01 09:58",
-   "published_iso": "2026-08-01T00:58:00+00:00"
-  },
-  {
-   "title": "移民越境で欧州分断危機 スペインに強まる圧力",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-01 08:38",
-   "published_iso": "2026-07-31T23:38:00+00:00"
   },
   {
    "title": "スペインに北アフリカから移民6万人突入 イタリアは波及を警戒、国境検問を一方的復活",
@@ -118,14 +142,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-01 06:56",
    "published_iso": "2026-07-31T21:56:29+00:00"
-  },
-  {
-   "title": "スペインの不法移民流入受け 伊・メローニ首相“シェンゲン協定一時的に停止”国境警備強化へ「国民の安全守る」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIYXl6RWFaZ0djWTRXbXdId3lnb2liWUZsckJoSUNVSXpaUTNFSlBGR1Z4US1uUXJlUW55SmpCLW81cHFxUXhDWFZyUXJxWS00NmItdEhoOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 06:55",
-   "published_iso": "2026-07-31T21:55:38+00:00"
   },
   {
    "title": "トランプ政権 不法移民流入でスペイン政府を批判「不法移民を容認・助長してきた」 トランプ大統領「共和党が選挙に負けたらアメリカにも同じことが起こる」",
@@ -170,7 +186,7 @@
   {
    "title": "スペイン飛び地に、数万人の移民 アフリカ北端・セウタ モロッコから海泳ぎ国境突破",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
@@ -240,6 +256,14 @@
    "published_iso": "2026-07-31T15:18:00+00:00"
   },
   {
+   "title": "外国人の「永住権」取得の要件厳格化へ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbGZTMVBONVk5ak0tRi1VNnZvZEJOaEFfWDFLRzBMMlFTT0d3YVhJNjNIazJGLVdfd3ZPWWlLdklCWjlNWkQxNURZaVhPSXFpSWs5bDI5X1g1elo4a2JILTVPeFdQal9vUmFJU1czaU1Lczg?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-31 22:11",
+   "published_iso": "2026-07-31T13:11:38+00:00"
+  },
+  {
    "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
    "source": "時事ドットコム",
@@ -264,20 +288,20 @@
    "published_iso": "2026-07-31T11:45:19+00:00"
   },
   {
+   "title": "入管難民法違反で略式起訴の「アジア最大級の犯罪集団」幹部を米国に送還 関係者",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxTFVkX05pRUZIX3dfSU15aEh6Q3I4RkF2ak1JR3JUY09SN2p3dzJpWmdxOHVsSzE3eHFSWVlNSkpNektTTGRqNEI2VS1fZmJvSUhYa2xTRDl5NGxrVE9MRHhyZEtBbEE1R0drR0RrdTBlR255ZFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-31 20:28",
+   "published_iso": "2026-07-31T11:28:32+00:00"
+  },
+  {
    "title": "｢外国人の職員採用を続けるべきか｣ 三重県のアンケート 諮問機関が“差別にあたる”と判断",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQ1lYbEYyUXk0bDl4S0wwUEhjRjBNaGdiTUtVYXFQSXQzak9YVWtxM1ZFLTZVdFhRcHZLNlg4QkRNbGVPMXF3a1ZheFhzOGlfZ195V1dYU1N2UQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 20:21",
    "published_iso": "2026-07-31T11:21:00+00:00"
-  },
-  {
-   "title": "【みんなのギモン】「外国人の窃盗団いる」熊本地震でデマ拡散に注意、熊本県警「事実は確認できず」",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hdEU5WG9rYjRiYXBiLXVZMTd1XzBRSEdsczRnQ3g4bWpEREUtTHEyeVBYSlZXWVZGM28tNHE1TTAwQ3Uydlo5QjFjVzQ0ZjFxaldJRno0cE5CNXpBRkw2Mi1nR2dYMnpya1N5ajE1a1N6UHhGb0kxdVBFem4?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-31 20:14",
-   "published_iso": "2026-07-31T11:14:00+00:00"
   },
   {
    "title": "諮問機関「憲法抵触の恐れ」 三重の外国人職員採用アンケ設問に",
@@ -312,22 +336,6 @@
    "published_iso": "2026-07-31T10:16:00+00:00"
   },
   {
-   "title": "南太平洋の島国ナウル、国名を現地語発音に基づく「ナオエロ」に変更…外国人には発音難しく「ナウル」広まる",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91TURMWkFJZXoyX2RLV3NxZGxPNjdzNkdLbjZWbFFuQU92ZHJhbmNRdjdmbGl4T2tobk1zMXRTeE5iTm9nMFI3UHdDMjJzVjFhOFYzdVJnc1FlUUtUeWlLQUlR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-31 18:16",
-   "published_iso": "2026-07-31T09:16:00+00:00"
-  },
-  {
-   "title": "移民大国ドイツが悩む「1年生の壁」 言葉通じぬ子に小学校苦闘 企業支援の語学教室も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uZlZRMTB6eWN5R25jVTRIS3lqekVoemp6eWljUEE3cjNNa3V1LWN2OEROU3JUaFVKQ2RxcFphTThWQW15SkcwT1NWSFUwVHlGQkhHX1VtaFRzZnJGVWFGQi1wRXRfZW5DNW5WbXJQWFlBdkR3clE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-31 18:00",
-   "published_iso": "2026-07-31T09:00:00+00:00"
-  },
-  {
    "title": "北アフリカのスペイン領に移民6万人殺到、途中で溺れ34人死亡",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmtreWlHQ1VrZ2kwakdzcjNhTUU3aTQyQTRmY0JtWjY2YVU3Vl9DUy00YTk2SkNuTVY0d3FBUzN6Q2dlalk3VmRmSHdlcHNLcm1EUHhWRU5iS0pHWUtzREhWMnpfOGtjc2cyYQ?oc=5",
    "source": "日本経済新聞",
@@ -338,7 +346,7 @@
   {
    "title": "訪日外国人、自転車で高速道進入相次ぐ…「入れないとは知らなかった」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdHhOa090dmJDOFM3YTg2SmJOcm5DcjA5SElfVXlBTnZXZXgtVmxMTkt5RDFIM01hRjBtU3M0eHJDQWREd0lxVzdrc3FFZmQxbk5oMHdQbUx5Z3p1cXRxd2x1SThGdw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-31 17:00",
    "published_iso": "2026-07-31T08:00:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-07-31 13:39",
    "published_iso": "2026-07-31T04:39:02+00:00"
-  },
-  {
-   "title": "スペインの飛び地セウタに移民が流入…モロッコから2000人以上 現地で混乱続く（2026年7月30日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekZEUkRsSWFKYVhfbDdOLW5rSWhmcVJONkFZWGs5Z3k2b1FHUVhuYXBsNjZ4bGN1SlVETXBpRGdlc2JUVElBcnpUYkNQQmdwWFlFLUt0OE1JODVHWGZzS0lFci16V3ZXdGFobGphZjhxRGtDV0kwZkRYeVRBUzlja2w1ZnM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-31 12:25",
-   "published_iso": "2026-07-31T03:25:00+00:00"
   }
  ]
 }
