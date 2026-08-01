@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T16:04:21+00:00",
+ "generated_at": "2026-08-01T17:58:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -296,14 +296,6 @@
    "published_iso": "2026-07-31T16:05:37+00:00"
   },
   {
-   "title": "スペイン領の飛び地へ…モロッコ移民約6万人か スペイン政府は軍隊派遣し沈静化へ",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2lwRkJEbGtNZFpXcmNKYnhBandRcl9PZG1lT21RbV9IdDM0aTdNUGozWlJZWkl5LUktM3FMbGg0MHRhcm5QYkpnUC02dzJpVktMVmtkbjRFdDZlMVZCVXBEbFNYWUhGYWpHUmxSSFJ0OU5FZkxnUWdHWkN5OGVlZUZ5NVU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-01 01:05",
-   "published_iso": "2026-07-31T16:05:00+00:00"
-  },
-  {
    "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
    "source": "日テレNEWS NNN",
@@ -406,6 +398,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-07-31 17:00",
    "published_iso": "2026-07-31T08:00:00+00:00"
+  },
+  {
+   "title": "熊本地震でベトナム人技能実習生の男性1人死亡 工場でクレーンの下敷きに 1月来日",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdmRwXzl0WmRod1R0d2hZY0Jab09NbDdrd3lnU2xseV9NVmVuUVdld2o3dW1FWnB4NGpGM2FRU0x6eFdCOWlENzR5YUpLcXoyNFB4dUp4ME43WWg4VXNBM2dJSjdMSk03VU9EUmt4R0FFVHFGdzZvV1Z3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-07-31 16:59",
+   "published_iso": "2026-07-31T07:59:10+00:00"
   }
  ]
 }
