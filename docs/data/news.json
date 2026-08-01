@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T21:52:50+00:00",
+ "generated_at": "2026-08-01T22:52:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "地震で倒れたクレーンの下敷きに ベトナム人技能実習生の葬儀営まれる",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4ZkkzbVk2Q0tnYXR2Qmt5SGlUSHZaZWozVF9Ea3pMSzhxWEFQNVdBcHRleEc2eE0yQUNENnE5MkdnWVlLUERPbWpnSHZKVEppMWNvYXlYX1Z0djdUdkdEMUpaRkZ4ekFHd0xIb2VaWlQ3UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-02 07:41",
+   "published_iso": "2026-08-01T22:41:27+00:00"
+  },
+  {
+   "title": "スペインへの移民6万人突入の影にモロッコの揺さぶり工作か EUが再発阻止へ緊急会合",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZDZhLUViN2ZEYTdxYS1CbGw2Qkg1S0h5MXE1MW0tMjNJcGc2LXVrc1RnUWhGQ3k3dkEtZmZNSVl2dGdlQThqT2xyM3B4OFZRbWQ1Q3VGZDhOZnNqNXNMOWxCNUwtNlNOcFlxWXhHeFd2blA0UFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-02 07:29",
+   "published_iso": "2026-08-01T22:29:44+00:00"
+  },
   {
    "title": "技能実習生らが絶大支持の町工場 社長「特に対策していませんが」 [埼玉県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N3FZd0NycE1MT2RwMW9uc09KRDc2RWVUVmwxZXlyNGZqSzhlcFJvamFOak5BbWZGWTMzVF9HT3J4cW9pR1huSXI2eGNjMnNEYjFVVUx3VTZfZklsV2o4TXVhQlR1SFU?oc=5",
@@ -22,14 +38,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-02 05:00",
    "published_iso": "2026-08-01T20:00:00+00:00"
-  },
-  {
-   "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-02 03:32",
-   "published_iso": "2026-08-01T18:32:02+00:00"
   },
   {
    "title": "トランプ米政権：トランプ政権 欧州「強化」へ資金提供 「移民で文明消滅」 持論反映",
@@ -120,6 +128,14 @@
    "published_iso": "2026-08-01T06:57:17+00:00"
   },
   {
+   "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 15:30",
+   "published_iso": "2026-08-01T06:30:00+00:00"
+  },
+  {
    "title": "スペインと自由往来停止 イタリア モロッコ不法移民防ぐ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTmFXQjJ6T3ZUaDZiWmkxYUxoQ3VFd0xVbHJiMkNwaXBFZkU2ZHg0aGh4LWFhYm1KeGlOTWFqQ0ZSSTJ5WDhhNG1xUGVVREdwYnlxcHMyZEhFWDZ4TE42eWFNVHlRV3N5UEhSaQ?oc=5",
    "source": "日本経済新聞",
@@ -154,7 +170,7 @@
   {
    "title": "外国人に関する設問は「差別」 調整委が答申へ 県民アンケートで採用是非 三重",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YeGQxSUY3eWFJbmhrVWdKX2JFX1hhYkR3enRUellURTltWHFCUGNyeUpjaGdDSGNBczJWNFp1SHNhWVdRa1hyZ3hDSQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-01 11:01",
    "published_iso": "2026-08-01T02:01:08+00:00"
@@ -210,7 +226,7 @@
   {
    "title": "移民越境で欧州分断危機 スペインに強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-01 08:38",
    "published_iso": "2026-07-31T23:38:00+00:00"
@@ -254,14 +270,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 06:54",
    "published_iso": "2026-07-31T21:54:26+00:00"
-  },
-  {
-   "title": "不法移民４万人超、スペイン領に殺到",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tV201QnVpek5iNUpaQWt3VnRIYnA1WFpsQjMzUUtCSTJfS0htaWZKU29FclpoWmdhd2F1dW55ZG12R3JsYk4wOVY4S2cyYzhRWkd1dnNoN0hUN21FLTFXV21sdUo?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-01 06:03",
-   "published_iso": "2026-07-31T21:03:11+00:00"
   },
   {
    "title": "北アフリカのスペイン領セウタにモロッコから6万人の移民流入 スペイン首相「不法移民の送還手続きを迅速化する」",
@@ -320,6 +328,14 @@
    "published_iso": "2026-07-31T16:05:37+00:00"
   },
   {
+   "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから大量流入",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWnlIYktPRm5MLU40MFBBWkNRWXZKWG5nNnBDUjd1aVdCM3pvajVzcTNSLURhNDE2UDYzRTBQWHNWNDhMOGl0SjB1NzJkSllLWllITE9vNTBLQWNEdDVZSTFfZm82SER5N2NwcVRzdXZTU2h6c3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 00:58",
+   "published_iso": "2026-07-31T15:58:09+00:00"
+  },
+  {
    "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
    "source": "日テレNEWS NNN",
@@ -350,14 +366,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-07-31 20:57",
    "published_iso": "2026-07-31T11:57:21+00:00"
-  },
-  {
-   "title": "スペイン飛び地への越境移民、６万人に",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pOE14N180SGp3X3RZdjhvOWI2WWFubWtiejlod0ZTcXhqYzNuRWw5REtSWXBOU3FfcEdLbjYweFZQTDItcHpncTMtUXZGYVZWU3NmRXp3dTc?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-07-31 20:45",
-   "published_iso": "2026-07-31T11:45:19+00:00"
   },
   {
    "title": "入管難民法違反で略式起訴の「アジア最大級の犯罪集団」幹部を米国に送還 関係者",
@@ -398,14 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 19:17",
    "published_iso": "2026-07-31T10:17:41+00:00"
-  },
-  {
-   "title": "「外国人の職員採用を続けるべきか」県民アンケート質問 県の諮問委員会が判断「差別に該当する」 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGo5ZlRSTktLbTExRy01RkFmVHk0YjB3ZEZpeHBDamVfQ2JKSlllNHE2TTFRcGxHaDVWR3pQdVQydndxVG1CZnJBQXRGVktWQmVIWkpKQnJHVkVRREZueXE5bFIxUU1sNWR4bjRqZFNsalkzRTZNU0xfZEEtUjRlMGFiOWRlbVk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-31 19:16",
-   "published_iso": "2026-07-31T10:16:00+00:00"
   }
  ]
 }
