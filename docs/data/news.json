@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T20:48:43+00:00",
+ "generated_at": "2026-08-01T21:52:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -18,7 +18,7 @@
   {
    "title": "「言葉の壁」介護職の技能実習生サポート 厚生事業団東郷の特養【多国籍社会】：ニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52WUtybXhzVE9FTFNVLURvT0hkYUtqdnZQNm9ITG5lU1Y1SnVRLTR3WmRrQnF1U0k0cmZZdXFkOGxzR2dtVl9qTmRFczlJY2F2VW43d2ZXdm9fVW5MaXdN?oc=5",
-   "source": "biz.chunichi.co.jp",
+   "source": "中日BIZナビ",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-02 05:00",
    "published_iso": "2026-08-01T20:00:00+00:00"
@@ -354,7 +354,7 @@
   {
    "title": "スペイン飛び地への越境移民、６万人に",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pOE14N180SGp3X3RZdjhvOWI2WWFubWtiejlod0ZTcXhqYzNuRWw5REtSWXBOU3FfcEdLbjYweFZQTDItcHpncTMtUXZGYVZWU3NmRXp3dTc?oc=5",
-   "source": "kyoto-np.co.jp",
+   "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-07-31 20:45",
    "published_iso": "2026-07-31T11:45:19+00:00"
