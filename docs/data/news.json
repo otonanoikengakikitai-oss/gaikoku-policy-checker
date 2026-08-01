@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T11:14:36+00:00",
+ "generated_at": "2026-08-01T13:14:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "EU22カ国が不法移民対策強化を要請 スペイン領セウタへの移民5万人流入受け緊急対応要請",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtU0ZEb1pMTmxtSXFRZHlPRDVyR3dJX25DUHhJR0lRNUUwM2FldWNSaUZPbEJxajBHNmlLMThjbEhLY1F4a0VnaHFud29Tdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-01 21:18",
+   "published_iso": "2026-08-01T12:18:00+00:00"
+  },
+  {
+   "title": "特定技能制度とは 外食は新規受け入れ停止、再開未定",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSNnNUaDJVUEgxVUFxY0VTN2xrcVRrTktDbmYyMGE1OG8yWFAteE5zLWxFN3N5Y2hLUTU4cXlWRVc2d3BRWFlPZE9fVWRJakF6Rk5Kd1NtbVU3ZzB2Wnk5eDhkclA0OU5FeW1wTg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 20:30",
+   "published_iso": "2026-08-01T11:30:00+00:00"
+  },
+  {
+   "title": "イタリア 国境管理強化を発表 モロッコからスペイン領飛び地に大量の移民押し寄せ（2026年8月1日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeC0zTnRJaW5jOEhJMDdvX0JndkplcHBNSEs4ck94VjFFVjlfNWRLbDNnRzBudzF4ZEpSdjl0czVNckpPMGpxcURLZk4wSUJ4b21Pcm4zVXZVT2RwYnlTTU5lWU9ZUHhtQWNCam1YdkloS25tMVdqTF9oRzk2Y2FjeUJEM3k?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-01 19:31",
+   "published_iso": "2026-08-01T10:31:00+00:00"
+  },
   {
    "title": "スペインの飛び地セウタ、人口７割相当の不法移民６万人流入…直ちに送還できないとする判決影響か",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uZ0tKLV9QOGExRm8wN3dVMWxIZXl5eVRLMDJldTNBeExmejNVanFSUmR0aEpqVEFWNGdPbDJpYWlFcGFYZzNLT1ZfX2FQQ3B0ME5RT2d0ZG9Td09DSTlFdDhR?oc=5",
@@ -152,6 +176,14 @@
    "published_iso": "2026-08-01T01:00:00+00:00"
   },
   {
+   "title": "イタリアがスペインとの国境検査を再導入 不法移民流入受けシェンゲン協定の自由移動を一時停止に",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QR3NQSkVKcHB3N2UzX3RnMjlnaFdnS0pKSG5odTg0WnBmZ3hJS2s1WGY3aGJNZFRRTmxBbEFma2xENmh4QXRXVjBPSGVoUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-01 09:58",
+   "published_iso": "2026-08-01T00:58:00+00:00"
+  },
+  {
    "title": "スペインに北アフリカから移民6万人突入 イタリアは波及を警戒、国境検問を一方的復活",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbnA0U09GRTUtZ3l3RjZLcTJCWDhDN0JnR0I3RGdickJRN29TZjR2VEcwTnFzOU1JNjE2dExrLTAtR0kxOURObVlLRTQ0dVVhZjJKcGU1SzAta1N2YW9nWDdfNThZOHBnUkhuV0NRRTR4a0hyZ1E?oc=5",
    "source": "産経ニュース",
@@ -288,14 +320,6 @@
    "published_iso": "2026-07-31T15:58:09+00:00"
   },
   {
-   "title": "【速報】米、モロッコ移民流入でスペイン批判",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YUGxtbjRyRHBBcFo2N213OWhDSUVfUi02UFVrVGhKZGloYlhsRmlMQjR4YmwyMDRIdEd1YTdyMURkVXFmSlY0WGEwTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-01 00:40",
-   "published_iso": "2026-07-31T15:40:21+00:00"
-  },
-  {
    "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
    "source": "日テレNEWS NNN",
@@ -360,52 +384,28 @@
    "published_iso": "2026-07-31T10:30:09+00:00"
   },
   {
-   "title": "北アフリカのスペイン領に移民6万人殺到、途中で溺れ34人死亡",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmtreWlHQ1VrZ2kwakdzcjNhTUU3aTQyQTRmY0JtWjY2YVU3Vl9DUy00YTk2SkNuTVY0d3FBUzN6Q2dlalk3VmRmSHdlcHNLcm1EUHhWRU5iS0pHWUtzREhWMnpfOGtjc2cyYQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-07-31 17:11",
-   "published_iso": "2026-07-31T08:11:17+00:00"
+   "title": "海泳ぎ防波堤を上る人も…北アフリカのスペイン領セウタにモロッコからの移民流入 24時間で約4万9000人とスペイン内務省",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zek1HUGtNLUFDZm44cjE1N0VYTVdqbHZTVEkzNWVBTktldVV3eGF5amZoeDQweE5aaEVDem5SdjgyY05lRkd4aVc4Z0RlV1RZNWtTUlQxb3prQUtMU3V2U2tjN2EtMTlRUWl1VmRDc1N4UklH?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-07-31 19:17",
+   "published_iso": "2026-07-31T10:17:41+00:00"
   },
   {
-   "title": "訪日外国人、自転車で高速道進入相次ぐ…「入れないとは知らなかった」",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdHhOa090dmJDOFM3YTg2SmJOcm5DcjA5SElfVXlBTnZXZXgtVmxMTkt5RDFIM01hRjBtU3M0eHJDQWREd0lxVzdrc3FFZmQxbk5oMHdQbUx5Z3p1cXRxd2x1SThGdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-07-31 17:00",
-   "published_iso": "2026-07-31T08:00:00+00:00"
+   "title": "「外国人の職員採用を続けるべきか」県民アンケート質問 県の諮問委員会が判断「差別に該当する」 三重県",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGo5ZlRSTktLbTExRy01RkFmVHk0YjB3ZEZpeHBDamVfQ2JKSlllNHE2TTFRcGxHaDVWR3pQdVQydndxVG1CZnJBQXRGVktWQmVIWkpKQnJHVkVRREZueXE5bFIxUU1sNWR4bjRqZFNsalkzRTZNU0xfZEEtUjRlMGFiOWRlbVk?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-07-31 19:16",
+   "published_iso": "2026-07-31T10:16:00+00:00"
   },
   {
-   "title": "熊本地震でベトナム人技能実習生の男性1人死亡 工場でクレーンの下敷きに 1月来日",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdmRwXzl0WmRod1R0d2hZY0Jab09NbDdrd3lnU2xseV9NVmVuUVdld2o3dW1FWnB4NGpGM2FRU0x6eFdCOWlENzR5YUpLcXoyNFB4dUp4ME43WWg4VXNBM2dJSjdMSk03VU9EUmt4R0FFVHFGdzZvV1Z3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-31 16:59",
-   "published_iso": "2026-07-31T07:59:10+00:00"
-  },
-  {
-   "title": "アルゼンチンに「憎悪」示した外国人は国外追放 ミレイ氏が大統領令",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14MHVGS0k3bGpZRHdyc3BrUU9qbUROczVZYlctWnBLWVhNdENVVGRhNlpJQU56d3lQWW5LOVVoZmV1Tnd5ZWZBOUZWek5EbVJzb1oxbDRnY0xfTWpUbmpINGlXRE0tdw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-31 16:57",
-   "published_iso": "2026-07-31T07:57:00+00:00"
-  },
-  {
-   "title": "三重の外国人採用アンケ 弁護士「知事は謝罪、撤回すべきだ」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sN3dYVlpzRWx0dGVwUHB0bXVrclA0bzJVY0pYMTBNVkg3M2FpUjRHQlJsU1BMeG00dXdrc21tdXNUbl83UlFKLWtLSm5Oc1pRWFVKNVpLQUVmVm1wQVpERkpGdi1Pd2I4?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-31 16:42",
-   "published_iso": "2026-07-31T07:42:17+00:00"
-  },
-  {
-   "title": "外国人政策の基本方針公表 入管庁 厳格化に",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwQThtYm1NdTBVZVUtYkdHVEx6WlBHbmtYNW9WNWRhMmZ3OHJPQ29KbnRib3ZmQ1gzMTBnNlcyWnJYRlNMVzg4Yy1JTUlrX3lhUWRvbG5QZzRzOW9uZE43VlhHam1uMzNRY2hRVlBaSktxZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-31 16:05",
-   "published_iso": "2026-07-31T07:05:01+00:00"
+   "title": "移民大国ドイツが悩む「1年生の壁」 言葉通じぬ子に小学校苦闘 企業支援の語学教室も",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uZlZRMTB6eWN5R25jVTRIS3lqekVoemp6eWljUEE3cjNNa3V1LWN2OEROU3JUaFVKQ2RxcFphTThWQW15SkcwT1NWSFUwVHlGQkhHX1VtaFRzZnJGVWFGQi1wRXRfZW5DNW5WbXJQWFlBdkR3clE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-07-31 18:00",
+   "published_iso": "2026-07-31T09:00:00+00:00"
   }
  ]
 }
