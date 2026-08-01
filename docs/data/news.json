@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T14:58:00+00:00",
+ "generated_at": "2026-08-01T16:04:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -72,14 +72,6 @@
    "published_iso": "2026-08-01T09:00:00+00:00"
   },
   {
-   "title": "スペイン飛び地へ最大6万の不法入国者、大半は自らモロッコに帰還か",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iMVpTOTdSM3ZLWGRJeTdjT3oxM1RtSmNfV3diMkVDVEhhdmNaQnhhQmRDZWhOWHlnVjVibzFzdUU4NUdkRWFRYklUb0YtdThzRHItVV9KSUR4YjA5ZEloSGdTZ1ZFTXc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-01 17:00",
-   "published_iso": "2026-08-01T08:00:00+00:00"
-  },
-  {
    "title": "入国審査官・入国警備官に元自衛官採用へ 外国人政策は今後どうなる？",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xUlYzTzB4S2xaUGswSkFCbkRIbjdaNldHUC1UVlZ6TENZYWVmb25wTUZlUWlvVWI1WjVfWHJld3Uzakh6SmN3X0wtR18tOUJSZ3B3NFhIX0xMQzhvdVZrYVFDNWRWLWgwWXNJVXI4UFBKVTA?oc=5",
    "source": "テレ朝NEWS",
@@ -130,7 +122,7 @@
   {
    "title": "外国人に関する設問は「差別」 調整委が答申へ 県民アンケートで採用是非 三重",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YeGQxSUY3eWFJbmhrVWdKX2JFX1hhYkR3enRUellURTltWHFCUGNyeUpjaGdDSGNBczJWNFp1SHNhWVdRa1hyZ3hDSQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-01 11:01",
    "published_iso": "2026-08-01T02:01:08+00:00"
@@ -242,7 +234,7 @@
   {
    "title": "移民越境で欧州分断危機 スペインに強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaMGRXNThpb0lHT2xMUjlIdUFRSEc1YWxIMF9keHFPVmtLazltQ3dLTUdjRm5BOV9WWVlrUlB3NHFzeGJtNnplaUg2SFdwWmZqWkVYYS1ReEFJUQ?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-01 05:57",
    "published_iso": "2026-07-31T20:57:15+00:00"
@@ -310,14 +302,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-01 01:05",
    "published_iso": "2026-07-31T16:05:00+00:00"
-  },
-  {
-   "title": "「不法移民を容認し助長」米、スペイン政府を批判 飛び地に陸続きのモロッコから大量流入",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uWnlIYktPRm5MLU40MFBBWkNRWXZKWG5nNnBDUjd1aVdCM3pvajVzcTNSLURhNDE2UDYzRTBQWHNWNDhMOGl0SjB1NzJkSllLWllITE9vNTBLQWNEdDVZSTFfZm82SER5N2NwcVRzdXZTU2h6c3c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 00:58",
-   "published_iso": "2026-07-31T15:58:09+00:00"
   },
   {
    "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
@@ -406,6 +390,22 @@
    "source_domain": "sankei.com",
    "published": "2026-07-31 18:00",
    "published_iso": "2026-07-31T09:00:00+00:00"
+  },
+  {
+   "title": "北アフリカのスペイン領に移民6万人殺到、途中で溺れ34人死亡",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5cmtreWlHQ1VrZ2kwakdzcjNhTUU3aTQyQTRmY0JtWjY2YVU3Vl9DUy00YTk2SkNuTVY0d3FBUzN6Q2dlalk3VmRmSHdlcHNLcm1EUHhWRU5iS0pHWUtzREhWMnpfOGtjc2cyYQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-07-31 17:11",
+   "published_iso": "2026-07-31T08:11:17+00:00"
+  },
+  {
+   "title": "訪日外国人、自転車で高速道進入相次ぐ…「入れないとは知らなかった」",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdHhOa090dmJDOFM3YTg2SmJOcm5DcjA5SElfVXlBTnZXZXgtVmxMTkt5RDFIM01hRjBtU3M0eHJDQWREd0lxVzdrc3FFZmQxbk5oMHdQbUx5Z3p1cXRxd2x1SThGdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-07-31 17:00",
+   "published_iso": "2026-07-31T08:00:00+00:00"
   }
  ]
 }
