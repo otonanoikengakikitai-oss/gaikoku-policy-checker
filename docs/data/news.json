@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T08:20:26+00:00",
+ "generated_at": "2026-08-02T10:38:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,20 +24,36 @@
    "published_iso": "2026-08-02T04:13:00+00:00"
   },
   {
+   "title": "ペルーで「ナスカの地上絵」に向かっていた小型機が墜落、外国人観光客ら１３人死亡…現地は強風か",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtOWNPUTRINUxGQ3FJeEQzRW5ieHRqbGxrOEg4dU1NNXpId1hqcmFRdXVseUR6bXlfdURSZG1qbmhTa0tBMURfUWF1aFd0T2g0YnNnZXZKM2loZUw2NGw2OTZ3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-02 12:40",
+   "published_iso": "2026-08-02T03:40:00+00:00"
+  },
+  {
+   "title": "子供抱えた難民の「あなた」が迫られる決断、「海路？陸路？」「動けない人を助ける？目をつぶる？」あなたはそのとき何を選ぶ…「もし難民だったら」体験する企画展",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44U2cxZ21FTklLSndvaU9tTHRhYzJqa3FDRVhxdHhSSUh1TG1KVG9QUW03eERrTmVQTzRNWmdnUG1GeTAtWURDMkllLWtkVmc5cFBZb29CRFd4Xy1HbWcwVm15cFRGMmhfRE1iblB6T1QxZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-02 12:30",
+   "published_iso": "2026-08-02T03:30:00+00:00"
+  },
+  {
+   "title": "外国人向け交通安全教室_インドネシア人参加者が日本の道路標識を学び”運転シミュレーター”で交通ルール学ぶ_外国人ドライバーによるレンタカー事故相次ぐなか啓発＜北海道浦河町",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByMGk0TTcxeWJNZkJ0N2c2aUh3ZjhGck5XczRNaTV3LTJXUXYzZGdwZWRQcWhLWTZLalYzZXppS091ZnBBVnpOTUpydnVyZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-02 12:20",
+   "published_iso": "2026-08-02T03:20:00+00:00"
+  },
+  {
    "title": "【JRA】WASJに出場する外国人騎手6人を発表",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMcEFDQjk3NXMzazFyWXBJdG5UaWlCQk42Tk1HdG9VbUZwU29lZ2xHNi0xZHk1Ym1Ea0hoaUJ3c3VVY2gwMld0aXl3VWVGMXM4bmlQNA?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
-   "published": "2026-08-02 13:03",
-   "published_iso": "2026-08-02T04:03:26+00:00"
-  },
-  {
-   "title": "ペルーで「ナスカの地上絵」に向かっていた小型機が墜落、外国人観光客ら１３人死亡…現地は強風か",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtOWNPUTRINUxGQ3FJeEQzRW5ieHRqbGxrOEg4dU1NNXpId1hqcmFRdXVseUR6bXlfdURSZG1qbmhTa0tBMURfUWF1aFd0T2g0YnNnZXZKM2loZUw2NGw2OTZ3?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-02 12:40",
-   "published_iso": "2026-08-02T03:40:00+00:00"
+   "published": "2026-08-02 11:49",
+   "published_iso": "2026-08-02T02:49:16+00:00"
   },
   {
    "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
@@ -50,7 +66,7 @@
   {
    "title": "コラム凡語：災害時の外国人",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEV0Z4THRkRVc0am5xOEh0bjN0NnBxSTY3eklBODBkMFlMajB4c0FtRThJd1p2WkRaeXhrUUlvS2hoM295REU3S3ZoVzk1SFctUmUydjBXd1A?oc=5",
-   "source": "kyoto-np.co.jp",
+   "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-02 10:30",
    "published_iso": "2026-08-02T01:30:00+00:00"
@@ -58,18 +74,10 @@
   {
    "title": "移民大量流入のスペイン、政権への圧力強まる EUは緊急会合へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DdHdYa0JTdjZZVGg5V084dnJVUDBXaHEwQXc2a1hFN0s4NVFNTEh5OURDRFQySnNNTThEN181ckJuSnhCcHhGZ2Rxck5SWUJYc2x0d2xHQ2JyX0U1cDlwZU5YT2U1VDRD?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 10:09",
    "published_iso": "2026-08-02T01:09:35+00:00"
-  },
-  {
-   "title": "「介護難民400万人時代」の衝撃 「2人に1人が介護を受けられなくなる事態」が現実味を帯びる理由とは？",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBOE1seFNWekkyQUZPNlVfZTNmU0dpcXRrWjN5NVdKSVpralh4TWRPMUR0eUg4WkNDcmVSYjFrbHk2ZFVMVnBMRFNvY3JHYnJMd19mcjNydnE?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-08-02 08:00",
-   "published_iso": "2026-08-01T23:00:00+00:00"
   },
   {
    "title": "地震で倒れたクレーンの下敷きに ベトナム人技能実習生の葬儀営まれる",
@@ -98,7 +106,7 @@
   {
    "title": "技能実習生らが絶大支持の町工場 社長「特に対策していませんが」 [埼玉県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N3FZd0NycE1MT2RwMW9uc09KRDc2RWVUVmwxZXlyNGZqSzhlcFJvamFOak5BbWZGWTMzVF9HT3J4cW9pR1huSXI2eGNjMnNEYjFVVUx3VTZfZklsV2o4TXVhQlR1SFU?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-02 05:00",
    "published_iso": "2026-08-01T20:00:00+00:00"
@@ -114,7 +122,7 @@
   {
    "title": "トランプ米政権：トランプ政権、欧州「強化」へ資金提供 「移民で文明消滅」持論反映",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WWll6WjlLQzdwVmlqM1RONE9ob2hndGdqOUc2eEdFblpIVWYzREw5MFdIOVhMS3ZHalRTTnJrbXZSRFdTMlZGc0IyakNGa1NSNzF3aUZpcTJoeDFUWXpzdVoySG00cXdD?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 02:02",
    "published_iso": "2026-08-01T17:02:02+00:00"
@@ -122,7 +130,7 @@
   {
    "title": "スペイン領、移民殺到 モロッコから 一時国境機能不全",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXEwdUltbEJZS20wLXlvbXdvb2M5U2x0dzVrOUFCaDFzMk5GVWRuQzEwd1RsZW1xWm9xc1hoYjhGb1VodUZXY0pBQndMSWpXMEVUVWNreGIwZDJHVmVmdEtEczhKR1Fn?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 02:01",
    "published_iso": "2026-08-01T17:01:58+00:00"
@@ -130,7 +138,7 @@
   {
    "title": "特定技能制度 全分野の上限は80万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvT1hpaXYxVTIxcVRObjBsZk5rZWpnMFFKalFHVUZfT1hWOFZpVnR5UVE4QURXaEt1TlZnZ3FyMmwxS2wzaDlkZ0VIQWFRYXlwbF9vbGI4d2FYWXVJV0hEbVZrcTdial9IUGJ6Yw?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-02 02:00",
    "published_iso": "2026-08-01T17:00:00+00:00"
@@ -146,7 +154,7 @@
   {
    "title": "スペイン、モロッコとの国境沿岸に海上フェンス 不法移民防止で",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQldITTl3cUVsMUNRNDh1a0JCa0pxTy1VaUU0MmpybFlnSXUtVUE3NnZJQ2EyZS1VOFR1ZS1PcEViWldSM2pLNUZ4M2JicE00eklwT2x1cEFrNGlpenNsaUhPZ1k2Qk5USEQyZA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 23:20",
    "published_iso": "2026-08-01T14:20:16+00:00"
@@ -178,7 +186,7 @@
   {
    "title": "スペインの飛び地セウタ、人口７割相当の不法移民６万人流入…直ちに送還できないとする判決影響か",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uZ0tKLV9QOGExRm8wN3dVMWxIZXl5eVRLMDJldTNBeExmejNVanFSUmR0aEpqVEFWNGdPbDJpYWlFcGFYZzNLT1ZfX2FQQ3B0ME5RT2d0ZG9Td09DSTlFdDhR?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-01 18:18",
    "published_iso": "2026-08-01T09:18:00+00:00"
@@ -194,7 +202,7 @@
   {
    "title": "「外国人増えると治安悪く」「優遇されている」事実以上に不安・怒りが表れる噂…スペイン発の＜反うわさ戦略＞が目指すものとは",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUZl9kaWxYY0ZYSVZ6SEdFMkJIb3VDdjkzNGZwa2FMb25nNjlmUWJzRi13NDduXzZzbnhUTExPdlY0bjR6cTRheU0yZEFtWFJiNEMwZzhkMkpwUTdyYklWQThpX2drVnAxNW5BVXN3RkxxZw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-01 18:00",
    "published_iso": "2026-08-01T09:00:00+00:00"
@@ -210,7 +218,7 @@
   {
    "title": "スペインと自由往来停止 イタリア モロッコ不法移民防ぐ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTmFXQjJ6T3ZUaDZiWmkxYUxoQ3VFd0xVbHJiMkNwaXBFZkU2ZHg0aGh4LWFhYm1KeGlOTWFqQ0ZSSTJ5WDhhNG1xUGVVREdwYnlxcHMyZEhFWDZ4TE42eWFNVHlRV3N5UEhSaQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 14:30",
    "published_iso": "2026-08-01T05:30:00+00:00"
@@ -224,17 +232,9 @@
    "published_iso": "2026-08-01T03:16:20+00:00"
   },
   {
-   "title": "米国務省、多数の移民が流入したスペインの政府を批判 「容認し助長してきた結果」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MGFTZjViZ2NKLVBzT3JUX1oydDdBWnpoMEFZYk5QWXFMZmpQdW5ReXZ6VW9WMENiRTRiOWowYkZyMldlTTVXd0pnd3RLNElNU3NyYVVZZTNSbkhod0s1MlA1Rk9zM0RVVTBuZHRnUFNNVE9zclE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 11:03",
-   "published_iso": "2026-08-01T02:03:24+00:00"
-  },
-  {
    "title": "外国人受け入れ枠に迫る上限 食品製造72%・建設67%、企業採用に影",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43MEtUZUs1NXJDc2tuTThxaWwzNGtPZXJhYTM1alRTanBXOFNmM1d1OFgxVnBwNFpwVnlYLTdNZGRTY1N6eHF6RFJReXVua2lHbTBFclFhTmQ3dVZvZS1uN21YNVpKcV9kWmdQSw?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 11:00",
    "published_iso": "2026-08-01T02:00:00+00:00"
@@ -290,7 +290,7 @@
   {
    "title": "イタリア、スペインとの往来の自由一時停止 モロッコ不法移民流入で",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRFBpcUw1WjhMNy1qcUpHeTJUVlNldFZsSmd5Sm1BalNNbE55M1g4VTQzVmFfQzV2cEN2ZUtXVC0wLThha1dHZWFHak16cGdmYWFVdVJBWGxMUEhmR01YQkdZSTRTOXVHTnBIeg?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 06:56",
    "published_iso": "2026-07-31T21:56:29+00:00"
@@ -314,7 +314,7 @@
   {
    "title": "日本語学習と仲間作り 外国籍の子供向け夏休み教室 加須 ／埼玉",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQXBVdjFUNG8wTzdRQVV1MV9BN29fYjA4M0pJRThjUkNwRUFDNjZfLU4wN2xDb3JaVFBUZG9QelV5S0dSUjdmcEd0R1A3cG9VQWJGQV9QNVJUSER3M2E2LUxFb205dFBu?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-01 05:02",
    "published_iso": "2026-07-31T20:02:10+00:00"
@@ -322,7 +322,7 @@
   {
    "title": "外国人の受け入れどう変わる？ 転職が可能に、人数増は限定的",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "スペイン飛び地に、数万人の移民 アフリカ北端・セウタ モロッコから海泳ぎ国境突破",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
@@ -338,18 +338,10 @@
   {
    "title": "北アフリカスペイン領への不法移民、4万8000人超がモロッコに帰国",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdHBXeXhGNGEtb0xiVUhIUnlwckNaTHQtVEhqeFVRNWp0ZnMxQURjZ05BdlVoYzhJQ3NlUzdsNkEwcEpvQzdrYmoyYUNKeTlvOUZwRDFpSnhqaGl0NGMtTUZEcjBhZGJRc0EwSA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-01 03:24",
    "published_iso": "2026-07-31T18:24:19+00:00"
-  },
-  {
-   "title": "モロッコからスペインに約5万人の不法移民が海を渡って流入 少なくとも57人死亡",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9idW5SRUE1QWlwRFdrMlpsNzZvRGNvOHVqRHhaY0NpY01UNFNVMlpERTc2VXQzWVYzTEs4UjJXRVVtd2FYU1BqQU1GOTB2dw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-01 01:54",
-   "published_iso": "2026-07-31T16:54:00+00:00"
   },
   {
    "title": "北アフリカのスペイン領セウタにモロッコからの移民流入 およそ5万人とスペイン内務省 海岸に多数の遺体も…伊・メローニ首相も懸念を表明 波紋広がる",
@@ -386,7 +378,7 @@
   {
    "title": "モロッコからスペイン領に移民4.9万人流入 渡航中18人死亡",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83Ti1jZUlKa2hTUV92OWVQUzJudldHR1lUeUZiRmpSZjVRQTBCdXZtTWpCeTE3VG5wempheHY5X3BXVS1qNUtnS2tTWVg0Nmw0ZWpxNWZ3aFROUUl0Sm16RzRwUHcxUEQ5?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-07-31 20:57",
    "published_iso": "2026-07-31T11:57:21+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-07-31 20:21",
    "published_iso": "2026-07-31T11:21:00+00:00"
+  },
+  {
+   "title": "諮問機関「憲法抵触の恐れ」 三重の外国人職員採用アンケ設問に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZOVE3WVRrNGxDbFMzaDBxVThmWk9kTmlOUERHd1ZPVUVfU0dJYVJaaHhRTHhubW40My1CSXVkRTJ2MFJ1NG50MVdmTndxc0ZuWEVjdEltYWJiY055cDhKclA4bDRDX2pT?oc=5",
+   "source": "mainichi.jp",
+   "source_domain": "mainichi.jp",
+   "published": "2026-07-31 20:12",
+   "published_iso": "2026-07-31T11:12:11+00:00"
   }
  ]
 }
