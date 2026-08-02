@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T21:53:04+00:00",
+ "generated_at": "2026-08-02T22:53:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「家族」で力合わせて 熊本で被災したフィリピン人技能実習生 [写真特集1/6]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52c3BWSjl5STVVT1hYd2NsWm9oemJDQWItbHlEdG9RZTJRdTJqUDVCODFNXzNhZHRKTEwwMmhpT2V4YXpZRTF0OHVtbjd5dTlLY3FvOGNpVFFubGJCdkVqN29VMFViZw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-03 06:55",
+   "published_iso": "2026-08-02T21:55:00+00:00"
+  },
   {
    "title": "唯一の「外国人歌人」カン・ハンナさんが短歌で伝える「引き算の文学」",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPLUNSRWh1MnZxbmNlYm5pTlVWVVV2aDZGVzhONlhKN05nLWZ3ZnhNV0ZzNzJPeTAxcVZMRTVubmI1bElacG9MbTV5VFhMOEpZYWc?oc=5",
@@ -114,7 +122,7 @@
   {
    "title": "外国人向け交通安全教室_インドネシア人参加者が日本の道路標識を学び”運転シミュレーター”で交通ルール学ぶ_外国人ドライバーによるレンタカー事故相次ぐなか啓発＜北海道浦河町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByMGk0TTcxeWJNZkJ0N2c2aUh3ZjhGck5XczRNaTV3LTJXUXYzZGdwZWRQcWhLWTZLalYzZXppS091ZnBBVnpOTUpydnVyZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-02 12:20",
    "published_iso": "2026-08-02T03:20:00+00:00"
@@ -296,6 +304,14 @@
    "published_iso": "2026-08-01T01:30:00+00:00"
   },
   {
+   "title": "外国人政策の関係閣僚会議に臨む小野田紀美外国人共生担当相ら＝7月24日、首相官邸（春名中撮影）",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzM2NExfM2d5Ri1KWmFTUVBzaWxESGQ5MDlKQUNaTVhVLVNkYVd2elBxOXptZHJUNGtqN01QMGhuYnhLdVhoemRRMlFCLWZQX2YxOVA4bEFQRjJIRTV3V014TjIzTzFkUkxtOThla0UxZi1EN1VrVW95LXdwQ3V6MndQNjZJeHJ5RU56UkJxbzQ3b3U0ODBHMThLaldTTllYWVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 10:30",
+   "published_iso": "2026-08-01T01:30:00+00:00"
+  },
+  {
    "title": "労働者ではなく「地元の知人」へ…偏見や誤解を乗り越え地域で暮らす外国人と日本人をつなぐ“多文化共生”のヒント【外国人と共に】",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05YjBxNkhlcmpjVGVFcDVCdFBfRHBxOG5vQ2pjZ1F0R1JsQ1BsNkRtcWdpU1F4QlVMMHM5bVR0emloNC0zSHpfVG00c2ZsZFczOFVsTzU0Tjg0T2VSSjJRUUpGNlU?oc=5",
    "source": "TBS NEWS DIG",
@@ -390,22 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 01:05",
    "published_iso": "2026-07-31T16:05:37+00:00"
-  },
-  {
-   "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-01 00:18",
-   "published_iso": "2026-07-31T15:18:00+00:00"
-  },
-  {
-   "title": "外国人の「永住権」取得の要件厳格化へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbGZTMVBONVk5ak0tRi1VNnZvZEJOaEFfWDFLRzBMMlFTT0d3YVhJNjNIazJGLVdfd3ZPWWlLdklCWjlNWkQxNURZaVhPSXFpSWs5bDI5X1g1elo4a2JILTVPeFdQal9vUmFJU1czaU1Lczg?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-31 22:11",
-   "published_iso": "2026-07-31T13:11:38+00:00"
   }
  ]
 }
