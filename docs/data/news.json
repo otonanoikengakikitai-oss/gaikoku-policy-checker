@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T19:05:40+00:00",
+ "generated_at": "2026-08-02T21:53:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,70 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "唯一の「外国人歌人」カン・ハンナさんが短歌で伝える「引き算の文学」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPLUNSRWh1MnZxbmNlYm5pTlVWVVV2aDZGVzhONlhKN05nLWZ3ZnhNV0ZzNzJPeTAxcVZMRTVubmI1bElacG9MbTV5VFhMOEpZYWc?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-08-03 06:00",
+   "published_iso": "2026-08-02T21:00:02+00:00"
+  },
+  {
+   "title": "ロヒンギャ難民送還「ミャンマーと合意」 マレーシア首相発言が物議",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fc2NDX1ROY2FwZmZhbUd2ZnhxVG5yZDBXMXBzZm5YR3paQkppSUFEN3czVHV6YUFwbXhYRWpQUVptMUtlbndmci1TYksxVF91Uk16cGxnM0hyZnlOVWpKS1NmQU1Ld2s?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-03 06:00",
+   "published_iso": "2026-08-02T21:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：夫の介護、がん…高齢化する在日フィリピン人女性の「終活」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NTAtWGdsanR0anI4c2hwVGJ5Sy1UOEwwYWp2SW5rWVV1Z3dJUXltZkozcmhnX0tkUVl5V2xvSmZKYXBfTVQtRXR3UEJkYjRwQ3h2Z3VtWDRxclpSWEVxSXBwVll5Y1hC?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-03 06:00",
+   "published_iso": "2026-08-02T21:00:00+00:00"
+  },
+  {
+   "title": "京都府北部の市で増える外国人、10年で3倍超「地域が国籍ごとに分断の恐れ」喫緊の課題に",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhME94X1NpMVNTVUR4QTc2OVlKNnZHaDJfZkt5YW1hMmwtUzR3T1ZBeS16N1JzSU44R0NDbE4zWWJRejJMQUp1OTJZNnNPWVJxTk5IUTJQTjU?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-08-03 05:25",
+   "published_iso": "2026-08-02T20:25:00+00:00"
+  },
+  {
+   "title": "避暑は六甲山上の別荘で 明治期の居留外国人の暮らしぶり、写真で紹介 神戸・風見鶏の館|神戸",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wM1BLOS0tMHBweHR6RWZfaElqcGdmbmlMMW1LLVNNQnpydlRubTh4dkJJcWhadmd1TU8taUJrelBkeTlCd2E4T0pfS1JZRTljdk1UUDc4S2NETDlVNmd5NzVVQUFTUExMYzg0?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-03 05:10",
+   "published_iso": "2026-08-02T20:10:00+00:00"
+  },
+  {
+   "title": "鎌田浩毅の役に立つ地学：首都直下地震が起きれば半年後に118万人が“住宅難民”か／260",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Y2N2Vks1OXVTMWFEeWRHYTRDR1pQeXVOY0ZIQ3VROXg0Mnc5R0F6VWpycXU1VDdsYVhtRm43WnBaa1V5TWljeWlHbTd5cVdzdlNVc2JQVlBHVkhIbXQxZExZelNXeGRiN1YwS2d5QzVsbnJma2ZPMjlxYU1rd3c?oc=5",
+   "source": "週刊エコノミスト Online",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:05+00:00"
+  },
+  {
+   "title": "熟練外国人材 外食業が期待…特定技能２号 取得支援、１号停止 責任者として人手確保",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:00+00:00"
+  },
+  {
+   "title": "ロヒンギャ難民「５千人送還」 マレーシア首相「ミャンマーと合意」発言が物議",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WY01BQkdzUFZ1amxzZWFiTEVCT0dpd2JHMzljOFc2bXB1MFNmZjhkZUNSZHlIdXAwNXNMRG12SjJFcjZEblgzNDA3Z2pSS3F3T3drSnNHZVVXVGU0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:00+00:00"
+  },
   {
    "title": "移民流入スペインに圧力 EU22カ国要請 4日会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTXo3aFBBR0o2eDVOaUtGenNyWHNFOG5FTDdENkl0UF9tWlJzU2o2NU9DS0g5SFVHMEpzaDZpUlBVRzRHS0RsVXhNcDNMa3RhZGN1b3dhWHB2TkkwYVBvamo0cW8xWDB4?oc=5",
@@ -50,7 +114,7 @@
   {
    "title": "外国人向け交通安全教室_インドネシア人参加者が日本の道路標識を学び”運転シミュレーター”で交通ルール学ぶ_外国人ドライバーによるレンタカー事故相次ぐなか啓発＜北海道浦河町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByMGk0TTcxeWJNZkJ0N2c2aUh3ZjhGck5XczRNaTV3LTJXUXYzZGdwZWRQcWhLWTZLalYzZXppS091ZnBBVnpOTUpydnVyZw?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-08-02 12:20",
    "published_iso": "2026-08-02T03:20:00+00:00"
@@ -102,6 +166,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-02 07:29",
    "published_iso": "2026-08-01T22:29:44+00:00"
+  },
+  {
+   "title": "〈書評〉『ルポ 難民迫害』神田和則 著",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSV9IQWoyUjdNNmZ4bW9KaWxYbDY0WFh2dGF0UU55VHBBc3dsX2lqZWxKV0dpOFItZGxGeVR0LVN3V3FCY2VRZXpaWHFEcGhUTzVZ?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-02 07:00",
+   "published_iso": "2026-08-01T22:00:03+00:00"
   },
   {
    "title": "技能実習生らが絶大支持の町工場 社長「特に対策していませんが」 [埼玉県] [外国人]",
@@ -158,14 +230,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-01 21:57",
    "published_iso": "2026-08-01T12:57:00+00:00"
-  },
-  {
-   "title": "EU22カ国が不法移民対策強化を要請 スペイン領セウタへの移民5万人流入受け緊急対応要請",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtU0ZEb1pMTmxtSXFRZHlPRDVyR3dJX25DUHhJR0lRNUUwM2FldWNSaUZPbEJxajBHNmlLMThjbEhLY1F4a0VnaHFud29Tdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-01 21:18",
-   "published_iso": "2026-08-01T12:18:00+00:00"
   },
   {
    "title": "スペインの飛び地セウタ、人口７割相当の不法移民６万人流入…直ちに送還できないとする判決影響か",
@@ -226,14 +290,6 @@
   {
    "title": "医療費不払い外国人の入国審査厳格化、白タク取り締まり強化 政府が外国人政策の進捗公表 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UkYtZW5NX0o0cnNkaFJqbTR2QjNkOUNXOHJhNHNlQmtuc2ZjTWdLXzlBbGNZbFQ4NWR6UndQeWc2R191cVFkRUhOWkMtM2FqMEU3MnBxRkE1SkdHRDRpOVlKSDY1aDZjWkhlTE0xcnBGelc5dkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 10:30",
-   "published_iso": "2026-08-01T01:30:00+00:00"
-  },
-  {
-   "title": "外国人政策の関係閣僚会議に臨む小野田紀美外国人共生担当相ら＝7月24日、首相官邸（春名中撮影）",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzM2NExfM2d5Ri1KWmFTUVBzaWxESGQ5MDlKQUNaTVhVLVNkYVd2elBxOXptZHJUNGtqN01QMGhuYnhLdVhoemRRMlFCLWZQX2YxOVA4bEFQRjJIRTV3V014TjIzTzFkUkxtOThla0UxZi1EN1VrVW95LXdwQ3V6MndQNjZJeHJ5RU56UkJxbzQ3b3U0ODBHMThLaldTTllYWVE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-01 10:30",
@@ -350,62 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-07-31 22:11",
    "published_iso": "2026-07-31T13:11:38+00:00"
-  },
-  {
-   "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-31 21:50",
-   "published_iso": "2026-07-31T12:50:00+00:00"
-  },
-  {
-   "title": "モロッコからスペイン領に移民4.9万人流入 渡航中18人死亡",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83Ti1jZUlKa2hTUV92OWVQUzJudldHR1lUeUZiRmpSZjVRQTBCdXZtTWpCeTE3VG5wempheHY5X3BXVS1qNUtnS2tTWVg0Nmw0ZWpxNWZ3aFROUUl0Sm16RzRwUHcxUEQ5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-31 20:57",
-   "published_iso": "2026-07-31T11:57:21+00:00"
-  },
-  {
-   "title": "入管難民法違反で略式起訴の「アジア最大級の犯罪集団」幹部を米国に送還 関係者",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxTFVkX05pRUZIX3dfSU15aEh6Q3I4RkF2ak1JR3JUY09SN2p3dzJpWmdxOHVsSzE3eHFSWVlNSkpNektTTGRqNEI2VS1fZmJvSUhYa2xTRDl5NGxrVE9MRHhyZEtBbEE1R0drR0RrdTBlR255ZFE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-31 20:28",
-   "published_iso": "2026-07-31T11:28:32+00:00"
-  },
-  {
-   "title": "｢外国人の職員採用を続けるべきか｣ 三重県のアンケート 諮問機関が“差別にあたる”と判断",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XQ1lYbEYyUXk0bDl4S0wwUEhjRjBNaGdiTUtVYXFQSXQzak9YVWtxM1ZFLTZVdFhRcHZLNlg4QkRNbGVPMXF3a1ZheFhzOGlfZ195V1dYU1N2UQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-07-31 20:21",
-   "published_iso": "2026-07-31T11:21:00+00:00"
-  },
-  {
-   "title": "諮問機関「憲法抵触の恐れ」 三重の外国人職員採用アンケ設問に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZOVE3WVRrNGxDbFMzaDBxVThmWk9kTmlOUERHd1ZPVUVfU0dJYVJaaHhRTHhubW40My1CSXVkRTJ2MFJ1NG50MVdmTndxc0ZuWEVjdEltYWJiY055cDhKclA4bDRDX2pT?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-07-31 20:12",
-   "published_iso": "2026-07-31T11:12:11+00:00"
-  },
-  {
-   "title": "スペイン、北アフリカからの移民流入が5万人に急増 国境配備の軍部隊に投石も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYVlsci0tZjFJVENQVzVhTzNUcUdHN2NuX1NnQXhUYk5tU01aSEFkTW9DZHJzRHFWeVljYkJ2aFF3bDJJcl9WTGhYblM4VnYxdGVXZTQ0V0xQYjR5bWRXNnNCbWNPdHdQWlo2dHBqbXNoTnl5eGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-07-31 19:30",
-   "published_iso": "2026-07-31T10:30:09+00:00"
-  },
-  {
-   "title": "「外国人の職員採用を続けるべきか」県民アンケート質問 県の諮問委員会が判断「差別に該当する」 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGo5ZlRSTktLbTExRy01RkFmVHk0YjB3ZEZpeHBDamVfQ2JKSlllNHE2TTFRcGxHaDVWR3pQdVQydndxVG1CZnJBQXRGVktWQmVIWkpKQnJHVkVRREZueXE5bFIxUU1sNWR4bjRqZFNsalkzRTZNU0xfZEEtUjRlMGFiOWRlbVk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-07-31 19:16",
-   "published_iso": "2026-07-31T10:16:00+00:00"
   }
  ]
 }
