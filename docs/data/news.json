@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T10:38:51+00:00",
+ "generated_at": "2026-08-02T12:00:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -10,7 +10,7 @@
   {
    "title": "「全裸の外国人男性がいる」と110番通報 公然わいせつ疑いで米兵の男逮捕 沖縄署",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00dmJrdGVnVUU5c3dEcmFrMWR4WG96WEduclZMVU03R1ZWSEdHYTV4MDVvMHI3Q0lvS1h1d09GLUtxdl9SUUR4a0Uwaw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-02 16:23",
    "published_iso": "2026-08-02T07:23:00+00:00"
@@ -32,14 +32,6 @@
    "published_iso": "2026-08-02T03:40:00+00:00"
   },
   {
-   "title": "子供抱えた難民の「あなた」が迫られる決断、「海路？陸路？」「動けない人を助ける？目をつぶる？」あなたはそのとき何を選ぶ…「もし難民だったら」体験する企画展",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44U2cxZ21FTklLSndvaU9tTHRhYzJqa3FDRVhxdHhSSUh1TG1KVG9QUW03eERrTmVQTzRNWmdnUG1GeTAtWURDMkllLWtkVmc5cFBZb29CRFd4Xy1HbWcwVm15cFRGMmhfRE1iblB6T1QxZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-02 12:30",
-   "published_iso": "2026-08-02T03:30:00+00:00"
-  },
-  {
    "title": "外国人向け交通安全教室_インドネシア人参加者が日本の道路標識を学び”運転シミュレーター”で交通ルール学ぶ_外国人ドライバーによるレンタカー事故相次ぐなか啓発＜北海道浦河町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByMGk0TTcxeWJNZkJ0N2c2aUh3ZjhGck5XczRNaTV3LTJXUXYzZGdwZWRQcWhLWTZLalYzZXppS091ZnBBVnpOTUpydnVyZw?oc=5",
    "source": "FNNプライムオンライン",
@@ -58,7 +50,7 @@
   {
    "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZEZQYm5HUEwxZlY2c2dYNFd5alltenZhN0RtVWZMSXptY1NUVzVPdzlMQXVIbWh4UUFYXzd6UU9Ud2tWODFmYzZYNDVpRV9BaXJlMF9SVS1zTzhjVGxiRXJFTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-02 11:17",
    "published_iso": "2026-08-02T02:17:00+00:00"
@@ -74,7 +66,7 @@
   {
    "title": "移民大量流入のスペイン、政権への圧力強まる EUは緊急会合へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DdHdYa0JTdjZZVGg5V084dnJVUDBXaHEwQXc2a1hFN0s4NVFNTEh5OURDRFQySnNNTThEN181ckJuSnhCcHhGZ2Rxck5SWUJYc2x0d2xHQ2JyX0U1cDlwZU5YT2U1VDRD?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 10:09",
    "published_iso": "2026-08-02T01:09:35+00:00"
@@ -122,7 +114,7 @@
   {
    "title": "トランプ米政権：トランプ政権、欧州「強化」へ資金提供 「移民で文明消滅」持論反映",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WWll6WjlLQzdwVmlqM1RONE9ob2hndGdqOUc2eEdFblpIVWYzREw5MFdIOVhMS3ZHalRTTnJrbXZSRFdTMlZGc0IyakNGa1NSNzF3aUZpcTJoeDFUWXpzdVoySG00cXdD?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 02:02",
    "published_iso": "2026-08-01T17:02:02+00:00"
@@ -130,7 +122,7 @@
   {
    "title": "スペイン領、移民殺到 モロッコから 一時国境機能不全",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXEwdUltbEJZS20wLXlvbXdvb2M5U2x0dzVrOUFCaDFzMk5GVWRuQzEwd1RsZW1xWm9xc1hoYjhGb1VodUZXY0pBQndMSWpXMEVUVWNreGIwZDJHVmVmdEtEczhKR1Fn?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 02:01",
    "published_iso": "2026-08-01T17:01:58+00:00"
@@ -146,7 +138,7 @@
   {
    "title": "＜あのころ＞ベトナム難民が茨城に上陸 47年前の8月2日",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50T3V5M1dVSVdpQmF1dDNzdnFQVHppeWstU0tDR3RUTGl4SzZteVJqV21aTGR6eE1kdGRXdEJpZlg5cUdSME1fdFl4aw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-02 00:01",
    "published_iso": "2026-08-01T15:01:25+00:00"
@@ -160,9 +152,9 @@
    "published_iso": "2026-08-01T14:20:16+00:00"
   },
   {
-   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で",
+   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YkxJRzBVaUdGQ1c0U3RlRXNtd3AwSzA0V3N5bVNnRlNWbFZUT3k4SW1yYmZjMkQ3OFhiYkRXVjNCOUMwVGluZnd4Z3k4QTNTaEg1SFBiVjB5RzAzcFR1Ty1lRQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-01 21:57",
    "published_iso": "2026-08-01T12:57:00+00:00"
@@ -256,6 +248,14 @@
    "published_iso": "2026-08-01T01:30:00+00:00"
   },
   {
+   "title": "モロッコからスペイン領に移民5万人、大半は帰国 50人超死亡",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QSUkzWlZ2NzNQbktZYlhhaEVUaXFHcUFoUGdmejZlY192dGlabVNfN0daWTY5TnFmVlN6aXV1RUpKV0FsTFVLZlE0eXlUczVWalVoTWVsZXlwSE1oSmdqeUUzbzFnZUR0?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-01 10:29",
+   "published_iso": "2026-08-01T01:29:04+00:00"
+  },
+  {
    "title": "労働者ではなく「地元の知人」へ…偏見や誤解を乗り越え地域で暮らす外国人と日本人をつなぐ“多文化共生”のヒント【外国人と共に】",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05YjBxNkhlcmpjVGVFcDVCdFBfRHBxOG5vQ2pjZ1F0R1JsQ1BsNkRtcWdpU1F4QlVMMHM5bVR0emloNC0zSHpfVG00c2ZsZFczOFVsTzU0Tjg0T2VSSjJRUUpGNlU?oc=5",
    "source": "newsdig.tbs.co.jp",
@@ -266,7 +266,7 @@
   {
    "title": "移民越境で欧州分断危機 スペインに強まる圧力",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-01 08:38",
    "published_iso": "2026-07-31T23:38:00+00:00"
@@ -282,7 +282,7 @@
   {
    "title": "スペイン対象に入国審査復活 移民殺到で１カ月間―イタリア",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MTExQOHVmNjlOSVNQZTJuUkpVdW9XNTJpOHh4UHJYMDNLV2tubU9tVm1fc25SSEdlTk0zVW13RWxTYzlnbzEwWnY3c0pXc0hsamVkMmdjSk5jTnlqN0gxWUdLQQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-01 07:00",
    "published_iso": "2026-07-31T22:00:00+00:00"
@@ -314,7 +314,7 @@
   {
    "title": "日本語学習と仲間作り 外国籍の子供向け夏休み教室 加須 ／埼玉",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQXBVdjFUNG8wTzdRQVV1MV9BN29fYjA4M0pJRThjUkNwRUFDNjZfLU4wN2xDb3JaVFBUZG9QelV5S0dSUjdmcEd0R1A3cG9VQWJGQV9QNVJUSER3M2E2LUxFb205dFBu?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-01 05:02",
    "published_iso": "2026-07-31T20:02:10+00:00"
@@ -370,7 +370,7 @@
   {
    "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-07-31 21:50",
    "published_iso": "2026-07-31T12:50:00+00:00"
@@ -378,7 +378,7 @@
   {
    "title": "モロッコからスペイン領に移民4.9万人流入 渡航中18人死亡",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83Ti1jZUlKa2hTUV92OWVQUzJudldHR1lUeUZiRmpSZjVRQTBCdXZtTWpCeTE3VG5wempheHY5X3BXVS1qNUtnS2tTWVg0Nmw0ZWpxNWZ3aFROUUl0Sm16RzRwUHcxUEQ5?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-31 20:57",
    "published_iso": "2026-07-31T11:57:21+00:00"
@@ -402,7 +402,7 @@
   {
    "title": "諮問機関「憲法抵触の恐れ」 三重の外国人職員採用アンケ設問に",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZOVE3WVRrNGxDbFMzaDBxVThmWk9kTmlOUERHd1ZPVUVfU0dJYVJaaHhRTHhubW40My1CSXVkRTJ2MFJ1NG50MVdmTndxc0ZuWEVjdEltYWJiY055cDhKclA4bDRDX2pT?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-07-31 20:12",
    "published_iso": "2026-07-31T11:12:11+00:00"
