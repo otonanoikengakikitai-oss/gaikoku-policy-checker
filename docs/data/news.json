@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T16:22:11+00:00",
+ "generated_at": "2026-08-03T18:49:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -54,6 +54,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 14:52",
    "published_iso": "2026-08-03T05:52:00+00:00"
+  },
+  {
+   "title": "中国が外国人監視、日本記者も サイトに情報、一時閲覧可能に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJaDZ2WmZWanhXaUxNdnZTYlNrQWJZcDRxRDhCekxKcUVpUkdINjMzdmYxYWFOMjlWVlU2UFR6NGZHMkpjcUZCQ1JoZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-03 12:58",
+   "published_iso": "2026-08-03T03:58:00+00:00"
   },
   {
    "title": "元自衛官は“即戦力” 射撃訓練も行う「入国警備官」とは？ 今後の外国人政策も解説",
@@ -146,7 +154,7 @@
   {
    "title": "鎌田浩毅の役に立つ地学：首都直下地震が起きれば半年後に118万人が“住宅難民”か／260",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Y2N2Vks1OXVTMWFEeWRHYTRDR1pQeXVOY0ZIQ3VROXg0Mnc5R0F6VWpycXU1VDdsYVhtRm43WnBaa1V5TWljeWlHbTd5cVdzdlNVc2JQVlBHVkhIbXQxZExZelNXeGRiN1YwS2d5QzVsbnJma2ZPMjlxYU1rd3c?oc=5",
-   "source": "weekly-economist.mainichi.jp",
+   "source": "週刊エコノミスト Online",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 05:00",
    "published_iso": "2026-08-02T20:00:05+00:00"
@@ -254,6 +262,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-02 05:00",
    "published_iso": "2026-08-01T20:00:00+00:00"
+  },
+  {
+   "title": "スペイン領、移民殺到 モロッコから 一時国境機能不全",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXEwdUltbEJZS20wLXlvbXdvb2M5U2x0dzVrOUFCaDFzMk5GVWRuQzEwd1RsZW1xWm9xc1hoYjhGb1VodUZXY0pBQndMSWpXMEVUVWNreGIwZDJHVmVmdEtEczhKR1Fn?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-02 02:01",
+   "published_iso": "2026-08-01T17:01:58+00:00"
   },
   {
    "title": "特定技能制度 全分野の上限は80万人",
@@ -390,22 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 05:37",
    "published_iso": "2026-07-31T20:37:29+00:00"
-  },
-  {
-   "title": "外国人の受け入れどう変わる？ 転職が可能に、人数増は限定的",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 05:00",
-   "published_iso": "2026-07-31T20:00:00+00:00"
-  },
-  {
-   "title": "スペイン飛び地に、数万人の移民 アフリカ北端・セウタ モロッコから海泳ぎ国境突破",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-01 05:00",
-   "published_iso": "2026-07-31T20:00:00+00:00"
   }
  ]
 }
