@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T20:25:19+00:00",
+ "generated_at": "2026-08-03T22:38:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,39 @@
  ],
  "items": [
   {
-   "title": "中南米へのドル送金、回復が鮮明 米政権の不法移民摘発の抑制影響か",
+   "title": "外国人との会話をリアルタイム翻訳 三鷹市、透明ディスプレーを導入 [東京都]",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3pHREgyQ1F3MjRwbFZtcjVBdjZLVGpOenhFSEprYWxnOV9xbmpyMWVHVjJYTlF6S1g2T3hxM1J3b0pQTmJlSEF4N0Z0aTZMaUV4c29Sc2JFQnRnMVNwZlkxUkpTS2VTa0NKS2ZmRnhQOXVRdnRzLUQwWlhfdFJFUWQ2WVpiUQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 07:00",
+   "published_iso": "2026-08-03T22:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：家族のケア担い、産業支えた「結婚移民」 高齢化にどう寄り添う",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4UHozYTFocVItQk9QVE5KdFRQb09SM21CYWh2T0lsc1JYbmJ3ZmZTdk1ZRnh1SHp3UVlsT0NGRWhYbVctTW1CbWlpdGluOUtncEFqZkFqVHZkRnNxaGo3bjF6b0lIZ1Ns?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 06:01",
+   "published_iso": "2026-08-03T21:01:00+00:00"
+  },
+  {
+   "title": "移民と社会：経済不安、孤独死……「おひとりさま」になった結婚移民の老後",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQmxQYkUyOXhCVHhMaXFqWVg3Q3dKRlpqSGl0c2JFM1NYd1A4TGJTUWh1bldVYVNJem9IZi1VcFNBYTdyM3JnSVNtNjBCQ0RTRG1NbU1CcWhjMmIyZnBDZ1ZZRnNYaEkx?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 06:00",
+   "published_iso": "2026-08-03T21:00:00+00:00"
+  },
+  {
+   "title": "（「史上最大の強制送還」の足元：上）米政権の移民摘発、「犯罪者」と呼ぶけれど",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1haUt0MDVDRlc0SXNiamN1NDdXSHVOcU5aTXBzcGZUMWlkSXhMTEVoLUhhYXZwdUdwODRhSUJTa25vblJ6OS1PVTgyNGwwXzdfRFhabU1XcDlYSU5o?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 05:00",
+   "published_iso": "2026-08-03T20:00:00+00:00"
+  },
+  {
+   "title": "中南米へのドル送金回復 トランプ米政権の不法移民圧力和らぐ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b3pJZFY2TnVZUE5hNGNnS2dEZGJSQkJYbUpOdnJJMzVPak9QTk9kYWc4VTBjSjJpeXU1M2dlY1lGdjM0T3FuMVY4ZEI5azg2X1VPMXkzSW1DdkdZOXFIT0tQSzc3cFgtMl9kSQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -22,6 +54,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 22:39",
    "published_iso": "2026-08-03T13:39:34+00:00"
+  },
+  {
+   "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-03 21:43",
+   "published_iso": "2026-08-03T12:43:33+00:00"
   },
   {
    "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
@@ -54,6 +94,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 15:53",
    "published_iso": "2026-08-03T06:53:20+00:00"
+  },
+  {
+   "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 15:15",
+   "published_iso": "2026-08-03T06:15:00+00:00"
   },
   {
    "title": "包摂と排除を考える―フランスの移民政策を事例として―（中央大学×大手町アカデミア第１４回）",
@@ -170,7 +218,7 @@
   {
    "title": "【8月上旬～開始予定】特定技能「自動車運送業」の外国人材を支援 ―― Drivey、6言語対応の二種免許学科試験対策を提供",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DX2I5MGFicFR2VHdLQUxWY1doZFV4OXYyZFJ0eDkyUmtCT2tNa3pxVTU1azhJNDl0RnozcWd6TEM1NTFOVmxxOGNKYS1PYkFMbm5DaGhGTEJleWRFeTlHX3lSQUtyTGQzZURr?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-03 04:10",
    "published_iso": "2026-08-02T19:10:00+00:00"
@@ -194,7 +242,7 @@
   {
    "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZEZQYm5HUEwxZlY2c2dYNFd5alltenZhN0RtVWZMSXptY1NUVzVPdzlMQXVIbWh4UUFYXzd6UU9Ud2tWODFmYzZYNDVpRV9BaXJlMF9SVS1zTzhjVGxiRXJFTQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-02 11:17",
    "published_iso": "2026-08-02T02:17:00+00:00"
@@ -234,7 +282,7 @@
   {
    "title": "〈書評〉『ルポ 難民迫害』神田和則 著",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSV9IQWoyUjdNNmZ4bW9KaWxYbDY0WFh2dGF0UU55VHBBc3dsX2lqZWxKV0dpOFItZGxGeVR0LVN3V3FCY2VRZXpaWHFEcGhUTzVZ?oc=5",
-   "source": "東京新聞デジタル",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-02 07:00",
    "published_iso": "2026-08-01T22:00:03+00:00"
@@ -288,9 +336,9 @@
    "published_iso": "2026-08-01T14:20:16+00:00"
   },
   {
-   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で：時事ドットコム",
+   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YkxJRzBVaUdGQ1c0U3RlRXNtd3AwSzA0V3N5bVNnRlNWbFZUT3k4SW1yYmZjMkQ3OFhiYkRXVjNCOUMwVGluZnd4Z3k4QTNTaEg1SFBiVjB5RzAzcFR1Ty1lRQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-01 21:57",
    "published_iso": "2026-08-01T12:57:00+00:00"
@@ -358,54 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-01 08:38",
    "published_iso": "2026-07-31T23:38:00+00:00"
-  },
-  {
-   "title": "スペインに北アフリカから移民6万人突入 イタリアは波及を警戒、国境検問を一方的復活",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbnA0U09GRTUtZ3l3RjZLcTJCWDhDN0JnR0I3RGdickJRN29TZjR2VEcwTnFzOU1JNjE2dExrLTAtR0kxOURObVlLRTQ0dVVhZjJKcGU1SzAta1N2YW9nWDdfNThZOHBnUkhuV0NRRTR4a0hyZ1E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 08:25",
-   "published_iso": "2026-07-31T23:25:44+00:00"
-  },
-  {
-   "title": "スペイン対象に入国審査復活 移民殺到で１カ月間―イタリア",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MTExQOHVmNjlOSVNQZTJuUkpVdW9XNTJpOHh4UHJYMDNLV2tubU9tVm1fc25SSEdlTk0zVW13RWxTYzlnbzEwWnY3c0pXc0hsamVkMmdjSk5jTnlqN0gxWUdLQQ?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-08-01 07:00",
-   "published_iso": "2026-07-31T22:00:00+00:00"
-  },
-  {
-   "title": "イタリア、スペインとの往来の自由一時停止 モロッコ不法移民流入で",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRFBpcUw1WjhMNy1qcUpHeTJUVlNldFZsSmd5Sm1BalNNbE55M1g4VTQzVmFfQzV2cEN2ZUtXVC0wLThha1dHZWFHak16cGdmYWFVdVJBWGxMUEhmR01YQkdZSTRTOXVHTnBIeg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 06:56",
-   "published_iso": "2026-07-31T21:56:29+00:00"
-  },
-  {
-   "title": "トランプ政権 不法移民流入でスペイン政府を批判「不法移民を容認・助長してきた」 トランプ大統領「共和党が選挙に負けたらアメリカにも同じことが起こる」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NbFBtTjBJWFRyV1hsY3lGTVVFNjQ1RkUwblBoRkNrWFEyZzFLdDZSOFJxS2c2Y3V3LW1FWjJsMXZuZG5IV3Z0UTR1VW55LWVEaklBRkpVSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 06:54",
-   "published_iso": "2026-07-31T21:54:26+00:00"
-  },
-  {
-   "title": "北アフリカのスペイン領セウタにモロッコから6万人の移民流入 スペイン首相「不法移民の送還手続きを迅速化する」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxT3ZCNURmZUZuR053MnJScXZkN2MwRmlhMEtmaVh1bnJ2Z2RTS0RwVkhaUkV2eGZuWnhQbE96QThzN2F0OE5iYlA1X3ZLUGZTNlZOODBPSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 05:37",
-   "published_iso": "2026-07-31T20:37:29+00:00"
-  },
-  {
-   "title": "外国人の受け入れどう変わる？ 転職が可能に、人数増は限定的",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 05:00",
-   "published_iso": "2026-07-31T20:00:00+00:00"
   }
  ]
 }
