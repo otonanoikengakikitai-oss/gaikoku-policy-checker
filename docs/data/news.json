@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T18:49:11+00:00",
+ "generated_at": "2026-08-03T20:25:19+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "中南米へのドル送金、回復が鮮明 米政権の不法移民摘発の抑制影響か",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b3pJZFY2TnVZUE5hNGNnS2dEZGJSQkJYbUpOdnJJMzVPak9QTk9kYWc4VTBjSjJpeXU1M2dlY1lGdjM0T3FuMVY4ZEI5azg2X1VPMXkzSW1DdkdZOXFIT0tQSzc3cFgtMl9kSQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-04 04:12",
+   "published_iso": "2026-08-03T19:12:14+00:00"
+  },
   {
    "title": "中国の外国人監視サイト、一時閲覧可能と米報道 日本の記者の情報も",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZnUxR0ZLa2p6bWZ4X0wtRkthWWV2M3RIYWNMZ0luMXhhZ0Q3NXJEb3lJdllxSTdobnZLaWd5Q3NFMWU4cmc0S2c3Qm1JS3BfR1FBVXYzT3VzRnJRY3dMNndxM1U2RklMemdyUA?oc=5",
@@ -136,28 +144,12 @@
    "published_iso": "2026-08-02T20:25:00+00:00"
   },
   {
-   "title": "避暑は六甲山上の別荘で 明治期の居留外国人の暮らしぶり、写真で紹介 神戸・風見鶏の館|神戸",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wM1BLOS0tMHBweHR6RWZfaElqcGdmbmlMMW1LLVNNQnpydlRubTh4dkJJcWhadmd1TU8taUJrelBkeTlCd2E4T0pfS1JZRTljdk1UUDc4S2NETDlVNmd5NzVVQUFTUExMYzg0?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-03 05:10",
-   "published_iso": "2026-08-02T20:10:00+00:00"
-  },
-  {
    "title": "神戸・北区の魅力、外国人と巡る 国宝・箱木家など アンバサダーを案内 ／兵庫",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URnZ4ZWhPZWMxTXZ2Mlc2WEdvRzd3VWZvUGxFLUJmbWdsaDBzZ2pIUk0xQ1llTEFrMWlnd1dtTXFoZ1g5WDVDZDFadVVsUWlvc2NESG5GRDRZYWVtZjNCVWZ6NDJkSTF6?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 05:02",
    "published_iso": "2026-08-02T20:02:00+00:00"
-  },
-  {
-   "title": "鎌田浩毅の役に立つ地学：首都直下地震が起きれば半年後に118万人が“住宅難民”か／260",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Y2N2Vks1OXVTMWFEeWRHYTRDR1pQeXVOY0ZIQ3VROXg0Mnc5R0F6VWpycXU1VDdsYVhtRm43WnBaa1V5TWljeWlHbTd5cVdzdlNVc2JQVlBHVkhIbXQxZExZelNXeGRiN1YwS2d5QzVsbnJma2ZPMjlxYU1rd3c?oc=5",
-   "source": "週刊エコノミスト Online",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 05:00",
-   "published_iso": "2026-08-02T20:00:05+00:00"
   },
   {
    "title": "ロヒンギャ難民「５千人送還」 マレーシア首相「ミャンマーと合意」発言が物議",
@@ -178,7 +170,7 @@
   {
    "title": "【8月上旬～開始予定】特定技能「自動車運送業」の外国人材を支援 ―― Drivey、6言語対応の二種免許学科試験対策を提供",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DX2I5MGFicFR2VHdLQUxWY1doZFV4OXYyZFJ0eDkyUmtCT2tNa3pxVTU1azhJNDl0RnozcWd6TEM1NTFOVmxxOGNKYS1PYkFMbm5DaGhGTEJleWRFeTlHX3lSQUtyTGQzZURr?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-03 04:10",
    "published_iso": "2026-08-02T19:10:00+00:00"
@@ -202,7 +194,7 @@
   {
    "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZEZQYm5HUEwxZlY2c2dYNFd5alltenZhN0RtVWZMSXptY1NUVzVPdzlMQXVIbWh4UUFYXzd6UU9Ud2tWODFmYzZYNDVpRV9BaXJlMF9SVS1zTzhjVGxiRXJFTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-02 11:17",
    "published_iso": "2026-08-02T02:17:00+00:00"
@@ -296,9 +288,9 @@
    "published_iso": "2026-08-01T14:20:16+00:00"
   },
   {
-   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で",
+   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YkxJRzBVaUdGQ1c0U3RlRXNtd3AwSzA0V3N5bVNnRlNWbFZUT3k4SW1yYmZjMkQ3OFhiYkRXVjNCOUMwVGluZnd4Z3k4QTNTaEg1SFBiVjB5RzAzcFR1Ty1lRQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-01 21:57",
    "published_iso": "2026-08-01T12:57:00+00:00"
@@ -378,7 +370,7 @@
   {
    "title": "スペイン対象に入国審査復活 移民殺到で１カ月間―イタリア",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MTExQOHVmNjlOSVNQZTJuUkpVdW9XNTJpOHh4UHJYMDNLV2tubU9tVm1fc25SSEdlTk0zVW13RWxTYzlnbzEwWnY3c0pXc0hsamVkMmdjSk5jTnlqN0gxWUdLQQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-01 07:00",
    "published_iso": "2026-07-31T22:00:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 05:37",
    "published_iso": "2026-07-31T20:37:29+00:00"
+  },
+  {
+   "title": "外国人の受け入れどう変わる？ 転職が可能に、人数増は限定的",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 05:00",
+   "published_iso": "2026-07-31T20:00:00+00:00"
   }
  ]
 }
