@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T06:20:05+00:00",
+ "generated_at": "2026-08-03T10:40:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
-   "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
+   "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QkprWGhUMVd5dVk0YXprNVNuSG5GWTBKN3RPZGVTM09TNVQzQThiWnRiazRuRHpEUnFZakQtZVRNVEt5M013TlBUSHpJTEVLUVVBdFkzODdiRmgtQTVHZ3Zn?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 15:15",
-   "published_iso": "2026-08-03T06:15:00+00:00"
+   "published": "2026-08-03 19:33",
+   "published_iso": "2026-08-03T10:33:00+00:00"
+  },
+  {
+   "title": "オノデラユーザーラン、日本在住外国人の転職支援 外食に人材紹介",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcE9NM1NyUGcwX3h2aktxLTgzUXAxc0lQaUxmMS1HVnotTXotV1NVdnY2ajZyU0t2MmV4ejhuVFpzUlZfVGZxWExxR1VmWkJMd29WZTFLdnZaWXJiYVlxcXpHcWpKNWViS00yeg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-03 18:00",
+   "published_iso": "2026-08-03T09:00:00+00:00"
+  },
+  {
+   "title": "不法移民殺到 アフリカのスペイン領に6万人 移民めぐりEU内対立鮮明に 米政権 移民政策に介入か",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0VmpTNkZzd2ZlZUdPb3FXRi1SVDVQaFNSYnpLMFBYM2o3NWxOODFMa19vd1lhdGpySmJQUlRjVE9remE4V29kRklIazd0YXpxdmMxVnNwVkJHY212dzlaOFp6bTR3Q2duUTlhdmN3RzBNY1EtSjlSbjd3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-03 18:00",
+   "published_iso": "2026-08-03T09:00:00+00:00"
+  },
+  {
+   "title": "移民流入の原因はネットの誤情報 モロッコ内務省発表 「泳いで渡れば送還されない」拡散",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZE5FX1BVa2dBdHZOZDRlcUhETUpjdFBzWGJ2V1dXN1JqRHEtWGpNVi1VY1hvVWtFa0lZbnlqRGw1NnY0U01EVlJqYTFkVzRDQW9oUlpIOTFDY2R5X2FiVkh1OE05MnlZRm5TRGdNa1dlcVdJNHc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-03 17:45",
+   "published_iso": "2026-08-03T08:45:59+00:00"
+  },
+  {
+   "title": "モロッコからスペイン飛び地に移民殺到、死者７２人に 両国発表に隔たり",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92MDJldjNhMlpfLUtDdlZZTFNPRHR0d092Zld0TGYtdE9DQUJPRTRpQVNnNFo0VG1mSURXMGdpUENYbDFkWG9fVXZuVTkyQUV5dDBnd2xvTkFDVnFLYzVyODRvczc4Zw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-03 17:06",
+   "published_iso": "2026-08-03T08:06:00+00:00"
   },
   {
    "title": "包摂と排除を考える―フランスの移民政策を事例として―（中央大学×大手町アカデミア第１４回）",
@@ -22,14 +54,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 14:52",
    "published_iso": "2026-08-03T05:52:00+00:00"
-  },
-  {
-   "title": "国際交流基金日本語基礎テスト（JFT-Basic）「育成就労」や「留学*」での活用も可能に",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00UXhlell4NDJWZVE0MVg4OHByVnNaZ01vZ1NNUXAtR3FQM203ZjRuRGdPOGRaWGhsa05DeXl2ZjhCODhhOWtzZGVLbjR6WngwMllZVUlmcVdiMVFaQUxXRTd5STdkVzRuamlWSFFDX1JlZWFIbnVOMVFiYw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-03 12:25",
-   "published_iso": "2026-08-03T03:25:05+00:00"
   },
   {
    "title": "元自衛官は“即戦力” 射撃訓練も行う「入国警備官」とは？ 今後の外国人政策も解説",
@@ -46,14 +70,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-03 10:32",
    "published_iso": "2026-08-03T01:32:33+00:00"
-  },
-  {
-   "title": "移民越境、強制送還ないと誤解 モロッコからスペイン領へ海路",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NanUzT1FobGw2SGtiUjY1RWNpOTFhMjhxZGNJaGQ5bkc1TTNmVFU1UXNPdkswblNsdExCalBZekVmcnJMeTNiQmRPaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-03 10:28",
-   "published_iso": "2026-08-03T01:28:00+00:00"
   },
   {
    "title": "【速報】中国、外国人監視サイトで個人情報一時公開",
@@ -74,7 +90,7 @@
   {
    "title": "「家族」で力合わせて 熊本で被災したフィリピン人技能実習生 [写真特集1/6]",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52c3BWSjl5STVVT1hYd2NsWm9oemJDQWItbHlEdG9RZTJRdTJqUDVCODFNXzNhZHRKTEwwMmhpT2V4YXpZRTF0OHVtbjd5dTlLY3FvOGNpVFFubGJCdkVqN29VMFViZw?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 06:55",
    "published_iso": "2026-08-02T21:55:00+00:00"
@@ -98,7 +114,7 @@
   {
    "title": "移民と社会：夫の介護、がん…高齢化する在日フィリピン人女性の「終活」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NTAtWGdsanR0anI4c2hwVGJ5Sy1UOEwwYWp2SW5rWVV1Z3dJUXltZkozcmhnX0tkUVl5V2xvSmZKYXBfTVQtRXR3UEJkYjRwQ3h2Z3VtWDRxclpSWEVxSXBwVll5Y1hC?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 06:00",
    "published_iso": "2026-08-02T21:00:00+00:00"
@@ -122,7 +138,7 @@
   {
    "title": "神戸・北区の魅力、外国人と巡る 国宝・箱木家など アンバサダーを案内 ／兵庫",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URnZ4ZWhPZWMxTXZ2Mlc2WEdvRzd3VWZvUGxFLUJmbWdsaDBzZ2pIUk0xQ1llTEFrMWlnd1dtTXFoZ1g5WDVDZDFadVVsUWlvc2NESG5GRDRZYWVtZjNCVWZ6NDJkSTF6?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 05:02",
    "published_iso": "2026-08-02T20:02:00+00:00"
@@ -160,9 +176,17 @@
    "published_iso": "2026-08-02T19:19:29+00:00"
   },
   {
+   "title": "【8月上旬～開始予定】特定技能「自動車運送業」の外国人材を支援 ―― Drivey、6言語対応の二種免許学科試験対策を提供",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DX2I5MGFicFR2VHdLQUxWY1doZFV4OXYyZFJ0eDkyUmtCT2tNa3pxVTU1azhJNDl0RnozcWd6TEM1NTFOVmxxOGNKYS1PYkFMbm5DaGhGTEJleWRFeTlHX3lSQUtyTGQzZURr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-03 04:10",
+   "published_iso": "2026-08-02T19:10:00+00:00"
+  },
+  {
    "title": "移民流入スペインに圧力 EU22カ国要請 4日会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTXo3aFBBR0o2eDVOaUtGenNyWHNFOG5FTDdENkl0UF9tWlJzU2o2NU9DS0g5SFVHMEpzaDZpUlBVRzRHS0RsVXhNcDNMa3RhZGN1b3dhWHB2TkkwYVBvamo0cW8xWDB4?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 02:00",
    "published_iso": "2026-08-02T17:00:56+00:00"
@@ -194,7 +218,7 @@
   {
    "title": "移民大量流入のスペイン、政権への圧力強まる EUは緊急会合へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DdHdYa0JTdjZZVGg5V084dnJVUDBXaHEwQXc2a1hFN0s4NVFNTEh5OURDRFQySnNNTThEN181ckJuSnhCcHhGZ2Rxck5SWUJYc2x0d2xHQ2JyX0U1cDlwZU5YT2U1VDRD?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-02 10:09",
    "published_iso": "2026-08-02T01:09:35+00:00"
@@ -238,14 +262,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-02 05:00",
    "published_iso": "2026-08-01T20:00:00+00:00"
-  },
-  {
-   "title": "スペイン領、移民殺到 モロッコから 一時国境機能不全",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXEwdUltbEJZS20wLXlvbXdvb2M5U2x0dzVrOUFCaDFzMk5GVWRuQzEwd1RsZW1xWm9xc1hoYjhGb1VodUZXY0pBQndMSWpXMEVUVWNreGIwZDJHVmVmdEtEczhKR1Fn?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-02 02:01",
-   "published_iso": "2026-08-01T17:01:58+00:00"
   },
   {
    "title": "特定技能制度 全分野の上限は80万人",
@@ -304,28 +320,12 @@
    "published_iso": "2026-08-01T06:30:00+00:00"
   },
   {
-   "title": "スペインと自由往来停止 イタリア モロッコ不法移民防ぐ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTmFXQjJ6T3ZUaDZiWmkxYUxoQ3VFd0xVbHJiMkNwaXBFZkU2ZHg0aGh4LWFhYm1KeGlOTWFqQ0ZSSTJ5WDhhNG1xUGVVREdwYnlxcHMyZEhFWDZ4TE42eWFNVHlRV3N5UEhSaQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 14:30",
-   "published_iso": "2026-08-01T05:30:00+00:00"
-  },
-  {
    "title": "「今後の生活にも不安」断水・停電が続くなか猛暑日予想 技能実習生は避難所とビニールハウスを行き来し収穫作業… 最大震度7の熊本県宇城市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbS1XUkdhekZyd0lGd0o1NHY5MkJQd1NMZUg1RGZBTm5sN1dOdFkwc1plX0FuSWxieGgtVWx0MVhybjg2NEZZTWtyaklJZkpyb1NVX2Rscw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 12:16",
    "published_iso": "2026-08-01T03:16:20+00:00"
-  },
-  {
-   "title": "米国務省、多数の移民が流入したスペインの政府を批判 「容認し助長してきた結果」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MGFTZjViZ2NKLVBzT3JUX1oydDdBWnpoMEFZYk5QWXFMZmpQdW5ReXZ6VW9WMENiRTRiOWowYkZyMldlTTVXd0pnd3RLNElNU3NyYVVZZTNSbkhod0s1MlA1Rk9zM0RVVTBuZHRnUFNNVE9zclE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 11:03",
-   "published_iso": "2026-08-01T02:03:24+00:00"
   },
   {
    "title": "外国人受け入れ枠に迫る上限 食品製造72%・建設67%、企業採用に影",
