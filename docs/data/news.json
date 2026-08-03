@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T02:51:36+00:00",
+ "generated_at": "2026-08-03T06:20:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,52 @@
  ],
  "items": [
   {
+   "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 15:15",
+   "published_iso": "2026-08-03T06:15:00+00:00"
+  },
+  {
+   "title": "包摂と排除を考える―フランスの移民政策を事例として―（中央大学×大手町アカデミア第１４回）",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PdmZSQTZ4Z3VFTHNOZS1pcHFCSmM2U0hCTFNzVkhQM1MzYklxREpQTWpYQ2pRZTRFNllfcXJDRm02dmwtZDlsZ28zRjdpTHNIbjZGR1JZSEZIeG0ybHV3aVVTamN3TlNXb3U5LW5Ea05pcjRsS2pEN2Z3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 14:52",
+   "published_iso": "2026-08-03T05:52:00+00:00"
+  },
+  {
+   "title": "国際交流基金日本語基礎テスト（JFT-Basic）「育成就労」や「留学*」での活用も可能に",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00UXhlell4NDJWZVE0MVg4OHByVnNaZ01vZ1NNUXAtR3FQM203ZjRuRGdPOGRaWGhsa05DeXl2ZjhCODhhOWtzZGVLbjR6WngwMllZVUlmcVdiMVFaQUxXRTd5STdkVzRuamlWSFFDX1JlZWFIbnVOMVFiYw?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-03 12:25",
+   "published_iso": "2026-08-03T03:25:05+00:00"
+  },
+  {
+   "title": "元自衛官は“即戦力” 射撃訓練も行う「入国警備官」とは？ 今後の外国人政策も解説",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tX1dueUpIbW9EMTkwWC1mTEtYTW1zSmtINFJCQjFYWmtxRTF0RFo3dEIwWC1NNExKQjg3cTNuZDRhQnpmV0pEM3VBR3JYUzJZUDVqVHYwcnRZMUFvbzVhRWRPcWhuZFBiMUZqZ2JyQkJrdw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-03 11:45",
+   "published_iso": "2026-08-03T02:45:00+00:00"
+  },
+  {
    "title": "中国、外国人監視を露呈 サイトに個人情報、閲覧可能状態で公開 日本記者の情報も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiN3lfTUs4bnFoTHhDWVRzQzMtdGwxMDJHc04zVi1ZWWNhTDBDWWQxU1FaYUtubXd0Z1c0SElOLXRKM3ZZcm9PZVo1Y0tiSXQxcVBjU0JoUmZMSEdLNktPdl9mdTYyR2hMLUd0enEyUzJ1SVdwUXc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-03 10:32",
    "published_iso": "2026-08-03T01:32:33+00:00"
+  },
+  {
+   "title": "移民越境、強制送還ないと誤解 モロッコからスペイン領へ海路",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NanUzT1FobGw2SGtiUjY1RWNpOTFhMjhxZGNJaGQ5bkc1TTNmVFU1UXNPdkswblNsdExCalBZekVmcnJMeTNiQmRPaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-03 10:28",
+   "published_iso": "2026-08-03T01:28:00+00:00"
   },
   {
    "title": "【速報】中国、外国人監視サイトで個人情報一時公開",
@@ -32,14 +72,6 @@
    "published_iso": "2026-08-03T01:11:00+00:00"
   },
   {
-   "title": "移民越境、強制送還ないと誤解 モロッコからスペイン領へ海路",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93QUoycXZKcVEwak94b0FQVTh6Uk44SXBYcW9jMFdaR3kyb1V1UWFMbHhIRjdmRWwwdGFmcWdMbEpHSUlIUjdzRkcxcF9YbTZNU08tRV9XZjB2ekJyWXE4UG1mVQ?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-03 10:02",
-   "published_iso": "2026-08-03T01:02:50+00:00"
-  },
-  {
    "title": "「家族」で力合わせて 熊本で被災したフィリピン人技能実習生 [写真特集1/6]",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52c3BWSjl5STVVT1hYd2NsWm9oemJDQWItbHlEdG9RZTJRdTJqUDVCODFNXzNhZHRKTEwwMmhpT2V4YXpZRTF0OHVtbjd5dTlLY3FvOGNpVFFubGJCdkVqN29VMFViZw?oc=5",
    "source": "毎日新聞",
@@ -53,7 +85,7 @@
    "source": "nippon.com",
    "source_domain": "nippon.com",
    "published": "2026-08-03 06:00",
-   "published_iso": "2026-08-02T21:00:02+00:00"
+   "published_iso": "2026-08-02T21:00:00+00:00"
   },
   {
    "title": "ロヒンギャ難民送還「ミャンマーと合意」 マレーシア首相発言が物議",
@@ -88,6 +120,14 @@
    "published_iso": "2026-08-02T20:10:00+00:00"
   },
   {
+   "title": "神戸・北区の魅力、外国人と巡る 国宝・箱木家など アンバサダーを案内 ／兵庫",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URnZ4ZWhPZWMxTXZ2Mlc2WEdvRzd3VWZvUGxFLUJmbWdsaDBzZ2pIUk0xQ1llTEFrMWlnd1dtTXFoZ1g5WDVDZDFadVVsUWlvc2NESG5GRDRZYWVtZjNCVWZ6NDJkSTF6?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-03 05:02",
+   "published_iso": "2026-08-02T20:02:00+00:00"
+  },
+  {
    "title": "鎌田浩毅の役に立つ地学：首都直下地震が起きれば半年後に118万人が“住宅難民”か／260",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Y2N2Vks1OXVTMWFEeWRHYTRDR1pQeXVOY0ZIQ3VROXg0Mnc5R0F6VWpycXU1VDdsYVhtRm43WnBaa1V5TWljeWlHbTd5cVdzdlNVc2JQVlBHVkhIbXQxZExZelNXeGRiN1YwS2d5QzVsbnJma2ZPMjlxYU1rd3c?oc=5",
    "source": "週刊エコノミスト Online",
@@ -96,12 +136,28 @@
    "published_iso": "2026-08-02T20:00:05+00:00"
   },
   {
+   "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:00+00:00"
+  },
+  {
    "title": "ロヒンギャ難民「５千人送還」 マレーシア首相「ミャンマーと合意」発言が物議",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WY01BQkdzUFZ1amxzZWFiTEVCT0dpd2JHMzljOFc2bXB1MFNmZjhkZUNSZHlIdXAwNXNMRG12SjJFcjZEblgzNDA3Z2pSS3F3T3drSnNHZVVXVGU0?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-03 05:00",
    "published_iso": "2026-08-02T20:00:00+00:00"
+  },
+  {
+   "title": "高齢外国人「将来が不安」 群馬、仕事引退の移民支援",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NOExMaWFyVVphZkZZYm9yZWtjY0ptNjBsZVpWdTJWLWNSQzZ1dnF3NVRYSnI3SDVraGY0MkNmdzM3R08wUHZ2U0xYNHlYbnRaN0k3MWl3?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-03 04:19",
+   "published_iso": "2026-08-02T19:19:29+00:00"
   },
   {
    "title": "移民流入スペインに圧力 EU22カ国要請 4日会合",
@@ -118,22 +174,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 02:00",
    "published_iso": "2026-08-02T17:00:00+00:00"
-  },
-  {
-   "title": "「全裸の外国人男性がいる」と110番通報 公然わいせつ疑いで米兵の男逮捕 沖縄署",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00dmJrdGVnVUU5c3dEcmFrMWR4WG96WEduclZMVU03R1ZWSEdHYTV4MDVvMHI3Q0lvS1h1d09GLUtxdl9SUUR4a0Uwaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-02 16:23",
-   "published_iso": "2026-08-02T07:23:00+00:00"
-  },
-  {
-   "title": "【密着】税関vs外国人“密輸阻止の現場” 大量荷物から粗悪“ブランド品”『every.気になる！』",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpQmtBY3o0SjRnUHhjYTQyMlJUckIzZVVYM3NxSWZtMjJ4S3NycU8wbU1ldnU1UGcwZ1ZlWURQNnI1NEZSUFhIeWZ5Z2lXdHlRdkRSRktBV2laMlhPeGJMUnpiZUczcTljVjRRektRb3B0bVNkNGFFLXpfUnM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-02 13:13",
-   "published_iso": "2026-08-02T04:13:00+00:00"
   },
   {
    "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
@@ -216,6 +256,14 @@
    "published_iso": "2026-08-01T17:00:00+00:00"
   },
   {
+   "title": "「男性1人がおぼれている」海水浴場でベトナム人技能実習生（20）が死亡 友人2人と遊泳中に行方不明に【香川】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbkNXX3ZXcHd3RmloLWJsRXBRVy1GamRyU25yRDZVNGpzZEg5N3UzOVpMZzY3Y3ItcEl0VGlnVndDOS1TOHNmR3FYcmRQQzRzdTFNZDBPbnhKTVlfaXJj?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-01 23:28",
+   "published_iso": "2026-08-01T14:28:00+00:00"
+  },
+  {
    "title": "スペイン、モロッコとの国境沿岸に海上フェンス 不法移民防止で",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQldITTl3cUVsMUNRNDh1a0JCa0pxTy1VaUU0MmpybFlnSXUtVUE3NnZJQ2EyZS1VOFR1ZS1PcEViWldSM2pLNUZ4M2JicE00eklwT2x1cEFrNGlpenNsaUhPZ1k2Qk5USEQyZA?oc=5",
    "source": "日本経済新聞",
@@ -266,7 +314,7 @@
   {
    "title": "「今後の生活にも不安」断水・停電が続くなか猛暑日予想 技能実習生は避難所とビニールハウスを行き来し収穫作業… 最大震度7の熊本県宇城市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbS1XUkdhekZyd0lGd0o1NHY5MkJQd1NMZUg1RGZBTm5sN1dOdFkwc1plX0FuSWxieGgtVWx0MVhybjg2NEZZTWtyaklJZkpyb1NVX2Rscw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 12:16",
    "published_iso": "2026-08-01T03:16:20+00:00"
@@ -298,7 +346,7 @@
   {
    "title": "労働者ではなく「地元の知人」へ…偏見や誤解を乗り越え地域で暮らす外国人と日本人をつなぐ“多文化共生”のヒント【外国人と共に】",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05YjBxNkhlcmpjVGVFcDVCdFBfRHBxOG5vQ2pjZ1F0R1JsQ1BsNkRtcWdpU1F4QlVMMHM5bVR0emloNC0zSHpfVG00c2ZsZFczOFVsTzU0Tjg0T2VSSjJRUUpGNlU?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 10:00",
    "published_iso": "2026-08-01T01:00:00+00:00"
@@ -338,7 +386,7 @@
   {
    "title": "トランプ政権 不法移民流入でスペイン政府を批判「不法移民を容認・助長してきた」 トランプ大統領「共和党が選挙に負けたらアメリカにも同じことが起こる」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1NbFBtTjBJWFRyV1hsY3lGTVVFNjQ1RkUwblBoRkNrWFEyZzFLdDZSOFJxS2c2Y3V3LW1FWjJsMXZuZG5IV3Z0UTR1VW55LWVEaklBRkpVSQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 06:54",
    "published_iso": "2026-07-31T21:54:26+00:00"
@@ -346,7 +394,7 @@
   {
    "title": "北アフリカのスペイン領セウタにモロッコから6万人の移民流入 スペイン首相「不法移民の送還手続きを迅速化する」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxT3ZCNURmZUZuR053MnJScXZkN2MwRmlhMEtmaVh1bnJ2Z2RTS0RwVkhaUkV2eGZuWnhQbE96QThzN2F0OE5iYlA1X3ZLUGZTNlZOODBPSQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 05:37",
    "published_iso": "2026-07-31T20:37:29+00:00"
@@ -358,54 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
-  },
-  {
-   "title": "スペイン飛び地に、数万人の移民 アフリカ北端・セウタ モロッコから海泳ぎ国境突破",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-01 05:00",
-   "published_iso": "2026-07-31T20:00:00+00:00"
-  },
-  {
-   "title": "北アフリカスペイン領への不法移民、4万8000人超がモロッコに帰国",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdHBXeXhGNGEtb0xiVUhIUnlwckNaTHQtVEhqeFVRNWp0ZnMxQURjZ05BdlVoYzhJQ3NlUzdsNkEwcEpvQzdrYmoyYUNKeTlvOUZwRDFpSnhqaGl0NGMtTUZEcjBhZGJRc0EwSA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 03:24",
-   "published_iso": "2026-07-31T18:24:19+00:00"
-  },
-  {
-   "title": "北アフリカのスペイン領セウタにモロッコからの移民流入 およそ5万人とスペイン内務省 海岸に多数の遺体も…伊・メローニ首相も懸念を表明 波紋広がる",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOYnNIYjgxNC1wYkNLZHhrTHFtMFJtVlR4bm1fVTlGRnROZEpKcE10dUhFVVY2eVIwb0sxRnlVcGdNTmpkeTRqVEV3Y0pkMlNwRTZNVTBjdw?oc=5",
-   "source": "newsdig.tbs.co.jp",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 01:05",
-   "published_iso": "2026-07-31T16:05:37+00:00"
-  },
-  {
-   "title": "モロッコから移民が泳いで国境越え 2000人以上が…緊張高まる（2026年7月31日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnBDZDV3WDloczI4TmdpT0lfV0dGb3NwYlV0N3p2dzVsLWFmM3FydEZJakVrNF9VbzJKWFNlNi13dUJQZTEyMnNRMGNfSVMteVpDMkNCbGhHbXUyYUVTdlFMY1NGd1hHYkJXOVV3SzBNWUFOVmxxNi1KX21pWEcxak1ES0Q?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-01 00:18",
-   "published_iso": "2026-07-31T15:18:00+00:00"
-  },
-  {
-   "title": "外国人の「永住権」取得の要件厳格化へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WbGZTMVBONVk5ak0tRi1VNnZvZEJOaEFfWDFLRzBMMlFTT0d3YVhJNjNIazJGLVdfd3ZPWWlLdklCWjlNWkQxNURZaVhPSXFpSWs5bDI5X1g1elo4a2JILTVPeFdQal9vUmFJU1czaU1Lczg?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-07-31 22:11",
-   "published_iso": "2026-07-31T13:11:38+00:00"
-  },
-  {
-   "title": "不法移民５万人、スペイン領に殺到 イタリア首相「真の脅威」と警戒",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZcUFYSGNMWWpSZ1N0ZVFqUGZjZ1FuVnUyNlptTFRlenkwN0ViSUZDVHB0ZGpJVDNRbWJ5TmhIbF9PSmlQRXJLNzgwS0pzOEZOUVR1MXFfZVdPZ3hHakFrTVNJRQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-07-31 21:50",
-   "published_iso": "2026-07-31T12:50:00+00:00"
   }
  ]
 }
