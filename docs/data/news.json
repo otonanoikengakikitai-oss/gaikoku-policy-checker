@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T13:39:02+00:00",
+ "generated_at": "2026-08-03T16:22:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,12 @@
  ],
  "items": [
   {
-   "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 21:43",
-   "published_iso": "2026-08-03T12:43:33+00:00"
-  },
-  {
-   "title": "埼玉・飯能の山林に９１歳遺体、関与ほのめかすベトナム人「腹が減って盗みに入り殺した」…在留資格なし",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Sc0hrQktwdjZKeGhrc25vUGhyeGlwU3RTbXlXZkxoVDNjNGRobzBXVmMtM0U1NTFWRy1wNUdiTWk5SlFGMkNRRm5RblRUX2NvMXA2N3pHeHg0a3prMmZYWF9vZE1MQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 21:36",
-   "published_iso": "2026-08-03T12:36:00+00:00"
+   "title": "中国の外国人監視サイト、一時閲覧可能と米報道 日本の記者の情報も",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZnUxR0ZLa2p6bWZ4X0wtRkthWWV2M3RIYWNMZ0luMXhhZ0Q3NXJEb3lJdllxSTdobnZLaWd5Q3NFMWU4cmc0S2c3Qm1JS3BfR1FBVXYzT3VzRnJRY3dMNndxM1U2RklMemdyUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-03 22:39",
+   "published_iso": "2026-08-03T13:39:34+00:00"
   },
   {
    "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
@@ -158,14 +150,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 05:00",
    "published_iso": "2026-08-02T20:00:05+00:00"
-  },
-  {
-   "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 05:00",
-   "published_iso": "2026-08-02T20:00:00+00:00"
   },
   {
    "title": "ロヒンギャ難民「５千人送還」 マレーシア首相「ミャンマーと合意」発言が物議",
@@ -360,6 +344,14 @@
    "published_iso": "2026-08-01T01:00:00+00:00"
   },
   {
+   "title": "移民越境で欧州分断危機 スペインに強まる圧力",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-01 08:38",
+   "published_iso": "2026-07-31T23:38:00+00:00"
+  },
+  {
    "title": "スペインに北アフリカから移民6万人突入 イタリアは波及を警戒、国境検問を一方的復活",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbnA0U09GRTUtZ3l3RjZLcTJCWDhDN0JnR0I3RGdickJRN29TZjR2VEcwTnFzOU1JNjE2dExrLTAtR0kxOURObVlLRTQ0dVVhZjJKcGU1SzAta1N2YW9nWDdfNThZOHBnUkhuV0NRRTR4a0hyZ1E?oc=5",
    "source": "産経ニュース",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BY0ROcVVJS3RLckxqeW9KWV9Mdi1BTzFNQmJPREdYaGlkUUkzVHpRTWpXQjcxWV9BSlNKUEZQYXI5UDFRX0xZN1cxcTNTU3FGYWFia29icFNWOW9GdXhTcTU5Rk9Lcm5XMWl4dQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-08-01 05:00",
+   "published_iso": "2026-07-31T20:00:00+00:00"
+  },
+  {
+   "title": "スペイン飛び地に、数万人の移民 アフリカ北端・セウタ モロッコから海泳ぎ国境突破",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtRHNlTkdjSEYtVUkyTndQLUhCVmI5bS05bmhES281MXpVSmxlakIybnRPdFJkS0dDZl83bi1qZWFiUUxIQjEyY2ZwSDN0NS1iT3RWR2R5TWFYNTMx?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-08-01 05:00",
    "published_iso": "2026-07-31T20:00:00+00:00"
   }
