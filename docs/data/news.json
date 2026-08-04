@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-03T22:38:36+00:00",
+ "generated_at": "2026-08-04T00:06:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "地域を守る外国人、ベトナム出身で富山市初の外国人消防団員と有害鳥獣捕獲隊を目指すロシア人ハンター",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByc3Q4MmVQdG1JYW5VUGlneHB3al9nWWtKS3Z1cTRmSjJDNjBpOTNfQ0R4M0R0WVlIYWN1ZEVaVVFBanVzN0dycmRXYU41QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-04 09:00",
+   "published_iso": "2026-08-04T00:00:00+00:00"
+  },
+  {
+   "title": "外国人監視データ、一時オープンに",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 08:57",
+   "published_iso": "2026-08-03T23:57:39+00:00"
+  },
+  {
+   "title": "中国の外国人監視データ、一時オープンに 日本の記者も掲載―米紙報道",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWTcweHh4YmtCc3FmY3N3X0hVV0RzSVJEdVRXWFFadW1JMkdIRkN2elFicXFKTjhlLXZGS21CU2xBRGxLRFpIU0dtTl9fci02Rk5RTl9oS3pPWmoycWVQQ1dvbw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 07:11",
+   "published_iso": "2026-08-03T22:11:00+00:00"
+  },
   {
    "title": "外国人との会話をリアルタイム翻訳 三鷹市、透明ディスプレーを導入 [東京都]",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3pHREgyQ1F3MjRwbFZtcjVBdjZLVGpOenhFSEprYWxnOV9xbmpyMWVHVjJYTlF6S1g2T3hxM1J3b0pQTmJlSEF4N0Z0aTZMaUV4c29Sc2JFQnRnMVNwZlkxUkpTS2VTa0NKS2ZmRnhQOXVRdnRzLUQwWlhfdFJFUWQ2WVpiUQ?oc=5",
@@ -46,6 +70,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-04 04:12",
    "published_iso": "2026-08-03T19:12:14+00:00"
+  },
+  {
+   "title": "移民流入でスペイン孤立 極右伸長警戒し欧州各国が批判",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Da3ZfWEZWT2p6YjJVUV9GSUktRnJZbTZrd284ZDFaOXNRRmREU0Y1aE1nbHF0azlsVG5ZVzlBX0xvNVFOZ3EzT3ROR1lFUC1sMm1qMEVsRWhaaEZMd1o4Sy1pVmNBY0pGbzhWN2NMZFJZb3FEVmhB?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-04 00:00",
+   "published_iso": "2026-08-03T15:00:00+00:00"
   },
   {
    "title": "中国の外国人監視サイト、一時閲覧可能と米報道 日本の記者の情報も",
@@ -200,6 +232,14 @@
    "published_iso": "2026-08-02T20:02:00+00:00"
   },
   {
+   "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:00+00:00"
+  },
+  {
    "title": "ロヒンギャ難民「５千人送還」 マレーシア首相「ミャンマーと合意」発言が物議",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WY01BQkdzUFZ1amxzZWFiTEVCT0dpd2JHMzljOFc2bXB1MFNmZjhkZUNSZHlIdXAwNXNMRG12SjJFcjZEblgzNDA3Z2pSS3F3T3drSnNHZVVXVGU0?oc=5",
    "source": "朝日新聞",
@@ -210,7 +250,7 @@
   {
    "title": "高齢外国人「将来が不安」 群馬、仕事引退の移民支援",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NOExMaWFyVVphZkZZYm9yZWtjY0ptNjBsZVpWdTJWLWNSQzZ1dnF3NVRYSnI3SDVraGY0MkNmdzM3R08wUHZ2U0xYNHlYbnRaN0k3MWl3?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-03 04:19",
    "published_iso": "2026-08-02T19:19:29+00:00"
@@ -222,14 +262,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-03 04:10",
    "published_iso": "2026-08-02T19:10:00+00:00"
-  },
-  {
-   "title": "移民流入スペインに圧力 EU22カ国要請 4日会合",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTXo3aFBBR0o2eDVOaUtGenNyWHNFOG5FTDdENkl0UF9tWlJzU2o2NU9DS0g5SFVHMEpzaDZpUlBVRzRHS0RsVXhNcDNMa3RhZGN1b3dhWHB2TkkwYVBvamo0cW8xWDB4?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 02:00",
-   "published_iso": "2026-08-02T17:00:56+00:00"
   },
   {
    "title": "特定技能停止ショック克服 外食業、外国人材をキャリアで引き付ける",
@@ -282,7 +314,7 @@
   {
    "title": "〈書評〉『ルポ 難民迫害』神田和則 著",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSV9IQWoyUjdNNmZ4bW9KaWxYbDY0WFh2dGF0UU55VHBBc3dsX2lqZWxKV0dpOFItZGxGeVR0LVN3V3FCY2VRZXpaWHFEcGhUTzVZ?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-02 07:00",
    "published_iso": "2026-08-01T22:00:03+00:00"
@@ -292,8 +324,8 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N3FZd0NycE1MT2RwMW9uc09KRDc2RWVUVmwxZXlyNGZqSzhlcFJvamFOak5BbWZGWTMzVF9HT3J4cW9pR1huSXI2eGNjMnNEYjFVVUx3VTZfZklsV2o4TXVhQlR1SFU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-08-02 05:00",
-   "published_iso": "2026-08-01T20:00:00+00:00"
+   "published": "2026-08-02 05:07",
+   "published_iso": "2026-08-01T20:07:17+00:00"
   },
   {
    "title": "「言葉の壁」介護職の技能実習生サポート 厚生事業団東郷の特養【多国籍社会】：ニュース",
@@ -374,38 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 12:16",
    "published_iso": "2026-08-01T03:16:20+00:00"
-  },
-  {
-   "title": "外国人受け入れ枠に迫る上限 食品製造72%・建設67%、企業採用に影",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43MEtUZUs1NXJDc2tuTThxaWwzNGtPZXJhYTM1alRTanBXOFNmM1d1OFgxVnBwNFpwVnlYLTdNZGRTY1N6eHF6RFJReXVua2lHbTBFclFhTmQ3dVZvZS1uN21YNVpKcV9kWmdQSw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 11:00",
-   "published_iso": "2026-08-01T02:00:00+00:00"
-  },
-  {
-   "title": "医療費不払い外国人の入国審査厳格化、白タク取り締まり強化 政府が外国人政策の進捗公表 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50UkYtZW5NX0o0cnNkaFJqbTR2QjNkOUNXOHJhNHNlQmtuc2ZjTWdLXzlBbGNZbFQ4NWR6UndQeWc2R191cVFkRUhOWkMtM2FqMEU3MnBxRkE1SkdHRDRpOVlKSDY1aDZjWkhlTE0xcnBGelc5dkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 10:30",
-   "published_iso": "2026-08-01T01:30:00+00:00"
-  },
-  {
-   "title": "労働者ではなく「地元の知人」へ…偏見や誤解を乗り越え地域で暮らす外国人と日本人をつなぐ“多文化共生”のヒント【外国人と共に】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05YjBxNkhlcmpjVGVFcDVCdFBfRHBxOG5vQ2pjZ1F0R1JsQ1BsNkRtcWdpU1F4QlVMMHM5bVR0emloNC0zSHpfVG00c2ZsZFczOFVsTzU0Tjg0T2VSSjJRUUpGNlU?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 10:00",
-   "published_iso": "2026-08-01T01:00:00+00:00"
-  },
-  {
-   "title": "移民越境で欧州分断危機 スペインに強まる圧力",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lX0lSUFgteTE0X3diRm9sbk8wdlUtNXRiWGRjRHlsZk5rX0d3dDVVc29zQ1JPZzh5VDVUNlU3QWhLNnpHU1pham1IZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-01 08:38",
-   "published_iso": "2026-07-31T23:38:00+00:00"
   }
  ]
 }
