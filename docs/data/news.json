@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T15:30:44+00:00",
+ "generated_at": "2026-08-04T17:45:48+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,25 +8,49 @@
  ],
  "items": [
   {
+   "title": "スペイン領セウタにモロッコより大量の難民流入し75人が死亡 EUが緊急に対応を協議",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OVV9fQWtXZHdvbHozX2duQTBvNHFMVlRKeTl4Z3J3Q3pGcWh6RnQyYVdtdFk1djRYMjZ6MWxuTk5XeFBxZkNUZEdDNlZRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-05 01:22",
+   "published_iso": "2026-08-04T16:22:00+00:00"
+  },
+  {
+   "title": "不法移民問題で欧州内相が緊急会議 スペイン内務大臣「シェンゲン協定は侵害されず」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MRDBFTXhDNEJmOVFLTWEwdVQxaTBuUUZ5OUZyWUFrQU9SaFd1QzM4blRQQlZSYWlGcFV6NkcwajBGMUNPeU9iWEc3a1ZNT2NsMHRpQ3NCYTNGUjJLWkszUEc2X20zN0xnUWdZMXhGMVZOTkFBa2pJSG53?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-05 01:03",
+   "published_iso": "2026-08-04T16:03:37+00:00"
+  },
+  {
+   "title": "会津の伝統文化理解 外国人ら木刀作りやお座敷も 東山盆踊りに参加モニターツアー",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84N0hTbGpNbTQ4ZnQwRHpNZkE4MnpVRjZabHFsOEo1Sk1oTTZGOGZxVlY3bVUzUHRKSkhMbHprWTVjb0sxeEdnS1YwNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-05 00:41",
+   "published_iso": "2026-08-04T15:41:32+00:00"
+  },
+  {
    "title": "外国人材紹介・育成のMIRAI株式会社、コーポレートサイトを全面リニューアル",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2d2ZyTmg5OXZXOVhaN3VLOGtFM2RwSy0xY2lwVXFXMGkxc1RLalFLNUR1eXowcF9VNTNGNGw4SWJUQlV2VG80Rno1OWpkYUwxS3FITm9uTjVOZTgzYXVqRUplVzdldmJVYXBF?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
-   "published": "2026-08-04 23:15",
-   "published_iso": "2026-08-04T14:15:00+00:00"
+   "published": "2026-08-04 23:16",
+   "published_iso": "2026-08-04T14:16:00+00:00"
   },
   {
    "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 22:02",
    "published_iso": "2026-08-04T13:02:00+00:00"
   },
   {
-   "title": "外国人監視データ、一時オープンに",
+   "title": "外国人監視データ、一時オープンに：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 21:02",
    "published_iso": "2026-08-04T12:02:53+00:00"
@@ -120,9 +144,9 @@
    "published_iso": "2026-08-04T06:30:00+00:00"
   },
   {
-   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
+   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 14:50",
    "published_iso": "2026-08-04T05:50:00+00:00"
@@ -136,9 +160,9 @@
    "published_iso": "2026-08-04T03:55:19+00:00"
   },
   {
-   "title": "特定技能２号に「在留５年」 政府、来年１月施行方針",
+   "title": "特定技能２号に「在留５年」 政府、来年１月施行方針：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByN0VnMnh4cmd3VjdEbDh2ZTRGMm0tUmM3d2swdEY5X0Q3UEJ6X25UNXpRaDZfYllMeG9INzdXSVdFNkVHZk9qWGNRQnczVWthek1IU25RUElzZDByVHJJeUxMVQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 12:16",
    "published_iso": "2026-08-04T03:16:00+00:00"
@@ -218,7 +242,7 @@
   {
    "title": "中国の外国人監視データ、一時オープンに 日本の記者も掲載―米紙報道",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWTcweHh4YmtCc3FmY3N3X0hVV0RzSVJEdVRXWFFadW1JMkdIRkN2elFicXFKTjhlLXZGS21CU2xBRGxLRFpIU0dtTl9fci02Rk5RTl9oS3pPWmoycWVQQ1dvbw?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 07:11",
    "published_iso": "2026-08-03T22:11:00+00:00"
@@ -280,6 +304,14 @@
    "published_iso": "2026-08-03T15:00:00+00:00"
   },
   {
+   "title": "オノデラユーザーラン、日本在住外国人の転職支援 外食に人材紹介",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcE9NM1NyUGcwX3h2aktxLTgzUXAxc0lQaUxmMS1HVnotTXotV1NVdnY2ajZyU0t2MmV4ejhuVFpzUlZfVGZxWExxR1VmWkJMd29WZTFLdnZaWXJiYVlxcXpHcWpKNWViS00yeg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-03 18:00",
+   "published_iso": "2026-08-03T09:00:00+00:00"
+  },
+  {
    "title": "包摂と排除を考える―フランスの移民政策を事例として―（中央大学×大手町アカデミア第１４回）",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PdmZSQTZ4Z3VFTHNOZS1pcHFCSmM2U0hCTFNzVkhQM1MzYklxREpQTWpYQ2pRZTRFNllfcXJDRm02dmwtZDlsZ28zRjdpTHNIbjZGR1JZSEZIeG0ybHV3aVVTamN3TlNXb3U5LW5Ea05pcjRsS2pEN2Z3?oc=5",
    "source": "読売新聞",
@@ -296,12 +328,28 @@
    "published_iso": "2026-08-03T05:30:00+00:00"
   },
   {
+   "title": "スペイン領への移民越境、強制送還ないとの誤解が要因 モロッコが声明",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NbHhDRTFjQWpTaXVSMEUzZjk2bW1MaGt5MmQzVGg2bnI0ck9FRW5XdGcyMHRQdFVncEZPLVYzNmJxNUtWd2Zkb1dfNV90Vk5haG1UaDZyNllPcWVoWmVpM0NSUGctQ2V5dV9rQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-03 13:16",
+   "published_iso": "2026-08-03T04:16:51+00:00"
+  },
+  {
    "title": "熊本地震の犠牲者、ベトナム人の技能実習生は結婚式の費用をためるために来日…「妻子を残して無念だろう」",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUFsMFZOX1l2Y3E1TDVDRlVjaEVyaFlqX2xWeXUycTNsMUVBZ1VlVzczS05fdzRWYV84dTY5T1k3MVBwN25mdWxURGVlNmwyN3RVOVFXcEVscWgzaEFKODg1WGhYN2hYWUdXSFYtbDV2Zw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 10:11",
    "published_iso": "2026-08-03T01:11:00+00:00"
+  },
+  {
+   "title": "唯一の「外国人歌人」カン・ハンナさんが短歌で伝える「引き算の文学」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPLUNSRWh1MnZxbmNlYm5pTlVWVVV2aDZGVzhONlhKN05nLWZ3ZnhNV0ZzNzJPeTAxcVZMRTVubmI1bElacG9MbTV5VFhMOEpZYWc?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-08-03 06:00",
+   "published_iso": "2026-08-02T21:00:00+00:00"
   },
   {
    "title": "ロヒンギャ難民送還「ミャンマーと合意」 マレーシア首相発言が物議",
@@ -326,14 +374,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-03 05:00",
    "published_iso": "2026-08-02T20:00:00+00:00"
-  },
-  {
-   "title": "【8月上旬～開始予定】特定技能「自動車運送業」の外国人材を支援 ―― Drivey、6言語対応の二種免許学科試験対策を提供",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DX2I5MGFicFR2VHdLQUxWY1doZFV4OXYyZFJ0eDkyUmtCT2tNa3pxVTU1azhJNDl0RnozcWd6TEM1NTFOVmxxOGNKYS1PYkFMbm5DaGhGTEJleWRFeTlHX3lSQUtyTGQzZURr?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-03 04:10",
-   "published_iso": "2026-08-02T19:10:00+00:00"
   },
   {
    "title": "特定技能停止ショック克服 外食業、外国人材をキャリアで引き付ける",
@@ -366,46 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-02 07:29",
    "published_iso": "2026-08-01T22:29:44+00:00"
-  },
-  {
-   "title": "技能実習生らが絶大支持の町工場 社長「特に対策していませんが」 [埼玉県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N3FZd0NycE1MT2RwMW9uc09KRDc2RWVUVmwxZXlyNGZqSzhlcFJvamFOak5BbWZGWTMzVF9HT3J4cW9pR1huSXI2eGNjMnNEYjFVVUx3VTZfZklsV2o4TXVhQlR1SFU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-02 05:00",
-   "published_iso": "2026-08-01T20:00:00+00:00"
-  },
-  {
-   "title": "「男性1人がおぼれている」海水浴場でベトナム人技能実習生（20）が死亡 友人2人と遊泳中に行方不明に【香川】",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbkNXX3ZXcHd3RmloLWJsRXBRVy1GamRyU25yRDZVNGpzZEg5N3UzOVpMZzY3Y3ItcEl0VGlnVndDOS1TOHNmR3FYcmRQQzRzdTFNZDBPbnhKTVlfaXJj?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 23:28",
-   "published_iso": "2026-08-01T14:28:00+00:00"
-  },
-  {
-   "title": "スペイン、モロッコとの国境沿岸に海上フェンス 不法移民防止で",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WQldITTl3cUVsMUNRNDh1a0JCa0pxTy1VaUU0MmpybFlnSXUtVUE3NnZJQ2EyZS1VOFR1ZS1PcEViWldSM2pLNUZ4M2JicE00eklwT2x1cEFrNGlpenNsaUhPZ1k2Qk5USEQyZA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 23:20",
-   "published_iso": "2026-08-01T14:20:16+00:00"
-  },
-  {
-   "title": "スペイン、国境沿岸に海上フェンス 不法移民防止で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YkxJRzBVaUdGQ1c0U3RlRXNtd3AwSzA0V3N5bVNnRlNWbFZUT3k4SW1yYmZjMkQ3OFhiYkRXVjNCOUMwVGluZnd4Z3k4QTNTaEg1SFBiVjB5RzAzcFR1Ty1lRQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-01 21:57",
-   "published_iso": "2026-08-01T12:57:00+00:00"
-  },
-  {
-   "title": "特定技能制度とは 外食は新規受け入れ停止、再開未定",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSNnNUaDJVUEgxVUFxY0VTN2xrcVRrTktDbmYyMGE1OG8yWFAteE5zLWxFN3N5Y2hLUTU4cXlWRVc2d3BRWFlPZE9fVWRJakF6Rk5Kd1NtbVU3ZzB2Wnk5eDhkclA0OU5FeW1wTg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-01 20:30",
-   "published_iso": "2026-08-01T11:30:00+00:00"
   }
  ]
 }
