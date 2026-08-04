@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T04:10:59+00:00",
+ "generated_at": "2026-08-04T07:36:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,17 +8,41 @@
  ],
  "items": [
   {
+   "title": "外国人監視データ、一時オープンに",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 16:32",
+   "published_iso": "2026-08-04T07:32:53+00:00"
+  },
+  {
+   "title": "入管庁、永住許可ガイドライン改定 日本人世帯の平均年収以上など",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jVWd1cGlGNXNmS2xCeFhzcnRXVlAwcGRmZERpR3NYdzliTDlBaDgxSmJBaEVzOS1oOXRLSXhmblhYUWFOakxNSy11cTQ1UzFfUTVGS0pqR3IzQmlRWGVSVGUtSlFXMGNwZ0UtNg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-04 15:30",
+   "published_iso": "2026-08-04T06:30:00+00:00"
+  },
+  {
    "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-04 12:16",
-   "published_iso": "2026-08-04T03:16:00+00:00"
+   "published": "2026-08-04 14:50",
+   "published_iso": "2026-08-04T05:50:00+00:00"
   },
   {
-   "title": "特定技能２号に「在留５年」＝政府、来年１月施行方針",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByUjV1YlFCejZOSEI2SWEzY2liQmtaTUVfb2FKSU8tSGR0c0pIMXVvYVhFajRuY1VtNm1kS2NOTFlONThkNHlZWlVlQ1JHaFR4dks1UjM4RTFBTHZHd05SaFRaaTc0dGRTUnk0QVBVaw?oc=5",
-   "source": "iJAMPポータル",
+   "title": "フィリピン入管が日本人1人拘束 犯罪収益移転防止法違反の疑い 日本の裁判所から逮捕状",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLUHhOUkw2bl9iQ1lmWUJyTzBLQ2dySGFlSi1sQ2h6SEV6SkdtT3RicXdjaU0xY0RSLW9GLXRCUi1IamRMQ3NHR3ZIRVNxVjg4M1czUG5RcVZ2X2ljbi1Cem1QcFFCb3NpelBKOGgyZGtJV3NJWlE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-04 12:55",
+   "published_iso": "2026-08-04T03:55:19+00:00"
+  },
+  {
+   "title": "特定技能２号に「在留５年」 政府、来年１月施行方針",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByN0VnMnh4cmd3VjdEbDh2ZTRGMm0tUmM3d2swdEY5X0Q3UEJ6X25UNXpRaDZfYllMeG9INzdXSVdFNkVHZk9qWGNRQnczVWthek1IU25RUElzZDByVHJJeUxMVQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-04 12:16",
    "published_iso": "2026-08-04T03:16:00+00:00"
@@ -32,44 +56,28 @@
    "published_iso": "2026-08-04T03:13:01+00:00"
   },
   {
-   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン公表（2026年8月3日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPbU44Wi1mVGdWaVE0M19yY3ZLdEpabG1jR0l1YTJEY2I2OFpHbnFjbEhQRTlzaDhYYWwxaldENC0yVkJEejVidkUzVl9rRjE0WDRzUFpBUzB1M19pYm0wWi15NHFtejdNZHFJU2hwSy1ocHp2QklLLW1xMG8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
+   "title": "永住許可を事実上「抑止」…収入要件は日本人世帯の「平均年収以上」に 入管庁がガイドライン改定案",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aOHFOcE1FYXlBbXpIdjd0NzE2YV85X2NMN3k1VVRJSFN6WXdBYTlyVmFMcmZsdzVGQ09Zak82ZmNFZzRFWVJpOE4tQlVjUGhJZXFJ?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-04 12:09",
+   "published_iso": "2026-08-04T03:09:36+00:00"
+  },
+  {
+   "title": "永住許可を厳格化 ガイドライン案を公表 年収“日本人平均上回る”条件設置",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6NWFiX3dIVEpNekd2MjJzZ04xZU14YldRQUtoX29XVUFzYU9lVWtKdjEtR19XMXdKSk1vZXZFQUphaVEwb3F6aEFMMktGTWRUNk51X19JVWNSdG5fbHdJdURGT21xQ1c3VEFqVzN3Z244Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-04 12:03",
-   "published_iso": "2026-08-04T03:03:00+00:00"
+   "published_iso": "2026-08-04T03:03:47+00:00"
   },
   {
-   "title": "外国人監視データ、一時オープンに",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-04 12:02",
-   "published_iso": "2026-08-04T03:02:53+00:00"
-  },
-  {
-   "title": "外国人の永住許可要件に「日本人の平均収入を継続して上回る必要」明記 生活保護受給者が相次ぎ 4月申請分から適用",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LT3k1UGVYUHJfdmlPQ2tjOEZxWVdUZGYwQmpPYWtjV1kta0cwUU4wR2dGRURYaXJWdXJiYmZaZ2tYWmx1MkhvRDd1dHIxUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-04 12:02",
-   "published_iso": "2026-08-04T03:02:00+00:00"
-  },
-  {
-   "title": "「戦国」テーマにまち歩き 滋賀県長浜市でイベント、外国人観光客呼び込む",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rVXBNSnFWUGhfOFo3bUtOd0tCd2xwSGJ5SEhaQWlDV29OQXJTR0syRkQ4NENLVDhTRk5TRFo2c3NRSV9EaldWNTBQdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-04 11:48",
-   "published_iso": "2026-08-04T02:48:15+00:00"
-  },
-  {
-   "title": "不法移民は犯罪者か 「史上最大の強制送還」掲げるトランプ氏の深謀",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mN2l5WU1xeEczRmFleW51TlpnYzhYWjJkemlXUXF4bXphTkh3UDFuYjgzUldTRG92UzJBMXlJWmF6RnlPRWV4THpfYnByTDVXT2pwS3VCZm00dFRRTDMzeFE1V0Nya1E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-04 11:00",
-   "published_iso": "2026-08-04T02:00:00+00:00"
+   "title": "永住許可厳格化へ入管庁が指針案 日本人と同等の経済水準を明記",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WWgtVEgxdlR1d1o4LUx4dEJMOTRJNER1cDFnTFpLN3UxLVJWcHZiQXJGcFJyN3hMN2dLOGN3Z1owRUEzZlJTa2VoRXVlRWJfWHZKTlBmOGx2UFp5Q1FpeC1TN3BZdVpr?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 12:01",
+   "published_iso": "2026-08-04T03:01:48+00:00"
   },
   {
    "title": "トランプ氏が犯罪者扱いする移民 日系人教授が問う「米国人は誰か」",
@@ -80,12 +88,12 @@
    "published_iso": "2026-08-04T02:00:00+00:00"
   },
   {
-   "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-04 10:39",
-   "published_iso": "2026-08-04T01:39:42+00:00"
+   "title": "不法移民は犯罪者か 「史上最大の強制送還」掲げるトランプ氏の深謀",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mN2l5WU1xeEczRmFleW51TlpnYzhYWjJkemlXUXF4bXphTkh3UDFuYjgzUldTRG92UzJBMXlJWmF6RnlPRWV4THpfYnByTDVXT2pwS3VCZm00dFRRTDMzeFE1V0Nya1E?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 11:00",
+   "published_iso": "2026-08-04T02:00:00+00:00"
   },
   {
    "title": "スペイン領に移民殺到、「モロッコが意図的に容認」の見方浮上",
@@ -208,28 +216,20 @@
    "published_iso": "2026-08-03T08:45:59+00:00"
   },
   {
-   "title": "「差別に該当」外国人職員採用アンケ 諮問機関が三重県に答申",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSF9jeVBHMDF0Nl9WdTJyU2hSWEhFbmlwMXBFYUxKRXJzU2w4clpoZVE2SW5LaUtPT05kdGNxNlhUQmtSVjNyYV9YOUFfRmx2QU5FQUp5N3E1blRvQ0QzZTluVVU0Qk10?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 15:53",
-   "published_iso": "2026-08-03T06:53:20+00:00"
-  },
-  {
-   "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 15:15",
-   "published_iso": "2026-08-03T06:15:00+00:00"
-  },
-  {
    "title": "包摂と排除を考える―フランスの移民政策を事例として―（中央大学×大手町アカデミア第１４回）",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PdmZSQTZ4Z3VFTHNOZS1pcHFCSmM2U0hCTFNzVkhQM1MzYklxREpQTWpYQ2pRZTRFNllfcXJDRm02dmwtZDlsZ28zRjdpTHNIbjZGR1JZSEZIeG0ybHV3aVVTamN3TlNXb3U5LW5Ea05pcjRsS2pEN2Z3?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 14:52",
    "published_iso": "2026-08-03T05:52:00+00:00"
+  },
+  {
+   "title": "外国人受け入れ変わる？ 転職可能に、増加は限定的",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJOG1hSjRtMXlEbnp2ZGROUXF4UVpqbXZUVUNMTnotWVE4X3FIeUliVGpoWkRWWUtzTFloY2FTdWRJWkFIbG8zWThodWhuT1F3em14dExxYmJGeV9FdFNEaVFQYzFkUmV1TXNwSQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-03 14:30",
+   "published_iso": "2026-08-03T05:30:00+00:00"
   },
   {
    "title": "中国が外国人監視、日本記者も サイトに情報、一時閲覧可能に",
@@ -246,14 +246,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 10:11",
    "published_iso": "2026-08-03T01:11:00+00:00"
-  },
-  {
-   "title": "「家族」で力合わせて 熊本で被災したフィリピン人技能実習生 [写真特集1/6]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52c3BWSjl5STVVT1hYd2NsWm9oemJDQWItbHlEdG9RZTJRdTJqUDVCODFNXzNhZHRKTEwwMmhpT2V4YXpZRTF0OHVtbjd5dTlLY3FvOGNpVFFubGJCdkVqN29VMFViZw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 06:55",
-   "published_iso": "2026-08-02T21:55:00+00:00"
   },
   {
    "title": "唯一の「外国人歌人」カン・ハンナさんが短歌で伝える「引き算の文学」",
@@ -278,14 +270,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 06:00",
    "published_iso": "2026-08-02T21:00:00+00:00"
-  },
-  {
-   "title": "京都府北部の市で増える外国人、10年で3倍超「地域が国籍ごとに分断の恐れ」喫緊の課題に",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhME94X1NpMVNTVUR4QTc2OVlKNnZHaDJfZkt5YW1hMmwtUzR3T1ZBeS16N1JzSU44R0NDbE4zWWJRejJMQUp1OTJZNnNPWVJxTk5IUTJQTjU?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-08-03 05:25",
-   "published_iso": "2026-08-02T20:25:00+00:00"
   },
   {
    "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
@@ -318,14 +302,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 02:00",
    "published_iso": "2026-08-02T17:00:00+00:00"
-  },
-  {
-   "title": "遊覧機墜落、１３人死亡 「ナスカの地上絵」外国人観光客ら―ペルー",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZEZQYm5HUEwxZlY2c2dYNFd5alltenZhN0RtVWZMSXptY1NUVzVPdzlMQXVIbWh4UUFYXzd6UU9Ud2tWODFmYzZYNDVpRV9BaXJlMF9SVS1zTzhjVGxiRXJFTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-02 11:17",
-   "published_iso": "2026-08-02T02:17:00+00:00"
   },
   {
    "title": "移民大量流入のスペイン、政権への圧力強まる EUは緊急会合へ",
@@ -378,7 +354,7 @@
   {
    "title": "「男性1人がおぼれている」海水浴場でベトナム人技能実習生（20）が死亡 友人2人と遊泳中に行方不明に【香川】",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbkNXX3ZXcHd3RmloLWJsRXBRVy1GamRyU25yRDZVNGpzZEg5N3UzOVpMZzY3Y3ItcEl0VGlnVndDOS1TOHNmR3FYcmRQQzRzdTFNZDBPbnhKTVlfaXJj?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 23:28",
    "published_iso": "2026-08-01T14:28:00+00:00"
@@ -406,6 +382,30 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-01 18:18",
    "published_iso": "2026-08-01T09:18:00+00:00"
+  },
+  {
+   "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-01 15:30",
+   "published_iso": "2026-08-01T06:30:00+00:00"
+  },
+  {
+   "title": "「今後の生活にも不安」断水・停電が続くなか猛暑日予想 技能実習生は避難所とビニールハウスを行き来し収穫作業… 最大震度7の熊本県宇城市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbS1XUkdhekZyd0lGd0o1NHY5MkJQd1NMZUg1RGZBTm5sN1dOdFkwc1plX0FuSWxieGgtVWx0MVhybjg2NEZZTWtyaklJZkpyb1NVX2Rscw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-01 12:16",
+   "published_iso": "2026-08-01T03:16:20+00:00"
+  },
+  {
+   "title": "外国人受け入れ枠に迫る上限 食品製造72%・建設67%、企業採用に影",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43MEtUZUs1NXJDc2tuTThxaWwzNGtPZXJhYTM1alRTanBXOFNmM1d1OFgxVnBwNFpwVnlYLTdNZGRTY1N6eHF6RFJReXVua2lHbTBFclFhTmQ3dVZvZS1uN21YNVpKcV9kWmdQSw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-01 11:00",
+   "published_iso": "2026-08-01T02:00:00+00:00"
   }
  ]
 }
