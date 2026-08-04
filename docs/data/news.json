@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T00:06:43+00:00",
+ "generated_at": "2026-08-04T04:10:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,108 @@
  ],
  "items": [
   {
-   "title": "地域を守る外国人、ベトナム出身で富山市初の外国人消防団員と有害鳥獣捕獲隊を目指すロシア人ハンター",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByc3Q4MmVQdG1JYW5VUGlneHB3al9nWWtKS3Z1cTRmSjJDNjBpOTNfQ0R4M0R0WVlIYWN1ZEVaVVFBanVzN0dycmRXYU41QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-04 09:00",
-   "published_iso": "2026-08-04T00:00:00+00:00"
+   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 12:16",
+   "published_iso": "2026-08-04T03:16:00+00:00"
+  },
+  {
+   "title": "特定技能２号に「在留５年」＝政府、来年１月施行方針",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByUjV1YlFCejZOSEI2SWEzY2liQmtaTUVfb2FKSU8tSGR0c0pIMXVvYVhFajRuY1VtNm1kS2NOTFlONThkNHlZWlVlQ1JHaFR4dks1UjM4RTFBTHZHd05SaFRaaTc0dGRTUnk0QVBVaw?oc=5",
+   "source": "iJAMPポータル",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 12:16",
+   "published_iso": "2026-08-04T03:16:00+00:00"
+  },
+  {
+   "title": "永住外国人の生活保護受給率、日本全体と同水準 入管庁調査 ガイドライン改定へ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZVdTOERrZTdYSC1Nd2JuQUFPdEw0ajJqejZVbnNadkxMMnRObkNaSkpTMnd2MDFORGdhTm9JOWllb2M1Z1FtVzh3alpTZHZJVUFjUXJaMUtCZlJWOV9VU0xBb0U3bk9DNEFZcXhGczlVZmJ4ZHc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-04 12:13",
+   "published_iso": "2026-08-04T03:13:01+00:00"
+  },
+  {
+   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン公表（2026年8月3日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPbU44Wi1mVGdWaVE0M19yY3ZLdEpabG1jR0l1YTJEY2I2OFpHbnFjbEhQRTlzaDhYYWwxaldENC0yVkJEejVidkUzVl9rRjE0WDRzUFpBUzB1M19pYm0wWi15NHFtejdNZHFJU2hwSy1ocHp2QklLLW1xMG8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-04 12:03",
+   "published_iso": "2026-08-04T03:03:00+00:00"
   },
   {
    "title": "外国人監視データ、一時オープンに",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-04 08:57",
-   "published_iso": "2026-08-03T23:57:39+00:00"
+   "published": "2026-08-04 12:02",
+   "published_iso": "2026-08-04T03:02:53+00:00"
+  },
+  {
+   "title": "外国人の永住許可要件に「日本人の平均収入を継続して上回る必要」明記 生活保護受給者が相次ぎ 4月申請分から適用",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LT3k1UGVYUHJfdmlPQ2tjOEZxWVdUZGYwQmpPYWtjV1kta0cwUU4wR2dGRURYaXJWdXJiYmZaZ2tYWmx1MkhvRDd1dHIxUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-04 12:02",
+   "published_iso": "2026-08-04T03:02:00+00:00"
+  },
+  {
+   "title": "「戦国」テーマにまち歩き 滋賀県長浜市でイベント、外国人観光客呼び込む",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rVXBNSnFWUGhfOFo3bUtOd0tCd2xwSGJ5SEhaQWlDV29OQXJTR0syRkQ4NENLVDhTRk5TRFo2c3NRSV9EaldWNTBQdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-04 11:48",
+   "published_iso": "2026-08-04T02:48:15+00:00"
+  },
+  {
+   "title": "不法移民は犯罪者か 「史上最大の強制送還」掲げるトランプ氏の深謀",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mN2l5WU1xeEczRmFleW51TlpnYzhYWjJkemlXUXF4bXphTkh3UDFuYjgzUldTRG92UzJBMXlJWmF6RnlPRWV4THpfYnByTDVXT2pwS3VCZm00dFRRTDMzeFE1V0Nya1E?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 11:00",
+   "published_iso": "2026-08-04T02:00:00+00:00"
+  },
+  {
+   "title": "トランプ氏が犯罪者扱いする移民 日系人教授が問う「米国人は誰か」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nMVZGb2JvOXdlMVFjVW8xZ211RGhZY0tYZDRfb05jNWtqbzVsSE52UlhtYmdhRU5jSXFKT3hXNEh4TFZQY0R3dTZBRkp0TkdyVGJWOWlzYlhMb2RfQkpTTl92MHloeTQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 11:00",
+   "published_iso": "2026-08-04T02:00:00+00:00"
+  },
+  {
+   "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 10:39",
+   "published_iso": "2026-08-04T01:39:42+00:00"
+  },
+  {
+   "title": "スペイン領に移民殺到、「モロッコが意図的に容認」の見方浮上",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fWmZoZFFvUV9VQ1d5dVJPV0c5ZU1aNmFGUDE4UkloeEV0V3lQeTBrTTExNjVhSWhPZVNtendvLXBvQjExSE9xN3ZnS2ttY3VtMFlDQ3hLMm52aHFkYWhrUmtwQzNTY1I0?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 10:30",
+   "published_iso": "2026-08-04T01:30:55+00:00"
+  },
+  {
+   "title": "中国の“外国人監視システム”が一時公開状態に 顔認証による移動履歴など 登録1万2000人に外国人記者300人超",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yd3RfTHBldVVDWG85YnVpaGxSRzdkRUp4MEc2Y0NERnBOcEFaUVd1UHhZLWwyRFJnWDVBRHhwWGVfdkZtQVlwTllqUGRGUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-04 10:29",
+   "published_iso": "2026-08-04T01:29:00+00:00"
+  },
+  {
+   "title": "地域を守る外国人、ベトナム出身で富山市初の外国人消防団員と有害鳥獣捕獲隊を目指すロシア人ハンター",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByc3Q4MmVQdG1JYW5VUGlneHB3al9nWWtKS3Z1cTRmSjJDNjBpOTNfQ0R4M0R0WVlIYWN1ZEVaVVFBanVzN0dycmRXYU41QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-04 09:00",
+   "published_iso": "2026-08-04T00:00:00+00:00"
   },
   {
    "title": "中国の外国人監視データ、一時オープンに 日本の記者も掲載―米紙報道",
@@ -56,6 +144,14 @@
    "published_iso": "2026-08-03T21:00:00+00:00"
   },
   {
+   "title": "アンケ設問は「差別」 外国人採用是非 調整委が答申 結果、非公表求める 識者「県は尊重すべきだ」 ／三重",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWkF5MDBnSWo5eUd1dThydDl4NkplQVNBTVNjU3BGVklMQlNRUlY0c2Z0UVBURk1ZYlZndUU4c3NlaV80MjFRNHNWc2FlVnRBdU9BY2tIWVdBaDVpVnlIRGtUcmJxa3pN?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 05:03",
+   "published_iso": "2026-08-03T20:03:39+00:00"
+  },
+  {
    "title": "（「史上最大の強制送還」の足元：上）米政権の移民摘発、「犯罪者」と呼ぶけれど",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1haUt0MDVDRlc0SXNiamN1NDdXSHVOcU5aTXBzcGZUMWlkSXhMTEVoLUhhYXZwdUdwODRhSUJTa25vblJ6OS1PVTgyNGwwXzdfRFhabU1XcDlYSU5o?oc=5",
    "source": "朝日新聞",
@@ -86,14 +182,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 22:39",
    "published_iso": "2026-08-03T13:39:34+00:00"
-  },
-  {
-   "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 21:43",
-   "published_iso": "2026-08-03T12:43:33+00:00"
   },
   {
    "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
@@ -152,30 +240,6 @@
    "published_iso": "2026-08-03T03:58:00+00:00"
   },
   {
-   "title": "元自衛官は“即戦力” 射撃訓練も行う「入国警備官」とは？ 今後の外国人政策も解説",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tX1dueUpIbW9EMTkwWC1mTEtYTW1zSmtINFJCQjFYWmtxRTF0RFo3dEIwWC1NNExKQjg3cTNuZDRhQnpmV0pEM3VBR3JYUzJZUDVqVHYwcnRZMUFvbzVhRWRPcWhuZFBiMUZqZ2JyQkJrdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-03 11:45",
-   "published_iso": "2026-08-03T02:45:00+00:00"
-  },
-  {
-   "title": "中国、外国人監視を露呈 サイトに個人情報、閲覧可能状態で公開 日本記者の情報も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiN3lfTUs4bnFoTHhDWVRzQzMtdGwxMDJHc04zVi1ZWWNhTDBDWWQxU1FaYUtubXd0Z1c0SElOLXRKM3ZZcm9PZVo1Y0tiSXQxcVBjU0JoUmZMSEdLNktPdl9mdTYyR2hMLUd0enEyUzJ1SVdwUXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-03 10:32",
-   "published_iso": "2026-08-03T01:32:33+00:00"
-  },
-  {
-   "title": "【速報】中国、外国人監視サイトで個人情報一時公開",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TUlJaYlFsdjhUV1E1Z3ozLS16YjI2ZmFoZG44UzNyLVJwTUFuSGdQZUJjaGhNNHlhTWNmenBsUXhsYVEyTUY1bUlPMA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-03 10:18",
-   "published_iso": "2026-08-03T01:18:31+00:00"
-  },
-  {
    "title": "熊本地震の犠牲者、ベトナム人の技能実習生は結婚式の費用をためるために来日…「妻子を残して無念だろう」",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUFsMFZOX1l2Y3E1TDVDRlVjaEVyaFlqX2xWeXUycTNsMUVBZ1VlVzczS05fdzRWYV84dTY5T1k3MVBwN25mdWxURGVlNmwyN3RVOVFXcEVscWgzaEFKODg1WGhYN2hYWUdXSFYtbDV2Zw?oc=5",
    "source": "読売新聞",
@@ -224,14 +288,6 @@
    "published_iso": "2026-08-02T20:25:00+00:00"
   },
   {
-   "title": "神戸・北区の魅力、外国人と巡る 国宝・箱木家など アンバサダーを案内 ／兵庫",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URnZ4ZWhPZWMxTXZ2Mlc2WEdvRzd3VWZvUGxFLUJmbWdsaDBzZ2pIUk0xQ1llTEFrMWlnd1dtTXFoZ1g5WDVDZDFadVVsUWlvc2NESG5GRDRZYWVtZjNCVWZ6NDJkSTF6?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 05:02",
-   "published_iso": "2026-08-02T20:02:00+00:00"
-  },
-  {
    "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
    "source": "読売新聞",
@@ -246,14 +302,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-03 05:00",
    "published_iso": "2026-08-02T20:00:00+00:00"
-  },
-  {
-   "title": "高齢外国人「将来が不安」 群馬、仕事引退の移民支援",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NOExMaWFyVVphZkZZYm9yZWtjY0ptNjBsZVpWdTJWLWNSQzZ1dnF3NVRYSnI3SDVraGY0MkNmdzM3R08wUHZ2U0xYNHlYbnRaN0k3MWl3?oc=5",
-   "source": "nishinippon.co.jp",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-03 04:19",
-   "published_iso": "2026-08-02T19:19:29+00:00"
   },
   {
    "title": "【8月上旬～開始予定】特定技能「自動車運送業」の外国人材を支援 ―― Drivey、6言語対応の二種免許学科試験対策を提供",
@@ -280,14 +328,6 @@
    "published_iso": "2026-08-02T02:17:00+00:00"
   },
   {
-   "title": "コラム凡語：災害時の外国人",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEV0Z4THRkRVc0am5xOEh0bjN0NnBxSTY3eklBODBkMFlMajB4c0FtRThJd1p2WkRaeXhrUUlvS2hoM295REU3S3ZoVzk1SFctUmUydjBXd1A?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-08-02 10:30",
-   "published_iso": "2026-08-02T01:30:00+00:00"
-  },
-  {
    "title": "移民大量流入のスペイン、政権への圧力強まる EUは緊急会合へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DdHdYa0JTdjZZVGg5V084dnJVUDBXaHEwQXc2a1hFN0s4NVFNTEh5OURDRFQySnNNTThEN181ckJuSnhCcHhGZ2Rxck5SWUJYc2x0d2xHQ2JyX0U1cDlwZU5YT2U1VDRD?oc=5",
    "source": "毎日新聞",
@@ -312,14 +352,6 @@
    "published_iso": "2026-08-01T22:29:44+00:00"
   },
   {
-   "title": "〈書評〉『ルポ 難民迫害』神田和則 著",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KSV9IQWoyUjdNNmZ4bW9KaWxYbDY0WFh2dGF0UU55VHBBc3dsX2lqZWxKV0dpOFItZGxGeVR0LVN3V3FCY2VRZXpaWHFEcGhUTzVZ?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-02 07:00",
-   "published_iso": "2026-08-01T22:00:03+00:00"
-  },
-  {
    "title": "技能実習生らが絶大支持の町工場 社長「特に対策していませんが」 [埼玉県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43N3FZd0NycE1MT2RwMW9uc09KRDc2RWVUVmwxZXlyNGZqSzhlcFJvamFOak5BbWZGWTMzVF9HT3J4cW9pR1huSXI2eGNjMnNEYjFVVUx3VTZfZklsV2o4TXVhQlR1SFU?oc=5",
    "source": "朝日新聞",
@@ -336,14 +368,6 @@
    "published_iso": "2026-08-01T20:00:00+00:00"
   },
   {
-   "title": "スペイン領、移民殺到 モロッコから 一時国境機能不全",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vbXEwdUltbEJZS20wLXlvbXdvb2M5U2x0dzVrOUFCaDFzMk5GVWRuQzEwd1RsZW1xWm9xc1hoYjhGb1VodUZXY0pBQndMSWpXMEVUVWNreGIwZDJHVmVmdEtEczhKR1Fn?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-02 02:01",
-   "published_iso": "2026-08-01T17:01:58+00:00"
-  },
-  {
    "title": "特定技能制度 全分野の上限は80万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvT1hpaXYxVTIxcVRObjBsZk5rZWpnMFFKalFHVUZfT1hWOFZpVnR5UVE4QURXaEt1TlZnZ3FyMmwxS2wzaDlkZ0VIQWFRYXlwbF9vbGI4d2FYWXVJV0hEbVZrcTdial9IUGJ6Yw?oc=5",
    "source": "日本経済新聞",
@@ -354,7 +378,7 @@
   {
    "title": "「男性1人がおぼれている」海水浴場でベトナム人技能実習生（20）が死亡 友人2人と遊泳中に行方不明に【香川】",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbkNXX3ZXcHd3RmloLWJsRXBRVy1GamRyU25yRDZVNGpzZEg5N3UzOVpMZzY3Y3ItcEl0VGlnVndDOS1TOHNmR3FYcmRQQzRzdTFNZDBPbnhKTVlfaXJj?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-01 23:28",
    "published_iso": "2026-08-01T14:28:00+00:00"
@@ -382,30 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-01 18:18",
    "published_iso": "2026-08-01T09:18:00+00:00"
-  },
-  {
-   "title": "「外国人増えると治安悪く」「優遇されている」事実以上に不安・怒りが表れる噂…スペイン発の＜反うわさ戦略＞が目指すものとは",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUZl9kaWxYY0ZYSVZ6SEdFMkJIb3VDdjkzNGZwa2FMb25nNjlmUWJzRi13NDduXzZzbnhUTExPdlY0bjR6cTRheU0yZEFtWFJiNEMwZzhkMkpwUTdyYklWQThpX2drVnAxNW5BVXN3RkxxZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-01 18:00",
-   "published_iso": "2026-08-01T09:00:00+00:00"
-  },
-  {
-   "title": "在留外国人の「日本語・生活学習プログラム」誰が費用を負担するか「社会の分断防ぐ投資」 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vQkMtWmduMHpfWUNkQmVuOXdHRDV3VUJxX1Q1U3VsMy1jaVdCdE5YcmR1R1RSRGo4UEpGbk1ZVzR4Tjd5bERiNGNzd19pX3FiQ0FpNFhsM1BvaEpLcU04ZExMQ1JJSWZZMktqX2lZMk5TZ2pneUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-01 15:30",
-   "published_iso": "2026-08-01T06:30:00+00:00"
-  },
-  {
-   "title": "「今後の生活にも不安」断水・停電が続くなか猛暑日予想 技能実習生は避難所とビニールハウスを行き来し収穫作業… 最大震度7の熊本県宇城市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEbS1XUkdhekZyd0lGd0o1NHY5MkJQd1NMZUg1RGZBTm5sN1dOdFkwc1plX0FuSWxieGgtVWx0MVhybjg2NEZZTWtyaklJZkpyb1NVX2Rscw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-01 12:16",
-   "published_iso": "2026-08-01T03:16:20+00:00"
   }
  ]
 }
