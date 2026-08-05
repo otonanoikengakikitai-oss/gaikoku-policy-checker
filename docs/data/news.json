@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T08:31:39+00:00",
+ "generated_at": "2026-08-05T11:18:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人雇用企業向け「異文化の中で働くとは」研修を福岡で開催、職場の誤解を減らす全3回シリーズ - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aMmwxNENUOXI4eU9zY1hlNlFLZFU5dTNtOVZmeUVtcGN4NUNwZVNWSjVUc1FIWjNVUVBGUDJtNWt5ZG9qaDVzclBqV2EyM2U0MHQ5enQ2TQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-05 19:36",
+   "published_iso": "2026-08-05T10:36:19+00:00"
+  },
+  {
+   "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-05 18:45",
+   "published_iso": "2026-08-05T09:45:00+00:00"
+  },
+  {
+   "title": "成田空港、1〜6月の外国人旅客数過去最高 近距離アジア線好調",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaEdlMkpLQWo1OVBGd2VvTVRTcVdYemo0T0s1WkxFN1ZJNTVYdHFZUjNmTmhoc290SGpzX0FJVTRVaHpXUzZzYy1qUzJ6YkFXak5sQWhWUkdLUVp6eTJkOGNpYW9ITEQwZTJIUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-05 18:11",
+   "published_iso": "2026-08-05T09:11:44+00:00"
+  },
+  {
+   "title": "高度外国人材の受け入れ推進へ 佐野市がセミナー開催、定例会見で発表",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BZElTaWZqdVd1UGVaU2phWlg5SHlEYmd6Qmo4VHg2aENBejJuYnZrQmhTVVE2d092OWJDMjJWTFdZVGJaMThYdEc2QQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-05 18:00",
+   "published_iso": "2026-08-05T09:00:00+00:00"
+  },
+  {
+   "title": "ＥＵが不法移民対策の強化で一致…スペインの飛び地セウタへの不法移民殺到、背景に「犯罪組織やＳＮＳの偽情報」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HU2RxUV8tUWM0NldZdFl4Y2tpUGxGa1l6UW9xNkdfS2dOdXRtT20zOG01alpmeHM3NzFndWEwQWtyUXAzWWZpSnVtSVJTU2dvTmRScEl6UG1hc00wLWFRZjVB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-05 17:34",
+   "published_iso": "2026-08-05T08:34:00+00:00"
+  },
   {
    "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
@@ -24,17 +64,9 @@
    "published_iso": "2026-08-05T08:19:31+00:00"
   },
   {
-   "title": "Experience Modern Japanese KAWAII｜2026年秋、訪日外国人向けKAWAII文化体験を本格スタート",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSkRvOC1sVmJWdkZ1NF9FMWZhWTQ5NzBTQmpRNnp3NDVzZ291VmxoM0xyMWQ5S0pRbDNxdThUWjhvWHBtNFJMVjJjUktlbDhvajItRGNYWjF5YmZvbWRLd1NYdTRWUjVoRHNr?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-05 14:45",
-   "published_iso": "2026-08-05T05:45:00+00:00"
-  },
-  {
    "title": "山林に91歳の女性遺体 殺害ほのめかすベトナム国籍の男 在留資格なし“逃走姿”映る",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cTBpbDJYZmZmTlRNWWk0T1Mwei1pdTFuMm0zZ3gzS0toM3M1MUY2dG1pR1JxenZoTll5d1FFaFBHUnEtd2d3NmtCWi04RnJ4YzFaZG9ENXVZaVZsRWl3Rmwya1REUjRWZWpTSFVVTl92QQ?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-05 12:17",
    "published_iso": "2026-08-05T03:17:36+00:00"
@@ -136,12 +168,12 @@
    "published_iso": "2026-08-04T17:01:38+00:00"
   },
   {
-   "title": "会津の伝統文化理解 外国人ら木刀作りやお座敷も 東山盆踊りに参加モニターツアー",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84N0hTbGpNbTQ4ZnQwRHpNZkE4MnpVRjZabHFsOEo1Sk1oTTZGOGZxVlY3bVUzUHRKSkhMbHprWTVjb0sxeEdnS1YwNA?oc=5",
+   "title": "EU、スペインに連帯と支援表明 モロッコ移民巡り会合",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM1lFZFVoVGtTYm5jYi15Zk01R214ZG1TT0lNWDlOaE1xZjRLUzdRY3g1Q21Yc3p1UlNrY0ZodmFHZ0FRaEhIQTRrRQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-08-05 00:41",
-   "published_iso": "2026-08-04T15:41:32+00:00"
+   "published": "2026-08-04 23:28",
+   "published_iso": "2026-08-04T14:28:25+00:00"
   },
   {
    "title": "外国人材紹介・育成のMIRAI株式会社、コーポレートサイトを全面リニューアル",
@@ -304,14 +336,6 @@
    "published_iso": "2026-08-03T22:11:00+00:00"
   },
   {
-   "title": "外国人との会話をリアルタイム翻訳 三鷹市、透明ディスプレーを導入 [東京都]",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3pHREgyQ1F3MjRwbFZtcjVBdjZLVGpOenhFSEprYWxnOV9xbmpyMWVHVjJYTlF6S1g2T3hxM1J3b0pQTmJlSEF4N0Z0aTZMaUV4c29Sc2JFQnRnMVNwZlkxUkpTS2VTa0NKS2ZmRnhQOXVRdnRzLUQwWlhfdFJFUWQ2WVpiUQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-04 07:00",
-   "published_iso": "2026-08-03T22:00:00+00:00"
-  },
-  {
    "title": "移民と社会：家族のケア担い、産業支えた「結婚移民」 高齢化にどう寄り添う",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4UHozYTFocVItQk9QVE5KdFRQb09SM21CYWh2T0lsc1JYbmJ3ZmZTdk1ZRnh1SHp3UVlsT0NGRWhYbVctTW1CbWlpdGluOUtncEFqZkFqVHZkRnNxaGo3bjF6b0lIZ1Ns?oc=5",
    "source": "毎日新聞",
@@ -382,30 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 13:16",
    "published_iso": "2026-08-03T04:16:51+00:00"
-  },
-  {
-   "title": "中国が外国人監視、日本記者も サイトに情報、一時閲覧可能に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJaDZ2WmZWanhXaUxNdnZTYlNrQWJZcDRxRDhCekxKcUVpUkdINjMzdmYxYWFOMjlWVlU2UFR6NGZHMkpjcUZCQ1JoZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-03 12:58",
-   "published_iso": "2026-08-03T03:58:00+00:00"
-  },
-  {
-   "title": "熊本地震の犠牲者、ベトナム人の技能実習生は結婚式の費用をためるために来日…「妻子を残して無念だろう」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUFsMFZOX1l2Y3E1TDVDRlVjaEVyaFlqX2xWeXUycTNsMUVBZ1VlVzczS05fdzRWYV84dTY5T1k3MVBwN25mdWxURGVlNmwyN3RVOVFXcEVscWgzaEFKODg1WGhYN2hYWUdXSFYtbDV2Zw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 10:11",
-   "published_iso": "2026-08-03T01:11:00+00:00"
-  },
-  {
-   "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 05:00",
-   "published_iso": "2026-08-02T20:00:00+00:00"
   }
  ]
 }
