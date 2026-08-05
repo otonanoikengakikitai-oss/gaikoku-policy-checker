@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T11:18:33+00:00",
+ "generated_at": "2026-08-05T14:02:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【特定技能】支援担当者1人あたり「外国人50人未満・受入10機関未満」へ ― 2027年施行の新要件を解説する登録支援機関向けセミナー、8月25日開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Tnhqd1JnaVFpX0Y2dmxPcTN0QzZFZmtCajJ0bVI5TUhIUVcwemJzbGNYR3lTTnpLMEtXai1tUHAzR0ltb1BRTGl6TkNlQ08zYWlHNVp3OUlSUE9yWXBBa2NvY2dPSlpTb05n?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-05 22:10",
+   "published_iso": "2026-08-05T13:10:00+00:00"
+  },
+  {
+   "title": "Experience Modern Japanese KAWAII｜2026年秋、訪日外国人向けKAWAII文化体験を本格スタート",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSkRvOC1sVmJWdkZ1NF9FMWZhWTQ5NzBTQmpRNnp3NDVzZ291VmxoM0xyMWQ5S0pRbDNxdThUWjhvWHBtNFJMVjJjUktlbDhvajItRGNYWjF5YmZvbWRLd1NYdTRWUjVoRHNr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-05 20:40",
+   "published_iso": "2026-08-05T11:40:00+00:00"
+  },
   {
    "title": "外国人雇用企業向け「異文化の中で働くとは」研修を福岡で開催、職場の誤解を減らす全3回シリーズ - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aMmwxNENUOXI4eU9zY1hlNlFLZFU5dTNtOVZmeUVtcGN4NUNwZVNWSjVUc1FIWjNVUVBGUDJtNWt5ZG9qaDVzclBqV2EyM2U0MHQ5enQ2TQ?oc=5",
@@ -24,7 +40,7 @@
    "published_iso": "2026-08-05T09:45:00+00:00"
   },
   {
-   "title": "成田空港、1〜6月の外国人旅客数過去最高 近距離アジア線好調",
+   "title": "成田空港の外国人旅客数が過去最高 1〜6月、近距離アジア線好調",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaEdlMkpLQWo1OVBGd2VvTVRTcVdYemo0T0s1WkxFN1ZJNTVYdHFZUjNmTmhoc290SGpzX0FJVTRVaHpXUzZzYy1qUzJ6YkFXak5sQWhWUkdLUVp6eTJkOGNpYW9ITEQwZTJIUA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -72,12 +88,12 @@
    "published_iso": "2026-08-05T03:17:36+00:00"
   },
   {
-   "title": "【特定技能】支援担当者1人あたり「外国人50人未満・受入10機関未満」へ ― 2027年施行の新要件を解説する登録支援機関向けセミナー、8月25日開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Tnhqd1JnaVFpX0Y2dmxPcTN0QzZFZmtCajJ0bVI5TUhIUVcwemJzbGNYR3lTTnpLMEtXai1tUHAzR0ltb1BRTGl6TkNlQ08zYWlHNVp3OUlSUE9yWXBBa2NvY2dPSlpTb05n?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-05 11:45",
-   "published_iso": "2026-08-05T02:45:00+00:00"
+   "title": "広島・原爆資料館の外国人入館者数が過去最多 国際情勢や円安背景も「混雑緩和」課題に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYXYtY09ramxwVlY4ZkJPNVN0dktWblJDMGNoRldJSUNSSnNqdWkwbExvRDhERGIwemlRdTdNbkpJcm5QaVVFTVRYeW1DVGNJc08yYUV1MGRFcVNJRWlMQmVITU1HaTZQRHJxOEhqZDlZdlZ6SFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 11:53",
+   "published_iso": "2026-08-05T02:53:08+00:00"
   },
   {
    "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
@@ -384,28 +400,12 @@
    "published_iso": "2026-08-03T12:43:33+00:00"
   },
   {
-   "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QkprWGhUMVd5dVk0YXprNVNuSG5GWTBKN3RPZGVTM09TNVQzQThiWnRiazRuRHpEUnFZakQtZVRNVEt5M013TlBUSHpJTEVLUVVBdFkzODdiRmgtQTVHZ3Zn?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 19:33",
-   "published_iso": "2026-08-03T10:33:00+00:00"
-  },
-  {
    "title": "オノデラユーザーラン、日本在住外国人の転職支援 外食に人材紹介",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcE9NM1NyUGcwX3h2aktxLTgzUXAxc0lQaUxmMS1HVnotTXotV1NVdnY2ajZyU0t2MmV4ejhuVFpzUlZfVGZxWExxR1VmWkJMd29WZTFLdnZaWXJiYVlxcXpHcWpKNWViS00yeg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-03 18:00",
    "published_iso": "2026-08-03T09:00:00+00:00"
-  },
-  {
-   "title": "スペイン領への移民越境、強制送還ないとの誤解が要因 モロッコが声明",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NbHhDRTFjQWpTaXVSMEUzZjk2bW1MaGt5MmQzVGg2bnI0ck9FRW5XdGcyMHRQdFVncEZPLVYzNmJxNUtWd2Zkb1dfNV90Vk5haG1UaDZyNllPcWVoWmVpM0NSUGctQ2V5dV9rQw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-03 13:16",
-   "published_iso": "2026-08-03T04:16:51+00:00"
   }
  ]
 }
