@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T05:43:44+00:00",
+ "generated_at": "2026-08-05T08:31:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,28 +8,36 @@
  ],
  "items": [
   {
-   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-05 14:19",
-   "published_iso": "2026-08-05T05:19:40+00:00"
+   "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-05 17:27",
+   "published_iso": "2026-08-05T08:27:27+00:00"
+  },
+  {
+   "title": "「外国人は日本人と同じ生活者で、地域の担い手」…多文化共生実現への提言、全国知事会が政府に提出",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVX2JvUk56QUwyWXhva3dqZ1JjVUNqSDZKcUVqSG5SZnNZWWJDU1VtT25JaFA1aUY3TzgzUm9FOHhIR2dVX29Zd1pCZzVDdWRjRE1n?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 17:19",
+   "published_iso": "2026-08-05T08:19:31+00:00"
+  },
+  {
+   "title": "Experience Modern Japanese KAWAII｜2026年秋、訪日外国人向けKAWAII文化体験を本格スタート",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SSkRvOC1sVmJWdkZ1NF9FMWZhWTQ5NzBTQmpRNnp3NDVzZ291VmxoM0xyMWQ5S0pRbDNxdThUWjhvWHBtNFJMVjJjUktlbDhvajItRGNYWjF5YmZvbWRLd1NYdTRWUjVoRHNr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-05 14:45",
+   "published_iso": "2026-08-05T05:45:00+00:00"
   },
   {
    "title": "山林に91歳の女性遺体 殺害ほのめかすベトナム国籍の男 在留資格なし“逃走姿”映る",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cTBpbDJYZmZmTlRNWWk0T1Mwei1pdTFuMm0zZ3gzS0toM3M1MUY2dG1pR1JxenZoTll5d1FFaFBHUnEtd2d3NmtCWi04RnJ4YzFaZG9ENXVZaVZsRWl3Rmwya1REUjRWZWpTSFVVTl92QQ?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-05 12:17",
    "published_iso": "2026-08-05T03:17:36+00:00"
-  },
-  {
-   "title": "広島・原爆資料館の外国人入館者数が過去最多 国際情勢や円安背景も「混雑緩和」課題に",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYXYtY09ramxwVlY4ZkJPNVN0dktWblJDMGNoRldJSUNSSnNqdWkwbExvRDhERGIwemlRdTdNbkpJcm5QaVVFTVRYeW1DVGNJc08yYUV1MGRFcVNJRWlMQmVITU1HaTZQRHJxOEhqZDlZdlZ6SFE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-05 11:53",
-   "published_iso": "2026-08-05T02:53:08+00:00"
   },
   {
    "title": "【特定技能】支援担当者1人あたり「外国人50人未満・受入10機関未満」へ ― 2027年施行の新要件を解説する登録支援機関向けセミナー、8月25日開催",
@@ -38,14 +46,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-05 11:45",
    "published_iso": "2026-08-05T02:45:00+00:00"
-  },
-  {
-   "title": "外国人雇用企業向け「異文化の中で働くとは」研修を福岡で開催、職場の誤解を減らす全3回シリーズ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RRjJ2ZGd2Y2Q3cDRxWkxVTW1qM3VtdldhUmRuWnljaGRuaWdqQXN2TXcxRmtVbTMtR1VrdjRxRG5YeWVXWGttWVlKWlRIb3JRcEVXWEJuWUpZcnZTVFFnMzJsQk5Ia3RPUW5r?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-05 11:15",
-   "published_iso": "2026-08-05T02:15:00+00:00"
   },
   {
    "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
@@ -72,20 +72,20 @@
    "published_iso": "2026-08-04T23:23:26+00:00"
   },
   {
+   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-05 07:06",
+   "published_iso": "2026-08-04T22:06:53+00:00"
+  },
+  {
    "title": "米移民局、7月に5万人拘束 1カ月当たり過去最多と報道",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tbGZMMTFvSGdRZ0o1WW11U3Ixei1YR2dnOTFkQUJiTmRaTGk0VlMwQV8tUUZobG1WLTNDZXgxaHhVOXRNVzdCaWRUSQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-05 06:53",
    "published_iso": "2026-08-04T21:53:09+00:00"
-  },
-  {
-   "title": "高校生が議員に、自分の体験や視点で鋭く質問 多文化共生や移住定住策 石田嵩人知事宛ての提言書も",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GLXQtWjNSa0d4VnJLakFrTjBWazA0d2YyMHM5QmRxT2NTajgzd29vbi1OR3hrNFdUWXZUWDJ2cjVnZENwT1kzUHdiMA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-05 06:10",
-   "published_iso": "2026-08-04T21:10:00+00:00"
   },
   {
    "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
@@ -120,6 +120,14 @@
    "published_iso": "2026-08-04T20:00:00+00:00"
   },
   {
+   "title": "スペイン領に移民殺到でEU分断 伊は国境審査を復活、偽情報も拡散",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBraWl4czFlU0dqMVp4dmt1aTVnRDVMaWlLMUk1Xzc5U0V0UFFxa05IZ1pKamlueWVZZU9nN3M1QWI5ckFaN0V2alhjSjFfX1FlVHh1VTA1dC10QU82RXJxRVpuOVlkTUQxOGxkTg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-05 04:32",
+   "published_iso": "2026-08-04T19:32:38+00:00"
+  },
+  {
    "title": "越境「誤認識」ネットで拡大 スペインに移民殺到 モロッコ容認か 「海から渡ると即時送還は回避」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01YUE2ZlFONi1Hc2llVFhRX2V5dFNuQmEteFZ0YUJ3NXdReU9sZWswUXRSNmZuYUQ4U1hFSk01ekFPaG9BLVdHMGJNTEEtMTFsbTNybGpfLUJEemhUNHF3LXVYejFKd2dh?oc=5",
    "source": "毎日新聞",
@@ -152,14 +160,6 @@
    "published_iso": "2026-08-04T13:02:00+00:00"
   },
   {
-   "title": "外国人監視データ、一時オープンに",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-04 21:02",
-   "published_iso": "2026-08-04T12:02:53+00:00"
-  },
-  {
    "title": "「日本を選ぶ外国人減る」 永住許可の厳格化、弁護士らの懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PMWFfYXRkbTA4ZnBBcnRvRXhWVjRnME50WVJkN3VnbDAwMEhpWFFlZGlpU0lHendjZXJHXzFwamJMNTloaVhwRXdGOXhWU21FckN5WWsxcUttWjlRdkt4d2p5cWN1VEl2?oc=5",
    "source": "毎日新聞",
@@ -176,14 +176,6 @@
    "published_iso": "2026-08-04T10:49:48+00:00"
   },
   {
-   "title": "長野県内での外国人観光客のレンタカー事故、3年で15倍に 事故の4割は冬季",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQUUFGa1JzYkF2WnlzZ1hPREtDb3p1TmRXT2otWUJEd0tYVmpwTU9XQjN6cWlYekYwYjVXSGtQMWxUcUdjdGo2RUhublN4Ty1Iek1mNUx0Rkpoa19kcmdITHozel91Qld6ZDFXOVBHVUQ?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-04 19:37",
-   "published_iso": "2026-08-04T10:37:00+00:00"
-  },
-  {
    "title": "外国人ドライバーに日本の交通ルールを説明 観光シーズン真っ盛りの旭川や富良野で 事故多発のため",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYkJQZnFlRXY1Z2dJVGhRN3A0LWxpOTU4YmdEMG4xSlltTk55N3FlWkhpTzNLUmtxTklvQjc3cHhFWU53ZE90ZVhtMkxNalpuM3FRaFBVNDZTQQ?oc=5",
    "source": "HTB 北海道テレビ",
@@ -198,6 +190,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-04 17:35",
    "published_iso": "2026-08-04T08:35:06+00:00"
+  },
+  {
+   "title": "【開催日決定】オフライン＆オンラインセミナー『特定技能1号（外食業）の受け入れ停止は\"転換点\"―外食大手の魁力屋が語る、これからの外国人採用・定着の最適解』を8月21日に開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcnY1S19SLXZ2aUxzaER6dWt1STZ5bkl6cDZfa1pqMC1fZXl0c3RGSGlraHN2b29sRTZRTUs4NmlNQmFod3dwMXhQc3dFNzlnY2NtYXRreWlNQ2JCMUZqZ2g3ZWNHU2syVWZR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 17:16",
+   "published_iso": "2026-08-04T08:16:00+00:00"
   },
   {
    "title": "永住外国人の「生活保護」回避狙った政府 許可要件の厳格化案を発表 [外国人政策 高市早苗総理 自民党]",
@@ -256,9 +256,9 @@
    "published_iso": "2026-08-04T03:09:36+00:00"
   },
   {
-   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）｜日テレNEWS NNN",
+   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPbU44Wi1mVGdWaVE0M19yY3ZLdEpabG1jR0l1YTJEY2I2OFpHbnFjbEhQRTlzaDhYYWwxaldENC0yVkJEejVidkUzVl9rRjE0WDRzUFpBUzB1M19pYm0wWi15NHFtejdNZHFJU2hwSy1ocHp2QklLLW1xMG8?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-04 12:03",
    "published_iso": "2026-08-04T03:03:00+00:00"
@@ -352,20 +352,20 @@
    "published_iso": "2026-08-03T15:00:00+00:00"
   },
   {
-   "title": "中国の外国人監視サイト、一時閲覧可能と米報道 日本の記者の情報も",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xZnUxR0ZLa2p6bWZ4X0wtRkthWWV2M3RIYWNMZ0luMXhhZ0Q3NXJEb3lJdllxSTdobnZLaWd5Q3NFMWU4cmc0S2c3Qm1JS3BfR1FBVXYzT3VzRnJRY3dMNndxM1U2RklMemdyUA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-03 22:39",
-   "published_iso": "2026-08-03T13:39:34+00:00"
-  },
-  {
    "title": "スペイン領に大勢の移民流入 モロッコ政府「誤認識が拡散した」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdkZ5MUlCRUxTRjZNUXpLbGJiZlJFLURWX1FVTDE4bEJRQzJLZ1JlZ0tKQmZHNm4yTzQyTzE0bjRjLW5IM01PSmZxZjNaYUliclB4WXVnWXYyVmxfUmdTWTZHRVFjU1la?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-03 21:43",
    "published_iso": "2026-08-03T12:43:33+00:00"
+  },
+  {
+   "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QkprWGhUMVd5dVk0YXprNVNuSG5GWTBKN3RPZGVTM09TNVQzQThiWnRiazRuRHpEUnFZakQtZVRNVEt5M013TlBUSHpJTEVLUVVBdFkzODdiRmgtQTVHZ3Zn?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 19:33",
+   "published_iso": "2026-08-03T10:33:00+00:00"
   },
   {
    "title": "オノデラユーザーラン、日本在住外国人の転職支援 外食に人材紹介",
@@ -376,36 +376,36 @@
    "published_iso": "2026-08-03T09:00:00+00:00"
   },
   {
-   "title": "「差別に該当」外国人職員採用アンケ 諮問機関が三重県に答申",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSF9jeVBHMDF0Nl9WdTJyU2hSWEhFbmlwMXBFYUxKRXJzU2w4clpoZVE2SW5LaUtPT05kdGNxNlhUQmtSVjNyYV9YOUFfRmx2QU5FQUp5N3E1blRvQ0QzZTluVVU0Qk10?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-03 15:53",
-   "published_iso": "2026-08-03T06:53:20+00:00"
-  },
-  {
-   "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 15:15",
-   "published_iso": "2026-08-03T06:15:00+00:00"
-  },
-  {
-   "title": "外国人受け入れ変わる？ 転職可能に、増加は限定的",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJOG1hSjRtMXlEbnp2ZGROUXF4UVpqbXZUVUNMTnotWVE4X3FIeUliVGpoWkRWWUtzTFloY2FTdWRJWkFIbG8zWThodWhuT1F3em14dExxYmJGeV9FdFNEaVFQYzFkUmV1TXNwSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-03 14:30",
-   "published_iso": "2026-08-03T05:30:00+00:00"
-  },
-  {
    "title": "スペイン領への移民越境、強制送還ないとの誤解が要因 モロッコが声明",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NbHhDRTFjQWpTaXVSMEUzZjk2bW1MaGt5MmQzVGg2bnI0ck9FRW5XdGcyMHRQdFVncEZPLVYzNmJxNUtWd2Zkb1dfNV90Vk5haG1UaDZyNllPcWVoWmVpM0NSUGctQ2V5dV9rQw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-03 13:16",
    "published_iso": "2026-08-03T04:16:51+00:00"
+  },
+  {
+   "title": "中国が外国人監視、日本記者も サイトに情報、一時閲覧可能に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJaDZ2WmZWanhXaUxNdnZTYlNrQWJZcDRxRDhCekxKcUVpUkdINjMzdmYxYWFOMjlWVlU2UFR6NGZHMkpjcUZCQ1JoZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-03 12:58",
+   "published_iso": "2026-08-03T03:58:00+00:00"
+  },
+  {
+   "title": "熊本地震の犠牲者、ベトナム人の技能実習生は結婚式の費用をためるために来日…「妻子を残して無念だろう」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUFsMFZOX1l2Y3E1TDVDRlVjaEVyaFlqX2xWeXUycTNsMUVBZ1VlVzczS05fdzRWYV84dTY5T1k3MVBwN25mdWxURGVlNmwyN3RVOVFXcEVscWgzaEFKODg1WGhYN2hYWUdXSFYtbDV2Zw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 10:11",
+   "published_iso": "2026-08-03T01:11:00+00:00"
+  },
+  {
+   "title": "高い日本語能力・熟練した技能をもつ外国人、店長やマネジャーに…人手不足の外食業界が期待",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oRWhqdjZlM3FNRkMtS0FfUjVadFI2NmZ4T1lnNklxOXZ4MGtxeGxyNG1WODB1SjRSRVI2WEJyYzJON19sZU5qV2MzRkdwM2E0WnVHUUNWMDNGRXJ0cHg4WFVjalg?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-03 05:00",
+   "published_iso": "2026-08-02T20:00:00+00:00"
   }
  ]
 }
