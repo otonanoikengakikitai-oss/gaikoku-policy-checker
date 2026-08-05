@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T22:10:48+00:00",
+ "generated_at": "2026-08-05T23:58:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RjRWaGFlRGJuUlhKSWFtMWxjTDljSS1BY2xkOVE4VEU0Q2Uzb3ZWSWptS1FGTWxDZVZDTU5mbXE0WTlYdVZULWFPdC1YNTZtOHFyYVczOG0zelZlTm1zQ3hDTVZjWHc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-06 08:00",
+   "published_iso": "2026-08-05T23:00:00+00:00"
+  },
   {
    "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
@@ -26,7 +34,7 @@
   {
    "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［滋賀編］1位は「びわ湖大津プリンスホテル」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ybHNIa3ZPeU1lczlYSTdxbWRabTFQemx0WWNJLXBiSkN4bkxFbXYwaDdrellyTFBTcmdBMURsOVlBTkUwNFVOVV9IVThPbFg3cll4ZVdhMWU5TXhPZ2tqNDgyUFdlMk9xTDNJ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-06 05:16",
    "published_iso": "2026-08-05T20:16:00+00:00"
@@ -106,15 +114,23 @@
   {
    "title": "山林に91歳の女性遺体 殺害ほのめかすベトナム国籍の男 在留資格なし“逃走姿”映る",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cTBpbDJYZmZmTlRNWWk0T1Mwei1pdTFuMm0zZ3gzS0toM3M1MUY2dG1pR1JxenZoTll5d1FFaFBHUnEtd2d3NmtCWi04RnJ4YzFaZG9ENXVZaVZsRWl3Rmwya1REUjRWZWpTSFVVTl92QQ?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-05 12:17",
    "published_iso": "2026-08-05T03:17:36+00:00"
   },
   {
+   "title": "広島・原爆資料館の外国人入館者数が過去最多 国際情勢や円安背景も「混雑緩和」課題に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYXYtY09ramxwVlY4ZkJPNVN0dktWblJDMGNoRldJSUNSSnNqdWkwbExvRDhERGIwemlRdTdNbkpJcm5QaVVFTVRYeW1DVGNJc08yYUV1MGRFcVNJRWlMQmVITU1HaTZQRHJxOEhqZDlZdlZ6SFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 11:53",
+   "published_iso": "2026-08-05T02:53:08+00:00"
+  },
+  {
    "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjhUSTNJTzA2OUl4SjJWVmItNndnUzVTWjA0WG9sQnZLaF8yNzk4WFVKaWlSTmpVSHNuNEUwSVdfbVpZSmM5UnlmMlByX09IUDdWWkNWZlRkNmNZZFlQVFNFVEJ6SUw4ckxv?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-05 10:46",
    "published_iso": "2026-08-05T01:46:00+00:00"
@@ -184,14 +200,6 @@
    "published_iso": "2026-08-04T19:32:38+00:00"
   },
   {
-   "title": "越境「誤認識」ネットで拡大 スペインに移民殺到 モロッコ容認か 「海から渡ると即時送還は回避」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01YUE2ZlFONi1Hc2llVFhRX2V5dFNuQmEteFZ0YUJ3NXdReU9sZWswUXRSNmZuYUQ4U1hFSk01ekFPaG9BLVdHMGJNTEEtMTFsbTNybGpfLUJEemhUNHF3LXVYejFKd2dh?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-05 02:01",
-   "published_iso": "2026-08-04T17:01:38+00:00"
-  },
-  {
    "title": "EU、スペインに連帯と支援表明 モロッコ移民巡り会合",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SM1lFZFVoVGtTYm5jYi15Zk01R214ZG1TT0lNWDlOaE1xZjRLUzdRY3g1Q21Yc3p1UlNrY0ZodmFHZ0FRaEhIQTRrRQ?oc=5",
    "source": "47NEWS",
@@ -202,7 +210,7 @@
   {
    "title": "外国人材紹介・育成のMIRAI株式会社、コーポレートサイトを全面リニューアル",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2d2ZyTmg5OXZXOVhaN3VLOGtFM2RwSy0xY2lwVXFXMGkxc1RLalFLNUR1eXowcF9VNTNGNGw4SWJUQlV2VG80Rno1OWpkYUwxS3FITm9uTjVOZTgzYXVqRUplVzdldmJVYXBF?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 23:16",
    "published_iso": "2026-08-04T14:16:00+00:00"
@@ -234,7 +242,7 @@
   {
    "title": "外国人ドライバーに日本の交通ルールを説明 観光シーズン真っ盛りの旭川や富良野で 事故多発のため",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SYkJQZnFlRXY1Z2dJVGhRN3A0LWxpOTU4YmdEMG4xSlltTk55N3FlWkhpTzNLUmtxTklvQjc3cHhFWU53ZE90ZVhtMkxNalpuM3FRaFBVNDZTQQ?oc=5",
-   "source": "HTB北海道テレビ",
+   "source": "htb.co.jp",
    "source_domain": "htb.co.jp",
    "published": "2026-08-04 17:44",
    "published_iso": "2026-08-04T08:44:00+00:00"
@@ -250,7 +258,7 @@
   {
    "title": "【開催日決定】オフライン＆オンラインセミナー『特定技能1号（外食業）の受け入れ停止は\"転換点\"―外食大手の魁力屋が語る、これからの外国人採用・定着の最適解』を8月21日に開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcnY1S19SLXZ2aUxzaER6dWt1STZ5bkl6cDZfa1pqMC1fZXl0c3RGSGlraHN2b29sRTZRTUs4NmlNQmFod3dwMXhQc3dFNzlnY2NtYXRreWlNQ2JCMUZqZ2g3ZWNHU2syVWZR?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 17:16",
    "published_iso": "2026-08-04T08:16:00+00:00"
@@ -280,9 +288,17 @@
    "published_iso": "2026-08-04T06:30:00+00:00"
   },
   {
-   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
+   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 14:50",
+   "published_iso": "2026-08-04T05:50:00+00:00"
+  },
+  {
+   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFpxT0IyOWZRSHd3amg3aDU2OF9zdktsa2dVbmxDNXVLOWR3MW5GaW8tRHJ4dUp0R0VWOGJnN1RBelhRQUZfcGdMVXF1d3hsVF84QWstZFdMQUpwaFpoc2NsdFphOVlPcVlERVZENXZNaGRXQVFYV1FaZ3BlQTBObGtB?oc=5",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 14:50",
    "published_iso": "2026-08-04T05:50:00+00:00"
@@ -290,7 +306,7 @@
   {
    "title": "特定技能２号に「在留５年」 政府、来年１月施行方針",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByN0VnMnh4cmd3VjdEbDh2ZTRGMm0tUmM3d2swdEY5X0Q3UEJ6X25UNXpRaDZfYllMeG9INzdXSVdFNkVHZk9qWGNRQnczVWthek1IU25RUElzZDByVHJJeUxMVQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 12:16",
    "published_iso": "2026-08-04T03:16:00+00:00"
@@ -362,7 +378,7 @@
   {
    "title": "中国の外国人監視データ、一時オープンに 日本の記者も掲載―米紙報道",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWTcweHh4YmtCc3FmY3N3X0hVV0RzSVJEdVRXWFFadW1JMkdIRkN2elFicXFKTjhlLXZGS21CU2xBRGxLRFpIU0dtTl9fci02Rk5RTl9oS3pPWmoycWVQQ1dvbw?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-04 07:11",
    "published_iso": "2026-08-03T22:11:00+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-04 05:00",
    "published_iso": "2026-08-03T20:00:00+00:00"
-  },
-  {
-   "title": "中南米へのドル送金回復 トランプ米政権の不法移民圧力和らぐ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b3pJZFY2TnVZUE5hNGNnS2dEZGJSQkJYbUpOdnJJMzVPak9QTk9kYWc4VTBjSjJpeXU1M2dlY1lGdjM0T3FuMVY4ZEI5azg2X1VPMXkzSW1DdkdZOXFIT0tQSzc3cFgtMl9kSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-04 04:12",
-   "published_iso": "2026-08-03T19:12:14+00:00"
-  },
-  {
-   "title": "移民流入でスペイン孤立 極右伸長警戒し欧州各国が批判",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Da3ZfWEZWT2p6YjJVUV9GSUktRnJZbTZrd284ZDFaOXNRRmREU0Y1aE1nbHF0azlsVG5ZVzlBX0xvNVFOZ3EzT3ROR1lFUC1sMm1qMEVsRWhaaEZMd1o4Sy1pVmNBY0pGbzhWN2NMZFJZb3FEVmhB?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-04 00:00",
-   "published_iso": "2026-08-03T15:00:00+00:00"
   }
  ]
 }
