@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T02:13:14+00:00",
+ "generated_at": "2026-08-05T05:43:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,52 @@
  ],
  "items": [
   {
-   "title": "元技能実習生「妊娠を理由に退職や帰国を余儀なくされた」、施設側に３１４万円支払い命令…福岡地裁小倉支部",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tN19fVHJwdEhiTkJZM0RDMVZDQUE5Qnp0OGYwS0tqc2VSdnNXeUNlaGNoN1IxX2FTUk1CVXdrQ25zMEo2cGxpWWRZY3had3ZvZ2dZZk5zQ1VNTTVSVkFLN1o2b1h0V0FSOG9SYmxkcFR2Zw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-05 10:44",
-   "published_iso": "2026-08-05T01:44:00+00:00"
+   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-05 14:19",
+   "published_iso": "2026-08-05T05:19:40+00:00"
   },
   {
-   "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
+   "title": "山林に91歳の女性遺体 殺害ほのめかすベトナム国籍の男 在留資格なし“逃走姿”映る",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96cTBpbDJYZmZmTlRNWWk0T1Mwei1pdTFuMm0zZ3gzS0toM3M1MUY2dG1pR1JxenZoTll5d1FFaFBHUnEtd2d3NmtCWi04RnJ4YzFaZG9ENXVZaVZsRWl3Rmwya1REUjRWZWpTSFVVTl92QQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-05 12:17",
+   "published_iso": "2026-08-05T03:17:36+00:00"
+  },
+  {
+   "title": "広島・原爆資料館の外国人入館者数が過去最多 国際情勢や円安背景も「混雑緩和」課題に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HYXYtY09ramxwVlY4ZkJPNVN0dktWblJDMGNoRldJSUNSSnNqdWkwbExvRDhERGIwemlRdTdNbkpJcm5QaVVFTVRYeW1DVGNJc08yYUV1MGRFcVNJRWlMQmVITU1HaTZQRHJxOEhqZDlZdlZ6SFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 11:53",
+   "published_iso": "2026-08-05T02:53:08+00:00"
+  },
+  {
+   "title": "【特定技能】支援担当者1人あたり「外国人50人未満・受入10機関未満」へ ― 2027年施行の新要件を解説する登録支援機関向けセミナー、8月25日開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Tnhqd1JnaVFpX0Y2dmxPcTN0QzZFZmtCajJ0bVI5TUhIUVcwemJzbGNYR3lTTnpLMEtXai1tUHAzR0ltb1BRTGl6TkNlQ08zYWlHNVp3OUlSUE9yWXBBa2NvY2dPSlpTb05n?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-05 09:35",
-   "published_iso": "2026-08-05T00:35:00+00:00"
+   "published": "2026-08-05 11:45",
+   "published_iso": "2026-08-05T02:45:00+00:00"
+  },
+  {
+   "title": "外国人雇用企業向け「異文化の中で働くとは」研修を福岡で開催、職場の誤解を減らす全3回シリーズ",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RRjJ2ZGd2Y2Q3cDRxWkxVTW1qM3VtdldhUmRuWnljaGRuaWdqQXN2TXcxRmtVbTMtR1VrdjRxRG5YeWVXWGttWVlKWlRIb3JRcEVXWEJuWUpZcnZTVFFnMzJsQk5Ia3RPUW5r?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-05 11:15",
+   "published_iso": "2026-08-05T02:15:00+00:00"
+  },
+  {
+   "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjhUSTNJTzA2OUl4SjJWVmItNndnUzVTWjA0WG9sQnZLaF8yNzk4WFVKaWlSTmpVSHNuNEUwSVdfbVpZSmM5UnlmMlByX09IUDdWWkNWZlRkNmNZZFlQVFNFVEJ6SUw4ckxv?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-05 10:46",
+   "published_iso": "2026-08-05T01:46:00+00:00"
   },
   {
    "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
@@ -40,12 +72,12 @@
    "published_iso": "2026-08-04T23:23:26+00:00"
   },
   {
-   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-05 07:06",
-   "published_iso": "2026-08-04T22:06:53+00:00"
+   "title": "米移民局、7月に5万人拘束 1カ月当たり過去最多と報道",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tbGZMMTFvSGdRZ0o1WW11U3Ixei1YR2dnOTFkQUJiTmRaTGk0VlMwQV8tUUZobG1WLTNDZXgxaHhVOXRNVzdCaWRUSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-05 06:53",
+   "published_iso": "2026-08-04T21:53:09+00:00"
   },
   {
    "title": "高校生が議員に、自分の体験や視点で鋭く質問 多文化共生や移住定住策 石田嵩人知事宛ての提言書も",
@@ -74,7 +106,7 @@
   {
    "title": "外国人向け日本語教室、市民が紡ぎ30年 震災がきっかけ 週1回2カ所で活動、書道体験なども|明石",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yaUFOdC1TMnpWWW1JU3dUZzYybVo4bjhoOG1TWmo2NHA5RnV2XzlSTXBYdU1ldlpJOWMzM1VtWVdMalNEY1Y1TEdIU1Bkc2Iwa3daR3VQbFJUUnFGcTVMSHJra2Z4Yk1vem14VGxR?oc=5",
-   "source": "神戸新聞NEXT",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-05 05:10",
    "published_iso": "2026-08-04T20:10:00+00:00"
@@ -86,14 +118,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-05 05:00",
    "published_iso": "2026-08-04T20:00:00+00:00"
-  },
-  {
-   "title": "スペイン領に移民殺到でEU分断 伊は国境審査を復活、偽情報も拡散",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBraWl4czFlU0dqMVp4dmt1aTVnRDVMaWlLMUk1Xzc5U0V0UFFxa05IZ1pKamlueWVZZU9nN3M1QWI5ckFaN0V2alhjSjFfX1FlVHh1VTA1dC10QU82RXJxRVpuOVlkTUQxOGxkTg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-05 04:32",
-   "published_iso": "2026-08-04T19:32:38+00:00"
   },
   {
    "title": "越境「誤認識」ネットで拡大 スペインに移民殺到 モロッコ容認か 「海から渡ると即時送還は回避」",
@@ -120,20 +144,20 @@
    "published_iso": "2026-08-04T14:16:00+00:00"
   },
   {
+   "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 22:02",
+   "published_iso": "2026-08-04T13:02:00+00:00"
+  },
+  {
    "title": "外国人監視データ、一時オープンに",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOERMaWJtVlRtNTUyUVBvazFxQ2RwZjU4TzFvRUtkUGQ1N2NhRlhvSGFFdG1kMkZWSXAtZzU4elRQYmlWZkRZaG1UUDRnQzd5TVlFbThtUm5BWXdvajBiTDk5c2k?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-04 21:02",
    "published_iso": "2026-08-04T12:02:53+00:00"
-  },
-  {
-   "title": "外国人のレンタカー事故が15倍に 長野県内で575件「観光地やスノーリゾート周辺で発生」 冬の期間に集中、右折事故が多く「日本の交通ルールの周知や雪道運転への理解を促す必要」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80bGZSM2VpZlNkdUE4VDd1OHNhXzI3OE9mNXVMNDVtQ3FmY25iQ2taekkyd2xuNVVDY1VmSDZjRXI5bUdlRVFtVnpCY1FLQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-04 20:01",
-   "published_iso": "2026-08-04T11:01:00+00:00"
   },
   {
    "title": "「日本を選ぶ外国人減る」 永住許可の厳格化、弁護士らの懸念",
@@ -208,14 +232,6 @@
    "published_iso": "2026-08-04T05:50:00+00:00"
   },
   {
-   "title": "フィリピン入管が日本人1人拘束 犯罪収益移転防止法違反の疑い 日本の裁判所から逮捕状",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLUHhOUkw2bl9iQ1lmWUJyTzBLQ2dySGFlSi1sQ2h6SEV6SkdtT3RicXdjaU0xY0RSLW9GLXRCUi1IamRMQ3NHR3ZIRVNxVjg4M1czUG5RcVZ2X2ljbi1Cem1QcFFCb3NpelBKOGgyZGtJV3NJWlE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-04 12:55",
-   "published_iso": "2026-08-04T03:55:19+00:00"
-  },
-  {
    "title": "特定技能２号に「在留５年」 政府、来年１月施行方針",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByN0VnMnh4cmd3VjdEbDh2ZTRGMm0tUmM3d2swdEY5X0Q3UEJ6X25UNXpRaDZfYllMeG9INzdXSVdFNkVHZk9qWGNRQnczVWthek1IU25RUElzZDByVHJJeUxMVQ?oc=5",
    "source": "時事ドットコム",
@@ -240,9 +256,9 @@
    "published_iso": "2026-08-04T03:09:36+00:00"
   },
   {
-   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）",
+   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）｜日テレNEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPbU44Wi1mVGdWaVE0M19yY3ZLdEpabG1jR0l1YTJEY2I2OFpHbnFjbEhQRTlzaDhYYWwxaldENC0yVkJEejVidkUzVl9rRjE0WDRzUFpBUzB1M19pYm0wWi15NHFtejdNZHFJU2hwSy1ocHp2QklLLW1xMG8?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-04 12:03",
    "published_iso": "2026-08-04T03:03:00+00:00"
@@ -296,6 +312,14 @@
    "published_iso": "2026-08-03T22:00:00+00:00"
   },
   {
+   "title": "移民と社会：家族のケア担い、産業支えた「結婚移民」 高齢化にどう寄り添う",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4UHozYTFocVItQk9QVE5KdFRQb09SM21CYWh2T0lsc1JYbmJ3ZmZTdk1ZRnh1SHp3UVlsT0NGRWhYbVctTW1CbWlpdGluOUtncEFqZkFqVHZkRnNxaGo3bjF6b0lIZ1Ns?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 06:01",
+   "published_iso": "2026-08-03T21:01:00+00:00"
+  },
+  {
    "title": "移民と社会：経済不安、孤独死……「おひとりさま」になった結婚移民の老後",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQmxQYkUyOXhCVHhMaXFqWVg3Q3dKRlpqSGl0c2JFM1NYd1A4TGJTUWh1bldVYVNJem9IZi1VcFNBYTdyM3JnSVNtNjBCQ0RTRG1NbU1CcWhjMmIyZnBDZ1ZZRnNYaEkx?oc=5",
    "source": "毎日新聞",
@@ -344,14 +368,6 @@
    "published_iso": "2026-08-03T12:43:33+00:00"
   },
   {
-   "title": "中国当局運営とみられる外国人監視用サイトが一時閲覧可能に、日米記者の名前も…米紙報道",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84QkprWGhUMVd5dVk0YXprNVNuSG5GWTBKN3RPZGVTM09TNVQzQThiWnRiazRuRHpEUnFZakQtZVRNVEt5M013TlBUSHpJTEVLUVVBdFkzODdiRmgtQTVHZ3Zn?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 19:33",
-   "published_iso": "2026-08-03T10:33:00+00:00"
-  },
-  {
    "title": "オノデラユーザーラン、日本在住外国人の転職支援 外食に人材紹介",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qcE9NM1NyUGcwX3h2aktxLTgzUXAxc0lQaUxmMS1HVnotTXotV1NVdnY2ajZyU0t2MmV4ejhuVFpzUlZfVGZxWExxR1VmWkJMd29WZTFLdnZaWXJiYVlxcXpHcWpKNWViS00yeg?oc=5",
    "source": "日本経済新聞",
@@ -370,7 +386,7 @@
   {
    "title": "熊本県の家事支援外国人受入事業、家事代行会社ベアーズを「特定機関」に認定…千葉県や大阪府で実績",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uN2NhZ29YZWJLd3RPenFRcUtFV0VsNDZzYVQ1dHR1RWUzR24yc3dxaU51NnlHSjFIMHpKM0tXN2NGTUxDNlM2a2VMVW5tWkswbE44X25wTkFsZmVPa0xkZF84Z1FIYTBtZFhqSVRVRG9qQQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-03 15:15",
    "published_iso": "2026-08-03T06:15:00+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-03 13:16",
    "published_iso": "2026-08-03T04:16:51+00:00"
-  },
-  {
-   "title": "中国が外国人監視、日本記者も サイトに情報、一時閲覧可能に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJaDZ2WmZWanhXaUxNdnZTYlNrQWJZcDRxRDhCekxKcUVpUkdINjMzdmYxYWFOMjlWVlU2UFR6NGZHMkpjcUZCQ1JoZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-03 12:58",
-   "published_iso": "2026-08-03T03:58:00+00:00"
-  },
-  {
-   "title": "熊本地震の犠牲者、ベトナム人の技能実習生は結婚式の費用をためるために来日…「妻子を残して無念だろう」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNUFsMFZOX1l2Y3E1TDVDRlVjaEVyaFlqX2xWeXUycTNsMUVBZ1VlVzczS05fdzRWYV84dTY5T1k3MVBwN25mdWxURGVlNmwyN3RVOVFXcEVscWgzaEFKODg1WGhYN2hYWUdXSFYtbDV2Zw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-03 10:11",
-   "published_iso": "2026-08-03T01:11:00+00:00"
   }
  ]
 }
