@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T12:00:36+00:00",
+ "generated_at": "2026-08-06T15:10:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,12 @@
  ],
  "items": [
   {
-   "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 20:23",
-   "published_iso": "2026-08-06T11:23:00+00:00"
-  },
-  {
-   "title": "「盆踊り」は騒音か 会場半減、まだ明るい午後7時に終了し即、撤収の配慮も 外国人観光客人気を背景に参加者は増加",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMb1QzYmVDMHo4TExJLVRoalFMTmxHQzRTYWdXTUZPdG1Yc0ViUlRsNHFnWmlSRmtYc3FVdFdiaFpxVTBJZkVIT0tneGphdw?oc=5",
-   "source": "fnn.jp",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-06 19:14",
-   "published_iso": "2026-08-06T10:14:00+00:00"
+   "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-06 23:16",
+   "published_iso": "2026-08-06T14:16:42+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
@@ -30,14 +22,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-06 19:05",
    "published_iso": "2026-08-06T10:05:21+00:00"
-  },
-  {
-   "title": "増加する外国人の山岳遭難を防げ 全編英語の啓発動画も制作 北アルプスまたぐ3つの県が新たな取り組み イラストで分かりやすく説明も【長野】",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUdjREJVTTcxUzFBZm5QVFgyWm9hRWFWNXNlckl6Ni1vVHJwS0VXbkdmWS0wcTM4aDlzTDNPS2NibExmamxuc0xkT3ZHYkZQZElBMFppd2p3WFQ1cHI5dFQ2WVY1OENvcGNXMHR0NU5mM1dwUXI4X0lDS0JDaE9HNzA1ak9GWDg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 18:34",
-   "published_iso": "2026-08-06T09:34:00+00:00"
   },
   {
    "title": "外国人の議事堂参観最多 25年、訪日客増が後押し",
@@ -56,7 +40,7 @@
    "published_iso": "2026-08-06T08:39:29+00:00"
   },
   {
-   "title": "【速報】「2人で暮らすならお金を貯めないと」46歳女性、外国人かたる男に570万円詐欺被害",
+   "title": "「2人で暮らすならお金を貯めないと」46歳女性、外国人かたる男に570万円詐欺被害",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQXhWbGR2MGJHeDBncFgxdVRzMFFXV1ZHX28xaDBxTmp2cXExTTJ5SXZDMEU1X05ra0NEeXVIbDc4NGV3ekVDOUV3alNlOFlROVBVb1RBTGE?oc=5",
    "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
@@ -369,7 +353,7 @@
   },
   {
    "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFpxT0IyOWZRSHd3amg3aDU2OF9zdktsa2dVbmxDNXVLOWR3MW5GaW8tRHJ4dUp0R0VWOGJnN1RBelhRQUZfcGdMVXF1d3hsVF84QWstZFdMQUpwaFpoc2NsdFphOVlPcVlERVZENXZNaGRXQVFYV1FaZ3BlQTBObGtB?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-04 14:50",
@@ -406,6 +390,22 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-04 12:03",
    "published_iso": "2026-08-04T03:03:00+00:00"
+  },
+  {
+   "title": "永住許可厳格化へ入管庁が指針案 日本人と同等の経済水準を明記",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WWgtVEgxdlR1d1o4LUx4dEJMOTRJNER1cDFnTFpLN3UxLVJWcHZiQXJGcFJyN3hMN2dLOGN3Z1owRUEzZlJTa2VoRXVlRWJfWHZKTlBmOGx2UFp5Q1FpeC1TN3BZdVpr?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-04 12:01",
+   "published_iso": "2026-08-04T03:01:48+00:00"
+  },
+  {
+   "title": "トランプ氏が犯罪者扱いする移民 日系人教授が問う「米国人は誰か」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nMVZGb2JvOXdlMVFjVW8xZ211RGhZY0tYZDRfb05jNWtqbzVsSE52UlhtYmdhRU5jSXFKT3hXNEh4TFZQY0R3dTZBRkp0TkdyVGJWOWlzYlhMb2RfQkpTTl92MHloeTQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-04 11:00",
+   "published_iso": "2026-08-04T02:00:00+00:00"
   }
  ]
 }
