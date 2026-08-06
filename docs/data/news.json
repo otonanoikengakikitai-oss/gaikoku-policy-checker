@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-06T03:14:39+00:00",
+ "generated_at": "2026-08-06T06:27:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -58,7 +58,7 @@
   {
    "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RjRWaGFlRGJuUlhKSWFtMWxjTDljSS1BY2xkOVE4VEU0Q2Uzb3ZWSWptS1FGTWxDZVZDTU5mbXE0WTlYdVZULWFPdC1YNTZtOHFyYVczOG0zelZlTm1zQ3hDTVZjWHc?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
@@ -80,14 +80,6 @@
    "published_iso": "2026-08-05T21:00:00+00:00"
   },
   {
-   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［滋賀編］1位は「びわ湖大津プリンスホテル」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ybHNIa3ZPeU1lczlYSTdxbWRabTFQemx0WWNJLXBiSkN4bkxFbXYwaDdrellyTFBTcmdBMURsOVlBTkUwNFVOVV9IVThPbFg3cll4ZVdhMWU5TXhPZ2tqNDgyUFdlMk9xTDNJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-06 05:16",
-   "published_iso": "2026-08-05T20:16:00+00:00"
-  },
-  {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
    "source": "毎日新聞",
@@ -104,9 +96,25 @@
    "published_iso": "2026-08-05T17:00:00+00:00"
   },
   {
+   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-06 02:00",
+   "published_iso": "2026-08-05T17:00:00+00:00"
+  },
+  {
+   "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-06 02:00",
+   "published_iso": "2026-08-05T17:00:00+00:00"
+  },
+  {
    "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-05 18:45",
    "published_iso": "2026-08-05T09:45:00+00:00"
@@ -192,14 +200,6 @@
    "published_iso": "2026-08-04T22:06:53+00:00"
   },
   {
-   "title": "米移民局、7月に5万人拘束 1カ月当たり過去最多と報道",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tbGZMMTFvSGdRZ0o1WW11U3Ixei1YR2dnOTFkQUJiTmRaTGk0VlMwQV8tUUZobG1WLTNDZXgxaHhVOXRNVzdCaWRUSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-05 06:53",
-   "published_iso": "2026-08-04T21:53:09+00:00"
-  },
-  {
    "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
    "source": "東京新聞デジタル",
@@ -210,7 +210,7 @@
   {
    "title": "妊娠理由に技能実習の外国人に退職強要、福岡県内の運営法人などに賠償命令 権利侵害を認める",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoOF9DcHlPa2UzWi01eFBFa19pZ2V5Rk1tc1liRUZwaHFEMkhxMDdjc2drYlZDQlhZSE9hbG44b3gwRE1tcENHUkV4MkdhUUNaRERQS0hn?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
@@ -246,6 +246,14 @@
    "source_domain": "jiji.com",
    "published": "2026-08-04 23:16",
    "published_iso": "2026-08-04T14:16:00+00:00"
+  },
+  {
+   "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 22:02",
+   "published_iso": "2026-08-04T13:02:00+00:00"
   },
   {
    "title": "「日本を選ぶ外国人減る」 永住許可の厳格化、弁護士らの懸念",
@@ -298,7 +306,7 @@
   {
    "title": "永住外国人の「生活保護」回避狙った政府 許可要件の厳格化案を発表 [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lemp3bENrcklTb2VMbVhGdFAzNDJ2ZjJIa3A5MnYyeTU5VGhxVTVnOFhxeVpxbGpNNDNUMERWWTZRUGtRTUlqQ3ZqMFAybnA2TDNKWnFoTkxBeEhWTDFQN2xUQk5qM1U?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-04 17:00",
    "published_iso": "2026-08-04T08:00:00+00:00"
@@ -306,7 +314,7 @@
   {
    "title": "妊娠の技能実習生に帰国迫る 「権利を侵害」監理団体などに賠償命令 [福岡県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tQjVLSXJDcVlqUWRnRURkdFpVMVVOcEgtU2F4N2FYR2x3VlptLVpEV2p4V18zLUoxQkNqRHB0Z2Z0RlpXMEhMRDVjOHpMczZpX0Uwd1hlaDdaM2VaSHJ1eXBmV1JPUE0?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-04 17:00",
    "published_iso": "2026-08-04T08:00:00+00:00"
@@ -352,9 +360,9 @@
    "published_iso": "2026-08-04T03:09:36+00:00"
   },
   {
-   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）｜日テレNEWS NNN",
+   "title": "「永住許可」の要件“厳格化”へ 入管庁が新ガイドライン案公表（2026年8月3日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPbU44Wi1mVGdWaVE0M19yY3ZLdEpabG1jR0l1YTJEY2I2OFpHbnFjbEhQRTlzaDhYYWwxaldENC0yVkJEejVidkUzVl9rRjE0WDRzUFpBUzB1M19pYm0wWi15NHFtejdNZHFJU2hwSy1ocHp2QklLLW1xMG8?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-04 12:03",
    "published_iso": "2026-08-04T03:03:00+00:00"
@@ -378,7 +386,7 @@
   {
    "title": "トランプ氏が犯罪者扱いする移民 日系人教授が問う「米国人は誰か」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nMVZGb2JvOXdlMVFjVW8xZ211RGhZY0tYZDRfb05jNWtqbzVsSE52UlhtYmdhRU5jSXFKT3hXNEh4TFZQY0R3dTZBRkp0TkdyVGJWOWlzYlhMb2RfQkpTTl92MHloeTQ?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-04 11:00",
    "published_iso": "2026-08-04T02:00:00+00:00"
@@ -386,7 +394,7 @@
   {
    "title": "不法移民は犯罪者か 「史上最大の強制送還」掲げるトランプ氏の深謀",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mN2l5WU1xeEczRmFleW51TlpnYzhYWjJkemlXUXF4bXphTkh3UDFuYjgzUldTRG92UzJBMXlJWmF6RnlPRWV4THpfYnByTDVXT2pwS3VCZm00dFRRTDMzeFE1V0Nya1E?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-04 11:00",
    "published_iso": "2026-08-04T02:00:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-04 10:30",
    "published_iso": "2026-08-04T01:30:55+00:00"
-  },
-  {
-   "title": "中国の外国人監視データ、一時オープンに 日本の記者も掲載―米紙報道",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FWTcweHh4YmtCc3FmY3N3X0hVV0RzSVJEdVRXWFFadW1JMkdIRkN2elFicXFKTjhlLXZGS21CU2xBRGxLRFpIU0dtTl9fci02Rk5RTl9oS3pPWmoycWVQQ1dvbw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-04 07:11",
-   "published_iso": "2026-08-03T22:11:00+00:00"
   }
  ]
 }
