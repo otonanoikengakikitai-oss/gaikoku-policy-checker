@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T11:51:16+00:00",
+ "generated_at": "2026-08-07T12:57:18+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "三重知事「差別当たらず」 外国人採用の是非を問う 住民アンケートで",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZkhZNmZQSERqZmFxNWxDSno0SmhmN3hOekYyclBicERLVXphMGN3dnJyT2FfSHZiRGN2WF9WNTE5Sml1Y0UtR2tUN3ZLdU0zMWsyaENnV05PWlJNWWJEQnUtY0w4aVZ1UjhaWkcwYzFXSE5JYWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-07 20:59",
+   "published_iso": "2026-08-07T11:59:20+00:00"
+  },
   {
    "title": "外国人受け入れ方針、議論開始",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
@@ -34,26 +42,10 @@
   {
    "title": "外国人受け入れ規制巡り、政府がWG初会合 「責任持って議論」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SUxjTXJmdlN1S2tMZHpaLXp0TkhRZXFEWmVBZXdpbFdwOXU1cjlMY1g4SjFrWjdtVjd4S1hzNDhFcmlhWGl5aHNOZW5aa1E2dUVrLVVZMVNWV3Z6b1ozOGJ3R0J3ME5G?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 19:58",
    "published_iso": "2026-08-07T10:58:13+00:00"
-  },
-  {
-   "title": "外国人受け入れ制限、可否の検討が本格始動 政府、年度内に基本方針",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQlNTQ204RDAwMzRSeGxZYTlzZ1hra0JudjhPOUJzLVpVMVNkX3RPSmR4dTZTNnBXbVI0U05DbWtBMXp0NXNSZHM2QmRtNTRNbVdxd2Q2bF95V3hPNXN1ZUFRVi0tZXc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-07 19:47",
-   "published_iso": "2026-08-07T10:47:30+00:00"
-  },
-  {
-   "title": "「外国人受け入れ反対」大幅増 東大調査、若い世代で多く",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MaGdFSVBDbllWakRMamlhWHFDX0ZhT3FZMkR0VEhMdEpvMThPODJNc3ZSekFYMDhkNVNSMVpma2Fla1BpNEtuaW9JRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-07 19:33",
-   "published_iso": "2026-08-07T10:33:00+00:00"
   },
   {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
@@ -74,7 +66,7 @@
   {
    "title": "金沢加賀能登…過去最多の外国人客が訪れた”石川”…オーバーツーリズムの現状は…？",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjYwN19oU0JERVo5Wk94c181YXZOWmIyY0dlZDFTWnZ0RWZ0bnlWdGhXdktHeHJ3RXdSOUFON3VMMzlUMlAwNWZjbFNPUW1pWGV4am1hbG9mNXM5Qk1walpJN3lHeEswdkdCdjJJTUJZcE5sd2NoZW83TExrSUxzLU1zbkxQTlU?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-07 18:33",
    "published_iso": "2026-08-07T09:33:00+00:00"
@@ -86,6 +78,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-07 17:54",
    "published_iso": "2026-08-07T08:54:31+00:00"
+  },
+  {
+   "title": "外国人受け入れ制限、可否の検討が本格始動 政府、年度内に基本方針",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQlNTQ204RDAwMzRSeGxZYTlzZ1hra0JudjhPOUJzLVpVMVNkX3RPSmR4dTZTNnBXbVI0U05DbWtBMXp0NXNSZHM2QmRtNTRNbVdxd2Q2bF95V3hPNXN1ZUFRVi0tZXc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-07 17:00",
+   "published_iso": "2026-08-07T08:00:00+00:00"
   },
   {
    "title": "日本生まれの外国人、２４年に２．２万人 出生数全体の３．２％―厚労省",
@@ -138,7 +138,7 @@
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cb2hiSEk2RU84SGIwdm4tTlpSNTYxbEdrVzdrX0l6OUdQYW9CMjE5R2xuNzVqSlg5TDZrSU9FOXBmYmtMVkNfa0hwU1AxYVBjR3hXeHlOR2w4YUR3c1VTbGt0RFI0NlFm?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 10:30",
    "published_iso": "2026-08-07T01:30:00+00:00"
@@ -186,7 +186,7 @@
   {
    "title": "三重県の国籍要件：外国人採用設問 「差別」指摘の答申、従わず 三重県、結果公表へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVHV4OHVJS1VBMWs5aEV0Tldud2hxRFFfMDdwQTE1c1M2WENJMEp4ZkVfVFFWZDYxTVRNZnZPMTFsajFHNTlOZVBFa3BEUDI1Rm5kY29QYnhuU0xXUllWYkJjYWlUbldf?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 02:00",
    "published_iso": "2026-08-06T17:00:56+00:00"
@@ -234,7 +234,7 @@
   {
    "title": "外国人採用巡る設問「差別でない」 三重県、答申を否定へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VZFRsUWhtNVBVa05EVGwxWlBvYWtCSzVJajJrb2tBLTNoa0JWeUJTOFlzdS1nby1BSE1CM05GbWhNbF9FLWM4dVc0aDZqNjg4c2tNSDFLLXRjRDdlTHNpOFlfZFhJR1NE?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-06 11:07",
    "published_iso": "2026-08-06T02:07:19+00:00"
@@ -266,7 +266,7 @@
   {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-06 02:01",
    "published_iso": "2026-08-05T17:01:54+00:00"
@@ -362,7 +362,7 @@
   {
    "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-05 07:06",
    "published_iso": "2026-08-04T22:06:53+00:00"
