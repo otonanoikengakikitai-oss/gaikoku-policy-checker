@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T20:37:44+00:00",
+ "generated_at": "2026-08-07T21:35:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,36 @@
  ],
  "items": [
   {
-   "title": "難民の子どもへ服を届けよう 洲本の鮎原小 衣類の提供ボックス、市内4カ所に設置|淡路",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOVkxUk9mRk9WeWswZkM2VGpnRTRyQVl6eGRkR09oT3RqQmY1X2ozUUo0S1BEZ2ZhOFJFOXA0QjlLVUVGMkdSTU5sTUJxQllPYkM5WUVjaUZ0YkZKT3ZsRlBRYzRYMk9HVHk3VQ?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-08 05:10",
-   "published_iso": "2026-08-07T20:10:00+00:00"
+   "title": "「差別でない」知事が表明 「差別」指摘された三重県、アンケ公表へ [三重県] [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lMEl4cjZRNkZ6clZDbWdmR21XYkxXaEUwX20tOU1kZ1luSHUxcVp2SVA5Vzd4X0VFTGZtQ2RZTUtaU2t1S01wWE9jZW1UTUdrZ0xVTndWTmJGdVNZZnlnUVJDSnQ5QXM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-08 06:00",
+   "published_iso": "2026-08-07T21:00:00+00:00"
+  },
+  {
+   "title": "「合法移民」にも迫る送還 米国がビザ発給厳格化か、審査待ち最多数百万人",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb2hIcW10cjRTbENqV291Um15VkJ4bGNBU3g4OXJCdFRKTGhfZTZWSGVTRVp5emtQNUcybHFyZVpoY1RGdzNtSkxVUFNCN1FOR0Q2dmVB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-08 06:00",
+   "published_iso": "2026-08-07T21:00:00+00:00"
   },
   {
    "title": "外国人受け入れ方針、議論開始",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-08 04:13",
-   "published_iso": "2026-08-07T19:13:17+00:00"
+   "published": "2026-08-08 05:43",
+   "published_iso": "2026-08-07T20:43:18+00:00"
+  },
+  {
+   "title": "難民の子どもへ服を届けよう 洲本の鮎原小 衣類の提供ボックス、市内4カ所に設置|淡路",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOVkxUk9mRk9WeWswZkM2VGpnRTRyQVl6eGRkR09oT3RqQmY1X2ozUUo0S1BEZ2ZhOFJFOXA0QjlLVUVGMkdSTU5sTUJxQllPYkM5WUVjaUZ0YkZKT3ZsRlBRYzRYMk9HVHk3VQ?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-08 05:10",
+   "published_iso": "2026-08-07T20:10:00+00:00"
   },
   {
    "title": "一般社団法人外国人雇用協議会、横浜市「外国人材採用・定着コンシェルジュ」事業に協力",
@@ -112,14 +128,6 @@
    "published_iso": "2026-08-07T09:33:00+00:00"
   },
   {
-   "title": "「外国人受け入れ反対」大幅増 東大調査、若い世代で多く",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwckJUbEdpUW01OHFqN3hBZHFjeGtYWXpvSmUyXzBGbTRKc2VvX2NkMXZLSVN0VWtSUEhNdnQxdTBDWk5FeG9MckNYVjNBVUpBOXJOZGRXWG5Gb0UwZjMzTjNEdw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-07 18:22",
-   "published_iso": "2026-08-07T09:22:57+00:00"
-  },
-  {
    "title": "外国人受け入れ在り方、議論開始 政府有識者会議",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TXpadmJwS1VibnRoYXBvcUk0OXV2YkJGMldjT21CMEc4VlRKV0piaUR0b2tyRmZjQWFfQXd2eGExakJ3Y1Y1azdRYnRpTkRCcFFETGhn?oc=5",
    "source": "西日本新聞me",
@@ -130,7 +138,7 @@
   {
    "title": "外国人受け入れ制限、可否の検討が本格始動 政府、年度内に基本方針",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQlNTQ204RDAwMzRSeGxZYTlzZ1hra0JudjhPOUJzLVpVMVNkX3RPSmR4dTZTNnBXbVI0U05DbWtBMXp0NXNSZHM2QmRtNTRNbVdxd2Q2bF95V3hPNXN1ZUFRVi0tZXc?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-07 17:00",
    "published_iso": "2026-08-07T08:00:00+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "難民キャンプに子ども服を届けよう 兵庫・洲本の児童が回収箱を製作 [兵庫県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wVkxuOVMteExxYUVIb0w1dnVLZGcxQmwzZjFNempYX2s3RHBsaExOdUlfc0VTampEVjYzWlcwRUxkcFlBbkVIYi1TRE1ZZ29RMm83VkhrNmVxR2hzZXdGN0I4blBjTVE?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-07 10:45",
    "published_iso": "2026-08-07T01:45:00+00:00"
@@ -210,7 +218,7 @@
   {
    "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHOTc4aWpsRldfWFJ5blZTc1Jqb05IQ0s0d1oyczJrT0xGNU9GUlM1dmhFbkVDbVdKc1JvTzNUZGRMWFFYYWt5eG5IS1NhRVBPYzFWZXB2T0pCRzhpd2QwbTkxM0ZGQVU?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-07 06:50",
    "published_iso": "2026-08-06T21:50:00+00:00"
@@ -232,14 +240,6 @@
    "published_iso": "2026-08-06T17:00:00+00:00"
   },
   {
-   "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-06 23:16",
-   "published_iso": "2026-08-06T14:16:42+00:00"
-  },
-  {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES2kybmxSVjBQWmQ2YW96eVhVa19ZX2ZuSURKLXB0cFBRTUJPR3FyR0FpSE1iRXBjSUdvR3BGQndXRkk2MDd1VklkWnozVnVhNlBkTFpPS093NFQ3UnlWRUdCdktOeW83U0hucjhkNENsOG1IVlFkR2hLZUl4aGs?oc=5",
    "source": "時事ドットコム",
@@ -258,7 +258,7 @@
   {
    "title": "外国人巡る入管職員常駐窓口、利用少なく 川口市「市民冷静」 埼玉 [埼玉県] [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QVZ4X2prM1RQTHFpNWZMWHFxaVZ1dklzc0w1b0hxckZmMC1uSWF6b0YzS3lzQXp1NFhyQmp0X3R5eGQzVU1TQ1dwaFp1Uk9uWVZFU3MyaFIwci1YaldtRXpEcERQNTg?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-06 11:15",
    "published_iso": "2026-08-06T02:15:00+00:00"
@@ -282,26 +282,10 @@
   {
    "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RjRWaGFlRGJuUlhKSWFtMWxjTDljSS1BY2xkOVE4VEU0Q2Uzb3ZWSWptS1FGTWxDZVZDTU5mbXE0WTlYdVZULWFPdC1YNTZtOHFyYVczOG0zelZlTm1zQ3hDTVZjWHc?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
-  },
-  {
-   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-06 06:02",
-   "published_iso": "2026-08-05T21:02:00+00:00"
-  },
-  {
-   "title": "「共生」社会へ 続く模索【多国籍時代の教室で 福岡市の現在地㊦】",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OUM0OXR5WTdiNTZ1NWZJX0lQSGVSZzhDaHdBV2lUTzJNZ3pqQktVeU4zdmU4OVkyb3JpT3NsLVpJVFRJZ0ZZLUpMNzJYc1I3Z0N0Y0h3?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-06 06:00",
-   "published_iso": "2026-08-05T21:00:00+00:00"
   },
   {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
@@ -328,9 +312,17 @@
    "published_iso": "2026-08-05T17:00:00+00:00"
   },
   {
+   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-06 02:00",
+   "published_iso": "2026-08-05T17:00:00+00:00"
+  },
+  {
    "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-05 18:45",
    "published_iso": "2026-08-05T09:45:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-05 07:06",
    "published_iso": "2026-08-04T22:06:53+00:00"
+  },
+  {
+   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 06:00",
+   "published_iso": "2026-08-04T21:00:00+00:00"
   }
  ]
 }
