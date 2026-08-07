@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T09:58:46+00:00",
+ "generated_at": "2026-08-07T10:59:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人受け入れ方針、議論開始",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-07 19:13",
+   "published_iso": "2026-08-07T10:13:17+00:00"
+  },
+  {
+   "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-07 19:05",
+   "published_iso": "2026-08-07T10:05:00+00:00"
+  },
   {
    "title": "外国人受け入れ規制巡り、政府がWG初会合 「責任持って議論」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SUxjTXJmdlN1S2tMZHpaLXp0TkhRZXFEWmVBZXdpbFdwOXU1cjlMY1g4SjFrWjdtVjd4S1hzNDhFcmlhWGl5aHNOZW5aa1E2dUVrLVVZMVNWV3Z6b1ozOGJ3R0J3ME5G?oc=5",
@@ -16,9 +32,17 @@
    "published_iso": "2026-08-07T09:54:10+00:00"
   },
   {
+   "title": "【お盆も休まず営業中】連休の「車修理難民」を救う！急な車のキズ・へこみは池内自動車へ！ご好評につき相見積もりキャンペーン延長！",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BSGc4b0VLZlM1SEpjV3Z0R3BRU3FObHlrTkRIcUVDNXYyaDBuV0VuWWpQbGJWYnJkWWtwUS1qUjJMVkJOSXNuQ0pwZHhsMkxIdHdTVndiV2VoSFotRWgtdDZ5ZFRTb2IyYUdN?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-07 18:45",
+   "published_iso": "2026-08-07T09:45:00+00:00"
+  },
+  {
    "title": "金沢加賀能登…過去最多の外国人客が訪れた”石川”…オーバーツーリズムの現状は…？",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjYwN19oU0JERVo5Wk94c181YXZOWmIyY0dlZDFTWnZ0RWZ0bnlWdGhXdktHeHJ3RXdSOUFON3VMMzlUMlAwNWZjbFNPUW1pWGV4am1hbG9mNXM5Qk1walpJN3lHeEswdkdCdjJJTUJZcE5sd2NoZW83TExrSUxzLU1zbkxQTlU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-07 18:33",
    "published_iso": "2026-08-07T09:33:00+00:00"
@@ -42,7 +66,7 @@
   {
    "title": "日本生まれの外国人、２４年に２．２万人 出生数全体の３．２％―厚労省",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lc1Y5TlRrcmE1UTRHQ3ppYWthQUFjQzRjYy13cG5VRXZ0aFBJVmlQNTJGeVFKejc0SXRQR080bFZSU2l1Y1ZYZkVHb3ZzX0YyeDY3U0NlcU50clljTlE1QndRbw?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-07 16:38",
    "published_iso": "2026-08-07T07:38:00+00:00"
@@ -128,28 +152,12 @@
    "published_iso": "2026-08-06T23:00:00+00:00"
   },
   {
-   "title": "アンコールワット遺跡、外国人観光客が激減 中東情勢で旅費高騰、特殊詐欺のイメージも",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhUHI2Q2E3RW9obWpRRTE0TnljUEZOZ1Y2MEI0NnFyNl9UUk9TR0dxMnR5RnM3WnNRX0pGT1Vhb0N6aE1JcVFzbUdJWFM4U2UzSmdTbHhWczVua2xUZHBHeC1oT2FOTXVSV1Rv?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-07 08:00",
-   "published_iso": "2026-08-06T23:00:00+00:00"
-  },
-  {
    "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHOTc4aWpsRldfWFJ5blZTc1Jqb05IQ0s0d1oyczJrT0xGNU9GUlM1dmhFbkVDbVdKc1JvTzNUZGRMWFFYYWt5eG5IS1NhRVBPYzFWZXB2T0pCRzhpd2QwbTkxM0ZGQVU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-07 06:50",
    "published_iso": "2026-08-06T21:50:00+00:00"
-  },
-  {
-   "title": "北アルプスをサンダルで登ろうとした外国人も 人気の影で訪日客の遭難対策は途上",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QUzlfcFFNRFR5VTAtdk5lQ2hkb3puZHF6V1hVRUhTck51aVRMTnVpWUg3ek5nb01Jck9TbE44b1BzUTQwalRTb0tfTElndDBYWERfQm9qWXFxVTFHYWNZbHdwdUNQTVFSa3ItQVRES2c?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-07 06:20",
-   "published_iso": "2026-08-06T21:20:00+00:00"
   },
   {
    "title": "フィリピン人女性技能実習生4人、カツオ節工場は「劣悪な環境」…損害賠償求めた訴訟が和解 「納得得られる条件提示」 福岡高裁宮崎支部",
@@ -192,17 +200,9 @@
    "published_iso": "2026-08-06T14:16:42+00:00"
   },
   {
-   "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
-   "source": "news.ntv.co.jp",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 20:23",
-   "published_iso": "2026-08-06T11:23:00+00:00"
-  },
-  {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES2kybmxSVjBQWmQ2YW96eVhVa19ZX2ZuSURKLXB0cFBRTUJPR3FyR0FpSE1iRXBjSUdvR3BGQndXRkk2MDd1VklkWnozVnVhNlBkTFpPS093NFQ3UnlWRUdCdktOeW83U0hucjhkNENsOG1IVlFkR2hLZUl4aGs?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-06 19:29",
    "published_iso": "2026-08-06T10:29:00+00:00"
@@ -256,6 +256,14 @@
    "published_iso": "2026-08-05T17:00:00+00:00"
   },
   {
+   "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-06 02:00",
+   "published_iso": "2026-08-05T17:00:00+00:00"
+  },
+  {
    "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
    "source": "朝日新聞",
@@ -298,7 +306,7 @@
   {
    "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjhUSTNJTzA2OUl4SjJWVmItNndnUzVTWjA0WG9sQnZLaF8yNzk4WFVKaWlSTmpVSHNuNEUwSVdfbVpZSmM5UnlmMlByX09IUDdWWkNWZlRkNmNZZFlQVFNFVEJ6SUw4ckxv?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-05 10:46",
    "published_iso": "2026-08-05T01:46:00+00:00"
@@ -370,7 +378,7 @@
   {
    "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-04 22:02",
    "published_iso": "2026-08-04T13:02:00+00:00"
@@ -394,18 +402,10 @@
   {
    "title": "【開催日決定】オフライン＆オンラインセミナー『特定技能1号（外食業）の受け入れ停止は\"転換点\"―外食大手の魁力屋が語る、これからの外国人採用・定着の最適解』を8月21日に開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcnY1S19SLXZ2aUxzaER6dWt1STZ5bkl6cDZfa1pqMC1fZXl0c3RGSGlraHN2b29sRTZRTUs4NmlNQmFod3dwMXhQc3dFNzlnY2NtYXRreWlNQ2JCMUZqZ2g3ZWNHU2syVWZR?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-04 17:16",
    "published_iso": "2026-08-04T08:16:00+00:00"
-  },
-  {
-   "title": "永住外国人の「生活保護」回避狙った政府 許可要件の厳格化案を発表 [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lemp3bENrcklTb2VMbVhGdFAzNDJ2ZjJIa3A5MnYyeTU5VGhxVTVnOFhxeVpxbGpNNDNUMERWWTZRUGtRTUlqQ3ZqMFAybnA2TDNKWnFoTkxBeEhWTDFQN2xUQk5qM1U?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-04 17:00",
-   "published_iso": "2026-08-04T08:00:00+00:00"
   }
  ]
 }
