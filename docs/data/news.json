@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T04:52:08+00:00",
+ "generated_at": "2026-08-07T06:07:19+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -22,6 +22,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-07 11:11",
    "published_iso": "2026-08-07T02:11:57+00:00"
+  },
+  {
+   "title": "アンケ設問「差別に当たらず」判断へ 三重県、結果も公開方針 外国人採用巡り",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52OHNRdTRIZWtTcVhQZU1mYU1PaENzOHA1VklDMS14Zlc1NHdtdzlXelpZbHRTOG1FelBScUlGN1lUZkpET241UUhEdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-07 11:00",
+   "published_iso": "2026-08-07T02:00:00+00:00"
   },
   {
    "title": "難民キャンプに子ども服を届けよう 兵庫・洲本の児童が回収箱を製作 [兵庫県]",
@@ -160,14 +168,6 @@
    "published_iso": "2026-08-06T10:05:21+00:00"
   },
   {
-   "title": "外国人の議事堂参観最多 ２５年、訪日客増が後押し",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05SGIxSGR0d0poNUtVb045eXRSV0w4b2JVenpCNUxKSW82NU14S0pkVU5HVzdkNHdGVmV6RVRLTFZjdkVpUk5zSms5Tkh1aHdVU2hVMXAzeGxWelRxanBRRTFUZw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-06 18:20",
-   "published_iso": "2026-08-06T09:20:59+00:00"
-  },
-  {
    "title": "「2人で暮らすならお金を貯めないと」46歳女性、外国人かたる男に570万円詐欺被害",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQXhWbGR2MGJHeDBncFgxdVRzMFFXV1ZHX28xaDBxTmp2cXExTTJ5SXZDMEU1X05ra0NEeXVIbDc4NGV3ekVDOUV3alNlOFlROVBVb1RBTGE?oc=5",
    "source": "京都新聞デジタル",
@@ -182,14 +182,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-06 17:17",
    "published_iso": "2026-08-06T08:17:00+00:00"
-  },
-  {
-   "title": "外国人の職員採用を巡りアンケート設問 「差別にはあたらない」として公表する方針を決定 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGN0ck1QUVZFMnBTNThCS0NzdXRtZ1NRc0FKelZFb0VJNlB4dTM2aDVnV1UxUEJBdTNTVlNrd2d5czRBNTdfSkt1bllFQktPZDdobEk1TGo4dWlXb0dITVh3Rk5IUkY0QzBUcF9pY3QzZ2ZwclNWQ2RtRExSTHhteElvdVRrRWM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 12:31",
-   "published_iso": "2026-08-06T03:31:00+00:00"
   },
   {
    "title": "「外国人の困りごと」を10歳が解決！？ アメリカの名門大教授も注目する大田区立北糀谷小の挑戦",
@@ -214,14 +206,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-06 11:00",
    "published_iso": "2026-08-06T02:00:00+00:00"
-  },
-  {
-   "title": "原爆ドーム前に立ち20年 外国人12万人超に語ったヒロシマ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlNk1SUU1yQVpCNTFVSnRvYU1kQ0stNnY4dzJNRUR6STZtUlVPY0VocTJhRUx6dmlmQ1lzaVdqS2F5THNJMmYwelg3Q2hLakltUER6UEFhTm5icUVpUURxZG1vMHNSTE9q?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-06 10:00",
-   "published_iso": "2026-08-06T01:00:00+00:00"
   },
   {
    "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
@@ -368,14 +352,6 @@
    "published_iso": "2026-08-04T21:00:00+00:00"
   },
   {
-   "title": "ヒロシマ訪問、4割が外国人 「世界2位」評価の平和ツーリズム",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWVmROWVRaZVV3NE9QZXBxRTV1b2Vsc1Zad204V3UwbTNRV0E2Qnl5VG1CTlQ1dWg2ZmJGM3Z5Z01YdTVua0lId2lZb0E1MjV1MW1mZnNUQnA3RHBtR09uNzZqcXNRX0hPamphYw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-05 05:00",
-   "published_iso": "2026-08-04T20:00:00+00:00"
-  },
-  {
    "title": "スペイン領に移民殺到でEU分断 伊は国境審査を復活、偽情報も拡散",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBraWl4czFlU0dqMVp4dmt1aTVnRDVMaWlLMUk1Xzc5U0V0UFFxa05IZ1pKamlueWVZZU9nN3M1QWI5ckFaN0V2alhjSjFfX1FlVHh1VTA1dC10QU82RXJxRVpuOVlkTUQxOGxkTg?oc=5",
    "source": "日本経済新聞",
@@ -406,6 +382,30 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-04 19:51",
    "published_iso": "2026-08-04T10:51:04+00:00"
+  },
+  {
+   "title": "外国人材どう定着 札幌商工会議所がセミナー",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNzhlajA2TGdDbXhGMUR2d3p1WWdNcWttTlo0akR5TV81RnJNQkc5RjRmZnpwZXlIaTRjVUFGUlNKbjg1ZGpMcTFQVFlLYXlfZkNhZTRUTXBkdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-04 19:49",
+   "published_iso": "2026-08-04T10:49:48+00:00"
+  },
+  {
+   "title": "特定技能受け入れ停止「影響ある」62％ 北海道内の飲食関連 道が調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWWEUxOG8yQnpYOENmUnJES2U3QzlZQno1dE9uZ1dCTFZwZFRsTHI1cFhiOWlBU0xjSEU3T3d3WG9ST0hacHNNMFlIbC00bnBkMHFGemtVTDJ4QQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-04 17:35",
+   "published_iso": "2026-08-04T08:35:06+00:00"
+  },
+  {
+   "title": "【開催日決定】オフライン＆オンラインセミナー『特定技能1号（外食業）の受け入れ停止は\"転換点\"―外食大手の魁力屋が語る、これからの外国人採用・定着の最適解』を8月21日に開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcnY1S19SLXZ2aUxzaER6dWt1STZ5bkl6cDZfa1pqMC1fZXl0c3RGSGlraHN2b29sRTZRTUs4NmlNQmFod3dwMXhQc3dFNzlnY2NtYXRreWlNQ2JCMUZqZ2g3ZWNHU2syVWZR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 17:16",
+   "published_iso": "2026-08-04T08:16:00+00:00"
   }
  ]
 }
