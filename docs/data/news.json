@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T22:31:44+00:00",
+ "generated_at": "2026-08-07T23:31:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -18,15 +18,15 @@
   {
    "title": "「合法移民」にも迫る送還 米国がビザ発給厳格化か、審査待ち最多数百万人",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pb2hIcW10cjRTbENqV291Um15VkJ4bGNBU3g4OXJCdFRKTGhfZTZWSGVTRVp5emtQNUcybHFyZVpoY1RGdzNtSkxVUFNCN1FOR0Q2dmVB?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-08 06:00",
    "published_iso": "2026-08-07T21:00:00+00:00"
   },
   {
-   "title": "外国人受け入れ方針、議論開始",
+   "title": "外国人受け入れ方針、議論開始：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-08 05:43",
    "published_iso": "2026-08-07T20:43:18+00:00"
@@ -42,7 +42,7 @@
   {
    "title": "一般社団法人外国人雇用協議会、横浜市「外国人材採用・定着コンシェルジュ」事業に協力",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kQnBpcDlWcENiNlhXV25vaWdrcnRsbVRVOUQwNFhyY2RBMGN6YnZUdnFpdDBWS0tBNGRfZ1pTd1JZTkpINE9kdFRwdmttU1ZxaUhMWWFkUWdCdjNxYWphamstR3AtOWp0N21B?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-08 03:16",
    "published_iso": "2026-08-07T18:16:00+00:00"
@@ -122,7 +122,7 @@
   {
    "title": "外国人受け入れ在り方、議論開始 政府有識者会議",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83TXpadmJwS1VibnRoYXBvcUk0OXV2YkJGMldjT21CMEc4VlRKV0piaUR0b2tyRmZjQWFfQXd2eGExakJ3Y1Y1azdRYnRpTkRCcFFETGhn?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-07 17:54",
    "published_iso": "2026-08-07T08:54:31+00:00"
@@ -146,7 +146,7 @@
   {
    "title": "日本生まれの外国人、２４年に２．２万人 出生数全体の３．２％―厚労省",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lc1Y5TlRrcmE1UTRHQ3ppYWthQUFjQzRjYy13cG5VRXZ0aFBJVmlQNTJGeVFKejc0SXRQR080bFZSU2l1Y1ZYZkVHb3ZzX0YyeDY3U0NlcU50clljTlE1QndRbw?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-07 16:38",
    "published_iso": "2026-08-07T07:38:00+00:00"
@@ -242,7 +242,7 @@
   {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES2kybmxSVjBQWmQ2YW96eVhVa19ZX2ZuSURKLXB0cFBRTUJPR3FyR0FpSE1iRXBjSUdvR3BGQndXRkk2MDd1VklkWnozVnVhNlBkTFpPS093NFQ3UnlWRUdCdktOeW83U0hucjhkNENsOG1IVlFkR2hLZUl4aGs?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-06 19:29",
    "published_iso": "2026-08-06T10:29:00+00:00"
@@ -362,7 +362,7 @@
   {
    "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjhUSTNJTzA2OUl4SjJWVmItNndnUzVTWjA0WG9sQnZLaF8yNzk4WFVKaWlSTmpVSHNuNEUwSVdfbVpZSmM5UnlmMlByX09IUDdWWkNWZlRkNmNZZFlQVFNFVEJ6SUw4ckxv?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-05 10:46",
    "published_iso": "2026-08-05T01:46:00+00:00"
