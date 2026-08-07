@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T12:57:18+00:00",
+ "generated_at": "2026-08-07T14:13:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "外国人受け入れ方針、議論開始",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-07 22:13",
+   "published_iso": "2026-08-07T13:13:17+00:00"
+  },
+  {
    "title": "三重知事「差別当たらず」 外国人採用の是非を問う 住民アンケートで",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZkhZNmZQSERqZmFxNWxDSno0SmhmN3hOekYyclBicERLVXphMGN3dnJyT2FfSHZiRGN2WF9WNTE5Sml1Y0UtR2tUN3ZLdU0zMWsyaENnV05PWlJNWWJEQnUtY0w4aVZ1UjhaWkcwYzFXSE5JYWc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-07 20:59",
    "published_iso": "2026-08-07T11:59:20+00:00"
-  },
-  {
-   "title": "外国人受け入れ方針、議論開始",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWlpNRGgtVWhVWjBweFNENnVyaENoUVE1QXFEb3FWMVVEU0J5YzI2YTg4TTdOblBKU2ttanI1WkZPMS1rcHktcGhhTXlERHBJNGxLdUg1SDNnbzRKdkdyTlFPQTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-07 20:43",
-   "published_iso": "2026-08-07T11:43:17+00:00"
   },
   {
    "title": "外国人受け入れ、有識者WGが初会合 将来推計や経済、社会保障などへの影響議論",
@@ -40,17 +40,9 @@
    "published_iso": "2026-08-07T11:09:36+00:00"
   },
   {
-   "title": "外国人受け入れ規制巡り、政府がWG初会合 「責任持って議論」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SUxjTXJmdlN1S2tMZHpaLXp0TkhRZXFEWmVBZXdpbFdwOXU1cjlMY1g4SjFrWjdtVjd4S1hzNDhFcmlhWGl5aHNOZW5aa1E2dUVrLVVZMVNWV3Z6b1ozOGJ3R0J3ME5G?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-07 19:58",
-   "published_iso": "2026-08-07T10:58:13+00:00"
-  },
-  {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-07 19:05",
    "published_iso": "2026-08-07T10:05:00+00:00"
@@ -66,7 +58,7 @@
   {
    "title": "金沢加賀能登…過去最多の外国人客が訪れた”石川”…オーバーツーリズムの現状は…？",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjYwN19oU0JERVo5Wk94c181YXZOWmIyY0dlZDFTWnZ0RWZ0bnlWdGhXdktHeHJ3RXdSOUFON3VMMzlUMlAwNWZjbFNPUW1pWGV4am1hbG9mNXM5Qk1walpJN3lHeEswdkdCdjJJTUJZcE5sd2NoZW83TExrSUxzLU1zbkxQTlU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-07 18:33",
    "published_iso": "2026-08-07T09:33:00+00:00"
@@ -86,6 +78,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-07 17:00",
    "published_iso": "2026-08-07T08:00:00+00:00"
+  },
+  {
+   "title": "外国人出生数、２４年に２．２万人＝全体の３．２％―厚労省",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42QkNwdUVGRTRab3h0YVFaQ1JFV0Ruc0V5dF91S1c1RVVpVVowYXBXVnRhcG1nb0FScEN1NVdXS0d3WW84MkhEMDg0cw?oc=5",
+   "source": "時事メディカル",
+   "source_domain": "jiji.com",
+   "published": "2026-08-07 16:58",
+   "published_iso": "2026-08-07T07:58:00+00:00"
   },
   {
    "title": "日本生まれの外国人、２４年に２．２万人 出生数全体の３．２％―厚労省",
@@ -120,14 +120,6 @@
    "published_iso": "2026-08-07T06:32:40+00:00"
   },
   {
-   "title": "共生社会実現や手話の浸透決意 ひろめる会が報告会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVMjlydlU3YWEtQ05vQjY5SnhSaEJ5TTJNekNxY0ZDYTVUTUFRRFBqWUE1d04zY3VLQ1FPQ0Y1RFhUcm55cWhuMklvNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-07 11:11",
-   "published_iso": "2026-08-07T02:11:57+00:00"
-  },
-  {
    "title": "難民キャンプに子ども服を届けよう 兵庫・洲本の児童が回収箱を製作 [兵庫県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wVkxuOVMteExxYUVIb0w1dnVLZGcxQmwzZjFNempYX2s3RHBsaExOdUlfc0VTampEVjYzWlcwRUxkcFlBbkVIYi1TRE1ZZ29RMm83VkhrNmVxR2hzZXdGN0I4blBjTVE?oc=5",
    "source": "朝日新聞",
@@ -142,14 +134,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 10:30",
    "published_iso": "2026-08-07T01:30:00+00:00"
-  },
-  {
-   "title": "外国人採用 三重県、県民１万人アンケートの結果公表へ…県「差別には当たらない」 ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZy1NYkZITUFMd3FSNHBpS3ZObGl5SWdGSHEtUUZoNDRoOFNmWlNDa01YZHJQMVZrUnNudXpVVmFXdk5qTHh3aG9oQXhmVEpWZXhxZ3V4aDNHMzRhYXdBRlhGXzFJU3RBOUhrQm9UNC0?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-07 09:35",
-   "published_iso": "2026-08-07T00:35:00+00:00"
   },
   {
    "title": "外国人記者にＳＮＳ公開設定を義務付け 報道ビザ申請時、審査対象に―米報道",
@@ -184,17 +168,9 @@
    "published_iso": "2026-08-06T21:05:00+00:00"
   },
   {
-   "title": "三重県の国籍要件：外国人採用設問 「差別」指摘の答申、従わず 三重県、結果公表へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wVHV4OHVJS1VBMWs5aEV0Tldud2hxRFFfMDdwQTE1c1M2WENJMEp4ZkVfVFFWZDYxTVRNZnZPMTFsajFHNTlOZVBFa3BEUDI1Rm5kY29QYnhuU0xXUllWYkJjYWlUbldf?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-07 02:00",
-   "published_iso": "2026-08-06T17:00:56+00:00"
-  },
-  {
    "title": "世界のウチナーンチュつなぐ縁 移民ルーツ情報、県立図書館が提供",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vM01BWk4zdUtiWTJmN2ZJNDBqUUVpcXVINncyU2IwZEZLeExmdWFRUzRfM2N0RUp3RUd4dlA5Q1JmUTVCTC11N01lcG5MRmV1ZFhrdEtFSVIzbzlidmdTVVQ5bDIyQnNWRk5pcw?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-07 02:00",
    "published_iso": "2026-08-06T17:00:00+00:00"
@@ -256,6 +232,14 @@
    "published_iso": "2026-08-05T23:00:00+00:00"
   },
   {
+   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-06 06:02",
+   "published_iso": "2026-08-05T21:02:00+00:00"
+  },
+  {
    "title": "「共生」社会へ 続く模索【多国籍時代の教室で 福岡市の現在地㊦】",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OUM0OXR5WTdiNTZ1NWZJX0lQSGVSZzhDaHdBV2lUTzJNZ3pqQktVeU4zdmU4OVkyb3JpT3NsLVpJVFRJZ0ZZLUpMNzJYc1I3Z0N0Y0h3?oc=5",
    "source": "西日本新聞me",
@@ -264,17 +248,9 @@
    "published_iso": "2026-08-05T21:00:00+00:00"
   },
   {
-   "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-06 02:01",
-   "published_iso": "2026-08-05T17:01:54+00:00"
-  },
-  {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
    "published_iso": "2026-08-05T17:00:00+00:00"
@@ -282,7 +258,7 @@
   {
    "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
    "published_iso": "2026-08-05T17:00:00+00:00"
@@ -314,7 +290,7 @@
   {
    "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-05 17:27",
    "published_iso": "2026-08-05T08:27:27+00:00"
@@ -386,7 +362,7 @@
   {
    "title": "スペイン領に移民殺到でEU分断 伊は国境審査を復活、偽情報も拡散",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBraWl4czFlU0dqMVp4dmt1aTVnRDVMaWlLMUk1Xzc5U0V0UFFxa05IZ1pKamlueWVZZU9nN3M1QWI5ckFaN0V2alhjSjFfX1FlVHh1VTA1dC10QU82RXJxRVpuOVlkTUQxOGxkTg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-05 04:32",
    "published_iso": "2026-08-04T19:32:38+00:00"
@@ -406,6 +382,30 @@
    "source_domain": "jiji.com",
    "published": "2026-08-04 22:02",
    "published_iso": "2026-08-04T13:02:00+00:00"
+  },
+  {
+   "title": "外国人材どう定着 札幌商工会議所がセミナー",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DNzhlajA2TGdDbXhGMUR2d3p1WWdNcWttTlo0akR5TV81RnJNQkc5RjRmZnpwZXlIaTRjVUFGUlNKbjg1ZGpMcTFQVFlLYXlfZkNhZTRUTXBkdw?oc=5",
+   "source": "hokkaido-np.co.jp",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-04 19:49",
+   "published_iso": "2026-08-04T10:49:48+00:00"
+  },
+  {
+   "title": "特定技能受け入れ停止「影響ある」62％ 北海道内の飲食関連 道が調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWWEUxOG8yQnpYOENmUnJES2U3QzlZQno1dE9uZ1dCTFZwZFRsTHI1cFhiOWlBU0xjSEU3T3d3WG9ST0hacHNNMFlIbC00bnBkMHFGemtVTDJ4QQ?oc=5",
+   "source": "hokkaido-np.co.jp",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-04 17:35",
+   "published_iso": "2026-08-04T08:35:06+00:00"
+  },
+  {
+   "title": "【開催日決定】オフライン＆オンラインセミナー『特定技能1号（外食業）の受け入れ停止は\"転換点\"―外食大手の魁力屋が語る、これからの外国人採用・定着の最適解』を8月21日に開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcnY1S19SLXZ2aUxzaER6dWt1STZ5bkl6cDZfa1pqMC1fZXl0c3RGSGlraHN2b29sRTZRTUs4NmlNQmFod3dwMXhQc3dFNzlnY2NtYXRreWlNQ2JCMUZqZ2g3ZWNHU2syVWZR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 17:16",
+   "published_iso": "2026-08-04T08:16:00+00:00"
   }
  ]
 }
