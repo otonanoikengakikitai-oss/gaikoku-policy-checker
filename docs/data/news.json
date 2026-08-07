@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T21:35:55+00:00",
+ "generated_at": "2026-08-07T22:31:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -70,14 +70,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-07 23:04",
    "published_iso": "2026-08-07T14:04:08+00:00"
-  },
-  {
-   "title": "在留外国人受け入れ、数値目標設定の是非検討へ影響分析…有識者会議初会合",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZ3F6R05aWnBDNGJIRy1TTF9jUXZfUVVPd1dhbFBzQTVUYmVkZkExTmE3aWtKV1lmaDVTVmpfdVBGM1FtUUZtbjMwZG9URGNpVWptZ2c4S1VNa3FtRFRocnNqNV9sdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-07 22:52",
-   "published_iso": "2026-08-07T13:52:00+00:00"
   },
   {
    "title": "三重知事「差別当たらず」 外国人採用の是非を問う 住民アンケートで",
@@ -240,6 +232,14 @@
    "published_iso": "2026-08-06T17:00:00+00:00"
   },
   {
+   "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-06 23:16",
+   "published_iso": "2026-08-06T14:16:42+00:00"
+  },
+  {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ES2kybmxSVjBQWmQ2YW96eVhVa19ZX2ZuSURKLXB0cFBRTUJPR3FyR0FpSE1iRXBjSUdvR3BGQndXRkk2MDd1VklkWnozVnVhNlBkTFpPS093NFQ3UnlWRUdCdktOeW83U0hucjhkNENsOG1IVlFkR2hLZUl4aGs?oc=5",
    "source": "時事ドットコム",
@@ -288,6 +288,14 @@
    "published_iso": "2026-08-05T23:00:00+00:00"
   },
   {
+   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-06 06:02",
+   "published_iso": "2026-08-05T21:02:00+00:00"
+  },
+  {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
    "source": "毎日新聞",
@@ -306,14 +314,6 @@
   {
    "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 02:00",
-   "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
-   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
