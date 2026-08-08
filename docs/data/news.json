@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T14:29:08+00:00",
+ "generated_at": "2026-08-08T15:26:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -136,14 +136,6 @@
    "published_iso": "2026-08-07T20:03:42+00:00"
   },
   {
-   "title": "外国人のさらなる受け入れに対する意識の推移 - 「外国人受け入れ反対」大幅増 東大調査、若い世代で多く - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oXy1MbEVWd3hYVGFtbmxDX2VHSmlyR1VQalZsa1hndVRlV2Y2YWZELUpFUGpHd0phRnVKYV84OG1qWU9qOFZKSU5Sck9oaUVFQm9xRjNWWQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-08 02:19",
-   "published_iso": "2026-08-07T17:19:56+00:00"
-  },
-  {
    "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
    "source": "nikkei.com",
@@ -174,14 +166,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-07 20:09",
    "published_iso": "2026-08-07T11:09:36+00:00"
-  },
-  {
-   "title": "韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTzhUZHdJQW42V21TelNEZ1FEeDkzRkZqd2VDR3AzVng1SkJmaG1NNkl3ZVV4UlNQX2tDeDJpS2VYRkFVWi1RdXVTcjljRnNKOG9oa01PLVlucUlxRkdV?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 19:15",
-   "published_iso": "2026-08-07T10:15:00+00:00"
   },
   {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
@@ -280,28 +264,12 @@
    "published_iso": "2026-08-06T14:16:42+00:00"
   },
   {
-   "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 20:23",
-   "published_iso": "2026-08-06T11:23:00+00:00"
-  },
-  {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-06 19:05",
    "published_iso": "2026-08-06T10:05:21+00:00"
-  },
-  {
-   "title": "外国人の職員採用を巡りアンケート設問 「差別にはあたらない」として公表する方針を決定 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGN0ck1QUVZFMnBTNThCS0NzdXRtZ1NRc0FKelZFb0VJNlB4dTM2aDVnV1UxUEJBdTNTVlNrd2d5czRBNTdfSkt1bllFQktPZDdobEk1TGo4dWlXb0dITVh3Rk5IUkY0QzBUcF9pY3QzZ2ZwclNWQ2RtRExSTHhteElvdVRrRWM?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 12:31",
-   "published_iso": "2026-08-06T03:31:00+00:00"
   },
   {
    "title": "外国人巡る入管職員常駐窓口、利用少なく 川口市「市民冷静」 埼玉 [埼玉県] [外国人政策 高市早苗総理 自民党]",
@@ -406,6 +374,38 @@
    "source_domain": "jiji.com",
    "published": "2026-08-05 10:46",
    "published_iso": "2026-08-05T01:46:00+00:00"
+  },
+  {
+   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 09:24",
+   "published_iso": "2026-08-05T00:24:42+00:00"
+  },
+  {
+   "title": "〈視点〉強制送還の強化 共生社会壊す政策でいいのか 編集委員・池尾伸一",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qU0N5Ql9hS2ZBM205WDUwcDljM0JfMUttWWFPQmVIbjF4eWdsRGFPMmg2T3Jtd1BwQTJXVkg2S19ORWNXMUY4U3JLS09zSHJzT2Fz?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 08:23",
+   "published_iso": "2026-08-04T23:23:26+00:00"
+  },
+  {
+   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-05 07:06",
+   "published_iso": "2026-08-04T22:06:53+00:00"
+  },
+  {
+   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 06:00",
+   "published_iso": "2026-08-04T21:00:00+00:00"
   }
  ]
 }
