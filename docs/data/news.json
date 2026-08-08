@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T10:29:29+00:00",
+ "generated_at": "2026-08-08T11:25:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,9 +24,17 @@
    "published_iso": "2026-08-08T09:57:49+00:00"
   },
   {
+   "title": "【和歌山競輪・G3】パリ五輪2冠アンドルーズら外国人3選手がガールズ単発レース参戦 グロ「何も変わっていない。自分が7歳、年を取っただけ」",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SdGdKM3M0UTZNNUZHeEhsNDhTc3dTWklmOXdCUkVkN1BqMFhFNzV2U2VNSHNSQmZPZm0wY1FUSFBKeVhCRE5XUk05Ykw3NmQ2UmtMUQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-08 18:30",
+   "published_iso": "2026-08-08T09:30:00+00:00"
+  },
+  {
    "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
@@ -58,7 +66,7 @@
   {
    "title": "韓国サッカー協会 過去に日本人を含む外国人審判員約10人に性的接待 韓国メディア",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDZFWFExbHBsZVFWNnZfUnZWRXBJOXdvanRVVS14MXpJZEhnQ3pxREJ0aHY0bmNhYkxhRG1RNGNVOVRfRThBZzBoR1BNRlZLZHRTMVNRWWJOUEczdFJQT3RrMFpYbTlwdmZjb3NqeXJFSkZmM3p0ekVJT2RMR2Q1VnBTU0Q?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 13:03",
    "published_iso": "2026-08-08T04:03:00+00:00"
@@ -74,7 +82,7 @@
   {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 11:35",
    "published_iso": "2026-08-08T02:35:43+00:00"
@@ -82,7 +90,7 @@
   {
    "title": "【泊まれるお寺】座禅・法要も体験…「宿坊」の魅力 外国人観光客にも人気「すべてが最高でした」 『every.気になる！』",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzSWhwZHNlY0xIUGZXbzZSUHpKMG9YV2pUZDN1a256VUV0WWx1dmY5VDJmMnF3Mi16WEpmX0VxaXRpeGs4dUctSGlpTm5oUUNIUUp4Sml3aTZzajBOV2ZkUllaTXI0Wkg3SkNWQ2JHMVNUYWcwOEdaOXJ3TnI?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 11:23",
    "published_iso": "2026-08-08T02:23:52+00:00"
@@ -106,7 +114,7 @@
   {
    "title": "日本人主審も該当か 韓国サッカー協会、外国人審判に性接待疑惑",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MQ1c1Ty1aSHJlNWtTMTVCbkladjlDTUtFeDl5R0YwT1JqeUFOWXlBRXRsMVBnRy1GOW5rc2JJSG1INUZzWXBhLXVuYmRkaU55S1ZwUE1GckpET2p2Q2ZSS1dKU1NvdUFY?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 09:05",
    "published_iso": "2026-08-08T00:05:44+00:00"
@@ -130,7 +138,7 @@
   {
    "title": "外国人採用アンケ 「差別当たらず」知事強調 「条例ねじ曲げ」の声も ／三重",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CaUxicXBhcHBmWWFkMF9LREIxdEo5RFU5QUYyU3JOQ2tKNkdrMFRnWm53YmllNFk0RkdSVkFpQWFnTmpNQzgzOGlGRGdDTUxxZUVsbm1LeE1rVkZ4VUhlZ0hKVHhSb2xX?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 05:03",
    "published_iso": "2026-08-07T20:03:42+00:00"
@@ -150,6 +158,22 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-08 00:47",
    "published_iso": "2026-08-07T15:47:00+00:00"
+  },
+  {
+   "title": "韓国サッカー協会、外国人審判に性接待疑惑 「Jリーグの審判を統括する人物も」と報道",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qTFQtX3MtcU5HQzBsdWs1WmR3dExmRXZYWUF6eXktMlYybzNUakp6WWpRclhMNEVRcWZWOEtWaUhyaEtmME1MRjFON2REQTBEQkhRcjVGQTFoUG1Sd0ZrNW15ODRyb1JHYWdPTDViVmcxUWtlX2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-07 23:04",
+   "published_iso": "2026-08-07T14:04:08+00:00"
+  },
+  {
+   "title": "在留外国人受け入れ、数値目標設定の是非検討へ影響分析…有識者会議初会合",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZ3F6R05aWnBDNGJIRy1TTF9jUXZfUVVPd1dhbFBzQTVUYmVkZkExTmE3aWtKV1lmaDVTVmpfdVBGM1FtUUZtbjMwZG9URGNpVWptZ2c4S1VNa3FtRFRocnNqNV9sdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-07 22:52",
+   "published_iso": "2026-08-07T13:52:00+00:00"
   },
   {
    "title": "外国人受け入れ、有識者WGが初会合 将来推計や経済、社会保障などへの影響議論",
@@ -186,7 +210,7 @@
   {
    "title": "外国人受け入れ規制巡り、政府がWG初会合 「責任持って議論」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SUxjTXJmdlN1S2tMZHpaLXp0TkhRZXFEWmVBZXdpbFdwOXU1cjlMY1g4SjFrWjdtVjd4S1hzNDhFcmlhWGl5aHNOZW5aa1E2dUVrLVVZMVNWV3Z6b1ozOGJ3R0J3ME5G?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 18:54",
    "published_iso": "2026-08-07T09:54:10+00:00"
@@ -234,7 +258,7 @@
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cb2hiSEk2RU84SGIwdm4tTlpSNTYxbEdrVzdrX0l6OUdQYW9CMjE5R2xuNzVqSlg5TDZrSU9FOXBmYmtMVkNfa0hwU1AxYVBjR3hXeHlOR2w4YUR3c1VTbGt0RFI0NlFm?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 10:30",
    "published_iso": "2026-08-07T01:30:00+00:00"
@@ -280,14 +304,6 @@
    "published_iso": "2026-08-06T10:05:21+00:00"
   },
   {
-   "title": "外国人の職員採用を巡りアンケート設問 「差別にはあたらない」として公表する方針を決定 三重県",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaGN0ck1QUVZFMnBTNThCS0NzdXRtZ1NRc0FKelZFb0VJNlB4dTM2aDVnV1UxUEJBdTNTVlNrd2d5czRBNTdfSkt1bllFQktPZDdobEk1TGo4dWlXb0dITVh3Rk5IUkY0QzBUcF9pY3QzZ2ZwclNWQ2RtRExSTHhteElvdVRrRWM?oc=5",
-   "source": "news.ntv.co.jp",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 12:31",
-   "published_iso": "2026-08-06T03:31:00+00:00"
-  },
-  {
    "title": "外国人巡る入管職員常駐窓口、利用少なく 川口市「市民冷静」 埼玉 [埼玉県] [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QVZ4X2prM1RQTHFpNWZMWHFxaVZ1dklzc0w1b0hxckZmMC1uSWF6b0YzS3lzQXp1NFhyQmp0X3R5eGQzVU1TQ1dwaFp1Uk9uWVZFU3MyaFIwci1YaldtRXpEcERQNTg?oc=5",
    "source": "asahi.com",
@@ -322,7 +338,7 @@
   {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-06 02:01",
    "published_iso": "2026-08-05T17:01:54+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-05 17:19",
    "published_iso": "2026-08-05T08:19:31+00:00"
-  },
-  {
-   "title": "【育成就労制度】日本語要件に関する最新情報提供セミナーを開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjhUSTNJTzA2OUl4SjJWVmItNndnUzVTWjA0WG9sQnZLaF8yNzk4WFVKaWlSTmpVSHNuNEUwSVdfbVpZSmM5UnlmMlByX09IUDdWWkNWZlRkNmNZZFlQVFNFVEJ6SUw4ckxv?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-05 10:46",
-   "published_iso": "2026-08-05T01:46:00+00:00"
-  },
-  {
-   "title": "【特定技能】支援担当者1人あたり「外国人50人未満・受入10機関未満」へ ― 2027年施行の新要件を解説する登録支援機関向けセミナー、8月25日開催",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52T2tTb0puSmRnSmpFdjZaaFo2NTVEX0NCQ3FRYi1kNmJ3S2NmOWctMlZOM2NCVWppZVJCaTh1VmFUMHdJVmktMTgwdHNGT3Z5TFZ4ZUU2NG5yek9UaWF1VE9WWV82Ynd2THZyd21BZ3dyNzZiMTVRb1k2QQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-05 10:00",
-   "published_iso": "2026-08-05T01:00:00+00:00"
   }
  ]
 }
