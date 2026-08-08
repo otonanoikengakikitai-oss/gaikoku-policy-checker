@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T18:33:28+00:00",
+ "generated_at": "2026-08-08T19:27:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -178,7 +178,7 @@
   {
    "title": "韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTzhUZHdJQW42V21TelNEZ1FEeDkzRkZqd2VDR3AzVng1SkJmaG1NNkl3ZVV4UlNQX2tDeDJpS2VYRkFVWi1RdXVTcjljRnNKOG9oa01PLVlucUlxRkdV?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 19:15",
    "published_iso": "2026-08-07T10:15:00+00:00"
@@ -210,7 +210,7 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -328,6 +328,14 @@
    "published_iso": "2026-08-05T21:02:00+00:00"
   },
   {
+   "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-06 02:01",
+   "published_iso": "2026-08-05T17:01:54+00:00"
+  },
+  {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
    "source": "日本経済新聞",
@@ -398,14 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-05 09:24",
    "published_iso": "2026-08-05T00:24:42+00:00"
-  },
-  {
-   "title": "〈視点〉強制送還の強化 共生社会壊す政策でいいのか 編集委員・池尾伸一",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qU0N5Ql9hS2ZBM205WDUwcDljM0JfMUttWWFPQmVIbjF4eWdsRGFPMmg2T3Jtd1BwQTJXVkg2S19ORWNXMUY4U3JLS09zSHJzT2Fz?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 08:23",
-   "published_iso": "2026-08-04T23:23:26+00:00"
   }
  ]
 }
