@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T22:25:43+00:00",
+ "generated_at": "2026-08-08T23:25:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「アカベコランド」若松駅前に３号店 帰省客、外国人ら盛況",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YazdkemJnUW4xam41RkhXV2dDOWpad0FtbmQ2UlM5aTQ3Z0E1cEVzTHBIbDN6YjRpTWxndEdSZzBhMEszbWNSb2lZVQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-09 07:12",
+   "published_iso": "2026-08-08T22:12:00+00:00"
+  },
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
@@ -82,7 +90,7 @@
   {
    "title": "外国人ら150人、茶道体験や民族衣装試着 釧路でフェスタ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyaEp4UHRYbDR4MUZqX1dLak9LSWpJWnJXaDhNcGNwdjlkSm1aVlByTzg5VzZfdGJQTHdya05MaU81YzdHbGU4WXFrUm43ZlQzUWx0aTZ3eWVnZw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-08 16:35",
    "published_iso": "2026-08-08T07:35:47+00:00"
@@ -94,14 +102,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
-  },
-  {
-   "title": "【密着】渋谷の手荷物預かり所 外国人観光客「日本は道が狭い」荷物預けて“気楽に買い物” 荷物の中には「イスが入って…」ナゼ？『every.気になる！』（2026年8月7日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclpfZFN1ZVlpUndDOEo3a2VhRVFFMkhUWDZKSlE1R0lOaHlxcW96Yjg3RmtaYXlNTlFXRDhBaEszN2liYThTR0ZYTjljSDB4TnhwVzZ5STFKcFpqbmZ3cGFCZ3FlTlB5UXl5TVFkd0tHaWd5MXg0NFFia05YUDU0Y2FB?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-08 13:44",
-   "published_iso": "2026-08-08T04:44:00+00:00"
   },
   {
    "title": "韓国サッカー協会 過去に日本人を含む外国人審判員約10人に性的接待 韓国メディア",
@@ -170,7 +170,7 @@
   {
    "title": "韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTzhUZHdJQW42V21TelNEZ1FEeDkzRkZqd2VDR3AzVng1SkJmaG1NNkl3ZVV4UlNQX2tDeDJpS2VYRkFVWi1RdXVTcjljRnNKOG9oa01PLVlucUlxRkdV?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 19:15",
    "published_iso": "2026-08-07T10:15:00+00:00"
@@ -192,17 +192,9 @@
    "published_iso": "2026-08-07T08:00:00+00:00"
   },
   {
-   "title": "日本生まれの外国人、２４年に２．２万人 出生数全体の３．２％―厚労省",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lc1Y5TlRrcmE1UTRHQ3ppYWthQUFjQzRjYy13cG5VRXZ0aFBJVmlQNTJGeVFKejc0SXRQR080bFZSU2l1Y1ZYZkVHb3ZzX0YyeDY3U0NlcU50clljTlE1QndRbw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-07 16:38",
-   "published_iso": "2026-08-07T07:38:00+00:00"
-  },
-  {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -240,6 +232,14 @@
    "published_iso": "2026-08-06T23:00:00+00:00"
   },
   {
+   "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHOTc4aWpsRldfWFJ5blZTc1Jqb05IQ0s0d1oyczJrT0xGNU9GUlM1dmhFbkVDbVdKc1JvTzNUZGRMWFFYYWt5eG5IS1NhRVBPYzFWZXB2T0pCRzhpd2QwbTkxM0ZGQVU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-07 06:50",
+   "published_iso": "2026-08-06T21:50:00+00:00"
+  },
+  {
    "title": "フィリピン人女性技能実習生4人、カツオ節工場は「劣悪な環境」…損害賠償求めた訴訟が和解 「納得得られる条件提示」 福岡高裁宮崎支部",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tMW5lN0c2bWlzMWVKUC1XTS1wMXFaVkc0NnVEcjZQemszbnhYRkwxbTFOQnIwNk91X0M5TEVCQjVQeFRxRlNwcWFjSQ?oc=5",
    "source": "47NEWS",
@@ -262,14 +262,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-06 23:16",
    "published_iso": "2026-08-06T14:16:42+00:00"
-  },
-  {
-   "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-06 20:23",
-   "published_iso": "2026-08-06T11:23:00+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
@@ -304,6 +296,14 @@
    "published_iso": "2026-08-05T23:00:00+00:00"
   },
   {
+   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-06 06:02",
+   "published_iso": "2026-08-05T21:02:00+00:00"
+  },
+  {
    "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
    "source": "毎日新聞",
@@ -322,14 +322,6 @@
   {
    "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 02:00",
-   "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
-   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 06:00",
+   "published_iso": "2026-08-04T21:00:00+00:00"
+  },
+  {
+   "title": "妊娠理由に技能実習の外国人に退職強要、福岡県内の運営法人などに賠償命令 権利侵害を認める",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoOF9DcHlPa2UzWi01eFBFa19pZ2V5Rk1tc1liRUZwaHFEMkhxMDdjc2drYlZDQlhZSE9hbG44b3gwRE1tcENHUkV4MkdhUUNaRERQS0hn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
   }
