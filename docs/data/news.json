@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T16:30:06+00:00",
+ "generated_at": "2026-08-08T17:27:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -26,7 +26,7 @@
   {
    "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
@@ -48,17 +48,9 @@
    "published_iso": "2026-08-08T06:00:00+00:00"
   },
   {
-   "title": "「まさに惨めな状況にある」韓国のサッカー協会が謝罪文を公表 外国人審判への“性的接待”・代表監督選任めぐる疑惑など相次ぐ不祥事受け",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yUXQ3SGptekRMM3BsZVVZT2p1MzdUd3FzSWgzeE9DMW5kdjNCVUZfUk5VVm1iYllWTS1SQXdXVmNtb3c1QnhueGtDNVVsVFRyRUk0OU8tNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-08 13:08",
-   "published_iso": "2026-08-08T04:08:00+00:00"
-  },
-  {
    "title": "韓国サッカー協会 過去に日本人を含む外国人審判員約10人に性的接待 韓国メディア",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDZFWFExbHBsZVFWNnZfUnZWRXBJOXdvanRVVS14MXpJZEhnQ3pxREJ0aHY0bmNhYkxhRG1RNGNVOVRfRThBZzBoR1BNRlZLZHRTMVNRWWJOUEczdFJQT3RrMFpYbTlwdmZjb3NqeXJFSkZmM3p0ekVJT2RMR2Q1VnBTU0Q?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 13:03",
    "published_iso": "2026-08-08T04:03:00+00:00"
@@ -82,7 +74,7 @@
   {
    "title": "【泊まれるお寺】座禅・法要も体験…「宿坊」の魅力 外国人観光客にも人気「すべてが最高でした」 『every.気になる！』",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzSWhwZHNlY0xIUGZXbzZSUHpKMG9YV2pUZDN1a256VUV0WWx1dmY5VDJmMnF3Mi16WEpmX0VxaXRpeGs4dUctSGlpTm5oUUNIUUp4Sml3aTZzajBOV2ZkUllaTXI0Wkg3SkNWQ2JHMVNUYWcwOEdaOXJ3TnI?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 11:15",
    "published_iso": "2026-08-08T02:15:00+00:00"
@@ -210,7 +202,7 @@
   {
    "title": "”外国人受け入れ“政府・有識者会議が初会合 小野田大臣「在留外国人が増加するなか重要な課題」 基本方針取りまとめへ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSDVZNkNPcmJfSmhCV0t5RUVmS1lVeXdwRzRhNHhmeXMzWTA2VmI0M2lpR0xTYTZxX21SSDU0NGNqR3RIcl9sbzltU0JHZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-07 15:54",
    "published_iso": "2026-08-07T06:54:00+00:00"
@@ -274,7 +266,7 @@
   {
    "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-06 20:23",
    "published_iso": "2026-08-06T11:23:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-05 08:23",
    "published_iso": "2026-08-04T23:23:26+00:00"
+  },
+  {
+   "title": "SNS監視強化で一致 スペイン領への移民殺到でEU内相会合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PakZVQ01TdEJJdEdXZ2pxeFdld21hRjA2RTBxcGp2UmJFRTA3UUJteXJ1Nlo0R3RwNTIwaUxyLU1yM2F2X1RLeWE3WEtweGd2QjF2R29BNV9kSWM5a2FpcF9kTU9DSnBG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-05 07:06",
+   "published_iso": "2026-08-04T22:06:53+00:00"
   }
  ]
 }
