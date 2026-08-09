@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T05:01:54+00:00",
+ "generated_at": "2026-08-09T06:52:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,17 +24,9 @@
    "published_iso": "2026-08-09T01:10:14+00:00"
   },
   {
-   "title": "愛知県西尾市で2つの町内会が解散、外国人比率の高まりで 災害対応に懸念の声、「顔見える関係」維持できるか",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZkhreE1HVGhhbElJUldDLTlzb1A4TjVHdXZkX1QyUXpJZHMtaFVDSmFHOFV1SnNSYVdNTTFNQUhnYnAzdUFFTEtQU1V4dDVTYWhsSEpJSnEyZFdzWmpXV3RHWXo?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-09 10:05",
-   "published_iso": "2026-08-09T01:05:20+00:00"
-  },
-  {
    "title": "韓国サッカー協会、外国人審判に性的接待か 「日本人審判含む」と現地報道",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3aEFIMnotQ21rOFZpelRHYkgtVjZoNjdVZXJCczYtblp4eDlOS0VKOWxvdGJjM2tFaGdkSDdpSUNmM09HM1FMVWctaHZLNjZNN29DMWk1UUdRclB0VDd1S1U1bFpZanpNSVg5RjJVbVYyRDUyX2c?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-09 09:44",
    "published_iso": "2026-08-09T00:44:03+00:00"
@@ -58,10 +50,18 @@
   {
    "title": "韓国サッカー協会が性接待か 「日本含む外国人審判に」と報道",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NlBJVnNXLTB4Nk1ZSG0zZkdkUlNMMHd2UG01TVpQVUZsVldUM25hUHpzR3pwSWZPaXd6VmdXdm9vNGVhci1Sel9fMWFwTWJUVWIzR0h3?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-09 06:00",
    "published_iso": "2026-08-08T21:00:00+00:00"
+  },
+  {
+   "title": "愛知県西尾市で2つの町内会が解散、外国人比率の高まりで 災害対応に懸念の声、「顔見える関係」維持できるか",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZkhreE1HVGhhbElJUldDLTlzb1A4TjVHdXZkX1QyUXpJZHMtaFVDSmFHOFV1SnNSYVdNTTFNQUhnYnAzdUFFTEtQU1V4dDVTYWhsSEpJSnEyZFdzWmpXV3RHWXo?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-09 05:05",
+   "published_iso": "2026-08-08T20:05:00+00:00"
   },
   {
    "title": "多文化共生の基本法制定を 知事、国に要請 ／静岡",
@@ -96,14 +96,6 @@
    "published_iso": "2026-08-08T09:57:49+00:00"
   },
   {
-   "title": "【和歌山競輪・G3】パリ五輪2冠アンドルーズら外国人3選手がガールズ単発レース参戦 グロ「何も変わっていない。自分が7歳、年を取っただけ」",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SdGdKM3M0UTZNNUZHeEhsNDhTc3dTWklmOXdCUkVkN1BqMFhFNzV2U2VNSHNSQmZPZm0wY1FUSFBKeVhCRE5XUk05Ykw3NmQ2UmtMUQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-08 18:30",
-   "published_iso": "2026-08-08T09:30:00+00:00"
-  },
-  {
    "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
    "source": "日テレNEWS NNN",
@@ -120,14 +112,6 @@
    "published_iso": "2026-08-08T08:20:00+00:00"
   },
   {
-   "title": "外国人ら150人、茶道体験や民族衣装試着 釧路でフェスタ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyaEp4UHRYbDR4MUZqX1dLak9LSWpJWnJXaDhNcGNwdjlkSm1aVlByTzg5VzZfdGJQTHdya05MaU81YzdHbGU4WXFrUm43ZlQzUWx0aTZ3eWVnZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-08 16:35",
-   "published_iso": "2026-08-08T07:35:47+00:00"
-  },
-  {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
    "source": "読売新聞",
@@ -136,12 +120,12 @@
    "published_iso": "2026-08-08T06:00:00+00:00"
   },
   {
-   "title": "韓国サッカー協会 過去に日本人を含む外国人審判員約10人に性的接待 韓国メディア",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDZFWFExbHBsZVFWNnZfUnZWRXBJOXdvanRVVS14MXpJZEhnQ3pxREJ0aHY0bmNhYkxhRG1RNGNVOVRfRThBZzBoR1BNRlZLZHRTMVNRWWJOUEczdFJQT3RrMFpYbTlwdmZjb3NqeXJFSkZmM3p0ekVJT2RMR2Q1VnBTU0Q?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-08 13:03",
-   "published_iso": "2026-08-08T04:03:00+00:00"
+   "title": "スペイン イタリアへの対抗措置として国境審査実施 セウタへの移民流入で対立",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwMmI0bWhsajZwNjZYUGZJWWdZWGFrQm1LSzNoTDhHUGtkU0kwU2hFTWpqdk1ydkN3RUFVRDF4aURrbnR2ZWVZM2xyTXdqLTdnWU1CYmU5Y0dlbXZ6cXp2M3N4Wll3WGlkUVhjNTAxZHBCbEhlaW1KS193?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-08 13:19",
+   "published_iso": "2026-08-08T04:19:08+00:00"
   },
   {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
@@ -170,7 +154,7 @@
   {
    "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-08 01:44",
    "published_iso": "2026-08-07T16:44:33+00:00"
@@ -186,7 +170,7 @@
   {
    "title": "外国人受け入れ、有識者WGが初会合 将来推計や経済、社会保障などへの影響議論",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WY2o1YjRVRHZOMC1hbnhydUpBSm5Kc21iRFRqckVPU2xQYnZJQ3pySWdzVXhUYUN1SkFhSmZ6UkJXRkVINlEzXzBXYm1aQWdaLTZQTWFSOEx5VTFBRVpocW5SS3U1UmgyZktBTk03LU9BNHltRkE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-07 20:25",
    "published_iso": "2026-08-07T11:25:27+00:00"
@@ -202,10 +186,18 @@
   {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-07 19:05",
    "published_iso": "2026-08-07T10:05:00+00:00"
+  },
+  {
+   "title": "外国人受け入れ規制巡り、政府がWG初会合 「責任持って議論」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SUxjTXJmdlN1S2tMZHpaLXp0TkhRZXFEWmVBZXdpbFdwOXU1cjlMY1g4SjFrWjdtVjd4S1hzNDhFcmlhWGl5aHNOZW5aa1E2dUVrLVVZMVNWV3Z6b1ozOGJ3R0J3ME5G?oc=5",
+   "source": "mainichi.jp",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-07 18:54",
+   "published_iso": "2026-08-07T09:54:10+00:00"
   },
   {
    "title": "外国人受け入れ制限、可否の検討が本格始動 政府、年度内に基本方針",
@@ -226,7 +218,7 @@
   {
    "title": "”外国人受け入れ“政府・有識者会議が初会合 小野田大臣「在留外国人が増加するなか重要な課題」 基本方針取りまとめへ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSDVZNkNPcmJfSmhCV0t5RUVmS1lVeXdwRzRhNHhmeXMzWTA2VmI0M2lpR0xTYTZxX21SSDU0NGNqR3RIcl9sbzltU0JHZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-07 15:54",
    "published_iso": "2026-08-07T06:54:00+00:00"
@@ -234,18 +226,18 @@
   {
    "title": "外国人含む土地の不適切利用への対応を提言 国交省有識者会議 廃棄物保管など",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lN0VGM3ZlVmR3OXBpV092aWhXUVBGYlNMTTkzN1hMTzdqWkpnTWoxV3JmTW1tU3NpQ0x3Nk10bWlha1VNSDk0Q2JtMV9GZ3ZDLUlUUGl0aVNPUURZek5PSE1QQ0ItQThwc2I1Y3RkZmxaUTdLMHc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-07 15:32",
    "published_iso": "2026-08-07T06:32:40+00:00"
   },
   {
-   "title": "難民キャンプに子ども服を届けよう 兵庫・洲本の児童が回収箱を製作 [兵庫県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wVkxuOVMteExxYUVIb0w1dnVLZGcxQmwzZjFNempYX2s3RHBsaExOdUlfc0VTampEVjYzWlcwRUxkcFlBbkVIYi1TRE1ZZ29RMm83VkhrNmVxR2hzZXdGN0I4blBjTVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-07 10:45",
-   "published_iso": "2026-08-07T01:45:00+00:00"
+   "title": "共生社会実現や手話の浸透決意 ひろめる会が報告会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVMjlydlU3YWEtQ05vQjY5SnhSaEJ5TTJNekNxY0ZDYTVUTUFRRFBqWUE1d04zY3VLQ1FPQ0Y1RFhUcm55cWhuMklvNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-07 11:11",
+   "published_iso": "2026-08-07T02:11:57+00:00"
   },
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
@@ -282,10 +274,18 @@
   {
    "title": "世界のウチナーンチュつなぐ縁 移民ルーツ情報、県立図書館が提供",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vM01BWk4zdUtiWTJmN2ZJNDBqUUVpcXVINncyU2IwZEZLeExmdWFRUzRfM2N0RUp3RUd4dlA5Q1JmUTVCTC11N01lcG5MRmV1ZFhrdEtFSVIzbzlidmdTVVQ5bDIyQnNWRk5pcw?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-07 02:00",
    "published_iso": "2026-08-06T17:00:00+00:00"
+  },
+  {
+   "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-06 23:16",
+   "published_iso": "2026-08-06T14:16:42+00:00"
   },
   {
    "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
@@ -298,7 +298,7 @@
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-06 19:05",
    "published_iso": "2026-08-06T10:05:21+00:00"
@@ -328,9 +328,17 @@
    "published_iso": "2026-08-05T23:00:00+00:00"
   },
   {
+   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-06 06:02",
+   "published_iso": "2026-08-05T21:02:00+00:00"
+  },
+  {
    "title": "「共生」社会へ 続く模索【多国籍時代の教室で 福岡市の現在地㊦】",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OUM0OXR5WTdiNTZ1NWZJX0lQSGVSZzhDaHdBV2lUTzJNZ3pqQktVeU4zdmU4OVkyb3JpT3NsLVpJVFRJZ0ZZLUpMNzJYc1I3Z0N0Y0h3?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-06 06:00",
    "published_iso": "2026-08-05T21:00:00+00:00"
@@ -346,7 +354,7 @@
   {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
    "published_iso": "2026-08-05T17:00:00+00:00"
@@ -354,15 +362,7 @@
   {
    "title": "豪、反移民で極右伸長 「ワンネーション」支持率、与党と並ぶ 脱炭素反発も追い風",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWM0eFZscHBpN05qWWxRMnl0cFpmSGI0LURNQmlIdWFIRlRGTnR6THlHT0lTbE5fa1I2ai1nOUxYdHdCLS01UjBhem42ek11a0pXSkdySjJDWWk4cGlFUERCeFNIaEs4S3gtRQ?oc=5",
-   "source": "nikkei.com",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 02:00",
-   "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
-   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
    "published_iso": "2026-08-05T17:00:00+00:00"
@@ -394,7 +394,7 @@
   {
    "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-05 17:27",
    "published_iso": "2026-08-05T08:27:27+00:00"
