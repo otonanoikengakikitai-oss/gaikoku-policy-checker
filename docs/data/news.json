@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-09T09:36:18+00:00",
+ "generated_at": "2026-08-09T10:31:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "韓国サッカー協会、外国人審判に性接待疑惑 日本人含まれると報道",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGtudFNZLVpSUFV3RkdlZ1ZUMlFKbEwxaHFPbTNfRzVuSUlzUGR1anFoSl9paWIxX1JiVzJGOGFBcXhrQlVmejZvcTFHZktodzZoLVFzcUNUSmdQQXlWYWxLbnFlbjVjdEF3Tg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-09 17:37",
+   "published_iso": "2026-08-09T08:37:46+00:00"
+  },
+  {
+   "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdWpiOFpsZVI0OHpYQnhwcWVlRTd6RWlwbnFhZjkyeVBHaldZNWxjMmgxaW1KM1pKZVdpUUp4YktTNXI5NHlsdkw4UQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-09 17:05",
+   "published_iso": "2026-08-09T08:05:00+00:00"
+  },
   {
    "title": "渋谷で盆踊り 7万人熱狂 外国人を魅了する「MATSURI」文化 レンタル浴衣で踊り挑戦",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMDVCY0Q1MTkyU2ROdmlmR0x4cWdacXA1VjEtYUtMOGpQUEd3QWUxNS1EOEZxTURQakhNY1VxYVRtZDc4YnB4SnpkZzBiOGhXaFV4bWZ2STg4V1Z5b0FvWWVBMjhqczIxSlg3X1R5T25BUQ?oc=5",
@@ -328,14 +344,6 @@
    "published_iso": "2026-08-05T23:00:00+00:00"
   },
   {
-   "title": "長野県の過疎地で”買い物難民”支える移動スーパー 仕事かけ持ちで車走らせる現実",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tV3FBUXlFRWRLWmhObVNWNk9zdFFBUkdtUzlYUnlQZWxBZUs2WmhXRm5OYms0d3B0dXVsUFhvYW0zd0ZfS2YzZUdSaWhVTXBaOS1meUdCUFRDMEZraHRLcDB5bzdDbTFzTjl1dFRHVXE?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-06 06:02",
-   "published_iso": "2026-08-05T21:02:00+00:00"
-  },
-  {
    "title": "「共生」社会へ 続く模索【多国籍時代の教室で 福岡市の現在地㊦】",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OUM0OXR5WTdiNTZ1NWZJX0lQSGVSZzhDaHdBV2lUTzJNZ3pqQktVeU4zdmU4OVkyb3JpT3NsLVpJVFRJZ0ZZLUpMNzJYc1I3Z0N0Y0h3?oc=5",
    "source": "西日本新聞me",
@@ -368,6 +376,14 @@
    "published_iso": "2026-08-05T17:00:00+00:00"
   },
   {
+   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-06 02:00",
+   "published_iso": "2026-08-05T17:00:00+00:00"
+  },
+  {
    "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
    "source": "朝日新聞",
@@ -390,22 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-05 17:34",
    "published_iso": "2026-08-05T08:34:00+00:00"
-  },
-  {
-   "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-05 17:27",
-   "published_iso": "2026-08-05T08:27:27+00:00"
-  },
-  {
-   "title": "「外国人は日本人と同じ生活者で、地域の担い手」…多文化共生実現への提言、全国知事会が政府に提出",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVX2JvUk56QUwyWXhva3dqZ1JjVUNqSDZKcUVqSG5SZnNZWWJDU1VtT25JaFA1aUY3TzgzUm9FOHhIR2dVX29Zd1pCZzVDdWRjRE1n?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 17:19",
-   "published_iso": "2026-08-05T08:19:31+00:00"
   }
  ]
 }
