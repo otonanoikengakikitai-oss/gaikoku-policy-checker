@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T23:25:20+00:00",
+ "generated_at": "2026-08-09T01:26:52+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,28 @@
  ],
  "items": [
   {
+   "title": "【外国人永住許可】排除でなく共生の道を",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HaS1XeFVDVzNKWmVveGVoNFdpRzk0a01LMkZGYTQwSUtrckdQZ2h0Mjc3dmxXNGJqckQxTm85UzBVRHg0LWg2ZERVWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-09 10:10",
+   "published_iso": "2026-08-09T01:10:14+00:00"
+  },
+  {
+   "title": "愛知県西尾市で2つの町内会が解散、外国人比率の高まりで 災害対応に懸念の声、「顔見える関係」維持できるか",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZkhreE1HVGhhbElJUldDLTlzb1A4TjVHdXZkX1QyUXpJZHMtaFVDSmFHOFV1SnNSYVdNTTFNQUhnYnAzdUFFTEtQU1V4dDVTYWhsSEpJSnEyZFdzWmpXV3RHWXo?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-09 10:05",
+   "published_iso": "2026-08-09T01:05:20+00:00"
+  },
+  {
    "title": "「アカベコランド」若松駅前に３号店 帰省客、外国人ら盛況",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YazdkemJnUW4xam41RkhXV2dDOWpad0FtbmQ2UlM5aTQ3Z0E1cEVzTHBIbDN6YjRpTWxndEdSZzBhMEszbWNSb2lZVQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 07:12",
    "published_iso": "2026-08-08T22:12:00+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
   },
   {
    "title": "韓国サッカー協会が性接待か 「日本含む外国人審判に」と報道",
@@ -32,10 +40,10 @@
    "published_iso": "2026-08-08T21:00:00+00:00"
   },
   {
-   "title": "【外国人永住許可】排除でなく共生の道を",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GSUV1SDdGRXpJeXdXcEswRG44NVV2Z2VmaVhZekQ0eUdXdDJfTXVOT3dydGtuSFpxNVFsTTFKMFJ2NmFrSFQxUExibw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "title": "強制退去情報 自治体に 入管庁 外国人所在把握 連携",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92ZWljOU5MYjdCTmt0RnJrRmtJNjhtMUEtSTJVQWxtQ2JqNDR1RFpnVzZ3cmdBRF9EV0ZxUTdKSDJ4YU5jY1NGUmxVUU15R1c3WnhOX3d6bGVUem5JN0ZrREFOdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
   },
@@ -46,14 +54,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
-  },
-  {
-   "title": "【和歌山競輪・G3】松崎広太は初のG3決勝シートつかんだ！ 外国人選手と「やっと戦える。つめあとを残せるように頑張ります」",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UjRMQWJMSVAwMkZyR3V1X0JocDd0cGFlMlhLbDNVTkdreDFfSmVOQmlMS2ZlZzV2THA1ZTBEVG4tbWxVZGQ0LUZxV0dRVV9BT1dWYw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-08 19:10",
-   "published_iso": "2026-08-08T10:10:00+00:00"
   },
   {
    "title": "韓国サッカー協会、外国人審判らに性的接待か 日本人含むとの報道",
@@ -112,14 +112,6 @@
    "published_iso": "2026-08-08T04:03:00+00:00"
   },
   {
-   "title": "帰省ラッシュ本格化、金沢駅混雑 外国人観光客も多数",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDSXBKTm16SnByYUJpMTF6ZU1MVEVDV1hrdFczMzNqYWpnMUFncTVQeXdFQ0pZNndjOUVIYTBNRzYxNmlGUFoyRlBLQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-08 12:35",
-   "published_iso": "2026-08-08T03:35:00+00:00"
-  },
-  {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
    "source": "毎日新聞",
@@ -170,7 +162,7 @@
   {
    "title": "韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTzhUZHdJQW42V21TelNEZ1FEeDkzRkZqd2VDR3AzVng1SkJmaG1NNkl3ZVV4UlNQX2tDeDJpS2VYRkFVWi1RdXVTcjljRnNKOG9oa01PLVlucUlxRkdV?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 19:15",
    "published_iso": "2026-08-07T10:15:00+00:00"
@@ -194,7 +186,7 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -262,6 +254,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-06 23:16",
    "published_iso": "2026-08-06T14:16:42+00:00"
+  },
+  {
+   "title": "外国人観光客のレンタカーと路線バスが衝突 乗客ら3人が軽傷 信号のない交差点 山梨",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeVROdWxEaTFIRVJwUTltNjJ5S0lSa1pCYlJlZkdXeEJBUHMxNG9lbkhLZHIwTnFtWnJzb21ScjJCTk1RSS05bzVsaGtzWUEzX0llOGhYNFJTVlJLaW4yQW1ibDZRNXVWR3VZYXoteUlxeVhIVEp6TVQ5SUxZYXZ6LS1YeTZZRUU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-06 20:23",
+   "published_iso": "2026-08-06T11:23:00+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
