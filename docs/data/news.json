@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T22:34:14+00:00",
+ "generated_at": "2026-08-10T23:32:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-11 07:20",
+   "published_iso": "2026-08-10T22:20:34+00:00"
+  },
   {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
@@ -72,14 +80,6 @@
    "published_iso": "2026-08-10T08:57:45+00:00"
   },
   {
-   "title": "韓国サッカー協会 外国人審判に性接待疑惑で警察が捜査可否検討 日本人審判も対象か",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03Ung1ZUZ4Z3RmcS0yWHpRanFOQktBUW5CR01xMHdmWnhlTjJtUXdrWl9PNTNNcWdfOWxyeVNXU1JIaDJyTUxmdjF3VFNQRTctbzFOUnNQZy1sWmFJWEFxaGZuVTNCcGptUk9JSWV4NEtpQ2s3RlE1SGZR?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-10 16:56",
-   "published_iso": "2026-08-10T07:56:40+00:00"
-  },
-  {
    "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
    "source": "朝日新聞",
@@ -110,6 +110,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-10 10:22",
    "published_iso": "2026-08-10T01:22:46+00:00"
+  },
+  {
+   "title": "「脱税」と「在留資格」 中国人同士の利害一致 刑事告発の中国人経営企業の悪質スキーム",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVE55QURBbHVoNEVzcGtsendsR2htdUUtakhHci15T09BT0R5MlJXTW1QTFVER2lFMzd4V1BEdk9aQkR5eGo4Um0xUWRlMnVfSGJyNnpfdktNX29nUl9WeTNaY1JfRlRTS0MzTnBmbkloSklWOUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-10 08:00",
+   "published_iso": "2026-08-09T23:00:00+00:00"
   },
   {
    "title": "（「史上最大の強制送還」の足元：上）米政権の移民摘発、「犯罪者」と呼ぶけれど",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
-  },
-  {
-   "title": "【監理団体・受入企業必見】日本事業推進センターが外国人技能実習制度における養成講習を新設",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BWFBLaU1WWXAxOERmaE1fZHllSFFIR1RXVUI3ZGxpek1XX2pBaS0yYy1kTmxaTVJmRHRKTFotUVNhZ0RDRHVkSlJBYmdOOFlrcHlSeGdSemNsckpyc1IyVFV4TnUyUXJxNFlJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-06 05:10",
-   "published_iso": "2026-08-05T20:10:00+00:00"
   }
  ]
 }
