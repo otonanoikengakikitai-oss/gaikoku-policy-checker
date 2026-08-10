@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T15:58:10+00:00",
+ "generated_at": "2026-08-10T16:58:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -10,7 +10,7 @@
   {
    "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③中国",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-10 18:11",
    "published_iso": "2026-08-10T09:11:00+00:00"
@@ -98,7 +98,7 @@
   {
    "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdWpiOFpsZVI0OHpYQnhwcWVlRTd6RWlwbnFhZjkyeVBHaldZNWxjMmgxaW1KM1pKZVdpUUp4YktTNXI5NHlsdkw4UQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 17:05",
    "published_iso": "2026-08-09T08:05:00+00:00"
@@ -114,7 +114,7 @@
   {
    "title": "【外国人永住許可】排除でなく共生の道を",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HaS1XeFVDVzNKWmVveGVoNFdpRzk0a01LMkZGYTQwSUtrckdQZ2h0Mjc3dmxXNGJqckQxTm85UzBVRHg0LWg2ZERVWQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 10:10",
    "published_iso": "2026-08-09T01:10:14+00:00"
@@ -208,6 +208,14 @@
    "published_iso": "2026-08-07T21:00:00+00:00"
   },
   {
+   "title": "難民の子どもへ服を届けよう 洲本の鮎原小 衣類の提供ボックス、市内4カ所に設置|淡路",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOVkxUk9mRk9WeWswZkM2VGpnRTRyQVl6eGRkR09oT3RqQmY1X2ozUUo0S1BEZ2ZhOFJFOXA0QjlLVUVGMkdSTU5sTUJxQllPYkM5WUVjaUZ0YkZKT3ZsRlBRYzRYMk9HVHk3VQ?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-08 05:10",
+   "published_iso": "2026-08-07T20:10:00+00:00"
+  },
+  {
    "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
    "source": "日本経済新聞",
@@ -250,7 +258,7 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTE1na3VHbzVqWTNsSC04YnAyRHBTZmJsa2lGY050QU5CRUZrXzQ2ZWUzTlg0U2labUp4STc5MmhFdWVPeEJMV0ZHYzk4V25LWmdKZ0M2OA?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -258,18 +266,10 @@
   {
    "title": "”外国人受け入れ“政府・有識者会議が初会合 小野田大臣「在留外国人が増加するなか重要な課題」 基本方針取りまとめへ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSDVZNkNPcmJfSmhCV0t5RUVmS1lVeXdwRzRhNHhmeXMzWTA2VmI0M2lpR0xTYTZxX21SSDU0NGNqR3RIcl9sbzltU0JHZw?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-08-07 15:54",
    "published_iso": "2026-08-07T06:54:00+00:00"
-  },
-  {
-   "title": "外国人含む土地の不適切利用への対応を提言 国交省有識者会議 廃棄物保管など",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lN0VGM3ZlVmR3OXBpV092aWhXUVBGYlNMTTkzN1hMTzdqWkpnTWoxV3JmTW1tU3NpQ0x3Nk10bWlha1VNSDk0Q2JtMV9GZ3ZDLUlUUGl0aVNPUURZek5PSE1QQ0ItQThwc2I1Y3RkZmxaUTdLMHc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-07 15:32",
-   "published_iso": "2026-08-07T06:32:40+00:00"
   },
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
@@ -290,10 +290,18 @@
   {
    "title": "フィリピン人女性技能実習生4人、カツオ節工場は「劣悪な環境」…損害賠償求めた訴訟が和解 「納得得られる条件提示」 福岡高裁宮崎支部",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tMW5lN0c2bWlzMWVKUC1XTS1wMXFaVkc0NnVEcjZQemszbnhYRkwxbTFOQnIwNk91X0M5TEVCQjVQeFRxRlNwcWFjSQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-07 06:05",
    "published_iso": "2026-08-06T21:05:00+00:00"
+  },
+  {
+   "title": "越境移民の死者100人に スペイン飛び地、政府批判",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWWI4TTJpVFJrNHVXODBuVzRoMHVJcm1hZmVVYlhwQmwyRjY2LUpISkdvSUdRQ0xlYnVhT00wTmt3R18taEw5VWFZTlJ0NE5hUEZDTHJEWERWZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-07 05:48",
+   "published_iso": "2026-08-06T20:48:23+00:00"
   },
   {
    "title": "米民主党のミシガン州予備選、急進左派の支援候補が穏健派破る…父はエジプト移民のイスラム教徒",
@@ -306,7 +314,7 @@
   {
    "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-06 23:16",
    "published_iso": "2026-08-06T14:16:42+00:00"
@@ -330,7 +338,7 @@
   {
    "title": "取材メモプラス 昭和の特定技能外国人 人手不足解消に期待",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlIyTzFVYVFoYjRmVXdlc21HcjFqRFlMc2tfQVpwZEJzTXBDUFdGMU1veG51Mzlpd215VVJGVjVjQWo0Q2ZxY0hsbw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-06 11:00",
    "published_iso": "2026-08-06T02:00:00+00:00"
@@ -350,22 +358,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-06 05:10",
    "published_iso": "2026-08-05T20:10:00+00:00"
-  },
-  {
-   "title": "SNS監視強化、一致 スペイン移民問題 EU内相会合",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tRnFVeUt1UmUxV1c5Zy1EQkNpVVktQjZ6bS14QlhoN253TnJST1pKS1F6YTRKLS1fWjRQWGhRQS1UVHJ1YTY1Ml81cE9JUmhnRTQyeDNzc0FzY2hQdUhka1czYzhxTWJ1?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-06 02:01",
-   "published_iso": "2026-08-05T17:01:54+00:00"
-  },
-  {
-   "title": "ＥＵが不法移民対策の強化で一致…スペインの飛び地セウタへの不法移民殺到、背景に「犯罪組織やＳＮＳの偽情報」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HU2RxUV8tUWM0NldZdFl4Y2tpUGxGa1l6UW9xNkdfS2dOdXRtT20zOG01alpmeHM3NzFndWEwQWtyUXAzWWZpSnVtSVJTU2dvTmRScEl6UG1hc00wLWFRZjVB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-05 17:34",
-   "published_iso": "2026-08-05T08:34:00+00:00"
   },
   {
    "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
@@ -406,6 +398,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
+  },
+  {
+   "title": "ＥＵ、外部国境管理を強化へ スペイン領に不法移民殺到で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41N3NOeGppc09FaHdZWl9VSmJ1ekVqbmFCYThrLURBdy1BOWVWZ1NiWmJmYUs3dUx3dGs3LXJHVlNDWGZrLWR3NTZtTVZwVVE3My02SWpvc0lNdkN1dllMN3dNTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 22:02",
+   "published_iso": "2026-08-04T13:02:00+00:00"
   }
  ]
 }
