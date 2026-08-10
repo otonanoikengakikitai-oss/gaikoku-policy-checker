@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T22:05:09+00:00",
+ "generated_at": "2026-08-10T22:34:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,9 +8,17 @@
  ],
  "items": [
   {
+   "title": "入管庁、強制退去の外国人情報を自治体に提供",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-11 06:28",
+   "published_iso": "2026-08-10T21:28:00+00:00"
+  },
+  {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-11 05:10",
    "published_iso": "2026-08-10T20:10:00+00:00"
@@ -41,7 +49,7 @@
   },
   {
    "title": "強制退去、自治体に情報提供 入管庁、外国人の氏名など",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVEyRWxxWWJRbTV1cXppV0NJNmo0X1VOVHM4OElEU2RXWVJqN2E5WFBTdFdDR2hIOXJ3YWdjUUhpQzY1UGdQRWFwRE9ZRTBISmp0dE5TRUl0Zmt6dXV1RGlOaGtaS3l6Snh6WW91RzJjcDBEanNTTTZ6WklMdUNZM0RB?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-10 20:34",
@@ -398,14 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-06 05:10",
    "published_iso": "2026-08-05T20:10:00+00:00"
-  },
-  {
-   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-05 09:24",
-   "published_iso": "2026-08-05T00:24:42+00:00"
   }
  ]
 }
