@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T09:16:44+00:00",
+ "generated_at": "2026-08-10T11:05:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
-   "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-10 17:27",
-   "published_iso": "2026-08-10T08:27:35+00:00"
+   "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5feF9CMWsyZkNwbi1icW5iZEw5TGY0RXNFN3hjSXdzX1U0RHJfZkxVUGl0YzhXOFYzR0VJSHRTc0JyVnR2OThfZTZJMkQydWVwcVdSRUF3UDdVbUlGNlJlNTVqMEFZTU5NakUyaW10NmNHbWllWVVaVVdNUVFqRzQ?oc=5",
+   "source": "news.ntv.co.jp",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-10 19:58",
+   "published_iso": "2026-08-10T10:58:00+00:00"
+  },
+  {
+   "title": "終バス難民の学生を救え 金沢市が乗り合いタクシー「学ノリ」運行開始 バスよりは高いけれど500円なら使いやすい",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3NU5LZWhTU3RQOERhS2dXOTlNQ2VKRXBRNVItN2txTGs0OUNKbmNpWVpOYWZwUEJLOEFmRkxFWS1qVTJfVzJib2JuVTZBVnpDT0NtY3F3NEZ1UDNKMHFCR2hOT1gtQVU?oc=5",
+   "source": "newsdig.tbs.co.jp",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-10 19:39",
+   "published_iso": "2026-08-10T10:39:00+00:00"
+  },
+  {
+   "title": "北海道の25年宿泊者数、4%増の4650万人泊 外国人伸び",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nOEUxRUlqS0ptT2s0ckJHaVJ3ajdxZF9fbXV2YmJJUmhVQTYzSW5hRVRGaDA2OEcxNXprU2I0RFA5NVdUeDJGTWg5T0N3aW5LVGhsV2tLU19OVmVPel92eDJOZTFnS2UtWDlzcQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-10 18:47",
+   "published_iso": "2026-08-10T09:47:55+00:00"
+  },
+  {
+   "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-10 18:11",
+   "published_iso": "2026-08-10T09:11:00+00:00"
   },
   {
    "title": "韓国サッカー協会 外国人審判に性接待疑惑で警察が捜査可否検討 日本人審判も対象か",
@@ -22,6 +46,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-10 16:56",
    "published_iso": "2026-08-10T07:56:40+00:00"
+  },
+  {
+   "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-10 16:00",
+   "published_iso": "2026-08-10T07:00:00+00:00"
   },
   {
    "title": "京都市伏見区の観光地、外国人観光客の「危険な歩き方」に京都府警が交通ルール呼びかけ",
@@ -78,6 +110,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-09 21:06",
    "published_iso": "2026-08-09T12:06:49+00:00"
+  },
+  {
+   "title": "韓国サッカー協会、外国人審判に性接待疑惑 日本人含まれると報道",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGtudFNZLVpSUFV3RkdlZ1ZUMlFKbEwxaHFPbTNfRzVuSUlzUGR1anFoSl9paWIxX1JiVzJGOGFBcXhrQlVmejZvcTFHZktodzZoLVFzcUNUSmdQQXlWYWxLbnFlbjVjdEF3Tg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-09 17:37",
+   "published_iso": "2026-08-09T08:37:46+00:00"
   },
   {
    "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
@@ -146,7 +186,7 @@
   {
    "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
@@ -178,18 +218,10 @@
   {
    "title": "【泊まれるお寺】座禅・法要も体験…「宿坊」の魅力 外国人観光客にも人気「すべてが最高でした」 『every.気になる！』",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzSWhwZHNlY0xIUGZXbzZSUHpKMG9YV2pUZDN1a256VUV0WWx1dmY5VDJmMnF3Mi16WEpmX0VxaXRpeGs4dUctSGlpTm5oUUNIUUp4Sml3aTZzajBOV2ZkUllaTXI0Wkg3SkNWQ2JHMVNUYWcwOEdaOXJ3TnI?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 11:23",
    "published_iso": "2026-08-08T02:23:52+00:00"
-  },
-  {
-   "title": "監理支援機関に外部監査人の設置が完全義務化【2027年4月育成就労制度】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0WHhzWE9KWVE1Z2t3UXB5TWtfbUtxTVhWRld5SC1iTkJzS3BPUTlVa2dsMElpbDdmWlRJR1pSSV9ETW5UT0NtMlE2VWR6bV9BSVlYQ1c2Y0s4LVlKLUJfT05WRUZ6ajl1N3lB?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-08 07:10",
-   "published_iso": "2026-08-07T22:10:00+00:00"
   },
   {
    "title": "「合法移民」にも迫る送還 米国がビザ発給厳格化か、審査待ち最多数百万人",
@@ -224,14 +256,6 @@
    "published_iso": "2026-08-07T11:25:27+00:00"
   },
   {
-   "title": "韓国サッカー協会 外国人審判に“性接待” W杯や五輪の予選、2011年から約1年間で10人余に対し JNN報告書入手",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTzhUZHdJQW42V21TelNEZ1FEeDkzRkZqd2VDR3AzVng1SkJmaG1NNkl3ZVV4UlNQX2tDeDJpS2VYRkFVWi1RdXVTcjljRnNKOG9oa01PLVlucUlxRkdV?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 19:15",
-   "published_iso": "2026-08-07T10:15:00+00:00"
-  },
-  {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
    "source": "日本経済新聞",
@@ -250,7 +274,7 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTE1na3VHbzVqWTNsSC04YnAyRHBTZmJsa2lGY050QU5CRUZrXzQ2ZWUzTlg0U2labUp4STc5MmhFdWVPeEJMV0ZHYzk4V25LWmdKZ0M2OA?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -376,36 +400,12 @@
    "published_iso": "2026-08-05T17:00:00+00:00"
   },
   {
-   "title": "移民殺到でEU分断 スペイン領にモロッコから 伊が国境審査を復活 サンチェス首相は不快感",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrejNaLUg2NG9JX3IxdXU3UENGNmZLaXhRUDJuWXRDZmJzaGxJZ1gtU3BYZ0p6RGNOcHpHM3l0bjctNzZwRkI2aFJtazRBVnBrUmtvVGhpV2V4TS1uOUZ0VmhCeXktN3pGSmN0bg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 02:00",
-   "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
    "title": "外国人住民にも伝わる言葉は やさしい日本語、奈良市で勉強会",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZX1dCc09FNFRiVm9MaVJEN0IwbE9mb1dGWERKZTZXN25JT0s1SkpfNmxWYW9YNllzMkpvOS1pM3VxeDlqdlE5NzNVSWU3QWIySTQxRHhwRk1FQ3ZvV1NjREVXR0JITmM?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-05 18:45",
    "published_iso": "2026-08-05T09:45:00+00:00"
-  },
-  {
-   "title": "ＥＵが不法移民対策の強化で一致…スペインの飛び地セウタへの不法移民殺到、背景に「犯罪組織やＳＮＳの偽情報」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HU2RxUV8tUWM0NldZdFl4Y2tpUGxGa1l6UW9xNkdfS2dOdXRtT20zOG01alpmeHM3NzFndWEwQWtyUXAzWWZpSnVtSVJTU2dvTmRScEl6UG1hc00wLWFRZjVB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-05 17:34",
-   "published_iso": "2026-08-05T08:34:00+00:00"
-  },
-  {
-   "title": "全国知事会、外国人との共生社会に向け提言 平口法相に手渡し",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwTUp4N2l0VHAxLXFrQ0RkYVBkWlAtR3Y0VG4yWnJlQ0VwSEtlZHZHY2pIOFE5b1ZEMjZfNFd0Q1ZhTE5fYzQwV0NYRkJUelZpRUVoaTFrVnFsZlZabld6bWpnREhyV1ItbXc0Xw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-05 17:27",
-   "published_iso": "2026-08-05T08:27:27+00:00"
   }
  ]
 }
