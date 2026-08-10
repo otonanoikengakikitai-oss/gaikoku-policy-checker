@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T20:39:05+00:00",
+ "generated_at": "2026-08-10T22:05:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,17 +8,9 @@
  ],
  "items": [
   {
-   "title": "「無統制の移民流入」反対 欧州、左右女性首相が声明",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50QzBxMUJLaVNPbmVqV25rd1dkMUwzODc5a21NcGV5UnRwWndzZkRJUUQwYlFiX0dkSmwzTDF1dzcyQTFxNG0yQmxhbU9JQ3RORW9ETlJibnJscFVsS3V1QlE3NExtVEVPc1Bv?oc=5",
-   "source": "shinmai.co.jp",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-11 05:34",
-   "published_iso": "2026-08-10T20:34:18+00:00"
-  },
-  {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
-   "source": "中日新聞Web",
+   "source": "chunichi.co.jp",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-11 05:10",
    "published_iso": "2026-08-10T20:10:00+00:00"
@@ -34,7 +26,7 @@
   {
    "title": "バスケ・Bプレミアにはさまざま変更点 外国人選手登録、給与、試合日程にも",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSm8wRDA3Z05QOThCQXlJRjdsRFljR3FBWmJpZHhJWXZuS044ZGxhYVFNUFJwM1cyd1BXY0JPdktVT2E5NGVOSVVJNEtIUFkxMkVTR1JkQjM?oc=5",
-   "source": "kyoto-np.co.jp",
+   "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-11 04:50",
    "published_iso": "2026-08-10T19:50:00+00:00"
@@ -90,7 +82,7 @@
   {
    "title": "京都市伏見区の観光地、外国人観光客の「危険な歩き方」に京都府警が交通ルール呼びかけ",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZEdEM1IyZTF1MUZPVV9xMnQxb3p3WVhLdldMbVcyMHk2a1hNbEs0YU1QOUpKV00ycFhELTNHdXFrdGZQNmpiXzZkYTkteWZZaXRSck9NdHQ?oc=5",
-   "source": "kyoto-np.co.jp",
+   "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-10 16:00",
    "published_iso": "2026-08-10T07:00:00+00:00"
@@ -112,28 +104,12 @@
    "published_iso": "2026-08-10T01:22:46+00:00"
   },
   {
-   "title": "「脱税」と「在留資格」 中国人同士の利害一致 刑事告発の中国人経営企業の悪質スキーム",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVE55QURBbHVoNEVzcGtsendsR2htdUUtakhHci15T09BT0R5MlJXTW1QTFVER2lFMzd4V1BEdk9aQkR5eGo4Um0xUWRlMnVfSGJyNnpfdktNX29nUl9WeTNaY1JfRlRTS0MzTnBmbkloSklWOUE?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-08-10 08:00",
-   "published_iso": "2026-08-09T23:00:00+00:00"
-  },
-  {
    "title": "（「史上最大の強制送還」の足元：上）米政権の移民摘発、「犯罪者」と呼ぶけれど",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWGh3d2ZSMWNpYXNnaWdZV2VJUWNRaDhxNlJJdEtnMm1NMUZObFhGdlZoZWpHeHo2dGI2aW9ESlFQZGpFekFuUE5oYlJiYk90aHB4YlNqa0s4S2xkd2hESVpQbS13YUp0MHc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 07:29",
    "published_iso": "2026-08-09T22:29:19+00:00"
-  },
-  {
-   "title": "＜独自＞脱税で刑事告発の中国人経営企業 日本の在留資格便宜うたい勧誘、人件費水増しか",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01NUxLQ0hWa3cybEdQMEVlME9sTzNIcTFDYmY2YTBjVlNGdUhfRUFRX1Y4bXlvZDRHQTBhcGNfNWdjb0hWcWVSWFBrbmRBdmtvdXhrcWxFcHNoVkEwem5JSTVhMFppWE5GMFZOVFpILVpqU1J0Ymc?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-08-10 07:00",
-   "published_iso": "2026-08-09T22:00:00+00:00"
   },
   {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
@@ -290,7 +266,7 @@
   {
    "title": "外国人受け入れ、有識者WGが初会合 将来推計や経済、社会保障などへの影響議論",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WY2o1YjRVRHZOMC1hbnhydUpBSm5Kc21iRFRqckVPU2xQYnZJQ3pySWdzVXhUYUN1SkFhSmZ6UkJXRkVINlEzXzBXYm1aQWdaLTZQTWFSOEx5VTFBRVpocW5SS3U1UmgyZktBTk03LU9BNHltRkE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-07 20:25",
    "published_iso": "2026-08-07T11:25:27+00:00"
@@ -368,6 +344,14 @@
    "published_iso": "2026-08-06T20:00:00+00:00"
   },
   {
+   "title": "世界のウチナーンチュつなぐ縁 移民ルーツ情報、県立図書館が提供",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vM01BWk4zdUtiWTJmN2ZJNDBqUUVpcXVINncyU2IwZEZLeExmdWFRUzRfM2N0RUp3RUd4dlA5Q1JmUTVCTC11N01lcG5MRmV1ZFhrdEtFSVIzbzlidmdTVVQ5bDIyQnNWRk5pcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-07 02:00",
+   "published_iso": "2026-08-06T17:00:00+00:00"
+  },
+  {
    "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
    "source": "47NEWS",
@@ -378,7 +362,7 @@
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-06 19:05",
    "published_iso": "2026-08-06T10:05:21+00:00"
@@ -406,6 +390,22 @@
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
+  },
+  {
+   "title": "【監理団体・受入企業必見】日本事業推進センターが外国人技能実習制度における養成講習を新設",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BWFBLaU1WWXAxOERmaE1fZHllSFFIR1RXVUI3ZGxpek1XX2pBaS0yYy1kTmxaTVJmRHRKTFotUVNhZ0RDRHVkSlJBYmdOOFlrcHlSeGdSemNsckpyc1IyVFV4TnUyUXJxNFlJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-06 05:10",
+   "published_iso": "2026-08-05T20:10:00+00:00"
+  },
+  {
+   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 09:24",
+   "published_iso": "2026-08-05T00:24:42+00:00"
   }
  ]
 }
