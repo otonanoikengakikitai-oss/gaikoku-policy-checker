@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T18:53:24+00:00",
+ "generated_at": "2026-08-10T19:53:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -86,6 +86,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-10 07:29",
    "published_iso": "2026-08-09T22:29:19+00:00"
+  },
+  {
+   "title": "＜独自＞脱税で刑事告発の中国人経営企業 日本の在留資格便宜うたい勧誘、人件費水増しか",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01NUxLQ0hWa3cybEdQMEVlME9sTzNIcTFDYmY2YTBjVlNGdUhfRUFRX1Y4bXlvZDRHQTBhcGNfNWdjb0hWcWVSWFBrbmRBdmtvdXhrcWxFcHNoVkEwem5JSTVhMFppWE5GMFZOVFpILVpqU1J0Ymc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-10 07:00",
+   "published_iso": "2026-08-09T22:00:00+00:00"
   },
   {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
@@ -396,14 +404,6 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
    "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 06:00",
-   "published_iso": "2026-08-04T21:00:00+00:00"
-  },
-  {
-   "title": "妊娠理由に技能実習の外国人に退職強要、福岡県内の運営法人などに賠償命令 権利侵害を認める",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoOF9DcHlPa2UzWi01eFBFa19pZ2V5Rk1tc1liRUZwaHFEMkhxMDdjc2drYlZDQlhZSE9hbG44b3gwRE1tcENHUkV4MkdhUUNaRERQS0hn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
   }
