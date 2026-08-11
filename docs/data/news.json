@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T15:58:36+00:00",
+ "generated_at": "2026-08-11T17:04:08+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmWFpzaUxsWXJqTkt6RWRlamlYTm56TEM1NG5uUkpPVE9fY0hsdW1aNFJiVHIyUnpXVFBjLS1aVldoYVRYOXJ4REVxdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-12 00:16",
-   "published_iso": "2026-08-11T15:16:04+00:00"
-  },
   {
    "title": "去年県内を訪れた外国人観光客の旅行消費額は約45億円 東北で最少 唯一前年を下回る 秋田",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkdocktrSGFpUDZXLXljRG0tRk4weDJpaTJNY2hOS2ZFODhGMUpRWEtPc2c1VUowMXRxc29STHpZTlBBa1FWZHpSb0xZcmRWbERzLUZwTjlUakp4ZU5yT3lnVVRfU1pkMTdsUmp2Qk9UZUFtdDVzaUlnSEZWNkoxMXRHLTcwMEk?oc=5",
@@ -26,7 +18,7 @@
   {
    "title": "Hana Bankの子会社GLN、訪韓外国人旅行者向けQR決済ネットワークを拡大",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QeVRpWmRSWkJNSWNCRlJkMnAwQnN4UlRVZHdCQlJwbGgwWGUzaC0xcHVkOS1KNnRmd0tUd1FXblhleHRqY281MTg3cHUtNC1TQVJteEFyUDhKU2c4?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 14:21",
    "published_iso": "2026-08-11T05:21:00+00:00"
@@ -96,9 +88,9 @@
    "published_iso": "2026-08-10T22:20:34+00:00"
   },
   {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
+   "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
@@ -110,6 +102,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-11 05:34",
    "published_iso": "2026-08-10T20:34:28+00:00"
+  },
+  {
+   "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-11 05:10",
+   "published_iso": "2026-08-10T20:10:00+00:00"
   },
   {
    "title": "外国人採用アンケ答申 知事の主張に「憤り」 申立人、「助言」を非難 ／三重",
@@ -216,14 +216,6 @@
    "published_iso": "2026-08-09T08:05:00+00:00"
   },
   {
-   "title": "渋谷で盆踊り 7万人熱狂 外国人を魅了する「MATSURI」文化 レンタル浴衣で踊り挑戦",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMDVCY0Q1MTkyU2ROdmlmR0x4cWdacXA1VjEtYUtMOGpQUEd3QWUxNS1EOEZxTURQakhNY1VxYVRtZDc4YnB4SnpkZzBiOGhXaFV4bWZ2STg4V1Z5b0FvWWVBMjhqczIxSlg3X1R5T25BUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-09 11:35",
-   "published_iso": "2026-08-09T02:35:00+00:00"
-  },
-  {
    "title": "【外国人永住許可】排除でなく共生の道を",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HaS1XeFVDVzNKWmVveGVoNFdpRzk0a01LMkZGYTQwSUtrckdQZ2h0Mjc3dmxXNGJqckQxTm85UzBVRHg0LWg2ZERVWQ?oc=5",
    "source": "47NEWS",
@@ -234,7 +226,7 @@
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
    "published_iso": "2026-08-08T22:06:00+00:00"
@@ -296,6 +288,14 @@
    "published_iso": "2026-08-08T04:19:08+00:00"
   },
   {
+   "title": "ICE 去年のLA大規模移民摘発映像を初公開 地図アプリで“ターゲット選び”",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xeXNOZHZmVEFxZDVtd3RwWXNLRFc4TDB6Z3MyRk1HaHJGZ1hpekRsbGlMUmN4MlhieGlxNGJnYWFtUmJzeDJSc215cDlFWGJ3U1R3TUhTd1loVVpzM3Z0SUdBZUlhbjFVZzFpUWw0bHlXUUxQNkZNVXVR?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-08 12:23",
+   "published_iso": "2026-08-08T03:23:15+00:00"
+  },
+  {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
    "source": "毎日新聞",
@@ -318,6 +318,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-08 01:44",
    "published_iso": "2026-08-07T16:44:33+00:00"
+  },
+  {
+   "title": "在留外国人受け入れ、数値目標設定の是非検討へ影響分析…有識者会議初会合",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZ3F6R05aWnBDNGJIRy1TTF9jUXZfUVVPd1dhbFBzQTVUYmVkZkExTmE3aWtKV1lmaDVTVmpfdVBGM1FtUUZtbjMwZG9URGNpVWptZ2c4S1VNa3FtRFRocnNqNV9sdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-07 22:52",
+   "published_iso": "2026-08-07T13:52:00+00:00"
   },
   {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
-  },
-  {
-   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 06:00",
-   "published_iso": "2026-08-04T21:00:00+00:00"
   }
  ]
 }
