@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T22:38:07+00:00",
+ "generated_at": "2026-08-11T23:36:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -344,6 +344,14 @@
    "published_iso": "2026-08-07T02:11:57+00:00"
   },
   {
+   "title": "スペインへの越境移民、死者100人に 対応巡り政府に批判",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BU2h5S2FzZmZlVzZENDBQYm5nOXhsTWtqNDhCVWdIWjc1RmlOZjl5djVXUFRnRGhNWHcwajF3eFVzWElIWmN6M05ELThiX1lvSDNpZUJWVm1JclZlLVZGSXRFa0FZMWFB?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-07 10:48",
+   "published_iso": "2026-08-07T01:48:28+00:00"
+  },
+  {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cb2hiSEk2RU84SGIwdm4tTlpSNTYxbEdrVzdrX0l6OUdQYW9CMjE5R2xuNzVqSlg5TDZrSU9FOXBmYmtMVkNfa0hwU1AxYVBjR3hXeHlOR2w4YUR3c1VTbGt0RFI0NlFm?oc=5",
    "source": "毎日新聞",
@@ -366,14 +374,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-07 02:00",
    "published_iso": "2026-08-06T17:00:00+00:00"
-  },
-  {
-   "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-06 19:29",
-   "published_iso": "2026-08-06T10:29:00+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
