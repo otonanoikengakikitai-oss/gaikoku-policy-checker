@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T20:01:21+00:00",
+ "generated_at": "2026-08-11T21:42:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -10,7 +10,7 @@
   {
    "title": "去年県内を訪れた外国人観光客の旅行消費額は約45億円 東北で最少 唯一前年を下回る 秋田",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkdocktrSGFpUDZXLXljRG0tRk4weDJpaTJNY2hOS2ZFODhGMUpRWEtPc2c1VUowMXRxc29STHpZTlBBa1FWZHpSb0xZcmRWbERzLUZwTjlUakp4ZU5yT3lnVVRfU1pkMTdsUmp2Qk9UZUFtdDVzaUlnSEZWNkoxMXRHLTcwMEk?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-11 18:05",
    "published_iso": "2026-08-11T09:05:00+00:00"
@@ -18,7 +18,7 @@
   {
    "title": "Hana Bankの子会社GLN、訪韓外国人旅行者向けQR決済ネットワークを拡大",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QeVRpWmRSWkJNSWNCRlJkMnAwQnN4UlRVZHdCQlJwbGgwWGUzaC0xcHVkOS1KNnRmd0tUd1FXblhleHRqY281MTg3cHUtNC1TQVJteEFyUDhKU2c4?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 14:21",
    "published_iso": "2026-08-11T05:21:00+00:00"
@@ -88,20 +88,12 @@
    "published_iso": "2026-08-10T22:20:34+00:00"
   },
   {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
+   "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
-  },
-  {
-   "title": "「無統制の移民流入」反対 欧州、左右女性首相が声明",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sN2U3eXJ2dXktVDloOVFKNnlRLUIzYXRFOVoybm1pZDlhMWZVVG5hVWdWa0w0Tk1JMjB2UEZ5UERaZmlTcENHYzVjaW44dUJoclhFYm9n?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-11 05:34",
-   "published_iso": "2026-08-10T20:34:28+00:00"
   },
   {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
@@ -114,7 +106,7 @@
   {
    "title": "外国人採用アンケ答申 知事の主張に「憤り」 申立人、「助言」を非難 ／三重",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mTi1QaFF6clgwZ0NVUlZrWHZNQ2xrNlBQMW1WT0VVcG0zSjlOMU1PVE5VTDE4SkVmc2JuRTc5QmpIWFB5ajMyeXgzWFNfZW0zSE1MMWlQT2NjSldvU1lXdzMzVWdWeEp2?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 05:05",
    "published_iso": "2026-08-10T20:05:47+00:00"
@@ -130,7 +122,7 @@
   {
    "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」 築く一助に 道具など貴重な資料展示 東村山 ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 02:00",
    "published_iso": "2026-08-10T17:00:28+00:00"
@@ -138,7 +130,7 @@
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-10 19:58",
    "published_iso": "2026-08-10T10:58:00+00:00"
@@ -226,7 +218,7 @@
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
    "published_iso": "2026-08-08T22:06:00+00:00"
@@ -234,7 +226,7 @@
   {
    "title": "多文化共生の基本法制定を 知事、国に要請 ／静岡",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWDdlQjVlX2FoUTFkeGNNZ3BBeFNCdzdKOTliX0pCTzFodWZVaHdGaWtoNzFHQ252dWhoSU5kb3Nfc3JyTlhpdnpKRlZqOFRBNVF0ZE9lT1ZYZDFsTHRVUVNfRWI0WFM2?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:31+00:00"
@@ -266,7 +258,7 @@
   {
    "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
@@ -306,7 +298,7 @@
   {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 11:35",
    "published_iso": "2026-08-08T02:35:43+00:00"
@@ -370,7 +362,7 @@
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cb2hiSEk2RU84SGIwdm4tTlpSNTYxbEdrVzdrX0l6OUdQYW9CMjE5R2xuNzVqSlg5TDZrSU9FOXBmYmtMVkNfa0hwU1AxYVBjR3hXeHlOR2w4YUR3c1VTbGt0RFI0NlFm?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 10:30",
    "published_iso": "2026-08-07T01:30:00+00:00"
@@ -378,7 +370,7 @@
   {
    "title": "越境移民の死者100人に スペイン飛び地、政府批判",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWWI4TTJpVFJrNHVXODBuVzRoMHVJcm1hZmVVYlhwQmwyRjY2LUpISkdvSUdRQ0xlYnVhT00wTmt3R18taEw5VWFZTlJ0NE5hUEZDTHJEWERWZw?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-07 05:48",
    "published_iso": "2026-08-06T20:48:23+00:00"
@@ -394,7 +386,7 @@
   {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-06 19:29",
    "published_iso": "2026-08-06T10:29:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-06 19:05",
    "published_iso": "2026-08-06T10:05:21+00:00"
+  },
+  {
+   "title": "外国人巡る入管職員常駐窓口、利用少なく 川口市「市民冷静」 埼玉 [埼玉県] [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0QVZ4X2prM1RQTHFpNWZMWHFxaVZ1dklzc0w1b0hxckZmMC1uSWF6b0YzS3lzQXp1NFhyQmp0X3R5eGQzVU1TQ1dwaFp1Uk9uWVZFU3MyaFIwci1YaldtRXpEcERQNTg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-06 11:15",
+   "published_iso": "2026-08-06T02:15:00+00:00"
   }
  ]
 }
