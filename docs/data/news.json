@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T01:26:11+00:00",
+ "generated_at": "2026-08-11T03:41:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,9 +8,17 @@
  ],
  "items": [
   {
+   "title": "広島市の外国人住民、10年間で1・5倍の2万4769人 共生社会へ市が支援策検討",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TaHc0c2ZIX244eFZ5bHVkSEpEX1haeHR0Q0hsb1NfQ1JXbEZ6WGpWTGNqM0M0VjB1OWNpM0FSX2ozR0ViclYyVUdqRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-11 12:11",
+   "published_iso": "2026-08-11T03:11:31+00:00"
+  },
+  {
    "title": "熊本地震の外国人支援へ助成 岡山５団体に１１日から橋本財団",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qVURwc2RNc29vYVhSTnFRRmRQMzlNT3BOODlWNml5QTBkTmNJOUVWVXhFOFA5VWZmQ2xVVDlmVWtFVUs2ZFlUbmdfUQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-11 10:00",
    "published_iso": "2026-08-11T01:00:00+00:00"
@@ -18,18 +26,10 @@
   {
    "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 07:20",
    "published_iso": "2026-08-10T22:20:34+00:00"
-  },
-  {
-   "title": "「無統制の移民流入」反対 メローニ氏、フレデリクセン氏の欧州左右女性首相が声明",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPQ0FaM0EzYzJlRVROdGVDdFRLbmVkLTRHOEN4SlJHNjhxR0g3U3BVWm1ocERvbzkxOUw0b3JiRnR1cU90OUtja0J5eXBtanVYV3hkWE5zcjFZSEttZEhXZzFvaExfb3B0TmJxTXJmV1U2aWtmcnc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-11 06:51",
-   "published_iso": "2026-08-10T21:51:21+00:00"
   },
   {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
@@ -40,12 +40,28 @@
    "published_iso": "2026-08-10T21:28:00+00:00"
   },
   {
+   "title": "「無統制の移民流入」反対 欧州、左右女性首相が声明",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sN2U3eXJ2dXktVDloOVFKNnlRLUIzYXRFOVoybm1pZDlhMWZVVG5hVWdWa0w0Tk1JMjB2UEZ5UERaZmlTcENHYzVjaW44dUJoclhFYm9n?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-11 05:34",
+   "published_iso": "2026-08-10T20:34:28+00:00"
+  },
+  {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-11 05:10",
    "published_iso": "2026-08-10T20:10:00+00:00"
+  },
+  {
+   "title": "外国人採用アンケ答申 知事の主張に「憤り」 申立人、「助言」を非難 ／三重",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mTi1QaFF6clgwZ0NVUlZrWHZNQ2xrNlBQMW1WT0VVcG0zSjlOMU1PVE5VTDE4SkVmc2JuRTc5QmpIWFB5ajMyeXgzWFNfZW0zSE1MMWlQT2NjSldvU1lXdzMzVWdWeEp2?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-11 05:05",
+   "published_iso": "2026-08-10T20:05:47+00:00"
   },
   {
    "title": "静岡：交通安全ブラジル人に 国ルールに違い 外国人指導員が巡る ：地域ニュース",
@@ -74,7 +90,7 @@
   {
    "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③中国",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-10 18:11",
    "published_iso": "2026-08-10T09:11:00+00:00"
@@ -120,14 +136,6 @@
    "published_iso": "2026-08-09T23:00:00+00:00"
   },
   {
-   "title": "（「史上最大の強制送還」の足元：上）米政権の移民摘発、「犯罪者」と呼ぶけれど",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWGh3d2ZSMWNpYXNnaWdZV2VJUWNRaDhxNlJJdEtnMm1NMUZObFhGdlZoZWpHeHo2dGI2aW9ESlFQZGpFekFuUE5oYlJiYk90aHB4YlNqa0s4S2xkd2hESVpQbS13YUp0MHc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-10 07:29",
-   "published_iso": "2026-08-09T22:29:19+00:00"
-  },
-  {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYmNPZVp3YURfdEhsN2JMb1hSdjh4aC1mTV8wRVpQUldEczdjbTZZT091VTNRNmtfTXJuQS1OS2tnbDVjbkJFRWVfM1FWZHJ2bnNv?oc=5",
    "source": "東京新聞デジタル",
@@ -138,23 +146,15 @@
   {
    "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdWpiOFpsZVI0OHpYQnhwcWVlRTd6RWlwbnFhZjkyeVBHaldZNWxjMmgxaW1KM1pKZVdpUUp4YktTNXI5NHlsdkw4UQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 17:05",
    "published_iso": "2026-08-09T08:05:00+00:00"
   },
   {
-   "title": "渋谷で盆踊り 7万人熱狂 外国人を魅了する「MATSURI」文化 レンタル浴衣で踊り挑戦",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GMDVCY0Q1MTkyU2ROdmlmR0x4cWdacXA1VjEtYUtMOGpQUEd3QWUxNS1EOEZxTURQakhNY1VxYVRtZDc4YnB4SnpkZzBiOGhXaFV4bWZ2STg4V1Z5b0FvWWVBMjhqczIxSlg3X1R5T25BUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-09 11:35",
-   "published_iso": "2026-08-09T02:35:00+00:00"
-  },
-  {
    "title": "【外国人永住許可】排除でなく共生の道を",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HaS1XeFVDVzNKWmVveGVoNFdpRzk0a01LMkZGYTQwSUtrckdQZ2h0Mjc3dmxXNGJqckQxTm85UzBVRHg0LWg2ZERVWQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 10:10",
    "published_iso": "2026-08-09T01:10:14+00:00"
@@ -232,14 +232,6 @@
    "published_iso": "2026-08-08T04:19:08+00:00"
   },
   {
-   "title": "韓国サッカー協会 過去に日本人を含む外国人審判員約10人に性的接待 韓国メディア",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDZFWFExbHBsZVFWNnZfUnZWRXBJOXdvanRVVS14MXpJZEhnQ3pxREJ0aHY0bmNhYkxhRG1RNGNVOVRfRThBZzBoR1BNRlZLZHRTMVNRWWJOUEczdFJQT3RrMFpYbTlwdmZjb3NqeXJFSkZmM3p0ekVJT2RMR2Q1VnBTU0Q?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-08 13:03",
-   "published_iso": "2026-08-08T04:03:00+00:00"
-  },
-  {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
    "source": "毎日新聞",
@@ -314,18 +306,10 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTE1na3VHbzVqWTNsSC04YnAyRHBTZmJsa2lGY050QU5CRUZrXzQ2ZWUzTlg0U2labUp4STc5MmhFdWVPeEJMV0ZHYzk4V25LWmdKZ0M2OA?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
-  },
-  {
-   "title": "”外国人受け入れ“政府・有識者会議が初会合 小野田大臣「在留外国人が増加するなか重要な課題」 基本方針取りまとめへ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfSDVZNkNPcmJfSmhCV0t5RUVmS1lVeXdwRzRhNHhmeXMzWTA2VmI0M2lpR0xTYTZxX21SSDU0NGNqR3RIcl9sbzltU0JHZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-07 15:54",
-   "published_iso": "2026-08-07T06:54:00+00:00"
   },
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
@@ -334,14 +318,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-07 10:30",
    "published_iso": "2026-08-07T01:30:00+00:00"
-  },
-  {
-   "title": "フィリピン人女性技能実習生4人、カツオ節工場は「劣悪な環境」…損害賠償求めた訴訟が和解 「納得得られる条件提示」 福岡高裁宮崎支部",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tMW5lN0c2bWlzMWVKUC1XTS1wMXFaVkc0NnVEcjZQemszbnhYRkwxbTFOQnIwNk91X0M5TEVCQjVQeFRxRlNwcWFjSQ?oc=5",
-   "source": "47news.jp",
-   "source_domain": "47news.jp",
-   "published": "2026-08-07 06:05",
-   "published_iso": "2026-08-06T21:05:00+00:00"
   },
   {
    "title": "越境移民の死者100人に スペイン飛び地、政府批判",
@@ -368,14 +344,6 @@
    "published_iso": "2026-08-06T17:00:00+00:00"
   },
   {
-   "title": "＜多文化共生の現場から＞音楽が架ける「共生」の橋",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5SHp5bl92d0tnY0VzUjU4dWpmMFdhMGlfQWVVYUtCX0lWZVV3dWNya1lnb2plSl8xSng0eWZWNmpJclZUODFQS0lCYw?oc=5",
-   "source": "47news.jp",
-   "source_domain": "47news.jp",
-   "published": "2026-08-06 23:16",
-   "published_iso": "2026-08-06T14:16:42+00:00"
-  },
-  {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
    "source": "産経ニュース",
@@ -394,7 +362,7 @@
   {
    "title": "取材メモプラス 昭和の特定技能外国人 人手不足解消に期待",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlIyTzFVYVFoYjRmVXdlc21HcjFqRFlMc2tfQVpwZEJzTXBDUFdGMU1veG51Mzlpd215VVJGVjVjQWo0Q2ZxY0hsbw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-06 11:00",
    "published_iso": "2026-08-06T02:00:00+00:00"
@@ -406,6 +374,38 @@
    "source_domain": "asahi.com",
    "published": "2026-08-06 08:00",
    "published_iso": "2026-08-05T23:00:00+00:00"
+  },
+  {
+   "title": "【監理団体・受入企業必見】日本事業推進センターが外国人技能実習制度における養成講習を新設",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BWFBLaU1WWXAxOERmaE1fZHllSFFIR1RXVUI3ZGxpek1XX2pBaS0yYy1kTmxaTVJmRHRKTFotUVNhZ0RDRHVkSlJBYmdOOFlrcHlSeGdSemNsckpyc1IyVFV4TnUyUXJxNFlJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-06 05:10",
+   "published_iso": "2026-08-05T20:10:00+00:00"
+  },
+  {
+   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-05 09:24",
+   "published_iso": "2026-08-05T00:24:42+00:00"
+  },
+  {
+   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-05 06:00",
+   "published_iso": "2026-08-04T21:00:00+00:00"
+  },
+  {
+   "title": "特定技能受け入れ停止「影響ある」62％ 北海道内の飲食関連 道が調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWWEUxOG8yQnpYOENmUnJES2U3QzlZQno1dE9uZ1dCTFZwZFRsTHI1cFhiOWlBU0xjSEU3T3d3WG9ST0hacHNNMFlIbC00bnBkMHFGemtVTDJ4QQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-04 17:35",
+   "published_iso": "2026-08-04T08:35:06+00:00"
   }
  ]
 }
