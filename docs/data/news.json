@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T05:05:10+00:00",
+ "generated_at": "2026-08-11T07:02:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,8 +8,16 @@
  ],
  "items": [
   {
+   "title": "〈社説〉永住許可厳格化 「選ばれぬ国」促す愚策",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JSkxPT2hCUTNXSWh5ZU1vbDFDTXlRa2dsRFpmQUhaNC0xQjBtUnhjR3ZZUE9RTlIzMGxUYjJXbW5hSjIwWmRMbFdTa2VHeUc4RmtV?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-11 14:14",
+   "published_iso": "2026-08-11T05:14:56+00:00"
+  },
+  {
    "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zMmgwaEVEMC1WUEZ5SnFoaVFPSU5FSmxNSWc2d0hfZUl4VFZsTmJkb0JVdkl6RmJ2ak1XUG9DZE5NaGFnU0o0djdhVXQwTlY5WGoxbXdnM2tFN3ZiYl9uUm5wOG9kR3dUU3Z1cWtQVk1YUDFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
@@ -82,7 +90,7 @@
   {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
-   "source": "中日新聞Web",
+   "source": "chunichi.co.jp",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-11 05:10",
    "published_iso": "2026-08-10T20:10:00+00:00"
@@ -118,6 +126,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 02:00",
    "published_iso": "2026-08-10T17:00:28+00:00"
+  },
+  {
+   "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-10 19:58",
+   "published_iso": "2026-08-10T10:58:00+00:00"
   },
   {
    "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③中国",
@@ -250,7 +266,7 @@
   {
    "title": "スペイン イタリアへの対抗措置として国境審査実施 セウタへの移民流入で対立",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwMmI0bWhsajZwNjZYUGZJWWdZWGFrQm1LSzNoTDhHUGtkU0kwU2hFTWpqdk1ydkN3RUFVRDF4aURrbnR2ZWVZM2xyTXdqLTdnWU1CYmU5Y0dlbXZ6cXp2M3N4Wll3WGlkUVhjNTAxZHBCbEhlaW1KS193?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-08 13:19",
    "published_iso": "2026-08-08T04:19:08+00:00"
@@ -344,14 +360,6 @@
    "published_iso": "2026-08-06T20:48:23+00:00"
   },
   {
-   "title": "米民主党のミシガン州予備選、急進左派の支援候補が穏健派破る…父はエジプト移民のイスラム教徒",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOM3NkOF9rVk1qc28tajRjNHhpSUtRYnhHbWdTc2ZTYnFZNUZjX0E1aWdzRGpSOENSMzg1NTUyM0hhQTdiZkdGRlZscGJLNlNLVE9HdUp3XzNzbEtrM2pob0tn?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-07 05:00",
-   "published_iso": "2026-08-06T20:00:00+00:00"
-  },
-  {
    "title": "世界のウチナーンチュつなぐ縁 移民ルーツ情報、県立図書館が提供",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vM01BWk4zdUtiWTJmN2ZJNDBqUUVpcXVINncyU2IwZEZLeExmdWFRUzRfM2N0RUp3RUd4dlA5Q1JmUTVCTC11N01lcG5MRmV1ZFhrdEtFSVIzbzlidmdTVVQ5bDIyQnNWRk5pcw?oc=5",
    "source": "日本経済新聞",
@@ -398,14 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-06 05:10",
    "published_iso": "2026-08-05T20:10:00+00:00"
-  },
-  {
-   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-05 09:24",
-   "published_iso": "2026-08-05T00:24:42+00:00"
   }
  ]
 }
