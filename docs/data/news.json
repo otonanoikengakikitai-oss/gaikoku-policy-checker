@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T21:42:49+00:00",
+ "generated_at": "2026-08-11T22:38:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,14 +38,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
-  },
-  {
-   "title": "令和8年熊本地震、九州国際学院の外国人技能実習生たちが物資支援を行いました - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KU0owRGE5bmV3NkQ1VHBXMnFLdHlYQzdtTUR3VHllWGJDTXZPaTBCOTdoY2F6RXZtWWtJcEFWWjVCMk01aGNWbDd6WjVJc3NORVhaOXRKbw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-11 13:12",
-   "published_iso": "2026-08-11T04:12:29+00:00"
   },
   {
    "title": "広島市の外国人住民、10年間で1・5倍の2万4769人 共生社会へ市が支援策検討",
@@ -232,14 +224,6 @@
    "published_iso": "2026-08-08T20:00:31+00:00"
   },
   {
-   "title": "強制退去情報 自治体に 入管庁 外国人所在把握 連携",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92ZWljOU5MYjdCTmt0RnJrRmtJNjhtMUEtSTJVQWxtQ2JqNDR1RFpnVzZ3cmdBRF9EV0ZxUTdKSDJ4YU5jY1NGUmxVUU15R1c3WnhOX3d6bGVUem5JN0ZrREFOdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-09 05:00",
-   "published_iso": "2026-08-08T20:00:00+00:00"
-  },
-  {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
    "source": "読売新聞",
@@ -320,14 +304,6 @@
    "published_iso": "2026-08-07T16:44:33+00:00"
   },
   {
-   "title": "在留外国人受け入れ、数値目標設定の是非検討へ影響分析…有識者会議初会合",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQZ3F6R05aWnBDNGJIRy1TTF9jUXZfUVVPd1dhbFBzQTVUYmVkZkExTmE3aWtKV1lmaDVTVmpfdVBGM1FtUUZtbjMwZG9URGNpVWptZ2c4S1VNa3FtRFRocnNqNV9sdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-07 22:52",
-   "published_iso": "2026-08-07T13:52:00+00:00"
-  },
-  {
    "title": "外国人受け入れ、有識者WGが初会合 将来推計や経済、社会保障などへの影響議論",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WY2o1YjRVRHZOMC1hbnhydUpBSm5Kc21iRFRqckVPU2xQYnZJQ3pySWdzVXhUYUN1SkFhSmZ6UkJXRkVINlEzXzBXYm1aQWdaLTZQTWFSOEx5VTFBRVpocW5SS3U1UmgyZktBTk03LU9BNHltRkE?oc=5",
    "source": "産経ニュース",
@@ -360,6 +336,14 @@
    "published_iso": "2026-08-07T07:26:00+00:00"
   },
   {
+   "title": "共生社会実現や手話の浸透決意 ひろめる会が報告会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVMjlydlU3YWEtQ05vQjY5SnhSaEJ5TTJNekNxY0ZDYTVUTUFRRFBqWUE1d04zY3VLQ1FPQ0Y1RFhUcm55cWhuMklvNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-07 11:11",
+   "published_iso": "2026-08-07T02:11:57+00:00"
+  },
+  {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cb2hiSEk2RU84SGIwdm4tTlpSNTYxbEdrVzdrX0l6OUdQYW9CMjE5R2xuNzVqSlg5TDZrSU9FOXBmYmtMVkNfa0hwU1AxYVBjR3hXeHlOR2w4YUR3c1VTbGt0RFI0NlFm?oc=5",
    "source": "毎日新聞",
@@ -370,7 +354,7 @@
   {
    "title": "越境移民の死者100人に スペイン飛び地、政府批判",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWWI4TTJpVFJrNHVXODBuVzRoMHVJcm1hZmVVYlhwQmwyRjY2LUpISkdvSUdRQ0xlYnVhT00wTmt3R18taEw5VWFZTlJ0NE5hUEZDTHJEWERWZw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-07 05:48",
    "published_iso": "2026-08-06T20:48:23+00:00"
@@ -406,6 +390,22 @@
    "source_domain": "asahi.com",
    "published": "2026-08-06 11:15",
    "published_iso": "2026-08-06T02:15:00+00:00"
+  },
+  {
+   "title": "取材メモプラス 昭和の特定技能外国人 人手不足解消に期待",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlIyTzFVYVFoYjRmVXdlc21HcjFqRFlMc2tfQVpwZEJzTXBDUFdGMU1veG51Mzlpd215VVJGVjVjQWo0Q2ZxY0hsbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-06 11:00",
+   "published_iso": "2026-08-06T02:00:00+00:00"
+  },
+  {
+   "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RjRWaGFlRGJuUlhKSWFtMWxjTDljSS1BY2xkOVE4VEU0Q2Uzb3ZWSWptS1FGTWxDZVZDTU5mbXE0WTlYdVZULWFPdC1YNTZtOHFyYVczOG0zelZlTm1zQ3hDTVZjWHc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-06 08:00",
+   "published_iso": "2026-08-05T23:00:00+00:00"
   }
  ]
 }
