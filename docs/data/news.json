@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T06:11:29+00:00",
+ "generated_at": "2026-08-12T08:14:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "貧しい国、働く子、難民の友達 「だれか」になりきってみる夏",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVZzalFuSVJ4TVo4b3lJd2FWcnB1UFlfR3pxYVYwWmw0YnpaUWZfOFNzbl9tb01TZE43M1dBdGx0VzREVUtpWHNRN2FBR2E4Ui1CeFBUemdHWjVYYW5Kb0VJWmN1N3M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-12 16:00",
+   "published_iso": "2026-08-12T07:00:00+00:00"
+  },
   {
    "title": "スペイン、動揺する移民寛容政策 7万人殺到で排外主義再燃に懸念",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
@@ -32,6 +40,14 @@
    "published_iso": "2026-08-11T09:05:00+00:00"
   },
   {
+   "title": "外国人の子の宿題サポート 加須市教育センター「友達と楽しく実験」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSkc1RkVBM2FZYVJENUVYMk8yMnV5YVRFUFhNU3pSMHUtbklYTkZ6dDJWbWdiemVZME1XejlsSjNDai15UWRmUTJ0NTRXQmFEbThn?oc=5",
+   "source": "東京新聞デジタル",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-11 14:46",
+   "published_iso": "2026-08-11T05:46:09+00:00"
+  },
+  {
    "title": "〈社説〉永住許可厳格化 「選ばれぬ国」促す愚策",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JSkxPT2hCUTNXSWh5ZU1vbDFDTXlRa2dsRFpmQUhaNC0xQjBtUnhjR3ZZUE9RTlIzMGxUYjJXbW5hSjIwWmRMbFdTa2VHeUc4RmtV?oc=5",
    "source": "東京新聞デジタル",
@@ -42,7 +58,7 @@
   {
    "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
@@ -74,7 +90,7 @@
   {
    "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 07:20",
    "published_iso": "2026-08-10T22:20:34+00:00"
@@ -118,14 +134,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 02:00",
    "published_iso": "2026-08-10T17:00:28+00:00"
-  },
-  {
-   "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRE8yZ0tTbEI5bWstQm1ucWZTLVl0LVBqM0tLMEhqWV9LdUctTUZKOE5XV0stbUZuU0FUWVBGR09wQ2lnTDFGZ0NOMG1PM1huMEl6MmdiYkI2ank0MUJoT25kVkZOM0dtQVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-10 20:00",
-   "published_iso": "2026-08-10T11:00:01+00:00"
   },
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
@@ -322,7 +330,7 @@
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -352,6 +360,14 @@
    "published_iso": "2026-08-06T17:00:00+00:00"
   },
   {
+   "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-06 19:29",
+   "published_iso": "2026-08-06T10:29:00+00:00"
+  },
+  {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
    "source": "産経ニュース",
@@ -376,14 +392,6 @@
    "published_iso": "2026-08-06T02:00:00+00:00"
   },
   {
-   "title": "EU、セウタ移民で亀裂 移民への拒否感あらわ、孤立したスペイン",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54RjRWaGFlRGJuUlhKSWFtMWxjTDljSS1BY2xkOVE4VEU0Q2Uzb3ZWSWptS1FGTWxDZVZDTU5mbXE0WTlYdVZULWFPdC1YNTZtOHFyYVczOG0zelZlTm1zQ3hDTVZjWHc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-06 08:00",
-   "published_iso": "2026-08-05T23:00:00+00:00"
-  },
-  {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
    "source": "日本経済新聞",
@@ -398,14 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-05 09:24",
    "published_iso": "2026-08-05T00:24:42+00:00"
-  },
-  {
-   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 06:00",
-   "published_iso": "2026-08-04T21:00:00+00:00"
   }
  ]
 }
