@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T11:42:28+00:00",
+ "generated_at": "2026-08-12T13:02:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,9 +8,25 @@
  ],
  "items": [
   {
+   "title": "案内機能強化へ意見交換 洞爺湖温泉観光協会、外国人モニターら招き",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRkZ3MFM4UktaWHNndmxzR3pFS2FZRHdIbkpzdjBxZmdJTDc5TmtYR1I1cG44WUw4ODMyNzdGMDlOLWZoZHVGUmVGWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-12 21:00",
+   "published_iso": "2026-08-12T12:00:00+00:00"
+  },
+  {
+   "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-12 20:13",
+   "published_iso": "2026-08-12T11:13:00+00:00"
+  },
+  {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LSFNjNVFXSkY2dUJaclQzbk95TTN1a1VzTjNOTmROQ1hGdVFzR1YwYkdMdGgwbmVYZ2pvSHY0aFd5VVo1Q21QVDkzM1dBeE84YVQ2LUdfMzhaNDdDelFweFkwUDh6OWU0UUhEcUdybVFlUHRrc0VIeUJpb3dBWnM?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -122,7 +138,7 @@
   {
    "title": "外国人採用アンケ答申 知事の主張に「憤り」 申立人、「助言」を非難 ／三重",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mTi1QaFF6clgwZ0NVUlZrWHZNQ2xrNlBQMW1WT0VVcG0zSjlOMU1PVE5VTDE4SkVmc2JuRTc5QmpIWFB5ajMyeXgzWFNfZW0zSE1MMWlQT2NjSldvU1lXdzMzVWdWeEp2?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 05:05",
    "published_iso": "2026-08-10T20:05:47+00:00"
@@ -138,7 +154,7 @@
   {
    "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」築く一助に 道具など貴重な資料展示 東村山 ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 02:00",
    "published_iso": "2026-08-10T17:00:28+00:00"
@@ -217,7 +233,7 @@
   },
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3NEMHhCTXdKYi1ITERxalFSV0VzeThlZURFOWhSZjYzUGRfU2w3TFB5dW5nV3c4cTNCWmk2aDVtemY3SmJxWmVLd25teFZ5aVJUcEVVOFBoY3BwbHdoaTRuYV9pTS1WUGdfLTdiMGcxZGlLZlU2ZDlNQWs0VDdweFR3?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
@@ -226,7 +242,7 @@
   {
    "title": "多文化共生の基本法制定を 知事、国に要請 ／静岡",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWDdlQjVlX2FoUTFkeGNNZ3BBeFNCdzdKOTliX0pCTzFodWZVaHdGaWtoNzFHQ252dWhoSU5kb3Nfc3JyTlhpdnpKRlZqOFRBNVF0ZE9lT1ZYZDFsTHRVUVNfRWI0WFM2?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:31+00:00"
@@ -282,7 +298,7 @@
   {
    "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 11:35",
    "published_iso": "2026-08-08T02:35:43+00:00"
@@ -334,14 +350,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
-  },
-  {
-   "title": "越境移民の死者100人に スペイン飛び地、政府批判",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TWWI4TTJpVFJrNHVXODBuVzRoMHVJcm1hZmVVYlhwQmwyRjY2LUpISkdvSUdRQ0xlYnVhT00wTmt3R18taEw5VWFZTlJ0NE5hUEZDTHJEWERWZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-07 05:48",
-   "published_iso": "2026-08-06T20:48:23+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-04 17:00",
    "published_iso": "2026-08-04T08:00:00+00:00"
-  },
-  {
-   "title": "永住許可、「日本人世帯の平均年収以上」要件に 入管庁が指針改定へ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jVWd1cGlGNXNmS2xCeFhzcnRXVlAwcGRmZERpR3NYdzliTDlBaDgxSmJBaEVzOS1oOXRLSXhmblhYUWFOakxNSy11cTQ1UzFfUTVGS0pqR3IzQmlRWGVSVGUtSlFXMGNwZ0UtNg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-04 15:30",
-   "published_iso": "2026-08-04T06:30:00+00:00"
   }
  ]
 }
