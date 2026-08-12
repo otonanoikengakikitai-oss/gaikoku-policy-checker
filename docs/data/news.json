@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T23:36:29+00:00",
+ "generated_at": "2026-08-12T01:43:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,7 +34,7 @@
   {
    "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
@@ -64,17 +64,9 @@
    "published_iso": "2026-08-11T00:26:45+00:00"
   },
   {
-   "title": "米が17万5000件超のビザ取り消し カーク氏射殺を称賛の外国人や出産ツーリズムも対象",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WTTd5RTN6aFFoSWV6SHRmYV9JRlhxVGI4VjctZExXb19WWHcxcjJGSjZQR2wzUnVTenpQZ3Q1NEx4YUR3QTV5UUpiUUJlNDZOVXp4S01DX05yYTVoRVNRdV94R3YweUZyMGYyaUVqYlgySlAyQ3c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-11 08:22",
-   "published_iso": "2026-08-10T23:22:06+00:00"
-  },
-  {
    "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 07:20",
    "published_iso": "2026-08-10T22:20:34+00:00"
@@ -112,12 +104,28 @@
    "published_iso": "2026-08-10T20:00:00+00:00"
   },
   {
+   "title": "バスケ・Bプレミアにはさまざま変更点 外国人選手登録、給与、試合日程にも",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vSm8wRDA3Z05QOThCQXlJRjdsRFljR3FBWmJpZHhJWXZuS044ZGxhYVFNUFJwM1cyd1BXY0JPdktVT2E5NGVOSVVJNEtIUFkxMkVTR1JkQjM?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-08-11 04:50",
+   "published_iso": "2026-08-10T19:50:00+00:00"
+  },
+  {
    "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」 築く一助に 道具など貴重な資料展示 東村山 ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-11 02:00",
    "published_iso": "2026-08-10T17:00:28+00:00"
+  },
+  {
+   "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRE8yZ0tTbEI5bWstQm1ucWZTLVl0LVBqM0tLMEhqWV9LdUctTUZKOE5XV0stbUZuU0FUWVBGR09wQ2lnTDFGZ0NOMG1PM1huMEl6MmdiYkI2ank0MUJoT25kVkZOM0dtQVE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-10 20:00",
+   "published_iso": "2026-08-10T11:00:01+00:00"
   },
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
@@ -166,14 +174,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
-  },
-  {
-   "title": "「脱税」と「在留資格」 中国人同士の利害一致 刑事告発の中国人経営企業の悪質スキーム",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVE55QURBbHVoNEVzcGtsendsR2htdUUtakhHci15T09BT0R5MlJXTW1QTFVER2lFMzd4V1BEdk9aQkR5eGo4Um0xUWRlMnVfSGJyNnpfdktNX29nUl9WeTNaY1JfRlRTS0MzTnBmbkloSklWOUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-10 08:00",
-   "published_iso": "2026-08-09T23:00:00+00:00"
   },
   {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
@@ -329,8 +329,8 @@
   },
   {
    "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyTE1na3VHbzVqWTNsSC04YnAyRHBTZmJsa2lGY050QU5CRUZrXzQ2ZWUzTlg0U2labUp4STc5MmhFdWVPeEJMV0ZHYzk4V25LWmdKZ0M2OA?oc=5",
-   "source": "TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
@@ -342,14 +342,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-07 11:11",
    "published_iso": "2026-08-07T02:11:57+00:00"
-  },
-  {
-   "title": "スペインへの越境移民、死者100人に 対応巡り政府に批判",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BU2h5S2FzZmZlVzZENDBQYm5nOXhsTWtqNDhCVWdIWjc1RmlOZjl5djVXUFRnRGhNWHcwajF3eFVzWElIWmN6M05ELThiX1lvSDNpZUJWVm1JclZlLVZGSXRFa0FZMWFB?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-07 10:48",
-   "published_iso": "2026-08-07T01:48:28+00:00"
   },
   {
    "title": "豪で与党抑え首位の極右政党 移民制限だけではない支持の理由",
@@ -374,6 +366,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-07 02:00",
    "published_iso": "2026-08-06T17:00:00+00:00"
+  },
+  {
+   "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-06 19:29",
+   "published_iso": "2026-08-06T10:29:00+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
