@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T14:54:12+00:00",
+ "generated_at": "2026-08-12T15:56:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "［深層ＮＥＷＳ］スペイン飛び地に不法移民殺到「機会があるなら行ってしまえということかも」…岡部みどり上智大教授",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41UnBIVm1kcS1hcG43NFRIT0NpMUdGMGNlREZqOTNrV2w2b0h1WHoxb2cyS3FQM09YOXJjRVVxQmoya01RSzNibXZhOVBKN2pqMGh0OVgzVDJoUkdGUGJPUlZn?oc=5",
+   "source": "yomiuri.co.jp",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-13 00:28",
+   "published_iso": "2026-08-12T15:28:00+00:00"
+  },
   {
    "title": "案内機能強化へ意見交換 洞爺湖温泉観光協会、外国人モニターら招き",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRkZ3MFM4UktaWHNndmxzR3pFS2FZRHdIbkpzdjBxZmdJTDc5TmtYR1I1cG44WUw4ODMyNzdGMDlOLWZoZHVGUmVGWQ?oc=5",
@@ -18,7 +26,7 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
@@ -146,7 +154,7 @@
   {
    "title": "静岡：交通安全ブラジル人に 国ルールに違い 外国人指導員が巡る ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2bHVHNUgtN0R0TXZFMGhfVGg0X3lUeG9yeDJHU2pHQUdyTW5TNW9YNHNvZVRLbDM2Ty1Rd2FKQWg3N1Z4UkNRWGVyejFQc3NMZ2I3VGxKVDFIaHlhX1NqTFVWMUUwaGVOdEFKb1hGRjVVVG12?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-11 05:00",
    "published_iso": "2026-08-10T20:00:00+00:00"
@@ -250,7 +258,7 @@
   {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
@@ -272,17 +280,9 @@
    "published_iso": "2026-08-08T08:34:00+00:00"
   },
   {
-   "title": "韓国サッカー協会が外国人審判ら２０人に性接待疑惑、日本人含まれる可能性…Ｗ杯や五輪の予選に合わせ",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tRmJULWQxRm1IcDVnc0JSVUtkclhZNGhQeDFOMTBnY1RmMnIzR25hemoyZklCS0V5cTJtSjM1SEx6TFIyZ1RvMzZpM2M0Qi1SOUU1d2tUc1U4NHBGTTZRZER3?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-08 17:20",
-   "published_iso": "2026-08-08T08:20:00+00:00"
-  },
-  {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
@@ -352,12 +352,12 @@
    "published_iso": "2026-08-07T07:26:00+00:00"
   },
   {
-   "title": "スペインへの越境移民、死者100人に 対応巡り政府に批判",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BU2h5S2FzZmZlVzZENDBQYm5nOXhsTWtqNDhCVWdIWjc1RmlOZjl5djVXUFRnRGhNWHcwajF3eFVzWElIWmN6M05ELThiX1lvSDNpZUJWVm1JclZlLVZGSXRFa0FZMWFB?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-07 10:48",
-   "published_iso": "2026-08-07T01:48:28+00:00"
+   "title": "共生社会実現や手話の浸透決意 ひろめる会が報告会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVMjlydlU3YWEtQ05vQjY5SnhSaEJ5TTJNekNxY0ZDYTVUTUFRRFBqWUE1d04zY3VLQ1FPQ0Y1RFhUcm55cWhuMklvNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-07 11:11",
+   "published_iso": "2026-08-07T02:11:57+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
