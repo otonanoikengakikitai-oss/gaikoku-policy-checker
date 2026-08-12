@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T17:59:05+00:00",
+ "generated_at": "2026-08-12T19:12:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "移民と社会：サヨナラ、40年住んだ日本（その2止） 帰国か永住か、揺れる思い 高齢化進む在日フィリピン人女性",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BbmRmTHQ0aGVPXzRlV3U3X195ZVdlckw2UHRxNF8yYVdhRFoxZjZMRExEaFZiZ09USXJwOWtWR0t2WXdFTUNzV2Y5d1JwYW8tbFVXU21PTmE4MFhqUFFKMVE4a3ZSLWFD?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-13 02:00",
+   "published_iso": "2026-08-12T17:00:44+00:00"
+  },
   {
    "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
@@ -16,12 +24,20 @@
    "published_iso": "2026-08-12T17:00:00+00:00"
   },
   {
-   "title": "案内機能強化へ意見交換 洞爺湖温泉観光協会、外国人モニターら招き",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MRkZ3MFM4UktaWHNndmxzR3pFS2FZRHdIbkpzdjBxZmdJTDc5TmtYR1I1cG44WUw4ODMyNzdGMDlOLWZoZHVGUmVGWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-12 21:00",
-   "published_iso": "2026-08-12T12:00:00+00:00"
+   "title": "［深層ＮＥＷＳ］スペイン飛び地に不法移民殺到「機会があるなら行ってしまえということかも」…岡部みどり上智大教授",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41UnBIVm1kcS1hcG43NFRIT0NpMUdGMGNlREZqOTNrV2w2b0h1WHoxb2cyS3FQM09YOXJjRVVxQmoya01RSzNibXZhOVBKN2pqMGh0OVgzVDJoUkdGUGJPUlZn?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-13 00:28",
+   "published_iso": "2026-08-12T15:28:00+00:00"
+  },
+  {
+   "title": "スウェーデン首相、スペインの不法移民の合法化を批判",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMGV1bDlzcUFxdXU0a3hQN3FwRVBWSWRGTGhoNmJkeGJHMmlNaGpQRzZMQ1pLallESzBVLTNaaEVmX0lobmF3Nlk4aFJsN1ZuRkN3bll3UzNaQVNyTkx0YkJIYk8zWjAtVEhydzQwVVpsYXM2QVhj?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-13 00:00",
+   "published_iso": "2026-08-12T15:00:00+00:00"
   },
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
@@ -168,14 +184,6 @@
    "published_iso": "2026-08-10T17:00:28+00:00"
   },
   {
-   "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRE8yZ0tTbEI5bWstQm1ucWZTLVl0LVBqM0tLMEhqWV9LdUctTUZKOE5XV0stbUZuU0FUWVBGR09wQ2lnTDFGZ0NOMG1PM1huMEl6MmdiYkI2ank0MUJoT25kVkZOM0dtQVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-10 20:00",
-   "published_iso": "2026-08-10T11:00:01+00:00"
-  },
-  {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
    "source": "日テレNEWS NNN",
@@ -278,6 +286,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
+  },
+  {
+   "title": "韓国サッカー協会が外国人審判ら２０人に性接待疑惑、日本人含まれる可能性…Ｗ杯や五輪の予選に合わせ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tRmJULWQxRm1IcDVnc0JSVUtkclhZNGhQeDFOMTBnY1RmMnIzR25hemoyZklCS0V5cTJtSjM1SEx6TFIyZ1RvMzZpM2M0Qi1SOUU1d2tUc1U4NHBGTTZRZER3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-08 17:20",
+   "published_iso": "2026-08-08T08:20:00+00:00"
   },
   {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-06 02:00",
    "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
-   "title": "スペイン移民突入、実は7万2000人 EU緊急会合後、内相明かす モロッコ意図は不問",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQnZsMy1DNUlEWjhGeERSMk5UOWpCWVpUd0x4dkhkS016MHRSaF9nZkhQZFBOZERzcE9LU2hpMExxdjRqczRIRzV2ZmlHWGU0VEVQRDNFSUE2WmtqV3dWa0wwZHJxdVdyb1Vlc09kckxBZ3pjcXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-05 09:24",
-   "published_iso": "2026-08-05T00:24:42+00:00"
-  },
-  {
-   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
-   "source": "東京新聞デジタル",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 06:00",
-   "published_iso": "2026-08-04T21:00:00+00:00"
   }
  ]
 }
