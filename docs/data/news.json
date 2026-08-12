@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T13:02:35+00:00",
+ "generated_at": "2026-08-12T14:54:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -160,6 +160,14 @@
    "published_iso": "2026-08-10T17:00:28+00:00"
   },
   {
+   "title": "中学生助けようと飛び込んだ「外国人研修生」20回忌 父の教え胸に [宮崎県]",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRE8yZ0tTbEI5bWstQm1ucWZTLVl0LVBqM0tLMEhqWV9LdUctTUZKOE5XV0stbUZuU0FUWVBGR09wQ2lnTDFGZ0NOMG1PM1huMEl6MmdiYkI2ank0MUJoT25kVkZOM0dtQVE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-10 20:00",
+   "published_iso": "2026-08-10T11:00:01+00:00"
+  },
+  {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
    "source": "日テレNEWS NNN",
@@ -240,14 +248,6 @@
    "published_iso": "2026-08-08T22:06:00+00:00"
   },
   {
-   "title": "多文化共生の基本法制定を 知事、国に要請 ／静岡",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWDdlQjVlX2FoUTFkeGNNZ3BBeFNCdzdKOTliX0pCTzFodWZVaHdGaWtoNzFHQ252dWhoSU5kb3Nfc3JyTlhpdnpKRlZqOFRBNVF0ZE9lT1ZYZDFsTHRVUVNfRWI0WFM2?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-09 05:00",
-   "published_iso": "2026-08-08T20:00:31+00:00"
-  },
-  {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
    "source": "読売新聞",
@@ -270,6 +270,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-08 17:34",
    "published_iso": "2026-08-08T08:34:00+00:00"
+  },
+  {
+   "title": "韓国サッカー協会が外国人審判ら２０人に性接待疑惑、日本人含まれる可能性…Ｗ杯や五輪の予選に合わせ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tRmJULWQxRm1IcDVnc0JSVUtkclhZNGhQeDFOMTBnY1RmMnIzR25hemoyZklCS0V5cTJtSjM1SEx6TFIyZ1RvMzZpM2M0Qi1SOUU1d2tUc1U4NHBGTTZRZER3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-08 17:20",
+   "published_iso": "2026-08-08T08:20:00+00:00"
   },
   {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
@@ -302,14 +310,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-08 11:35",
    "published_iso": "2026-08-08T02:35:43+00:00"
-  },
-  {
-   "title": "難民の子どもへ服を届けよう 洲本の鮎原小 衣類の提供ボックス、市内4カ所に設置|淡路",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOVkxUk9mRk9WeWswZkM2VGpnRTRyQVl6eGRkR09oT3RqQmY1X2ozUUo0S1BEZ2ZhOFJFOXA0QjlLVUVGMkdSTU5sTUJxQllPYkM5WUVjaUZ0YkZKT3ZsRlBRYzRYMk9HVHk3VQ?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-08 05:10",
-   "published_iso": "2026-08-07T20:10:00+00:00"
   },
   {
    "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
@@ -350,6 +350,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-07 16:26",
    "published_iso": "2026-08-07T07:26:00+00:00"
+  },
+  {
+   "title": "スペインへの越境移民、死者100人に 対応巡り政府に批判",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BU2h5S2FzZmZlVzZENDBQYm5nOXhsTWtqNDhCVWdIWjc1RmlOZjl5djVXUFRnRGhNWHcwajF3eFVzWElIWmN6M05ELThiX1lvSDNpZUJWVm1JclZlLVZGSXRFa0FZMWFB?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-07 10:48",
+   "published_iso": "2026-08-07T01:48:28+00:00"
   },
   {
    "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
-  },
-  {
-   "title": "永住外国人の「生活保護」回避狙った政府 許可要件の厳格化案を発表 [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lemp3bENrcklTb2VMbVhGdFAzNDJ2ZjJIa3A5MnYyeTU5VGhxVTVnOFhxeVpxbGpNNDNUMERWWTZRUGtRTUlqQ3ZqMFAybnA2TDNKWnFoTkxBeEhWTDFQN2xUQk5qM1U?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-04 17:00",
-   "published_iso": "2026-08-04T08:00:00+00:00"
   }
  ]
 }
