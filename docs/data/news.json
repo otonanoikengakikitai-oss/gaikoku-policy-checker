@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T04:05:10+00:00",
+ "generated_at": "2026-08-12T06:11:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "スペイン、動揺する移民寛容政策 7万人殺到で排外主義再燃に懸念",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-12 14:20",
+   "published_iso": "2026-08-12T05:20:49+00:00"
+  },
   {
    "title": "インド観光、二重価格の価格差拡大 タージマハルの外国人料金は22倍",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CMUoxY3VkLUx0bEliMmo2VlNYNVNaTHkxdUY2UEtCLUZXc0RqSlJjLTNETkp4WEtxRHdyZzBkdTdIRDVlZzJHTlhDcUV5bVBZYjFHc3NlV0dVUTdEbEJfc1RTbUFLUHFzNUE0YQ?oc=5",
@@ -42,7 +50,7 @@
   {
    "title": "広島市の外国人住民、10年間で1・5倍の2万4769人 共生社会へ市が支援策検討",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TaHc0c2ZIX244eFZ5bHVkSEpEX1haeHR0Q0hsb1NfQ1JXbEZ6WGpWTGNqM0M0VjB1OWNpM0FSX2ozR0ViclYyVUdqRQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-11 12:11",
    "published_iso": "2026-08-11T03:11:00+00:00"
@@ -50,7 +58,7 @@
   {
    "title": "熊本地震の外国人支援へ助成 岡山５団体に１１日から橋本財団",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qVURwc2RNc29vYVhSTnFRRmRQMzlNT3BOODlWNml5QTBkTmNJOUVWVXhFOFA5VWZmQ2xVVDlmVWtFVUs2ZFlUbmdfUQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-11 10:00",
    "published_iso": "2026-08-11T01:00:00+00:00"
@@ -82,7 +90,7 @@
   {
    "title": "外国人家族の労働を縛る「28時間の壁」 乗り越え人材確保へ、岐阜県飛騨市の試み",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MOWtWc21BZkJwUzF5TURFdWU1WUZHeHNQSjg5N0lZZlRBblItZEc0Rzc3V3FDejVQM0kzdG1VQWdXUi05dGprNktkMU1Ta3hYT09pYQ?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-11 05:10",
    "published_iso": "2026-08-10T20:10:00+00:00"
@@ -104,7 +112,7 @@
    "published_iso": "2026-08-10T20:00:00+00:00"
   },
   {
-   "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」 築く一助に 道具など貴重な資料展示 東村山 ／東京",
+   "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」築く一助に 道具など貴重な資料展示 東村山 ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
@@ -130,7 +138,7 @@
   {
    "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③中国",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-10 18:21",
    "published_iso": "2026-08-10T09:21:57+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdWpiOFpsZVI0OHpYQnhwcWVlRTd6RWlwbnFhZjkyeVBHaldZNWxjMmgxaW1KM1pKZVdpUUp4YktTNXI5NHlsdkw4UQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-09 17:05",
    "published_iso": "2026-08-09T08:05:00+00:00"
@@ -362,7 +370,7 @@
   {
    "title": "取材メモプラス 昭和の特定技能外国人 人手不足解消に期待",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlIyTzFVYVFoYjRmVXdlc21HcjFqRFlMc2tfQVpwZEJzTXBDUFdGMU1veG51Mzlpd215VVJGVjVjQWo0Q2ZxY0hsbw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-08-06 11:00",
    "published_iso": "2026-08-06T02:00:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-05 06:00",
    "published_iso": "2026-08-04T21:00:00+00:00"
-  },
-  {
-   "title": "永住外国人の「生活保護」回避狙った政府 許可要件の厳格化案を発表 [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lemp3bENrcklTb2VMbVhGdFAzNDJ2ZjJIa3A5MnYyeTU5VGhxVTVnOFhxeVpxbGpNNDNUMERWWTZRUGtRTUlqQ3ZqMFAybnA2TDNKWnFoTkxBeEhWTDFQN2xUQk5qM1U?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-04 17:00",
-   "published_iso": "2026-08-04T08:00:00+00:00"
   }
  ]
 }
