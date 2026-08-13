@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T04:09:19+00:00",
+ "generated_at": "2026-08-13T06:14:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "横転事故の後、路上にいたか 南九州道で車にはねられ外国籍の男性技能実習生が死亡",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVFXZXFmSlk0SjJnREo2aEI1OUtGekl0eEZNZTd1bE5lQm8yRWtlMXhyRENCT0VzbEpWN3Axby1IQVJmNVNyU3ZET19QRWFYRzViY1ZaZ0JfQmlOclpxSnRxZXR2U1FmSVJMYzRnRU16UVpTUXZMOFFJemtLbkQwWU81YWVscVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-13 12:19",
+   "published_iso": "2026-08-13T03:19:00+00:00"
+  },
+  {
+   "title": "91歳女性遺棄容疑でベトナム人の男を再逮捕 殺人についても供述 在留資格なし",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uUE5qUnJBNG1UZ1BsZ3liYXRVUDBWUEhuWWJFUlRreHdUM0pDRmRXcVFRNmlXUEZqM2J1Z042X3BVeU5BX0xOaTZBckY1MHRWN3pHbHNzSFVrdlpVbTIyMXJmbks2VFJjS2lyc3BHMmp2Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-13 11:58",
+   "published_iso": "2026-08-13T02:58:00+00:00"
+  },
   {
    "title": "「10分泳げば欧州」スペイン殺到の不法移民、数千人滞留 住民の不満募る",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWF9kRTg2Qm9fNXIzQXVPSktCdWVZSFdrck9wVWxZZHBoN29BeXNkb0xNd205dDc1d0U1cGxrdnRkY1Z4SExtcTNmT0cxUEx1TlVGcDVlQU0xdm9mLXNLS2FCcHh1dFhETEFKZA?oc=5",
@@ -16,20 +32,12 @@
    "published_iso": "2026-08-13T02:00:00+00:00"
   },
   {
-   "title": "蘇生会総合病院、スリランカ人技能実習生6名を受け入れ 第6期生として医療・介護現場へ",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95OThhZ1oxZ0pBa25MU0ptNlZqZnBLYmFVelBqa0hBVDdaMjV1OThYbE96TWhDbXpXVC04Ui1mR01rZjV3UU1WUEJKcnhrOXNlblBzZlExX2QxV0VNdTdkM3pVOXRfeU9RLVg0?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-13 10:15",
-   "published_iso": "2026-08-13T01:15:00+00:00"
-  },
-  {
-   "title": "プレスリリース：［特許取得］EduTechJapan、「日本語教育の参照枠」に準拠した成績連動型Can-do自動判定ロジックの特許ライセンスを完全無償公開（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMW1yd2U5S094bU9mZzlfcFJwSDJ4azQyU19qLUdYS1l0STRONmJwdjNoelY2eU1acWExaGJtNXROUUpWaG9hcElvV193V21NbmRqX3p3bFBCNGJhdmh2WlIyN1pYTGtC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-13 09:52",
-   "published_iso": "2026-08-13T00:52:21+00:00"
+   "title": "ベトナム料理店で不法就労疑い…在留資格超え、週28時間超の労働 会社役員の男を再逮捕 従業員は「生活費のため」働いていたと供述 労働時間の虚偽申告で過去にも2度逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lMVV6Nkc3ejBkR2kxTDRqVHBfa2I4SDFhcnI0SlVXdUxIMzY3Zl95cElZa1FaRWhZWTR1dlFPRDUyTjZOelJvUGU1WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-13 08:17",
+   "published_iso": "2026-08-12T23:17:00+00:00"
   },
   {
    "title": "＜正論＞外国人材を惹きつける戦略を 東京大学教授・阿古智子",
@@ -41,7 +49,7 @@
   },
   {
    "title": "外国人政策の厳格化加速 高市政権「永住」厳しく―「選ばれぬ国に」懸念の声",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCYlJCVlA4V0llTnBCN3l4OFVLU1BKdTZWNXRYQnZPUGR6d0YxYVBLLUs1eDIzNjA2WGItR2wyYllzZWZ4LXo3NGg4N2VBRUJJNFNtbzNGendFUmprYkpVRHNuNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGxyUGtGWEhZOEItR1hSMlFCZjZRMHBiTWJwYllZUjEwT2Q1QlZVUGdoTlNhdl9tcUIwOFZ5d3VOcXFSSF9ZWnNkeVQ2eUJKbTJ3d3dZRXMwcjk4OW5PWkg0c1lzZW1YMlVvVXpqczBWLTM2R1g3TFp2TzFRZUtLWXNB?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-13 07:08",
@@ -98,15 +106,15 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
   },
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LSFNjNVFXSkY2dUJaclQzbk95TTN1a1VzTjNOTmROQ1hGdVFzR1YwYkdMdGgwbmVYZ2pvSHY0aFd5VVo1Q21QVDkzM1dBeE84YVQ2LUdfMzhaNDdDelFweFkwUDh6OWU0UUhEcUdybVFlUHRrc0VIeUJpb3dBWnM?oc=5",
-   "source": "時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -218,7 +226,7 @@
   {
    "title": "静岡：交通安全ブラジル人に 国ルールに違い 外国人指導員が巡る ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2bHVHNUgtN0R0TXZFMGhfVGg0X3lUeG9yeDJHU2pHQUdyTW5TNW9YNHNvZVRLbDM2Ty1Rd2FKQWg3N1Z4UkNRWGVyejFQc3NMZ2I3VGxKVDFIaHlhX1NqTFVWMUUwaGVOdEFKb1hGRjVVVG12?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-11 05:00",
    "published_iso": "2026-08-10T20:00:00+00:00"
@@ -288,14 +296,6 @@
    "published_iso": "2026-08-09T12:06:49+00:00"
   },
   {
-   "title": "那須岳で山岳事故、技能実習生女性が骨折疑い",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdWpiOFpsZVI0OHpYQnhwcWVlRTd6RWlwbnFhZjkyeVBHaldZNWxjMmgxaW1KM1pKZVdpUUp4YktTNXI5NHlsdkw4UQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-09 17:05",
-   "published_iso": "2026-08-09T08:05:00+00:00"
-  },
-  {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3NEMHhCTXdKYi1ITERxalFSV0VzeThlZURFOWhSZjYzUGRfU2w3TFB5dW5nV3c4cTNCWmk2aDVtemY3SmJxWmVLd25teFZ5aVJUcEVVOFBoY3BwbHdoaTRuYV9pTS1WUGdfLTdiMGcxZGlLZlU2ZDlNQWs0VDdweFR3?oc=5",
    "source": "時事ドットコム",
@@ -314,7 +314,7 @@
   {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
