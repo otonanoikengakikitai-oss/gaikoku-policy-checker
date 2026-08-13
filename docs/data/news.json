@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T23:37:39+00:00",
+ "generated_at": "2026-08-13T01:45:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "蘇生会総合病院、スリランカ人技能実習生6名を受け入れ 第6期生として医療・介護現場へ",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95OThhZ1oxZ0pBa25MU0ptNlZqZnBLYmFVelBqa0hBVDdaMjV1OThYbE96TWhDbXpXVC04Ui1mR01rZjV3UU1WUEJKcnhrOXNlblBzZlExX2QxV0VNdTdkM3pVOXRfeU9RLVg0?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-13 10:15",
+   "published_iso": "2026-08-13T01:15:00+00:00"
+  },
+  {
+   "title": "プレスリリース：［特許取得］EduTechJapan、「日本語教育の参照枠」に準拠した成績連動型Can-do自動判定ロジックの特許ライセンスを完全無償公開（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMW1yd2U5S094bU9mZzlfcFJwSDJ4azQyU19qLUdYS1l0STRONmJwdjNoelY2eU1acWExaGJtNXROUUpWaG9hcElvV193V21NbmRqX3p3bFBCNGJhdmh2WlIyN1pYTGtC?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-13 09:52",
+   "published_iso": "2026-08-13T00:52:21+00:00"
+  },
   {
    "title": "ベトナム料理店で不法就労疑い…在留資格超え、週28時間超の労働 会社役員の男を再逮捕 従業員は「生活費のため」働いていたと供述 労働時間の虚偽申告で過去にも2度逮捕",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lMVV6Nkc3ejBkR2kxTDRqVHBfa2I4SDFhcnI0SlVXdUxIMzY3Zl95cElZa1FaRWhZWTR1dlFPRDUyTjZOelJvUGU1WQ?oc=5",
@@ -22,6 +38,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-13 08:00",
    "published_iso": "2026-08-12T23:00:00+00:00"
+  },
+  {
+   "title": "外国人政策の厳格化加速 高市政権「永住」厳しく―「選ばれぬ国に」懸念の声",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGxyUGtGWEhZOEItR1hSMlFCZjZRMHBiTWJwYllZUjEwT2Q1QlZVUGdoTlNhdl9tcUIwOFZ5d3VOcXFSSF9ZWnNkeVQ2eUJKbTJ3d3dZRXMwcjk4OW5PWkg0c1lzZW1YMlVvVXpqczBWLTM2R1g3TFp2TzFRZUtLWXNB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-13 07:08",
+   "published_iso": "2026-08-12T22:08:00+00:00"
   },
   {
    "title": "移民と社会：サヨナラ、40年住んだ日本（その1） フィリピン人女性、終活に直面",
@@ -42,7 +66,7 @@
   {
    "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 02:00",
    "published_iso": "2026-08-12T17:00:00+00:00"
@@ -50,7 +74,7 @@
   {
    "title": "スウェーデン首相、スペインの不法移民の合法化を批判",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMGV1bDlzcUFxdXU0a3hQN3FwRVBWSWRGTGhoNmJkeGJHMmlNaGpQRzZMQ1pLallESzBVLTNaaEVmX0lobmF3Nlk4aFJsN1ZuRkN3bll3UzNaQVNyTkx0YkJIYk8zWjAtVEhydzQwVVpsYXM2QVhj?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 00:00",
    "published_iso": "2026-08-12T15:00:00+00:00"
@@ -58,7 +82,7 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
@@ -66,7 +90,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LSFNjNVFXSkY2dUJaclQzbk95TTN1a1VzTjNOTmROQ1hGdVFzR1YwYkdMdGgwbmVYZ2pvSHY0aFd5VVo1Q21QVDkzM1dBeE84YVQ2LUdfMzhaNDdDelFweFkwUDh6OWU0UUhEcUdybVFlUHRrc0VIeUJpb3dBWnM?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -82,7 +106,7 @@
   {
    "title": "スペイン、揺らぐ移民寛容政策 7万人殺到で排外主義再燃に懸念",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-12 14:20",
    "published_iso": "2026-08-12T05:20:49+00:00"
@@ -90,7 +114,7 @@
   {
    "title": "インド観光、二重価格の価格差拡大 タージマハルの外国人料金は22倍",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CMUoxY3VkLUx0bEliMmo2VlNYNVNaTHkxdUY2UEtCLUZXc0RqSlJjLTNETkp4WEtxRHdyZzBkdTdIRDVlZzJHTlhDcUV5bVBZYjFHc3NlV0dVUTdEbEJfc1RTbUFLUHFzNUE0YQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-12 02:00",
    "published_iso": "2026-08-11T17:00:00+00:00"
@@ -98,7 +122,7 @@
   {
    "title": "去年県内を訪れた外国人観光客の旅行消費額は約45億円 東北で最少 唯一前年を下回る 秋田",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkdocktrSGFpUDZXLXljRG0tRk4weDJpaTJNY2hOS2ZFODhGMUpRWEtPc2c1VUowMXRxc29STHpZTlBBa1FWZHpSb0xZcmRWbERzLUZwTjlUakp4ZU5yT3lnVVRfU1pkMTdsUmp2Qk9UZUFtdDVzaUlnSEZWNkoxMXRHLTcwMEk?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-11 18:05",
    "published_iso": "2026-08-11T09:05:00+00:00"
@@ -106,7 +130,7 @@
   {
    "title": "外国人の子の宿題サポート 加須市教育センター「友達と楽しく実験」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OSkc1RkVBM2FZYVJENUVYMk8yMnV5YVRFUFhNU3pSMHUtbklYTkZ6dDJWbWdiemVZME1XejlsSjNDai15UWRmUTJ0NTRXQmFEbThn?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-11 14:46",
    "published_iso": "2026-08-11T05:46:09+00:00"
@@ -114,7 +138,7 @@
   {
    "title": "〈社説〉永住許可厳格化 「選ばれぬ国」促す愚策",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JSkxPT2hCUTNXSWh5ZU1vbDFDTXlRa2dsRFpmQUhaNC0xQjBtUnhjR3ZZUE9RTlIzMGxUYjJXbW5hSjIwWmRMbFdTa2VHeUc4RmtV?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-11 14:14",
    "published_iso": "2026-08-11T05:14:56+00:00"
@@ -126,6 +150,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
+  },
+  {
+   "title": "広島市の外国人住民、10年間で1・5倍の2万4769人 共生社会へ市が支援策検討",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TaHc0c2ZIX244eFZ5bHVkSEpEX1haeHR0Q0hsb1NfQ1JXbEZ6WGpWTGNqM0M0VjB1OWNpM0FSX2ozR0ViclYyVUdqRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-11 12:11",
+   "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
    "title": "熊本地震の外国人支援へ助成 岡山５団体に１１日から橋本財団",
@@ -152,17 +184,9 @@
    "published_iso": "2026-08-10T22:20:34+00:00"
   },
   {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-08-11 06:28",
-   "published_iso": "2026-08-10T21:28:00+00:00"
-  },
-  {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVEyRWxxWWJRbTV1cXppV0NJNmo0X1VOVHM4OElEU2RXWVJqN2E5WFBTdFdDR2hIOXJ3YWdjUUhpQzY1UGdQRWFwRE9ZRTBISmp0dE5TRUl0Zmt6dXV1RGlOaGtaS3l6Snh6WW91RzJjcDBEanNTTTZ6WklMdUNZM0RB?oc=5",
-   "source": "jiji.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
@@ -186,7 +210,7 @@
   {
    "title": "静岡：交通安全ブラジル人に 国ルールに違い 外国人指導員が巡る ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2bHVHNUgtN0R0TXZFMGhfVGg0X3lUeG9yeDJHU2pHQUdyTW5TNW9YNHNvZVRLbDM2Ty1Rd2FKQWg3N1Z4UkNRWGVyejFQc3NMZ2I3VGxKVDFIaHlhX1NqTFVWMUUwaGVOdEFKb1hGRjVVVG12?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-11 05:00",
    "published_iso": "2026-08-10T20:00:00+00:00"
@@ -202,7 +226,7 @@
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-10 19:58",
    "published_iso": "2026-08-10T10:58:00+00:00"
@@ -212,8 +236,8 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-08-10 18:21",
-   "published_iso": "2026-08-10T09:21:57+00:00"
+   "published": "2026-08-10 18:11",
+   "published_iso": "2026-08-10T09:11:00+00:00"
   },
   {
    "title": "急増する“特定技能”人材 定着へスタートアップと連携 愛媛",
@@ -248,17 +272,9 @@
    "published_iso": "2026-08-10T02:30:00+00:00"
   },
   {
-   "title": "「脱税」と「在留資格」 中国人同士の利害一致 刑事告発の中国人経営企業の悪質スキーム",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QVE55QURBbHVoNEVzcGtsendsR2htdUUtakhHci15T09BT0R5MlJXTW1QTFVER2lFMzd4V1BEdk9aQkR5eGo4Um0xUWRlMnVfSGJyNnpfdktNX29nUl9WeTNaY1JfRlRTS0MzTnBmbkloSklWOUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-10 08:00",
-   "published_iso": "2026-08-09T23:00:00+00:00"
-  },
-  {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYmNPZVp3YURfdEhsN2JMb1hSdjh4aC1mTV8wRVpQUldEczdjbTZZT091VTNRNmtfTXJuQS1OS2tnbDVjbkJFRWVfM1FWZHJ2bnNv?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞デジタル",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-09 21:06",
    "published_iso": "2026-08-09T12:06:49+00:00"
@@ -274,7 +290,7 @@
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3NEMHhCTXdKYi1ITERxalFSV0VzeThlZURFOWhSZjYzUGRfU2w3TFB5dW5nV3c4cTNCWmk2aDVtemY3SmJxWmVLd25teFZ5aVJUcEVVOFBoY3BwbHdoaTRuYV9pTS1WUGdfLTdiMGcxZGlLZlU2ZDlNQWs0VDdweFR3?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
    "published_iso": "2026-08-08T22:06:00+00:00"
@@ -290,7 +306,7 @@
   {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
@@ -304,17 +320,9 @@
    "published_iso": "2026-08-08T09:57:49+00:00"
   },
   {
-   "title": "日本人含む外国人審判に“性接待”か 韓国サッカー協会がHPに謝罪文「本来の機能を失い、惨めな状況」",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUlSZk1TRmNxMjIzQk5qM0x3SXpsSmdIb0JsRk44M1dBWlB6cUZVbDNzQ3VBSFJ2elFQbGRaQ2R2T1pQbkQ5YUktY1ViN1U3UUM2NzhWQjN3b2lYcTVFVGZEbk9QMzRvOUdLMThBNXJuYTkxZXpmT2lmYURfU2R4azhFb0o?oc=5",
-   "source": "news.ntv.co.jp",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-08 17:34",
-   "published_iso": "2026-08-08T08:34:00+00:00"
-  },
-  {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
@@ -338,7 +346,7 @@
   {
    "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-08 01:44",
    "published_iso": "2026-08-07T16:44:33+00:00"
@@ -346,7 +354,7 @@
   {
    "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-07 19:05",
    "published_iso": "2026-08-07T10:05:00+00:00"
@@ -368,20 +376,20 @@
    "published_iso": "2026-08-07T07:26:00+00:00"
   },
   {
-   "title": "スペインへの越境移民、死者100人に 対応巡り政府に批判",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BU2h5S2FzZmZlVzZENDBQYm5nOXhsTWtqNDhCVWdIWjc1RmlOZjl5djVXUFRnRGhNWHcwajF3eFVzWElIWmN6M05ELThiX1lvSDNpZUJWVm1JclZlLVZGSXRFa0FZMWFB?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-07 10:48",
-   "published_iso": "2026-08-07T01:48:28+00:00"
-  },
-  {
    "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-06 19:29",
    "published_iso": "2026-08-06T10:29:00+00:00"
+  },
+  {
+   "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-06 19:05",
+   "published_iso": "2026-08-06T10:05:21+00:00"
   },
   {
    "title": "外国人巡る入管職員常駐窓口、利用少なく 川口市「市民冷静」 埼玉 [埼玉県] [外国人政策 高市早苗総理 自民党]",
@@ -392,20 +400,12 @@
    "published_iso": "2026-08-06T02:15:00+00:00"
   },
   {
-   "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
-   "source": "nikkei.com",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 02:00",
-   "published_iso": "2026-08-05T17:00:00+00:00"
-  },
-  {
-   "title": "外国人「日本で働く意欲なくなる」 自活できても新要件「届かない」…永住許可厳格化で「日本離れ」か",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ES19MYi15X0pvZl94Z3ZrbF9iUVBYcUVjbGd0ZmpFUDhIbWxkWFIzYmxrb290dUZ2ekNSS0d5QW83TkgtZThtcThBS2tZcDdsb1lR?oc=5",
-   "source": "tokyo-np.co.jp",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-05 06:00",
-   "published_iso": "2026-08-04T21:00:00+00:00"
+   "title": "技能実習生が竿燈の差し手・はやし方に 秋田いすゞ自動車",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4OTMyUG16eE9xalVtUGhBUzdxRzNGcURtd3Nxc19qandRY0RiMkJIbU1iODg1ZzUtdTl0NjhscldDbmQ4RkJmUW9OMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-06 11:00",
+   "published_iso": "2026-08-06T02:00:00+00:00"
   }
  ]
 }
