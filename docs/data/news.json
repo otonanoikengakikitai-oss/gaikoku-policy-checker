@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T22:38:24+00:00",
+ "generated_at": "2026-08-13T23:37:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「食事難民」解消へ一役、帰省客や観光客でにぎわう 佐渡市相川で「さど食の陣・大北海道展」16日まで",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9waERVVU1XSUJzbndsblZQSmJtZjg3aVN2Y0RLR1dia29ST2s5V3N4TkxxblpvbkdqRjRIR1h5R3VrZXBsVng3OW9WSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-14 08:10",
+   "published_iso": "2026-08-13T23:10:00+00:00"
+  },
   {
    "title": "外国人、出国後住民税18％未納 制度周知が不十分",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaN0xKRXhRczRsTEViOW1NVExNMjdWMGRQVTFKT0p1cUZUaUxEekRFQVVfTjZyclBfcnNXX0RTeTJLemIwak54TXFXU0lPekUwQ2ROU3duVEQwVDMtYmxSWGNTQQ?oc=5",
@@ -56,14 +64,6 @@
    "published_iso": "2026-08-13T07:58:15+00:00"
   },
   {
-   "title": "特別休暇「親族死亡」の申請理由が事実と異なるとして大村入管センターが20代男性職員を減給1月の懲戒処分",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT1lJWmZqWUJHdHhBVkQ5RG5fU19NNm1VZEpjb0RTdlFfQTd3US1VaFlmVFEzTG1TLWRMN0tCRjVkWmFCYkc4OGFxelk2YVYyNzladUI5MWJyUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-13 16:37",
-   "published_iso": "2026-08-13T07:37:00+00:00"
-  },
-  {
    "title": "外国人受け入れ制限の検討が本格化しています",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaWY2U2s4aVlfS0R4akhhSl9wV1J6RU54Y3pBa1huXzBibDdRemxQTWNsVV9oRU90VmpZdjF2UGZ0ZVBObTJIbEFRbjVKVnBZQ3hUV01weVFaQ3VnSElnbmQ5ZzNvSGs?oc=5",
    "source": "やさしい朝日新聞",
@@ -74,7 +74,7 @@
   {
    "title": "社説：永住許可の厳格化 外国人共生を損なう指針案",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZW1YblVYbmJtUUtFMlhZNENETlZVNmcyN3hsZTFsUUpsVXhDYkI2TWJxcUM0MmlHSk5nTEw2YUxRdElxalVqT2dRTzd1dUxsT0MwZFJhdi0?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-13 16:00",
    "published_iso": "2026-08-13T07:00:00+00:00"
@@ -256,14 +256,6 @@
    "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
-   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-11 09:26",
-   "published_iso": "2026-08-11T00:26:45+00:00"
-  },
-  {
    "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -336,28 +328,12 @@
    "published_iso": "2026-08-10T07:00:00+00:00"
   },
   {
-   "title": "京都市伏見区の観光地、外国人観光客の「危険な歩き方」に京都府警が交通ルール呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSZEdEM1IyZTF1MUZPVV9xMnQxb3p3WVhLdldMbVcyMHk2a1hNbEs0YU1QOUpKV00ycFhELTNHdXFrdGZQNmpiXzZkYTkteWZZaXRSck9NdHQ?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-08-10 16:00",
-   "published_iso": "2026-08-10T07:00:00+00:00"
-  },
-  {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSnNRVkNLeGFWeUxUcnlpalp1XzVUWTN5NVJTS29kbjU0cG1vMDQzdFYxbnhJVXBNVEE3QVBmWlp2cVdMWDV5RE9lblF4WlZUTXZWSFA3SGJrdjctZTJkUXlEU3ZFVVk?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
-  },
-  {
-   "title": "欧州と不滅の「南北」問題 ジャナン・ガネシュ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11djdYU1R6WlNHc1NVOWxaNnNWUkRvalE5THNiRHVWYjlha09BSGdkNEZsUGVPTlV1LTFHbjdKck1MWHh1VVExempUUGZtelFBMDhlSHZzSFJqNDEtVGlCeXkteDFuSFM1QXhCNkw4bU5wR3BVUWxV?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-10 00:00",
-   "published_iso": "2026-08-09T15:00:00+00:00"
   },
   {
    "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
@@ -406,6 +382,30 @@
    "source_domain": "jiji.com",
    "published": "2026-08-08 15:10",
    "published_iso": "2026-08-08T06:10:00+00:00"
+  },
+  {
+   "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-08 15:00",
+   "published_iso": "2026-08-08T06:00:00+00:00"
+  },
+  {
+   "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-08 11:35",
+   "published_iso": "2026-08-08T02:35:43+00:00"
+  },
+  {
+   "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-08 01:44",
+   "published_iso": "2026-08-07T16:44:33+00:00"
   }
  ]
 }
