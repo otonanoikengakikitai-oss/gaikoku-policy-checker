@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T17:59:15+00:00",
+ "generated_at": "2026-08-13T20:38:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "移民と社会：運送業、増える特定技能ドライバー（その1）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaVI4Wk04aEg1dXdfRDhXS2lZUkxEeGlDRnJXdmxQaVpwTWxRUGJTQzljYzVLQnUzTGtYMVU3UmF2YzBwcVhJUzIxcXVhbEpQQ2J0QW1ja2pQUEFwN0pJeS1DM29JOENk?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-14 02:03",
+   "published_iso": "2026-08-13T17:03:14+00:00"
+  },
+  {
+   "title": "移民と社会：運送業、増える特定技能ドライバー（その2止） 夢は母国で運送会社",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94UHp0dE1jTGk2VFhOX1h6V1ItUFRDdmRESGVsY2VaNEt0T2Qya3I3N2tGUEhHWUJJRTJJODY2bDkyRHFEN0NyajdxQ3MxWnFtWWdHSms0TDN5Z2ZlTWVtN3pwTG1pa2pO?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-14 02:01",
+   "published_iso": "2026-08-13T17:01:32+00:00"
+  },
   {
    "title": "外国人の高度人材、認定の年収条件引き上げ 26年度にも省令改正",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM05SUDVEbmQ0Q1ZDR2lxRlQzcVZTdF9pa0pTWVVsZUk2Nm1HRGc5VjhHVVV4ekFabEtLeXlNR3gyVlVpY1hhOXZNdXlORXhHVzJiREU3MWVUM05kcUc1T3FHY3R5TlloRUVZOQ?oc=5",
@@ -32,6 +48,14 @@
    "published_iso": "2026-08-13T07:58:15+00:00"
   },
   {
+   "title": "特別休暇「親族死亡」の申請理由が事実と異なるとして大村入管センターが20代男性職員を減給1月の懲戒処分",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT1lJWmZqWUJHdHhBVkQ5RG5fU19NNm1VZEpjb0RTdlFfQTd3US1VaFlmVFEzTG1TLWRMN0tCRjVkWmFCYkc4OGFxelk2YVYyNzladUI5MWJyUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-13 16:37",
+   "published_iso": "2026-08-13T07:37:00+00:00"
+  },
+  {
    "title": "外国人受け入れ制限の検討が本格化しています",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaWY2U2s4aVlfS0R4akhhSl9wV1J6RU54Y3pBa1huXzBibDdRemxQTWNsVV9oRU90VmpZdjF2UGZ0ZVBObTJIbEFRbjVKVnBZQ3hUV01weVFaQ3VnSElnbmQ5ZzNvSGs?oc=5",
    "source": "やさしい朝日新聞",
@@ -42,7 +66,7 @@
   {
    "title": "社説：永住許可の厳格化 外国人共生を損なう指針案",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZW1YblVYbmJtUUtFMlhZNENETlZVNmcyN3hsZTFsUUpsVXhDYkI2TWJxcUM0MmlHSk5nTEw2YUxRdElxalVqT2dRTzd1dUxsT0MwZFJhdi0?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-13 16:00",
    "published_iso": "2026-08-13T07:00:00+00:00"
@@ -96,9 +120,17 @@
    "published_iso": "2026-08-13T02:00:00+00:00"
   },
   {
+   "title": "ベトナム料理店で不法就労疑い…在留資格超え、週28時間超の労働 会社役員の男を再逮捕 従業員は「生活費のため」働いていたと供述 労働時間の虚偽申告で過去にも2度逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lMVV6Nkc3ejBkR2kxTDRqVHBfa2I4SDFhcnI0SlVXdUxIMzY3Zl95cElZa1FaRWhZWTR1dlFPRDUyTjZOelJvUGU1WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-13 08:17",
+   "published_iso": "2026-08-12T23:17:00+00:00"
+  },
+  {
    "title": "＜正論＞外国人材を惹きつける戦略を 東京大学教授・阿古智子",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xNmxMRC1aWU5jS2RrdTJHZHNyMVlVVzBfbWoxUmJNUjVybVJFSllTN3BDT2RkVUNEWHpUZ3RfNi1FUHhqcW04WGs0aFhaUkwwTmlRRVNrWW8wTDloVDZzcmNFay1MSzFmSmFMVlFtNEJJeGpOWXc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-13 08:00",
    "published_iso": "2026-08-12T23:00:00+00:00"
@@ -106,7 +138,7 @@
   {
    "title": "外国人政策の厳格化加速 高市政権「永住」厳しく―「選ばれぬ国に」懸念の声",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGxyUGtGWEhZOEItR1hSMlFCZjZRMHBiTWJwYllZUjEwT2Q1QlZVUGdoTlNhdl9tcUIwOFZ5d3VOcXFSSF9ZWnNkeVQ2eUJKbTJ3d3dZRXMwcjk4OW5PWkg0c1lzZW1YMlVvVXpqczBWLTM2R1g3TFp2TzFRZUtLWXNB?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-13 07:08",
    "published_iso": "2026-08-12T22:08:00+00:00"
@@ -114,7 +146,7 @@
   {
    "title": "電気ショック手袋「GLOVE」、米当局が不法移民取り締まりで導入計画",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NUU1YXFSWFhiRGhCcDNMdEpnQmpVYmtBaHlTTnRTVm0yWEJIWFoxdm9xZjZQXzJJZDJOTGhZUkFvR2RBVWFVZFcxUmQxMXZDeVNqUGVrWEp6ZzBwY2s3TWVhRklyTGM?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-13 06:26",
    "published_iso": "2026-08-12T21:26:02+00:00"
@@ -162,7 +194,7 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
@@ -170,7 +202,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "sp.m.jiji.com",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -226,7 +258,7 @@
   {
    "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
@@ -240,25 +272,25 @@
    "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
+   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-11 09:26",
+   "published_iso": "2026-08-11T00:26:45+00:00"
+  },
+  {
    "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sQ0F5RDlZQmtKV3hEQ0dEX0tndjRKYUdGMGlIZjZuMDA4UGVMajBNNkhJeElSX2NlcmVfVU4tdVQ4NHktc19KTnE1YjRhNGJ3OEpaYktQTQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 07:20",
    "published_iso": "2026-08-10T22:20:34+00:00"
   },
   {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-08-11 06:28",
-   "published_iso": "2026-08-10T21:28:00+00:00"
-  },
-  {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMVEyRWxxWWJRbTV1cXppV0NJNmo0X1VOVHM4OElEU2RXWVJqN2E5WFBTdFdDR2hIOXJ3YWdjUUhpQzY1UGdQRWFwRE9ZRTBISmp0dE5TRUl0Zmt6dXV1RGlOaGtaS3l6Snh6WW91RzJjcDBEanNTTTZ6WklMdUNZM0RB?oc=5",
-   "source": "jiji.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
@@ -338,7 +370,7 @@
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3NEMHhCTXdKYi1ITERxalFSV0VzeThlZURFOWhSZjYzUGRfU2w3TFB5dW5nV3c4cTNCWmk2aDVtemY3SmJxWmVLd25teFZ5aVJUcEVVOFBoY3BwbHdoaTRuYV9pTS1WUGdfLTdiMGcxZGlLZlU2ZDlNQWs0VDdweFR3?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
    "published_iso": "2026-08-08T22:06:00+00:00"
@@ -354,7 +386,7 @@
   {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-09 05:00",
    "published_iso": "2026-08-08T20:00:00+00:00"
@@ -370,42 +402,10 @@
   {
    "title": "一般社団法人外国人雇用協議会、横浜市「外国人材採用・定着コンシェルジュ」事業に協力",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kQnBpcDlWcENiNlhXV25vaWdrcnRsbVRVOUQwNFhyY2RBMGN6YnZUdnFpdDBWS0tBNGRfZ1pTd1JZTkpINE9kdFRwdmttU1ZxaUhMWWFkUWdCdjNxYWphamstR3AtOWp0N21B?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-08 15:10",
    "published_iso": "2026-08-08T06:10:00+00:00"
-  },
-  {
-   "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-08 15:00",
-   "published_iso": "2026-08-08T06:00:00+00:00"
-  },
-  {
-   "title": "移民殺到巡りスペインとイタリアが対立 両国で入国管理を再開",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XTmNwNXQyX2g0MUg1eUNqdFkzWXN6YlhORkVadDROUUxUZnlGbkFBTDdoUW9PYkg4UlBNek00MzJnWG05SmZMUDlna1UxazB0RHlqZDVTWExMMlNlV0JDQ0dUclFXeTNE?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-08 11:35",
-   "published_iso": "2026-08-08T02:35:43+00:00"
-  },
-  {
-   "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-08 01:44",
-   "published_iso": "2026-08-07T16:44:33+00:00"
-  },
-  {
-   "title": "［社説］永住厳格化で外国人の定着意欲をそぐな",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYMXJPVFB2OHJBcUdUT1oxaEYyX1RSRGwxeGhpQnBjQlRQa2VvSUZiQ25SX1VTUlc2M1ptSEJFZ2VlX042MGx6OHJyS3EzMHhaTkJ1dDFnaE1CVHNKWXI1TU5PdVBuUzNseXNxWg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-07 19:05",
-   "published_iso": "2026-08-07T10:05:00+00:00"
   }
  ]
 }
