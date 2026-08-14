@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T16:48:28+00:00",
+ "generated_at": "2026-08-14T17:50:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "書評『はい、移民です。文句あるかい？』マイク・モラスキー著",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkxpdVNmelZCWWFsQ0dwUGljSjRReDd0ZUNveWd0UFZ2bmppTHNmb2lpaU4wWUp1dXRuQUd1cXJNYWQxQmtZLUxicU1vLVk1YWh2Vmw4cUpVWUdtcTZSWXM3dEhRQktGaDlNRQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-15 02:00",
+   "published_iso": "2026-08-14T17:00:00+00:00"
+  },
   {
    "title": "大学教授や医師招き５探究講座、ＡＩ・移民など多彩なテーマ…白百合学園",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGp3N2Z1NmpjNm5lc3FtNEtEVzRFdHRTZnpKLV9rV095dUtaNU4waVpJVlM4M3NzbWZtcTVrQWNMZUs3Rm9qTE1DOVRvNVBVdGdTUVZKV3ZUV01ESjZ2a3VnRWFvSWxOU0s5UlphQlZzaVgyUnBIREN1Z3JaWXM0N2J1WXo4T3pTU2c?oc=5",
@@ -288,14 +296,6 @@
    "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
-   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-11 09:26",
-   "published_iso": "2026-08-11T00:26:45+00:00"
-  },
-  {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
    "source": "時事ドットコム",
@@ -392,18 +392,18 @@
    "published_iso": "2026-08-08T06:00:00+00:00"
   },
   {
+   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRWRUQ0JnVUNlOElnaUVPX0ZQOVpXQjIyZy1ZZlF6cGF6b2RwWnBrUUwwQUdvd0x4Wll1bmFtYUp2MzIxdHNNS1FRLTJhS2c5X2UyMmtSVWZmZDE5QWxZMQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-07 16:26",
+   "published_iso": "2026-08-07T07:26:00+00:00"
+  },
+  {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-06 16:00",
-   "published_iso": "2026-08-06T07:00:00+00:00"
-  },
-  {
-   "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
    "published": "2026-08-06 16:00",
    "published_iso": "2026-08-06T07:00:00+00:00"
   }
