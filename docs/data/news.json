@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T18:50:07+00:00",
+ "generated_at": "2026-08-14T19:45:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -25,7 +25,7 @@
   },
   {
    "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYl96UjRRWncwZ1dORXgxMXk2dmt6a1A0dTVpQU9PUVRSOGd4RmZseWxZYlRxQWhtN2pieGp0aU81bW1WbTE1TGpsUk4xN3pySjlLZzg1UWlxV1QzREcwU1FUS1BlTWlzWTZNWElnUmtnNHpyelU0N1UyYVk5Q0llNVBB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdnNfY05rX3dMaHdHdGtQOWZFTE9HeElOQnlXU1dWcnp6ZFV5VTdqMENPdHNXOTNzWlY5eTdERy16OXRwUjc3OXljRjhQR01ONjlxcHRPM205VjZ2TU03c0hmWQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-14 14:32",
@@ -78,6 +78,14 @@
    "source_domain": "jiji.com",
    "published": "2026-08-14 07:03",
    "published_iso": "2026-08-13T22:03:00+00:00"
+  },
+  {
+   "title": "外国人、出国後住民税18％未納 制度周知が不十分",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbTA0UkFZREducW1hcFZMTG1RbVZCcm9Pa1EyN0NYeXhuVklmQXZhYzBqOHowLWd5RTdQSTZoYWE5TlVaVjhIUFptWktBQjhOSV9sSEln?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-14 06:54",
+   "published_iso": "2026-08-13T21:54:07+00:00"
   },
   {
    "title": "北ア登山 外国人、遭難防止へ 長野県など啓発動画作成 ／長野",
@@ -216,14 +224,6 @@
    "published_iso": "2026-08-12T20:00:00+00:00"
   },
   {
-   "title": "移民と社会：サヨナラ、40年住んだ日本（その1） フィリピン人女性、終活に直面",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LMXR2a184UkkyQWdzVkh1VlNMX1g5Uld6OWFaU0p5R01vRkhQcjhxM3JRb2tCem93eDdXYWNhUTdwa0tVbnItZGNLQ1FQRHhpMWthMnNVbWhRRjY4VW5TdGhKaE1XOGNl?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-13 02:03",
-   "published_iso": "2026-08-12T17:03:41+00:00"
-  },
-  {
    "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
    "source": "日本経済新聞",
@@ -286,14 +286,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-11 12:11",
    "published_iso": "2026-08-11T03:11:00+00:00"
-  },
-  {
-   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-11 09:26",
-   "published_iso": "2026-08-11T00:26:45+00:00"
   },
   {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-08-06 16:00",
+   "published_iso": "2026-08-06T07:00:00+00:00"
+  },
+  {
+   "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
    "published": "2026-08-06 16:00",
    "published_iso": "2026-08-06T07:00:00+00:00"
   }
