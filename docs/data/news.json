@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T14:47:49+00:00",
+ "generated_at": "2026-08-14T15:48:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -114,7 +114,7 @@
   {
    "title": "【速報】ベトナム国籍の技能実習生を殺人未遂容疑で逮捕 同じ職場の男性の頭を皿で殴る 兵庫・洲本市",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3VDVlJUSVVzT1lnMjBDbnB5ZVJXQWVHaENhYm1yaGdGRTJ4bTQwWV9XajBESU9iQTVmMnhKbnN1a1ZaT29XdWhoV2dKbTJicm51cmU1Q0JWRnFIUEs0dW1mYV9HMG1XRGJySWxTZ21RR1dxSGc1VlllMmxLTjlzc1g3czQyQ1E?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-14 01:22",
    "published_iso": "2026-08-13T16:22:00+00:00"
@@ -162,7 +162,7 @@
   {
    "title": "横転事故の後、路上にいたか 南九州道で車にはねられ外国籍の男性技能実習生が死亡",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVFXZXFmSlk0SjJnREo2aEI1OUtGekl0eEZNZTd1bE5lQm8yRWtlMXhyRENCT0VzbEpWN3Axby1IQVJmNVNyU3ZET19QRWFYRzViY1ZaZ0JfQmlOclpxSnRxZXR2U1FmSVJMYzRnRU16UVpTUXZMOFFJemtLbkQwWU81YWVscVU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-13 12:19",
    "published_iso": "2026-08-13T03:19:00+00:00"
@@ -384,14 +384,6 @@
    "published_iso": "2026-08-08T06:00:00+00:00"
   },
   {
-   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRWRUQ0JnVUNlOElnaUVPX0ZQOVpXQjIyZy1ZZlF6cGF6b2RwWnBrUUwwQUdvd0x4Wll1bmFtYUp2MzIxdHNNS1FRLTJhS2c5X2UyMmtSVWZmZDE5QWxZMQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 16:26",
-   "published_iso": "2026-08-07T07:26:00+00:00"
-  },
-  {
    "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
    "source": "日本経済新聞",
@@ -400,12 +392,20 @@
    "published_iso": "2026-08-06T07:00:00+00:00"
   },
   {
-   "title": "フィリピン技能実習生の訴訟で和解成立 一審は監理団体に賠償命令",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16cUZpdVJHekNpRG9FR041YWkzMDZVdmNTZ0Q3eURfZ0JJN3dRckZUMWZ4NzlmQTB3TlhrMlRsZXpfdVpjSGJfTmFiUnAtNVVPNkYtM3hjU3Jlck9Mb2YzS2FnSW03QlZKbTFJaUEtdzBKZXBwTnc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
+   "title": "スペイン飛び地セウタに未成年の不法移民１０００人超残留、首長が中央政府に緊急支援要請",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UktJLUVJdXFTZmxTY2IzcEFMeXlwUGhGUkRrZVNWeHBwQTE5UGpoTnBrX0J5VWQ0Z3VsYU9VckY0bDQtRXRCeXJ5ZEtnVHlTVXdKdjdNcDlMNWhCcXd3SlVNWFhBQQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
    "published": "2026-08-06 16:00",
    "published_iso": "2026-08-06T07:00:00+00:00"
+  },
+  {
+   "title": "永住許可、収入「日本人超」 要件厳格化、入管庁が改定案",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zQmVKSEdkVjhsV2lmOUtjYkt6Q1o3cG5KNGhzcXNTWEtnbi1uRW9NSXhmRFk0S29mRHFqem9GLUZDTGhQSGVpNU9qdTVNdV9DNjQ3UTd1Zmp0c0J6d1ZjeXlmTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-04 16:00",
+   "published_iso": "2026-08-04T07:00:00+00:00"
   }
  ]
 }
