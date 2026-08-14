@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T08:13:11+00:00",
+ "generated_at": "2026-08-14T09:57:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -42,7 +42,7 @@
   {
    "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
    "published_iso": "2026-08-14T02:09:00+00:00"
@@ -154,7 +154,7 @@
   {
    "title": "【画像まとめ】意外なところに外国人観光客 ギャルメイク体験 高い技術…原宿の美容室が訪日目的に",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2bHctVXdrOFZNQkwwbEJYeGl4MDBuN05ObXVCdVQydFROcE16UWRGc0RjczMzd2ZfZno1aWhINDgzZmV6WTJIOFB4dDhtODF0VGpzOWdIb2ZwNmpfXzJpclRtRnVPaW1qdjFJUEY1dGY5NV9XbWpOMERzZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-13 15:14",
    "published_iso": "2026-08-13T06:14:00+00:00"
@@ -170,7 +170,7 @@
   {
    "title": "91歳女性遺棄容疑でベトナム人の男を再逮捕 殺人についても供述 在留資格なし",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uUE5qUnJBNG1UZ1BsZ3liYXRVUDBWUEhuWWJFUlRreHdUM0pDRmRXcVFRNmlXUEZqM2J1Z042X3BVeU5BX0xOaTZBckY1MHRWN3pHbHNzSFVrdlpVbTIyMXJmbks2VFJjS2lyc3BHMmp2Zw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-13 11:58",
    "published_iso": "2026-08-13T02:58:00+00:00"
@@ -258,7 +258,7 @@
   {
    "title": "貧しい国、働く子、難民の友達 「だれか」になりきってみる夏",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVZzalFuSVJ4TVo4b3lJd2FWcnB1UFlfR3pxYVYwWmw0YnpaUWZfOFNzbl9tb01TZE43M1dBdGx0VzREVUtpWHNRN2FBR2E4Ui1CeFBUemdHWjVYYW5Kb0VJWmN1N3M?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-12 16:00",
    "published_iso": "2026-08-12T07:00:00+00:00"
@@ -278,22 +278,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-11 14:46",
    "published_iso": "2026-08-11T05:46:09+00:00"
-  },
-  {
-   "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-11 14:01",
-   "published_iso": "2026-08-11T05:01:30+00:00"
-  },
-  {
-   "title": "トランプ政権「安全を脅かす外国人を特定」ビザ取り消し17万件超に",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMdWlvNEFtZjh4TVpLYTZGWkhpT0JXUXFTeDViNWtwaFZBNVpMTk90SmctUVFBeUJMSzFtOEVQa1dSUU5CTTNPdmVGWThOcWtjeXYwQXpkd01VSG1QcmdWeFhKa2dpUVJiX2d6emx4M2c2TnJq?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-11 07:20",
-   "published_iso": "2026-08-10T22:20:34+00:00"
   },
   {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
@@ -338,7 +322,7 @@
   {
    "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 16:00",
    "published_iso": "2026-08-10T07:00:00+00:00"
@@ -346,7 +330,7 @@
   {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSnNRVkNLeGFWeUxUcnlpalp1XzVUWTN5NVJTS29kbjU0cG1vMDQzdFYxbnhJVXBNVEE3QVBmWlp2cVdMWDV5RE9lblF4WlZUTXZWSFA3SGJrdjctZTJkUXlEU3ZFVVk?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
@@ -384,14 +368,6 @@
    "published_iso": "2026-08-08T22:06:00+00:00"
   },
   {
-   "title": "多文化共生の基本法制定を 知事、国に要請 ／静岡",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XWDdlQjVlX2FoUTFkeGNNZ3BBeFNCdzdKOTliX0pCTzFodWZVaHdGaWtoNzFHQ252dWhoSU5kb3Nfc3JyTlhpdnpKRlZqOFRBNVF0ZE9lT1ZYZDFsTHRVUVNfRWI0WFM2?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-09 05:00",
-   "published_iso": "2026-08-08T20:00:31+00:00"
-  },
-  {
    "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
    "source": "読売新聞",
@@ -400,12 +376,36 @@
    "published_iso": "2026-08-08T20:00:00+00:00"
   },
   {
+   "title": "入国管理再開で応酬 移民流入スペインとイタリア EU「協定停止は最後の手段」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52RUhUTjNyT2p4eXM3dFhtMDdELVlHX1RSUUtyX2haTDhnTElwWjhWcE9WZWJPWDhBMnpaZnlkX3g5Um5lelRxSDBPR3E3eWtnMjN1ZjRsbHlkMnlDRnhTVjZlUlpBckJm?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-09 02:04",
+   "published_iso": "2026-08-08T17:04:47+00:00"
+  },
+  {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
+  },
+  {
+   "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-08 01:44",
+   "published_iso": "2026-08-07T16:44:33+00:00"
+  },
+  {
+   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRWRUQ0JnVUNlOElnaUVPX0ZQOVpXQjIyZy1ZZlF6cGF6b2RwWnBrUUwwQUdvd0x4Wll1bmFtYUp2MzIxdHNNS1FRLTJhS2c5X2UyMmtSVWZmZDE5QWxZMQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-07 16:26",
+   "published_iso": "2026-08-07T07:26:00+00:00"
   }
  ]
 }
