@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T22:19:42+00:00",
+ "generated_at": "2026-08-14T23:18:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,7 +34,7 @@
   {
    "title": "外国人宿泊数が前年同期比１８％減、急激に高まった日本への旅行熱は一段落…日本人は前年並み",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RX3JSM082ZGw2WlBNdnpWR0Z0ZGR2VEdkQnVKaGRyc2Y0MWxqb3NRbE56a29oWTF3WFpVYzR4SEVVNGlydG1zcmI5NHNWNFcwX1VRTlcwLWQtWHhCZEttbDRLMVFKdkd5N0NqYjNtQ2JjQQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -42,7 +42,7 @@
   {
    "title": "鹿児島：ＳＶリーグ「立ち向かう」 フラーゴラッド鹿児島 九州唯一参入 外国人選手ら加入：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1icHBvVVhCVXFGSGk1YWtEODliNEQ3UXpTUFViX0U5TEJ4am9XTWFjRG4tbGZuUEt3eUt0UmdiX1Z2Nk9tUDVsNDhtTnhzY3dUVXU4dDV2eHNtYVFCNU11MHp2VVNsYnJOaXd4MUl1RHcya0NldEE?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -50,7 +50,7 @@
   {
    "title": "［政策点検 高市政権］＜７＞対外国人「秩序」前面に 「もっと厳しく」規制暗礁も",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pRFBucW1FRzN3TXBNaXZxT1hJb0x6YlZ6OGhqMGNmVlowNVRzSVdmTkRTaWZiTTVwTXlhQ0pBT3R4VllleC1hWERldzBKR0FuQXZtV0VYMldYa1J6cy1tNllrTQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -64,9 +64,17 @@
    "published_iso": "2026-08-14T17:00:00+00:00"
   },
   {
+   "title": "樹齢800年以上の天然記念物に木登り…禁止行為をSNSに投稿 外国人女性か 批判相次ぎ看板設置 鹿児島・日置市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEODk1cVVVZzhZTnF1b01RZllTZUFNemEwajhOTG5PVURiVmxKRkpTNFpiR0FBNWk3XzBxSTVraEtLZzlmX1JIMG0zWTNxdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-14 19:02",
+   "published_iso": "2026-08-14T10:02:00+00:00"
+  },
+  {
    "title": "大学教授や医師招き５探究講座、ＡＩ・移民など多彩なテーマ…白百合学園",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGp3N2Z1NmpjNm5lc3FtNEtEVzRFdHRTZnpKLV9rV095dUtaNU4waVpJVlM4M3NzbWZtcTVrQWNMZUs3Rm9qTE1DOVRvNVBVdGdTUVZKV3ZUV01ESjZ2a3VnRWFvSWxOU0s5UlphQlZzaVgyUnBIREN1Z3JaWXM0N2J1WXo4T3pTU2c?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-14 15:00",
    "published_iso": "2026-08-14T06:00:00+00:00"
@@ -106,7 +114,7 @@
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcUFjdzVnTFdKN2dXcGtmSmRoT0JjRm51WDJRNUNIRHdYUUUwdVNob2lSZGxleTdjV2F0ZjRqcFB3RHVzTW5IbnZXZ0c0ZU8wcHVINGl0SDlyRTltU2RKZ0ZVME91NUF1MzlJ?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-14 08:38",
    "published_iso": "2026-08-13T23:38:27+00:00"
@@ -126,14 +134,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-14 07:03",
    "published_iso": "2026-08-13T22:03:00+00:00"
-  },
-  {
-   "title": "外国人、出国後住民税18％未納 制度周知が不十分",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbTA0UkFZREducW1hcFZMTG1RbVZCcm9Pa1EyN0NYeXhuVklmQXZhYzBqOHowLWd5RTdQSTZoYWE5TlVaVjhIUFptWktBQjhOSV9sSEln?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-14 06:54",
-   "published_iso": "2026-08-13T21:54:07+00:00"
   },
   {
    "title": "北ア登山 外国人、遭難防止へ 長野県など啓発動画作成 ／長野",
@@ -266,7 +266,7 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
@@ -312,14 +312,6 @@
    "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
-   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-11 09:26",
-   "published_iso": "2026-08-11T00:26:45+00:00"
-  },
-  {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
    "source": "時事ドットコム",
@@ -344,14 +336,6 @@
    "published_iso": "2026-08-10T17:00:28+00:00"
   },
   {
-   "title": "みんな食べたい水ギョーザ、江田島で手作り教室【多文化共生のまち 母国の味】③中国",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83eHl6STM3T2FOUVBTY0MySFpHSDl3QmJGam5vd2pSZ09fcFhhY01hNmlVT1ZUR1hKcGF6Q25aR0dVcFFaSTRNekw3aw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-10 18:11",
-   "published_iso": "2026-08-10T09:11:00+00:00"
-  },
-  {
    "title": "急増する“特定技能”人材 定着へスタートアップと連携 愛媛",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13cksybnBfRG4zbTNjZ2dmRVRSd0Z3VFE1R2hNQlcySUM1dC1rVUU5aVVoQU5YU0M3R3N1bWp4Q0FnbmR4MlJWRC11ZENVbGlMX2RjRFBDZEIzNlRtbTE5djhZTktLUU4y?oc=5",
    "source": "nhk.or.jp",
@@ -366,6 +350,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-10 16:00",
    "published_iso": "2026-08-10T07:00:00+00:00"
+  },
+  {
+   "title": "特定技能「外食」受け入れ停止、店側「人手不足に拍車」外国人「早く働きたいのに」 県内でも影響",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oX1E1T2lySGdSeUQ3RUtreWhlZnl1Xy1hQ2lQOWp3QlJuWUNBb0xHbjdLSXE3QnVMXzhEZG1XWU1JUEN3Z2Z4cW11TQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-10 15:25",
+   "published_iso": "2026-08-10T06:25:00+00:00"
   },
   {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
@@ -392,20 +384,28 @@
    "published_iso": "2026-08-09T08:05:00+00:00"
   },
   {
-   "title": "伊からの渡航者審査 移民対策で対立 スペイン対抗措置",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qUFRTWlRjRkFRZ1h1X0pCRVZMc0trX2tXd25zZEdjc01DOVdIaG9xdnNyVGYzYUh5VjEwNDV6U25VS3l2ZlYtWFJGQ2l3dDNTNDRicDJDU2lfNUM5dTg4Rk1R?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-09 05:00",
-   "published_iso": "2026-08-08T20:00:00+00:00"
+   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-09 07:06",
+   "published_iso": "2026-08-08T22:06:00+00:00"
   },
   {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
+  },
+  {
+   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-07 16:26",
+   "published_iso": "2026-08-07T07:26:00+00:00"
   }
  ]
 }
