@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T16:20:20+00:00",
+ "generated_at": "2026-08-15T17:17:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -10,7 +10,7 @@
   {
    "title": "日本代表・森保一監督、強力外国人がJデビューも「アビスパにも同等の選手がいる」J1福岡―C大阪戦を視察、目に留まったポイントは",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSzZ1alNmVVRaZzFLeU5TWGR1YTV5N0V2dllodmFSLVZQM0FwWE9sbXJ4eHdPbTB2Ull6bHp2Q3JaOUNERmU2OUZJMy1DSTRfZllPRUMwWnhmYmdHdmJn?oc=5",
-   "source": "nishispo.nishinippon.co.jp",
+   "source": "西スポWEB OTTO!",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 23:39",
    "published_iso": "2026-08-15T14:39:20+00:00"
@@ -96,16 +96,16 @@
    "published_iso": "2026-08-14T21:00:00+00:00"
   },
   {
-   "title": "［福岡県］外国人雇用企業向け研修会 異文化の中で働くとは 福岡市・天神で9月開講",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YbURIMm5mTlZlaDduSTBCcEY4S0NxZWJLeUZYSDNoVXpoT2pNWW02TmpTTE1tYWg3c3dwNUltQjBXaTRNd1ZiSkRUMmFYakFkQi1kZjFR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-15 06:00",
-   "published_iso": "2026-08-14T21:00:00+00:00"
-  },
-  {
    "title": "［政策点検 高市政権］＜７＞対外国人 「秩序」前面に…「もっと厳しく」規制暗礁も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ekRQdmZYX1YtU05LWXk5clpCeFJPUmdCSDNBZ3VmQnRCTFpMOVBkY0xrYjFVTkRYbzNNQkRDOF92Y0I0RlowZ21haHV6aHB0bldvOFRZV1B4aEVzV2UzT3RWd1JNQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-15 05:00",
+   "published_iso": "2026-08-14T20:00:00+00:00"
+  },
+  {
+   "title": "外国人宿泊者数が１８％減少「訪日需要が落ち着く」と市が分析、急速に高まった日本への旅行熱は一段落",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RX3JSM082ZGw2WlBNdnpWR0Z0ZGR2VEdkQnVKaGRyc2Y0MWxqb3NRbE56a29oWTF3WFpVYzR4SEVVNGlydG1zcmI5NHNWNFcwX1VRTlcwLWQtWHhCZEttbDRLMVFKdkd5N0NqYjNtQ2JjQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
@@ -234,7 +234,7 @@
   {
    "title": "外国人受け入れ制限の検討が本格化しています",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaWY2U2s4aVlfS0R4akhhSl9wV1J6RU54Y3pBa1huXzBibDdRemxQTWNsVV9oRU90VmpZdjF2UGZ0ZVBObTJIbEFRbjVKVnBZQ3hUV01weVFaQ3VnSElnbmQ5ZzNvSGs?oc=5",
-   "source": "やさしい朝日新聞",
+   "source": "yasashii.asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-13 16:30",
    "published_iso": "2026-08-13T07:30:47+00:00"
@@ -246,6 +246,14 @@
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-13 16:00",
    "published_iso": "2026-08-13T07:00:00+00:00"
+  },
+  {
+   "title": "【画像まとめ】意外なところに外国人観光客 ギャルメイク体験 高い技術…原宿の美容室が訪日目的に",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2bHctVXdrOFZNQkwwbEJYeGl4MDBuN05ObXVCdVQydFROcE16UWRGc0RjczMzd2ZfZno1aWhINDgzZmV6WTJIOFB4dDhtODF0VGpzOWdIb2ZwNmpfXzJpclRtRnVPaW1qdjFJUEY1dGY5NV9XbWpOMERzZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-13 15:14",
+   "published_iso": "2026-08-13T06:14:00+00:00"
   },
   {
    "title": "意外なところに外国人観光客 ギャルメイク体験 高い技術…原宿の美容室が訪日目的に",
@@ -330,7 +338,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
+   "source": "sp.m.jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
-  },
-  {
-   "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYmNPZVp3YURfdEhsN2JMb1hSdjh4aC1mTV8wRVpQUldEczdjbTZZT091VTNRNmtfTXJuQS1OS2tnbDVjbkJFRWVfM1FWZHJ2bnNv?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-09 21:06",
-   "published_iso": "2026-08-09T12:06:49+00:00"
   }
  ]
 }
