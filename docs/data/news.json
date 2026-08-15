@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T02:49:34+00:00",
+ "generated_at": "2026-08-15T03:35:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,7 +34,7 @@
   {
    "title": "特別休暇「親族死亡」の申請理由が事実と異なるとして大村入管センターが20代男性職員を減給1月の懲戒処分",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uX0JuZjhscWFMTy1ScXNweEpzaXVZbUVUTlN2OGx2VjFubm1Ib2gwbzFZbVpHeWlaZjJ3YVhHWVY4N0ZWYWxIUFRhcmFNX2NwMTdodGY5R0pBcDVpX0RTZkZmVzFsTFU?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-15 07:51",
    "published_iso": "2026-08-14T22:51:46+00:00"
@@ -72,9 +72,17 @@
    "published_iso": "2026-08-14T21:00:00+00:00"
   },
   {
+   "title": "外国人宿泊者数が１８％減少「訪日需要が落ち着く」と市が分析、急速に高まった日本への旅行熱は一段落",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RX3JSM082ZGw2WlBNdnpWR0Z0ZGR2VEdkQnVKaGRyc2Y0MWxqb3NRbE56a29oWTF3WFpVYzR4SEVVNGlydG1zcmI5NHNWNFcwX1VRTlcwLWQtWHhCZEttbDRLMVFKdkd5N0NqYjNtQ2JjQQ?oc=5",
+   "source": "yomiuri.co.jp",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-15 05:00",
+   "published_iso": "2026-08-14T20:00:00+00:00"
+  },
+  {
    "title": "鹿児島：ＳＶリーグ「立ち向かう」 フラーゴラッド鹿児島 九州唯一参入 外国人選手ら加入：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1icHBvVVhCVXFGSGk1YWtEODliNEQ3UXpTUFViX0U5TEJ4am9XTWFjRG4tbGZuUEt3eUt0UmdiX1Z2Nk9tUDVsNDhtTnhzY3dUVXU4dDV2eHNtYVFCNU11MHp2VVNsYnJOaXd4MUl1RHcya0NldEE?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -82,7 +90,7 @@
   {
    "title": "［政策点検 高市政権］＜７＞対外国人「秩序」前面に 「もっと厳しく」規制暗礁も",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pRFBucW1FRzN3TXBNaXZxT1hJb0x6YlZ6OGhqMGNmVlowNVRzSVdmTkRTaWZiTTVwTXlhQ0pBT3R4VllleC1hWERldzBKR0FuQXZtV0VYMldYa1J6cy1tNllrTQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -98,7 +106,7 @@
   {
    "title": "大学教授や医師招き５探究講座、ＡＩ・移民など多彩なテーマ…白百合学園",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGp3N2Z1NmpjNm5lc3FtNEtEVzRFdHRTZnpKLV9rV095dUtaNU4waVpJVlM4M3NzbWZtcTVrQWNMZUs3Rm9qTE1DOVRvNVBVdGdTUVZKV3ZUV01ESjZ2a3VnRWFvSWxOU0s5UlphQlZzaVgyUnBIREN1Z3JaWXM0N2J1WXo4T3pTU2c?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-14 15:00",
    "published_iso": "2026-08-14T06:00:00+00:00"
@@ -126,6 +134,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
    "published_iso": "2026-08-14T02:09:00+00:00"
+  },
+  {
+   "title": "持続可能な多文化共生社会の実現に向けたアクションを 「多文化共生の担い手・実践者全国会議2026」（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZkpJbG94bmU5RGxCR29rYUUzWTBscHJUTkp1LVV5UFh4RHh6UmFZMWZrc0N2SERyd3RVLWdpbHpHbGM4VlVsVTZqU2V4cEdCM3F3NTlGQlBUMU8teEpobndrSmx5enli?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-14 10:22",
+   "published_iso": "2026-08-14T01:22:17+00:00"
   },
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
@@ -162,7 +178,7 @@
   {
    "title": "北ア登山 外国人、遭難防止へ 長野県など啓発動画作成 ／長野",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUG14Z1NaaExwUm1rUG4tMWs0ZFFMMzFUMmJWWUxWbDlTQVVaZVVGenh6T3prQzRHV3JMYWloR2RtVm1XZjhITEMtRTk3RjAwSWc2dTFCMjlTWVprR0hQVHhOcTI0b2FU?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-14 05:02",
    "published_iso": "2026-08-13T20:02:35+00:00"
@@ -178,7 +194,7 @@
   {
    "title": "【速報】ベトナム国籍の技能実習生を殺人未遂容疑で逮捕 同じ職場の男性の頭を皿で殴る 兵庫・洲本市",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3VDVlJUSVVzT1lnMjBDbnB5ZVJXQWVHaENhYm1yaGdGRTJ4bTQwWV9XajBESU9iQTVmMnhKbnN1a1ZaT29XdWhoV2dKbTJicm51cmU1Q0JWRnFIUEs0dW1mYV9HMG1XRGJySWxTZ21RR1dxSGc1VlllMmxLTjlzc1g3czQyQ1E?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-14 01:22",
    "published_iso": "2026-08-13T16:22:00+00:00"
@@ -186,7 +202,7 @@
   {
    "title": "米不法移民の摘発に「電気ショックグローブ」導入へ 悪用も懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLUx3eDRJYzJRU0h3ZThjVGtfQWVzNFBBdTVMaktTa3BGbU1mUlRUV2pyUVNZc2g1WVlvTXFTWUZJQ3BmZ0ZOLVdMcDlHLThNWWp4REtzTWMyOFVXdkJnNFlkUGRJZUNS?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-13 16:58",
    "published_iso": "2026-08-13T07:58:15+00:00"
@@ -258,7 +274,7 @@
   {
    "title": "電気ショック手袋「GLOVE」、米当局が不法移民取り締まりで導入計画",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NUU1YXFSWFhiRGhCcDNMdEpnQmpVYmtBaHlTTnRTVm0yWEJIWFoxdm9xZjZQXzJJZDJOTGhZUkFvR2RBVWFVZFcxUmQxMXZDeVNqUGVrWEp6ZzBwY2s3TWVhRklyTGM?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-13 06:26",
    "published_iso": "2026-08-12T21:26:02+00:00"
@@ -298,7 +314,7 @@
   {
    "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-12 20:13",
    "published_iso": "2026-08-12T11:13:00+00:00"
@@ -314,7 +330,7 @@
   {
    "title": "貧しい国、働く子、難民の友達 「だれか」になりきってみる夏",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVZzalFuSVJ4TVo4b3lJd2FWcnB1UFlfR3pxYVYwWmw0YnpaUWZfOFNzbl9tb01TZE43M1dBdGx0VzREVUtpWHNRN2FBR2E4Ui1CeFBUemdHWjVYYW5Kb0VJWmN1N3M?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-12 16:00",
    "published_iso": "2026-08-12T07:00:00+00:00"
@@ -330,7 +346,7 @@
   {
    "title": "トランプ政権 外国人17.5万人超のビザ取り消し 「国民の安全を脅かす」暴力行為や飲酒運転など理由に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02d0h1WTU3UEx4VlVSV1o3QWRRVlY3RVQtN1RBNUFKVk5TYVFjNExhU1VyalM3NWI4S3h5WnR5QTlwcWlWV3g5TWVXUF9zZVlYTml3R1BRaw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-11 14:01",
    "published_iso": "2026-08-11T05:01:30+00:00"
@@ -352,14 +368,6 @@
    "published_iso": "2026-08-10T21:28:00+00:00"
   },
   {
-   "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」築く一助に 道具など貴重な資料展示 東村山 ／東京",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
-   "source": "mainichi.jp",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-11 02:00",
-   "published_iso": "2026-08-10T17:00:28+00:00"
-  },
-  {
    "title": "急増する“特定技能”人材 定着へスタートアップと連携 愛媛",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13cksybnBfRG4zbTNjZ2dmRVRSd0Z3VFE1R2hNQlcySUM1dC1rVUU5aVVoQU5YU0M3R3N1bWp4Q0FnbmR4MlJWRC11ZENVbGlMX2RjRFBDZEIzNlRtbTE5djhZTktLUU4y?oc=5",
    "source": "nhk.or.jp",
@@ -370,7 +378,7 @@
   {
    "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-10 16:00",
    "published_iso": "2026-08-10T07:00:00+00:00"
@@ -378,7 +386,7 @@
   {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSnNRVkNLeGFWeUxUcnlpalp1XzVUWTN5NVJTS29kbjU0cG1vMDQzdFYxbnhJVXBNVEE3QVBmWlp2cVdMWDV5RE9lblF4WlZUTXZWSFA3SGJrdjctZTJkUXlEU3ZFVVk?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-09 17:05",
    "published_iso": "2026-08-09T08:05:00+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
   }
  ]
 }
