@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T09:22:34+00:00",
+ "generated_at": "2026-08-15T10:19:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -122,10 +122,18 @@
   {
    "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYl96UjRRWncwZ1dORXgxMXk2dmt6a1A0dTVpQU9PUVRSOGd4RmZseWxZYlRxQWhtN2pieGp0aU81bW1WbTE1TGpsUk4xN3pySjlLZzg1UWlxV1QzREcwU1FUS1BlTWlzWTZNWElnUmtnNHpyelU0N1UyYVk5Q0llNVBB?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-14 14:32",
    "published_iso": "2026-08-14T05:32:00+00:00"
+  },
+  {
+   "title": "持続可能な多文化共生社会の実現に向けたアクションを 「多文化共生の担い手・実践者全国会議2026」",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENGlOVWp5Z1VocXJsd3dSQzdZRl9tb2VzQ3ljTzh5VXpzNGxEcTNyeDZQemhsQ2N6blRCOXB5RmRta3doMDhJRWxvcVItdFh2ZndSR0Vn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-14 11:25",
+   "published_iso": "2026-08-14T02:25:25+00:00"
   },
   {
    "title": "国際化広報ポスター 小谷さん（高梁城南高）最優秀賞 多文化共生の社会づくりテーマ",
@@ -144,12 +152,12 @@
    "published_iso": "2026-08-14T02:09:00+00:00"
   },
   {
-   "title": "持続可能な多文化共生社会の実現に向けたアクションを 「多文化共生の担い手・実践者全国会議2026」（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOZkpJbG94bmU5RGxCR29rYUUzWTBscHJUTkp1LVV5UFh4RHh6UmFZMWZrc0N2SERyd3RVLWdpbHpHbGM4VlVsVTZqU2V4cEdCM3F3NTlGQlBUMU8teEpobndrSmx5enli?oc=5",
-   "source": "mainichi.jp",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-14 10:22",
-   "published_iso": "2026-08-14T01:22:17+00:00"
+   "title": "日本で働いた外国人 出国後の住民税滞納額割合18.6％ 全体4.6％で目立つ徴収漏れ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcFJDS19lWXBrRVpxcXhpUVN0bmZTUkdPRFN5LTdSLTlhTFpMM0VWczZick9MV200LU1LMVFVcm16cWtSeEpwT1doa2hmOXI0MmFBcElGTGpQV1QxeThKMHNkSnFHQ2tSWWM5UkdzcjlOWDlGWEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-14 09:58",
+   "published_iso": "2026-08-14T00:58:07+00:00"
   },
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
@@ -170,7 +178,7 @@
   {
    "title": "被災地で孤立、助け合う外国人 文化の壁、避難所にためらい―熊本地震",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUlk0SXV1THBURE1ydzJvd3ZUbWN5am5PZjNtNUtTRG1ndTEyS0dXQU9tcDJTeFZSZkFHSGFyTWl3TEdQUmRKblJENjdDWFhMc18zV0RDaTdpdXF0MjRrVko0SQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-14 07:03",
    "published_iso": "2026-08-13T22:03:00+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "北ア登山 外国人、遭難防止へ 長野県など啓発動画作成 ／長野",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jUG14Z1NaaExwUm1rUG4tMWs0ZFFMMzFUMmJWWUxWbDlTQVVaZVVGenh6T3prQzRHV3JMYWloR2RtVm1XZjhITEMtRTk3RjAwSWc2dTFCMjlTWVprR0hQVHhOcTI0b2FU?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-14 05:02",
    "published_iso": "2026-08-13T20:02:35+00:00"
@@ -210,7 +218,7 @@
   {
    "title": "米不法移民の摘発に「電気ショックグローブ」導入へ 悪用も懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLUx3eDRJYzJRU0h3ZThjVGtfQWVzNFBBdTVMaktTa3BGbU1mUlRUV2pyUVNZc2g1WVlvTXFTWUZJQ3BmZ0ZOLVdMcDlHLThNWWp4REtzTWMyOFVXdkJnNFlkUGRJZUNS?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-13 16:58",
    "published_iso": "2026-08-13T07:58:15+00:00"
@@ -344,12 +352,20 @@
    "published_iso": "2026-08-11T03:11:00+00:00"
   },
   {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
+   "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
+  },
+  {
+   "title": "「ハンセン病療養所のなかの『外国人』」 「共生社会」築く一助に 道具など貴重な資料展示 東村山 ／東京",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41MGNkWlVEWTg4UFViZndCcS1fSzVSRWVQODFzQkVpWHExaVhaZkZmMGlyc2VSTkZBSDYzcnNiZktsWTVFbzBFS2JpS0YxRE1KbVBnRVJ2U2JaaWRPWTBpRU5sX2F6ZFRh?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-11 02:00",
+   "published_iso": "2026-08-10T17:00:28+00:00"
   },
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
@@ -390,22 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-09 21:06",
    "published_iso": "2026-08-09T12:06:49+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
-  },
-  {
-   "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-08 15:00",
-   "published_iso": "2026-08-08T06:00:00+00:00"
   }
  ]
 }
