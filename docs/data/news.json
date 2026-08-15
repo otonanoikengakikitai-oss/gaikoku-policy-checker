@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T15:17:10+00:00",
+ "generated_at": "2026-08-15T16:20:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "日本代表・森保一監督、強力外国人がJデビューも「アビスパにも同等の選手がいる」J1福岡―C大阪戦を視察、目に留まったポイントは",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSzZ1alNmVVRaZzFLeU5TWGR1YTV5N0V2dllodmFSLVZQM0FwWE9sbXJ4eHdPbTB2Ull6bHp2Q3JaOUNERmU2OUZJMy1DSTRfZllPRUMwWnhmYmdHdmJn?oc=5",
+   "source": "nishispo.nishinippon.co.jp",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-15 23:39",
+   "published_iso": "2026-08-15T14:39:20+00:00"
+  },
   {
    "title": "帯広市 外国人相談窓口を開設 英語やベトナム語、中国語で生活相談",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCZHBIWENTdEZyZGZrdEtTWUs3TzR0OFRIRGRaaWVJa1pzT1pUVGltWlQtNmgzOE5YN3RkR2hXaHZuV3lKenlzT01VTQ?oc=5",
@@ -144,8 +152,8 @@
    "published_iso": "2026-08-14T02:15:46+00:00"
   },
   {
-   "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
+   "title": "【画像まとめ】外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaa0FBaUM1djBqNEVucGxyb2ZaOGNxYzEzQ1BSR3dzRWZzVEotUWduQ3JHbHpJQ0Vkal9ac2docUJEUS02b0xqNlR5ZVZmWGd4eXkxLVZCNDdzRkdMOVBEZHdtSGxWUlJxWjFka3A4UzZLeW1lRGxYTXk5MA?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
@@ -330,7 +338,7 @@
   {
    "title": "貧しい国、働く子、難民の友達 「だれか」になりきってみる夏",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVZzalFuSVJ4TVo4b3lJd2FWcnB1UFlfR3pxYVYwWmw0YnpaUWZfOFNzbl9tb01TZE43M1dBdGx0VzREVUtpWHNRN2FBR2E4Ui1CeFBUemdHWjVYYW5Kb0VJWmN1N3M?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-12 16:00",
    "published_iso": "2026-08-12T07:00:00+00:00"
@@ -378,7 +386,7 @@
   {
    "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 16:00",
    "published_iso": "2026-08-10T07:00:00+00:00"
@@ -386,7 +394,7 @@
   {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSnNRVkNLeGFWeUxUcnlpalp1XzVUWTN5NVJTS29kbjU0cG1vMDQzdFYxbnhJVXBNVEE3QVBmWlp2cVdMWDV5RE9lblF4WlZUTXZWSFA3SGJrdjctZTJkUXlEU3ZFVVk?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-09 21:06",
    "published_iso": "2026-08-09T12:06:49+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
   }
  ]
 }
