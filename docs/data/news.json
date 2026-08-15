@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T12:32:09+00:00",
+ "generated_at": "2026-08-15T13:27:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -14,6 +14,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-15 15:58",
    "published_iso": "2026-08-15T06:58:09+00:00"
+  },
+  {
+   "title": "バレー男子「フラーゴラッド鹿児島」がＳＶリーグ初挑戦…外国人選手ら８人新加入「一致団結し立ち向かう」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Hdm1EUUFqTW5kejg4TTZEX3BGQjNKTlBPN3ZfQzdsaHdXU0dkeldYS05meGtGWG5qREhnMXFSNl9EbnB5eGM0U0t2Z0pDOENqSWNmNENkbGthQjhQb3hoUGZFVG9YU2Q3eTZ0RjRIdlhBQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-15 15:31",
+   "published_iso": "2026-08-15T06:31:00+00:00"
   },
   {
    "title": "ヒロシマ訪問、4割が外国人",
@@ -154,7 +162,7 @@
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcUFjdzVnTFdKN2dXcGtmSmRoT0JjRm51WDJRNUNIRHdYUUUwdVNob2lSZGxleTdjV2F0ZjRqcFB3RHVzTW5IbnZXZ0c0ZU8wcHVINGl0SDlyRTltU2RKZ0ZVME91NUF1MzlJ?oc=5",
-   "source": "神戸新聞",
+   "source": "kobe-np.co.jp",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-14 08:38",
    "published_iso": "2026-08-13T23:38:27+00:00"
@@ -314,14 +322,6 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-08-12 16:47",
-   "published_iso": "2026-08-12T07:47:00+00:00"
-  },
-  {
-   "title": "Ceuta leader wants migrant detention centre after influx",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nbnY3NnhZY05FWDlPZGZWejJkUWVFOGJuVG9aTGNtSlZKdzZOWEJ3ZTF6TmlIeWV2MW9EM2JkVE5WSURPX19zQkNETUJYenJ6bEE?oc=5",
    "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
