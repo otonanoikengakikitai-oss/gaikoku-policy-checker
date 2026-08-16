@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T03:49:58+00:00",
+ "generated_at": "2026-08-16T04:32:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,7 +34,7 @@
   {
    "title": "“後ろ手錠”13時間で骨折…大阪入管は「違法な身体拘束」 高裁判決が重視した国際人権基準「マンデラ･ルール」と問われる収容のあり方【“知られざる法廷”からの報告】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxS2xQU3E5MzhTZXh5cFZYak5yWldPakl6YkRmdHBwTlVzeEljdkJvWTZybkVsOGVhTzNrVVRVQlJCdDhfcURDLUxRWkdRbHBKRnFNa3Uxbw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-16 06:00",
    "published_iso": "2026-08-15T21:00:00+00:00"
@@ -42,7 +42,7 @@
   {
    "title": "【小野田紀美大臣】「外国人政策は『厳格化しすぎ』というお叱りの声や『まだまだ甘いぞ』というお叱りの声も」",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYM3BBMHQ4dWZjc2NwMUF0cEljRVNhQ3ZoWmNTWk01ZU1pTk1sSTdhdU5tc1FIN3NuU1d5TGpUQUJHNFFxX3hvbENxUzRKbG9aM3FIR1dKQk1jQQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-16 06:00",
    "published_iso": "2026-08-15T21:00:00+00:00"
@@ -98,7 +98,7 @@
   {
    "title": "南スーダンの首都ジュバ近郊で水をくむスーダン難民＝2024年1月（ロイター＝共同） - 南スーダン難民支援途絶も 国連2機関、65万人超対象 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oYTRwdFZxR25HRkdPRV9aTlNoMk1GUmpfNDVCaDU2OGU2YXloUmJtRFlmZVRWNUZOek43Wk5WeVk4MWpyMWdKTE5nSWJRWkVkTWxJWENHVQ?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 10:12",
    "published_iso": "2026-08-15T01:12:48+00:00"
@@ -106,7 +106,7 @@
   {
    "title": "南スーダン難民支援途絶も 国連2機関、65万人超対象",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeEFvRzE1MG51aHJPdVBxRWRXdHVFcUxpOV85WXBiLV9QcmxTSWQzNG4yRkVIYmM2ZE9zWGMtT2FnVDZ6ZTZxZ2tCc09OOUhUMGJTcDVR?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 07:38",
    "published_iso": "2026-08-14T22:38:26+00:00"
@@ -114,7 +114,7 @@
   {
    "title": "住民税未納のイメージ - 出国した外国人、住民税18％滞納 総務省調査、制度周知が不十分 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IR0pGY3hDYXBMSkZqS2txYWFZeDFhaVpibkZrSmtrQjhzUnRkVzlLTGp3Y1kwV2MyLXVpVUJta1VDbjhSNElwUlQwTTBoQVpOUmd0bzdmOA?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 06:54",
    "published_iso": "2026-08-14T21:54:54+00:00"
@@ -122,7 +122,7 @@
   {
    "title": "出国した外国人、住民税18％滞納 総務省調査、制度周知が不十分",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQk5sYkdXNWI1aDJaMkxkTEs2aV9XYmZqdnBKUDEyVnZ3RUFYS2lGUnI3ek13RjhfcXRfTUJEYjBPeWF3UU5RTmx6YmJTclR0UmR1RUx3?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 06:00",
    "published_iso": "2026-08-14T21:00:00+00:00"
@@ -154,7 +154,7 @@
   {
    "title": "持続可能な多文化共生社会の実現に向けたアクションを 「多文化共生の担い手・実践者全国会議2026」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENGlOVWp5Z1VocXJsd3dSQzdZRl9tb2VzQ3ljTzh5VXpzNGxEcTNyeDZQemhsQ2N6blRCOXB5RmRta3doMDhJRWxvcVItdFh2ZndSR0Vn?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-14 11:25",
    "published_iso": "2026-08-14T02:25:25+00:00"
@@ -202,7 +202,7 @@
   {
    "title": "外国人、出国後住民税18％未納 制度周知が不十分",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbTA0UkFZREducW1hcFZMTG1RbVZCcm9Pa1EyN0NYeXhuVklmQXZhYzBqOHowLWd5RTdQSTZoYWE5TlVaVjhIUFptWktBQjhOSV9sSEln?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-14 06:54",
    "published_iso": "2026-08-13T21:54:07+00:00"
@@ -242,7 +242,7 @@
   {
    "title": "社説：永住許可の厳格化 外国人共生を損なう指針案",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZW1YblVYbmJtUUtFMlhZNENETlZVNmcyN3hsZTFsUUpsVXhDYkI2TWJxcUM0MmlHSk5nTEw2YUxRdElxalVqT2dRTzd1dUxsT0MwZFJhdi0?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-13 16:00",
    "published_iso": "2026-08-13T07:00:00+00:00"
@@ -282,7 +282,7 @@
   {
    "title": "電気ショック手袋「GLOVE」、米当局が不法移民取り締まりで導入計画",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NUU1YXFSWFhiRGhCcDNMdEpnQmpVYmtBaHlTTnRTVm0yWEJIWFoxdm9xZjZQXzJJZDJOTGhZUkFvR2RBVWFVZFcxUmQxMXZDeVNqUGVrWEp6ZzBwY2s3TWVhRklyTGM?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-13 06:26",
    "published_iso": "2026-08-12T21:26:02+00:00"
@@ -314,7 +314,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
+   "source": "sp.m.jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
