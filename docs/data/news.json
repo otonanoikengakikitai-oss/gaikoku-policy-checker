@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T17:16:51+00:00",
+ "generated_at": "2026-08-16T18:23:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -74,7 +74,7 @@
   {
    "title": "“関東の冷蔵庫”奥日光 定番から穴場まで 外国人が鳥居にモノを投げる理由とは",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QSV94NXRVWjJIRUFkSjVZbE9vVVBuN3B4dF9IV3ZRZkZTd1pSVk1XZUZ4RWhpYXlQcHdnaUV3QTNZYzA5MEpqVDBjbm0wOGNDaWJISjgzU21OVXlRbGlMYzBocEd4LXFZVUxUQk9HY3hZZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-16 15:00",
    "published_iso": "2026-08-16T06:00:00+00:00"
@@ -128,14 +128,6 @@
    "published_iso": "2026-08-15T20:00:01+00:00"
   },
   {
-   "title": "帯広市 外国人相談窓口を開設 英語やベトナム語、中国語で生活相談",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCZHBIWENTdEZyZGZrdEtTWUs3TzR0OFRIRGRaaWVJa1pzT1pUVGltWlQtNmgzOE5YN3RkR2hXaHZuV3lKenlzT01VTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-15 15:58",
-   "published_iso": "2026-08-15T06:58:09+00:00"
-  },
-  {
    "title": "ヒロシマ訪問、4割が外国人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVYUNXc3hoNnlwRW5BUERSSDdTMlpkYUZUNjVVNkdISEFZU0VNQ05Qa3Jua0FhQ3UzZmRTQUVNTGFBcm1CdEJhUTdaMm84Qjl4Q3NId0JOczVhd0lNQnQ5aTZlTG9VaUNYdjVqMg?oc=5",
    "source": "日本経済新聞",
@@ -146,7 +138,7 @@
   {
    "title": "外国人が絶賛 日本が“世界一”のモノは？ “暑さの救世主”になっているモノも",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdTVSSnZvOFh5VHdHd3AyVDBIcThibG1JY0ZjR3lreFFoN245ZXN4cG0zQzVJNmFSYnVWOUdoR1RSMHgyMXdfNUM1OXZYRjV2NDM4MUE1aXp3QUZnTEZxWFJvR2w0a291SXBEb0dqaFVPQQ?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-15 11:00",
    "published_iso": "2026-08-15T02:00:00+00:00"
@@ -226,7 +218,7 @@
   {
    "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
    "published_iso": "2026-08-14T02:09:00+00:00"
@@ -306,18 +298,10 @@
   {
    "title": "【画像まとめ】意外なところに外国人観光客 ギャルメイク体験 高い技術…原宿の美容室が訪日目的に",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2bHctVXdrOFZNQkwwbEJYeGl4MDBuN05ObXVCdVQydFROcE16UWRGc0RjczMzd2ZfZno1aWhINDgzZmV6WTJIOFB4dDhtODF0VGpzOWdIb2ZwNmpfXzJpclRtRnVPaW1qdjFJUEY1dGY5NV9XbWpOMERzZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-13 15:14",
    "published_iso": "2026-08-13T06:14:00+00:00"
-  },
-  {
-   "title": "横転事故の後、路上にいたか 南九州道で車にはねられ外国籍の男性技能実習生が死亡",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVFXZXFmSlk0SjJnREo2aEI1OUtGekl0eEZNZTd1bE5lQm8yRWtlMXhyRENCT0VzbEpWN3Axby1IQVJmNVNyU3ZET19QRWFYRzViY1ZaZ0JfQmlOclpxSnRxZXR2U1FmSVJMYzRnRU16UVpTUXZMOFFJemtLbkQwWU81YWVscVU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-13 12:19",
-   "published_iso": "2026-08-13T03:19:00+00:00"
   },
   {
    "title": "「10分泳げば欧州」スペイン殺到の不法移民、数千人滞留 住民の不満募る",
@@ -344,14 +328,6 @@
    "published_iso": "2026-08-12T21:26:02+00:00"
   },
   {
-   "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-13 02:00",
-   "published_iso": "2026-08-12T17:00:00+00:00"
-  },
-  {
    "title": "スウェーデン首相、スペインの不法移民の合法化を批判",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMGV1bDlzcUFxdXU0a3hQN3FwRVBWSWRGTGhoNmJkeGJHMmlNaGpQRzZMQ1pLallESzBVLTNaaEVmX0lobmF3Nlk4aFJsN1ZuRkN3bll3UzNaQVNyTkx0YkJIYk8zWjAtVEhydzQwVVpsYXM2QVhj?oc=5",
    "source": "日本経済新聞",
@@ -362,7 +338,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
+   "source": "sp.m.jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -406,6 +382,30 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-08-10 17:57",
    "published_iso": "2026-08-10T08:57:45+00:00"
+  },
+  {
+   "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-10 16:00",
+   "published_iso": "2026-08-10T07:00:00+00:00"
+  },
+  {
+   "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYmNPZVp3YURfdEhsN2JMb1hSdjh4aC1mTV8wRVpQUldEczdjbTZZT091VTNRNmtfTXJuQS1OS2tnbDVjbkJFRWVfM1FWZHJ2bnNv?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-09 21:06",
+   "published_iso": "2026-08-09T12:06:49+00:00"
+  },
+  {
+   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-09 07:06",
+   "published_iso": "2026-08-08T22:06:00+00:00"
   }
  ]
 }
