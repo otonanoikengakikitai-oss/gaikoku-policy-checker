@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T16:20:41+00:00",
+ "generated_at": "2026-08-16T17:16:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "空港職員の待遇改善 入管庁検討、人材流出を防止 訪日客増に対応",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQXVyLS1FZHU5VXVkLUFsRlp6cUxRaFduWFhfWUJ2dzlCd09ETDd1WUFMYXkyNjNSOUVidTF2S09RQUhUU2l2eFZZelZrdFk3ZHhvS1pHU21vMVhVMi1nb1lCekNKS3piejhmQg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-17 02:00",
+   "published_iso": "2026-08-16T17:00:00+00:00"
+  },
   {
    "title": "富山市で強盗 50代男性 外国人とみられる男3人組に現金奪われる",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfQTNZNEZ3aHhrRVVJMmVMb0hyYmlGclN5QzhxUGtiRFRtTEJNWkgyUjg2SklYcVpUWnRSbU5wal9paWdhRlVjelM2NE50QQ?oc=5",
@@ -178,7 +186,7 @@
   {
    "title": "［政策点検 高市政権］＜７＞対外国人 「秩序」前面に…「もっと厳しく」規制暗礁も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ekRQdmZYX1YtU05LWXk5clpCeFJPUmdCSDNBZ3VmQnRCTFpMOVBkY0xrYjFVTkRYbzNNQkRDOF92Y0I0RlowZ21haHV6aHB0bldvOFRZV1B4aEVzV2UzT3RWd1JNQQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "外国人宿泊者数が１８％減少「訪日需要が落ち着く」と市が分析、急速に高まった日本への旅行熱は一段落",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RX3JSM082ZGw2WlBNdnpWR0Z0ZGR2VEdkQnVKaGRyc2Y0MWxqb3NRbE56a29oWTF3WFpVYzR4SEVVNGlydG1zcmI5NHNWNFcwX1VRTlcwLWQtWHhCZEttbDRLMVFKdkd5N0NqYjNtQ2JjQQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-08-10 17:57",
    "published_iso": "2026-08-10T08:57:45+00:00"
-  },
-  {
-   "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-10 16:00",
-   "published_iso": "2026-08-10T07:00:00+00:00"
   }
  ]
 }
