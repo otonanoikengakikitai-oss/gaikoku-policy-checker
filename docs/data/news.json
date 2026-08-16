@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T13:28:27+00:00",
+ "generated_at": "2026-08-16T14:19:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,17 +8,9 @@
  ],
  "items": [
   {
-   "title": "【速報】富山市の路上で強盗事件 50代男性が現金奪われる 逃げた3人組は外国人風・白マスク着用【現場画像あり】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TnluQWNKZy1JVHB6aGktWUpGQ1JsS2VWSkU0LTFVUmJvb1pkMmtudWFjbkRSYWNBRHZJcjZmc0pQd1MtYlVHVXZieVpaZlVGNXlnWDc2eFNycnVJNzFEUVFHTDJwcjg?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-16 19:02",
-   "published_iso": "2026-08-16T10:02:00+00:00"
-  },
-  {
    "title": "富山市で強盗 50代男性 外国人とみられる男3人組に現金奪われる",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfQTNZNEZ3aHhrRVVJMmVMb0hyYmlGclN5QzhxUGtiRFRtTEJNWkgyUjg2SklYcVpUWnRSbU5wal9paWdhRlVjelM2NE50QQ?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-08-16 18:30",
    "published_iso": "2026-08-16T09:30:00+00:00"
@@ -42,15 +34,23 @@
   {
    "title": "増える高齢外国人 懸念される「老後の貧困」 日曜講座 少子高齢時代 客員論説委員・河合雅司",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UOWZqWXB2Ykxhb1hZTXh0WG1XeWVSY1VCQ1BaTkJEREkyY2x4b2hzbV8yT0ppZkpKTERVU05ULUIwVnVPb2pqQXNmU09BLXdTbFl5aUZGanE1ckVJRE5RenlSdldzT1RoV0xPY0htb1RSN1JKWFE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-16 17:00",
    "published_iso": "2026-08-16T08:00:00+00:00"
   },
   {
+   "title": "【速報】富山市の路上で強盗事件 50代男性が現金奪われる 逃げた3人組は外国人風・白マスク着用【現場画像あり】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TnluQWNKZy1JVHB6aGktWUpGQ1JsS2VWSkU0LTFVUmJvb1pkMmtudWFjbkRSYWNBRHZJcjZmc0pQd1MtYlVHVXZieVpaZlVGNXlnWDc2eFNycnVJNzFEUVFHTDJwcjg?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-16 16:02",
+   "published_iso": "2026-08-16T07:02:00+00:00"
+  },
+  {
    "title": "外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnYlVnT2N5ZHBhXzZ3em1LQnViVlc0TlpmTGVqZzFEMlhsMXdKRXdhWWN0OXJTVjdqTi1aX2E5dk9ZcEc2NWNoM3FYVDM4OFNXQ3ZLNG4wN2VucHgzZjg5RVlrTF8tZnRHYTg4emZJS19OdGhzUWc?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-16 15:30",
    "published_iso": "2026-08-16T06:30:00+00:00"
@@ -58,7 +58,7 @@
   {
    "title": "外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人（写真・画像 1/1）",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZGZlUkcyWXg3d0hNb09TYlV2eVpwVUg4QnVXZlk5c3dWS0t4R3RuWGdKZ3l5V2t6ckIxWG01b0daRlVyZ0hrUW1Nd2JJcklkMmNFSHlvTnRVZ1hfTE1Ka084ZUNnWENRTkx4U2FSd2F6b28tbEpHSGtxTHFSWTRaRU8yNGFBRDgzZVZGM09RR2Q5OWNQLTRXeGdfYWJlUXlyd3c?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-16 15:30",
    "published_iso": "2026-08-16T06:30:00+00:00"
@@ -106,7 +106,7 @@
   {
    "title": "トランプ米政権が移民捜査官に電気グローブ計画 人権団体が批判 刑務所や警察施設で使用",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydXlsVVd0cUhWXzIxU0c1ejIwSWl6bktQUU5Pa1BrVFh1aVZmcWpXaFlvTU0zaXFtbU8welFzMGRKWVBNbHdTbWZabEpzMWdGU1YxY0ZmWVFNNlhvaHZDallhazRfZkpTX0pOczRZejROLWtIMUE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-16 05:47",
    "published_iso": "2026-08-15T20:47:18+00:00"
@@ -114,10 +114,18 @@
   {
    "title": "＜主張＞1億2000万人割れ 移民に頼らぬ人口戦略を 社説",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NFJOaHhlME93akx4eUNjS0xqSUI1UDl5THQ2YUdoZmxGaVFYQ2wzQzl1M2Q3THlpdDJyekx6S0xWS2FVQ0pITXhpTFFxdVVkOVhjczNoRy1ZbVBQeWtPOFBaUGgtQ1RHT2F1Zm9ZaU1qZE44Q2c?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-16 05:00",
    "published_iso": "2026-08-15T20:00:01+00:00"
+  },
+  {
+   "title": "帯広市 外国人相談窓口を開設 英語やベトナム語、中国語で生活相談",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCZHBIWENTdEZyZGZrdEtTWUs3TzR0OFRIRGRaaWVJa1pzT1pUVGltWlQtNmgzOE5YN3RkR2hXaHZuV3lKenlzT01VTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-15 15:58",
+   "published_iso": "2026-08-15T06:58:09+00:00"
   },
   {
    "title": "ヒロシマ訪問、4割が外国人",
@@ -134,6 +142,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-15 11:00",
    "published_iso": "2026-08-15T02:00:00+00:00"
+  },
+  {
+   "title": "佐世保の外国人バーにぎわう…トリポリ乗組員は「涙が出た」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5seTZaV0ZHMGUxdzh0QnFsdUZBRmdQRVZmN2RBMkkzdFIzbjN1cDRnZU5TdTlKWFlYZWl0V2ducF9nZlh0bHNneVdKbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-15 10:22",
+   "published_iso": "2026-08-15T01:22:00+00:00"
   },
   {
    "title": "南スーダンの首都ジュバ近郊で水をくむスーダン難民＝2024年1月（ロイター＝共同） - 南スーダン難民支援途絶も 国連2機関、65万人超対象 - 写真・画像(1/1)",
@@ -192,14 +208,6 @@
    "published_iso": "2026-08-14T05:32:00+00:00"
   },
   {
-   "title": "持続可能な多文化共生社会の実現に向けたアクションを 「多文化共生の担い手・実践者全国会議2026」",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENGlOVWp5Z1VocXJsd3dSQzdZRl9tb2VzQ3ljTzh5VXpzNGxEcTNyeDZQemhsQ2N6blRCOXB5RmRta3doMDhJRWxvcVItdFh2ZndSR0Vn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-14 11:25",
-   "published_iso": "2026-08-14T02:25:25+00:00"
-  },
-  {
    "title": "国際化広報ポスター 小谷さん（高梁城南高）最優秀賞 多文化共生の社会づくりテーマ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nak9jaFBJMkVUSTQzUzljckxLMWMxUkFXWDhGanVMa1NaTmh2NnVRM2FCVXBaR3JWa1dWQzZsUFJoRTVoUnRtOTNIVQ?oc=5",
    "source": "47NEWS",
@@ -218,7 +226,7 @@
   {
    "title": "日本で働いた外国人 出国後の住民税滞納額割合18.6％ 全体4.6％で目立つ徴収漏れ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcFJDS19lWXBrRVpxcXhpUVN0bmZTUkdPRFN5LTdSLTlhTFpMM0VWczZick9MV200LU1LMVFVcm16cWtSeEpwT1doa2hmOXI0MmFBcElGTGpQV1QxeThKMHNkSnFHQ2tSWWM5UkdzcjlOWDlGWEE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-14 09:58",
    "published_iso": "2026-08-14T00:58:07+00:00"
@@ -258,7 +266,7 @@
   {
    "title": "【速報】ベトナム国籍の技能実習生を殺人未遂容疑で逮捕 同じ職場の男性の頭を皿で殴る 兵庫・洲本市",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3VDVlJUSVVzT1lnMjBDbnB5ZVJXQWVHaENhYm1yaGdGRTJ4bTQwWV9XajBESU9iQTVmMnhKbnN1a1ZaT29XdWhoV2dKbTJicm51cmU1Q0JWRnFIUEs0dW1mYV9HMG1XRGJySWxTZ21RR1dxSGc1VlllMmxLTjlzc1g3czQyQ1E?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-14 01:22",
    "published_iso": "2026-08-13T16:22:00+00:00"
@@ -266,7 +274,7 @@
   {
    "title": "米不法移民の摘発に「電気ショックグローブ」導入へ 悪用も懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLUx3eDRJYzJRU0h3ZThjVGtfQWVzNFBBdTVMaktTa3BGbU1mUlRUV2pyUVNZc2g1WVlvTXFTWUZJQ3BmZ0ZOLVdMcDlHLThNWWp4REtzTWMyOFVXdkJnNFlkUGRJZUNS?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-08-13 16:58",
    "published_iso": "2026-08-13T07:58:15+00:00"
@@ -290,7 +298,7 @@
   {
    "title": "横転事故の後、路上にいたか 南九州道で車にはねられ外国籍の男性技能実習生が死亡",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVFXZXFmSlk0SjJnREo2aEI1OUtGekl0eEZNZTd1bE5lQm8yRWtlMXhyRENCT0VzbEpWN3Axby1IQVJmNVNyU3ZET19QRWFYRzViY1ZaZ0JfQmlOclpxSnRxZXR2U1FmSVJMYzRnRU16UVpTUXZMOFFJemtLbkQwWU81YWVscVU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-13 12:19",
    "published_iso": "2026-08-13T03:19:00+00:00"
@@ -306,7 +314,7 @@
   {
    "title": "＜正論＞外国人材を惹きつける戦略を 東京大学教授・阿古智子",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xNmxMRC1aWU5jS2RrdTJHZHNyMVlVVzBfbWoxUmJNUjVybVJFSllTN3BDT2RkVUNEWHpUZ3RfNi1FUHhqcW04WGs0aFhaUkwwTmlRRVNrWW8wTDloVDZzcmNFay1MSzFmSmFMVlFtNEJJeGpOWXc?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-13 08:00",
    "published_iso": "2026-08-12T23:00:00+00:00"
@@ -338,7 +346,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "sp.m.jiji.com",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -370,7 +378,7 @@
   {
    "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5feF9CMWsyZkNwbi1icW5iZEw5TGY0RXNFN3hjSXdzX1U0RHJfZkxVUGl0YzhXOFYzR0VJSHRTc0JyVnR2OThfZTZJMkQydWVwcVdSRUF3UDdVbUlGNlJlNTVqMEFZTU5NakUyaW10NmNHbWllWVVaVVdNUVFqRzQ?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-10 19:58",
    "published_iso": "2026-08-10T10:58:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-09 21:06",
    "published_iso": "2026-08-09T12:06:49+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
   }
  ]
 }
