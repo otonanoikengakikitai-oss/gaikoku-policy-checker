@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T08:25:28+00:00",
+ "generated_at": "2026-08-16T09:23:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "仙台市の住宅街に突如現れる100mの巨像「ラスボス感」が話題 外国人魅了「あそこに連れて行って」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HcVZUbUt0SEZHWEdUdlVVLU5HcnhZZUI4dmFYUzJkMDZUXzBZMmh3eWd0R2ozb0xRb1hFYXBjVVdhMXV2QXNFQU1Jd21lMk1xbUpR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-16 17:32",
+   "published_iso": "2026-08-16T08:32:06+00:00"
+  },
+  {
+   "title": "外国人のレンタカー事故、コロナ禍前水準上回る 観光庁が実態調査へ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cHdXMkJTb3hNYm1tU2g1R2lFLThDd0k4Z3JOOEFLdnduQ1NnV2RDMGE0c3cxNEJWeVM4b05DOVUwSjFWUXdacEwtaDN6VjBvZjc5N0VFTGxpdE5Eak5icUt4bmtxTHM2RzdGWA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-16 17:27",
+   "published_iso": "2026-08-16T08:27:58+00:00"
+  },
   {
    "title": "増える高齢外国人 懸念される「老後の貧困」 日曜講座 少子高齢時代 客員論説委員・河合雅司",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UOWZqWXB2Ykxhb1hZTXh0WG1XeWVSY1VCQ1BaTkJEREkyY2x4b2hzbV8yT0ppZkpKTERVU05ULUIwVnVPb2pqQXNmU09BLXdTbFl5aUZGanE1ckVJRE5RenlSdldzT1RoV0xPY0htb1RSN1JKWFE?oc=5",
@@ -16,12 +32,12 @@
    "published_iso": "2026-08-16T08:00:00+00:00"
   },
   {
-   "title": "“関東の冷蔵庫”奥日光 定番から穴場まで 外国人が鳥居にモノを投げる理由とは",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QSV94NXRVWjJIRUFkSjVZbE9vVVBuN3B4dF9IV3ZRZkZTd1pSVk1XZUZ4RWhpYXlQcHdnaUV3QTNZYzA5MEpqVDBjbm0wOGNDaWJISjgzU21OVXlRbGlMYzBocEd4LXFZVUxUQk9HY3hZZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-16 16:30",
-   "published_iso": "2026-08-16T07:30:53+00:00"
+   "title": "【速報】富山市の路上で強盗事件 50代男性が現金奪われる 逃げた3人組は外国人風・白マスク着用【現場画像あり】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TnluQWNKZy1JVHB6aGktWUpGQ1JsS2VWSkU0LTFVUmJvb1pkMmtudWFjbkRSYWNBRHZJcjZmc0pQd1MtYlVHVXZieVpaZlVGNXlnWDc2eFNycnVJNzFEUVFHTDJwcjg?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-16 16:02",
+   "published_iso": "2026-08-16T07:02:00+00:00"
   },
   {
    "title": "外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人",
@@ -30,6 +46,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-16 15:30",
    "published_iso": "2026-08-16T06:30:00+00:00"
+  },
+  {
+   "title": "“関東の冷蔵庫”奥日光 定番から穴場まで 外国人が鳥居にモノを投げる理由とは",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QSV94NXRVWjJIRUFkSjVZbE9vVVBuN3B4dF9IV3ZRZkZTd1pSVk1XZUZ4RWhpYXlQcHdnaUV3QTNZYzA5MEpqVDBjbm0wOGNDaWJISjgzU21OVXlRbGlMYzBocEd4LXFZVUxUQk9HY3hZZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-16 15:00",
+   "published_iso": "2026-08-16T06:00:00+00:00"
   },
   {
    "title": "空港職員確保へ待遇改善、入管庁が要請 審査待ちの短縮狙う",
@@ -42,7 +66,7 @@
   {
    "title": "県内在留外国人、初の２万人超え ２５年末 東南アジア勢伸びる",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xcE9OT2h3UEhvQ2NhNnJvUWRGVVJ3dGQ2ZEpaUV9sdlExWW9ZWG9tODNySGFNLUtpYVFLa3FXSEZiMHFFdEhCa09FUQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-16 10:50",
    "published_iso": "2026-08-16T01:50:15+00:00"
@@ -82,7 +106,7 @@
   {
    "title": "帯広市 外国人相談窓口を開設 英語やベトナム語、中国語で生活相談",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCZHBIWENTdEZyZGZrdEtTWUs3TzR0OFRIRGRaaWVJa1pzT1pUVGltWlQtNmgzOE5YN3RkR2hXaHZuV3lKenlzT01VTQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-15 15:58",
    "published_iso": "2026-08-15T06:58:09+00:00"
@@ -98,7 +122,7 @@
   {
    "title": "外国人が絶賛 日本が“世界一”のモノは？ “暑さの救世主”になっているモノも",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdTVSSnZvOFh5VHdHd3AyVDBIcThibG1JY0ZjR3lreFFoN245ZXN4cG0zQzVJNmFSYnVWOUdoR1RSMHgyMXdfNUM1OXZYRjV2NDM4MUE1aXp3QUZnTEZxWFJvR2w0a291SXBEb0dqaFVPQQ?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-15 11:00",
    "published_iso": "2026-08-15T02:00:00+00:00"
@@ -106,7 +130,7 @@
   {
    "title": "佐世保の外国人バーにぎわう…トリポリ乗組員は「涙が出た」",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5seTZaV0ZHMGUxdzh0QnFsdUZBRmdQRVZmN2RBMkkzdFIzbjN1cDRnZU5TdTlKWFlYZWl0V2ducF9nZlh0bHNneVdKbw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-15 10:22",
    "published_iso": "2026-08-15T01:22:00+00:00"
@@ -178,7 +202,7 @@
   {
    "title": "国際化広報ポスター 小谷さん（高梁城南高）最優秀賞 多文化共生の社会づくりテーマ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nak9jaFBJMkVUSTQzUzljckxLMWMxUkFXWDhGanVMa1NaTmh2NnVRM2FCVXBaR3JWa1dWQzZsUFJoRTVoUnRtOTNIVQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-08-14 11:15",
    "published_iso": "2026-08-14T02:15:46+00:00"
@@ -186,7 +210,7 @@
   {
    "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
    "published_iso": "2026-08-14T02:09:00+00:00"
@@ -248,6 +272,14 @@
    "published_iso": "2026-08-13T07:58:15+00:00"
   },
   {
+   "title": "外国人受け入れ制限の検討が本格化しています",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jaWY2U2s4aVlfS0R4akhhSl9wV1J6RU54Y3pBa1huXzBibDdRemxQTWNsVV9oRU90VmpZdjF2UGZ0ZVBObTJIbEFRbjVKVnBZQ3hUV01weVFaQ3VnSElnbmQ5ZzNvSGs?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-13 16:30",
+   "published_iso": "2026-08-13T07:30:47+00:00"
+  },
+  {
    "title": "社説：永住許可の厳格化 外国人共生を損なう指針案",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZW1YblVYbmJtUUtFMlhZNENETlZVNmcyN3hsZTFsUUpsVXhDYkI2TWJxcUM0MmlHSk5nTEw2YUxRdElxalVqT2dRTzd1dUxsT0MwZFJhdi0?oc=5",
    "source": "京都新聞デジタル",
@@ -258,7 +290,7 @@
   {
    "title": "【画像まとめ】意外なところに外国人観光客 ギャルメイク体験 高い技術…原宿の美容室が訪日目的に",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2bHctVXdrOFZNQkwwbEJYeGl4MDBuN05ObXVCdVQydFROcE16UWRGc0RjczMzd2ZfZno1aWhINDgzZmV6WTJIOFB4dDhtODF0VGpzOWdIb2ZwNmpfXzJpclRtRnVPaW1qdjFJUEY1dGY5NV9XbWpOMERzZw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-13 15:14",
    "published_iso": "2026-08-13T06:14:00+00:00"
@@ -336,14 +368,6 @@
    "published_iso": "2026-08-12T05:20:49+00:00"
   },
   {
-   "title": "（GLOBE）移民選手が興奮生み出すW杯 トランプ介入の矛盾もあぶり出す #2331",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdi1IMGdxdXZ6bS12SlUzeDRPalpHcDIwaHFERk5IS2FtY1Y3V1FLVWRrNEtzQlc4Nm1kQVBsMThsRFV5NkMxVjB0ZmpaZFUyQ044Vl9vX0paVHQ1eElxcVhhV1NKeGlrazBNcHphS2ltbU9LZTF6VThFX1V4TDZlelB4eGtwdW45YkJDUFA5dHNMdw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-11 09:26",
-   "published_iso": "2026-08-11T00:26:45+00:00"
-  },
-  {
    "title": "入管庁、強制退去の外国人情報を自治体に提供",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
    "source": "時事ドットコム",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-10 11:30",
    "published_iso": "2026-08-10T02:30:00+00:00"
-  },
-  {
-   "title": "外国人の永住許可「抑止」案は「生身の人間の運命をもてあそんでいる」 東京・高田馬場で反対アピール",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYmNPZVp3YURfdEhsN2JMb1hSdjh4aC1mTV8wRVpQUldEczdjbTZZT091VTNRNmtfTXJuQS1OS2tnbDVjbkJFRWVfM1FWZHJ2bnNv?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-09 21:06",
-   "published_iso": "2026-08-09T12:06:49+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 07:06",
-   "published_iso": "2026-08-08T22:06:00+00:00"
-  },
-  {
-   "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-08 15:00",
-   "published_iso": "2026-08-08T06:00:00+00:00"
   }
  ]
 }
