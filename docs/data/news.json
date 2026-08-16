@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T02:57:02+00:00",
+ "generated_at": "2026-08-16T03:49:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -10,7 +10,7 @@
   {
    "title": "空港職員確保へ待遇改善、入管庁が要請 審査待ちの短縮狙う",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cd3VwV2VtQnJuRHI0TzQ5YkdnQk4xdFJVZVpzcjQzYkxhYVlOWmctZ2JKMlBDenoya1pWYjVvd09YZjB1M28xQ2RheXF3WkQzTW0tZG41R0xPX1h5cV9kbGMxVVdTbW9KbnhTRA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-16 11:00",
    "published_iso": "2026-08-16T02:00:00+00:00"
@@ -22,6 +22,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-16 10:50",
    "published_iso": "2026-08-16T01:50:15+00:00"
+  },
+  {
+   "title": "米政権、移民捜査官に電気手袋 抵抗者に痛み、人権団体が批判",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93U0lFWHZhZmRTLTFBeGhSMWFsVVNsbk45RmRtZkRUU0JhVG9LYmxsY1dXeW5BRXNob1R0UXo5Uk93WFZ2YkV6c1QyMDdzeU9jQ0VabWV6NGdIUVZwLTRwNnIwMXRRckJZNjhR?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-16 08:06",
+   "published_iso": "2026-08-15T23:06:44+00:00"
   },
   {
    "title": "“後ろ手錠”13時間で骨折…大阪入管は「違法な身体拘束」 高裁判決が重視した国際人権基準「マンデラ･ルール」と問われる収容のあり方【“知られざる法廷”からの報告】",
@@ -74,7 +82,7 @@
   {
    "title": "ヒロシマ訪問、4割が外国人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVYUNXc3hoNnlwRW5BUERSSDdTMlpkYUZUNjVVNkdISEFZU0VNQ05Qa3Jua0FhQ3UzZmRTQUVNTGFBcm1CdEJhUTdaMm84Qjl4Q3NId0JOczVhd0lNQnQ5aTZlTG9VaUNYdjVqMg?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-15 14:30",
    "published_iso": "2026-08-15T05:30:00+00:00"
@@ -122,7 +130,7 @@
   {
    "title": "［政策点検 高市政権］＜７＞対外国人 「秩序」前面に…「もっと厳しく」規制暗礁も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81ekRQdmZYX1YtU05LWXk5clpCeFJPUmdCSDNBZ3VmQnRCTFpMOVBkY0xrYjFVTkRYbzNNQkRDOF92Y0I0RlowZ21haHV6aHB0bldvOFRZV1B4aEVzV2UzT3RWd1JNQQ?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-15 05:00",
    "published_iso": "2026-08-14T20:00:00+00:00"
@@ -130,7 +138,7 @@
   {
    "title": "書評『はい、移民です。文句あるかい？』マイク・モラスキー著",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUkxpdVNmelZCWWFsQ0dwUGljSjRReDd0ZUNveWd0UFZ2bmppTHNmb2lpaU4wWUp1dXRuQUd1cXJNYWQxQmtZLUxicU1vLVk1YWh2Vmw4cUpVWUdtcTZSWXM3dEhRQktGaDlNRQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-15 02:00",
    "published_iso": "2026-08-14T17:00:00+00:00"
@@ -160,8 +168,8 @@
    "published_iso": "2026-08-14T02:15:46+00:00"
   },
   {
-   "title": "【画像まとめ】外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaa0FBaUM1djBqNEVucGxyb2ZaOGNxYzEzQ1BSR3dzRWZzVEotUWduQ3JHbHpJQ0Vkal9ac2docUJEUS02b0xqNlR5ZVZmWGd4eXkxLVZCNDdzRkdMOVBEZHdtSGxWUlJxWjFka3A4UzZLeW1lRGxYTXk5MA?oc=5",
+   "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-14 11:09",
@@ -178,7 +186,7 @@
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcUFjdzVnTFdKN2dXcGtmSmRoT0JjRm51WDJRNUNIRHdYUUUwdVNob2lSZGxleTdjV2F0ZjRqcFB3RHVzTW5IbnZXZ0c0ZU8wcHVINGl0SDlyRTltU2RKZ0ZVME91NUF1MzlJ?oc=5",
-   "source": "神戸新聞NEXT",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-14 08:38",
    "published_iso": "2026-08-13T23:38:27+00:00"
@@ -210,7 +218,7 @@
   {
    "title": "外国人の高度人材、認定の年収条件引き上げ 26年度にも省令改正",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KM05SUDVEbmQ0Q1ZDR2lxRlQzcVZTdF9pa0pTWVVsZUk2Nm1HRGc5VjhHVVV4ekFabEtLeXlNR3gyVlVpY1hhOXZNdXlORXhHVzJiREU3MWVUM05kcUc1T3FHY3R5TlloRUVZOQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-14 02:00",
    "published_iso": "2026-08-13T17:00:00+00:00"
@@ -258,7 +266,7 @@
   {
    "title": "「10分泳げば欧州」スペイン殺到の不法移民、数千人滞留 住民の不満募る",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWF9kRTg2Qm9fNXIzQXVPSktCdWVZSFdrck9wVWxZZHBoN29BeXNkb0xNd205dDc1d0U1cGxrdnRkY1Z4SExtcTNmT0cxUEx1TlVGcDVlQU0xdm9mLXNLS2FCcHh1dFhETEFKZA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 11:00",
    "published_iso": "2026-08-13T02:00:00+00:00"
@@ -282,7 +290,7 @@
   {
    "title": "静岡県袋井市、多文化共生へ企画展 ほっこりエピソードで相互理解",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81OFkyVzlUcWRWNGRvcldMNjZoaU9oY0E5YXU1WUFTaTNLS3BQSFJ3VXNvSGNwemxpM3FZb19JamZma1o2b1dZSTdoU25weGZpeEU5WnBPZzZ1Rko3UWFxdmZacXk4U3BBaE5hbQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 05:00",
    "published_iso": "2026-08-12T20:00:00+00:00"
@@ -290,7 +298,7 @@
   {
    "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 02:00",
    "published_iso": "2026-08-12T17:00:00+00:00"
@@ -298,18 +306,10 @@
   {
    "title": "スウェーデン首相、スペインの不法移民の合法化を批判",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMGV1bDlzcUFxdXU0a3hQN3FwRVBWSWRGTGhoNmJkeGJHMmlNaGpQRzZMQ1pLallESzBVLTNaaEVmX0lobmF3Nlk4aFJsN1ZuRkN3bll3UzNaQVNyTkx0YkJIYk8zWjAtVEhydzQwVVpsYXM2QVhj?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-13 00:00",
    "published_iso": "2026-08-12T15:00:00+00:00"
-  },
-  {
-   "title": "韓国サッカー協会による外国人審判らの性接待疑惑、日本サッカー協会の宮本会長「事実確認をしている状況」",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rcGg5WHZETFhCZWxLUExyTzQ4ZUNDU2RPNG0yc1ZCek16WWxWX01nSkFBVk85WnNsakFKNEljWThSa09XbkxsVGh0bjhyZ0dha3RPZVhabU9oa0h3TFZ1TVZ4MUxlanNheEsxWjE1WlpYTkgtQzFqWQ?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-12 20:13",
-   "published_iso": "2026-08-12T11:13:00+00:00"
   },
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
@@ -330,7 +330,7 @@
   {
    "title": "スペイン、揺らぐ移民寛容政策 7万人殺到で排外主義再燃に懸念",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-12 14:20",
    "published_iso": "2026-08-12T05:20:49+00:00"
@@ -368,6 +368,14 @@
    "published_iso": "2026-08-10T08:57:45+00:00"
   },
   {
+   "title": "「受刑者の4人に1人が外国人」 誤った数字が拡散し外国人排斥に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbGVTajhmaHU5TExEWGkwLTV0X203RVBod0Itd0dlWksxUS1MdFNBOVlYQ1A4anFsaEoza2J0ZlNkcXFhQmtBZVpYaWh2Qmk3dlZLZUQ5V2tlTW16QVA1ZXd2ZFpDVW8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-10 16:00",
+   "published_iso": "2026-08-10T07:00:00+00:00"
+  },
+  {
    "title": "日本の偽警察署も 外国人詐欺集団に狙われる最貧国 首都の異様実態",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSnNRVkNLeGFWeUxUcnlpalp1XzVUWTN5NVJTS29kbjU0cG1vMDQzdFYxbnhJVXBNVEE3QVBmWlp2cVdMWDV5RE9lblF4WlZUTXZWSFA3SGJrdjctZTJkUXlEU3ZFVVk?oc=5",
    "source": "朝日新聞",
@@ -394,18 +402,10 @@
   {
    "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 15:00",
    "published_iso": "2026-08-08T06:00:00+00:00"
-  },
-  {
-   "title": "スペイン、移民騒動でイタリアに「対抗措置」警告 国境管理強化うけ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfSnA0OTB2aEpTMV9JSmVmVDFRVlBCN2FJRlFyTWM2U3VUS0lac1FGOEw0eEdyTWhpR1ZJZl8zS1pRX1BoMDhyZWhCY180UkNhYUNKY1JPamFOYlVxdnZPVENPNlJQcmtZckMxag?oc=5",
-   "source": "nikkei.com",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-08 01:44",
-   "published_iso": "2026-08-07T16:44:33+00:00"
   }
  ]
 }
