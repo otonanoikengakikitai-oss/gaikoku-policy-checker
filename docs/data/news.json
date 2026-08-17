@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T16:23:28+00:00",
+ "generated_at": "2026-08-17T17:23:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -98,7 +98,7 @@
   {
    "title": "外国人の学び支える夜間中学 全国で生徒増、在籍の6割に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yQlA4NmI0SDg3ZW9KLXFNWlJZSEhTZHdROVJCYVBKdl9lNGNUTW1ERUZCQkRMd1Q1RDNZVVJtUzRpV3hma1U0QjBfaUJyd1piaXRHa3BxTWIydw?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-17 04:00",
    "published_iso": "2026-08-16T19:00:00+00:00"
@@ -246,6 +246,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-14 15:00",
    "published_iso": "2026-08-14T06:00:00+00:00"
+  },
+  {
+   "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdnNfY05rX3dMaHdHdGtQOWZFTE9HeElOQnlXU1dWcnp6ZFV5VTdqMENPdHNXOTNzWlY5eTdERy16OXRwUjc3OXljRjhQR01ONjlxcHRPM205VjZ2TU03c0hmWQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-14 14:32",
+   "published_iso": "2026-08-14T05:32:00+00:00"
   },
   {
    "title": "日本で働いた外国人 出国後の住民税滞納額割合18.6％ 全体4.6％で目立つ徴収漏れ",
@@ -398,14 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 16:00",
    "published_iso": "2026-08-08T07:00:00+00:00"
-  },
-  {
-   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 16:00",
-   "published_iso": "2026-08-07T07:00:00+00:00"
   }
  ]
 }
