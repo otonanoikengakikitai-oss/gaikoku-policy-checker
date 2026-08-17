@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T19:25:22+00:00",
+ "generated_at": "2026-08-17T20:22:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「政治家は現場見て」崩壊危機の老人ホームの食 外国人採用停止",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnOGtGTk5JQlNxOG10VlU4N2pMVnVMSi1fS3N1Y216ZF8wd2xNVDh0TWVyWG0tMmFFU0pCRTJBWmRDc1RYRC1DN05UZk9tSU5KRTlqQ1IxTjJXSGpZdEItTFJ2R2M3dXBm?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-18 05:00",
+   "published_iso": "2026-08-17T20:00:00+00:00"
+  },
   {
    "title": "見よ！ イタリア移民の伝統祭り",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4cHBoUWVkLUpJVWZwQ2o4Z3gzRHpDWmVJcnM3Q2F6dE5yM21NME9MNHlqSjltQnhENV9BWk5pbHU5VGhFay16QkFJXy0xRF9LTUZaUmpJd3BSTHlFV0FjV1pYWFA?oc=5",
@@ -145,7 +153,7 @@
   },
   {
    "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXNoOGRwcXJzcFdHSEl1dHJqOWEwN3NtZVZ0TVFiR0hzT1lYbGdkTGVtc2RqNXFoOTF1WUFLLXl1eTk5aUxseGpRSFpZZmZFMUlFNFVTWlZxM1pULUhsSVVPYkd2WkhiSDd6SGZ3aHd5QjFnRDdBclUxeGVrRHAwcg?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-16 16:42",
@@ -232,6 +240,14 @@
    "published_iso": "2026-08-15T02:00:00+00:00"
   },
   {
+   "title": "南スーダンの首都ジュバ近郊で水をくむスーダン難民＝2024年1月（ロイター＝共同） - 南スーダン難民支援途絶も 国連2機関、65万人超対象 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oYTRwdFZxR25HRkdPRV9aTlNoMk1GUmpfNDVCaDU2OGU2YXloUmJtRFlmZVRWNUZOek43Wk5WeVk4MWpyMWdKTE5nSWJRWkVkTWxJWENHVQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-15 10:12",
+   "published_iso": "2026-08-15T01:12:48+00:00"
+  },
+  {
    "title": "南スーダン難民支援途絶も 国連2機関、65万人超対象",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeEFvRzE1MG51aHJPdVBxRWRXdHVFcUxpOV85WXBiLV9QcmxTSWQzNG4yRkVIYmM2ZE9zWGMtT2FnVDZ6ZTZxZ2tCc09OOUhUMGJTcDVR?oc=5",
    "source": "西日本新聞me",
@@ -264,6 +280,14 @@
    "published_iso": "2026-08-14T05:32:00+00:00"
   },
   {
+   "title": "外国人観光客が放置した衣料でファッションショー スーツケースは格安で販売",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBRTZzbUV2b3hLMjY4bXZLY2kyT2Zld1Q3a2hDVGlWSzVKNGxQUDZFSFVKQzJmMkVQa2RseWhZa0dKVjM4TzVMYWg0VFdQZW00RGNHbmFZVjB0QWFuMlBjZlJXVnM3cnI3Y2NLQWtDNzVBZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-14 11:09",
+   "published_iso": "2026-08-14T02:09:00+00:00"
+  },
+  {
    "title": "日本で働いた外国人 出国後の住民税滞納額割合18.6％ 全体4.6％で目立つ徴収漏れ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcFJDS19lWXBrRVpxcXhpUVN0bmZTUkdPRFN5LTdSLTlhTFpMM0VWczZick9MV200LU1LMVFVcm16cWtSeEpwT1doa2hmOXI0MmFBcElGTGpQV1QxeThKMHNkSnFHQ2tSWWM5UkdzcjlOWDlGWEE?oc=5",
    "source": "産経ニュース",
@@ -274,7 +298,7 @@
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcUFjdzVnTFdKN2dXcGtmSmRoT0JjRm51WDJRNUNIRHdYUUUwdVNob2lSZGxleTdjV2F0ZjRqcFB3RHVzTW5IbnZXZ0c0ZU8wcHVINGl0SDlyRTltU2RKZ0ZVME91NUF1MzlJ?oc=5",
-   "source": "神戸新聞",
+   "source": "kobe-np.co.jp",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-14 08:38",
    "published_iso": "2026-08-13T23:38:27+00:00"
@@ -360,6 +384,14 @@
    "published_iso": "2026-08-12T17:00:00+00:00"
   },
   {
+   "title": "［深層ＮＥＷＳ］スペイン飛び地に不法移民殺到「機会があるなら行ってしまえということかも」…岡部みどり上智大教授",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41UnBIVm1kcS1hcG43NFRIT0NpMUdGMGNlREZqOTNrV2w2b0h1WHoxb2cyS3FQM09YOXJjRVVxQmoya01RSzNibXZhOVBKN2pqMGh0OVgzVDJoUkdGUGJPUlZn?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-13 00:28",
+   "published_iso": "2026-08-12T15:28:00+00:00"
+  },
+  {
    "title": "スウェーデン首相、スペインの不法移民の合法化を批判",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOMGV1bDlzcUFxdXU0a3hQN3FwRVBWSWRGTGhoNmJkeGJHMmlNaGpQRzZMQ1pLallESzBVLTNaaEVmX0lobmF3Nlk4aFJsN1ZuRkN3bll3UzNaQVNyTkx0YkJIYk8zWjAtVEhydzQwVVpsYXM2QVhj?oc=5",
    "source": "日本経済新聞",
@@ -374,38 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-12 16:00",
    "published_iso": "2026-08-12T07:00:00+00:00"
-  },
-  {
-   "title": "スペイン、揺らぐ移民寛容政策 7万人殺到で排外主義再燃に懸念",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-12 14:20",
-   "published_iso": "2026-08-12T05:20:49+00:00"
-  },
-  {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-11 06:28",
-   "published_iso": "2026-08-10T21:28:00+00:00"
-  },
-  {
-   "title": "【山口】ルールを知って事故にあわないように！技能実習生対象の講習会開催（2026年8月10日掲載）｜KRY NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQWt3V1BDY0tWWTNMc2hkMTBwb1BBdWhRODV4RFJtTmJwdDJ6YnBWLV9kYVlobzdKUEZYRzZ1UWVZcHhaM21RTE5PdFkxbUFVWjBrNllxVHRxeTQ0WHpuMmJ0N0IzRERhRlJXR0lNckZaWFROdVJGUHMzUHdwTHhEV013Z0NkVjQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-10 19:58",
-   "published_iso": "2026-08-10T10:58:00+00:00"
-  },
-  {
-   "title": "急増する“特定技能”人材 定着へスタートアップと連携 愛媛",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13cksybnBfRG4zbTNjZ2dmRVRSd0Z3VFE1R2hNQlcySUM1dC1rVUU5aVVoQU5YU0M3R3N1bWp4Q0FnbmR4MlJWRC11ZENVbGlMX2RjRFBDZEIzNlRtbTE5djhZTktLUU4y?oc=5",
-   "source": "nhk.or.jp",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-08-10 17:57",
-   "published_iso": "2026-08-10T08:57:45+00:00"
   }
  ]
 }
