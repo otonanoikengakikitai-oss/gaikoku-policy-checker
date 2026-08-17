@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T15:21:40+00:00",
+ "generated_at": "2026-08-17T16:23:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,8 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4cHBoUWVkLUpJVWZwQ2o4Z3gzRHpDWmVJcnM3Q2F6dE5yM21NME9MNHlqSjltQnhENV9BWk5pbHU5VGhFay16QkFJXy0xRF9LTUZaUmpJd3BSTHlFV0FjV1pYWFA?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-17 23:32",
-   "published_iso": "2026-08-17T14:32:51+00:00"
+   "published": "2026-08-18 01:02",
+   "published_iso": "2026-08-17T16:02:51+00:00"
   },
   {
    "title": "広島県内の外国人観光客数が初めて500万人を超える 2年連続で過去最多を更新 アメリカからの観光客が前年から41％増加",
@@ -98,7 +98,7 @@
   {
    "title": "外国人の学び支える夜間中学 全国で生徒増、在籍の6割に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yQlA4NmI0SDg3ZW9KLXFNWlJZSEhTZHdROVJCYVBKdl9lNGNUTW1ERUZCQkRMd1Q1RDNZVVJtUzRpV3hma1U0QjBfaUJyd1piaXRHa3BxTWIydw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-17 04:00",
    "published_iso": "2026-08-16T19:00:00+00:00"
@@ -137,7 +137,7 @@
   },
   {
    "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXNoOGRwcXJzcFdHSEl1dHJqOWEwN3NtZVZ0TVFiR0hzT1lYbGdkTGVtc2RqNXFoOTF1WUFLLXl1eTk5aUxseGpRSFpZZmZFMUlFNFVTWlZxM1pULUhsSVVPYkd2WkhiSDd6SGZ3aHd5QjFnRDdBclUxeGVrRHAwcg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-16 16:42",
@@ -158,14 +158,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-16 15:00",
    "published_iso": "2026-08-16T06:00:00+00:00"
-  },
-  {
-   "title": "県内在留外国人、初の２万人超え ２５年末 東南アジア勢伸びる",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xcE9OT2h3UEhvQ2NhNnJvUWRGVVJ3dGQ2ZEpaUV9sdlExWW9ZWG9tODNySGFNLUtpYVFLa3FXSEZiMHFFdEhCa09FUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-16 10:50",
-   "published_iso": "2026-08-16T01:50:15+00:00"
   },
   {
    "title": "若き力で多文化共生の種をまく！「国際交流ファシリテーター」に新潟県内4大学の学生44名が任命",
@@ -406,6 +398,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 16:00",
    "published_iso": "2026-08-08T07:00:00+00:00"
+  },
+  {
+   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-07 16:00",
+   "published_iso": "2026-08-07T07:00:00+00:00"
   }
  ]
 }
