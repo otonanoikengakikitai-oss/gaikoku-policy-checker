@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T14:24:26+00:00",
+ "generated_at": "2026-08-17T15:21:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,8 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4cHBoUWVkLUpJVWZwQ2o4Z3gzRHpDWmVJcnM3Q2F6dE5yM21NME9MNHlqSjltQnhENV9BWk5pbHU5VGhFay16QkFJXy0xRF9LTUZaUmpJd3BSTHlFV0FjV1pYWFA?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-17 22:02",
-   "published_iso": "2026-08-17T13:02:51+00:00"
+   "published": "2026-08-17 23:32",
+   "published_iso": "2026-08-17T14:32:51+00:00"
   },
   {
    "title": "広島県内の外国人観光客数が初めて500万人を超える 2年連続で過去最多を更新 アメリカからの観光客が前年から41％増加",
@@ -66,7 +66,7 @@
   {
    "title": "オーストラリア「ワーホリ」ビザの審査手続き遅れる 政府が移民政策見直し 日本人の発給にも影響か",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSzh1UGNxR0RkWnE0bjZLU0g2aEM2NUp0VklPTjlnUUJEQVVmSXIyN3dVSmZYUmFHZkZxYWVCWlpLT2JpVl9MMW5QMTZRZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-17 11:32",
    "published_iso": "2026-08-17T02:32:00+00:00"
@@ -98,7 +98,7 @@
   {
    "title": "外国人の学び支える夜間中学 全国で生徒増、在籍の6割に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yQlA4NmI0SDg3ZW9KLXFNWlJZSEhTZHdROVJCYVBKdl9lNGNUTW1ERUZCQkRMd1Q1RDNZVVJtUzRpV3hma1U0QjBfaUJyd1piaXRHa3BxTWIydw?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-17 04:00",
    "published_iso": "2026-08-16T19:00:00+00:00"
@@ -166,6 +166,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-16 10:50",
    "published_iso": "2026-08-16T01:50:15+00:00"
+  },
+  {
+   "title": "若き力で多文化共生の種をまく！「国際交流ファシリテーター」に新潟県内4大学の学生44名が任命",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CZDhJOVNLeUs0LUd6VzFsdlducUJDTTZnY1EyM3pCZnMxZ0FNUmdVQWZuanRYTmNDOXpBRWJmeVJrOEVfTFZDMEJpNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-16 09:40",
+   "published_iso": "2026-08-16T00:40:00+00:00"
   },
   {
    "title": "米政権、移民捜査官に電気手袋 抵抗者に痛み、人権団体が批判",
@@ -240,6 +248,14 @@
    "published_iso": "2026-08-14T21:00:00+00:00"
   },
   {
+   "title": "大学教授や医師招き５探究講座、ＡＩ・移民など多彩なテーマ…白百合学園",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGp3N2Z1NmpjNm5lc3FtNEtEVzRFdHRTZnpKLV9rV095dUtaNU4waVpJVlM4M3NzbWZtcTVrQWNMZUs3Rm9qTE1DOVRvNVBVdGdTUVZKV3ZUV01ESjZ2a3VnRWFvSWxOU0s5UlphQlZzaVgyUnBIREN1Z3JaWXM0N2J1WXo4T3pTU2c?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-14 15:00",
+   "published_iso": "2026-08-14T06:00:00+00:00"
+  },
+  {
    "title": "日本で働いた外国人 出国後の住民税滞納額割合18.6％ 全体4.6％で目立つ徴収漏れ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hcFJDS19lWXBrRVpxcXhpUVN0bmZTUkdPRFN5LTdSLTlhTFpMM0VWczZick9MV200LU1LMVFVcm16cWtSeEpwT1doa2hmOXI0MmFBcElGTGpQV1QxeThKMHNkSnFHQ2tSWWM5UkdzcjlOWDlGWEE?oc=5",
    "source": "産経ニュース",
@@ -250,18 +266,10 @@
   {
    "title": "同僚に包丁を振り回し後頭部を皿で殴る 殺人未遂疑いでベトナム国籍の技能実習生の男逮捕 洲本",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcUFjdzVnTFdKN2dXcGtmSmRoT0JjRm51WDJRNUNIRHdYUUUwdVNob2lSZGxleTdjV2F0ZjRqcFB3RHVzTW5IbnZXZ0c0ZU8wcHVINGl0SDlyRTltU2RKZ0ZVME91NUF1MzlJ?oc=5",
-   "source": "kobe-np.co.jp",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-14 08:38",
    "published_iso": "2026-08-13T23:38:27+00:00"
-  },
-  {
-   "title": "「食事難民」解消へ一役、帰省客や観光客でにぎわう 佐渡市相川で「さど食の陣・大北海道展」16日まで",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9waERVVU1XSUJzbndsblZQSmJtZjg3aVN2Y0RLR1dia29ST2s5V3N4TkxxblpvbkdqRjRIR1h5R3VrZXBsVng3OW9WSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-14 08:10",
-   "published_iso": "2026-08-13T23:10:00+00:00"
   },
   {
    "title": "被災地で孤立、助け合う外国人 文化の壁、避難所にためらい―熊本地震",
@@ -398,14 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-08 16:00",
    "published_iso": "2026-08-08T07:00:00+00:00"
-  },
-  {
-   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 16:00",
-   "published_iso": "2026-08-07T07:00:00+00:00"
   }
  ]
 }
