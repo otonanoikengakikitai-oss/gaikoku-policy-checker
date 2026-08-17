@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T06:49:10+00:00",
+ "generated_at": "2026-08-17T07:50:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
+   "title": "富山の強盗、被害額は２００万円 外国人とみられる男３人組、車で逃走か",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NVjRTM05YdWtnUnNmcEFzc0Z3OXVDRzVnM3ZLTGc1SWJFRlhmYTNiX1pWSXVpT1JTWnNLTkszVkVmdDhrdTgtMS1UTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-17 16:05",
+   "published_iso": "2026-08-17T07:05:00+00:00"
+  },
+  {
    "title": "見よ！ イタリア移民の伝統祭り",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4cHBoUWVkLUpJVWZwQ2o4Z3gzRHpDWmVJcnM3Q2F6dE5yM21NME9MNHlqSjltQnhENV9BWk5pbHU5VGhFay16QkFJXy0xRF9LTUZaUmpJd3BSTHlFV0FjV1pYWFA?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-08-17 14:28",
-   "published_iso": "2026-08-17T05:28:32+00:00"
+   "published": "2026-08-17 16:02",
+   "published_iso": "2026-08-17T07:02:51+00:00"
   },
   {
    "title": "◎見よ！ イタリア移民の伝統祭り",
@@ -33,7 +41,7 @@
   },
   {
    "title": "現金200万円奪われる…外国人とみられる男3人組に後ろから羽交い絞めされ お盆休み最終日の昼下がり、3人組は車で西へ逃走 警察が行方追う 富山",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ea2pOM3lHWUJESjFVT2pXWFE5dVR1UHYtMWRLU0hSOHpHNHpWT3lGejd0ZlBrSFowYXRFYVhHZXFjWFpQTE9GRFBEcGloUHc3M0kzb1c2TQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40OFVzRmpzNVR4bmc3MWFkVFpNaUk5b0R6MmNHWnRhekE5bGJvaC1SWFN3Ni1obk5vMjlFSmpIcl9sMzd4dXZKV2FpQ1B2alNGcGotY0pFU25Zdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-17 11:35",
@@ -58,10 +66,18 @@
   {
    "title": "運送業で増える特定技能ドライバー",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZQTdwbDl5WlJVcVBGdzRucld2WDcxckRXVnJiRkRHSEh1cjBtdG9UX3NRNU95cENYMWV3Skw2T2dGSmxMTVlDd1k1dTUwNV9NLVFraWNNZlJiRUhLWXFpNWlhczZzMHJUcTBQUzd6aTI?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-17 11:00",
    "published_iso": "2026-08-17T02:00:00+00:00"
+  },
+  {
+   "title": "富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLWFTZ0NLd21BV1piNDk2NzRSajRHby1WVDdLNWVyVXlsWms3YjVMSWd4d3BCVnlubXdzR3FleTlFR2pqcGZEaVRBTmhnbURYaUF1SE51WGNhMENLc2I2bG1OVzVoZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-17 09:53",
+   "published_iso": "2026-08-17T00:53:00+00:00"
   },
   {
    "title": "オーストラリア、「ワーホリビザ」の発給を抑制 移民政策見直しか",
@@ -82,7 +98,7 @@
   {
    "title": "ブックウオッチング：おすすめ 『ゆらぐ水環境を捉える 水共生社会の実現をめざして』＝荒谷邦雄ほか編",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQQW5GWXdmMjg5dVVZTGgtVWstMzRGc3dBVmhQWUp4a3RkSGhOZFhFWlpmZW4xYkV3SHhRWl9KY2txOFFoWl9oSXA3c1loYUUwUVJ1TTk1clBkY2NWZDNYOW5McTFtNVVD?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-17 02:00",
    "published_iso": "2026-08-16T17:00:42+00:00"
@@ -102,14 +118,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-16 18:30",
    "published_iso": "2026-08-16T09:30:00+00:00"
-  },
-  {
-   "title": "仙台市の住宅街に突如現れる100mの巨像「ラスボス感」が話題 外国人魅了「あそこに連れて行って」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HcVZUbUt0SEZHWEdUdlVVLU5HcnhZZUI4dmFYUzJkMDZUXzBZMmh3eWd0R2ozb0xRb1hFYXBjVVdhMXV2QXNFQU1Jd21lMk1xbUpR?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-16 17:32",
-   "published_iso": "2026-08-16T08:32:06+00:00"
   },
   {
    "title": "外国人のレンタカー事故急増、コロナ禍前上回る 観光庁が実態調査へ",
@@ -224,14 +232,6 @@
    "published_iso": "2026-08-14T22:38:26+00:00"
   },
   {
-   "title": "住民税未納のイメージ - 出国した外国人、住民税18％滞納 総務省調査、制度周知が不十分 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IR0pGY3hDYXBMSkZqS2txYWFZeDFhaVpibkZrSmtrQjhzUnRkVzlLTGp3Y1kwV2MyLXVpVUJta1VDbjhSNElwUlQwTTBoQVpOUmd0bzdmOA?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-15 06:54",
-   "published_iso": "2026-08-14T21:54:54+00:00"
-  },
-  {
    "title": "出国した外国人、住民税18％滞納 総務省調査、制度周知が不十分",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQk5sYkdXNWI1aDJaMkxkTEs2aV9XYmZqdnBKUDEyVnZ3RUFYS2lGUnI3ek13RjhfcXRfTUJEYjBPeWF3UU5RTmx6YmJTclR0UmR1RUx3?oc=5",
    "source": "西日本新聞me",
@@ -248,9 +248,9 @@
    "published_iso": "2026-08-14T20:00:00+00:00"
   },
   {
-   "title": "３９都道府県「コロナ前」超え＝２５年の外国人宿泊者数―観光庁調査",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVFVwU3ZWMFNhN0lSMG5RdmptSExETlN3dWw1SV9NSGhjOF9iZVA5NTRqRVlPM2xDUU16VzItelc5Q2dwLThwZmNySQ?oc=5",
-   "source": "時事メディカル",
+   "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRFdVblF4YXBQaGFtdHI1eThCQzFnZ1lIdUdybnVuc2ZySEFOWFRrVW5WaUlxcG5mbHpnQTZYcUd0WDdCeDlsRzFFcGx4aE5XNGlqWWFQX2xyTEIxWk5lR0otVmZzZWUwalN6RWVZS3hRVzNIX3lLSEo3VkVyQjNWb2dn?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-14 14:32",
    "published_iso": "2026-08-14T05:32:00+00:00"
@@ -322,7 +322,7 @@
   {
    "title": "米不法移民の摘発に「電気ショックグローブ」導入へ 悪用も懸念",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MLUx3eDRJYzJRU0h3ZThjVGtfQWVzNFBBdTVMaktTa3BGbU1mUlRUV2pyUVNZc2g1WVlvTXFTWUZJQ3BmZ0ZOLVdMcDlHLThNWWp4REtzTWMyOFVXdkJnNFlkUGRJZUNS?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-08-13 16:58",
    "published_iso": "2026-08-13T07:58:15+00:00"
@@ -392,20 +392,20 @@
    "published_iso": "2026-08-12T15:00:00+00:00"
   },
   {
-   "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-08-12 16:47",
-   "published_iso": "2026-08-12T07:47:00+00:00"
-  },
-  {
    "title": "貧しい国、働く子、難民の友達 「だれか」になりきってみる夏",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVZzalFuSVJ4TVo4b3lJd2FWcnB1UFlfR3pxYVYwWmw0YnpaUWZfOFNzbl9tb01TZE43M1dBdGx0VzREVUtpWHNRN2FBR2E4Ui1CeFBUemdHWjVYYW5Kb0VJWmN1N3M?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-12 16:00",
    "published_iso": "2026-08-12T07:00:00+00:00"
+  },
+  {
+   "title": "スペイン、揺らぐ移民寛容政策 7万人殺到で排外主義再燃に懸念",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HdmdPSjRvS0stamhQSFdyalpfcF9rNmRpQUpuM0Fxb0wtc0xsQTM4aGRFN2ZRam9QcElOdlNrSXdyU2wzU093ajRPbHlWQ3lnYnIwSV9wVUNYT0o5b0hmUXQzdGpWel9XZ2pHMQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-12 14:20",
+   "published_iso": "2026-08-12T05:20:49+00:00"
   }
  ]
 }
