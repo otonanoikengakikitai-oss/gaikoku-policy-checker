@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T01:05:39+00:00",
+ "generated_at": "2026-08-17T02:56:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,9 +8,57 @@
  ],
  "items": [
   {
+   "title": "現金200万円奪われる…外国人とみられる男3人組に後ろから羽交い絞めされ お盆休み最終日の昼下がり、3人組は車で西へ逃走 警察が行方追う 富山",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ea2pOM3lHWUJESjFVT2pXWFE5dVR1UHYtMWRLU0hSOHpHNHpWT3lGejd0ZlBrSFowYXRFYVhHZXFjWFpQTE9GRFBEcGloUHc3M0kzb1c2TQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-17 11:35",
+   "published_iso": "2026-08-17T02:35:00+00:00"
+  },
+  {
+   "title": "オーストラリア「ワーホリ」ビザの審査手続き遅れる 政府が移民政策見直し 日本人の発給にも影響か",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSzh1UGNxR0RkWnE0bjZLU0g2aEM2NUp0VklPTjlnUUJEQVVmSXIyN3dVSmZYUmFHZkZxYWVCWlpLT2JpVl9MMW5QMTZRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-17 11:32",
+   "published_iso": "2026-08-17T02:32:00+00:00"
+  },
+  {
+   "title": "外国人の国民年金納付が低調、制度理解進まず 政府間協定遅れも背景",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EM1BaVkpvU09Wc0tNV2dNeG05ZmMwT2wzNjNqLTV2R1pfdDc5b1ZtaGRCZFZHU1k4SGt0bmhIYVdfNDZTSTlQOW55YlNYblg1OWJfRGhFbmptbXNWdEYyb3QxdW1hM1h5SmZpNw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-17 11:30",
+   "published_iso": "2026-08-17T02:30:00+00:00"
+  },
+  {
+   "title": "運送業で増える特定技能ドライバー",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZQTdwbDl5WlJVcVBGdzRucld2WDcxckRXVnJiRkRHSEh1cjBtdG9UX3NRNU95cENYMWV3Skw2T2dGSmxMTVlDd1k1dTUwNV9NLVFraWNNZlJiRUhLWXFpNWlhczZzMHJUcTBQUzd6aTI?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-17 11:00",
+   "published_iso": "2026-08-17T02:00:00+00:00"
+  },
+  {
+   "title": "富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLWFTZ0NLd21BV1piNDk2NzRSajRHby1WVDdLNWVyVXlsWms3YjVMSWd4d3BCVnlubXdzR3FleTlFR2pqcGZEaVRBTmhnbURYaUF1SE51WGNhMENLc2I2bG1OVzVoZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-17 09:53",
+   "published_iso": "2026-08-17T00:53:00+00:00"
+  },
+  {
+   "title": "オーストラリア、「ワーホリビザ」の発給を抑制 移民政策見直しか",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWUVY0Y01aZHVZN0ZkaEt2NlhRVmVPckc4THZndUFvcUtQNk8zbl8wSlhsQ1VVN3lsSjQxY29ZeVhUQU00N3M4WGhyR1ZYbmFWU25rODVMVWExMm5ZNlI0VTl0WUVHMDg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-17 08:30",
+   "published_iso": "2026-08-16T23:30:00+00:00"
+  },
+  {
    "title": "外国人の学び支える夜間中学 全国で生徒増、在籍の6割に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yQlA4NmI0SDg3ZW9KLXFNWlJZSEhTZHdROVJCYVBKdl9lNGNUTW1ERUZCQkRMd1Q1RDNZVVJtUzRpV3hma1U0QjBfaUJyd1piaXRHa3BxTWIydw?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-17 04:00",
    "published_iso": "2026-08-16T19:00:00+00:00"
@@ -54,14 +102,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-16 17:00",
    "published_iso": "2026-08-16T08:00:00+00:00"
-  },
-  {
-   "title": "【速報】富山市の路上で強盗事件 50代男性が現金奪われる 逃げた3人組は外国人風・白マスク着用【現場画像あり】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TnluQWNKZy1JVHB6aGktWUpGQ1JsS2VWSkU0LTFVUmJvb1pkMmtudWFjbkRSYWNBRHZJcjZmc0pQd1MtYlVHVXZieVpaZlVGNXlnWDc2eFNycnVJNzFEUVFHTDJwcjg?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-16 16:02",
-   "published_iso": "2026-08-16T07:02:00+00:00"
   },
   {
    "title": "外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人",
@@ -128,14 +168,6 @@
    "published_iso": "2026-08-15T20:00:01+00:00"
   },
   {
-   "title": "ヒロシマ訪問、4割が外国人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVYUNXc3hoNnlwRW5BUERSSDdTMlpkYUZUNjVVNkdISEFZU0VNQ05Qa3Jua0FhQ3UzZmRTQUVNTGFBcm1CdEJhUTdaMm84Qjl4Q3NId0JOczVhd0lNQnQ5aTZlTG9VaUNYdjVqMg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-15 14:30",
-   "published_iso": "2026-08-15T05:30:00+00:00"
-  },
-  {
    "title": "外国人が絶賛 日本が“世界一”のモノは？ “暑さの救世主”になっているモノも",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdTVSSnZvOFh5VHdHd3AyVDBIcThibG1JY0ZjR3lreFFoN245ZXN4cG0zQzVJNmFSYnVWOUdoR1RSMHgyMXdfNUM1OXZYRjV2NDM4MUE1aXp3QUZnTEZxWFJvR2w0a291SXBEb0dqaFVPQQ?oc=5",
    "source": "テレ朝NEWS",
@@ -178,7 +210,7 @@
   {
    "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYl96UjRRWncwZ1dORXgxMXk2dmt6a1A0dTVpQU9PUVRSOGd4RmZseWxZYlRxQWhtN2pieGp0aU81bW1WbTE1TGpsUk4xN3pySjlLZzg1UWlxV1QzREcwU1FUS1BlTWlzWTZNWElnUmtnNHpyelU0N1UyYVk5Q0llNVBB?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-14 14:32",
    "published_iso": "2026-08-14T05:32:00+00:00"
@@ -226,7 +258,7 @@
   {
    "title": "被災地で孤立、助け合う外国人 文化の壁、避難所にためらい―熊本地震",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rUlk0SXV1THBURE1ydzJvd3ZUbWN5am5PZjNtNUtTRG1ndTEyS0dXQU9tcDJTeFZSZkFHSGFyTWl3TEdQUmRKblJENjdDWFhMc18zV0RDaTdpdXF0MjRrVko0SQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-14 07:03",
    "published_iso": "2026-08-13T22:03:00+00:00"
@@ -272,6 +304,14 @@
    "published_iso": "2026-08-13T07:00:00+00:00"
   },
   {
+   "title": "横転事故の後、路上にいたか 南九州道で車にはねられ外国籍の男性技能実習生が死亡",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVFXZXFmSlk0SjJnREo2aEI1OUtGekl0eEZNZTd1bE5lQm8yRWtlMXhyRENCT0VzbEpWN3Axby1IQVJmNVNyU3ZET19QRWFYRzViY1ZaZ0JfQmlOclpxSnRxZXR2U1FmSVJMYzRnRU16UVpTUXZMOFFJemtLbkQwWU81YWVscVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-13 12:19",
+   "published_iso": "2026-08-13T03:19:00+00:00"
+  },
+  {
    "title": "「10分泳げば欧州」スペイン殺到の不法移民、数千人滞留 住民の不満募る",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wWF9kRTg2Qm9fNXIzQXVPSktCdWVZSFdrck9wVWxZZHBoN29BeXNkb0xNd205dDc1d0U1cGxrdnRkY1Z4SExtcTNmT0cxUEx1TlVGcDVlQU0xdm9mLXNLS2FCcHh1dFhETEFKZA?oc=5",
    "source": "日本経済新聞",
@@ -306,7 +346,7 @@
   {
    "title": "セウタに殺到した不法移民、約１万人残留 首長が拘束と強制送還を要求",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53ekM3LUY0aDhxWE1JSUVOY093T2JyWWV1YVFlWC12akpEX0g2VVFqMzZzdmxVSmtLNE51UGgySVlCVlFOOWJRbjhIay1PWFB0SXVNNg?oc=5",
-   "source": "sp.m.jiji.com",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-08-12 16:47",
    "published_iso": "2026-08-12T07:47:00+00:00"
@@ -328,17 +368,9 @@
    "published_iso": "2026-08-12T05:20:49+00:00"
   },
   {
-   "title": "「無統制の移民流入」反対 欧州、左右女性首相が声明",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02dFJES1loQjJGUzRBM0Z2QzZEMFltakpuXy1IZTc2OE5aR0hnbGRtV0VUWXMyTkwycmI3cWp5b2RwSGtKMVp6eGtMZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-11 10:08",
-   "published_iso": "2026-08-11T01:08:00+00:00"
-  },
-  {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供",
+   "title": "入管庁、強制退去の外国人情報を自治体に提供：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-11 06:28",
    "published_iso": "2026-08-10T21:28:00+00:00"
@@ -370,42 +402,10 @@
   {
    "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-08-09 07:06",
    "published_iso": "2026-08-08T22:06:00+00:00"
-  },
-  {
-   "title": "強制退去手続き中の外国人の個人情報、プッシュ型で全市町村への提供開始…行方不明となる事例に対応",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0NCbWx3dnNqbm0yQkNEX2tIMG9PRW94ZFU4NTY2dDRwN3ZXc2dBSW1OeE9Ea2pKTjdUb1VrcEFGZld2N1UzVnJyS1RvS2hLTWFISzRPLXhYUUU2ankzTEhMN0twZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-08 16:00",
-   "published_iso": "2026-08-08T07:00:00+00:00"
-  },
-  {
-   "title": "技能実習生4人の損害賠償訴訟で和解成立 劣悪な環境や私生活の制限で約970万円求めた裁判 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbU9SV21Ea2xiT09xTXkwWmJjUjNzdWQzOUZ5RXJTaHNPVEhKTEpqeW5NMldoaFVvb215Wk5fV0R6bWVDX2JLVUpPQkJ0M1R4RWJhZlROZk1UZURpdDBMUA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-07 16:00",
-   "published_iso": "2026-08-07T07:00:00+00:00"
-  },
-  {
-   "title": "トヨタ、工場の緑化で「3K」イメージ払拭 技能実習生との交流の場に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wSGNRSzZFSnFiaGZLWE1ab0s0ZFpfb01rUUV5YmwtOWNtOG9kVzA3aFdMcVlSc2pSaElaTkEtcnVPZXIwRUY0TGZ5MVVDLUg0U2RuMnhsNnBMam5kZDMzYTg4VjVyanBVY1hHOA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-06 16:00",
-   "published_iso": "2026-08-06T07:00:00+00:00"
-  },
-  {
-   "title": "取材メモプラス 昭和の特定技能外国人 人手不足解消に期待",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iYlIyTzFVYVFoYjRmVXdlc21HcjFqRFlMc2tfQVpwZEJzTXBDUFdGMU1veG51Mzlpd215VVJGVjVjQWo0Q2ZxY0hsbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-06 11:05",
-   "published_iso": "2026-08-06T02:05:24+00:00"
   }
  ]
 }
