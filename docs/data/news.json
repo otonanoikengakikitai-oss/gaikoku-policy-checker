@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T14:30:06+00:00",
+ "generated_at": "2026-08-18T15:28:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
+   "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-18 23:33",
+   "published_iso": "2026-08-18T14:33:18+00:00"
+  },
+  {
    "title": "武雄市の「多文化共生タウンミーティング」今年も開催 9月13日から3回",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FYzh5ck14LUNDY3VKTDFVeFBoVHJSWUU5M3pmSjRYRERrb2ZmNUQ3QnRDbGRxUmtfX003RU1yd3FKNUtDUVhRZlhOOA?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-08-18 23:16",
-   "published_iso": "2026-08-18T14:16:24+00:00"
+   "published": "2026-08-18 21:30",
+   "published_iso": "2026-08-18T12:30:00+00:00"
   },
   {
    "title": "米政府、安全保障の研究開発指針で「世界トップ級の人材を呼び込む」と明記…外国人材登用へ方針修正",
@@ -22,14 +30,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 19:37",
    "published_iso": "2026-08-18T10:37:00+00:00"
-  },
-  {
-   "title": "本物の剣道文化を世界へ発信！ 言葉を越え『気・剣・体の一致』を体感 外国人が魅せられる魅力とは【福岡発】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wREt0d2RIZmxjaVE5WDU2UzZqbEJOeE5SMENpVklxYzEzRnQ0Mkx6c2dqSDdNQVlnWmJuTlY5TUllQ2FtUkNJa2ZoMTQ1QQ?oc=5",
-   "source": "fnn.jp",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-18 18:33",
-   "published_iso": "2026-08-18T09:33:00+00:00"
   },
   {
    "title": "那賀町のキャンプ村 外国人コンビが管理者に【徳島】（2026年8月18日掲載）｜JRT NEWS NNN",
@@ -74,18 +74,10 @@
   {
    "title": "在留外国人向けの日本語学習に関する政府有識者会議の初会合＝18日午前、東京・霞が関 - 日本語・制度学習プログラム議論 政府有識者会議が初会合 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ISzd6TUN3a3VweklXbE9ZT3ZtZ0JXMjBzeTJrbVFZemRwOUVDbDlPeGNxZVdBMWhabmxhdUpYb2F5Y0tUX0hlbV9KUkhIWDcxdmFUazVuWQ?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-18 16:26",
    "published_iso": "2026-08-18T07:26:33+00:00"
-  },
-  {
-   "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 16:15",
-   "published_iso": "2026-08-18T07:15:00+00:00"
   },
   {
    "title": "日本語学校の外国人留学生、来日の思いは…「困っている人を助けたい」「早く家族をサポートしたい」",
@@ -106,7 +98,7 @@
   {
    "title": "第2回多文化共生ひろばカフェ 2026年8月29日(土) | 福岡おでかけ・イベント情報",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VNlMyV2ZEWFg3dzVpQUdYS3M2cm4tSEUtaHk0U0ItcG1OS3pwMENDcWVJc2ZJUkNqajdrYUpIc2U4NlpWd2p1VE5SSXVTM2lHUk1CTjRDU0tuRnVrVmc?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-18 14:09",
    "published_iso": "2026-08-18T05:09:12+00:00"
@@ -242,7 +234,7 @@
   {
    "title": "オーストラリア「ワーホリ」ビザの審査手続き遅れる 政府が移民政策見直し 日本人の発給にも影響か",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSzh1UGNxR0RkWnE0bjZLU0g2aEM2NUp0VklPTjlnUUJEQVVmSXIyN3dVSmZYUmFHZkZxYWVCWlpLT2JpVl9MMW5QMTZRZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-17 11:32",
    "published_iso": "2026-08-17T02:32:00+00:00"
@@ -346,7 +338,7 @@
   {
    "title": "米政権、移民捜査官に電気手袋 抵抗者に痛み、人権団体が批判",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IQ21velR5OHg4TW9sTzFYNkQ1elYxU1Rrd2NWWWp5b2JtM09pcFJvOXh1bHA5ZTVfN2VkSnN1Wk5XckJ1N1MzeXV3dnNRek5lRExwWHBn?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-16 08:06",
    "published_iso": "2026-08-15T23:06:49+00:00"
@@ -378,7 +370,7 @@
   {
    "title": "南スーダン難民支援途絶も 国連2機関、65万人超対象",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EeEFvRzE1MG51aHJPdVBxRWRXdHVFcUxpOV85WXBiLV9QcmxTSWQzNG4yRkVIYmM2ZE9zWGMtT2FnVDZ6ZTZxZ2tCc09OOUhUMGJTcDVR?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 07:38",
    "published_iso": "2026-08-14T22:38:26+00:00"
@@ -386,7 +378,7 @@
   {
    "title": "南スーダン難民支援途絶も 国連２機関、６５万人超対象",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xUVlXQnczdlpiT1ZDODlfbTROMGx5WElYYWJ1V1NSbmNYTzI4ODJnVVFGRG5XU2s0ckNWUlh3TmdDaWdCUXRteGhVaW50WG5LcjR0V0hreGItbzRKWDg2LUZ1RzVRX3h1S2ZyYU1uUFI3RE10cnVXQw?oc=5",
-   "source": "kobe-np.co.jp",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-15 07:38",
    "published_iso": "2026-08-14T22:38:00+00:00"
@@ -394,7 +386,7 @@
   {
    "title": "出国した外国人、住民税18％滞納 総務省調査、制度周知が不十分",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rQk5sYkdXNWI1aDJaMkxkTEs2aV9XYmZqdnBKUDEyVnZ3RUFYS2lGUnI3ek13RjhfcXRfTUJEYjBPeWF3UU5RTmx6YmJTclR0UmR1RUx3?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-15 06:00",
    "published_iso": "2026-08-14T21:00:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-14 15:00",
    "published_iso": "2026-08-14T06:00:00+00:00"
+  },
+  {
+   "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdnNfY05rX3dMaHdHdGtQOWZFTE9HeElOQnlXU1dWcnp6ZFV5VTdqMENPdHNXOTNzWlY5eTdERy16OXRwUjc3OXljRjhQR01ONjlxcHRPM205VjZ2TU03c0hmWQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-14 14:32",
+   "published_iso": "2026-08-14T05:32:00+00:00"
   }
  ]
 }
