@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T17:24:05+00:00",
+ "generated_at": "2026-08-18T18:33:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-19 02:45",
+   "published_iso": "2026-08-18T17:45:30+00:00"
+  },
+  {
+   "title": "オーストラリア：豪、ワーホリのビザ審査遅延 大規模な移民削減策、検討か",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1SkQtUXVQTEFseWY0aTNsR3JrUUwzb1FXQ3U4WG5id3hxUWplem1BeDVUcEwxN1FoRUd2QjNIcWxDRVI2VnVuU01HSTNKVzNma004YngzX2JYR0JBNWxXdGlFeVJvSmRG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-19 02:00",
+   "published_iso": "2026-08-18T17:00:55+00:00"
+  },
   {
    "title": "武雄市の「多文化共生タウンミーティング」今年も開催 9月13日から3回",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FYzh5ck14LUNDY3VKTDFVeFBoVHJSWUU5M3pmSjRYRERrb2ZmNUQ3QnRDbGRxUmtfX003RU1yd3FKNUtDUVhRZlhOOA?oc=5",
@@ -70,22 +86,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-18 16:26",
    "published_iso": "2026-08-18T07:26:33+00:00"
-  },
-  {
-   "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 16:15",
-   "published_iso": "2026-08-18T07:15:00+00:00"
-  },
-  {
-   "title": "日本語学校の外国人留学生、来日の思いは…「困っている人を助けたい」「早く家族をサポートしたい」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2QzVMaWxmN2EwaFQ3T1VZbmpPWE95QmlQcGJrRTVSM25zOGE4bnFoLVlVaVBZT0hYZU1HZ25OaDB0Z3RpVnNVa09aQXBWdXh6YndHMDNFQWJ4ejlocTY3LWJTb3Jxc1JSNXFQSmRmVkdpZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 16:13",
-   "published_iso": "2026-08-18T07:13:00+00:00"
   },
   {
    "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
@@ -289,7 +289,7 @@
   },
   {
    "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXNoOGRwcXJzcFdHSEl1dHJqOWEwN3NtZVZ0TVFiR0hzT1lYbGdkTGVtc2RqNXFoOTF1WUFLLXl1eTk5aUxseGpRSFpZZmZFMUlFNFVTWlZxM1pULUhsSVVPYkd2WkhiSDd6SGZ3aHd5QjFnRDdBclUxeGVrRHAwcg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-16 16:42",
@@ -392,20 +392,20 @@
    "published_iso": "2026-08-12T23:00:00+00:00"
   },
   {
+   "title": "イオン北海道が「買い物難民」に無人店 釧路や根室の庁舎に出店",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bDlvLXVOZVh6U3pmWHlGdkdaOThkSFJscFFrblVKcHJ6SU5nR09MMWhXUGxOblo1U3pwRktYZTUzVV9DMU1qSG5HeTM1YU1YeVBjeWJfN2N4YXZ3NnBSY2Z5d3B1dldjQlo4SA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-13 02:00",
+   "published_iso": "2026-08-12T17:00:00+00:00"
+  },
+  {
    "title": "［深層ＮＥＷＳ］スペイン飛び地に不法移民殺到「機会があるなら行ってしまえということかも」…岡部みどり上智大教授",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41UnBIVm1kcS1hcG43NFRIT0NpMUdGMGNlREZqOTNrV2w2b0h1WHoxb2cyS3FQM09YOXJjRVVxQmoya01RSzNibXZhOVBKN2pqMGh0OVgzVDJoUkdGUGJPUlZn?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-13 00:28",
    "published_iso": "2026-08-12T15:28:00+00:00"
-  },
-  {
-   "title": "入管庁、強制退去の外国人情報を自治体に提供",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBERUtYalRpd3REMGtRcEYwTjlNSjQ3VWZ2MGpWcUVqUXQ2cnVqQVZMOEVWMG9LN2VmU0t4NjBtcjVrazVPSFkzWmpfSEgwSFM3QmFQaTBkZHJXNnRxRWZLVlNVTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-11 06:28",
-   "published_iso": "2026-08-10T21:28:00+00:00"
   }
  ]
 }
