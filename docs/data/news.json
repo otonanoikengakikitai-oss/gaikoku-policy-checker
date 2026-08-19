@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T06:38:31+00:00",
+ "generated_at": "2026-08-19T07:35:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "訪日外国人旅行者344万2000人で7月過去最高 台湾は70万人超も中国は5割超減少 訪日自粛呼びかけ影響か",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dkxtXzd3XzJtcXBWQ3p0a2loX2ItMGZaX25yVDdnZWhiLVVwR2dueVU0VHVfeGRodmxFVzYyRkhvWEwtZjR6LUNTX3RYdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-19 16:26",
+   "published_iso": "2026-08-19T07:26:00+00:00"
+  },
+  {
+   "title": "韓国サッカー協会 外国人審判への性接待疑惑 「公訴時効が成立」と警察が見解",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLSjNBX3RWQmhSV3R2Vmd3ZmlvU0xoLThJcFBaVFowVDB4bjBJYlV1eHJDdWtySXlsTUVQa0hXMFRaZFZ4S0FKSzhUV0lVcXVrdjlScDNGTGJLWW81cGpFall6WVJfRDhDQjdNRmJTU04xLXFSTFZ2QWp3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-19 16:02",
+   "published_iso": "2026-08-19T07:02:19+00:00"
+  },
   {
    "title": "プレスリリース：［独自調査］2026年最新：外国人に人気の商業施設ランキング［東京編］1位は「麻布台ヒルズ」！| インバウンド人気商業施設ランキング #インバウンド #MEO（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TZXl2VDFWMWYxOF92cVJJYkdiYmJTc1VGUEYzdVBsbFZsczRycGFRVmlTNTFZeTZyVEZ1czNBZ2M1WElEc3UwZXpSZFZ6TEZiLUZybXZWWE9MeUppT3JtMjBzUWU3cS1D?oc=5",
@@ -34,7 +50,7 @@
   {
    "title": "始まりは「日系人の就職先ない」、キャッサバで挑む新たな農業モデル [愛知県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eW44ek1MUVJHT2lzSFdxdVVvbkU5ZHVwdTR5R0ZCbTQ0V1htdE4xVVJCeXdiQ1htZEJIN21PZEQ2Y01WdEk4Si1zWEhVQmxxUlZqSDlBdkh4Y2UyLVVYbnpKV2VMZzg?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-19 14:00",
    "published_iso": "2026-08-19T05:00:00+00:00"
@@ -160,14 +176,6 @@
    "published_iso": "2026-08-18T07:15:00+00:00"
   },
   {
-   "title": "日本語学校の外国人留学生、来日の思いは…「困っている人を助けたい」「早く家族をサポートしたい」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2QzVMaWxmN2EwaFQ3T1VZbmpPWE95QmlQcGJrRTVSM25zOGE4bnFoLVlVaVBZT0hYZU1HZ25OaDB0Z3RpVnNVa09aQXBWdXh6YndHMDNFQWJ4ejlocTY3LWJTb3Jxc1JSNXFQSmRmVkdpZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 16:13",
-   "published_iso": "2026-08-18T07:13:00+00:00"
-  },
-  {
    "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
    "source": "産経ニュース",
@@ -210,7 +218,7 @@
   {
    "title": "「商店街でモーニング」がPRコンテストで金賞 外国人客の誘致狙う [大阪府]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UM2R3c19CcTl5YXRacHhJcG5uak1Na2tyZmNKSTVvQzBKVG9hVlRpamRkUDQwelA2RDhrSTF3Qi1BOXZrS3VCMnNfczdfcTAxTzdOM2lRdGE1QmVxYTZsYzVBRjA0Nnc?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-18 07:00",
    "published_iso": "2026-08-17T22:00:00+00:00"
@@ -282,7 +290,7 @@
   {
    "title": "大分の造船6社、外国人材定着や次世代育成の支援要望 県に5項目",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CanBBSGdNT1BleXRocVdKVHFCVTdBUnFUM05jMkJyYjN1N0lPb0wtRWo5eDFsbEFXOVA1OVY3YkFSSlcwRXNmVDkwQXZIUEJBcEtGTFRmR3VSa3NNX0wxT2JQNDRjQV9rTDc5Vw?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-17 18:26",
    "published_iso": "2026-08-17T09:26:34+00:00"
@@ -314,7 +322,7 @@
   {
    "title": "外国人の国民年金納付が低調、制度理解進まず 政府間協定遅れも背景",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EM1BaVkpvU09Wc0tNV2dNeG05ZmMwT2wzNjNqLTV2R1pfdDc5b1ZtaGRCZFZHU1k4SGt0bmhIYVdfNDZTSTlQOW55YlNYblg1OWJfRGhFbmptbXNWdEYyb3QxdW1hM1h5SmZpNw?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-17 11:30",
    "published_iso": "2026-08-17T02:30:00+00:00"
@@ -338,7 +346,7 @@
   {
    "title": "オーストラリア、「ワーホリビザ」の発給を抑制 移民政策見直しか",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWUVY0Y01aZHVZN0ZkaEt2NlhRVmVPckc4THZndUFvcUtQNk8zbl8wSlhsQ1VVN3lsSjQxY29ZeVhUQU00N3M4WGhyR1ZYbmFWU25rODVMVWExMm5ZNlI0VTl0WUVHMDg?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-08-17 08:30",
    "published_iso": "2026-08-16T23:30:00+00:00"
@@ -346,7 +354,7 @@
   {
    "title": "空港職員の待遇改善 入管庁検討、人材流出を防止 訪日客増に対応",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQXVyLS1FZHU5VXVkLUFsRlp6cUxRaFduWFhfWUJ2dzlCd09ETDd1WUFMYXkyNjNSOUVidTF2S09RQUhUU2l2eFZZelZrdFk3ZHhvS1pHU21vMVhVMi1nb1lCekNKS3piejhmQg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-17 02:00",
    "published_iso": "2026-08-16T17:00:00+00:00"
@@ -354,7 +362,7 @@
   {
    "title": "外国人のレンタカー事故急増、コロナ禍前上回る 観光庁が実態調査へ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cHdXMkJTb3hNYm1tU2g1R2lFLThDd0k4Z3JOOEFLdnduQ1NnV2RDMGE0c3cxNEJWeVM4b05DOVUwSjFWUXdacEwtaDN6VjBvZjc5N0VFTGxpdE5Eak5icUt4bmtxTHM2RzdGWA?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-08-16 17:27",
    "published_iso": "2026-08-16T08:27:58+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-16 08:06",
    "published_iso": "2026-08-15T23:06:49+00:00"
-  },
-  {
-   "title": "【小野田紀美大臣】「外国人政策は『厳格化しすぎ』というお叱りの声や『まだまだ甘いぞ』というお叱りの声も」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LRnRheWtGRXRDSEJLUGM2ekhVUGI2VGU5U2F1RzZSR1pYZTY5Tmx2Z3VOT3IwZzFtSS11VFFjYjJPT01ueHNoRVppUUY4Tkg1TjVSOHg3VQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-16 06:00",
-   "published_iso": "2026-08-15T21:00:00+00:00"
   }
  ]
 }
