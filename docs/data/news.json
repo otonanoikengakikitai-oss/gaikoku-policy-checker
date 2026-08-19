@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T10:25:00+00:00",
+ "generated_at": "2026-08-19T12:40:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "7月の訪日外国人観光客 344万人超 7月として過去最高を更新 一方中国は半減",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWERhSlowMlh2V0UzZGE1MlBLWm9rWWRPVS1MaVNEQlFJM3M0X2pCUVFUb2tEbEZ0TVVMNHo1YVk3cmZqUk1CMDhyS2tnalJQNC1qS3dTLURub2FZRU0zaVFFVjlvTUNMY2llT3FPLXJ5Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-19 20:01",
+   "published_iso": "2026-08-19T11:01:07+00:00"
+  },
+  {
    "title": "訪日外国人旅行者数 7月として過去最多 中国は去年7月の半数下回るも東南アジアやヨーロッパなど多くの国から旅行者増加",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MXh3YTBqTlBIR2R0d25Wc2U3aVNNQkNwVG1vMExsdFZfTzB0bTBvYTN1MnJZcl8yM0hyYzF2T2RjVXJrWUhGUmNhWmE5cnV0WC01TjVrNA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-19 19:01",
    "published_iso": "2026-08-19T10:01:22+00:00"
-  },
-  {
-   "title": "「次世代へつながりを継承」 ハワイ沖縄移民のルーツ探る 宜野湾でフェスタ、8月23日",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHkwNnVtRmVyTnhDMmdldXoxNDNjMGZQR1JmUDhfOGQ3SS1aeVRmcklOTmVvYlhTeWZyYVFwcndseFlWMmlHdDhEcw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-19 18:37",
-   "published_iso": "2026-08-19T09:37:32+00:00"
   },
   {
    "title": "特定技能1号受け入れ停止、飲食店の45%が「事業計画に影響」 [外国人政策 高市早苗総理 自民党][外国人]",
@@ -34,10 +34,18 @@
   {
    "title": "＜外国人の男性＞から「日本の旅行についてアドバイスを」とメッセージが届き…５０歳代女性がロマンス詐欺で５７５３万円相当の暗号資産だまし取られる",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VVDAyRkVUX1EzS3FWbGsxN3hsbVR4c2tmT0d6em5MVFJJSkVVRU9XbVU1Yl94UXRsMDVOVVplVFIzV2o4Q21VLTFFVGp2OWpvVG00dEI5QkhSLWw4Rl9wR1Q5QTQyUDVsRWJpU1ByWWNrQQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-19 17:40",
    "published_iso": "2026-08-19T08:40:00+00:00"
+  },
+  {
+   "title": "「次世代へつながりを継承」 ハワイ沖縄移民のルーツ探る 宜野湾でフェスタ、8月23日",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHkwNnVtRmVyTnhDMmdldXoxNDNjMGZQR1JmUDhfOGQ3SS1aeVRmcklOTmVvYlhTeWZyYVFwcndseFlWMmlHdDhEcw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-19 17:26",
+   "published_iso": "2026-08-19T08:26:00+00:00"
   },
   {
    "title": "「オカネヲクダサイ」コンビニ強盗未遂か 男逮捕 外国人装い…他店でも犯行か 群馬",
@@ -58,18 +66,10 @@
   {
    "title": "訪日外国人旅行者344万2000人で7月過去最高 台湾は70万人超も中国は5割超減少 訪日自粛呼びかけ影響か",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dkxtXzd3XzJtcXBWQ3p0a2loX2ItMGZaX25yVDdnZWhiLVVwR2dueVU0VHVfeGRodmxFVzYyRkhvWEwtZjR6LUNTX3RYdw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-19 16:26",
    "published_iso": "2026-08-19T07:26:00+00:00"
-  },
-  {
-   "title": "韓国サッカー協会 外国人審判への性接待疑惑 「公訴時効が成立」と警察が見解",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLSjNBX3RWQmhSV3R2Vmd3ZmlvU0xoLThJcFBaVFowVDB4bjBJYlV1eHJDdWtySXlsTUVQa0hXMFRaZFZ4S0FKSzhUV0lVcXVrdjlScDNGTGJLWW81cGpFall6WVJfRDhDQjdNRmJTU04xLXFSTFZ2QWp3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-19 16:02",
-   "published_iso": "2026-08-19T07:02:19+00:00"
   },
   {
    "title": "プレスリリース：［独自調査］2026年最新：外国人に人気の商業施設ランキング［東京編］1位は「麻布台ヒルズ」！| インバウンド人気商業施設ランキング #インバウンド #MEO（PR TIMES）",
@@ -85,7 +85,7 @@
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-19 14:14",
-   "published_iso": "2026-08-19T05:14:43+00:00"
+   "published_iso": "2026-08-19T05:14:00+00:00"
   },
   {
    "title": "始まりは「日系人の就職先ない」、キャッサバで挑む新たな農業モデル [愛知県] [外国人]",
@@ -154,7 +154,7 @@
   {
    "title": "米政府、安全保障の研究開発指針で「世界トップ級の人材を呼び込む」と明記…外国人材登用へ方針修正",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nNDZ3WlJ5ZGMzVVZDeGhOVjFWdHFLT0pTeGRzeGNCbHhBQURlMXJaRWhFaHItb2FaS2N1Qnp2dXgyaGxfczdiWVZNd0FlSEpvSVlHNGtFTDR6ci1mVDhCekhB?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 19:37",
    "published_iso": "2026-08-18T10:37:00+00:00"
@@ -194,7 +194,7 @@
   {
    "title": "「外国人に日本語をきちんと身につけてもらう」日本語学習プログラム創設へ政府WG初会合 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYYkJXRlBaMXRfeThuYjlGN1B3NjJTSHZQNTc5UE9NcDR0YTRkZnd1SUsyRkFERDdJQVJoX0tqZkNwTVlUVXVDUFVBdjd1Qlp4cm1mTzlNRGtkamw2SjRpN2RfNDBfLTVhdUFmU0xVNzdVSkdSc2c?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-18 17:23",
    "published_iso": "2026-08-18T08:23:31+00:00"
@@ -202,7 +202,7 @@
   {
    "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 16:15",
    "published_iso": "2026-08-18T07:15:00+00:00"
@@ -210,7 +210,7 @@
   {
    "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-18 16:00",
    "published_iso": "2026-08-18T07:00:00+00:00"
@@ -218,7 +218,7 @@
   {
    "title": "人材難が深刻化する造船関連企業８社、外国人労働者ら確保へ支援要望…大分県知事に働きやすい環境整備など",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50R2dRdUxKQndoaWxVQllESGtqZV9jUUFmZDAxUXhtU1cwZzZxSVhxckpIZEJ4SjFhNV9xTVpOY05JQmRNeE1rbFdKRG12dHZlaVVOa2JpdWRlR3phQVRSNFVUZE9rMEFoMEZ0Y1FUWkJJdw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 15:03",
    "published_iso": "2026-08-18T06:03:00+00:00"
@@ -266,7 +266,7 @@
   {
    "title": "豪ワーホリ ビザ抑制へ 極右台頭 移民政策見直し",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMUd2LXp4Ul92c0VmS3NzZ3JEZW1lbWg1VFBDQk9SY2Zpd0UwSHlyR0lkZkZQVFNDRUJ5ckNXeDUxNEpDdGlaaG1JbmpfWUVzVDVEanl3UzBfTjI1bDhJemdrYw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 05:00",
    "published_iso": "2026-08-17T20:00:00+00:00"
@@ -328,17 +328,9 @@
    "published_iso": "2026-08-17T05:07:16+00:00"
   },
   {
-   "title": "現金200万円奪われる…外国人とみられる男3人組に後ろから羽交い絞めされ お盆休み最終日の昼下がり、3人組は車で西へ逃走 警察が行方追う 富山",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ea2pOM3lHWUJESjFVT2pXWFE5dVR1UHYtMWRLU0hSOHpHNHpWT3lGejd0ZlBrSFowYXRFYVhHZXFjWFpQTE9GRFBEcGloUHc3M0kzb1c2TQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-17 11:35",
-   "published_iso": "2026-08-17T02:35:00+00:00"
-  },
-  {
    "title": "オーストラリア「ワーホリ」ビザの審査手続き遅れる 政府が移民政策見直し 日本人の発給にも影響か",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSzh1UGNxR0RkWnE0bjZLU0g2aEM2NUp0VklPTjlnUUJEQVVmSXIyN3dVSmZYUmFHZkZxYWVCWlpLT2JpVl9MMW5QMTZRZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-17 11:32",
    "published_iso": "2026-08-17T02:32:00+00:00"
@@ -360,20 +352,20 @@
    "published_iso": "2026-08-17T02:00:00+00:00"
   },
   {
+   "title": "富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLWFTZ0NLd21BV1piNDk2NzRSajRHby1WVDdLNWVyVXlsWms3YjVMSWd4d3BCVnlubXdzR3FleTlFR2pqcGZEaVRBTmhnbURYaUF1SE51WGNhMENLc2I2bG1OVzVoZw?oc=5",
+   "source": "yomiuri.co.jp",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-17 09:53",
+   "published_iso": "2026-08-17T00:53:00+00:00"
+  },
+  {
    "title": "オーストラリア、「ワーホリビザ」の発給を抑制 移民政策見直しか",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWUVY0Y01aZHVZN0ZkaEt2NlhRVmVPckc4THZndUFvcUtQNk8zbl8wSlhsQ1VVN3lsSjQxY29ZeVhUQU00N3M4WGhyR1ZYbmFWU25rODVMVWExMm5ZNlI0VTl0WUVHMDg?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-17 08:30",
    "published_iso": "2026-08-16T23:30:00+00:00"
-  },
-  {
-   "title": "空港職員の待遇改善 入管庁検討、人材流出を防止 訪日客増に対応",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQXVyLS1FZHU5VXVkLUFsRlp6cUxRaFduWFhfWUJ2dzlCd09ETDd1WUFMYXkyNjNSOUVidTF2S09RQUhUU2l2eFZZelZrdFk3ZHhvS1pHU21vMVhVMi1nb1lCekNKS3piejhmQg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-17 02:00",
-   "published_iso": "2026-08-16T17:00:00+00:00"
   },
   {
    "title": "外国人のレンタカー事故急増、コロナ禍前上回る 観光庁が実態調査へ",
@@ -386,7 +378,7 @@
   {
    "title": "増える高齢外国人 懸念される「老後の貧困」 日曜講座 少子高齢時代 客員論説委員・河合雅司",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UOWZqWXB2Ykxhb1hZTXh0WG1XeWVSY1VCQ1BaTkJEREkyY2x4b2hzbV8yT0ppZkpKTERVU05ULUIwVnVPb2pqQXNmU09BLXdTbFl5aUZGanE1ckVJRE5RenlSdldzT1RoV0xPY0htb1RSN1JKWFE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-16 17:00",
    "published_iso": "2026-08-16T08:00:00+00:00"
@@ -402,10 +394,18 @@
   {
    "title": "外国人比率10％超は34市区町村 湯沢町など1年で7つ増える「リゾート型」「工場型」 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnYlVnT2N5ZHBhXzZ3em1LQnViVlc0TlpmTGVqZzFEMlhsMXdKRXdhWWN0OXJTVjdqTi1aX2E5dk9ZcEc2NWNoM3FYVDM4OFNXQ3ZLNG4wN2VucHgzZjg5RVlrTF8tZnRHYTg4emZJS19OdGhzUWc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-08-16 15:30",
    "published_iso": "2026-08-16T06:30:00+00:00"
+  },
+  {
+   "title": "空港職員確保へ待遇改善、入管庁が要請 審査待ちの短縮狙う",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Cd3VwV2VtQnJuRHI0TzQ5YkdnQk4xdFJVZVpzcjQzYkxhYVlOWmctZ2JKMlBDenoya1pWYjVvd09YZjB1M28xQ2RheXF3WkQzTW0tZG41R0xPX1h5cV9kbGMxVVdTbW9KbnhTRA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-16 11:00",
+   "published_iso": "2026-08-16T02:00:00+00:00"
   }
  ]
 }
