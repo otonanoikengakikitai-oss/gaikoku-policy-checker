@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T04:33:41+00:00",
+ "generated_at": "2026-08-19T05:26:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「庭の手入れがされていない家を狙った」窃盗目的で東京・埼玉の空き家に20件以上侵入か ベトナム国籍の男3人逮捕 技能実習生として来日も今は不法滞在 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SREkyUVY1S29UQkNYX2RGakN2WHk3V3dYZGg4TWJrZ1RaeEtKbWtyY1dRYkNMcktGc25PVVNGX2V3NHFqREsxSTd5TmJ4X2pjVVc3YkVFYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-19 14:14",
+   "published_iso": "2026-08-19T05:14:43+00:00"
+  },
+  {
+   "title": "始まりは「日系人の就職先ない」、キャッサバで挑む新たな農業モデル [愛知県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eW44ek1MUVJHT2lzSFdxdVVvbkU5ZHVwdTR5R0ZCbTQ0V1htdE4xVVJCeXdiQ1htZEJIN21PZEQ2Y01WdEk4Si1zWEhVQmxxUlZqSDlBdkh4Y2UyLVVYbnpKV2VMZzg?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-19 14:00",
+   "published_iso": "2026-08-19T05:00:00+00:00"
+  },
+  {
+   "title": "MIRAI株式会社、特定技能のインドネシア人看護助手5名を愛媛県内の病院へ受け入れ",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03X01CcFo5M2E4YUdqLUIwMUZSMlVNLTN5NWs5SmN5cnFwWHRmMnRqX0FUOGI5LWNLSXFVVjhNZWlldWtxWEpDMWg4U2Nwc0VZNWc1OFpCMk16SVlva2JTVWZqSm94R3hxOE5v?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-19 13:16",
+   "published_iso": "2026-08-19T04:16:00+00:00"
+  },
   {
    "title": "「寝ていたら外国人」女性から110番 ベランダから侵入した容疑 米軍属の男を緊急逮捕 沖縄・西原町",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xMzQ2ZE1YWU1KZzc3b3dIaXJwQUNtMnEtUVBvMEFaSUdLZU1nclhCUFV5N0tIV3B2WlA3cHllZ0ExYWcydWhJTWg0aw?oc=5",
@@ -382,30 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-16 05:47",
    "published_iso": "2026-08-15T20:47:18+00:00"
-  },
-  {
-   "title": "＜主張＞1億2000万人割れ 移民に頼らぬ人口戦略を 社説",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NFJOaHhlME93akx4eUNjS0xqSUI1UDl5THQ2YUdoZmxGaVFYQ2wzQzl1M2Q3THlpdDJyekx6S0xWS2FVQ0pITXhpTFFxdVVkOVhjczNoRy1ZbVBQeWtPOFBaUGgtQ1RHT2F1Zm9ZaU1qZE44Q2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-16 05:00",
-   "published_iso": "2026-08-15T20:00:01+00:00"
-  },
-  {
-   "title": "南スーダン難民支援途絶も",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZER0M3ZaNGluYlMyeVFMNV9LeDhEdUZVYUozOXlqWDVYZm4wYTNCRE16ZWRTcy1NS2hQTjhRTElBd21vVUJuYlFvNEVMT1JaWnJkSmJGbHA?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-08-15 07:38",
-   "published_iso": "2026-08-14T22:38:26+00:00"
-  },
-  {
-   "title": "３９都道府県「コロナ前」超え ２５年の外国人宿泊者数―観光庁調査",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEdnNfY05rX3dMaHdHdGtQOWZFTE9HeElOQnlXU1dWcnp6ZFV5VTdqMENPdHNXOTNzWlY5eTdERy16OXRwUjc3OXljRjhQR01ONjlxcHRPM205VjZ2TU03c0hmWQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-14 14:32",
-   "published_iso": "2026-08-14T05:32:00+00:00"
   }
  ]
 }
