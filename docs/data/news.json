@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T03:43:12+00:00",
+ "generated_at": "2026-08-20T04:34:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「外国人装い片言で話した」 コンビニ店長に刃物向け「お金をください」後藤篤史容疑者（32） 別の事件も関与か 群馬",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWVdZTFM3TTdhMEJWNHhoM01mdmp2c1M1djdvdFhPSjV3bEdVdjN3SUxuajFyTGNkRnRSemo0TnVtQ01VSUNEYU80UE1ZUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-20 12:44",
+   "published_iso": "2026-08-20T03:44:00+00:00"
+  },
   {
    "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PdjZvZDBIS0w3Q2k2LVBVUmJYMVkzdzgtRkhYZ1IzSG5UWnJ1M0hEVGFyX0szYkRTNTJUUlRXNjZnUzl5Tm10cTdFbjl1N29SU2Mwb0JXOWk0OFMzS3JhTzdwUUIybTQ?oc=5",
@@ -62,14 +70,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-19 23:01",
    "published_iso": "2026-08-19T14:01:19+00:00"
-  },
-  {
-   "title": "「それなりにゾーンの中で勝負していた」ソフトバンク斉藤和巳2軍監督 新外国人ラトリッジの快投評価も「次の登板を見ながら」",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HS3NvZ1V5RFZ5dGdXbWMxRU1aaFV1RS1uOUJ0RnlOaUFjWkFpUUxGUVIzYVRXdGNMQ1Vvbm1qQ0RiR2puM1Zfc2ZRNmtIem9rY0tpZ1hCZEZ6S1YwS3Bv?oc=5",
-   "source": "西スポWEB OTTO!",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-19 22:14",
-   "published_iso": "2026-08-19T13:14:00+00:00"
   },
   {
    "title": "外国人介護士の「介護福祉士国家試験」合格を支援 Sakula、国家試験対策講義「Sakula Care University」をYouTubeで無料公開",
@@ -257,7 +257,7 @@
   },
   {
    "title": "日本語学習制度へ検討開始 在留外国人向け、有識者ＷＧ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sNUZwbEhPS19rbHA3aEtCQXlzaFBtcWI4M0F4azJSVnc1OFZOOFZSZ2hVUlU1WGpraFRfWnEwVVgyM1dPTE1zaW4tQ3BUczBhQmlISWZwZnBNX2NnaGM3UnJ4Yw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXh4c2VTTEZEdGdqZjNidE42bTRRSDRxaGphYU1JSWI2VUlJUFRNUTVPWEhnSnMyVW91YjZPeFY2czZYVW8yNXRVZDg4cVh6aWozV2RpcWFnU2gwZFBkUi1hckQzZXpoNlJzZi1iRmgyazVCclNxTjhmUzhDc1B2Y0pB?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-18 17:37",
