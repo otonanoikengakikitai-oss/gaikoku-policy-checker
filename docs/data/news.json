@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T22:23:35+00:00",
+ "generated_at": "2026-08-20T23:22:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -9,7 +9,7 @@
  "items": [
   {
    "title": "ロールプレイで外国人医療考える 言葉や文化の壁…患者と医師を演じて課題共有 東大でワークショップ",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ua1d2bmNrdFRheGlHVTQwMWw5a2NwbFBiRlU2VGowTUZlSktQczVfNnZEZ1lNZXlfdTRwSHlmMVlLbXlKQzRScWlmQmY1eGpMdUtyX1B1SnlFbTdUYllwSUJn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZWg0b0xaUnNNcEJ1Z2pKUllLVVdrQ2d0dktFNGU0UDZmbTRydGdwZWU5SzR6aXlOVERoU0dIVUgwcGdDaElLa09WVm5qNmNVaWY0?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-21 07:19",
@@ -32,18 +32,18 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
    "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -56,7 +56,7 @@
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
   {
-   "title": "決算:外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
+   "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -166,14 +166,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-20 10:00",
    "published_iso": "2026-08-20T01:00:01+00:00"
-  },
-  {
-   "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tT2dsaERYWjRyVF9tTFluOXhkYXhERnczcC1RR0JnS3FYSW1UaEpGVlA5T0VPWHNTN1llLTZ2LTIzQ0hCZmt6MnhJbk9iX0J2bFZkVU1McGlvLURhaDBxQ21NbXdqYXJSRXNwejZ3?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-20 10:00",
-   "published_iso": "2026-08-20T01:00:00+00:00"
   },
   {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-18 02:00",
    "published_iso": "2026-08-17T17:00:42+00:00"
+  },
+  {
+   "title": "被災地で孤立する外国人 届かぬ支援情報、同胞のつながりが命綱",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBua25zNTh4YW1RbkZmZkI2ZEhWSWlpQUtsUEJkWko3X1U2N2MyajY4N1JPdDdIejJLRC1CbmVIeE4xNzFCMXhHUHJ1ekNoZm9pYnoxOXVlN0VMQ1JEZmxXTlltSTJ0MkJU?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-17 18:39",
+   "published_iso": "2026-08-17T09:39:56+00:00"
   }
  ]
 }
