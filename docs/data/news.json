@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T12:42:01+00:00",
+ "generated_at": "2026-08-20T13:43:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "収穫体験 交流深める 洞爺湖で胆振の外国人６０人",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LSVlIZFRwb05uNHZ6aVRFM2xYdDhicTZqbE1nbElfWFhqa3lnTS12RGtwdzZDazVBWUpqYk1rSHkwUzhuQVgzZklJTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-20 21:00",
+   "published_iso": "2026-08-20T12:00:00+00:00"
+  },
   {
    "title": "長野県多文化共生相談センターのアカウントに不正アクセス 利用者が詐欺被害",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJMUVYMlJzbk02bnpKTVVaLWl6ZUFrR3J2Q0FJTEhHOEJfZE9EUGtBcV9QR0owUjc4SGNjSWtNdTFVbkxaS0YyMWpjUnRhOU5feW0wWEtRTDVJOGJUTmJFa0dadTBEWndiTG43WWtpZ3I?oc=5",
@@ -89,7 +97,7 @@
   },
   {
    "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYWRxNE1VN1ZWX1JNWFhLaEVpZ25FMXRaNTZYR1BwMjZhREpaN1g4U1pGN294QzYyRWFxbGY0cGN1Ymp6QUdQMllDbWdTU3JnOWFac2JDc3duMHRZN19LVjRob25Uc0Vtby1MQmNnQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tT2dsaERYWjRyVF9tTFluOXhkYXhERnczcC1RR0JnS3FYSW1UaEpGVlA5T0VPWHNTN1llLTZ2LTIzQ0hCZmt6MnhJbk9iX0J2bFZkVU1McGlvLURhaDBxQ21NbXdqYXJSRXNwejZ3?oc=5",
    "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-20 10:00",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-17 08:30",
    "published_iso": "2026-08-16T23:30:00+00:00"
-  },
-  {
-   "title": "外国人のレンタカー事故急増、コロナ禍前上回る 観光庁が実態調査へ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cHdXMkJTb3hNYm1tU2g1R2lFLThDd0k4Z3JOOEFLdnduQ1NnV2RDMGE0c3cxNEJWeVM4b05DOVUwSjFWUXdacEwtaDN6VjBvZjc5N0VFTGxpdE5Eak5icUt4bmtxTHM2RzdGWA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-16 17:27",
-   "published_iso": "2026-08-16T08:27:58+00:00"
   }
  ]
 }
