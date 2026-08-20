@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T09:30:54+00:00",
+ "generated_at": "2026-08-20T10:26:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「オカネクダサイ」片言の日本語で脅迫…実は“外国人装った”日本人 コンビニ強盗未遂容疑で32歳男を逮捕 前日の強盗事件との関連も捜査",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NTVEtZ05SVWx0QXNvOHcxaldQX3I2R01JWkF1M2Z0UjdQYV9jYWVVb2QxU01abkNNY25XSUJ1YnNpOHF6UjNWZnUtTUxSUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-20 19:13",
+   "published_iso": "2026-08-20T10:13:00+00:00"
+  },
   {
    "title": "群馬の日本人県民「外国人増加で治安・風紀乱れる」7割 県が調査",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NTVEcm9pOUZPbndDcTd0azF6M0paVXQ5OHJvUmRVNmMzYlloODFWREp3azhBYmJtMnZIcWljeHZwcUYxNzZNZk41S1pjdE5XSjMxNkFhNGQ2QzlNZ21WSFJTMnVoSUVWalJuMw?oc=5",
@@ -22,6 +30,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-20 18:00",
    "published_iso": "2026-08-20T09:00:00+00:00"
+  },
+  {
+   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-20 17:22",
+   "published_iso": "2026-08-20T08:22:00+00:00"
   },
   {
    "title": "大分の26年在留外国人、12%増の2万3878人 インドネシアが最多に",
@@ -40,20 +56,20 @@
    "published_iso": "2026-08-20T06:22:44+00:00"
   },
   {
-   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-20 14:28",
-   "published_iso": "2026-08-20T05:28:00+00:00"
-  },
-  {
    "title": "浦河町がAI翻訳機を導入 33言語対応で外国人の生活相談を支援",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TU55UEhpTmY2MktHOERDVDJQMGlLMFVJZUtwX3pRbVY3dEVidy1FRFNRcUFGNll0cUhZTGo3TDVBa0I5MkVYb0NuZUp4bnl5dG41YXN2UmlEdw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-20 14:12",
    "published_iso": "2026-08-20T05:12:13+00:00"
+  },
+  {
+   "title": "「外国人装い片言で話した」 コンビニ店長に刃物向け「お金をください」後藤篤史容疑者（32） 別の事件も関与か 群馬",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QWVdZTFM3TTdhMEJWNHhoM01mdmp2c1M1djdvdFhPSjV3bEdVdjN3SUxuajFyTGNkRnRSemo0TnVtQ01VSUNEYU80UE1ZUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-20 12:44",
+   "published_iso": "2026-08-20T03:44:00+00:00"
   },
   {
    "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
@@ -257,7 +273,7 @@
   },
   {
    "title": "日本語学習制度へ検討開始 在留外国人向け、有識者ＷＧ",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXh4c2VTTEZEdGdqZjNidE42bTRRSDRxaGphYU1JSWI2VUlJUFRNUTVPWEhnSnMyVW91YjZPeFY2czZYVW8yNXRVZDg4cVh6aWozV2RpcWFnU2gwZFBkUi1hckQzZXpoNlJzZi1iRmgyazVCclNxTjhmUzhDc1B2Y0pB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sNUZwbEhPS19rbHA3aEtCQXlzaFBtcWI4M0F4azJSVnc1OFZOOFZSZ2hVUlU1WGpraFRfWnEwVVgyM1dPTE1zaW4tQ3BUczBhQmlISWZwZnBNX2NnaGM3UnJ4Yw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-18 17:37",
@@ -320,6 +336,14 @@
    "published_iso": "2026-08-17T20:00:00+00:00"
   },
   {
+   "title": "豪ワーホリ ビザ抑制へ 極右台頭 移民政策見直し",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMUd2LXp4Ul92c0VmS3NzZ3JEZW1lbWg1VFBDQk9SY2Zpd0UwSHlyR0lkZkZQVFNDRUJ5ckNXeDUxNEpDdGlaaG1JbmpfWUVzVDVEanl3UzBfTjI1bDhJemdrYw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-18 05:00",
+   "published_iso": "2026-08-17T20:00:00+00:00"
+  },
+  {
    "title": "移民と社会：特定技能「制限」 食の現場困惑（その1）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWUxCMDlUMEZKNXVKYzZ4TGRmSHNzaDQwOHNLRWtYMkJZMGRZTUg5LVBUVUVzR0NJTTByd2U5ZGVEb01tbmZjZ2Q5SjJoTHRTTmdveWZEVG5tbWxWdzNHVURkTFNtWWo2?oc=5",
    "source": "毎日新聞",
@@ -360,6 +384,14 @@
    "published_iso": "2026-08-17T05:07:16+00:00"
   },
   {
+   "title": "オーストラリア「ワーホリ」ビザの審査手続き遅れる 政府が移民政策見直し 日本人の発給にも影響か",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSzh1UGNxR0RkWnE0bjZLU0g2aEM2NUp0VklPTjlnUUJEQVVmSXIyN3dVSmZYUmFHZkZxYWVCWlpLT2JpVl9MMW5QMTZRZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-17 11:32",
+   "published_iso": "2026-08-17T02:32:00+00:00"
+  },
+  {
    "title": "外国人の国民年金納付が低調、制度理解進まず 政府間協定遅れも背景",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EM1BaVkpvU09Wc0tNV2dNeG05ZmMwT2wzNjNqLTV2R1pfdDc5b1ZtaGRCZFZHU1k4SGt0bmhIYVdfNDZTSTlQOW55YlNYblg1OWJfRGhFbmptbXNWdEYyb3QxdW1hM1h5SmZpNw?oc=5",
    "source": "日本経済新聞",
@@ -374,38 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-17 11:00",
    "published_iso": "2026-08-17T02:00:00+00:00"
-  },
-  {
-   "title": "富山市で外国人とみられる男３人、歩行中の男性を羽交い締めにして現金奪う…目撃者の「何しとるんじゃ」で逃走",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLWFTZ0NLd21BV1piNDk2NzRSajRHby1WVDdLNWVyVXlsWms3YjVMSWd4d3BCVnlubXdzR3FleTlFR2pqcGZEaVRBTmhnbURYaUF1SE51WGNhMENLc2I2bG1OVzVoZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-17 09:53",
-   "published_iso": "2026-08-17T00:53:00+00:00"
-  },
-  {
-   "title": "オーストラリア、「ワーホリビザ」の発給を抑制 移民政策見直しか",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWUVY0Y01aZHVZN0ZkaEt2NlhRVmVPckc4THZndUFvcUtQNk8zbl8wSlhsQ1VVN3lsSjQxY29ZeVhUQU00N3M4WGhyR1ZYbmFWU25rODVMVWExMm5ZNlI0VTl0WUVHMDg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-17 08:30",
-   "published_iso": "2026-08-16T23:30:00+00:00"
-  },
-  {
-   "title": "外国人のレンタカー事故急増、コロナ禍前上回る 観光庁が実態調査へ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cHdXMkJTb3hNYm1tU2g1R2lFLThDd0k4Z3JOOEFLdnduQ1NnV2RDMGE0c3cxNEJWeVM4b05DOVUwSjFWUXdacEwtaDN6VjBvZjc5N0VFTGxpdE5Eak5icUt4bmtxTHM2RzdGWA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-16 17:27",
-   "published_iso": "2026-08-16T08:27:58+00:00"
-  },
-  {
-   "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-16 16:42",
-   "published_iso": "2026-08-16T07:42:00+00:00"
   }
  ]
 }
