@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T20:24:29+00:00",
+ "generated_at": "2026-08-20T21:24:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "実習生への人権侵害で処分後に別会社設立か…「出入国管理局」が抜き打ち立ち入り検査 北海道の農業法人で横行した外国人支配の凄惨な現場",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
+  },
+  {
+   "title": "報償金制度の波紋 不法就労に頼る農家の叫び～移民ビジネスを追う（下） ＃３３９",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5teHI0TkpMMlFqVF8xeUt3UkJxTWtjdW1YMUdzNHdKcHYxQ1d0bUE5UjdGdEpwQk9zYXBZRkttcnd4WDRMNGptVXRfelhYRGF5OHI1YmNxNkZlemVpYlV1bDQyam1IUQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
+  },
+  {
+   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
   {
    "title": "群馬：外国人増「治安乱れる」７２％ 共生意識 交流望む外国人と差：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02M2picGZMRXFSWEphZ2F2MVBoN25ZTm1WR3BWQVBrOTZQbGtEOUxfS2RYU2Qtc0I2ajgzYU1samN2NldxQ0RoRExIcEgzVzUxQUNTRm4xU3d1aUw4S29MbmVGV3Z3ckRKanNsVkJ4bjk?oc=5",
@@ -28,14 +52,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GLW9PTVFrSzVHdmE4UkxGUzNJS2pRbGFsZlNabU14Vm1Hc3RTNUZtRzdZQXBsVEVYVDEzQ21SbjBLT2JsMm9LTmUyb1ZkUFlGTEdEUTlfRFpqSlUwTm9zRFVpZEt3TDlSaUI1ZjFKYlV1Zw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
-   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -126,14 +142,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-20 12:44",
    "published_iso": "2026-08-20T03:44:00+00:00"
-  },
-  {
-   "title": "外国人観光客らでにぎわう浅草寺の雷門＝19日午後、東京都台東区 - 【訪日客数増加】民泊、苦情多発で曲がり角 規制強化、健全化進むか - 写真・画像(3/3)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KZFFFbTBvNU9lQUxCenBWSnNCc004NlFWMkZWLWNleGdoV1JRYnZTOHJIUUFBd0lwUUtjLTE5a2ZKX2I4QW82cjBKaV9nakxUOXZmUmNpbw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-20 12:13",
-   "published_iso": "2026-08-20T03:13:06+00:00"
   },
   {
    "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
@@ -230,6 +238,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 17:12",
    "published_iso": "2026-08-19T08:12:54+00:00"
+  },
+  {
+   "title": "韓国サッカー協会 外国人審判への性接待疑惑 「公訴時効が成立」と警察が見解",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLSjNBX3RWQmhSV3R2Vmd3ZmlvU0xoLThJcFBaVFowVDB4bjBJYlV1eHJDdWtySXlsTUVQa0hXMFRaZFZ4S0FKSzhUV0lVcXVrdjlScDNGTGJLWW81cGpFall6WVJfRDhDQjdNRmJTU04xLXFSTFZ2QWp3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-19 16:02",
+   "published_iso": "2026-08-19T07:02:19+00:00"
   },
   {
    "title": "「庭の手入れがされていない家を狙った」窃盗目的で東京・埼玉の空き家に20件以上侵入か ベトナム国籍の男3人逮捕 技能実習生として来日も今は不法滞在 警視庁",
@@ -390,22 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-17 18:39",
    "published_iso": "2026-08-17T09:39:56+00:00"
-  },
-  {
-   "title": "大分の造船6社、外国人材定着や次世代育成の支援要望 県に5項目",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CanBBSGdNT1BleXRocVdKVHFCVTdBUnFUM05jMkJyYjN1N0lPb0wtRWo5eDFsbEFXOVA1OVY3YkFSSlcwRXNmVDkwQXZIUEJBcEtGTFRmR3VSa3NNX0wxT2JQNDRjQV9rTDc5Vw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-17 18:26",
-   "published_iso": "2026-08-17T09:26:34+00:00"
-  },
-  {
-   "title": "オーストラリア､「ワーキングホリデー」ビザ発給抑制－移民削減検討",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92SE5pLThEYXhwM3pBOS1CRG9JYk9EMUNpYlJJc01IdGNhbDhBeVRWZ09PWGJCVFl5RTQxTGdXZWg0am1CVnAtX2xSN1dhdGRRNDZfdHRoMXgzWXFxeDhRM0syR05RVFE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-17 14:07",
-   "published_iso": "2026-08-17T05:07:16+00:00"
   }
  ]
 }
