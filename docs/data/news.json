@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T07:38:19+00:00",
+ "generated_at": "2026-08-20T08:34:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,9 +24,17 @@
    "published_iso": "2026-08-20T06:22:44+00:00"
   },
   {
+   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-20 14:28",
+   "published_iso": "2026-08-20T05:28:00+00:00"
+  },
+  {
    "title": "浦河町がAI翻訳機を導入 33言語対応で外国人の生活相談を支援",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TU55UEhpTmY2MktHOERDVDJQMGlLMFVJZUtwX3pRbVY3dEVidy1FRFNRcUFGNll0cUhZTGo3TDVBa0I5MkVYb0NuZUp4bnl5dG41YXN2UmlEdw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-20 14:12",
    "published_iso": "2026-08-20T05:12:13+00:00"
@@ -42,7 +50,7 @@
   {
    "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYWRxNE1VN1ZWX1JNWFhLaEVpZ25FMXRaNTZYR1BwMjZhREpaN1g4U1pGN294QzYyRWFxbGY0cGN1Ymp6QUdQMllDbWdTU3JnOWFac2JDc3duMHRZN19LVjRob25Uc0Vtby1MQmNnQQ?oc=5",
-   "source": "kobe-np.co.jp",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-20 10:00",
    "published_iso": "2026-08-20T01:00:00+00:00"
@@ -138,7 +146,7 @@
   {
    "title": "日高町に２人目のインド人国際交流員 外国人の生活を支援",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uWVBPUm5yWk9NY1N5Xzl1SnplRHBLMUpVNFczMk41ZFFaWFhHTi1WZnpPc1JhdG9ocjdOQV9fbnJWZmRWbGpsQllSX1N0WXREcUgxWXhNSFBHQQ?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-19 17:06",
    "published_iso": "2026-08-19T08:06:50+00:00"
@@ -154,7 +162,7 @@
   {
    "title": "SIBを活用したAI人材育成・就労支援事業を島根県で開始",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hYm5oNTcyTkY1WkYtTTVMZGFtXzFWX01aNkpCZnM5VllNa0xmSF8xZXFROGo1QllUMFV1V1B2dW1MZ2d1eHB5a084TDE4d09rOWRKLUxKUUpBSWRBdWZSd3RuR0k3dzNtNFFN?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-19 07:10",
    "published_iso": "2026-08-18T22:10:00+00:00"
@@ -170,7 +178,7 @@
   {
    "title": "＜このまちで踊ろう ダンスボックス30年＞(下)共生社会ワークショップ 「私だけの動き」見つけ心に力",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pSkhsengxSThYSTJWaWVUZF9TOE1qTE1nVE42UGxuU1FOT3gtYjR3WVlLdVA4bmZrUkxkd1BteFAxT0FOMzZPMHNVZUNBeW1pbEs3ZXp2YnBrTVc0M0M4NS1tVE5MRENEekZkQ3Fn?oc=5",
-   "source": "kobe-np.co.jp",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-19 05:10",
    "published_iso": "2026-08-18T20:10:00+00:00"
@@ -224,14 +232,6 @@
    "published_iso": "2026-08-18T09:00:00+00:00"
   },
   {
-   "title": "ゼロプラン強化版は「国際人権法が求める人権保障と相いれない」…日弁連が反対の会長声明",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tR0k1ekNORzBQNVN3X2cyY2JfUzJIRk4xMThhbXR5Ymw2aGc5TjI1dW1BSElTNEFRbjl0Mk1KUXJUQ3BJNEg0MUtQZy1TbE9zWTln?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-18 17:38",
-   "published_iso": "2026-08-18T08:38:42+00:00"
-  },
-  {
    "title": "日本語学習制度へ検討開始＝在留外国人向け、有識者ＷＧ",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3ZHpKSlRyS1h0NXdkZ0FOaGI2QkNfa3RneUQ4dkF0em5RNDJZV3g5VkZ3VE0xSG81QnV5cC16MnpsZXVvRm5NOXZVaUFCR25mVTRNVkx1WUpRUVlu?oc=5",
    "source": "nippon.com",
@@ -242,7 +242,7 @@
   {
    "title": "日本語学習制度へ検討開始 在留外国人向け、有識者ＷＧ",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXh4c2VTTEZEdGdqZjNidE42bTRRSDRxaGphYU1JSWI2VUlJUFRNUTVPWEhnSnMyVW91YjZPeFY2czZYVW8yNXRVZDg4cVh6aWozV2RpcWFnU2gwZFBkUi1hckQzZXpoNlJzZi1iRmgyazVCclNxTjhmUzhDc1B2Y0pB?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-18 17:37",
    "published_iso": "2026-08-18T08:37:00+00:00"
@@ -264,7 +264,7 @@
    "published_iso": "2026-08-18T07:15:00+00:00"
   },
   {
-   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念 ニュースQ",
+   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
@@ -308,14 +308,6 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnOGtGTk5JQlNxOG10VlU4N2pMVnVMSi1fS3N1Y216ZF8wd2xNVDh0TWVyWG0tMmFFU0pCRTJBWmRDc1RYRC1DN05UZk9tSU5KRTlqQ1IxTjJXSGpZdEItTFJ2R2M3dXBm?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
-   "published": "2026-08-18 05:00",
-   "published_iso": "2026-08-17T20:00:00+00:00"
-  },
-  {
-   "title": "豪ワーホリ ビザ抑制へ 極右台頭 移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMUd2LXp4Ul92c0VmS3NzZ3JEZW1lbWg1VFBDQk9SY2Zpd0UwSHlyR0lkZkZQVFNDRUJ5ckNXeDUxNEpDdGlaaG1JbmpfWUVzVDVEanl3UzBfTjI1bDhJemdrYw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 05:00",
    "published_iso": "2026-08-17T20:00:00+00:00"
   },
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-16 17:27",
    "published_iso": "2026-08-16T08:27:58+00:00"
+  },
+  {
+   "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-16 16:42",
+   "published_iso": "2026-08-16T07:42:00+00:00"
   }
  ]
 }
