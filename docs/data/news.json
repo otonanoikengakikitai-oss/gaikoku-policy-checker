@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T15:30:20+00:00",
+ "generated_at": "2026-08-20T16:31:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -126,14 +126,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-20 06:20",
    "published_iso": "2026-08-19T21:20:11+00:00"
-  },
-  {
-   "title": "不法就労の闇 暗躍するブローカーに会う～移民ビジネスを追う（中） ＃３３８",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Pa0p6ZVFfTFZSOFdaTDY3eHFPcXFBdzVXS21mT0VJbFY0MS0tR0ZNcUNpVzJLQTNRSm92ZXFOUlRLWDhIeE5ZS0RkNVNwUkhWRmVxMjhUREhCVTNBcEluTnZ6enZ6QQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-20 06:00",
-   "published_iso": "2026-08-19T21:00:00+00:00"
   },
   {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
@@ -264,6 +256,14 @@
    "published_iso": "2026-08-18T20:00:00+00:00"
   },
   {
+   "title": "移住９０年、１万人の日系人が暮らすパラグアイ…日本語教育のため開校した学校は日本文化を伝える地域の拠点に",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTzBCc1l1dGZQVzFLbXBoRG1VaG5uWTl3aGRWVTUycUhnV2Q1T2xMb0xBN0JuSHJCNmMxc1JLd01feFlMN0xfOW9ZMmtFX09hN3d2S1VJaEhyUWV3VjlBdjN3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-19 05:00",
+   "published_iso": "2026-08-18T20:00:00+00:00"
+  },
+  {
    "title": "特定技能1号「外食」新規受け入れ停止で波紋 [写真特集1/13]",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR045YVlNTk9PYzdBblVRc2lWVUlWYmdGTXJXMzR4T1R4SUJxdkpiRGVoRkJFbXZWdWRyLUJRem1xdU5yVmxpRHpMdVR1NkZDU0VBYnVpV1dib1BmX21GQ1RKRnJoNVF2NFh2LU1sajRwMTl1ZDJRbzlUZnhBMnZRdXJoRi1hVG8?oc=5",
    "source": "毎日新聞",
@@ -328,7 +328,7 @@
    "published_iso": "2026-08-18T07:15:00+00:00"
   },
   {
-   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
+   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念 ニュースQ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
