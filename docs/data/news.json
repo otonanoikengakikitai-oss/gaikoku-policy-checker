@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T05:27:16+00:00",
+ "generated_at": "2026-08-20T06:40:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -74,7 +74,7 @@
   {
    "title": "7月の訪日外国人観光客 344万人超 7月として過去最高を更新 一方中国は半減",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWERhSlowMlh2V0UzZGE1MlBLWm9rWWRPVS1MaVNEQlFJM3M0X2pCUVFUb2tEbEZ0TVVMNHo1YVk3cmZqUk1CMDhyS2tnalJQNC1qS3dTLURub2FZRU0zaVFFVjlvTUNMY2llT3FPLXJ5Zw?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 20:01",
    "published_iso": "2026-08-19T11:01:07+00:00"
@@ -114,7 +114,7 @@
   {
    "title": "「オカネヲクダサイ」コンビニ強盗未遂か 男逮捕 外国人装い…他店でも犯行か 群馬",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kRjFwc3JoX1BxN2hWVnUzdHI1cXBSN09SMml4QXlXX2VPR0RlMGdnanBaZXNMM29BZ3RwakpVSENhbEE4MHJ5SFFNS0JyUGlXZ3MyR1R3SWVHb05ObnVlNmcydjhERnJER1FxMC1Sb1RNUQ?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 17:12",
    "published_iso": "2026-08-19T08:12:54+00:00"
@@ -134,14 +134,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-19 16:26",
    "published_iso": "2026-08-19T07:26:00+00:00"
-  },
-  {
-   "title": "韓国サッカー協会 外国人審判への性接待疑惑 「公訴時効が成立」と警察が見解",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLSjNBX3RWQmhSV3R2Vmd3ZmlvU0xoLThJcFBaVFowVDB4bjBJYlV1eHJDdWtySXlsTUVQa0hXMFRaZFZ4S0FKSzhUV0lVcXVrdjlScDNGTGJLWW81cGpFall6WVJfRDhDQjdNRmJTU04xLXFSTFZ2QWp3?oc=5",
-   "source": "news.tv-asahi.co.jp",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-19 16:02",
-   "published_iso": "2026-08-19T07:02:19+00:00"
   },
   {
    "title": "「庭の手入れがされていない家を狙った」窃盗目的で東京・埼玉の空き家に20件以上侵入か ベトナム国籍の男3人逮捕 技能実習生として来日も今は不法滞在 警視庁",
@@ -226,7 +218,7 @@
   {
    "title": "ゼロプラン強化版は「国際人権法が求める人権保障と相いれない」…日弁連が反対の会長声明",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tR0k1ekNORzBQNVN3X2cyY2JfUzJIRk4xMThhbXR5Ymw2aGc5TjI1dW1BSElTNEFRbjl0Mk1KUXJUQ3BJNEg0MUtQZy1TbE9zWTln?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-18 17:38",
    "published_iso": "2026-08-18T08:38:42+00:00"
@@ -264,20 +256,12 @@
    "published_iso": "2026-08-18T07:15:00+00:00"
   },
   {
-   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念",
+   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念 ニュースQ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-18 16:00",
    "published_iso": "2026-08-18T07:00:00+00:00"
-  },
-  {
-   "title": "人材難が深刻化する造船関連企業８社、外国人労働者ら確保へ支援要望…大分県知事に働きやすい環境整備など",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50R2dRdUxKQndoaWxVQllESGtqZV9jUUFmZDAxUXhtU1cwZzZxSVhxckpIZEJ4SjFhNV9xTVpOY05JQmRNeE1rbFdKRG12dHZlaVVOa2JpdWRlR3phQVRSNFVUZE9rMEFoMEZ0Y1FUWkJJdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 15:03",
-   "published_iso": "2026-08-18T06:03:00+00:00"
   },
   {
    "title": "第2回多文化共生ひろばカフェ 2026年8月29日(土) | 福岡おでかけ・イベント情報",
@@ -302,6 +286,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-18 07:00",
    "published_iso": "2026-08-17T22:00:00+00:00"
+  },
+  {
+   "title": "広島県内の外国人観光客数 2年連続で過去最高を更新 最多はアメリカ 次点がイギリス 県観光連盟まとめ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1N0tTWU5raG9nNnhQUjdSdVdSM1prVnVMV2dBdVAxcXlaeEI1aC1DZ3V1QzhDbUNFTGlIWFhzZGgxNDNHdlozMFBfendQV3pCQU9BbXpHblQ4OTQxSzlzOG0wRVZpd1E?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-18 06:00",
+   "published_iso": "2026-08-17T21:00:00+00:00"
   },
   {
    "title": "「政治家は現場見て」崩壊危機の老人ホームの食 外国人採用停止",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-16 17:27",
    "published_iso": "2026-08-16T08:27:58+00:00"
+  },
+  {
+   "title": "豪、「ワーホリ」受け入れ抑制 極右台頭で移民政策見直し",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdkU0dlpLaG1oVkQ0VV82c1RGNWplNHNPZ3VLTUlKZUpqdU1LWGNJeUhsVHJwVHY3dmF2Q0xfREx6SFRoZzFHenVVUnJFV1JmTEFKbFZfenhBRTVwQ0lSekV6NA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-16 16:42",
+   "published_iso": "2026-08-16T07:42:00+00:00"
   }
  ]
 }
