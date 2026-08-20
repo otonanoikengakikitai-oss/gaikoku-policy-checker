@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T13:43:23+00:00",
+ "generated_at": "2026-08-20T14:32:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "京極の農業法人、特定技能のミャンマー人労働者を虐待か 複数回の暴言など",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZzZsb2Z6dnVUd01xMFN1MmJscV9BazBfT0Eybzl0MWZ4VnZFRzByTHlpWnNmS29wNHRPVHpTRTB5R0FSeGFfSTR2NEJxdjBkSzFRY1cwYnBsdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-20 22:43",
+   "published_iso": "2026-08-20T13:43:19+00:00"
+  },
   {
    "title": "収穫体験 交流深める 洞爺湖で胆振の外国人６０人",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LSVlIZFRwb05uNHZ6aVRFM2xYdDhicTZqbE1nbElfWFhqa3lnTS12RGtwdzZDazVBWUpqYk1rSHkwUzhuQVgzZklJTQ?oc=5",
@@ -62,14 +70,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-20 15:57",
    "published_iso": "2026-08-20T06:57:14+00:00"
-  },
-  {
-   "title": "プレスリリース：［独自調査］2026年最新：外国人に人気の飲食店ランキング［渋谷×居酒屋編］1位は「博多酒場 すみ吉屋」！| インバウンド人気飲食店ランキング #インバウンド #MEO（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUcUFja0Z2UTU5ekg4dGkxcTE1OTc1UnNWOWl4azBlMTlpb0gwN24tLWQ3RHlhMzJYcUtFM1ZaMWJDR24zeE0tamptaUVUREQ4SThIRldIY2NSTl9meGY0TVBNbVAwUTQx?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 15:22",
-   "published_iso": "2026-08-20T06:22:44+00:00"
   },
   {
    "title": "浦河町がAI翻訳機を導入 33言語対応で外国人の生活相談を支援",
