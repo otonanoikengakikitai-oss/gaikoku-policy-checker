@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T21:24:36+00:00",
+ "generated_at": "2026-08-20T22:23:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ロールプレイで外国人医療考える 言葉や文化の壁…患者と医師を演じて課題共有 東大でワークショップ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ua1d2bmNrdFRheGlHVTQwMWw5a2NwbFBiRlU2VGowTUZlSktQczVfNnZEZ1lNZXlfdTRwSHlmMVlLbXlKQzRScWlmQmY1eGpMdUtyX1B1SnlFbTdUYllwSUJn?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-21 07:19",
+   "published_iso": "2026-08-20T22:19:04+00:00"
+  },
   {
    "title": "実習生への人権侵害で処分後に別会社設立か…「出入国管理局」が抜き打ち立ち入り検査 北海道の農業法人で横行した外国人支配の凄惨な現場",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
@@ -28,6 +36,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -376,14 +392,6 @@
    "published_iso": "2026-08-17T20:00:00+00:00"
   },
   {
-   "title": "豪ワーホリ ビザ抑制へ 極右台頭 移民政策見直し",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QMUd2LXp4Ul92c0VmS3NzZ3JEZW1lbWg1VFBDQk9SY2Zpd0UwSHlyR0lkZkZQVFNDRUJ5ckNXeDUxNEpDdGlaaG1JbmpfWUVzVDVEanl3UzBfTjI1bDhJemdrYw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 05:00",
-   "published_iso": "2026-08-17T20:00:00+00:00"
-  },
-  {
    "title": "移民と社会：特定技能「制限」 食の現場困惑（その1）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsWUxCMDlUMEZKNXVKYzZ4TGRmSHNzaDQwOHNLRWtYMkJZMGRZTUg5LVBUVUVzR0NJTTByd2U5ZGVEb01tbmZjZ2Q5SjJoTHRTTmdveWZEVG5tbWxWdzNHVURkTFNtWWo2?oc=5",
    "source": "毎日新聞",
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-18 02:00",
    "published_iso": "2026-08-17T17:00:42+00:00"
-  },
-  {
-   "title": "被災地で孤立する外国人 届かぬ支援情報、同胞のつながりが命綱",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBua25zNTh4YW1RbkZmZkI2ZEhWSWlpQUtsUEJkWko3X1U2N2MyajY4N1JPdDdIejJLRC1CbmVIeE4xNzFCMXhHUHJ1ekNoZm9pYnoxOXVlN0VMQ1JEZmxXTlltSTJ0MkJU?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-17 18:39",
-   "published_iso": "2026-08-17T09:39:56+00:00"
   }
  ]
 }
