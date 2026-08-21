@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T02:59:51+00:00",
+ "generated_at": "2026-08-21T03:55:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 12:37",
+   "published_iso": "2026-08-21T03:37:37+00:00"
+  },
+  {
    "title": "台湾が韓国を上回り初の最多…出発地別の外国人宿泊者数 利用率好調な直行便が背景に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1veWF2dy1qeGRtZ2Vway1TMW5wNFJBR2Njb05KUXFmVGplNE90QVFkZS1Ec09hNlRRVWpJUzVlalhtWlZGcjJlRG4yTWZZVjFWRFA2a3kxQ1hrUQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 11:24",
    "published_iso": "2026-08-21T02:24:00+00:00"
+  },
+  {
+   "title": "アジア・アジアパラ大会 おもてなし多様な食対応…中部空港周辺 訪日外国人向け開発：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQUhFNTFJU0hFVVdfd2x0ekp6VEZETld6aGRhOTg4YlJMTmlYSllEX3kzdXZ3MTN4UVUtUHA3R05QUFM1V2RiVlBGb0o2d3RzaHFGSGJpN2xhc1hJVVQtYm5Uc2RkUHJzODIzMmhidkU?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-21 11:20",
+   "published_iso": "2026-08-21T02:20:00+00:00"
   },
   {
    "title": "外国人採用がうまくいく企業・うまくいかない企業～属人継承型 vs 未経験受け入れ型～【8月24日～28日限定無料公開】",
@@ -40,14 +56,6 @@
    "published_iso": "2026-08-20T22:00:00+00:00"
   },
   {
-   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nbElBaUtwSmZaTUFlX1NVNWZDMUVneV95aEVTSHE1SGRscllkS0UydnNDUldxU09rT0Y3c0dHN0k0SHRCQ1lsVVVZZ0xodDktSGkzOG9PVld4VXhISElGeg?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
-  },
-  {
    "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdHNsSkdwRWN0NWdDUVlsdVNRUlFHT1N0T3lwWnJzcmVpaHA4Sk04VTIwdFBWNWpOMmFZNGdfUGhGcE45RmhvanM5UjFWTUdJZmVVN2F4Nm1Bb3RlbDhUSVA3ZUFlSlk?oc=5",
    "source": "TBS NEWS DIG",
@@ -72,32 +80,8 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "報償金制度の波紋 不法就労に頼る農家の叫び～移民ビジネスを追う（下） ＃３３９",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5teHI0TkpMMlFqVF8xeUt3UkJxTWtjdW1YMUdzNHdKcHYxQ1d0bUE5UjdGdEpwQk9zYXBZRkttcnd4WDRMNGptVXRfelhYRGF5OHI1YmNxNkZlemVpYlV1bDQyam1IUQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
-  },
-  {
-   "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
    "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
-   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
@@ -108,6 +92,22 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02M2picGZMRXFSWEphZ2F2MVBoN25ZTm1WR3BWQVBrOTZQbGtEOUxfS2RYU2Qtc0I2ajgzYU1samN2NldxQ0RoRExIcEgzVzUxQUNTRm4xU3d1aUw4S29MbmVGV3Z3ckRKanNsVkJ4bjk?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -142,14 +142,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-20 20:43",
    "published_iso": "2026-08-20T11:43:00+00:00"
-  },
-  {
-   "title": "「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 20:17",
-   "published_iso": "2026-08-20T11:17:51+00:00"
   },
   {
    "title": "“外国人装い”片言で「お金ください」コンビニ強盗 実は32歳の日本人と判明 前日にも同様の犯行か 群馬・大泉町",
@@ -288,14 +280,6 @@
    "published_iso": "2026-08-19T08:45:00+00:00"
   },
   {
-   "title": "＜外国人の男性＞から「日本の旅行についてアドバイスを」とメッセージが届き…５０歳代女性がロマンス詐欺で５７５３万円相当の暗号資産だまし取られる",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VVDAyRkVUX1EzS3FWbGsxN3hsbVR4c2tmT0d6em5MVFJJSkVVRU9XbVU1Yl94UXRsMDVOVVplVFIzV2o4Q21VLTFFVGp2OWpvVG00dEI5QkhSLWw4Rl9wR1Q5QTQyUDVsRWJpU1ByWWNrQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-19 17:40",
-   "published_iso": "2026-08-19T08:40:00+00:00"
-  },
-  {
    "title": "「次世代へつながりを継承」 ハワイ沖縄移民のルーツ探る 宜野湾でフェスタ、8月23日",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbHkwNnVtRmVyTnhDMmdldXoxNDNjMGZQR1JmUDhfOGQ3SS1aeVRmcklOTmVvYlhTeWZyYVFwcndseFlWMmlHdDhEcw?oc=5",
    "source": "47NEWS",
@@ -406,6 +390,22 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-18 16:15",
    "published_iso": "2026-08-18T07:15:00+00:00"
+  },
+  {
+   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念 ニュースQ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-18 16:00",
+   "published_iso": "2026-08-18T07:00:00+00:00"
+  },
+  {
+   "title": "「政治家は現場見て」崩壊危機の老人ホームの食 外国人採用停止",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnOGtGTk5JQlNxOG10VlU4N2pMVnVMSi1fS3N1Y216ZF8wd2xNVDh0TWVyWG0tMmFFU0pCRTJBWmRDc1RYRC1DN05UZk9tSU5KRTlqQ1IxTjJXSGpZdEItTFJ2R2M3dXBm?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-18 05:00",
+   "published_iso": "2026-08-17T20:00:00+00:00"
   }
  ]
 }
