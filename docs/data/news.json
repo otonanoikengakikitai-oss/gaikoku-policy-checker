@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T05:29:10+00:00",
+ "generated_at": "2026-08-21T06:40:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FNzdVVFd3bGwzTk9mUVhlLWhWRkNNdEQtOGtybHhxVHVuOUtLNW0xTXNnU2FwVkNFazhaOUVnb3I4N0Z0MHFKTnlDQXA4US05M0NHNUJ5VQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 14:38",
+   "published_iso": "2026-08-21T05:38:00+00:00"
+  },
+  {
    "title": "普及進む「やさしい日本語」 外国人被災者へ正しく簡潔に災害情報を伝達、訪日客にも対応",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVW9BRV95TzBzVkZMclZEd1Y0eDRGWE9fVTZXQUhVc0p6N3lVcmFzQ1VUWWJnZFktZWxWb3FVQ0ZISWl1YzQwNm0xaFEzN1VLY0VKT29VSFd0aTFpZy1ycC10dUNCa0tFUTctSUdHUHc0NGhhb2c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
+  },
+  {
+   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 12:58",
+   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "台湾が韓国を上回り初の最多…出発地別の外国人宿泊者数 利用率好調な直行便が背景に",
@@ -32,12 +48,12 @@
    "published_iso": "2026-08-21T02:20:00+00:00"
   },
   {
-   "title": "外国人採用がうまくいく企業・うまくいかない企業～属人継承型 vs 未経験受け入れ型～【8月24日～28日限定無料公開】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRV196UEhFUlVZNHV2NF9YbFhTUGhIblloeE4xcGY2WlRFOE9FS2I0RjBfUUctV2RQMm42bnZydm1HQkROUm5HcUo2Y0tYN0dPVmVLOWFRY243QlAzY3lVQldWa0t2Nm13NjZN?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-21 10:46",
-   "published_iso": "2026-08-21T01:46:00+00:00"
+   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 10:55",
+   "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
    "title": "“介護難民400万人時代”に現場は崩壊の危機 「介護職を60万人増員」するべき実態とは？",
@@ -46,14 +62,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-21 07:00",
    "published_iso": "2026-08-20T22:00:00+00:00"
-  },
-  {
-   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
    "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -126,14 +134,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-20 22:43",
    "published_iso": "2026-08-20T13:43:19+00:00"
-  },
-  {
-   "title": "収穫体験 交流深める 洞爺湖で胆振の外国人６０人",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LSVlIZFRwb05uNHZ6aVRFM2xYdDhicTZqbE1nbElfWFhqa3lnTS12RGtwdzZDazVBWUpqYk1rSHkwUzhuQVgzZklJTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-20 21:00",
-   "published_iso": "2026-08-20T12:00:00+00:00"
   },
   {
    "title": "長野県多文化共生相談センターのアカウントに不正アクセス 利用者が詐欺被害",
