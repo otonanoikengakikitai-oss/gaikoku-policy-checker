@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T12:40:43+00:00",
+ "generated_at": "2026-08-21T13:42:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -46,14 +46,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 17:16",
    "published_iso": "2026-08-21T08:16:00+00:00"
-  },
-  {
-   "title": "特定技能外国人を虐待か 北海道の農場、6人保護",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lNURXUHlYbm1QYlJxRmtIRUh0amQtLTEzS01Md1RCWUNBdWhrdHc0b2d3SVBFU0Y5dXQ5MF9oOW5zVzlkaTk3UEhpWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-21 16:10",
-   "published_iso": "2026-08-21T07:10:46+00:00"
   },
   {
    "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
@@ -406,6 +398,14 @@
    "source_domain": "jiji.com",
    "published": "2026-08-18 17:37",
    "published_iso": "2026-08-18T08:37:00+00:00"
+  },
+  {
+   "title": "「外国人に日本語をきちんと身につけてもらう」日本語学習プログラム創設へ政府WG初会合 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYYkJXRlBaMXRfeThuYjlGN1B3NjJTSHZQNTc5UE9NcDR0YTRkZnd1SUsyRkFERDdJQVJoX0tqZkNwTVlUVXVDUFVBdjd1Qlp4cm1mTzlNRGtkamw2SjRpN2RfNDBfLTVhdUFmU0xVNzdVSkdSc2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-18 17:23",
+   "published_iso": "2026-08-18T08:23:31+00:00"
   }
  ]
 }
