@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T21:20:57+00:00",
+ "generated_at": "2026-08-21T23:20:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,18 +8,18 @@
  ],
  "items": [
   {
-   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
    "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdWUtd1V5NloxcC1XU2t1TFBuZGY0Q3B3SjJYd1BLQzd5OFREaGF5blFZdW1YOWdGMzlnX0drcHRsWVpjNmNvSFVQUkJvbUdRTTNMZDJabjQ5NGh5dUVaeWxaUUJTd1k?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
@@ -48,16 +48,16 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -248,6 +248,14 @@
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
   {
+   "title": "長野：外国人レンタカー事故５７５件 昨年、２２年の１５倍 冬季・観光地に集中：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GLW9PTVFrSzVHdmE4UkxGUzNJS2pRbGFsZlNabU14Vm1Hc3RTNUZtRzdZQXBsVEVYVDEzQ21SbjBLT2JsMm9LTmUyb1ZkUFlGTEdEUTlfRFpqSlUwTm9zRFVpZEt3TDlSaUI1ZjFKYlV1Zw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
    "title": "京極の農業法人、特定技能のミャンマー人労働者を虐待か 複数回の暴言など",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZzZsb2Z6dnVUd01xMFN1MmJscV9BazBfT0Eybzl0MWZ4VnZFRzByTHlpWnNmS29wNHRPVHpTRTB5R0FSeGFfSTR2NEJxdjBkSzFRY1cwYnBsdw?oc=5",
    "source": "北海道新聞デジタル",
@@ -320,14 +328,6 @@
    "published_iso": "2026-08-20T05:12:13+00:00"
   },
   {
-   "title": "プレスリリース：日本語能力試験JLPT対応「日本語学習アプリ」提供開始 現役の日本語講師たちが開発、無料で始められる『Nihongo UGuru（にほんごウグル)』（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeGpnbDUwSDRaaXFTeTkyUGNJbERFaEZublpiSjVVTFJRd041U3Y1dzh1Y0hXelNhYV9xWXpMQkVON0pJTFZFR3Q5U0xFbW5FWGYxNm03ZmtXVzBoZEZ6ZkVRWEZoS1g5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 13:52",
-   "published_iso": "2026-08-20T04:52:34+00:00"
-  },
-  {
    "title": "「次世代へ」ハワイ沖縄移民のルーツ探る 23日、宜野湾でフェスタ [沖縄県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81aTFQa2xlSVVCX0d0SkNZelNZaHB6MzVDdGhjWW5uY3Y0YXlOQnhGby1fMHNkYWtXM1ZtckJvalF6ZUpMei0weDRsV1EwVFgtemJSejJoVUFhTmljOUE0eFQxNWNfZk0?oc=5",
    "source": "朝日新聞",
@@ -342,6 +342,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-20 10:00",
    "published_iso": "2026-08-20T01:00:01+00:00"
+  },
+  {
+   "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tT2dsaERYWjRyVF9tTFluOXhkYXhERnczcC1RR0JnS3FYSW1UaEpGVlA5T0VPWHNTN1llLTZ2LTIzQ0hCZmt6MnhJbk9iX0J2bFZkVU1McGlvLURhaDBxQ21NbXdqYXJSRXNwejZ3?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-20 10:00",
+   "published_iso": "2026-08-20T01:00:00+00:00"
   },
   {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
@@ -374,14 +382,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-19 23:01",
    "published_iso": "2026-08-19T14:01:19+00:00"
-  },
-  {
-   "title": "7月の訪日外国人観光客 344万人超 7月として過去最高を更新 一方中国は半減",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWERhSlowMlh2V0UzZGE1MlBLWm9rWWRPVS1MaVNEQlFJM3M0X2pCUVFUb2tEbEZ0TVVMNHo1YVk3cmZqUk1CMDhyS2tnalJQNC1qS3dTLURub2FZRU0zaVFFVjlvTUNMY2llT3FPLXJ5Zw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-19 20:01",
-   "published_iso": "2026-08-19T11:01:07+00:00"
   },
   {
    "title": "特定技能1号受け入れ停止、飲食店の45%が「事業計画に影響」 [外国人政策 高市早苗総理 自民党][外国人]",
