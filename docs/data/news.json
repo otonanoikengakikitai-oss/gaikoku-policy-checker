@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T14:31:40+00:00",
+ "generated_at": "2026-08-21T15:29:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,12 +24,12 @@
    "published_iso": "2026-08-21T12:30:00+00:00"
   },
   {
-   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 21:00",
-   "published_iso": "2026-08-21T12:00:54+00:00"
+   "title": "「恐怖の中で…」 特定技能外国人が農場で受けた暴言、暴力",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xa0M2NG5DQ2Z4aC01MTdvMmd1ZlIyQ3BReWIwX0NpWkpqVnJoeTktbWIzRVJnVDZjV2dwSGZLckstUVR3NHpZN0xQMjNqN3kzbU5abGwwS1R2Q1ppbmVQcEd0d09CYmYz?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 18:49",
+   "published_iso": "2026-08-21T09:49:31+00:00"
   },
   {
    "title": "群馬県が多文化共生･共創推進会議 次期基本計画の骨子案など審議",
@@ -118,6 +118,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-21 11:20",
    "published_iso": "2026-08-21T02:20:00+00:00"
+  },
+  {
+   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 10:55",
+   "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
    "title": "“介護難民400万人時代”に現場は崩壊の危機 「介護職を60万人増員」するべき実態とは？",
@@ -398,14 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-18 21:30",
    "published_iso": "2026-08-18T12:30:00+00:00"
-  },
-  {
-   "title": "米政府、安全保障の研究開発指針で「世界トップ級の人材を呼び込む」と明記…外国人材登用へ方針修正",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nNDZ3WlJ5ZGMzVVZDeGhOVjFWdHFLT0pTeGRzeGNCbHhBQURlMXJaRWhFaHItb2FaS2N1Qnp2dXgyaGxfczdiWVZNd0FlSEpvSVlHNGtFTDR6ci1mVDhCekhB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 19:37",
-   "published_iso": "2026-08-18T10:37:00+00:00"
   }
  ]
 }
