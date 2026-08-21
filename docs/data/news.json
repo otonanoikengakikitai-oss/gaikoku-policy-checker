@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T17:25:32+00:00",
+ "generated_at": "2026-08-21T18:32:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -78,14 +78,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-21 16:10",
    "published_iso": "2026-08-21T07:10:46+00:00"
-  },
-  {
-   "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR0M3M0NpRlMzWWN5MW56d21OZlJkaTFCUXRUaUl0bDE0RkRudVM5V1VhT2xqSVpoV0t6eDFVcWk2d0xieWMyZkVUZ2R3S2NlSU9JZE03OFY5Yzh2T2xXWkhZTXRtUms?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 16:00",
-   "published_iso": "2026-08-21T07:00:00+00:00"
   },
   {
    "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
@@ -374,6 +366,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 17:12",
    "published_iso": "2026-08-19T08:12:54+00:00"
+  },
+  {
+   "title": "「庭の手入れがされていない家を狙った」窃盗目的で東京・埼玉の空き家に20件以上侵入か ベトナム国籍の男3人逮捕 技能実習生として来日も今は不法滞在 警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SREkyUVY1S29UQkNYX2RGakN2WHk3V3dYZGg4TWJrZ1RaeEtKbWtyY1dRYkNMcktGc25PVVNGX2V3NHFqREsxSTd5TmJ4X2pjVVc3YkVFYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-19 14:14",
+   "published_iso": "2026-08-19T05:14:00+00:00"
   },
   {
    "title": "SIBを活用したAI人材育成・就労支援事業を島根県で開始",
