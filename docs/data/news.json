@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T16:30:18+00:00",
+ "generated_at": "2026-08-21T17:25:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-22 02:00",
+   "published_iso": "2026-08-21T17:00:00+00:00"
+  },
+  {
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-22 02:00",
+   "published_iso": "2026-08-21T17:00:00+00:00"
+  },
   {
    "title": "セウタに移民用シェルター開設 不法移民問題で子ども約2000人残留 路上や海岸で野宿",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRkhoWU1ETkxVUUdWd0FXYTdPWldyRHh5MHZRZUlPcVlFUVBycFZycWF0TGJXMHNNbFB0YUV0YXd1elFDN0VZbHJtelpRSGtZRy15Ym5uRThyWVIyRzRfX2ZFZG1YZmx2VlNfTTI0eWttSF9tZ1FsQm9R?oc=5",
@@ -62,6 +78,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-21 16:10",
    "published_iso": "2026-08-21T07:10:46+00:00"
+  },
+  {
+   "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR0M3M0NpRlMzWWN5MW56d21OZlJkaTFCUXRUaUl0bDE0RkRudVM5V1VhT2xqSVpoV0t6eDFVcWk2d0xieWMyZkVUZ2R3S2NlSU9JZE03OFY5Yzh2T2xXWkhZTXRtUms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 16:00",
+   "published_iso": "2026-08-21T07:00:00+00:00"
   },
   {
    "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
@@ -382,30 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-19 04:59",
    "published_iso": "2026-08-18T19:59:00+00:00"
-  },
-  {
-   "title": "オーストラリア：豪、ワーホリのビザ審査遅延 大規模な移民削減策、検討か",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1SkQtUXVQTEFseWY0aTNsR3JrUUwzb1FXQ3U4WG5id3hxUWplem1BeDVUcEwxN1FoRUd2QjNIcWxDRVI2VnVuU01HSTNKVzNma004YngzX2JYR0JBNWxXdGlFeVJvSmRG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-19 02:00",
-   "published_iso": "2026-08-18T17:00:55+00:00"
-  },
-  {
-   "title": "武雄市の「多文化共生タウンミーティング」今年も開催 9月13日から3回",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FYzh5ck14LUNDY3VKTDFVeFBoVHJSWUU5M3pmSjRYRERrb2ZmNUQ3QnRDbGRxUmtfX003RU1yd3FKNUtDUVhRZlhOOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-18 21:30",
-   "published_iso": "2026-08-18T12:30:00+00:00"
-  },
-  {
-   "title": "米政府、安全保障の研究開発指針で「世界トップ級の人材を呼び込む」と明記…外国人材登用へ方針修正",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nNDZ3WlJ5ZGMzVVZDeGhOVjFWdHFLT0pTeGRzeGNCbHhBQURlMXJaRWhFaHItb2FaS2N1Qnp2dXgyaGxfczdiWVZNd0FlSEpvSVlHNGtFTDR6ci1mVDhCekhB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 19:37",
-   "published_iso": "2026-08-18T10:37:00+00:00"
   }
  ]
 }
