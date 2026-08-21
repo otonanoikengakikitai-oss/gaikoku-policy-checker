@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T07:39:47+00:00",
+ "generated_at": "2026-08-21T08:37:01+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,8 +8,40 @@
  ],
  "items": [
   {
+   "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-21 16:58",
+   "published_iso": "2026-08-21T07:58:00+00:00"
+  },
+  {
+   "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdHNsSkdwRWN0NWdDUVlsdVNRUlFHT1N0T3lwWnJzcmVpaHA4Sk04VTIwdFBWNWpOMmFZNGdfUGhGcE45RmhvanM5UjFWTUdJZmVVN2F4Nm1Bb3RlbDhUSVA3ZUFlSlk?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 16:30",
+   "published_iso": "2026-08-21T07:30:00+00:00"
+  },
+  {
+   "title": "「暴力と胸や尻を触るセクハラが日常に」北海道京極町の農業法人で虐待か…避難したミャンマー人女性4人が明かす凄惨な実態 町議務める“父親”ら取材に応じず《連載１》 | 北海道のニュース｜HBC北海道放送 (2ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HWVkwVUcxVjJzSkNxQ1BodFlkWmNDNFlMZ0lublRSNFFlX1g2SXFhbmpySmZvWktNajYtR0FrdkFFRmU2NlJJSnRpb0ZsaG5teHF0dElLS0U5TXlSWHhVMWxITQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 16:25",
+   "published_iso": "2026-08-21T07:25:00+00:00"
+  },
+  {
+   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 16:19",
+   "published_iso": "2026-08-21T07:19:19+00:00"
+  },
+  {
    "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR0M3M0NpRlMzWWN5MW56d21OZlJkaTFCUXRUaUl0bDE0RkRudVM5V1VhT2xqSVpoV0t6eDFVcWk2d0xieWMyZkVUZ2R3S2NlSU9JZE03OFY5Yzh2T2xXWkhZTXRtUms?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmt6SHF0SUtxTnVxUWljaWY5empMS2FDWTU3VVNuN0lJT3ZULXFlOHZxUXRBNTJzeHVNcjdmUjBYQlV0SllfODlDZmtUa2hIZUpPQjJ3Y1dnUThwTGR6MXVKUWdTbkhSWEQ3T016ZzBfSnZVSy1odVpGVEVKUk82LWtIODFqa0JvTS1INzQ2anB1Zw?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-21 16:00",
@@ -22,6 +54,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-21 15:39",
    "published_iso": "2026-08-21T06:39:40+00:00"
+  },
+  {
+   "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yalJEbENNd2w3Tk16YUpYMmFvLU1fNnhwMlhBTEVvTDN4QkF1cEJKUC11SThha1M5ZWZCMGdJenhJdWR6UTlPLVh6amNrRTkxdXJ0YzNCQW8xZHBHU0tGbWEwMVJMUkVN?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 15:38",
+   "published_iso": "2026-08-21T06:38:24+00:00"
   },
   {
    "title": "日常的に暴行や虐待か “特定技能”ミャンマー人労働者6人を保護 北海道",
@@ -38,14 +78,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
-  },
-  {
-   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 12:58",
-   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "台湾が韓国を上回り初の最多…出発地別の外国人宿泊者数 利用率好調な直行便が背景に",
@@ -88,23 +120,7 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdHNsSkdwRWN0NWdDUVlsdVNRUlFHT1N0T3lwWnJzcmVpaHA4Sk04VTIwdFBWNWpOMmFZNGdfUGhGcE45RmhvanM5UjFWTUdJZmVVN2F4Nm1Bb3RlbDhUSVA3ZUFlSlk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
-  },
-  {
-   "title": "「暴力と胸や尻を触るセクハラが日常に」北海道京極町の農業法人で虐待か…避難したミャンマー人女性4人が明かす凄惨な実態 町議務める“父親”ら取材に応じず《連載１》 | 北海道のニュース｜HBC北海道放送 (2ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HWVkwVUcxVjJzSkNxQ1BodFlkWmNDNFlMZ0lublRSNFFlX1g2SXFhbmpySmZvWktNajYtR0FrdkFFRmU2NlJJSnRpb0ZsaG5teHF0dElLS0U5TXlSWHhVMWxITQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
-  },
-  {
-   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～33歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
+   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～30歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hb0JvMGRfN3RqVmViOG5sZC0tOWx3MTQ0RUx2aDVVNUZWWFFwOXRZWGVPQjZnUzJsRXJEcTBOclhJNmhyVTl3T1BIYTZYY1RNMWNLN3AtUQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
@@ -132,14 +148,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
-   "title": "群馬：外国人増「治安乱れる」７２％ 共生意識 交流望む外国人と差：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02M2picGZMRXFSWEphZ2F2MVBoN25ZTm1WR3BWQVBrOTZQbGtEOUxfS2RYU2Qtc0I2ajgzYU1samN2NldxQ0RoRExIcEgzVzUxQUNTRm4xU3d1aUw4S29MbmVGV3Z3ckRKanNsVkJ4bjk?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -174,22 +182,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-20 20:17",
    "published_iso": "2026-08-20T11:17:51+00:00"
-  },
-  {
-   "title": "“外国人装い”片言で「お金ください」コンビニ強盗 実は32歳の日本人と判明 前日にも同様の犯行か 群馬・大泉町",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uTFJfaHJzd08wOFR0d3A4Q0RPM0hPbjdCaEJmS2NoUkFJMzFDU0ZsYVFfeTFLR3hpZVNkb0E3R2FzbS10NmxiYjhvSVVYUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-20 19:44",
-   "published_iso": "2026-08-20T10:44:00+00:00"
-  },
-  {
-   "title": "「オカネクダサイ」片言の日本語で脅迫…実は“外国人装った”日本人 コンビニ強盗未遂容疑で32歳男を逮捕 前日の強盗事件との関連も捜査",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NTVEtZ05SVWx0QXNvOHcxaldQX3I2R01JWkF1M2Z0UjdQYV9jYWVVb2QxU01abkNNY25XSUJ1YnNpOHF6UjNWZnUtTUxSUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-20 19:13",
-   "published_iso": "2026-08-20T10:13:00+00:00"
   },
   {
    "title": "群馬の日本人県民「外国人増加で治安・風紀乱れる」7割 県が調査",
@@ -238,6 +230,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-20 14:12",
    "published_iso": "2026-08-20T05:12:13+00:00"
+  },
+  {
+   "title": "プレスリリース：日本語能力試験JLPT対応「日本語学習アプリ」提供開始 現役の日本語講師たちが開発、無料で始められる『Nihongo UGuru（にほんごウグル)』（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeGpnbDUwSDRaaXFTeTkyUGNJbERFaEZublpiSjVVTFJRd041U3Y1dzh1Y0hXelNhYV9xWXpMQkVON0pJTFZFR3Q5U0xFbW5FWGYxNm03ZmtXVzBoZEZ6ZkVRWEZoS1g5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-20 13:52",
+   "published_iso": "2026-08-20T04:52:34+00:00"
   },
   {
    "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
