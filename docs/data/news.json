@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:23:29+00:00",
+ "generated_at": "2026-08-21T20:22:13+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,16 +8,32 @@
  ],
  "items": [
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdWUtd1V5NloxcC1XU2t1TFBuZGY0Q3B3SjJYd1BLQzd5OFREaGF5blFZdW1YOWdGMzlnX0drcHRsWVpjNmNvSFVQUkJvbUdRTTNMZDJabjQ5NGh5dUVaeWxaUUJTd1k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "北海道：農場で外国人労働者虐待か 京極 ６人保護、１人告訴方針：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Hd3BZSS1mNGJVTGY2WjFNZlk3N1NoUF93QUFFdVNjOXQ4NzVxdEtzVEotRlhuVFZfZmpqakxOSl9STUxSMTBBQWp0SE14bGI2S0FsWTRFQmFkWWtQRF9PRkk3cldWbzZYU2NCUXVNZmpHOEFo?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -78,6 +94,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-21 16:10",
    "published_iso": "2026-08-21T07:10:46+00:00"
+  },
+  {
+   "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR0M3M0NpRlMzWWN5MW56d21OZlJkaTFCUXRUaUl0bDE0RkRudVM5V1VhT2xqSVpoV0t6eDFVcWk2d0xieWMyZkVUZ2R3S2NlSU9JZE03OFY5Yzh2T2xXWkhZTXRtUms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 16:00",
+   "published_iso": "2026-08-21T07:00:00+00:00"
   },
   {
    "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
@@ -146,14 +170,6 @@
   {
    "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
-  },
-  {
-   "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdHNsSkdwRWN0NWdDUVlsdVNRUlFHT1N0T3lwWnJzcmVpaHA4Sk04VTIwdFBWNWpOMmFZNGdfUGhGcE45RmhvanM5UjFWTUdJZmVVN2F4Nm1Bb3RlbDhUSVA3ZUFlSlk?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 06:00",
@@ -390,22 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-19 05:00",
    "published_iso": "2026-08-18T20:00:00+00:00"
-  },
-  {
-   "title": "移住９０年、１万人の日系人が暮らすパラグアイ…日本語教育のため開校した学校は日本文化を伝える地域の拠点に",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTzBCc1l1dGZQVzFLbXBoRG1VaG5uWTl3aGRWVTUycUhnV2Q1T2xMb0xBN0JuSHJCNmMxc1JLd01feFlMN0xfOW9ZMmtFX09hN3d2S1VJaEhyUWV3VjlBdjN3?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-19 05:00",
-   "published_iso": "2026-08-18T20:00:00+00:00"
-  },
-  {
-   "title": "特定技能1号「外食」新規受け入れ停止で波紋 [写真特集1/13]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR045YVlNTk9PYzdBblVRc2lWVUlWYmdGTXJXMzR4T1R4SUJxdkpiRGVoRkJFbXZWdWRyLUJRem1xdU5yVmxpRHpMdVR1NkZDU0VBYnVpV1dib1BmX21GQ1RKRnJoNVF2NFh2LU1sajRwMTl1ZDJRbzlUZnhBMnZRdXJoRi1hVG8?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-19 04:59",
-   "published_iso": "2026-08-18T19:59:00+00:00"
   }
  ]
 }
