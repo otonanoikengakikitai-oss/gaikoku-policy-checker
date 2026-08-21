@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T06:40:34+00:00",
+ "generated_at": "2026-08-21T07:39:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
-   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FNzdVVFd3bGwzTk9mUVhlLWhWRkNNdEQtOGtybHhxVHVuOUtLNW0xTXNnU2FwVkNFazhaOUVnb3I4N0Z0MHFKTnlDQXA4US05M0NHNUJ5VQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 14:38",
-   "published_iso": "2026-08-21T05:38:00+00:00"
+   "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IR0M3M0NpRlMzWWN5MW56d21OZlJkaTFCUXRUaUl0bDE0RkRudVM5V1VhT2xqSVpoV0t6eDFVcWk2d0xieWMyZkVUZ2R3S2NlSU9JZE03OFY5Yzh2T2xXWkhZTXRtUms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 16:00",
+   "published_iso": "2026-08-21T07:00:00+00:00"
+  },
+  {
+   "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDZTc4aFB6Q1h1clhmaDJtTFZ1UlVGV0tfbEhpM2RhbDFkSVZQZUNKdVBSLXBGeVIySVZUT1hNTk1jRldmSUZkWUtEeDBIV0xTNTBPQ25uS2NUM2ZmRVdtdUVCX2Z4QQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 15:39",
+   "published_iso": "2026-08-21T06:39:40+00:00"
+  },
+  {
+   "title": "日常的に暴行や虐待か “特定技能”ミャンマー人労働者6人を保護 北海道",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzUno2akNoNHpRUzNXb1FVSHIwWEJaS2NvOHRuRXYxOWVvUUdVMkVjb1pDeEJVSmJTTndUVWI3c21hRXQtMENRazl1QldHd0VtalB1ZkdpWUs2eVZJQy1jeE5BbFc1VmNXdVlZMGNObVhJUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 14:08",
+   "published_iso": "2026-08-21T05:08:30+00:00"
   },
   {
    "title": "普及進む「やさしい日本語」 外国人被災者へ正しく簡潔に災害情報を伝達、訪日客にも対応",
@@ -62,6 +78,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-21 07:00",
    "published_iso": "2026-08-20T22:00:00+00:00"
+  },
+  {
+   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
    "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -214,14 +238,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-20 14:12",
    "published_iso": "2026-08-20T05:12:13+00:00"
-  },
-  {
-   "title": "プレスリリース：日本語能力試験JLPT対応「日本語学習アプリ」提供開始 現役の日本語講師たちが開発、無料で始められる『Nihongo UGuru（にほんごウグル)』（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xeGpnbDUwSDRaaXFTeTkyUGNJbERFaEZublpiSjVVTFJRd041U3Y1dzh1Y0hXelNhYV9xWXpMQkVON0pJTFZFR3Q5U0xFbW5FWGYxNm03ZmtXVzBoZEZ6ZkVRWEZoS1g5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 13:52",
-   "published_iso": "2026-08-20T04:52:34+00:00"
   },
   {
    "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
@@ -390,22 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-18 17:23",
    "published_iso": "2026-08-18T08:23:31+00:00"
-  },
-  {
-   "title": "生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qRGt6MWh0RDRxc2RQTlpSQm1fa2owNWxUZktNamt2bG5CTGI4ZWt2VkR2ZHdsbVlZeUdmQ1IweHJPdjJkVlZfNW1ZVFo2WGI3WDJmX2tYQ2FkYkZQbV9nZ3VLTGFmQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-18 16:15",
-   "published_iso": "2026-08-18T07:15:00+00:00"
-  },
-  {
-   "title": "外国人「量的マネジメント」なぜ進まない ルール厳格化も深刻な労働力不足、財界など懸念 ニュースQ",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yYmZlcWRjTXZLd0VYZ05kT0JHZ29GTmdnX3d0bDh5MzRKN1RLTWZIa000REhuQUoxS29GWWhVMGRzU3lTUElBYzZBNjNzVzU1T2t1TnNZbG5KTTlreHpRZWdzdmpyc2ZPVWEtaWJXZWdzWnFRN1E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-18 16:00",
-   "published_iso": "2026-08-18T07:00:00+00:00"
   }
  ]
 }
