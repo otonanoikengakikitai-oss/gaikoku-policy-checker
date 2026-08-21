@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T09:33:21+00:00",
+ "generated_at": "2026-08-21T10:26:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -14,14 +14,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-21 18:30",
    "published_iso": "2026-08-21T09:30:00+00:00"
-  },
-  {
-   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReDlEZ3NlTERlcHNJbEpiNUd2bm5lV1ZIbnpHY0JCSmhCeEVqYXRWMTA4aTlQbHVzYlpBR180bjd2aEI0ZGotMS16OUtvR1BMNnpmUG0wRUxnaTNvbFUtTDdLWnQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 18:19",
-   "published_iso": "2026-08-21T09:19:00+00:00"
   },
   {
    "title": "手に小型の拳銃か 外国人と見られる男性が車内で死亡 名護市の医療機関駐車場 沖縄",
@@ -90,6 +82,14 @@
   {
    "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 12:58",
+   "published_iso": "2026-08-21T03:58:00+00:00"
+  },
+  {
+   "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDZHVXlyV3p1QkZMX3Bpc0E4ZjU5M0QzN2twSmtTZzZ4VFhCTjJVekJvdTgxMS0tLWFnbWR4WmJrQkFJRUpSNmNIaUl6V1d0SmVDT2NZZ3VtTkdHYlJ4dWxkQkJ0YkVrNjhUWWIzR1BGdzZlc3FKcUNlOXhBbjJHM0pQRQ?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-21 12:58",
@@ -352,14 +352,6 @@
    "published_iso": "2026-08-18T22:10:00+00:00"
   },
   {
-   "title": "移民男性に発砲したICE職員の身柄引き渡し求め ミネソタ州がテキサス州知事を提訴",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hYnJhNkp2TXdyT2JMMENUb3Z2QzJOOThnaVR6djBuTnI4TzdQMHJCUzJhQXhQLXVETFcyYmpuZGNHalpIcjc5aGlpQnczX3JrT3pTcUR3bw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-19 05:19",
-   "published_iso": "2026-08-18T20:19:21+00:00"
-  },
-  {
    "title": "移民と社会：外国人採用急停止「よくやった」の声も 高市印「厳格化」の行方",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQNzZ0dVp3T3NPX3AtVF9pT2NvTENSZXVCRXFxYUFUaEJGeldMeWJRQzlCVmxhTFc0NG9ZcnB4TjZSTk5nRFJfbGFlWmdIMmlZNFBuV2YzMlNzemFxTUl1UnBjcDNuczZ3?oc=5",
    "source": "毎日新聞",
@@ -406,6 +398,14 @@
    "source_domain": "nippon.com",
    "published": "2026-08-18 17:37",
    "published_iso": "2026-08-18T08:37:21+00:00"
+  },
+  {
+   "title": "日本語学習制度へ検討開始 在留外国人向け、有識者ＷＧ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sNUZwbEhPS19rbHA3aEtCQXlzaFBtcWI4M0F4azJSVnc1OFZOOFZSZ2hVUlU1WGpraFRfWnEwVVgyM1dPTE1zaW4tQ3BUczBhQmlISWZwZnBNX2NnaGM3UnJ4Yw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-18 17:37",
+   "published_iso": "2026-08-18T08:37:00+00:00"
   }
  ]
 }
