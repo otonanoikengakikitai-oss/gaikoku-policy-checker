@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T11:22:26+00:00",
+ "generated_at": "2026-08-21T12:40:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wblRzeHJhSTRMSEtiZlZONVJtNDVGQ25BUzVQRFlGUXVETlJwTnNhQ3A2T2FrRnVZa3dUMFlVX1dmTnkzQlNmTXNYSnd0QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-21 21:30",
+   "published_iso": "2026-08-21T12:30:00+00:00"
+  },
+  {
+   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 21:00",
+   "published_iso": "2026-08-21T12:00:54+00:00"
+  },
   {
    "title": "群馬県が多文化共生･共創推進会議 次期基本計画の骨子案など審議",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSjlSNDAyTzExVkNreVVOTElIVEFOZ2xTZndJSnNmUlJqZE9jSmF5aURYaWJ3eTY1a2R6NTB5UFItZkp4dkpPUTVRZXdWcGgzaVQyR0hFWjBkcjhKaEI0QXIzRmhZdHlxMUg1RQ?oc=5",
@@ -22,6 +38,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-21 17:47",
    "published_iso": "2026-08-21T08:47:14+00:00"
+  },
+  {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 17:16",
+   "published_iso": "2026-08-21T08:16:00+00:00"
   },
   {
    "title": "特定技能外国人を虐待か 北海道の農場、6人保護",
@@ -80,28 +104,12 @@
    "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
-   "title": "台湾が韓国を上回り初の最多…出発地別の外国人宿泊者数 利用率好調な直行便が背景に",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1veWF2dy1qeGRtZ2Vway1TMW5wNFJBR2Njb05KUXFmVGplNE90QVFkZS1Ec09hNlRRVWpJUzVlalhtWlZGcjJlRG4yTWZZVjFWRFA2a3kxQ1hrUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 12:44",
-   "published_iso": "2026-08-21T03:44:00+00:00"
-  },
-  {
    "title": "アジア・アジアパラ大会 おもてなし多様な食対応…中部空港周辺 訪日外国人向け開発：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQUhFNTFJU0hFVVdfd2x0ekp6VEZETld6aGRhOTg4YlJMTmlYSllEX3kzdXZ3MTN4UVUtUHA3R05QUFM1V2RiVlBGb0o2d3RzaHFGSGJpN2xhc1hJVVQtYm5Uc2RkUHJzODIzMmhidkU?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-21 11:20",
    "published_iso": "2026-08-21T02:20:00+00:00"
-  },
-  {
-   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 10:55",
-   "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
    "title": "“介護難民400万人時代”に現場は崩壊の危機 「介護職を60万人増員」するべき実態とは？",
@@ -366,14 +374,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-19 04:59",
    "published_iso": "2026-08-18T19:59:00+00:00"
-  },
-  {
-   "title": "オーストラリア：豪、ワーホリのビザ審査遅延 大規模な移民削減策、検討か",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1SkQtUXVQTEFseWY0aTNsR3JrUUwzb1FXQ3U4WG5id3hxUWplem1BeDVUcEwxN1FoRUd2QjNIcWxDRVI2VnVuU01HSTNKVzNma004YngzX2JYR0JBNWxXdGlFeVJvSmRG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-19 02:00",
-   "published_iso": "2026-08-18T17:00:55+00:00"
   },
   {
    "title": "武雄市の「多文化共生タウンミーティング」今年も開催 9月13日から3回",
