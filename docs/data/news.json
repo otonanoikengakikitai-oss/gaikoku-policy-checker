@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T08:37:01+00:00",
+ "generated_at": "2026-08-21T09:33:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,36 @@
  ],
  "items": [
   {
-   "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-21 16:58",
-   "published_iso": "2026-08-21T07:58:00+00:00"
+   "title": "群馬県が多文化共生･共創推進会議 次期基本計画の骨子案など審議",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSjlSNDAyTzExVkNreVVOTElIVEFOZ2xTZndJSnNmUlJqZE9jSmF5aURYaWJ3eTY1a2R6NTB5UFItZkp4dkpPUTVRZXdWcGgzaVQyR0hFWjBkcjhKaEI0QXIzRmhZdHlxMUg1RQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-21 18:30",
+   "published_iso": "2026-08-21T09:30:00+00:00"
+  },
+  {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ReDlEZ3NlTERlcHNJbEpiNUd2bm5lV1ZIbnpHY0JCSmhCeEVqYXRWMTA4aTlQbHVzYlpBR180bjd2aEI0ZGotMS16OUtvR1BMNnpmUG0wRUxnaTNvbFUtTDdLWnQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 18:19",
+   "published_iso": "2026-08-21T09:19:00+00:00"
+  },
+  {
+   "title": "手に小型の拳銃か 外国人と見られる男性が車内で死亡 名護市の医療機関駐車場 沖縄",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wM3BzSTd3ZEJXVDRSYmdaMVF5OU1yTzdzMVVxVXRja0paekRsYnNPb3hINVJQN1RpZ2ZQcGFtMGdZRXY5NkZMWmhRMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-21 17:47",
+   "published_iso": "2026-08-21T08:47:14+00:00"
+  },
+  {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PS2dhbktKdDQ4Wkp2M1E4MHp3SXo2Q1lzeHJEY21FMllPQndIakh3d0NxU29ROFpHZXZaMVRTSE5UdnZqNGtTcEJCak1IaE1RQUZ5YzROU2VNdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 17:16",
+   "published_iso": "2026-08-21T08:16:00+00:00"
   },
   {
    "title": "「何だその目、文句あるのか」「黙れ」ミャンマー人労働者が捉えた暴行の瞬間…顔面にビンタや蹴り、違法天引きの惨状 逃走した外国人たちの救出劇と暴行動画が明かす闇《連載3》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -30,22 +54,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 16:25",
    "published_iso": "2026-08-21T07:25:00+00:00"
-  },
-  {
-   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 16:19",
-   "published_iso": "2026-08-21T07:19:19+00:00"
-  },
-  {
-   "title": "「日本人の保証人必要」 誤った説明で内定取り消し、会社に賠償命令 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmt6SHF0SUtxTnVxUWljaWY5empMS2FDWTU3VVNuN0lJT3ZULXFlOHZxUXRBNTJzeHVNcjdmUjBYQlV0SllfODlDZmtUa2hIZUpPQjJ3Y1dnUThwTGR6MXVKUWdTbkhSWEQ3T016ZzBfSnZVSy1odVpGVEVKUk82LWtIODFqa0JvTS1INzQ2anB1Zw?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 16:00",
-   "published_iso": "2026-08-21T07:00:00+00:00"
   },
   {
    "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑 [写真特集1/4]",
@@ -78,6 +86,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
+  },
+  {
+   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 12:58",
+   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "台湾が韓国を上回り初の最多…出発地別の外国人宿泊者数 利用率好調な直行便が背景に",
@@ -390,22 +406,6 @@
    "source_domain": "nippon.com",
    "published": "2026-08-18 17:37",
    "published_iso": "2026-08-18T08:37:21+00:00"
-  },
-  {
-   "title": "日本語学習制度へ検討開始 在留外国人向け、有識者ＷＧ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sNUZwbEhPS19rbHA3aEtCQXlzaFBtcWI4M0F4azJSVnc1OFZOOFZSZ2hVUlU1WGpraFRfWnEwVVgyM1dPTE1zaW4tQ3BUczBhQmlISWZwZnBNX2NnaGM3UnJ4Yw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-18 17:37",
-   "published_iso": "2026-08-18T08:37:00+00:00"
-  },
-  {
-   "title": "「外国人に日本語をきちんと身につけてもらう」日本語学習プログラム創設へ政府WG初会合 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYYkJXRlBaMXRfeThuYjlGN1B3NjJTSHZQNTc5UE9NcDR0YTRkZnd1SUsyRkFERDdJQVJoX0tqZkNwTVlUVXVDUFVBdjd1Qlp4cm1mTzlNRGtkamw2SjRpN2RfNDBfLTVhdUFmU0xVNzdVSkdSc2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-18 17:23",
-   "published_iso": "2026-08-18T08:23:31+00:00"
   }
  ]
 }
