@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T15:29:39+00:00",
+ "generated_at": "2026-08-21T16:30:18+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -94,14 +94,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
-  },
-  {
-   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 12:58",
-   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
@@ -288,6 +280,14 @@
    "published_iso": "2026-08-20T01:00:01+00:00"
   },
   {
+   "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tT2dsaERYWjRyVF9tTFluOXhkYXhERnczcC1RR0JnS3FYSW1UaEpGVlA5T0VPWHNTN1llLTZ2LTIzQ0hCZmt6MnhJbk9iX0J2bFZkVU1McGlvLURhaDBxQ21NbXdqYXJSRXNwejZ3?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-20 10:00",
+   "published_iso": "2026-08-20T01:00:00+00:00"
+  },
+  {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
    "source": "毎日新聞",
@@ -326,14 +326,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 20:01",
    "published_iso": "2026-08-19T11:01:07+00:00"
-  },
-  {
-   "title": "訪日外国人旅行者数 7月として過去最多 中国は去年7月の半数下回るも東南アジアやヨーロッパなど多くの国から旅行者増加",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42MXh3YTBqTlBIR2R0d25Wc2U3aVNNQkNwVG1vMExsdFZfTzB0bTBvYTN1MnJZcl8yM0hyYzF2T2RjVXJrWUhGUmNhWmE5cnV0WC01TjVrNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-19 19:01",
-   "published_iso": "2026-08-19T10:01:22+00:00"
   },
   {
    "title": "特定技能1号受け入れ停止、飲食店の45%が「事業計画に影響」 [外国人政策 高市早苗総理 自民党][外国人]",
@@ -406,6 +398,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-18 21:30",
    "published_iso": "2026-08-18T12:30:00+00:00"
+  },
+  {
+   "title": "米政府、安全保障の研究開発指針で「世界トップ級の人材を呼び込む」と明記…外国人材登用へ方針修正",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nNDZ3WlJ5ZGMzVVZDeGhOVjFWdHFLT0pTeGRzeGNCbHhBQURlMXJaRWhFaHItb2FaS2N1Qnp2dXgyaGxfczdiWVZNd0FlSEpvSVlHNGtFTDR6ci1mVDhCekhB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-18 19:37",
+   "published_iso": "2026-08-18T10:37:00+00:00"
   }
  ]
 }
