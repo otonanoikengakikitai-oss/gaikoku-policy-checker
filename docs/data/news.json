@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T22:18:26+00:00",
+ "generated_at": "2026-08-22T23:17:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -28,6 +28,14 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWFhiNHVEN3BOMktXR2tUdTEtRHBwZnMyWkR0SG5rWVNsNVpwZnVCNDZHOEFDeHpKcHppTnIyU0wyZUlyeVVlRktHclBPWWVyUUpBOFliOXJZcWYwckJQczdNbllINndHSldPbVpQam1PQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-23 05:00",
+   "published_iso": "2026-08-22T20:00:00+00:00"
+  },
+  {
+   "title": "〈ナゼナニ調査隊～２０代記者が追う〉浅電に外国人が急増中？ 目指すは「ウチナダ・ビーチ」 「落ち着いた場所」へ、終点からテクテク パラソルも食事処もない…商機ありそう",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ULVJTMzlHU2Z2NmNtZzcwSjFHMGkxYm1ha0NoaDF0RnRyUGxZaVc1WXotY2JNQnU3RDhMYXBCX1lEcS0wUW9maWhrbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-08-23 05:00",
    "published_iso": "2026-08-22T20:00:00+00:00"
   },
@@ -128,14 +136,6 @@
    "published_iso": "2026-08-22T07:02:52+00:00"
   },
   {
-   "title": "手に拳銃 車内で外国人と見られる男性死亡 米兵と判明 名護の医療機関の駐車場で 沖縄",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wM3BzSTd3ZEJXVDRSYmdaMVF5OU1yTzdzMVVxVXRja0paekRsYnNPb3hINVJQN1RpZ2ZQcGFtMGdZRXY5NkZMWmhRMA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-22 15:21",
-   "published_iso": "2026-08-22T06:21:53+00:00"
-  },
-  {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
    "source": "読売新聞",
@@ -162,7 +162,7 @@
   {
    "title": "ひょうごクロニクル＞(33)1932～45 満蒙開拓団 国策移民、集団自決の悲劇|リッチページA",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mUVRsWjF2Nm9aaHhCMDhWZGl5VlRNOVRJUDdnSFoycTFIV0ljTFkzWHMwZEhnamVVNlRPdDlXYkEzelIxMnVvSjlTV0hfZ1hTUndtNGh6bkJNQnJJTDR0dk5RZTBfTzR1RHVv?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-22 10:00",
    "published_iso": "2026-08-22T01:00:00+00:00"
@@ -208,16 +208,16 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -302,6 +302,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
+  },
+  {
+   "title": "外国人政策提言「外国人材の戦略的な受入れに向けて」を公表しました",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VX0xrUHFPeVA5MEZmNnBCbmVZcG5RY2tFZHJlbHVJZmt0V0JIaWRXMW9pem9EekM2a3hCLUxQcE5BQ1h0MjlMLTlYNlY4a3kzYWg4ZTFPU3FWdWwzbFBfaGtueGl3b1lTR3dwUHZsWktmYTBIR3pBQXpBSQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-21 13:00",
+   "published_iso": "2026-08-21T04:00:00+00:00"
   },
   {
    "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
@@ -390,14 +398,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
-   "title": "京極の農業法人、特定技能のミャンマー人労働者を虐待か 複数回の暴言など",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fZzZsb2Z6dnVUd01xMFN1MmJscV9BazBfT0Eybzl0MWZ4VnZFRzByTHlpWnNmS29wNHRPVHpTRTB5R0FSeGFfSTR2NEJxdjBkSzFRY1cwYnBsdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-20 22:43",
-   "published_iso": "2026-08-20T13:43:19+00:00"
   },
   {
    "title": "長野県多文化共生相談センターのアカウントに不正アクセス 利用者が詐欺被害",
