@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T21:18:40+00:00",
+ "generated_at": "2026-08-22T22:18:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -256,6 +256,14 @@
    "published_iso": "2026-08-21T09:30:00+00:00"
   },
   {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 17:16",
+   "published_iso": "2026-08-21T08:16:00+00:00"
+  },
+  {
    "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
    "source": "読売新聞",
@@ -294,6 +302,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
+  },
+  {
+   "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDZHVXlyV3p1QkZMX3Bpc0E4ZjU5M0QzN2twSmtTZzZ4VFhCTjJVekJvdTgxMS0tLWFnbWR4WmJrQkFJRUpSNmNIaUl6V1d0SmVDT2NZZ3VtTkdHYlJ4dWxkQkJ0YkVrNjhUWWIzR1BGdzZlc3FKcUNlOXhBbjJHM0pQRQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 12:58",
+   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "町議らから暴行やセクハラか 農業法人のミャンマー人労働者が告発 「治外法権のような状況」北海道京極町",
@@ -352,14 +368,6 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "外国ルーツの子どもたちの進路選択に 長野県箕輪町で23日、多文化共生考えるイベント",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SaVlIT2ZCX0VFclF6RUhJaXozakVVbWw4RlZpR1hNZmppYXdwX2R0c0VvUkluSV9aVlpFcHFVMjR6VGxrcjlkc1NZMEx0emlRbVY4eFpoSjM4VkNYa3JGbUZLNA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-21 05:05",
-   "published_iso": "2026-08-20T20:05:00+00:00"
-  },
-  {
    "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
    "source": "毎日新聞",
@@ -398,14 +406,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-20 20:43",
    "published_iso": "2026-08-20T11:43:00+00:00"
-  },
-  {
-   "title": "「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 20:17",
-   "published_iso": "2026-08-20T11:17:51+00:00"
   }
  ]
 }
