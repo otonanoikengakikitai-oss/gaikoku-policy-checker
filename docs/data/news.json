@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T23:20:03+00:00",
+ "generated_at": "2026-08-22T01:04:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-22 09:23",
+   "published_iso": "2026-08-22T00:23:00+00:00"
+  },
+  {
+   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～30歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hb0JvMGRfN3RqVmViOG5sZC0tOWx3MTQ0RUx2aDVVNUZWWFFwOXRZWGVPQjZnUzJsRXJEcTBOclhJNmhyVTl3T1BIYTZYY1RNMWNLN3AtUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-22 08:19",
+   "published_iso": "2026-08-21T23:19:00+00:00"
+  },
   {
    "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdWUtd1V5NloxcC1XU2t1TFBuZGY0Q3B3SjJYd1BLQzd5OFREaGF5blFZdW1YOWdGMzlnX0drcHRsWVpjNmNvSFVQUkJvbUdRTTNMZDJabjQ5NGh5dUVaeWxaUUJTd1k?oc=5",
@@ -48,16 +64,16 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -78,6 +94,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-21 21:30",
    "published_iso": "2026-08-21T12:30:00+00:00"
+  },
+  {
+   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45LTBxa0hxN2xmdVp2ckJSNVZJbkhBd213d2JWcXpKbUM5eW9scGFjMU1XWERpMkpyYUdXR01YNzEwS1VOOTQ3Mld5UTZWMFRQWkVDeno5cGs0dElmdnVjb1VQQkhYWnplRTFhWWJn?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-21 20:49",
+   "published_iso": "2026-08-21T11:49:56+00:00"
   },
   {
    "title": "「恐怖の中で…」 特定技能外国人が農場で受けた暴言、暴力",
@@ -102,14 +126,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-21 17:47",
    "published_iso": "2026-08-21T08:47:14+00:00"
-  },
-  {
-   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 17:16",
-   "published_iso": "2026-08-21T08:16:00+00:00"
   },
   {
    "title": "特定技能外国人を虐待か 北海道の農場、6人保護",
@@ -160,28 +176,12 @@
    "published_iso": "2026-08-21T04:14:21+00:00"
   },
   {
-   "title": "ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SZGZHVkZ4VDZ6SW9laHotQWo1RHpEZnBGc2h4elhDbUJYVFpYQzVYeGd1QmFMQVl2Z05yY3M5aTJad0JCY3VKN21aWHpZOU5kekpEZnZWQ01CckkyUTliLU5RSFk2MUxCR0NEcTlCT3ZpdUpHNmlKMUtn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 12:58",
-   "published_iso": "2026-08-21T03:58:00+00:00"
-  },
-  {
    "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDZHVXlyV3p1QkZMX3Bpc0E4ZjU5M0QzN2twSmtTZzZ4VFhCTjJVekJvdTgxMS0tLWFnbWR4WmJrQkFJRUpSNmNIaUl6V1d0SmVDT2NZZ3VtTkdHYlJ4dWxkQkJ0YkVrNjhUWWIzR1BGdzZlc3FKcUNlOXhBbjJHM0pQRQ?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-21 12:58",
    "published_iso": "2026-08-21T03:58:00+00:00"
-  },
-  {
-   "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 10:55",
-   "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
    "title": "「わたし死ぬんですか？」と外国人患者が混乱する事情 医療の「当たり前」をロールプレイで見つめ直す",
@@ -208,8 +208,8 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～30歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hb0JvMGRfN3RqVmViOG5sZC0tOWx3MTQ0RUx2aDVVNUZWWFFwOXRZWGVPQjZnUzJsRXJEcTBOclhJNmhyVTl3T1BIYTZYY1RNMWNLN3AtUQ?oc=5",
+   "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FNzdVVFd3bGwzTk9mUVhlLWhWRkNNdEQtOGtybHhxVHVuOUtLNW0xTXNnU2FwVkNFazhaOUVnb3I4N0Z0MHFKTnlDQXA4US05M0NHNUJ5VQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 06:00",
@@ -244,14 +244,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
-   "title": "長野：外国人レンタカー事故５７５件 昨年、２２年の１５倍 冬季・観光地に集中：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GLW9PTVFrSzVHdmE4UkxGUzNJS2pRbGFsZlNabU14Vm1Hc3RTNUZtRzdZQXBsVEVYVDEzQ21SbjBLT2JsMm9LTmUyb1ZkUFlGTEdEUTlfRFpqSlUwTm9zRFVpZEt3TDlSaUI1ZjFKYlV1Zw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -344,14 +336,6 @@
    "published_iso": "2026-08-20T01:00:01+00:00"
   },
   {
-   "title": "＜地域をこの目で(43)芦有ドライブウェイ副社長・齊藤成人氏＞EU離脱後の英国 移民から女性へ、変わる不満のはけ口",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tT2dsaERYWjRyVF9tTFluOXhkYXhERnczcC1RR0JnS3FYSW1UaEpGVlA5T0VPWHNTN1llLTZ2LTIzQ0hCZmt6MnhJbk9iX0J2bFZkVU1McGlvLURhaDBxQ21NbXdqYXJSRXNwejZ3?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-20 10:00",
-   "published_iso": "2026-08-20T01:00:00+00:00"
-  },
-  {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
    "source": "毎日新聞",
@@ -384,6 +368,14 @@
    "published_iso": "2026-08-19T14:01:19+00:00"
   },
   {
+   "title": "7月の訪日外国人観光客 344万人超 7月として過去最高を更新 一方中国は半減",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWERhSlowMlh2V0UzZGE1MlBLWm9rWWRPVS1MaVNEQlFJM3M0X2pCUVFUb2tEbEZ0TVVMNHo1YVk3cmZqUk1CMDhyS2tnalJQNC1qS3dTLURub2FZRU0zaVFFVjlvTUNMY2llT3FPLXJ5Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-19 20:01",
+   "published_iso": "2026-08-19T11:01:07+00:00"
+  },
+  {
    "title": "特定技能1号受け入れ停止、飲食店の45%が「事業計画に影響」 [外国人政策 高市早苗総理 自民党][外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tX0ZKZ1FjUl9wMEtlaDhpUFVSSEI0NHUtNlI0SzBWb2tRNTJtLVNyZFl0RktIRUFIMTg5SUZwcVJLRVZmcGpfVUhvNVNUdXE3ZmY3bVB0ak1iM1ZMRHNidEV1WFljTWc?oc=5",
    "source": "朝日新聞",
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-19 14:14",
    "published_iso": "2026-08-19T05:14:00+00:00"
+  },
+  {
+   "title": "＜このまちで踊ろう ダンスボックス30年＞(下)共生社会ワークショップ 「私だけの動き」見つけ心に力",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pSkhsengxSThYSTJWaWVUZF9TOE1qTE1nVE42UGxuU1FOT3gtYjR3WVlLdVA4bmZrUkxkd1BteFAxT0FOMzZPMHNVZUNBeW1pbEs3ZXp2YnBrTVc0M0M4NS1tVE5MRENEekZkQ3Fn?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-19 05:10",
+   "published_iso": "2026-08-18T20:10:00+00:00"
   }
  ]
 }
