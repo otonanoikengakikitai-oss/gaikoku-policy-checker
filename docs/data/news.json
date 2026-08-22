@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T17:17:32+00:00",
+ "generated_at": "2026-08-22T18:25:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -22,14 +22,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-22 19:18",
    "published_iso": "2026-08-22T10:18:01+00:00"
-  },
-  {
-   "title": "クマに襲われ外国人男性けが 右腕かまれ…青森・十和田市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UWWt3Vndxd2JJMDk1cWNYU2pIYTZHcDBYV0ZDeEs0ODVVVVBnTGRmN2FRTzhfX0IyNGJPTkNXTmJRR21SOEVmX0pDMnp1NkJKNHdaYVZUVzU3cHdTa1VudVJFc09BczljcUFsN3g2MDJlQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-22 18:18",
-   "published_iso": "2026-08-22T09:18:06+00:00"
   },
   {
    "title": "「血が赤黒く出血がひどい感じで座っているだけで精いっぱいという感じ」青森県十和田市に観光に訪れていた外国人男性がクマに襲われけが",
@@ -128,18 +120,18 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
    "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
@@ -254,14 +246,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-21 13:14",
    "published_iso": "2026-08-21T04:14:21+00:00"
-  },
-  {
-   "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDZHVXlyV3p1QkZMX3Bpc0E4ZjU5M0QzN2twSmtTZzZ4VFhCTjJVekJvdTgxMS0tLWFnbWR4WmJrQkFJRUpSNmNIaUl6V1d0SmVDT2NZZ3VtTkdHYlJ4dWxkQkJ0YkVrNjhUWWIzR1BGdzZlc3FKcUNlOXhBbjJHM0pQRQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 12:58",
-   "published_iso": "2026-08-21T03:58:00+00:00"
   },
   {
    "title": "町議らから暴行やセクハラか 農業法人のミャンマー人労働者が告発 「治外法権のような状況」北海道京極町",
@@ -392,20 +376,36 @@
    "published_iso": "2026-08-20T08:22:00+00:00"
   },
   {
-   "title": "松山（板垣李光人）に最大のピンチ!!外国人旅行者の殺害容疑で逮捕!?",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TNkc3R0EwZjQ0cTd6QVNDX2ZpQ2dhYzdZMk1lXzlKMUFleDNFNjBpODh1MUxRSWpyYlMzYkFWdVlQcjREVnhQV2ZZb0thR1FDN1ZqR2JKMnh2b2hCWWZfaHQ2MkwtUC1QMW5RLUZEZW8?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-20 16:07",
-   "published_iso": "2026-08-20T07:07:00+00:00"
-  },
-  {
    "title": "大分の26年在留外国人、12%増の2万3878人 インドネシアが最多に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQkxlNjM4a1p3ZWR6bU5GZkd2LVg5VVlGUjdsR2xCaGt1eURTc252bTZQeDZRWXhpSTJvUUYwWnJwTF9IcWFDNGNWaUZTZTRIM0IyalU4T2Znd0RxWFl6d3lqbHp1ZGdiZmVpUA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-20 15:57",
    "published_iso": "2026-08-20T06:57:14+00:00"
+  },
+  {
+   "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-20 05:00",
+   "published_iso": "2026-08-19T20:00:00+00:00"
+  },
+  {
+   "title": "茨城：古河市と麗沢大 多文化共生へ協定 企業課題ノウハウ活用 学生働く外国人に学ぶ ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QWWdYWFllUGRaNU5reG1QMjBNLWowaWVVSmxkWXRZaklFeV9Md0EzcmJTSFZhT1ZiWWtSeF9ocmxQU3h6enQwWUlPNk1UU0tHNE9oSy1ISmNBUkFDZnB1SHNwV0g2Sk91TmJ2SWg1M0ZzeUU?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-20 05:00",
+   "published_iso": "2026-08-19T20:00:00+00:00"
+  },
+  {
+   "title": "Zenken、インドでIT組織の立ち上げ支援 人材採用や日本語教育",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZcTZDbk9mQVRPeE9DSl9rZGJudS13ZDFuZjY1bVFHOVA5QXVEV2ZFbFdXc2FBQUs3LXhCUlJjeERSaWtnakp3VXNrTGszb1ZGaHZHdW1GajNuMzZPcHotM3EtaFhEY0U2TlVsbA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-20 05:00",
+   "published_iso": "2026-08-19T20:00:00+00:00"
   }
  ]
 }
