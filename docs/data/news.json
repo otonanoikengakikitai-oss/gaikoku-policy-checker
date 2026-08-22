@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T03:38:29+00:00",
+ "generated_at": "2026-08-22T04:29:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "俳優チェ・シウォン、景福宮で喫煙しようとした外国人観光客を直接制止",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVk1Zc0UzR0YyM0ZOc3NnUlhOekxQSV9VS1YzWDVMeUQyeGVlX0pmaXk0bkh6emxZVUdUekdlNjQ1OVhuMTZUS1RSTzdqTHN1X3g2ZDR3a2s2ajlZN3RJUlNLVm81dw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-22 12:17",
+   "published_iso": "2026-08-22T03:17:00+00:00"
+  },
   {
    "title": "ひょうごクロニクル＞(33)1932～45 満蒙開拓団 国策移民、集団自決の悲劇|リッチページA",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIUWtPeUY2ZWFoYnI2b3JwWElLRk9DZE5zbFNkZTc3dXZoRWhfOWo5ZVozVGRPVWxyaGZKMmEzZVZCZFdYTXFqWXFaeThOVGNrcWRPTTJkbFh1SmtBcGl5MmIyNzMtR3pWTlFiZw?oc=5",
@@ -38,14 +46,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-22 10:30",
    "published_iso": "2026-08-22T01:30:00+00:00"
-  },
-  {
-   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-22 09:23",
-   "published_iso": "2026-08-22T00:23:00+00:00"
   },
   {
    "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
@@ -144,6 +144,14 @@
    "published_iso": "2026-08-21T09:30:00+00:00"
   },
   {
+   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 17:16",
+   "published_iso": "2026-08-21T08:16:00+00:00"
+  },
+  {
    "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
    "source": "読売新聞",
@@ -182,14 +190,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-21 14:08",
    "published_iso": "2026-08-21T05:08:30+00:00"
-  },
-  {
-   "title": "普及進む「やさしい日本語」 外国人被災者へ正しく簡潔に災害情報を伝達、訪日客にも対応",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVW9BRV95TzBzVkZMclZEd1Y0eDRGWE9fVTZXQUhVc0p6N3lVcmFzQ1VUWWJnZFktZWxWb3FVQ0ZISWl1YzQwNm0xaFEzN1VLY0VKT29VSFd0aTFpZy1ycC10dUNCa0tFUTctSUdHUHc0NGhhb2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-21 13:14",
-   "published_iso": "2026-08-21T04:14:21+00:00"
   },
   {
    "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》",
@@ -248,14 +248,6 @@
    "published_iso": "2026-08-20T20:05:00+00:00"
   },
   {
-   "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
    "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
    "source": "日本経済新聞",
@@ -264,10 +256,26 @@
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
   {
+   "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
    "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "長野：外国人レンタカー事故５７５件 昨年、２２年の１５倍 冬季・観光地に集中：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GLW9PTVFrSzVHdmE4UkxGUzNJS2pRbGFsZlNabU14Vm1Hc3RTNUZtRzdZQXBsVEVYVDEzQ21SbjBLT2JsMm9LTmUyb1ZkUFlGTEdEUTlfRFpqSlUwTm9zRFVpZEt3TDlSaUI1ZjFKYlV1Zw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
@@ -302,14 +310,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-20 17:22",
    "published_iso": "2026-08-20T08:22:00+00:00"
-  },
-  {
-   "title": "「罰ではなく救済と保護を」孤立出産し死体遺棄で有罪判決を受けたベトナム人技能実習生の女性（22）面接では「妊娠したら帰国」と説明も",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rMEdmRzFZSHNSX21UYVZSdEJuTlA2M2Z1ZVRCWFg3SmRrWmRvLUZFX2swQW8xYzdNZk1yODU4RHUyWmtOZUg5WF9NSENJdGlRT1hXdmE3cTIzcjFHRW9vUWxicHY?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-20 17:20",
-   "published_iso": "2026-08-20T08:20:00+00:00"
   },
   {
    "title": "松山（板垣李光人）に最大のピンチ!!外国人旅行者の殺害容疑で逮捕!?",
