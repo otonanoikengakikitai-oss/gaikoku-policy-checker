@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T06:35:06+00:00",
+ "generated_at": "2026-08-22T07:28:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "熊に外国人観光客が右腕かまれる、青森県十和田湖の展望台付近",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Sanpoc0JqcnpJcy1HLTU1bHI5TzRsZ0lvT0I5anU0RFoteTdXX3U3cEFEVl9ROTlXOUt2ZFowcV9LS0h4dWVQelpfVQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-22 16:20",
+   "published_iso": "2026-08-22T07:20:00+00:00"
+  },
+  {
+   "title": "青森で外国人観光客がクマに襲われ搬送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lSWhIRjM4VWtFbWd4NWJNZG8yZTBNclkxVjlZSk5QOTFaOW5ZMmRBMGs4ak5JR3Z0dW5iMHpsSzQwTG0wYjNnbFV1Z2tGX2xoWHJZbG1Vejk?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-08-22 16:02",
+   "published_iso": "2026-08-22T07:02:52+00:00"
+  },
+  {
+   "title": "手に拳銃 車内で外国人と見られる男性死亡 米兵と判明 名護の医療機関の駐車場で 沖縄",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wM3BzSTd3ZEJXVDRSYmdaMVF5OU1yTzdzMVVxVXRja0paekRsYnNPb3hINVJQN1RpZ2ZQcGFtMGdZRXY5NkZMWmhRMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-22 15:21",
+   "published_iso": "2026-08-22T06:21:53+00:00"
+  },
   {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
@@ -192,14 +216,6 @@
    "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
-   "title": "北海道の農業法人で横行した外国人支配の凄惨な現場「出入国管理局」が抜き打ち立ち入り検査…過去にも実習生への人権侵害で処分、その後に別会社設立か 《連載4》",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjWGoydmpFUnkyeE5wQkVZNXNnbTdCTmJCYjNLaERWUjhTRlotNHlOQUp3N1REa3pMQzVyNno2dXlHWm1pTFlmUmxwaDE0Qlc0emI0T2JiYmpEUmk0R2NCckRyTVQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 09:53",
-   "published_iso": "2026-08-21T00:53:00+00:00"
-  },
-  {
    "title": "「わたし死ぬんですか？」と外国人患者が混乱する事情 医療の「当たり前」をロールプレイで見つめ直す",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZWg0b0xaUnNNcEJ1Z2pKUllLVVdrQ2d0dktFNGU0UDZmbTRydGdwZWU5SzR6aXlOVERoU0dIVUgwcGdDaElLa09WVm5qNmNVaWY0?oc=5",
    "source": "東京新聞",
@@ -226,6 +242,14 @@
   {
    "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96NXpqeDJ2dXlsLW9iREpvX2w3dTB4RmpocFYwRENhUTRvdXRHTTJ4WUtwZGdpQlhxTmh0M3BlZU1jeUZEYTdpcjBCcUppaFU1a1FaOFFyZVFvcDdyYlZwTw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
+  },
+  {
+   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～30歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQURaOUtfdWlvMVI2UGhmZlY4c2NjQl9IbVFMb0VZYlBLcHRWMGgyZ0h1Rms0ZVdZTVVpQTdiWXA5WHB6ektyYzBJeTVMT05GT2g5U2ZkcmxEQQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 06:00",
@@ -328,22 +352,6 @@
    "published_iso": "2026-08-20T06:57:14+00:00"
   },
   {
-   "title": "バス会社が外国人運転手に活路 北海道内第1号はインドネシアから",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PdjZvZDBIS0w3Q2k2LVBVUmJYMVkzdzgtRkhYZ1IzSG5UWnJ1M0hEVGFyX0szYkRTNTJUUlRXNjZnUzl5Tm10cTdFbjl1N29SU2Mwb0JXOWk0OFMzS3JhTzdwUUIybTQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-20 10:00",
-   "published_iso": "2026-08-20T01:00:01+00:00"
-  },
-  {
-   "title": "不法就労の闇 暗躍するブローカーに会う～移民ビジネスを追う（中） ＃３３８",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Pa0p6ZVFfTFZSOFdaTDY3eHFPcXFBdzVXS21mT0VJbFY0MS0tR0ZNcUNpVzJLQTNRSm92ZXFOUlRLWDhIeE5ZS0RkNVNwUkhWRmVxMjhUREhCVTNBcEluTnZ6enZ6QQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-20 06:00",
-   "published_iso": "2026-08-19T21:00:00+00:00"
-  },
-  {
    "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
    "source": "毎日新聞",
@@ -398,14 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-19 17:12",
    "published_iso": "2026-08-19T08:12:54+00:00"
-  },
-  {
-   "title": "「庭の手入れがされていない家を狙った」窃盗目的で東京・埼玉の空き家に20件以上侵入か ベトナム国籍の男3人逮捕 技能実習生として来日も今は不法滞在 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SREkyUVY1S29UQkNYX2RGakN2WHk3V3dYZGg4TWJrZ1RaeEtKbWtyY1dRYkNMcktGc25PVVNGX2V3NHFqREsxSTd5TmJ4X2pjVVc3YkVFYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-19 14:14",
-   "published_iso": "2026-08-19T05:14:00+00:00"
   }
  ]
 }
