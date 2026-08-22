@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T14:18:14+00:00",
+ "generated_at": "2026-08-22T15:17:45+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -56,6 +56,14 @@
    "published_iso": "2026-08-22T07:35:32+00:00"
   },
   {
+   "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMnViMDFfZXBrQ0Y2b052cGQ4a09XUXlybDZrdnF5RDlhRVVOcDU5aloyRDRxcmpjM3FTYUVvRTJqdmdnaU1pM3NzWS1pN0NiODR3T3JWSHpOMnpMZ3RrWHpzWTJYRHpVTWY3QWVHOGFOZDhKX0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-22 16:20",
+   "published_iso": "2026-08-22T07:20:39+00:00"
+  },
+  {
    "title": "熊に外国人観光客が右腕かまれる、青森県十和田湖の展望台付近",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Sanpoc0JqcnpJcy1HLTU1bHI5TzRsZ0lvT0I5anU0RFoteTdXX3U3cEFEVl9ROTlXOUt2ZFowcV9LS0h4dWVQelpfVQ?oc=5",
    "source": "47NEWS",
@@ -94,14 +102,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 14:37",
    "published_iso": "2026-08-22T05:37:00+00:00"
-  },
-  {
-   "title": "俳優チェ・シウォン、景福宮で喫煙しようとした外国人観光客を直接制止",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVk1Zc0UzR0YyM0ZOc3NnUlhOekxQSV9VS1YzWDVMeUQyeGVlX0pmaXk0bkh6emxZVUdUekdlNjQ1OVhuMTZUS1RSTzdqTHN1X3g2ZDR3a2s2ajlZN3RJUlNLVm81dw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-22 12:17",
-   "published_iso": "2026-08-22T03:17:00+00:00"
   },
   {
    "title": "【動画】富士山「弾丸登山なくなった」 多い外国人 軽装注意され靴レンタル、ロープ外で中国国旗",
@@ -208,14 +208,6 @@
    "published_iso": "2026-08-21T09:30:00+00:00"
   },
   {
-   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 17:16",
-   "published_iso": "2026-08-21T08:16:00+00:00"
-  },
-  {
    "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
    "source": "読売新聞",
@@ -256,6 +248,14 @@
    "published_iso": "2026-08-21T05:08:30+00:00"
   },
   {
+   "title": "【画像まとめ】ベトナムが海外不法滞在の罰則強化へ 来月10日の施行前に日本の入管に出頭者増える",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDZHVXlyV3p1QkZMX3Bpc0E4ZjU5M0QzN2twSmtTZzZ4VFhCTjJVekJvdTgxMS0tLWFnbWR4WmJrQkFJRUpSNmNIaUl6V1d0SmVDT2NZZ3VtTkdHYlJ4dWxkQkJ0YkVrNjhUWWIzR1BGdzZlc3FKcUNlOXhBbjJHM0pQRQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-21 12:58",
+   "published_iso": "2026-08-21T03:58:00+00:00"
+  },
+  {
    "title": "町議らから暴行やセクハラか 農業法人のミャンマー人労働者が告発 「治外法権のような状況」北海道京極町",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeWNxYi04VlhoNkVCODFYejZROUNaX3pkTFpNcGxUZGl2dmVSUFNmR2VMbXpwdDdMai1Oay1TZmt0ZkYwLVpXRjV3ZHZ0UTN6elBaalJESzhBb3FPZDZZQ0FSTXo2aW8?oc=5",
    "source": "TBS NEWS DIG",
@@ -278,14 +278,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-21 07:19",
    "published_iso": "2026-08-20T22:19:04+00:00"
-  },
-  {
-   "title": "“介護難民400万人時代”に現場は崩壊の危機 「介護職を60万人増員」するべき実態とは？",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Q2NHQm9GT1JQYkR0eUJweklIT291VDVrOHZwSUowd1N3ZHVmbjFhS3JCbWF4UENUcmZ3WWl6b1hnWk9xdVlPa055YUUzLXkwUXd3b2J4eHg?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-08-21 07:00",
-   "published_iso": "2026-08-20T22:00:00+00:00"
   },
   {
    "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -398,6 +390,14 @@
    "source_domain": "jiji.com",
    "published": "2026-08-20 17:22",
    "published_iso": "2026-08-20T08:22:00+00:00"
+  },
+  {
+   "title": "松山（板垣李光人）に最大のピンチ!!外国人旅行者の殺害容疑で逮捕!?",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TNkc3R0EwZjQ0cTd6QVNDX2ZpQ2dhYzdZMk1lXzlKMUFleDNFNjBpODh1MUxRSWpyYlMzYkFWdVlQcjREVnhQV2ZZb0thR1FDN1ZqR2JKMnh2b2hCWWZfaHQ2MkwtUC1QMW5RLUZEZW8?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-20 16:07",
+   "published_iso": "2026-08-20T07:07:00+00:00"
   },
   {
    "title": "大分の26年在留外国人、12%増の2万3878人 インドネシアが最多に",
