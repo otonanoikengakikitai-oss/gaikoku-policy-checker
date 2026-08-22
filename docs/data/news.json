@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T20:18:54+00:00",
+ "generated_at": "2026-08-22T21:18:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "クマに襲われ外国人男性1人けが、命に別状なし 青森・十和田市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84ZGxEUW9JMml0eklMVm9fUy1UcW90RnBiNTRfOTYxQXVSN2hYei1NMjQ0RjBjc3dGbEZaODN5SHBxblY3N1RNbVNsVFYwclNNUy0wWWVkYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-23 05:48",
+   "published_iso": "2026-08-22T20:48:25+00:00"
+  },
   {
    "title": "「外国人の不法就労通報に1万円」茨城、人手確保と監視強化に苦悩",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfby00LUFsWml3dFdtN0MtY1g0Q1gyOVVVSEZlLW5kSDFuSGg3UWk5WDZyOG9OX3N5TnR5VElPZUhRajV6QTl4aFFhd21aUW5FSmRoQ1k4dDB3WEd5QVZBRTk4WXVKWm9weEJvag?oc=5",
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-20 20:17",
    "published_iso": "2026-08-20T11:17:51+00:00"
-  },
-  {
-   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-20 17:22",
-   "published_iso": "2026-08-20T08:22:00+00:00"
   }
  ]
 }
