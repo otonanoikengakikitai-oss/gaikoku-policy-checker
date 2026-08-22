@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T18:25:30+00:00",
+ "generated_at": "2026-08-22T19:20:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,6 +38,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-22 17:41",
    "published_iso": "2026-08-22T08:41:00+00:00"
+  },
+  {
+   "title": "ランウエー彩る民族衣装 東広島でイベント 留学生と児童たち交流【多文化共生のまち 芸南賀茂】",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mMmJOaWg0VzJVMDl1ZTY3Y1d1cUk2R0dxM0lpd3ZzZVJuM0tkMWZNN0VvbGo2S2lFc0RlazNGWFVHNVVoeHlKT1JOcw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-22 17:19",
+   "published_iso": "2026-08-22T08:19:00+00:00"
   },
   {
    "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
@@ -152,16 +160,16 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -358,14 +366,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-20 20:17",
    "published_iso": "2026-08-20T11:17:51+00:00"
-  },
-  {
-   "title": "群馬の日本人県民「外国人増加で治安・風紀乱れる」7割 県が調査",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NTVEcm9pOUZPbndDcTd0azF6M0paVXQ5OHJvUmRVNmMzYlloODFWREp3azhBYmJtMnZIcWljeHZwcUYxNzZNZk41S1pjdE5XSjMxNkFhNGQ2QzlNZ21WSFJTMnVoSUVWalJuMw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-20 18:12",
-   "published_iso": "2026-08-20T09:12:21+00:00"
   },
   {
    "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
