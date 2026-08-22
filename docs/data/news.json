@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T12:33:03+00:00",
+ "generated_at": "2026-08-22T13:29:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -54,14 +54,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-22 16:35",
    "published_iso": "2026-08-22T07:35:32+00:00"
-  },
-  {
-   "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMnViMDFfZXBrQ0Y2b052cGQ4a09XUXlybDZrdnF5RDlhRVVOcDU5aloyRDRxcmpjM3FTYUVvRTJqdmdnaU1pM3NzWS1pN0NiODR3T3JWSHpOMnpMZ3RrWHpzWTJYRHpVTWY3QWVHOGFOZDhKX0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-22 16:20",
-   "published_iso": "2026-08-22T07:20:39+00:00"
   },
   {
    "title": "熊に外国人観光客が右腕かまれる、青森県十和田湖の展望台付近",
@@ -136,18 +128,18 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
    "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
@@ -304,6 +296,14 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
+   "title": "「日本のご主人様は誰だ」「ミャンマーに帰す」暴言と威圧の音声データ…特定技能の19歳～30歳の女性に与えた絶望「カビ生えた炊飯器」借金背負う弱みに付け込む悪質実態《連載2》",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQURaOUtfdWlvMVI2UGhmZlY4c2NjQl9IbVFMb0VZYlBLcHRWMGgyZ0h1Rms0ZVdZTVVpQTdiWXA5WHB6ektyYzBJeTVMT05GT2g5U2ZkcmxEQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
+  },
+  {
    "title": "「暴力と胸や尻を触るセクハラが日常に」北海道京極町の農業法人で虐待か…避難したミャンマー人女性4人が明かす凄惨な実態 町議務める“父親”ら取材に応じず《連載１》 | 北海道のニュース｜HBC北海道放送 (2ページ)",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HWVkwVUcxVjJzSkNxQ1BodFlkWmNDNFlMZ0lublRSNFFlX1g2SXFhbmpySmZvWktNajYtR0FrdkFFRmU2NlJJSnRpb0ZsaG5teHF0dElLS0U5TXlSWHhVMWxITQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -320,18 +320,18 @@
    "published_iso": "2026-08-20T20:05:00+00:00"
   },
   {
-   "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
-  },
-  {
    "title": "移民と社会：外国人受け入れ「突如停止は行政ミスと政治的ポーズ」 是川夕氏",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BMlVacmRSOEQ0UUozT1QyejBNS2JlM1YycTQzT0dNVFNqb1ZzczZna19qVUo0LTlxMEZTVi1LUGdDbEw0UjZIX1lvTFo4ZFRtUVVhZ19BcjZlRUk2d3BHQnlOcTF4Ykx1?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
