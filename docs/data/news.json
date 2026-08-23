@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T14:19:57+00:00",
+ "generated_at": "2026-08-23T15:19:00+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -54,14 +54,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-23 05:48",
    "published_iso": "2026-08-22T20:48:25+00:00"
-  },
-  {
-   "title": "「外国人の不法就労通報に1万円」茨城、人手確保と監視強化に苦悩",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfby00LUFsWml3dFdtN0MtY1g0Q1gyOVVVSEZlLW5kSDFuSGg3UWk5WDZyOG9OX3N5TnR5VElPZUhRajV6QTl4aFFhd21aUW5FSmRoQ1k4dDB3WEd5QVZBRTk4WXVKWm9weEJvag?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-23 05:00",
-   "published_iso": "2026-08-22T20:00:00+00:00"
   },
   {
    "title": "育て上げた「外国人労働者」の争奪戦はもう目前、育成就労制度で流動化加速…地方に定着してもらえる「職場作り」が不可欠に",
@@ -144,14 +136,6 @@
    "published_iso": "2026-08-22T05:37:00+00:00"
   },
   {
-   "title": "俳優チェ・シウォン、景福宮で喫煙しようとした外国人観光客を直接制止",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVk1Zc0UzR0YyM0ZOc3NnUlhOekxQSV9VS1YzWDVMeUQyeGVlX0pmaXk0bkh6emxZVUdUekdlNjQ1OVhuMTZUS1RSTzdqTHN1X3g2ZDR3a2s2ajlZN3RJUlNLVm81dw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-22 12:17",
-   "published_iso": "2026-08-22T03:17:00+00:00"
-  },
-  {
    "title": "【動画】富士山「弾丸登山なくなった」 多い外国人 軽装注意され靴レンタル、ロープ外で中国国旗",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlRXViY1YzYXNZa0xERWhnMTVVOE0yUE9WYzF5cVFQeTJxSkVjX3Q0aU94WEY3U3pkS2c3YU1EOEhLd3VzVGNpcHRRd2JLbklNd1lKR1gxWDZvQ05VWUdLbUNHLS16ZXUzakRsU1VQY3hlNlVkMUE?oc=5",
    "source": "産経ニュース",
@@ -208,6 +192,14 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
+   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-22 02:00",
+   "published_iso": "2026-08-21T17:00:00+00:00"
+  },
+  {
    "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
@@ -216,12 +208,12 @@
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
+   "title": "「外国人の不法就労通報に1万円」茨城、人手確保と監視強化に苦悩",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfby00LUFsWml3dFdtN0MtY1g0Q1gyOVVVSEZlLW5kSDFuSGg3UWk5WDZyOG9OX3N5TnR5VElPZUhRajV6QTl4aFFhd21aUW5FSmRoQ1k4dDB3WEd5QVZBRTk4WXVKWm9weEJvag?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-22 02:00",
-   "published_iso": "2026-08-21T17:00:00+00:00"
+   "published": "2026-08-21 23:00",
+   "published_iso": "2026-08-21T14:00:00+00:00"
   },
   {
    "title": "セウタに移民用シェルター開設 不法移民問題で子ども約2000人残留 路上や海岸で野宿",
@@ -376,14 +368,6 @@
    "published_iso": "2026-08-20T11:17:51+00:00"
   },
   {
-   "title": "群馬の日本人県民「外国人増加で治安・風紀乱れる」7割 県が調査",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NTVEcm9pOUZPbndDcTd0azF6M0paVXQ5OHJvUmRVNmMzYlloODFWREp3azhBYmJtMnZIcWljeHZwcUYxNzZNZk41S1pjdE5XSjMxNkFhNGQ2QzlNZ21WSFJTMnVoSUVWalJuMw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-20 18:12",
-   "published_iso": "2026-08-20T09:12:21+00:00"
-  },
-  {
    "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
    "source": "時事ドットコム",
@@ -406,6 +390,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-20 15:57",
    "published_iso": "2026-08-20T06:57:14+00:00"
+  },
+  {
+   "title": "「次世代へ」ハワイ沖縄移民のルーツ探る 23日、宜野湾でフェスタ [沖縄県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81aTFQa2xlSVVCX0d0SkNZelNZaHB6MzVDdGhjWW5uY3Y0YXlOQnhGby1fMHNkYWtXM1ZtckJvalF6ZUpMei0weDRsV1EwVFgtemJSejJoVUFhTmljOUE0eFQxNWNfZk0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-20 11:30",
+   "published_iso": "2026-08-20T02:30:01+00:00"
+  },
+  {
+   "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-20 05:00",
+   "published_iso": "2026-08-19T20:00:00+00:00"
   }
  ]
 }
