@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T03:56:12+00:00",
+ "generated_at": "2026-08-23T04:36:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -136,14 +136,6 @@
    "published_iso": "2026-08-22T07:20:39+00:00"
   },
   {
-   "title": "熊に外国人観光客が右腕かまれる、青森県十和田湖の展望台付近",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Sanpoc0JqcnpJcy1HLTU1bHI5TzRsZ0lvT0I5anU0RFoteTdXX3U3cEFEVl9ROTlXOUt2ZFowcV9LS0h4dWVQelpfVQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-22 16:20",
-   "published_iso": "2026-08-22T07:20:00+00:00"
-  },
-  {
    "title": "クマに腕かまれ外国人けが 青森・十和田湖で観光中",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fYVpxcG1hLUtoSS1yLWpVaHVHVjM1aDF4SFhJN2VkenZUSjNGODBWdlB0UkQ5d3FieHpwS2V2bFFMSHJFX0I1dmprbUt2OEkwMjRkXzF0dk9rRGFFb3lzbjdKWE13VG1yemFr?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -208,18 +200,18 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
    "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
@@ -344,12 +336,12 @@
    "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
-   "title": "「わたし死ぬんですか？」と外国人患者が混乱する事情 医療の「当たり前」をロールプレイで見つめ直す",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZWg0b0xaUnNNcEJ1Z2pKUllLVVdrQ2d0dktFNGU0UDZmbTRydGdwZWU5SzR6aXlOVERoU0dIVUgwcGdDaElLa09WVm5qNmNVaWY0?oc=5",
+   "title": "〈うつしかがみ やまゆり事件と記者〉共生社会を諦めない",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUHNxM2w2eFNBaFhHVUdvb2s3Ql84d3dyM1QzcE1fTnFoQlFYclVPV29tTjVmNlN1cFBBdVd1eGJsaXRiRzVmVmNGUVlNanBHNzZF?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-21 07:19",
-   "published_iso": "2026-08-20T22:19:04+00:00"
+   "published": "2026-08-21 07:23",
+   "published_iso": "2026-08-20T22:23:42+00:00"
   },
   {
    "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -402,6 +394,14 @@
   {
    "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-21 05:00",
+   "published_iso": "2026-08-20T20:00:00+00:00"
+  },
+  {
+   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-21 05:00",
