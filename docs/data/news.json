@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T05:25:53+00:00",
+ "generated_at": "2026-08-23T06:36:16+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "在留外国人の「日本語学習プログラム」検討へ各国の事例は？ 入管庁が10カ国・地域調査 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKT1hqMklZb2tPRTZtNmZuX0E5S2JiR29mR1JLMXVxLXhRQUlGaDZ6SUh2Nk41OW5fS3RjMjg0OGp4bGlqZl9PUnFfaW5KT1owdlg5SGNVT3d6UkRaYi1jTkwtSzJMVFJ4Y0ZzVldCcG5RVVU3bEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-23 15:00",
+   "published_iso": "2026-08-23T06:00:00+00:00"
+  },
   {
    "title": "「除草道具で殴られた」 保護のミャンマー人男性、「社長」を告訴へ [北海道]",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xRnlvbk5wTG1ZalVqaVNEOTUzWDk1d1E1Y3hpMGVhSjFjNk45YzlnTUp0dnJ0Nm5GdnQ1MlRGRDJfaE16S00zc1ExTDNIN3VmMHIxMXRsdzMzUXhSWURmQzlRLWhzUQ?oc=5",
@@ -136,28 +144,12 @@
    "published_iso": "2026-08-22T07:20:39+00:00"
   },
   {
-   "title": "クマに腕かまれ外国人けが 青森・十和田湖で観光中",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fYVpxcG1hLUtoSS1yLWpVaHVHVjM1aDF4SFhJN2VkenZUSjNGODBWdlB0UkQ5d3FieHpwS2V2bFFMSHJFX0I1dmprbUt2OEkwMjRkXzF0dk9rRGFFb3lzbjdKWE13VG1yemFr?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-22 16:18",
-   "published_iso": "2026-08-22T07:18:04+00:00"
-  },
-  {
    "title": "青森で外国人観光客がクマに襲われ搬送",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqUlRrLTJlVjQzNG1YVENaTnprbW9laDNiR1FfMDJfRnRKT0diZjNMSnlhS3k5Z09Zd2txNW52bTJNb0tsVU5MbjVYc1A2a0NxaEFfWFVfbXBoZDF1VEdwT1JXTQ?oc=5",
    "source": "nippon.com",
    "source_domain": "nippon.com",
    "published": "2026-08-22 16:03",
    "published_iso": "2026-08-22T07:03:37+00:00"
-  },
-  {
-   "title": "【速報】青森で外国人観光客がクマに襲われ搬送",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GWW9ac3E4RFVqX2RPQ0FkZzZlQ29ENzlqTzV5ZWZTNHVhalJqQkE3d3RWU0VhaHlvZDliS0d5Q1FhSVpwNDRKYk9mdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-22 16:02",
-   "published_iso": "2026-08-22T07:02:52+00:00"
   },
   {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
@@ -328,14 +320,6 @@
    "published_iso": "2026-08-21T01:55:00+00:00"
   },
   {
-   "title": "〈うつしかがみ やまゆり事件と記者〉共生社会を諦めない",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUHNxM2w2eFNBaFhHVUdvb2s3Ql84d3dyM1QzcE1fTnFoQlFYclVPV29tTjVmNlN1cFBBdVd1eGJsaXRiRzVmVmNGUVlNanBHNzZF?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-21 07:23",
-   "published_iso": "2026-08-20T22:23:42+00:00"
-  },
-  {
    "title": "「わたし死ぬんですか？」と外国人患者が混乱する事情 医療の「当たり前」をロールプレイで見つめ直す",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZWg0b0xaUnNNcEJ1Z2pKUllLVVdrQ2d0dktFNGU0UDZmbTRydGdwZWU5SzR6aXlOVERoU0dIVUgwcGdDaElLa09WVm5qNmNVaWY0?oc=5",
    "source": "東京新聞",
@@ -352,16 +336,16 @@
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XcXRCaThnYTNNUTFOWTNnOEg4R0ctaVY2OEZBdjQ1T1ZVRUV6RlY2eUMtOHF6UjNlcEJuOUNTRDBkNFFydjdZNXhhYW9iQzhwcGp4YVdBWUdiUQ?oc=5",
+   "title": "暴行・暴言・セクハラ…外国人を支配する凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96NXpqeDJ2dXlsLW9iREpvX2w3dTB4RmpocFYwRENhUTRvdXRHTTJ4WUtwZGdpQlhxTmh0M3BlZU1jeUZEYTdpcjBCcUppaFU1a1FaOFFyZVFvcDdyYlZwTw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 06:00",
    "published_iso": "2026-08-20T21:00:00+00:00"
   },
   {
-   "title": "暴行・暴言・セクハラ…外国人を支配する凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96NXpqeDJ2dXlsLW9iREpvX2w3dTB4RmpocFYwRENhUTRvdXRHTTJ4WUtwZGdpQlhxTmh0M3BlZU1jeUZEYTdpcjBCcUppaFU1a1FaOFFyZVFvcDdyYlZwTw?oc=5",
+   "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XcXRCaThnYTNNUTFOWTNnOEg4R0ctaVY2OEZBdjQ1T1ZVRUV6RlY2eUMtOHF6UjNlcEJuOUNTRDBkNFFydjdZNXhhYW9iQzhwcGp4YVdBWUdiUQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-21 06:00",
@@ -392,20 +376,36 @@
    "published_iso": "2026-08-20T20:00:00+00:00"
   },
   {
-   "title": "外国人持ち株比率、3年連続で最高 フォスター電機にアクティビスト",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdmpmUUUyMjh0ejM4eFlGWWV1a3FXWXVldWJBQTZrVlBhXzRpMTVieHJwTjUycTNUQ210U2FBNjhYTVY0Q0hMUzRiNWhvVnFvOWkxaERqT25XdGJldG1Qc20zbmdWVjFYbWlXSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
+   "title": "長野県多文化共生相談センターのアカウントに不正アクセス 利用者が詐欺被害",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJMUVYMlJzbk02bnpKTVVaLWl6ZUFrR3J2Q0FJTEhHOEJfZE9EUGtBcV9QR0owUjc4SGNjSWtNdTFVbkxaS0YyMWpjUnRhOU5feW0wWEtRTDVJOGJUTmJFa0dadTBEWndiTG43WWtpZ3I?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-20 20:43",
+   "published_iso": "2026-08-20T11:43:00+00:00"
   },
   {
-   "title": "中国・重慶、外国人客68%増 けん引役は韓米日から東南アジア勢に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMDF6T0Q2WUNEWG9reVEwcGVZb0hRa3llSm8wWkNYMnFsc3Y5YzAxZk12YVd1QUJVLTU2cGprbHhfNnNOQS04dzRRWS1mQlI0QmcwM0NqWk80TVY1R005ZDJRNEdhbllhOHQ2eQ?oc=5",
+   "title": "「特定技能」外国人への暴力常態化か 入管、北海道の農場を調査",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Sek50aVl2Rk1paEpxUWF2QlUzZ25QMEhWWWhmQzBBVjVrakYtM0VYc2hHeHc5N3F1OGo0alIxWjlzQTdUSFc1c2JBOTduSTQ5WG9vcVQzbUotVVp4T0xwenlwQ2FtZ3U5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-20 20:17",
+   "published_iso": "2026-08-20T11:17:51+00:00"
+  },
+  {
+   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-20 17:22",
+   "published_iso": "2026-08-20T08:22:00+00:00"
+  },
+  {
+   "title": "大分の26年在留外国人、12%増の2万3878人 インドネシアが最多に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQkxlNjM4a1p3ZWR6bU5GZkd2LVg5VVlGUjdsR2xCaGt1eURTc252bTZQeDZRWXhpSTJvUUYwWnJwTF9IcWFDNGNWaUZTZTRIM0IyalU4T2Znd0RxWFl6d3lqbHp1ZGdiZmVpUA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-21 05:00",
-   "published_iso": "2026-08-20T20:00:00+00:00"
+   "published": "2026-08-20 15:57",
+   "published_iso": "2026-08-20T06:57:14+00:00"
   }
  ]
 }
