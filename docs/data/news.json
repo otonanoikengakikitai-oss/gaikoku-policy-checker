@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T01:09:41+00:00",
+ "generated_at": "2026-08-23T02:59:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「空き家」を輝かす外国人 1400万円で「劇的北欧風」に再生【グッド！いちおし】",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGR0FRNzZGLWRsWGN3TkRkWHZPSlR1NWd6VHdLeURxb2VhMG1yVHVYVk5Qa1Zkam9oRzhUdHBhVndXY090RktJSkVPaWpqZkM1SE1ZY0Q5am1uSWpoNHRZdTE3aG5GVE1fVHBYN1hzd0ZqZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-23 10:45",
+   "published_iso": "2026-08-23T01:45:03+00:00"
+  },
   {
    "title": "クマに襲われ外国人男性1人けが、命に別状なし 青森・十和田市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84ZGxEUW9JMml0eklMVm9fUy1UcW90RnBiNTRfOTYxQXVSN2hYei1NMjQ0RjBjc3dGbEZaODN5SHBxblY3N1RNbVNsVFYwclNNUy0wWWVkYw?oc=5",
@@ -28,14 +36,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWFhiNHVEN3BOMktXR2tUdTEtRHBwZnMyWkR0SG5rWVNsNVpwZnVCNDZHOEFDeHpKcHppTnIyU0wyZUlyeVVlRktHclBPWWVyUUpBOFliOXJZcWYwckJQczdNbllINndHSldPbVpQam1PQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-23 05:00",
-   "published_iso": "2026-08-22T20:00:00+00:00"
-  },
-  {
-   "title": "〈ナゼナニ調査隊～２０代記者が追う〉浅電に外国人が急増中？ 目指すは「ウチナダ・ビーチ」 「落ち着いた場所」へ、終点からテクテク パラソルも食事処もない…商機ありそう",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ULVJTMzlHU2Z2NmNtZzcwSjFHMGkxYm1ha0NoaDF0RnRyUGxZaVc1WXotY2JNQnU3RDhMYXBCX1lEcS0wUW9maWhrbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-08-23 05:00",
    "published_iso": "2026-08-22T20:00:00+00:00"
   },
@@ -89,7 +89,7 @@
   },
   {
    "title": "「血が赤黒く出血がひどい感じで座っているだけで精いっぱいという感じ」青森県十和田市に観光に訪れていた外国人男性がクマに襲われけが",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIZG1fd3M5R3hYTVhWVUVNTVlDWWtpekQtZkwzeTR4bjM0Qk9aUU0tbzBtS0FNMzg4R0R5Y3l1QzlGTmFHczJzREpNSV8tVnh1b0VSMjVoYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wR0dSNk5OXzN6QU9NMFE3akFJUHp3RnpDNkx3TGdWQXFnTDljWnRkSVNNTHptY1hrQVFqY1hpWnBSM2FnNV9xd0w5LU1JRkd1VGZpUVNNUUYtMS05azV1VkNCQk9sazg?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-22 18:10",
@@ -150,6 +150,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-22 16:02",
    "published_iso": "2026-08-22T07:02:52+00:00"
+  },
+  {
+   "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 14:37",
+   "published_iso": "2026-08-22T05:37:00+00:00"
   },
   {
    "title": "俳優チェ・シウォン、景福宮で喫煙しようとした外国人観光客を直接制止",
@@ -304,14 +312,6 @@
    "published_iso": "2026-08-21T04:14:21+00:00"
   },
   {
-   "title": "町議らから暴行やセクハラか 農業法人のミャンマー人労働者が告発 「治外法権のような状況」北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeWNxYi04VlhoNkVCODFYejZROUNaX3pkTFpNcGxUZGl2dmVSUFNmR2VMbXpwdDdMai1Oay1TZmt0ZkYwLVpXRjV3ZHZ0UTN6elBaalJESzhBb3FPZDZZQ0FSTXo2aW8?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 12:26",
-   "published_iso": "2026-08-21T03:26:00+00:00"
-  },
-  {
    "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
    "source": "朝日新聞",
@@ -337,6 +337,14 @@
   },
   {
    "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XcXRCaThnYTNNUTFOWTNnOEg4R0ctaVY2OEZBdjQ1T1ZVRUV6RlY2eUMtOHF6UjNlcEJuOUNTRDBkNFFydjdZNXhhYW9iQzhwcGp4YVdBWUdiUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-21 06:00",
+   "published_iso": "2026-08-20T21:00:00+00:00"
+  },
+  {
+   "title": "暴行・暴言・セクハラ…外国人を支配する凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96NXpqeDJ2dXlsLW9iREpvX2w3dTB4RmpocFYwRENhUTRvdXRHTTJ4WUtwZGdpQlhxTmh0M3BlZU1jeUZEYTdpcjBCcUppaFU1a1FaOFFyZVFvcDdyYlZwTw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-20 20:17",
    "published_iso": "2026-08-20T11:17:51+00:00"
-  },
-  {
-   "title": "２４年のガザ支援団体攻撃、捜査打ち切り 外国人ら７人犠牲―イスラエル軍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xNnlSSjVjN1BBN0FlLVhfclhySnlWTFF0SDNqOFNZaTZsZ0hSc1NxUDV0UGExTk9ISDQtR0JIeURaUHN1WDhueTRGQS1iV1pyZENfQUV3RW0xeWlQMW4tRmk1VQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-20 17:22",
-   "published_iso": "2026-08-20T08:22:00+00:00"
   }
  ]
 }
