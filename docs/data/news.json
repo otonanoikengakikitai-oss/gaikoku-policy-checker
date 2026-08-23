@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T10:20:28+00:00",
+ "generated_at": "2026-08-23T11:18:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "多文化共生や外国人材をめぐる課題について考えるシンポジウム【岡山】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQWxNbU4yTzNja1pVQ0ZWRVJ5djJONk11eG5KSG9UUUxiRVY1aWRSM3ZNZHFvNGNWRVBacEZQYTEyX0VsSmg3UVRXdEFZZlJNZWZYdDlGWURUZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-23 19:00",
+   "published_iso": "2026-08-23T10:00:00+00:00"
+  },
   {
    "title": "外国人も驚くニッポンのかき氷！なぜ氷に塩？なぜとうもろこし？こだわりすぎ極上かき氷をあばれる君とイタリア人シェフが調べてきました！【それスタ】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qc2dQRHpOR0s5S0VwTUxaN0RJSk1NaWlaSWdEeTc4cFJla21vRW90d1FNekN5NG9nRnhMNjVUUUhMRkowYmMtS1hsNFFKT3JMYnRrRjA1OA?oc=5",
@@ -142,14 +150,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 14:37",
    "published_iso": "2026-08-22T05:37:00+00:00"
-  },
-  {
-   "title": "俳優チェ・シウォン、景福宮で喫煙しようとした外国人観光客を直接制止",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHVk1Zc0UzR0YyM0ZOc3NnUlhOekxQSV9VS1YzWDVMeUQyeGVlX0pmaXk0bkh6emxZVUdUekdlNjQ1OVhuMTZUS1RSTzdqTHN1X3g2ZDR3a2s2ajlZN3RJUlNLVm81dw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-22 12:17",
-   "published_iso": "2026-08-22T03:17:00+00:00"
   },
   {
    "title": "【動画】富士山「弾丸登山なくなった」 多い外国人 軽装注意され靴レンタル、ロープ外で中国国旗",
@@ -288,14 +288,6 @@
    "published_iso": "2026-08-21T05:08:30+00:00"
   },
   {
-   "title": "町議らから暴行やセクハラか 農業法人のミャンマー人労働者が告発 「治外法権のような状況」北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeWNxYi04VlhoNkVCODFYejZROUNaX3pkTFpNcGxUZGl2dmVSUFNmR2VMbXpwdDdMai1Oay1TZmt0ZkYwLVpXRjV3ZHZ0UTN6elBaalJESzhBb3FPZDZZQ0FSTXo2aW8?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 12:26",
-   "published_iso": "2026-08-21T03:26:00+00:00"
-  },
-  {
    "title": "農場で虐待か 地域労組が「特定技能」外国人6人保護 北海道京極町 [北海道]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ua093NUhYbXFZdFduSVR3RjA3RVJMUU1HRWJKMmhYRFpwZkFxbTFHRmVSbWxUaUp2dG4tQkNHUTBndXlKSmZhcHdEdHdXSzNwNDB2ZnJSa3V3UlpxN2h0NjFRNnFReUE?oc=5",
    "source": "朝日新聞",
@@ -312,7 +304,7 @@
    "published_iso": "2026-08-20T22:19:04+00:00"
   },
   {
-   "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
+   "title": "暴行・暴言・セクハラ…外国人を支配する凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-20 17:20",
    "published_iso": "2026-08-20T08:20:00+00:00"
+  },
+  {
+   "title": "大分の26年在留外国人、12%増の2万3878人 インドネシアが最多に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQkxlNjM4a1p3ZWR6bU5GZkd2LVg5VVlGUjdsR2xCaGt1eURTc252bTZQeDZRWXhpSTJvUUYwWnJwTF9IcWFDNGNWaUZTZTRIM0IyalU4T2Znd0RxWFl6d3lqbHp1ZGdiZmVpUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-20 15:57",
+   "published_iso": "2026-08-20T06:57:14+00:00"
   }
  ]
 }
