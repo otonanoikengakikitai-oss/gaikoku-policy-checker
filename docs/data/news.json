@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T22:18:13+00:00",
+ "generated_at": "2026-08-23T23:17:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【急増】過去最悪ペースで増加する“外国人観光客のレンタカー事故”「運転席も車線も反対で目の錯覚が…」ドライバーの実態と求められる対策",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1Y0SS1mdlVKQ2h5S3hZWGV4RngzdlpIOExrVmdqSjN2N1VkOWVLbWU3QUpBbU1vNFJvTWtDX1ctWllRenliRzNDR2RvUVlqX3VRWUMyamZxWXRyVFc2dENNaW91M1pCeldtLUFla1lHWnktd0t0Q2hsMEJkZ2Y0Q0pMZGc4QjA?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-24 08:00",
+   "published_iso": "2026-08-23T23:00:00+00:00"
+  },
+  {
+   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-24 07:57",
+   "published_iso": "2026-08-23T22:57:00+00:00"
+  },
+  {
+   "title": "米 移民ビザ発給停止措置 連邦地裁が取り消し",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zVjZhWVJ3UXU2alJZblo5SDcyWEdXUmt3WVhrV1NZb2ZSUjJGMUFEWDdwejhZeDduN2pyQ1pRdlhmX2o0aFBSMEVMYVFXQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-24 07:20",
+   "published_iso": "2026-08-23T22:20:00+00:00"
+  },
   {
    "title": "永住許可の厳格化 共生社会が遠ざかる懸念",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sWEpVb25oSWdteWJmNzIzb2lYRjZIMzlsZjkzUnctTUdnZGkzaVdxUTFmanRENnpsOEtubURVTFhXVXEzWVM0c1BBaw?oc=5",
@@ -60,14 +84,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGYm03Rk5PVnpFbWhwMl90cWVQTGhYbF9kOHpYeHcxakFTMWE2aThkcnYzVU1rUFY4LXc0RDRGTklmbXVNSEFQelQ1Q3RPXzIzTzQ3M2FWRVF2RkpkLVVfc1ppTGRzWmszZ0oyNg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
    "published": "2026-08-24 05:00",
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
@@ -390,22 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-21 07:10",
    "published_iso": "2026-08-20T22:10:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生のホテル業専門講習施設「成田・ホスピタリティ・アカデミー」",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3VVRVTk91TFZmT1A4d09mSUJGWHBuZmdkTzlFX2VkcEo0M2M1TTlTdjU5LUdoSmZnaEtiNGgyWmhQanlLTHFHd2t6Z2NEVEZWTE5SaVR6cXpRQlNuX3RuaG9fQXZFOU9wcDE4?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-21 07:10",
-   "published_iso": "2026-08-20T22:10:00+00:00"
-  },
-  {
-   "title": "暴行・暴言・セクハラ…外国人を支配する凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GNzRNYjBsYVNHX3dPT3plcVFkV0NsX1VQcUdJNTBrdFY2Qk1qY3NQUU5xLXl1djZwNDl3b0tWalQ2TG8ySWZPa184aGFGcGFlV21mSTYzQVRYb09rSXZWNHM1bmR1ak0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 06:00",
-   "published_iso": "2026-08-20T21:00:00+00:00"
   }
  ]
 }
