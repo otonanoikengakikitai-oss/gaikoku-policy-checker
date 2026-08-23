@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T04:36:30+00:00",
+ "generated_at": "2026-08-23T05:25:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「除草道具で殴られた」 保護のミャンマー人男性、「社長」を告訴へ [北海道]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xRnlvbk5wTG1ZalVqaVNEOTUzWDk1d1E1Y3hpMGVhSjFjNk45YzlnTUp0dnJ0Nm5GdnQ1MlRGRDJfaE16S00zc1ExTDNIN3VmMHIxMXRsdzMzUXhSWURmQzlRLWhzUQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-23 13:40",
+   "published_iso": "2026-08-23T04:40:00+00:00"
+  },
   {
    "title": "「給料上げれば人が来るという話でもない」 外国人材に頼る現場の声 [香川県] [消滅可能性自治体]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMjljRjZuQUUzOTVodnZzQjFJQ01Zc1RVUTNCcExxa1h1S3BaYmJZbHN2aXhycDdnMmVDOHppMl9ib2xpNk8tclpxaUhObmRfTWI4M2J2OE4wcUdsZWh3UHJsaUFNeFE?oc=5",
@@ -44,14 +52,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xWFhiNHVEN3BOMktXR2tUdTEtRHBwZnMyWkR0SG5rWVNsNVpwZnVCNDZHOEFDeHpKcHppTnIyU0wyZUlyeVVlRktHclBPWWVyUUpBOFliOXJZcWYwckJQczdNbllINndHSldPbVpQam1PQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-23 05:00",
-   "published_iso": "2026-08-22T20:00:00+00:00"
-  },
-  {
-   "title": "〈ナゼナニ調査隊～２０代記者が追う〉浅電に外国人が急増中？ 目指すは「ウチナダ・ビーチ」 「落ち着いた場所」へ、終点からテクテク パラソルも食事処もない…商機ありそう",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ULVJTMzlHU2Z2NmNtZzcwSjFHMGkxYm1ha0NoaDF0RnRyUGxZaVc1WXotY2JNQnU3RDhMYXBCX1lEcS0wUW9maWhrbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-08-23 05:00",
    "published_iso": "2026-08-22T20:00:00+00:00"
   },
@@ -280,14 +280,6 @@
    "published_iso": "2026-08-21T09:30:00+00:00"
   },
   {
-   "title": "【速報】車内で頭部から血を流した変死体が見つかる 20代から30代の外国人男性か 沖縄・名護市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2X1dHdmJucVRSX0FGSWZTNmhfRmRZUFBVSlZ5SmZETWJZeFRjSVBEc19YMzBSZTZBaDBqeHU4VER2UHJsLVR6VURQTFBpSTgxQXU5T0tJQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-21 17:16",
-   "published_iso": "2026-08-21T08:16:00+00:00"
-  },
-  {
    "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
    "source": "読売新聞",
@@ -342,6 +334,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-21 07:23",
    "published_iso": "2026-08-20T22:23:42+00:00"
+  },
+  {
+   "title": "「わたし死ぬんですか？」と外国人患者が混乱する事情 医療の「当たり前」をロールプレイで見つめ直す",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZWg0b0xaUnNNcEJ1Z2pKUllLVVdrQ2d0dktFNGU0UDZmbTRydGdwZWU5SzR6aXlOVERoU0dIVUgwcGdDaElLa09WVm5qNmNVaWY0?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-21 07:19",
+   "published_iso": "2026-08-20T22:19:04+00:00"
   },
   {
    "title": "暴行・暴言・セクハラ…外国人支配の凄惨な現場に「出入国管理局」抜き打ち立ち入り検査 過去にも実習生への人権侵害で処分、その後別会社設立か 北海道京極町の農業法人《連載4》 | 北海道のニュース｜HBC北海道放送 (1ページ)",
