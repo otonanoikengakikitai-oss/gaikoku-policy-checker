@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T12:42:53+00:00",
+ "generated_at": "2026-08-24T13:48:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "江田島の外国人が交通ルールと防災学ぶ【多文化共生のまち 芸南賀茂】",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRm9nVUI4Y3hHNVg5eW54UDktZl9VOGxZOVQ2a3MzUDVhcVFJWWhYSGZHQnRvaC0tbExJLXlOM2hJeHMwM0ZiMF9sYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-24 21:35",
+   "published_iso": "2026-08-24T12:35:00+00:00"
+  },
   {
    "title": "笑顔広がる子ども食堂 ＮＰＯ法人ゆめみ～る、技能実習生も手伝い交流",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWXU2VTZEVy1iSlBqNnFoRzVITDdvWlpmanB5N0t4eGpOcktfMEg0WS13VWtLRnRmY3pTTjJPMDFXTWlueDkyNGI5SQ?oc=5",
@@ -118,6 +126,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 17:01",
    "published_iso": "2026-08-24T08:01:33+00:00"
+  },
+  {
+   "title": "「アホか」暴言・暴行も…北海道の農業法人、特定技能のミャンマー人労働者が刑事告訴 農業法人「精査中」",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRGZTMGVxTmQ5eVdPUUV1eGk0YU50WUxlN01nR0wtcldjYXJBLTRQLU1QZ1VfeFp1MnRTTUlEaUdyclZvbzcxMFBnZDBkc0pGNzVCa2pEaGh5Zw?oc=5",
+   "source": "HTB北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-08-24 16:21",
+   "published_iso": "2026-08-24T07:21:00+00:00"
   },
   {
    "title": "＜ひょうごきり絵探訪 前田尋＞神戸・海外移住と文化の交流センター 日系移民の苦難 心に刻んで",
@@ -390,22 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-22 18:18",
    "published_iso": "2026-08-22T09:18:06+00:00"
-  },
-  {
-   "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMnViMDFfZXBrQ0Y2b052cGQ4a09XUXlybDZrdnF5RDlhRVVOcDU5aloyRDRxcmpjM3FTYUVvRTJqdmdnaU1pM3NzWS1pN0NiODR3T3JWSHpOMnpMZ3RrWHpzWTJYRHpVTWY3QWVHOGFOZDhKX0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-22 16:20",
-   "published_iso": "2026-08-22T07:20:39+00:00"
-  },
-  {
-   "title": "ひょうごクロニクル＞(33)1932～45 満蒙開拓団 国策移民、集団自決の悲劇|リッチページA",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mUVRsWjF2Nm9aaHhCMDhWZGl5VlRNOVRJUDdnSFoycTFIV0ljTFkzWHMwZEhnamVVNlRPdDlXYkEzelIxMnVvSjlTV0hfZ1hTUndtNGh6bkJNQnJJTDR0dk5RZTBfTzR1RHVv?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-22 10:00",
-   "published_iso": "2026-08-22T01:00:00+00:00"
   }
  ]
 }
