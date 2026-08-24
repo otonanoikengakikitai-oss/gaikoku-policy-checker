@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T17:28:10+00:00",
+ "generated_at": "2026-08-24T19:26:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -49,7 +49,7 @@
   },
   {
    "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGhaNF9xb1JDQzJjaHRfbFAxbm92TEZ3b242UVB3TGpESkIyNi1sZjZ2Z3RqN3E5ZnNpYVgyNjRhMlpRN0NVQjNlNHVadS02VlQ1UnBKeVRKQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HNjJBaVhKT1B6V3RiNWtlQmk4dXE5dWE5aE9acEFreDJRQUJhOXcyMHlvN1ZpSy16UXpJRWtXa3hlbEpEN1hOY3ExRldwdGpsSEtEc3QtRTJtbkFkZHVLenNzN2ljOHc?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 19:15",
@@ -70,6 +70,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 18:47",
    "published_iso": "2026-08-24T09:47:46+00:00"
+  },
+  {
+   "title": "特定技能外国人を虐待か「日本は安全と信じていたのに…」暴言・暴力・セクハラが横行する農業法人から脱出したミャンマー人、専門家「あり得ない」北海道京極町 | 北海道のニュース｜HBC北海道放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16YWFEZE1BVHR2Wm96VG1FVVlLQk12TWRNWTBNaVFSa0RKakRabWQ3Szk3Tl92VzdFRDUzWWJLdVl0TUdUSEJtcDNUTHRTbU41X2M1dFJRM2RxREJjejNyYlhFS0hiR1U?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 18:45",
+   "published_iso": "2026-08-24T09:45:00+00:00"
   },
   {
    "title": "外国人不法就労通報に報奨金 茨城の農地に広がる困惑 「フホーに頼るしか」＜岐路の多様性＞",
@@ -384,26 +392,18 @@
    "published_iso": "2026-08-22T10:18:01+00:00"
   },
   {
-   "title": "クマに襲われ外国人男性けが 右腕かまれ…青森・十和田市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UWWt3Vndxd2JJMDk1cWNYU2pIYTZHcDBYV0ZDeEs0ODVVVVBnTGRmN2FRTzhfX0IyNGJPTkNXTmJRR21SOEVmX0pDMnp1NkJKNHdaYVZUVzU3cHdTa1VudVJFc09BczljcUFsN3g2MDJlQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-22 18:18",
-   "published_iso": "2026-08-22T09:18:06+00:00"
+   "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMnViMDFfZXBrQ0Y2b052cGQ4a09XUXlybDZrdnF5RDlhRVVOcDU5aloyRDRxcmpjM3FTYUVvRTJqdmdnaU1pM3NzWS1pN0NiODR3T3JWSHpOMnpMZ3RrWHpzWTJYRHpVTWY3QWVHOGFOZDhKX0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-22 16:20",
+   "published_iso": "2026-08-22T07:20:39+00:00"
   },
   {
    "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdWUtd1V5NloxcC1XU2t1TFBuZGY0Q3B3SjJYd1BLQzd5OFREaGF5blFZdW1YOWdGMzlnX0drcHRsWVpjNmNvSFVQUkJvbUdRTTNMZDJabjQ5NGh5dUVaeWxaUUJTd1k?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
-   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
   }
