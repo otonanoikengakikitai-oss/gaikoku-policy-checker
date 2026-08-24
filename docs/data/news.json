@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T03:00:21+00:00",
+ "generated_at": "2026-08-24T04:40:56+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuU05iNlRVeVNDZVJ4aEFBY19sSlgwVTd2VEdtMnVwNUViY0haY29IWUs2TXAtZFd2SE9JWk1RajREcnNMdnowU0tvOVdJWE5wcGI3TVJUak5wVGJyUlFYamVIQ3IyV21oTUFTUVJ0OWpWQkJqRFZyZ3dB?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-24 12:48",
+   "published_iso": "2026-08-24T03:48:26+00:00"
+  },
+  {
+   "title": "「多国籍モーニング」ピンチ 外国人政策厳格化で飲食店の先行きに不安",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xYTFWcVdTSm96LWdSNW5zS0hUcml3VzZoQW5hN0lYeW1seHphY1NHMDFEZ2RYZ3hhTHNEYVNGTWRmcE04bzRGZTZPb3ZwYXRQY0xPSy1Ib201eGNoalBWUEEzZ1Vkd2JYMWpoOThYNXpDNVU?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-24 12:41",
+   "published_iso": "2026-08-24T03:41:00+00:00"
+  },
+  {
+   "title": "トランプ政権の政策 75か国対象・移民ビザ発給手続き停止は無効 ニューヨーク連邦地裁",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDM5SEwzTU5mdDV5c3pUT0xZa1pOVDlLQi1lampTWGowWGFoRG9uNUZTQ3FNTUlNM0xPZVpldEtzOFF5MkR5cWpqX1RHdmlWa2d4V3N6WWNuZld3Y2VTTWZmZWJaMFBjUFAyVEh5NWF4dW9tNU1oRHdCYW9sbEVJMWtESC0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-24 12:02",
+   "published_iso": "2026-08-24T03:02:01+00:00"
+  },
+  {
+   "title": "農業法人で働く特定技能外国人のミャンマー人男性 暴行受けたなどとして実質的運営者とみられる町議らを刑事告訴 北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42TVotbjJ6enc1M3pzWldFZXI3VzYyVnh3T1Q4LUhYdzlLZzliVTZ1NV9OQkwwUlhySXNjdDAwazJRVkZ1WmRsemp3dGh4THZCcHNPVUNqMjhUUHNKRlRlbTBZeWY?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 11:50",
+   "published_iso": "2026-08-24T02:50:00+00:00"
+  },
   {
    "title": "トランプ政権の移民ビザ発給停止は「無効」、ＮＹ連邦地裁が判決…７５か国対象・「一律に拒否」問題視",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZU1dIVkJrWEt4emFTTC1HbHNWX0J2ZjhrN1ZVUzJpT2hpakt2dVFTOHZ5TjB5SXluZk9keWt0Y3FEN2ZmMS1uc1JwVmJjRFhwcTZYWC1TM0FqSXEwZ0pkQzFB?oc=5",
@@ -38,6 +70,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-24 06:10",
    "published_iso": "2026-08-23T21:10:00+00:00"
+  },
+  {
+   "title": "茨城・下妻市、同時翻訳機を導入 外国人相談窓口も設置",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04WUFiMi1VSi1EWEhEUHBrbE16NzI4ZldpZTVDZk5LWnpiNV8zVHpfaUZsVV9KTFM3OTJEd3p3Q3NDT25KOTFFcHBWTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-24 06:00",
+   "published_iso": "2026-08-23T21:00:00+00:00"
   },
   {
    "title": "親子連れと外国人留学生が交流 滋賀県草津市で「多文化共生」学ぶワークショップ",
@@ -96,7 +136,7 @@
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
   {
-   "title": "大阪・高槻市、居場所づくりでにぎわい 地域共生社会のモデル空間",
+   "title": "大阪・高槻に「みんなの居場所」 市がにぎわい施設、共生社会先駆け",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZlVtSThBMWNzQi1PTnR5Ym5walJEVUtHZzlna2tINk10dWNsZWVRUElDSTBNTVFaN3VZRXpZc3NUUFpmWk1YQlBseTlnODZRMGlWZGJNVklNRUpBR2tfcVl4UlVwV20zRTBuaw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -142,6 +182,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-23 18:00",
    "published_iso": "2026-08-23T09:00:43+00:00"
+  },
+  {
+   "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53cVhpVFI5ZHE3ZmI3ODNPWXdlNGJJMjZ0VHNKLXJST0MtdHhxNGNNS3FORy1hRGpTYmplMFNqOUo2UHZoUldIY3Bpbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-23 17:53",
+   "published_iso": "2026-08-23T08:53:00+00:00"
   },
   {
    "title": "在留外国人の「日本語学習プログラム」検討へ各国の事例は？ 入管庁が10カ国・地域調査 「移民」と日本人",
@@ -232,14 +280,6 @@
    "published_iso": "2026-08-22T09:18:06+00:00"
   },
   {
-   "title": "ランウエー彩る民族衣装 東広島でイベント 留学生と児童たち交流【多文化共生のまち 芸南賀茂】",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mMmJOaWg0VzJVMDl1ZTY3Y1d1cUk2R0dxM0lpd3ZzZVJuM0tkMWZNN0VvbGo2S2lFc0RlazNGWFVHNVVoeHlKT1JOcw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-22 17:19",
-   "published_iso": "2026-08-22T08:19:00+00:00"
-  },
-  {
    "title": "外国人観光客がクマに腕かまれる ヘリで搬送、意識あり 青森・十和田湖望む展望台付近",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xMnViMDFfZXBrQ0Y2b052cGQ4a09XUXlybDZrdnF5RDlhRVVOcDU5aloyRDRxcmpjM3FTYUVvRTJqdmdnaU1pM3NzWS1pN0NiODR3T3JWSHpOMnpMZ3RrWHpzWTJYRHpVTWY3QWVHOGFOZDhKX0E?oc=5",
    "source": "産経ニュース",
@@ -254,6 +294,14 @@
    "source_domain": "nippon.com",
    "published": "2026-08-22 16:03",
    "published_iso": "2026-08-22T07:03:37+00:00"
+  },
+  {
+   "title": "【速報】青森で外国人観光客がクマに襲われ搬送",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GWW9ac3E4RFVqX2RPQ0FkZzZlQ29ENzlqTzV5ZWZTNHVhalJqQkE3d3RWU0VhaHlvZDliS0d5Q1FhSVpwNDRKYk9mdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-22 16:02",
+   "published_iso": "2026-08-22T07:02:52+00:00"
   },
   {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
@@ -344,14 +392,6 @@
    "published_iso": "2026-08-21T17:00:00+00:00"
   },
   {
-   "title": "セウタに移民用シェルター開設 不法移民問題で子ども約2000人残留 路上や海岸で野宿",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRkhoWU1ETkxVUUdWd0FXYTdPWldyRHh5MHZRZUlPcVlFUVBycFZycWF0TGJXMHNNbFB0YUV0YXd1elFDN0VZbHJtelpRSGtZRy15Ym5uRThyWVIyRzRfX2ZFZG1YZmx2VlNfTTI0eWttSF9tZ1FsQm9R?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 22:18",
-   "published_iso": "2026-08-21T13:18:17+00:00"
-  },
-  {
    "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wblRzeHJhSTRMSEtiZlZONVJtNDVGQ25BUzVQRFlGUXVETlJwTnNhQ3A2T2FrRnVZa3dUMFlVX1dmTnkzQlNmTXNYSnd0QQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -366,46 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-21 18:49",
    "published_iso": "2026-08-21T09:49:31+00:00"
-  },
-  {
-   "title": "群馬県が多文化共生･共創推進会議 次期基本計画の骨子案など審議",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSjlSNDAyTzExVkNreVVOTElIVEFOZ2xTZndJSnNmUlJqZE9jSmF5aURYaWJ3eTY1a2R6NTB5UFItZkp4dkpPUTVRZXdWcGgzaVQyR0hFWjBkcjhKaEI0QXIzRmhZdHlxMUg1RQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 18:30",
-   "published_iso": "2026-08-21T09:30:00+00:00"
-  },
-  {
-   "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-21 16:58",
-   "published_iso": "2026-08-21T07:58:00+00:00"
-  },
-  {
-   "title": "特定技能外国人を虐待か 北海道の農場、6人保護",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lNURXUHlYbm1QYlJxRmtIRUh0amQtLTEzS01Md1RCWUNBdWhrdHc0b2d3SVBFU0Y5dXQ5MF9oOW5zVzlkaTk3UEhpWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-21 16:10",
-   "published_iso": "2026-08-21T07:10:46+00:00"
-  },
-  {
-   "title": "ベテラン町議が実質的経営者か 「特定技能」外国人への暴力疑惑",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yalJEbENNd2w3Tk16YUpYMmFvLU1fNnhwMlhBTEVvTDN4QkF1cEJKUC11SThha1M5ZWZCMGdJenhJdWR6UTlPLVh6amNrRTkxdXJ0YzNCQW8xZHBHU0tGbWEwMVJMUkVN?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-21 15:38",
-   "published_iso": "2026-08-21T06:38:24+00:00"
-  },
-  {
-   "title": "日常的に暴行や虐待か “特定技能”ミャンマー人労働者6人を保護 北海道",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzUno2akNoNHpRUzNXb1FVSHIwWEJaS2NvOHRuRXYxOWVvUUdVMkVjb1pDeEJVSmJTTndUVWI3c21hRXQtMENRazl1QldHd0VtalB1ZkdpWUs2eVZJQy1jeE5BbFc1VmNXdVlZMGNObVhJUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 14:08",
-   "published_iso": "2026-08-21T05:08:30+00:00"
   }
  ]
 }
