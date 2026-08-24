@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T06:52:24+00:00",
+ "generated_at": "2026-08-24T07:55:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "＜ひょうごきり絵探訪 前田尋＞神戸・海外移住と文化の交流センター 日系移民の苦難 心に刻んで",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RNEdIZkdpdm9Xb1dkTy12OUJvRjUxVkpWVVRoVDdSOFlmOW1nbG05MWJXbklnSTUzenpCU3IzY3QtWXZpNXJZN0hxOVUtcTQtUllzNy1zS1hiRVNIUmtpYmpuTEZNWXhHX1UyeWphaFdIeDg?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-08-24 16:00",
+   "published_iso": "2026-08-24T07:00:00+00:00"
+  },
+  {
+   "title": "難民選手団が出場へ＝愛知・名古屋アジア大会",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRVFsMzlzY2dQYmVNdDlHVmt0RzJ2SzJUT3BSMldGUFV2UnRnSk9Cc1BJcko2VmNPOWhWRm9MeEh4S1VMVm5YSWNzejRkZnlQU05tVQ?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-08-24 15:58",
+   "published_iso": "2026-08-24T06:58:00+00:00"
+  },
   {
    "title": "【城西国際大学】2026年度秋季JIU日本語教育研究会を9月5日に開催",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncDNTaXJCSXlQOWFEVkRzcTVFTmU0d3NTcWw5Wl9oSXFOYUJxNDFwX29NSE1fOEs4aDZzS2p2WmtEaXdNR2NXZHRXWjI0U1RIVEVNT2w4Qy1vWXl6MFNicTBjTklUTVB0aFRF?oc=5",
@@ -73,9 +89,9 @@
   },
   {
    "title": "【外国人被災者】情報過疎、支援課題に 対応限界、事前の連携重要",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3TDE5NklEYk1qSGg5TGFGUlZ2c19EWGpIR2xhZUg3YUJrODJlZFNHTzR5ajd0Vkw3dlpPMFZaaWw1VlpHN1ItejBIOXMtd2F6UUE2bW5MQ25KNGl0TTdSM0diZWlscUR3cWRV?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbXlZNFRyWWFWVmxyQnNTX3lRempEdHpvQWRXdnZKV19fZzR1dW9QcGUwaGJlSVRlMUJ2UE51TmpDQzFOdElrOGx1dU9EbG1PcE1TZUtn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
    "published": "2026-08-24 10:16",
    "published_iso": "2026-08-24T01:16:08+00:00"
   },
@@ -102,14 +118,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-24 06:10",
    "published_iso": "2026-08-23T21:10:00+00:00"
-  },
-  {
-   "title": "茨城・下妻市、同時翻訳機を導入 外国人相談窓口も設置",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04WUFiMi1VSi1EWEhEUHBrbE16NzI4ZldpZTVDZk5LWnpiNV8zVHpfaUZsVV9KTFM3OTJEd3p3Q3NDT25KOTFFcHBWTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-24 06:00",
-   "published_iso": "2026-08-23T21:00:00+00:00"
   },
   {
    "title": "親子連れと外国人留学生が交流 滋賀県草津市で「多文化共生」学ぶワークショップ",
@@ -312,6 +320,14 @@
    "published_iso": "2026-08-22T07:03:37+00:00"
   },
   {
+   "title": "【速報】青森で外国人観光客がクマに襲われ搬送",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GWW9ac3E4RFVqX2RPQ0FkZzZlQ29ENzlqTzV5ZWZTNHVhalJqQkE3d3RWU0VhaHlvZDliS0d5Q1FhSVpwNDRKYk9mdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-22 16:02",
+   "published_iso": "2026-08-22T07:02:52+00:00"
+  },
+  {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
    "source": "読売新聞",
@@ -390,22 +406,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-21 21:30",
    "published_iso": "2026-08-21T12:30:00+00:00"
-  },
-  {
-   "title": "「恐怖の中で…」 特定技能外国人が農場で受けた暴言、暴力",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xa0M2NG5DQ2Z4aC01MTdvMmd1ZlIyQ3BReWIwX0NpWkpqVnJoeTktbWIzRVJnVDZjV2dwSGZLckstUVR3NHpZN0xQMjNqN3kzbU5abGwwS1R2Q1ppbmVQcEd0d09CYmYz?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-21 18:49",
-   "published_iso": "2026-08-21T09:49:31+00:00"
-  },
-  {
-   "title": "群馬県が多文化共生･共創推進会議 次期基本計画の骨子案など審議",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zSjlSNDAyTzExVkNreVVOTElIVEFOZ2xTZndJSnNmUlJqZE9jSmF5aURYaWJ3eTY1a2R6NTB5UFItZkp4dkpPUTVRZXdWcGgzaVQyR0hFWjBkcjhKaEI0QXIzRmhZdHlxMUg1RQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-21 18:30",
-   "published_iso": "2026-08-21T09:30:00+00:00"
   }
  ]
 }
