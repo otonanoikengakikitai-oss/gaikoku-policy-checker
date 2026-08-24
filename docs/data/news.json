@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T09:43:08+00:00",
+ "generated_at": "2026-08-24T10:34:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「倒壊」はどう言い換える？ 熊本地震でも被災外国人らを支えた「やさしい日本語」の底力",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtR291U0RmRHhrTGFuQkNHUTR1SEZVd0lSNEFJRGZrSGZfYlZXX0l5QWswZFN0dXNrbGw1SWJnNWZwTG84bEQ2S1RDM0E2bUFJczRrOTJoUThCQjZQVmdyekNzUVhnRTJFMkJxMWVWckd5NEFLTlE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-24 19:30",
+   "published_iso": "2026-08-24T10:30:00+00:00"
+  },
+  {
+   "title": "みやぎ生協が「買い物難民」を支援 自宅と仙台・桜ケ丘店を無料送迎する「つなぐ号」の運行開始",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMmh0aGNVTUdtZFdPY0NXSFpIZ3l3cWdtamdQSjRvM2ItX2ttZFozSzBCVlYxeFhJdkR2aE8zX19OS3Ryemx2aXVEWWlOLVcwMWlYTHkzR2ZLdzBwV29lVg?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-08-24 19:15",
+   "published_iso": "2026-08-24T10:15:00+00:00"
+  },
+  {
+   "title": "外国人男性がクマに襲われケガ 食用カモやニワトリ、ペットのヤギも被害に “夏クマ”全国各地で出没相次ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KUTNiQWFzWFRFOGZtN3l1YXdaXzZ3azFud24wZm12WTJZNHQzY0lQRkdMRDF1TmZvWjJZTGFZSWZIVXRXaWhuaDlhak81UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-24 19:02",
+   "published_iso": "2026-08-24T10:02:00+00:00"
+  },
+  {
+   "title": "アジア大会に難民選手団派遣 OCAが発表",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtODZselVxUURyQWl6b08wVDFpRFNPTk9tdFg0UkFOOGdrOTZWa25pS01QZENfS1pKa3lRQnF4YmRsdzlnMy1sbmxrejl3NV8yMWdyTw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-24 18:47",
+   "published_iso": "2026-08-24T09:47:46+00:00"
+  },
+  {
+   "title": "特定技能外国人を虐待か「日本は安全と信じていたのに…」暴言・暴力・セクハラが横行する農業法人から脱出したミャンマー人、専門家「あり得ない」北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBROFNfQkszYXA2eldmTldtempmd211TGRXcVpsT3ExVGI4al9qVXlmcml1MDgwZFZmaW1qMXpSeWxuaWZTMURfSUhUS0cyT2NjYWtWdEtYUEtGRmZPOUNaQ2xuWUY?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 18:45",
+   "published_iso": "2026-08-24T09:45:00+00:00"
+  },
+  {
+   "title": "外国人不法就労通報に報奨金 茨城の農地に広がる困惑 「フホーに頼るしか」＜岐路の多様性＞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0TU9CMzNxemF0OVZBQkM4YWR3UmdmRFp6TEtabFJIYnc3a0EtSmt5Y3RyUEpTdW1sVEZsbi1sV0Z2TmtVZUQtS25jMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-24 18:27",
+   "published_iso": "2026-08-24T09:27:37+00:00"
+  },
   {
    "title": "特定技能のミャンマー人が暴行被害訴え 農場関係者2人を刑事告訴 北海道・京極町",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HSUlkSjNNZjk2N2psVjRXQVpCMFZCU3R1VkFjeUl0ZDUxVDhqd1Z1SHVyN0Q2OE90bG9wY1RDX3Y1a0J0Z0VrZU1UejRnZw?oc=5",
@@ -16,12 +64,12 @@
    "published_iso": "2026-08-24T08:47:00+00:00"
   },
   {
-   "title": "日本語で観光調査報告 浜松市で外国人受講生が学習成果発表",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BZ0VLT3gxUkZJVGhwbkI2TWJzTm1qdno5VjlXbHhqTkNjeFNoSXROMmExaXJfZkh2anVNZUF3NHpVaXhLRGY4c2EyZw?oc=5",
+   "title": "宮島山岳救助にアシストスーツ 大きな外国人も搬送しやすく 廿日市・弥山救助高止まり",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MQzBHMkZNZHBYMmpzZl9rSTlINll5MHZiUWtOdHNmY2JGTUtQOW43NGUxWEpTc0g5UVY3MlJMY1VuY0luY3BNVGU4NA?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-08-24 17:46",
-   "published_iso": "2026-08-24T08:46:29+00:00"
+   "published": "2026-08-24 17:12",
+   "published_iso": "2026-08-24T08:12:00+00:00"
   },
   {
    "title": "郷土の開拓移民の記憶伝えねば 岐阜県内で「黒川の女たち」自主上映広がる",
@@ -30,14 +78,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 17:01",
    "published_iso": "2026-08-24T08:01:33+00:00"
-  },
-  {
-   "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuU05iNlRVeVNDZVJ4aEFBY19sSlgwVTd2VEdtMnVwNUViY0haY29IWUs2TXAtZFd2SE9JWk1RajREcnNMdnowU0tvOVdJWE5wcGI3TVJUak5wVGJyUlFYamVIQ3IyV21oTUFTUVJ0OWpWQkJqRFZyZ3dB?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-24 16:49",
-   "published_iso": "2026-08-24T07:49:14+00:00"
   },
   {
    "title": "＜ひょうごきり絵探訪 前田尋＞神戸・海外移住と文化の交流センター 日系移民の苦難 心に刻んで",
@@ -72,6 +112,14 @@
    "published_iso": "2026-08-24T04:38:00+00:00"
   },
   {
+   "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuU05iNlRVeVNDZVJ4aEFBY19sSlgwVTd2VEdtMnVwNUViY0haY29IWUs2TXAtZFd2SE9JWk1RajREcnNMdnowU0tvOVdJWE5wcGI3TVJUak5wVGJyUlFYamVIQ3IyV21oTUFTUVJ0OWpWQkJqRFZyZ3dB?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-24 12:48",
+   "published_iso": "2026-08-24T03:48:26+00:00"
+  },
+  {
    "title": "「多国籍モーニング」ピンチ 外国人政策厳格化で飲食店の先行きに不安",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xYTFWcVdTSm96LWdSNW5zS0hUcml3VzZoQW5hN0lYeW1seHphY1NHMDFEZ2RYZ3hhTHNEYVNGTWRmcE04bzRGZTZPb3ZwYXRQY0xPSy1Ib201eGNoalBWUEEzZ1Vkd2JYMWpoOThYNXpDNVU?oc=5",
    "source": "テレ朝NEWS",
@@ -97,9 +145,9 @@
   },
   {
    "title": "【外国人被災者】情報過疎、支援課題に 対応限界、事前の連携重要",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lbXlZNFRyWWFWVmxyQnNTX3lRempEdHpvQWRXdnZKV19fZzR1dW9QcGUwaGJlSVRlMUJ2UE51TmpDQzFOdElrOGx1dU9EbG1PcE1TZUtn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3TDE5NklEYk1qSGg5TGFGUlZ2c19EWGpIR2xhZUg3YUJrODJlZFNHTzR5ajd0Vkw3dlpPMFZaaWw1VlpHN1ItejBIOXMtd2F6UUE2bW5MQ25KNGl0TTdSM0diZWlscUR3cWRV?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
    "published": "2026-08-24 10:16",
    "published_iso": "2026-08-24T01:16:08+00:00"
   },
@@ -142,6 +190,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 05:10",
    "published_iso": "2026-08-23T20:10:00+00:00"
+  },
+  {
+   "title": "日本語で観光調査報告 浜松市で外国人受講生が学習成果発表",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BZ0VLT3gxUkZJVGhwbkI2TWJzTm1qdno5VjlXbHhqTkNjeFNoSXROMmExaXJfZkh2anVNZUF3NHpVaXhLRGY4c2EyZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-24 05:05",
+   "published_iso": "2026-08-23T20:05:00+00:00"
   },
   {
    "title": "クマ対策からサクラ害虫防除まで 実質外国人が負担、出国税の増税分 [外国人][高市早苗首相 自民党総裁]",
@@ -320,14 +376,6 @@
    "published_iso": "2026-08-22T07:20:39+00:00"
   },
   {
-   "title": "青森で外国人観光客がクマに襲われ搬送",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqUlRrLTJlVjQzNG1YVENaTnprbW9laDNiR1FfMDJfRnRKT0diZjNMSnlhS3k5Z09Zd2txNW52bTJNb0tsVU5MbjVYc1A2a0NxaEFfWFVfbXBoZDF1VEdwT1JXTQ?oc=5",
-   "source": "nippon.com",
-   "source_domain": "nippon.com",
-   "published": "2026-08-22 16:03",
-   "published_iso": "2026-08-22T07:03:37+00:00"
-  },
-  {
    "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
    "source": "読売新聞",
@@ -358,54 +406,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-22 05:00",
    "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
-   "title": "「特定技能」の外国人、虐待か ミャンマー国籍６人、会見 北海道",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQmtFTlF2d3QxNU50LWZ0R3NWWE9PUlYydHpkQ2U0RHI3cjI2ZEVacGFUNUZxU3JYMUNoaGJiV0tueWJiNE1JeDRNd182WlhMRDVBRHBUdHZKVGds?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
-   "title": "北海道：農場で外国人労働者虐待か 京極 ６人保護、１人告訴方針：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Hd3BZSS1mNGJVTGY2WjFNZlk3N1NoUF93QUFFdVNjOXQ4NzVxdEtzVEotRlhuVFZfZmpqakxOSl9STUxSMTBBQWp0SE14bGI2S0FsWTRFQmFkWWtQRF9PRkk3cldWbzZYU2NCUXVNZmpHOEFo?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
-   "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-22 02:00",
-   "published_iso": "2026-08-21T17:00:00+00:00"
-  },
-  {
-   "title": "セウタに移民用シェルター開設 不法移民問題で子ども約2000人残留 路上や海岸で野宿",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRkhoWU1ETkxVUUdWd0FXYTdPWldyRHh5MHZRZUlPcVlFUVBycFZycWF0TGJXMHNNbFB0YUV0YXd1elFDN0VZbHJtelpRSGtZRy15Ym5uRThyWVIyRzRfX2ZFZG1YZmx2VlNfTTI0eWttSF9tZ1FsQm9R?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-21 22:18",
-   "published_iso": "2026-08-21T13:18:17+00:00"
-  },
-  {
-   "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wblRzeHJhSTRMSEtiZlZONVJtNDVGQ25BUzVQRFlGUXVETlJwTnNhQ3A2T2FrRnVZa3dUMFlVX1dmTnkzQlNmTXNYSnd0QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-21 21:30",
-   "published_iso": "2026-08-21T12:30:00+00:00"
-  },
-  {
-   "title": "「恐怖の中で…」 特定技能外国人が農場で受けた暴言、暴力",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xa0M2NG5DQ2Z4aC01MTdvMmd1ZlIyQ3BReWIwX0NpWkpqVnJoeTktbWIzRVJnVDZjV2dwSGZLckstUVR3NHpZN0xQMjNqN3kzbU5abGwwS1R2Q1ppbmVQcEd0d09CYmYz?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-21 18:49",
-   "published_iso": "2026-08-21T09:49:31+00:00"
   }
  ]
 }
