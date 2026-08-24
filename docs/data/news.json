@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T05:35:41+00:00",
+ "generated_at": "2026-08-24T06:52:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "【城西国際大学】2026年度秋季JIU日本語教育研究会を9月5日に開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ncDNTaXJCSXlQOWFEVkRzcTVFTmU0d3NTcWw5Wl9oSXFOYUJxNDFwX29NSE1fOEs4aDZzS2p2WmtEaXdNR2NXZHRXWjI0U1RIVEVNT2w4Qy1vWXl6MFNicTBjTklUTVB0aFRF?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-24 15:16",
+   "published_iso": "2026-08-24T06:16:00+00:00"
+  },
+  {
    "title": "日産の新型エルグランドがUberプレミアムで運行開始 外国人観光客向けに上質な車両を提供",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16WmF4TndZejRzanFIQk9hV1o4ZFcxU2MyOFZoWlg1MDUzS2gydkhDdG9TUEFPdmlrQl90aEJvbVhYUElwenZnZXJLZUZHUQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-24 13:38",
    "published_iso": "2026-08-24T04:38:00+00:00"
+  },
+  {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［山形編］1位は「ダイワロイネットホテル 山形駅前」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UY0ZYMm1OY2tzdy13RjlhSDNodmxsZjlGRHRBX3VZVVYyQWxtenFLT3lqUmZ3OWxQaEJXdTlLbVNWMlBoMG83NmtjOFBBX0d2YU5XQXdRX1k2M3B5TUhSMW5WQWRSTFhXUHVRRDlMbW0wQm9OWVBqbDFxQQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-24 13:00",
+   "published_iso": "2026-08-24T04:00:00+00:00"
   },
   {
    "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
@@ -62,6 +78,14 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-24 10:16",
    "published_iso": "2026-08-24T01:16:08+00:00"
+  },
+  {
+   "title": "イスラエル軍の空爆で4歳男児含む2人死亡 ガザ中部の建物や難民キャンプを攻撃 「ガザからドローン飛来なら攻撃強化」と警告",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JM3dWRnFtaXBnb2hYNG1qMmMwZHU0S09KNGtsWERCNThUY1dpWmZVOUhBMDRKakgtY1dzREVnbUFZMEp4ZkJzV0h5TERUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-24 08:33",
+   "published_iso": "2026-08-23T23:33:00+00:00"
   },
   {
    "title": "米 移民ビザ発給停止措置 連邦地裁が取り消し",
@@ -160,14 +184,6 @@
    "published_iso": "2026-08-23T19:04:00+00:00"
   },
   {
-   "title": "共和牙城で接戦、民主候補が風穴 米中間選テキサス 移民・移住増が影響",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VnNkUTRnY2lzM3g3blR4VXpScjJTelZjZnZTQWFIcGtrcUdmMHdjTTZ4bGNNWko5c3pIUTVvT1Rqc3p6N05oUXd1RU9oeEJpLWxfWmxqTThHV3pZODNFeGE5aG9UTmswMERybw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-24 02:00",
-   "published_iso": "2026-08-23T17:00:00+00:00"
-  },
-  {
    "title": "「権限越えている」米地裁、トランプ米政権による75カ国の移民ビザ停止は無効との判決",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aTnVYd1Q1ZlNtWV9uNWI5YnE1c2RweW1Qa2ZaTTFKVDk4NlFVbzJESnlnSFFGdmRxV0N4NWNTLS1IU2RSZlZiOEpLVVU2emFYUnNsd2NYQk9jOWxqeFpGRWc0SERPc1lfT0duZkFmeHlTUU1MWkE?oc=5",
    "source": "産経ニュース",
@@ -190,14 +206,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-23 18:00",
    "published_iso": "2026-08-23T09:00:43+00:00"
-  },
-  {
-   "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53cVhpVFI5ZHE3ZmI3ODNPWXdlNGJJMjZ0VHNKLXJST0MtdHhxNGNNS3FORy1hRGpTYmplMFNqOUo2UHZoUldIY3Bpbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-23 17:53",
-   "published_iso": "2026-08-23T08:53:00+00:00"
   },
   {
    "title": "在留外国人の「日本語学習プログラム」検討へ各国の事例は？ 入管庁が10カ国・地域調査 「移民」と日本人",
@@ -304,12 +312,20 @@
    "published_iso": "2026-08-22T07:03:37+00:00"
   },
   {
-   "title": "日本語学校で無資格教員が授業 入管立ち入り",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pVWNBRmFnOGk1bDNhRmE4OHZnVEUya1FCdk13ZGpUWVRhWWEza0d4QnFYclozbkNOOEt2ZVlkdjZ5SzFudXRTYXNiM2RfcmVWMWZrNnNoTnlnRUlueW1SR0EwSnJwMVk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-22 10:00",
-   "published_iso": "2026-08-22T01:00:00+00:00"
+   "title": "青森・十和田湖畔で外国人男性がクマに襲われ右腕かまれる…ドクターヘリで搬送、命に別状なし",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96ZXItbWliTmJXRWxydlJJaS1TOTZCRUFGRFJQcjNjZkVXMXI5SC1Yam9ESmRjRVh1TFJiRk45LXhJWUZ5eDM0enVySXFtZWR1M1BWS21XYmpmTHNlRm5RbjFZbXU1dw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 14:37",
+   "published_iso": "2026-08-22T05:37:00+00:00"
+  },
+  {
+   "title": "【動画】富士山「弾丸登山なくなった」 多い外国人 軽装注意され靴レンタル、ロープ外で中国国旗",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlRXViY1YzYXNZa0xERWhnMTVVOE0yUE9WYzF5cVFQeTJxSkVjX3Q0aU94WEY3U3pkS2c3YU1EOEhLd3VzVGNpcHRRd2JLbklNd1lKR1gxWDZvQ05VWUdLbUNHLS16ZXUzakRsU1VQY3hlNlVkMUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-22 10:30",
+   "published_iso": "2026-08-22T01:30:00+00:00"
   },
   {
    "title": "ひょうごクロニクル＞(33)1932～45 満蒙開拓団 国策移民、集団自決の悲劇|リッチページA",
@@ -320,8 +336,24 @@
    "published_iso": "2026-08-22T01:00:00+00:00"
   },
   {
+   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
    "title": "日本語学校で無資格教員5人が授業 入管が立ち入り調査、改善指導",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HdWUtd1V5NloxcC1XU2t1TFBuZGY0Q3B3SjJYd1BLQzd5OFREaGF5blFZdW1YOWdGMzlnX0drcHRsWVpjNmNvSFVQUkJvbUdRTTNMZDJabjQ5NGh5dUVaeWxaUUJTd1k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-22 05:00",
+   "published_iso": "2026-08-21T20:00:00+00:00"
+  },
+  {
+   "title": "日本語学校、20年で倍増 相次ぐトラブルで重視された「在留管理」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbWRWcl9jYjBRT1ViZ3NxZHB2QlpTLUMzZVEtNTYzbUVvSXVBWEVEa0xyaFdfbW84UEVrTDRGaVpIakVUd3RNNEgxZXJoN1VWeE9zVjF2dzhOOVhyU0lpeEY3bmdtaVU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-22 05:00",
@@ -336,14 +368,6 @@
    "published_iso": "2026-08-21T20:00:00+00:00"
   },
   {
-   "title": "在留外国人へ日本語集中指導、小中学校に「プレクラス」…文科省が自治体に費用支援へ",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWVptM0Y3THBnczBTSWs0N3ZKVnBmaDNacmVEY3FqdlhvYjlFSEhZTkRGdVB1N2daTTQzLWFTdWdhc3lzeVdWenVRZEFscHZyaDZYQWNOLWd1Z1ZQVS0zWEFfUWxNT1lkRGlzUjhXcWFLQUE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-22 05:00",
-   "published_iso": "2026-08-21T20:00:00+00:00"
-  },
-  {
    "title": "北海道：農場で外国人労働者虐待か 京極 ６人保護、１人告訴方針：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Hd3BZSS1mNGJVTGY2WjFNZlk3N1NoUF93QUFFdVNjOXQ4NzVxdEtzVEotRlhuVFZfZmpqakxOSl9STUxSMTBBQWp0SE14bGI2S0FsWTRFQmFkWWtQRF9PRkk3cldWbzZYU2NCUXVNZmpHOEFo?oc=5",
    "source": "読売新聞",
@@ -354,14 +378,6 @@
   {
    "title": "日本は「外国人」をどうみてきたか 排外主義を考えるための3冊",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXMEVXNGRWRWtXQmtIZUZvOExQbzFxb19EMEZhOENHVXpOcXU2bWVXU181ZU5UcWZ5S3RpdnNMMUs1SGRLQXdDN2l3V2YxbTNCV0luTU5VN0dEeXhVRlBsUl93SzMtS0dvM0Zfcw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-22 02:00",
-   "published_iso": "2026-08-21T17:00:00+00:00"
-  },
-  {
-   "title": "江戸期創業のしょうゆ蔵、外国人客を魅了 伝統の和食文化を体験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YMkxFOTgydmN4V1hhZlEtakQxLXoyS1oyV3FlX3N4TVlHQUQ0N0F5NllINm1oUG80RFk0OEMyREtZeGNobV8yaUpNSFlDU21JQmp6cnVhYUE3akRCRDdvUVkweXE5T0h1M05tVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-22 02:00",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-21 18:30",
    "published_iso": "2026-08-21T09:30:00+00:00"
-  },
-  {
-   "title": "日本人と交流望む外国人９４・８％、外国人住民増で「治安乱れる」７２・４％…共生意識の乖離浮き彫り",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RYlA4ckFnNTBBbXJnMEsxUkg3YWxmVnYtT0U1a0ZiMlZ4UGtzcm1JczhxR2lab1NacjN1WGN3U3V3ajZjMGhWMFdVZWhFVWxieUcyeTNzX1lpQ2NLamNVR2wycEZhZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-21 16:58",
-   "published_iso": "2026-08-21T07:58:00+00:00"
-  },
-  {
-   "title": "特定技能外国人を虐待か 北海道の農場、6人保護",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lNURXUHlYbm1QYlJxRmtIRUh0amQtLTEzS01Md1RCWUNBdWhrdHc0b2d3SVBFU0Y5dXQ5MF9oOW5zVzlkaTk3UEhpWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-21 16:10",
-   "published_iso": "2026-08-21T07:10:46+00:00"
   }
  ]
 }
