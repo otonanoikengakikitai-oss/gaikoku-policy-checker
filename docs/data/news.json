@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T22:22:35+00:00",
+ "generated_at": "2026-08-24T23:19:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -30,14 +30,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-25 05:00",
    "published_iso": "2026-08-24T20:00:00+00:00"
-  },
-  {
-   "title": "独州選で極右AfDが活動本格化 初の単独政権狙い世論調査では優勢 9月6日投開票",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzRjVxcTNoOTdGdUhHZXdsUXhUbURaZmdCYy1FZlQ4OGlMZ1hlaDVBOFFHVE1MZFZERlBqS3Zpeml2VXQ2SnRSTEQ5UEktS29Ka2pWS3dIX2RWRm9fcm9PdDZ6RndOUXZwdDBDU2w4amZDX1NlZF9yNVFB?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-24 23:00",
-   "published_iso": "2026-08-24T14:00:30+00:00"
   },
   {
    "title": "江田島の外国人が交通ルールと防災学ぶ【多文化共生のまち 芸南賀茂】",
@@ -89,7 +81,7 @@
   },
   {
    "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HNjJBaVhKT1B6V3RiNWtlQmk4dXE5dWE5aE9acEFreDJRQUJhOXcyMHlvN1ZpSy16UXpJRWtXa3hlbEpEN1hOY3ExRldwdGpsSEtEc3QtRTJtbkFkZHVLenNzN2ljOHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGhaNF9xb1JDQzJjaHRfbFAxbm92TEZ3b242UVB3TGpESkIyNi1sZjZ2Z3RqN3E5ZnNpYVgyNjRhMlpRN0NVQjNlNHVadS02VlQ1UnBKeVRKQQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 19:15",
@@ -146,7 +138,7 @@
   {
    "title": "＜ひょうごきり絵探訪 前田尋＞神戸・海外移住と文化の交流センター 日系移民の苦難 心に刻んで",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uTXpSNnlVTmxOTWVWSXJucUN1UkszUGs2SVhaNnFoR1dGMjVVeEt3ZVhjMHJvMnZQYnZaWVpaN0V5djQzN0pRcDNwNnNsSWN5WDBQWXZSM1F5X2xYZ0txaUJnMkpYMnFXYWlOWVIwOVBuZw?oc=5",
-   "source": "神戸新聞NEXT",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-08-24 16:00",
    "published_iso": "2026-08-24T07:00:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-23 05:00",
    "published_iso": "2026-08-22T20:00:00+00:00"
+  },
+  {
+   "title": "青森・十和田湖畔 外国人男性がクマに襲われケガ ドクターヘリで搬送（2026年8月22日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FVlJhak5VaXV5SXVXSlMxWTBQUXJldVBzX0VKcTJCZ01mbDM0b0R0Y1dBRWdIbEtYU0xZYU5zLVhja0VxeFVHM3dTMTliS3lnY2E5Rkg5OGlLOWVoVFdDaG9NZTdLbzFqQkFER0tJVFBncXgxb01GNHdNLWc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-23 00:53",
+   "published_iso": "2026-08-22T15:53:01+00:00"
   }
  ]
 }
