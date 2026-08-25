@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T18:35:26+00:00",
+ "generated_at": "2026-08-25T19:28:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "米政権が外国人20万人のビザ取り消しへ､過去最大規模-ホワイトハウス",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ha0VRMzBRd3lKSW9DX0hFcUt4NmhjTGI1YWRXcWxQQkduTFRfVG5yQ25JRWdGQ0p3LUdBdlJ1ZUh0d2ZwV1cyNjVSVzEteC1sa3NMVDR5MnRjd09obEJsSjNzZ3hPakJzRGxaTFdBd0Y2ZjF2?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-26 02:56",
-   "published_iso": "2026-08-25T17:56:37+00:00"
-  },
   {
    "title": "外国人の日本語学習や出入国DX…入管予算を倍増 法務省の概算要求",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzTVZfZnRaaWV0d3NNaHZwMGNISzVwdGtseVVMZWlUYzd2UGRrSGpRTkVhV2U2dkJicXZzMmNZZUYydUdwZTlmOWdhbnZMWkEwellRTjBZLXctSFlQSVhaRGNXajJPMEtwUDZNMg?oc=5",
@@ -78,6 +70,14 @@
    "source_domain": "kahoku.news",
    "published": "2026-08-25 15:33",
    "published_iso": "2026-08-25T06:33:27+00:00"
+  },
+  {
+   "title": "「外国人ってどんな人のこと？」「人を国や文化で悪く言う人がいたら？」―みんなで意見を出し合った",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXVfZmJNcEdPOS0tU1hzZzZUTk56NGRNQzlyeEtPbnVoaDdQcVJWVGlYenowbFd4QVJvQWVKR3hlZWVJRWR2Z1pkZGRjUmdscTlDM2R5NA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-25 15:13",
+   "published_iso": "2026-08-25T06:13:28+00:00"
   },
   {
    "title": "外国人の在留手数料大幅引き上げ 閣議決定 “困窮者”は減額も",
