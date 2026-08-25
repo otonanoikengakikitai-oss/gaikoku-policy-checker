@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T20:25:10+00:00",
+ "generated_at": "2026-08-25T21:24:53+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -64,14 +64,6 @@
    "published_iso": "2026-08-25T09:04:43+00:00"
   },
   {
-   "title": "東北楽天、外国人投手ヨナウィル・フロリモン・ロドリゲスと育成契約",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NTd5U182OTBtLUF5SzFhN19sYlllMFZfeC1neTdfTG1mWlh1Rlk1bE9TUFFjN3pjcnJxc0c4cXN2ZTdUdl8zSjE1azAwMXdVaDFzRk5XNnk5Q3V1eHZmXw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-25 17:32",
-   "published_iso": "2026-08-25T08:32:51+00:00"
-  },
-  {
    "title": "仙台市、「国際探究ラボ」12月開設 外国人児童・生徒に日本語指導",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51cGpDVFpEUGtmU3Jxa3kwQnkxU2tOWkxwaFVKc0Z4cGRIbk41MlFqSnA0YU5QdWxYVGc4SHFIN1d1SFZKd09FN1prYU5vbURJTldBajF2NkNnamh6YzlxTmF0VTBHMUhhNkdGSQ?oc=5",
    "source": "日本経済新聞",
@@ -126,14 +118,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-25 14:30",
    "published_iso": "2026-08-25T05:30:00+00:00"
-  },
-  {
-   "title": "採用取り止めが検討される外国籍公務員 経験者が実感した存在意義 [外国人政策 高市早苗総理 自民党][外国人]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmxLTkpMS0NScmlhRUFXQklXMDExZ1pvVFlmODRNXzVWVEJzbnk1TU1VaUxnTFR3OFV1ay1sZmRwUmVOWXBucFhkeEsxVG9GYm1kaTJEc1Q2dGZoYnhyaHRRaWVWbnZjSU14bEZnb3BVelZOM01Ta2pZUlAyUzJFLW5mXzdseUU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-25 13:00",
-   "published_iso": "2026-08-25T04:00:00+00:00"
   },
   {
    "title": "永住許可20万円、在留資格更新は最大7万5000円 政府が手数料上げ",
@@ -252,14 +236,6 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NURiUGgxNlpHRUd3V2lOdnBVejZjTFAxYWFMOU5IU3Fnb3pBWUc3VWZBRzd2TUdsaEpPNDJmSkhRVERwblEyRlhfREprdw?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
-   "published": "2026-08-24 20:00",
-   "published_iso": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "title": "笑顔広がる子ども食堂 ＮＰＯ法人ゆめみ～る、技能実習生も手伝い交流",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWXU2VTZEVy1iSlBqNnFoRzVITDdvWlpmanB5N0t4eGpOcktfMEg0WS13VWtLRnRmY3pTTjJPMDFXTWlueDkyNGI5SQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-08-24 20:00",
    "published_iso": "2026-08-24T11:00:00+00:00"
   },
@@ -406,6 +382,30 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 05:05",
    "published_iso": "2026-08-23T20:05:00+00:00"
+  },
+  {
+   "title": "クマ対策からサクラ害虫防除まで 実質外国人が負担、出国税の増税分 [外国人][高市早苗首相 自民党総裁]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yaF93QjU1dDN6MGVkTUhtenpyY2pJU0NQdmNJSWVFUENNcmdXMm52SEU0U01QTnlOcGxxcjE1NXFfRGpGQWl2WjNkaWpJbV8wRlRVdEhHelJqZjNIeVhJeEFnYlpoTms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-24 05:00",
+   "published_iso": "2026-08-23T20:00:00+00:00"
+  },
+  {
+   "title": "「運転手求む」AIでも外国人でも 瀬戸内海では世界初・自動運航船",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X1VPRTBoUmZ6UDZXdmpzR3FtdWU0cTNoVkhULVRjVE9LREhSQkxVVGlyYU1VU0ZTUTB2MWRwWEo5czdMUTRtQklVZjdDMmRlaTJ1MVhISmlFbkRnUWlmeDhWNFJRMHF3LUlNYg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-24 05:00",
+   "published_iso": "2026-08-23T20:00:00+00:00"
+  },
+  {
+   "title": "大阪・高槻に「みんなの居場所」 市がにぎわい施設、共生社会先駆け",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZlVtSThBMWNzQi1PTnR5Ym5walJEVUtHZzlna2tINk10dWNsZWVRUElDSTBNTVFaN3VZRXpZc3NUUFpmWk1YQlBseTlnODZRMGlWZGJNVklNRUpBR2tfcVl4UlVwV20zRTBuaw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-24 05:00",
+   "published_iso": "2026-08-23T20:00:00+00:00"
   }
  ]
 }
