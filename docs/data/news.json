@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T19:28:54+00:00",
+ "generated_at": "2026-08-25T20:25:10+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人世帯が７割超えの県営住宅でバーベキューイベント 「この団地を家族のようにしたいもんで」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTFZpOS01TjlTSXBRRzdsNFF0WExHUXlGa3dwX3VBcWF6LXpvWENSUUV5UGxWTHY3RExoM2c1VEh0T2owci1sbk94MGFNVnV1TklLRnRrbjJHd1lzM3FVeXF3?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-26 05:10",
+   "published_iso": "2026-08-25T20:10:00+00:00"
+  },
+  {
+   "title": "支援かビジネスか、はざまで苦悩 営業電話の受話器を握るたび「これでいいのか」",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GU0ZLODFteHVNelBBMUFmbjVaMlNrUGhiNVR4MFZVQmhhMDBIM2t1WHJCUVZaVTB2VzBKOGdnSS1LM1ljblZoSmtFY0MydEUwSm9maw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-26 05:10",
+   "published_iso": "2026-08-25T20:10:00+00:00"
+  },
+  {
+   "title": "米高技能ビザ 手数料上げ 外国人制限 １０万ドル超へ再表明",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MXdrWTZoWjVNNDZOYTBpdVZaNFlJdnVWLUpPS25taTNvbGRIQTdreFhBWDlIQi1hMTlYRFl6ZTFGbEJJMGJYTWNTSmhrcldPWEh0RG1DWHhpZjNxeHVHZVdYcw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-26 05:00",
+   "published_iso": "2026-08-25T20:00:00+00:00"
+  },
   {
    "title": "外国人の日本語学習や出入国DX…入管予算を倍増 法務省の概算要求",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzTVZfZnRaaWV0d3NNaHZwMGNISzVwdGtseVVMZWlUYzd2UGRrSGpRTkVhV2U2dkJicXZzMmNZZUYydUdwZTlmOWdhbnZMWkEwellRTjBZLXctSFlQSVhaRGNXajJPMEtwUDZNMg?oc=5",
@@ -22,6 +46,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-25 20:09",
    "published_iso": "2026-08-25T11:09:00+00:00"
+  },
+  {
+   "title": "「日本式」浸透きめ細かく、母国語・文化尊重もカギ◆コンビニ・外食支える外国人材、定着へ試行錯誤【ビジネスと人権Ⅱ－５】",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOT3RGaVhUM2xPczd2UGNmQmdSN0xoQVZDQjd2RlBIM0NsVTJMa05LOTBaWmFYRkJ2dmNnM2hRNDkzaTRBcTViU2pha2kzeUs4VTFVZk4xaWpIem52dk1XVEN5a05sSzFwcHM5TQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 18:30",
+   "published_iso": "2026-08-25T09:30:00+00:00"
   },
   {
    "title": "政府、入管行政を厳格化 ルール違反の放置に「危機感」 サイバーパトロールも導入 変わる外国人政策（上）",
@@ -152,12 +184,20 @@
    "published_iso": "2026-08-25T01:21:54+00:00"
   },
   {
+   "title": "在留手数料大幅値上げ10月から パブコメで変更なし 政府決定",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUk5qZjZycTBKQ2J6MkZZc2d4UHYteWc2WTJEdl9qRzl5SEFfbkxVZTg4MXZXeWt2YkhPVmhmNXNtSDlWd212Q2RSclBBMGZZTWRoUEd3UlNIMDMyY3RkR3QxYWpNN0ZF?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-25 10:13",
+   "published_iso": "2026-08-25T01:13:19+00:00"
+  },
+  {
    "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS2RtdjZOcm9udE9aMGVLYTB5U0tQaTNuSllQY2c2NDNrVURVUUh5dnpWUDBzNU93Y3dQbnNLS1A3TXZydmQ2c0Y4bnoyZmlRc0R3U1NxYVBNQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-25 09:24",
-   "published_iso": "2026-08-25T00:24:29+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQVJBS0o1WkdVTm9QTWZnME9LYzk0LTI5M3Fjd0ZIVFUxeUt1cWhPbXNzM3FSdWFDMXA5YndVMS0yS09EUktJb1lYQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-25 09:18",
+   "published_iso": "2026-08-25T00:18:33+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -190,14 +230,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-25 05:10",
    "published_iso": "2026-08-24T20:10:00+00:00"
-  },
-  {
-   "title": "高齢者、外国人、地域のみんなで盆踊り 仙台・東六夏まつり",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aY2tPaUZzM3kwc0dRaVpvaUJiYmlSYjFaVGxpREhHY3VFeXRZazRrbkVSSXoydjl6bE5TaHRGa3lfMTh3TkF4ZS02am1iT0xUY3ZaV1FJeGVxZlhSMkpYaQ?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-25 05:00",
-   "published_iso": "2026-08-24T20:00:00+00:00"
   },
   {
    "title": "移民ビザ停止「権限越え無効」 ７５か国対象 ＮＹ連邦地裁が判決",
@@ -374,38 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-24 05:05",
    "published_iso": "2026-08-23T20:05:00+00:00"
-  },
-  {
-   "title": "クマ対策からサクラ害虫防除まで 実質外国人が負担、出国税の増税分 [外国人][高市早苗首相 自民党総裁]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yaF93QjU1dDN6MGVkTUhtenpyY2pJU0NQdmNJSWVFUENNcmdXMm52SEU0U01QTnlOcGxxcjE1NXFfRGpGQWl2WjNkaWpJbV8wRlRVdEhHelJqZjNIeVhJeEFnYlpoTms?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "「運転手求む」AIでも外国人でも 瀬戸内海では世界初・自動運航船",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X1VPRTBoUmZ6UDZXdmpzR3FtdWU0cTNoVkhULVRjVE9LREhSQkxVVGlyYU1VU0ZTUTB2MWRwWEo5czdMUTRtQklVZjdDMmRlaTJ1MVhISmlFbkRnUWlmeDhWNFJRMHF3LUlNYg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "大阪・高槻に「みんなの居場所」 市がにぎわい施設、共生社会先駆け",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZlVtSThBMWNzQi1PTnR5Ym5walJEVUtHZzlna2tINk10dWNsZWVRUElDSTBNTVFaN3VZRXpZc3NUUFpmWk1YQlBseTlnODZRMGlWZGJNVklNRUpBR2tfcVl4UlVwV20zRTBuaw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12dFhLMm9TVUpLNi1OdVY2YTRkek84MXF4dVNNZV9MeEFiMTFTN1FFUjIxZ3hCb2RjYUtPUUpZSlNwTllGd0MwcUNGbHlLTFgxNFo0MzNoOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 04:04",
-   "published_iso": "2026-08-23T19:04:00+00:00"
   }
  ]
 }
