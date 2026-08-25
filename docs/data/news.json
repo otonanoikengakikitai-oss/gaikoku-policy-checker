@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T09:32:21+00:00",
+ "generated_at": "2026-08-25T10:29:00+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,12 @@
  ],
  "items": [
   {
-   "title": "ロヒンギャ危機から9年 難民120万人の帰還、いまだ見通せず",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55NG42TXpQcWpGYWx5WHczNF9qOHB2WVpVWjc1TkJodVB5VFNWb0o1cUtVME1TaUstdEJQT1B2TGNjZTQ1cWhwbmQ2WlBkOE5pdTU2WHlkdkx6VG5RR3o2ZWVGd2NadU5y?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-25 18:28",
-   "published_iso": "2026-08-25T09:28:31+00:00"
+   "title": "「日本式」浸透きめ細かく、母国語・文化尊重もカギ◆コンビニ・外食支える外国人材、定着へ試行錯誤【ビジネスと人権Ⅱ－５】",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOT3RGaVhUM2xPczd2UGNmQmdSN0xoQVZDQjd2RlBIM0NsVTJMa05LOTBaWmFYRkJ2dmNnM2hRNDkzaTRBcTViU2pha2kzeUs4VTFVZk4xaWpIem52dk1XVEN5a05sSzFwcHM5TQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 18:30",
+   "published_iso": "2026-08-25T09:30:00+00:00"
   },
   {
    "title": "東北楽天、外国人投手ヨナウィル・フロリモン・ロドリゲスと育成契約",
@@ -40,12 +40,12 @@
    "published_iso": "2026-08-25T08:10:00+00:00"
   },
   {
-   "title": "「共生社会の理念に賛同する企業・団体」シンボルデザインの愛称 都民投票を実施！",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03SkpTNHZYaHJta29Way1HZ25nWXU2c2VLQVd1MWZYSDVYRkNnYjdZdmVsYXcxUVM0X1dvUGVHRW9idEtVREVWWVRYd0pBQmY3MDU5ZFQzSnBaNnZXd0tPdEFkcEJDMVlnWVdZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-25 16:46",
-   "published_iso": "2026-08-25T07:46:00+00:00"
+   "title": "入管庁、在留許可手数料の値上げ巡り指針 生活保護レベルの難民認定者ら減額対象者を明示",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53NkRIcE9xdEFscUV0bHVhLUpvWDA5TU9ycjk5TU5oRHBwSWV2YTFZNi1jTWhUTFY3RWtzZXM4QXVCZEktOVFWc1VpUG5tczJkdHhrc2JFTUQtNkJYMl9jcVF0S25IZ1Z0UlYzd0Vpa2YtazM1UUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-25 16:01",
+   "published_iso": "2026-08-25T07:01:54+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -70,6 +70,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-25 14:30",
    "published_iso": "2026-08-25T05:30:00+00:00"
+  },
+  {
+   "title": "【画像まとめ】ほぼ森林…過疎の村に訪日客急増 神秘の絶景「阿寺ブルー」大人気「サムライロード」",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbldwWngtT3VlQnRRYnpxaGs5dE1FVHZXeGw0cjFaeG5ZU2MxeS1xNXBLZlk2clZkWktGd01jRTRfZFZQT0o0ZlZWRnpRRlJ6VEwtRGdKOERvT182U0NjUVZCNVhqa0hLWlRqRHdOMmN0NF9MeDAzRmlnQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-25 13:58",
+   "published_iso": "2026-08-25T04:58:00+00:00"
   },
   {
    "title": "採用取り止めが検討される外国籍公務員 経験者が実感した存在意義 [外国人政策 高市早苗総理 自民党][外国人]",
@@ -232,6 +240,14 @@
    "published_iso": "2026-08-24T10:30:00+00:00"
   },
   {
+   "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGhaNF9xb1JDQzJjaHRfbFAxbm92TEZ3b242UVB3TGpESkIyNi1sZjZ2Z3RqN3E5ZnNpYVgyNjRhMlpRN0NVQjNlNHVadS02VlQ1UnBKeVRKQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 19:15",
+   "published_iso": "2026-08-24T10:15:00+00:00"
+  },
+  {
    "title": "みやぎ生協が「買い物難民」を支援 自宅と仙台・桜ケ丘店を無料送迎する「つなぐ号」の運行開始",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMmh0aGNVTUdtZFdPY0NXSFpIZ3l3cWdtamdQSjRvM2ItX2ttZFozSzBCVlYxeFhJdkR2aE8zX19OS3Ryemx2aXVEWWlOLVcwMWlYTHkzR2ZLdzBwV29lVg?oc=5",
    "source": "河北新報オンライン",
@@ -356,22 +372,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X1VPRTBoUmZ6UDZXdmpzR3FtdWU0cTNoVkhULVRjVE9LREhSQkxVVGlyYU1VU0ZTUTB2MWRwWEo5czdMUTRtQklVZjdDMmRlaTJ1MVhISmlFbkRnUWlmeDhWNFJRMHF3LUlNYg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "（不安の正体 多民社会）政官の思惑：１ 財源の確保、外国人に照準",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBENFVxU3ViOWxWQXEzYW55WXpKbXJYVTZhcVJrUVlrTnBnalNqNkpQZGtORUlRcUhxcy13aTRQNHNvUFZmQlRaSmJ6d2RYSzg3YVFnTmRHeGJXb2pH?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
    "published": "2026-08-24 05:00",
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
