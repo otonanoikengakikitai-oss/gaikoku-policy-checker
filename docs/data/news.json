@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T10:29:00+00:00",
+ "generated_at": "2026-08-25T11:24:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
+   "title": "外国人男性がクマに襲われけがをした十和田湖の展望台 十和田市長が現場確認 注意喚起へ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1VVZWtLTkVsaTlyV25uTkFJS3RaSmdUR1dOd3hRWTBrY05VSDQ5bVZxOVZYMFhkUEpadHZSTFF3cF9zREJzTnd3Q1F3bEU5MW5DVnZsTXlpM3pJQXd5SWx1VDZHbUh0ODFzeGo2TkczOURTVHdBd2lRNV9iV3g3VkJzODdJak0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-25 19:47",
+   "published_iso": "2026-08-25T10:47:00+00:00"
+  },
+  {
+   "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MEhLcVhfa0M0V01CUjJkeVNfdmljQ002bkJ1cWhILTkxYWQxbW5fNlNCMmZDTFZvY2ZCdzlUU1I1Tk5iaklMQ1pGdHFSaklPMUhR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-25 19:33",
+   "published_iso": "2026-08-25T10:33:50+00:00"
+  },
+  {
+   "title": "仙台市が「仙台国際探求ラボ」を12月開設へ 帰国した子どもを支援＜宮城・仙台市＞",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXZDRS16Tm9WVGtpd0hNVURsbFFROS1kbEJ2bk9mT1dIQ01GczVEM1N5anhsMzlPUDg3ZmNRUEpWYTZKSndFODB3MmVTMmRNQy1GeHlUZi1Fa1VyUmxCQ2J6MjVCc1pGeng2RHoxR3hzYTJRYW9vN2Q0VnRNOC1XLWdMWlRVUVU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-25 19:11",
+   "published_iso": "2026-08-25T10:11:00+00:00"
+  },
+  {
    "title": "「日本式」浸透きめ細かく、母国語・文化尊重もカギ◆コンビニ・外食支える外国人材、定着へ試行錯誤【ビジネスと人権Ⅱ－５】",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOT3RGaVhUM2xPczd2UGNmQmdSN0xoQVZDQjd2RlBIM0NsVTJMa05LOTBaWmFYRkJ2dmNnM2hRNDkzaTRBcTViU2pha2kzeUs4VTFVZk4xaWpIem52dk1XVEN5a05sSzFwcHM5TQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-25 18:30",
    "published_iso": "2026-08-25T09:30:00+00:00"
+  },
+  {
+   "title": "政府、入管行政を厳格化 ルール違反の放置に「危機感」 サイバーパトロールも導入 変わる外国人政策（上）",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OTFgxbklvM0dnQS16dFZkZjdsU1g3WU1fZm5JVFVqYmVBSnRvbktKQzlBM1c1ZmxHZlZnQXVyZTBxLXhqMlh6Y0hGVmRoRHRJajgzMUV6YjgtNFlxeUlOUm9pWFQ1NXV1YXRXcDhqWnVyTnoxOVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-25 18:04",
+   "published_iso": "2026-08-25T09:04:43+00:00"
   },
   {
    "title": "東北楽天、外国人投手ヨナウィル・フロリモン・ロドリゲスと育成契約",
@@ -126,22 +158,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-25 10:22",
    "published_iso": "2026-08-25T01:22:00+00:00"
-  },
-  {
-   "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MEhLcVhfa0M0V01CUjJkeVNfdmljQ002bkJ1cWhILTkxYWQxbW5fNlNCMmZDTFZvY2ZCdzlUU1I1Tk5iaklMQ1pGdHFSaklPMUhR?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-25 10:21",
-   "published_iso": "2026-08-25T01:21:54+00:00"
-  },
-  {
-   "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQVJBS0o1WkdVTm9QTWZnME9LYzk0LTI5M3Fjd0ZIVFUxeUt1cWhPbXNzM3FSdWFDMXA5YndVMS0yS09EUktJb1lYQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-25 09:18",
-   "published_iso": "2026-08-25T00:18:33+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -312,6 +328,14 @@
    "published_iso": "2026-08-24T03:02:01+00:00"
   },
   {
+   "title": "農業法人で働く特定技能外国人のミャンマー人男性 暴行受けたなどとして実質的運営者とみられる町議らを刑事告訴 北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LVzlkc0ZXaTJ0OVBwUjVEZjNGVW5yYzBmakZjUDFiZkdGMVdaTjBSdXVDNHlHVDEtcHh1Z3plRWJsOHkzc0xKY2xBMzVmR2YyVDdMeG9LXzdpMi1JTk9NRTZXa3Qzazg?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 11:50",
+   "published_iso": "2026-08-24T02:50:00+00:00"
+  },
+  {
    "title": "トランプ政権の移民ビザ発給停止は「無効」、ＮＹ連邦地裁が判決…７５か国対象・「一律に拒否」問題視",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZU1dIVkJrWEt4emFTTC1HbHNWX0J2ZjhrN1ZVUzJpT2hpakt2dVFTOHZ5TjB5SXluZk9keWt0Y3FEN2ZmMS1uc1JwVmJjRFhwcTZYWC1TM0FqSXEwZ0pkQzFB?oc=5",
    "source": "読売新聞",
@@ -376,36 +400,12 @@
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
   {
-   "title": "大阪・高槻に「みんなの居場所」 市がにぎわい施設、共生社会先駆け",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZlVtSThBMWNzQi1PTnR5Ym5walJEVUtHZzlna2tINk10dWNsZWVRUElDSTBNTVFaN3VZRXpZc3NUUFpmWk1YQlBseTlnODZRMGlWZGJNVklNRUpBR2tfcVl4UlVwV20zRTBuaw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
+   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-08-24 05:00",
    "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12dFhLMm9TVUpLNi1OdVY2YTRkek84MXF4dVNNZV9MeEFiMTFTN1FFUjIxZ3hCb2RjYUtPUUpZSlNwTllGd0MwcUNGbHlLTFgxNFo0MzNoOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 04:04",
-   "published_iso": "2026-08-23T19:04:00+00:00"
-  },
-  {
-   "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決 | TBS NEWS DIG (4ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWkRqRTZJTmt6aHFVQXdwcU1PeHQyT2dvbVhzM2RyR1k1LVhsNGFjNVk5aldGNXFmM1Q5dmtmUmZGS3BZS2paU05MRHo2NW16M1VJNHJpQV9ITzF3VlNGSA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 04:04",
-   "published_iso": "2026-08-23T19:04:00+00:00"
-  },
-  {
-   "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決 | TBS NEWS DIG (3ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jZEVkUXlKY0RuYTh3Q1R2cUtSakxveHpWWkU0UmxpQUh4VjgzM2FOSlVJZXFQNlRzWXkySTJTU2x1dm1veG5DdUxBLUJweVpUX01MUElnb1ZKNVFTNEVtTA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 04:04",
-   "published_iso": "2026-08-23T19:04:00+00:00"
   }
  ]
 }
