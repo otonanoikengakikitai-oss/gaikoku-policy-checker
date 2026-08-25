@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T11:24:05+00:00",
+ "generated_at": "2026-08-25T12:41:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
-   "title": "外国人男性がクマに襲われけがをした十和田湖の展望台 十和田市長が現場確認 注意喚起へ",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1VVZWtLTkVsaTlyV25uTkFJS3RaSmdUR1dOd3hRWTBrY05VSDQ5bVZxOVZYMFhkUEpadHZSTFF3cF9zREJzTnd3Q1F3bEU5MW5DVnZsTXlpM3pJQXd5SWx1VDZHbUh0ODFzeGo2TkczOURTVHdBd2lRNV9iV3g3VkJzODdJak0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-25 19:47",
-   "published_iso": "2026-08-25T10:47:00+00:00"
+   "title": "外国人の日本語学習や出入国DX…入管予算を倍増 法務省の概算要求",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzTVZfZnRaaWV0d3NNaHZwMGNISzVwdGtseVVMZWlUYzd2UGRrSGpRTkVhV2U2dkJicXZzMmNZZUYydUdwZTlmOWdhbnZMWkEwellRTjBZLXctSFlQSVhaRGNXajJPMEtwUDZNMg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-25 21:05",
+   "published_iso": "2026-08-25T12:05:00+00:00"
   },
   {
-   "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MEhLcVhfa0M0V01CUjJkeVNfdmljQ002bkJ1cWhILTkxYWQxbW5fNlNCMmZDTFZvY2ZCdzlUU1I1Tk5iaklMQ1pGdHFSaklPMUhR?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-25 19:33",
-   "published_iso": "2026-08-25T10:33:50+00:00"
+   "title": "外国人観光客がクマに襲われけがした十和田湖の展望台 注意喚起進める 青森・十和田市",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVItTjZZNThXUnYxUDFfbGE4UVVFN2EtS2hOMzVleUg1cWVud1R3aDE0UEVNM3U2T3pFeXpGVGVyU0lLUGxwWWNVVVBKc1lkMzhxWlJaQ1NRcEFuYVJIYkVvX3pTMEk3dDdfQkhLTEJZTlN1Q2Vkd21VM1Z5SHNSWnVla051Vjg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-25 20:09",
+   "published_iso": "2026-08-25T11:09:00+00:00"
   },
   {
    "title": "仙台市が「仙台国際探求ラボ」を12月開設へ 帰国した子どもを支援＜宮城・仙台市＞",
@@ -113,7 +113,7 @@
   },
   {
    "title": "採用取り止めが検討される外国籍公務員 経験者が実感した存在意義 [外国人政策 高市早苗総理 自民党][外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yMGZrTHdBa0lFcHYtUmdhUW9zNXlSOFlBVG1xSG03cFpEY2ppREVJNVdLbnJoT3VqNlg0V213OEptZlJ0T0xJNUJ4aGNqWG9SLVUtbmJ2aDV5NmZSWHJ5R1A1Y2dMTjQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmxLTkpMS0NScmlhRUFXQklXMDExZ1pvVFlmODRNXzVWVEJzbnk1TU1VaUxnTFR3OFV1ay1sZmRwUmVOWXBucFhkeEsxVG9GYm1kaTJEc1Q2dGZoYnhyaHRRaWVWbnZjSU14bEZnb3BVelZOM01Ta2pZUlAyUzJFLW5mXzdseUU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-25 13:00",
@@ -158,6 +158,22 @@
    "source_domain": "jiji.com",
    "published": "2026-08-25 10:22",
    "published_iso": "2026-08-25T01:22:00+00:00"
+  },
+  {
+   "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MEhLcVhfa0M0V01CUjJkeVNfdmljQ002bkJ1cWhILTkxYWQxbW5fNlNCMmZDTFZvY2ZCdzlUU1I1Tk5iaklMQ1pGdHFSaklPMUhR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-25 10:21",
+   "published_iso": "2026-08-25T01:21:54+00:00"
+  },
+  {
+   "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS2RtdjZOcm9udE9aMGVLYTB5U0tQaTNuSllQY2c2NDNrVURVUUh5dnpWUDBzNU93Y3dQbnNLS1A3TXZydmQ2c0Y4bnoyZmlRc0R3U1NxYVBNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-25 09:24",
+   "published_iso": "2026-08-25T00:24:29+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -304,14 +320,6 @@
    "published_iso": "2026-08-24T06:58:00+00:00"
   },
   {
-   "title": "日産の新型エルグランドがUberプレミアムで運行開始 外国人観光客向けに上質な車両を提供",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16WmF4TndZejRzanFIQk9hV1o4ZFcxU2MyOFZoWlg1MDUzS2gydkhDdG9TUEFPdmlrQl90aEJvbVhYUElwenZnZXJLZUZHUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-24 13:38",
-   "published_iso": "2026-08-24T04:38:00+00:00"
-  },
-  {
    "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuU05iNlRVeVNDZVJ4aEFBY19sSlgwVTd2VEdtMnVwNUViY0haY29IWUs2TXAtZFd2SE9JWk1RajREcnNMdnowU0tvOVdJWE5wcGI3TVJUak5wVGJyUlFYamVIQ3IyV21oTUFTUVJ0OWpWQkJqRFZyZ3dB?oc=5",
    "source": "テレ朝NEWS",
@@ -396,14 +404,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X1VPRTBoUmZ6UDZXdmpzR3FtdWU0cTNoVkhULVRjVE9LREhSQkxVVGlyYU1VU0ZTUTB2MWRwWEo5czdMUTRtQklVZjdDMmRlaTJ1MVhISmlFbkRnUWlmeDhWNFJRMHF3LUlNYg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
    "published": "2026-08-24 05:00",
    "published_iso": "2026-08-23T20:00:00+00:00"
   }
