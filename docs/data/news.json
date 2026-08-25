@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T04:35:26+00:00",
+ "generated_at": "2026-08-25T05:28:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "出国税の使い道、見直し検討へ 金子国交相「より効果の高い事業に」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVktSUnJfNnBNMS14LTM0MkRBdVZ5anZ2VzV3Z19SYjRrVzdwaG5EOTFtRUpWSkpzdUVmRFM5TW5OR3ZyVGpwcGtiWkY4cW9EOWlFbTcwR2w5X1p5dDBhRk1TUEJhbHc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-25 14:05",
+   "published_iso": "2026-08-25T05:05:30+00:00"
+  },
+  {
+   "title": "TCJ日本語総合研究所「外国人材と働く日本人に聞く、日本語の実態調査2026」",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pWTNJVHpidjhpTTZqWUZySkZ6Q1AyYlpLVUFwTHNMbktNTFFyNlBNenhIUXNFczVxbF9wcjBJVXJQRkZzZ2c3V19EZWozVld1ZGlTNi02RXFFc2V5RUoyZkJhQTE0RW9PZnVB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 13:16",
+   "published_iso": "2026-08-25T04:16:00+00:00"
+  },
   {
    "title": "採用取り止めが検討される外国籍公務員 経験者が実感した存在意義 [外国人政策 高市早苗総理 自民党][外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yMGZrTHdBa0lFcHYtUmdhUW9zNXlSOFlBVG1xSG03cFpEY2ppREVJNVdLbnJoT3VqNlg0V213OEptZlJ0T0xJNUJ4aGNqWG9SLVUtbmJ2aDV5NmZSWHJ5R1A1Y2dMTjQ?oc=5",
@@ -64,12 +80,12 @@
    "published_iso": "2026-08-25T01:21:54+00:00"
   },
   {
-   "title": "トランプ米政権、難民申請目指す20万人のビザ取り消しか、米史上最大規模に",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VSTNWOGJ3dVc3MjBrSjdRamUxcU9vRElsaGY0blFCekdFdzFQR0Q0RjhXYkpwMGpPc3B3Ym1oZUUwT2kxWkw3Zm1INUZ3dEhKTDM1Q1JRTEtRTy16M2tOR2ZFa0pfM3NXSHdnNk41b3BpOVRYWnc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
+   "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQVJBS0o1WkdVTm9QTWZnME9LYzk0LTI5M3Fjd0ZIVFUxeUt1cWhPbXNzM3FSdWFDMXA5YndVMS0yS09EUktJb1lYQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-08-25 09:18",
-   "published_iso": "2026-08-25T00:18:40+00:00"
+   "published_iso": "2026-08-25T00:18:33+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -142,6 +158,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-24 20:00",
    "published_iso": "2026-08-24T11:00:00+00:00"
+  },
+  {
+   "title": "外国人と共に 札幌の小学生がイスラム教の礼拝堂で交流…手作りのプレゼント交換も",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVmJIRGYzRUVPWGZhcHJyUFpxSDhWZjBSZlVkcC1iVVEweWlZVnhMRVRyMkJHRmQ4QWc0aUxnSVo4TmdnY1JZVldyV1U2U1pnazlMUnlLN21WZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 19:55",
+   "published_iso": "2026-08-24T10:55:00+00:00"
   },
   {
    "title": "【クマ人身被害】外国人観光客が襲われた十和田湖の展望台を『当面閉鎖』 箱わな2つ設置も捕獲されず",
@@ -336,14 +360,6 @@
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
   {
-   "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
    "title": "大阪・高槻に「みんなの居場所」 市がにぎわい施設、共生社会先駆け",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UZlVtSThBMWNzQi1PTnR5Ym5walJEVUtHZzlna2tINk10dWNsZWVRUElDSTBNTVFaN3VZRXpZc3NUUFpmWk1YQlBseTlnODZRMGlWZGJNVklNRUpBR2tfcVl4UlVwV20zRTBuaw?oc=5",
    "source": "日本経済新聞",
@@ -390,22 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-23 19:00",
    "published_iso": "2026-08-23T10:00:00+00:00"
-  },
-  {
-   "title": "外国人も驚くニッポンのかき氷！なぜ氷に塩？なぜとうもろこし？こだわりすぎ極上かき氷をあばれる君とイタリア人シェフが調べてきました！【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Qc2dQRHpOR0s5S0VwTUxaN0RJSk1NaWlaSWdEeTc4cFJla21vRW90d1FNekN5NG9nRnhMNjVUUUhMRkowYmMtS1hsNFFKT3JMYnRrRjA1OA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-23 18:00",
-   "published_iso": "2026-08-23T09:00:43+00:00"
-  },
-  {
-   "title": "外国人被災者向け発信3市町のみ 熊本地震、言葉の壁で情報届かず",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53cVhpVFI5ZHE3ZmI3ODNPWXdlNGJJMjZ0VHNKLXJST0MtdHhxNGNNS3FORy1hRGpTYmplMFNqOUo2UHZoUldIY3Bpbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-23 17:53",
-   "published_iso": "2026-08-23T08:53:00+00:00"
   }
  ]
 }
