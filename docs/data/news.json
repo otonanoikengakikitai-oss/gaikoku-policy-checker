@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T14:41:29+00:00",
+ "generated_at": "2026-08-25T15:39:11+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -22,14 +22,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-08-25 20:09",
    "published_iso": "2026-08-25T11:09:00+00:00"
-  },
-  {
-   "title": "仙台市が「仙台国際探求ラボ」を12月開設へ 帰国した子どもを支援＜宮城・仙台市＞",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXZDRS16Tm9WVGtpd0hNVURsbFFROS1kbEJ2bk9mT1dIQ01GczVEM1N5anhsMzlPUDg3ZmNRUEpWYTZKSndFODB3MmVTMmRNQy1GeHlUZi1Fa1VyUmxCQ2J6MjVCc1pGeng2RHoxR3hzYTJRYW9vN2Q0VnRNOC1XLWdMWlRVUVU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-25 19:11",
-   "published_iso": "2026-08-25T10:11:00+00:00"
   },
   {
    "title": "「日本式」浸透きめ細かく、母国語・文化尊重もカギ◆コンビニ・外食支える外国人材、定着へ試行錯誤【ビジネスと人権Ⅱ－５】",
@@ -161,11 +153,11 @@
   },
   {
    "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQVJBS0o1WkdVTm9QTWZnME9LYzk0LTI5M3Fjd0ZIVFUxeUt1cWhPbXNzM3FSdWFDMXA5YndVMS0yS09EUktJb1lYQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-25 09:18",
-   "published_iso": "2026-08-25T00:18:33+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS2RtdjZOcm9udE9aMGVLYTB5U0tQaTNuSllQY2c2NDNrVURVUUh5dnpWUDBzNU93Y3dQbnNLS1A3TXZydmQ2c0Y4bnoyZmlRc0R3U1NxYVBNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-25 09:24",
+   "published_iso": "2026-08-25T00:24:29+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -402,6 +394,14 @@
   {
    "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12dFhLMm9TVUpLNi1OdVY2YTRkek84MXF4dVNNZV9MeEFiMTFTN1FFUjIxZ3hCb2RjYUtPUUpZSlNwTllGd0MwcUNGbHlLTFgxNFo0MzNoOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 04:04",
+   "published_iso": "2026-08-23T19:04:00+00:00"
+  },
+  {
+   "title": "米トランプ政権「75か国」移民ビザ停止 NY連邦地裁が無効判決 | TBS NEWS DIG (4ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWkRqRTZJTmt6aHFVQXdwcU1PeHQyT2dvbVhzM2RyR1k1LVhsNGFjNVk5aldGNXFmM1Q5dmtmUmZGS3BZS2paU05MRHo2NW16M1VJNHJpQV9ITzF3VlNGSA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 04:04",
