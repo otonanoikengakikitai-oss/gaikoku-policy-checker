@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T02:55:41+00:00",
+ "generated_at": "2026-08-25T03:47:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "永住許可20万円、在留資格更新は最大7万5000円 政府が手数料上げ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LTE1mVzBBbzhxSV83MGJXbVN2TzRwQ1dLNkx1Z1hINUMzWmtmLWNBVVZDY09jOE05QUNDd3VGN0xaa2dfN2kzYzE3UUhFWW56WTJLRjloZWQzQUJRVG9WTUtuQjc5Nk1yYVZGTg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-25 12:18",
+   "published_iso": "2026-08-25T03:18:06+00:00"
+  },
+  {
+   "title": "高度専門技能持つ外国人向けビザ、手数料１６００万円超の方針表明…トランプ政権",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42N2p5SGJoN1JudkwzSDVJNDBDZnBSTU9HYVgtQ2N4WU1SNXkzdEc2WDJaMzlMeEdXNVhrY2NQdVNWMTQxSUdlTnlEd09NWG92bDBkTTNwazRDTmFvM2tuUHFR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-25 12:02",
+   "published_iso": "2026-08-25T03:02:00+00:00"
+  },
   {
    "title": "「入れ歯難民」防げるか 歯科技工士の志願者減、50代以上が5割超",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QXJHLS1OaElwa2hPLUh2dm5fb0V5NjN2M3piMENvS1VGSkNKbnRDaDJ0cDJvSUk0RUlzRk80cC1ZRzgtVDhEWFBQbmh6TEJ1cWttZkhHUFFjbEhJUU5uX0tSOXBQbHdlMUpYbw?oc=5",
@@ -16,20 +32,20 @@
    "published_iso": "2026-08-25T02:45:00+00:00"
   },
   {
+   "title": "在留手数料、１０月から引き上げ 最大７．５万円、永住２０万円―政令決定",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMUpyNUJYd0VCb2tkbkN1N1pvSkM2Z3VXWnRFQkFfSjZRZDZtdjNkUzc2ODdFejBVZVJiUnBSMGt0bnozdmR4OVFsTk1kbkRwREJScXVVUHJaSTEwSTB2c3JVcw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 11:44",
+   "published_iso": "2026-08-25T02:44:00+00:00"
+  },
+  {
    "title": "在留手数料、生活困窮で減額対象 難民申請者大半除外に懸念",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ1RzT0Q5R2Z1dDhTdjhJNDVSTlhwYVhpY2dxLVY0cEg2dmtXTXl6NEdra25tdDc5MU10WTRhUVJZcXFFbVE2LURTbGZQVzFibHdEcWJxNGJXZw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-25 10:54",
    "published_iso": "2026-08-25T01:54:40+00:00"
-  },
-  {
-   "title": "在留手数料、１０月から引き上げ 最大７．５万円、永住２０万円―政令決定",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMUpyNUJYd0VCb2tkbkN1N1pvSkM2Z3VXWnRFQkFfSjZRZDZtdjNkUzc2ODdFejBVZVJiUnBSMGt0bnozdmR4OVFsTk1kbkRwREJScXVVUHJaSTEwSTB2c3JVcw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-25 10:22",
-   "published_iso": "2026-08-25T01:22:00+00:00"
   },
   {
    "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
@@ -238,22 +254,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-24 10:16",
    "published_iso": "2026-08-24T01:16:08+00:00"
-  },
-  {
-   "title": "クマ対策もサクラの害虫防除も、実質外国人が負担 出国税の増税分",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ea05fUXJYSTUya2xEOUxVZHBrVkhIVEtNc19kNV9EY3A3d25OTVhfbXQybjVjeGFZQ0hiYk1kbjExcmV1SVo1Y05tR25GNUZ1VjRsZDJnSURrYmJrVkVGV1lEdUI3dUE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-24 09:00",
-   "published_iso": "2026-08-24T00:00:00+00:00"
-  },
-  {
-   "title": "イスラエル軍の空爆で4歳男児含む2人死亡 ガザ中部の建物や難民キャンプを攻撃 「ガザからドローン飛来なら攻撃強化」と警告",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JM3dWRnFtaXBnb2hYNG1qMmMwZHU0S09KNGtsWERCNThUY1dpWmZVOUhBMDRKakgtY1dzREVnbUFZMEp4ZkJzV0h5TERUZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-24 08:33",
-   "published_iso": "2026-08-23T23:33:00+00:00"
   },
   {
    "title": "【急増】過去最悪ペースで増加する“外国人観光客のレンタカー事故”「運転席も車線も反対で目の錯覚が…」ドライバーの実態と求められる対策",
