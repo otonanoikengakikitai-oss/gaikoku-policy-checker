@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T22:23:37+00:00",
+ "generated_at": "2026-08-25T23:22:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
+   "title": "台湾で中国出自の「新移民」に疎外感、「中国で暮らした経験」で村八分も…政権が掲げる「多様性社会」に影",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmRUYWZ4ZXJ3bjdHb3FuTV82SnpsZ1MwUlI2aTdUTHB0enhsNXpzc2tqRkhVLXp0LVBYUklZVEVlUGNTd3VkRzd4aTUzbWpMbWEzdzItN0FrX2pfMmZ2U3h3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-26 08:14",
+   "published_iso": "2026-08-25T23:14:45+00:00"
+  },
+  {
    "title": "イスラエルが国連パレスチナ難民救済事業機関の施設を占拠 ネタニヤフ首相が退去命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jc1RhRG8yZ09hSFM1VVV0UUJCVXJIak5TSDFhLXphbzdOc190SnVVZ3ViUVlWbjh0SUFhaEVZazZ5UjF4YXVnV2g3MUZHV0Q3UUpURHB5WGJXd2VUWGRWSi1iOFByUjMzdjR3a2FJZ3NobW13SHc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-08-26 06:19",
    "published_iso": "2026-08-25T21:19:39+00:00"
+  },
+  {
+   "title": "「月給より高い」「生活できなくなる」…在留許可手数料の大幅引き上げに、外国人家庭は悲鳴",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnVkFyOU1kaGN6ME01M1VSYnBKZnFqUmtUUGd5SU1XSUJ0dVlyR2o5WUs5anhjOVJ2OWRsQksyTks3NmtWX1A1bE5sTFpQSWhyT2dr?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-26 06:00",
+   "published_iso": "2026-08-25T21:00:00+00:00"
+  },
+  {
+   "title": "UNRWA施設に立ち退き指示、強制的に立ち入りか 東エルサレム [イスラエル・パレスチナ問題]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3l3bnVCTEFmc0RVVWt1WGE4eC03eVVlQ0F5X1FBYnNwd3VMM1JVaUFOSDZxS3NhV2taN0plbnpQcFlLNHpaTzFpMmZFRmNzZWtxZ0ltMDYwQlJ3NENGUFRyYlo2cUU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 06:00",
+   "published_iso": "2026-08-25T21:00:00+00:00"
+  },
+  {
+   "title": "「国家安保に関わる事態」宣言 移民殺到のスペイン領セウタ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kejB1VlVSMFlONjc1MjFhN0xVcnM5SWl6czQ2aFdESElwb3BfVWlEeHlXZkh5UjF0bGx2OXVRNWhZQm02MXIyM3FSSG1wTVVGZC03eVgzakt0UWJLRDZtb1Rsaw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 05:54",
+   "published_iso": "2026-08-25T20:54:00+00:00"
   },
   {
    "title": "外国人世帯が７割超えの県営住宅でバーベキューイベント 「この団地を家族のようにしたいもんで」",
@@ -54,6 +86,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-25 21:05",
    "published_iso": "2026-08-25T12:05:00+00:00"
+  },
+  {
+   "title": "法務省、９８５６億円要求へ＝外国人関連を大幅増",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdTJ6WThWQXA2MUNJRWFyZFhBVldtT1pXdjE2VUNRRm50cEFtUWRaRDMzZURCd0dwY0xFUFpDRHQyN0lfRmJiQTFlNk8tdmhmd0ljVw?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 20:43",
+   "published_iso": "2026-08-25T11:43:00+00:00"
   },
   {
    "title": "外国人観光客がクマに襲われけがした十和田湖の展望台 注意喚起進める 青森・十和田市",
@@ -232,14 +272,6 @@
    "published_iso": "2026-08-24T20:10:00+00:00"
   },
   {
-   "title": "移民ビザ停止「権限越え無効」 ７５か国対象 ＮＹ連邦地裁が判決",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BUVllRGZFOU56NG9kWTlXWTF4Q2IyTkMzdXVvUm9uakRmRUg1STY3elVpb1dKMHNscTZ3QTYyNW5BeEE3elFCenRyQmRsODdqVWYtemU2SGtaOGxsZTR5enJuNA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-25 05:00",
-   "published_iso": "2026-08-24T20:00:00+00:00"
-  },
-  {
    "title": "江田島の外国人が交通ルールと防災学ぶ【多文化共生のまち 芸南賀茂】",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRm9nVUI4Y3hHNVg5eW54UDktZl9VOGxZOVQ2a3MzUDVhcVFJWWhYSGZHQnRvaC0tbExJLXlOM2hJeHMwM0ZiMF9sYw?oc=5",
    "source": "47NEWS",
@@ -374,38 +406,6 @@
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-08-24 05:55",
    "published_iso": "2026-08-23T20:55:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生の受け入れを仲介、「監理団体」の一部が売買 新制度移行前に活発化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ha2YwYzhjamc3a3VjYjRHcTdpcDc0V1ZlRnpfVWZzc1FLUERTb1A1S0RKeDNGLWVpYkVPN1ktWGF0UDdLYlEyLVZMWHVSemxWQ2FtMg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-24 05:10",
-   "published_iso": "2026-08-23T20:10:00+00:00"
-  },
-  {
-   "title": "郷土の開拓移民の記憶伝えねば 岐阜県内で「黒川の女たち」自主上映広がる",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYTVvaXcxS0ROTWVIQ0szUE9qbzBHRk4tc0JZTGJGblBIUDlteVB6Rnh6MHV1Nk1PeDM5WmRVdWpXeE9CamVzell0MWtUZmdrWHFSRg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-24 05:05",
-   "published_iso": "2026-08-23T20:05:00+00:00"
-  },
-  {
-   "title": "クマ対策からサクラ害虫防除まで 実質外国人が負担、出国税の増税分 [外国人][高市早苗首相 自民党総裁]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yaF93QjU1dDN6MGVkTUhtenpyY2pJU0NQdmNJSWVFUENNcmdXMm52SEU0U01QTnlOcGxxcjE1NXFfRGpGQWl2WjNkaWpJbV8wRlRVdEhHelJqZjNIeVhJeEFnYlpoTms?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
-   "title": "「運転手求む」AIでも外国人でも 瀬戸内海では世界初・自動運航船",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50X1VPRTBoUmZ6UDZXdmpzR3FtdWU0cTNoVkhULVRjVE9LREhSQkxVVGlyYU1VU0ZTUTB2MWRwWEo5czdMUTRtQklVZjdDMmRlaTJ1MVhISmlFbkRnUWlmeDhWNFJRMHF3LUlNYg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
   }
  ]
 }
