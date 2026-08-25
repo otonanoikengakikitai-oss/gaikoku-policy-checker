@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T08:38:10+00:00",
+ "generated_at": "2026-08-25T09:32:21+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ロヒンギャ危機から9年 難民120万人の帰還、いまだ見通せず",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55NG42TXpQcWpGYWx5WHczNF9qOHB2WVpVWjc1TkJodVB5VFNWb0o1cUtVME1TaUstdEJQT1B2TGNjZTQ1cWhwbmQ2WlBkOE5pdTU2WHlkdkx6VG5RR3o2ZWVGd2NadU5y?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-25 18:28",
+   "published_iso": "2026-08-25T09:28:31+00:00"
+  },
+  {
+   "title": "東北楽天、外国人投手ヨナウィル・フロリモン・ロドリゲスと育成契約",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NTd5U182OTBtLUF5SzFhN19sYlllMFZfeC1neTdfTG1mWlh1Rlk1bE9TUFFjN3pjcnJxc0c4cXN2ZTdUdl8zSjE1azAwMXdVaDFzRk5XNnk5Q3V1eHZmXw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-08-25 17:32",
+   "published_iso": "2026-08-25T08:32:51+00:00"
+  },
   {
    "title": "仙台市、「国際探究ラボ」12月開設 外国人児童・生徒に日本語指導",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51cGpDVFpEUGtmU3Jxa3kwQnkxU2tOWkxwaFVKc0Z4cGRIbk41MlFqSnA0YU5QdWxYVGc4SHFIN1d1SFZKd09FN1prYU5vbURJTldBajF2NkNnamh6YzlxTmF0VTBHMUhhNkdGSQ?oc=5",
@@ -30,14 +46,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-25 16:46",
    "published_iso": "2026-08-25T07:46:00+00:00"
-  },
-  {
-   "title": "在留手数料、１０月から引き上げ 最大７．５万円、永住２０万円―政令決定",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMUpyNUJYd0VCb2tkbkN1N1pvSkM2Z3VXWnRFQkFfSjZRZDZtdjNkUzc2ODdFejBVZVJiUnBSMGt0bnozdmR4OVFsTk1kbkRwREJScXVVUHJaSTEwSTB2c3JVcw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-25 16:06",
-   "published_iso": "2026-08-25T07:06:00+00:00"
   },
   {
    "title": "河北新報社 ビズラボ 河北経済研究所",
@@ -97,11 +105,19 @@
   },
   {
    "title": "在留手数料、生活困窮で減額対象 難民申請者大半除外に懸念",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ1RzT0Q5R2Z1dDhTdjhJNDVSTlhwYVhpY2dxLVY0cEg2dmtXTXl6NEdra25tdDc5MU10WTRhUVJZcXFFbVE2LURTbGZQVzFibHdEcWJxNGJXZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-25 10:54",
-   "published_iso": "2026-08-25T01:54:40+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSUlFdFpFQ0hvZHhLVWlqN0dISVc5SHBsbGxVaHhZZXRiU0wyREZJQnFxT3kzeUs4S0JYMlFHV2JZMFFOcDl0Umd1UnlaZDBkeXlWM3Jn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-25 10:45",
+   "published_iso": "2026-08-25T01:45:45+00:00"
+  },
+  {
+   "title": "在留手数料、１０月から引き上げ 最大７．５万円、永住２０万円―政令決定",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMUpyNUJYd0VCb2tkbkN1N1pvSkM2Z3VXWnRFQkFfSjZRZDZtdjNkUzc2ODdFejBVZVJiUnBSMGt0bnozdmR4OVFsTk1kbkRwREJScXVVUHJaSTEwSTB2c3JVcw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 10:22",
+   "published_iso": "2026-08-25T01:22:00+00:00"
   },
   {
    "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
@@ -110,6 +126,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-08-25 10:21",
    "published_iso": "2026-08-25T01:21:54+00:00"
+  },
+  {
+   "title": "米、20万人ビザ取り消しか 難民申請者、最大規模に",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaQVJBS0o1WkdVTm9QTWZnME9LYzk0LTI5M3Fjd0ZIVFUxeUt1cWhPbXNzM3FSdWFDMXA5YndVMS0yS09EUktJb1lYQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-25 09:18",
+   "published_iso": "2026-08-25T00:18:33+00:00"
   },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
@@ -344,14 +368,6 @@
    "published_iso": "2026-08-23T20:00:00+00:00"
   },
   {
-   "title": "外国人社員定着は「顔が見える支援メニュー」から 茨城の挑戦",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGYm03Rk5PVnpFbWhwMl90cWVQTGhYbF9kOHpYeHcxakFTMWE2aThkcnYzVU1rUFY4LXc0RDRGTklmbXVNSEFQelQ1Q3RPXzIzTzQ3M2FWRVF2RkpkLVVfc1ppTGRzWmszZ0oyNg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-24 05:00",
-   "published_iso": "2026-08-23T20:00:00+00:00"
-  },
-  {
    "title": "変質した出国税「悪いこと考える奴がいる」 元首相、水面下で猛反対 [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bjVxVmdwQ3lpZ1Z6NzFYc2oxaFR4NXZnV1dESGJDd2VEVEYzM3MyNWpCcEg0dG5NYl9FaDhuZmxyUVlNUHFGeF9BS0NCTDZDckZOMzhjWTlqME1EMEdwZVB4SDNVUmM?oc=5",
    "source": "朝日新聞",
@@ -390,22 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 04:04",
    "published_iso": "2026-08-23T19:04:00+00:00"
-  },
-  {
-   "title": "「権限越えている」米地裁、トランプ米政権による75カ国の移民ビザ停止は無効との判決",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aTnVYd1Q1ZlNtWV9uNWI5YnE1c2RweW1Qa2ZaTTFKVDk4NlFVbzJESnlnSFFGdmRxV0N4NWNTLS1IU2RSZlZiOEpLVVU2emFYUnNsd2NYQk9jOWxqeFpGRWc0SERPc1lfT0duZkFmeHlTUU1MWkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-23 22:58",
-   "published_iso": "2026-08-23T13:58:59+00:00"
-  },
-  {
-   "title": "在留外国人の「日本語学習プログラム」検討へ各国の事例は？ 入管庁が10カ国・地域調査 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKT1hqMklZb2tPRTZtNmZuX0E5S2JiR29mR1JLMXVxLXhRQUlGaDZ6SUh2Nk41OW5fS3RjMjg0OGp4bGlqZl9PUnFfaW5KT1owdlg5SGNVT3d6UkRaYi1jTkwtSzJMVFJ4Y0ZzVldCcG5RVVU3bEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-23 15:00",
-   "published_iso": "2026-08-23T06:00:00+00:00"
   }
  ]
 }
