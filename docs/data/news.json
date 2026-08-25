@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T01:06:18+00:00",
+ "generated_at": "2026-08-25T02:55:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「入れ歯難民」防げるか 歯科技工士の志願者減、50代以上が5割超",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QXJHLS1OaElwa2hPLUh2dm5fb0V5NjN2M3piMENvS1VGSkNKbnRDaDJ0cDJvSUk0RUlzRk80cC1ZRzgtVDhEWFBQbmh6TEJ1cWttZkhHUFFjbEhJUU5uX0tSOXBQbHdlMUpYbw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-25 11:45",
+   "published_iso": "2026-08-25T02:45:00+00:00"
+  },
+  {
+   "title": "在留手数料、生活困窮で減額対象 難民申請者大半除外に懸念",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yZ1RzT0Q5R2Z1dDhTdjhJNDVSTlhwYVhpY2dxLVY0cEg2dmtXTXl6NEdra25tdDc5MU10WTRhUVJZcXFFbVE2LURTbGZQVzFibHdEcWJxNGJXZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-25 10:54",
+   "published_iso": "2026-08-25T01:54:40+00:00"
+  },
+  {
+   "title": "在留手数料、１０月から引き上げ 最大７．５万円、永住２０万円―政令決定",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QMUpyNUJYd0VCb2tkbkN1N1pvSkM2Z3VXWnRFQkFfSjZRZDZtdjNkUzc2ODdFejBVZVJiUnBSMGt0bnozdmR4OVFsTk1kbkRwREJScXVVUHJaSTEwSTB2c3JVcw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 10:22",
+   "published_iso": "2026-08-25T01:22:00+00:00"
+  },
+  {
+   "title": "外国人の在留手数料、永住許可は一挙20倍の20万円で「確定」 10月から大幅値上げ 入管庁が発表",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MEhLcVhfa0M0V01CUjJkeVNfdmljQ002bkJ1cWhILTkxYWQxbW5fNlNCMmZDTFZvY2ZCdzlUU1I1Tk5iaklMQ1pGdHFSaklPMUhR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-25 10:21",
+   "published_iso": "2026-08-25T01:21:54+00:00"
+  },
+  {
+   "title": "トランプ米政権、難民申請目指す20万人のビザ取り消しか、米史上最大規模に",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VSTNWOGJ3dVc3MjBrSjdRamUxcU9vRElsaGY0blFCekdFdzFQR0Q0RjhXYkpwMGpPc3B3Ym1oZUUwT2kxWkw3Zm1INUZ3dEhKTDM1Q1JRTEtRTy16M2tOR2ZFa0pfM3NXSHdnNk41b3BpOVRYWnc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-25 09:18",
+   "published_iso": "2026-08-25T00:18:40+00:00"
+  },
   {
    "title": "米、外国人労働者向けの技能ビザに1600万円の手数料課す 司法の無効判断受け新規制案",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjUjd5TEUySnZwY3FPc045eW8xWmpQU291THVRRVlIX285V2ZUT3Z4UXZxV1RUM3VLZHQzanZBeWpMWXhJanNtVFljTUFJTnhDdDVhTVVzWm1kcmc1bUVlb3ZPRVNVY2R2T3NJdHFvbE1FVmZyb0E?oc=5",
@@ -22,6 +62,14 @@
    "source_domain": "jiji.com",
    "published": "2026-08-25 08:20",
    "published_iso": "2026-08-24T23:20:00+00:00"
+  },
+  {
+   "title": "在留手数料値上げなど抗議 新宿駅前で「入管法改悪反対」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GUlJkYzFLbXhrVFNEeEQ1Y0hvZEgyQUFldjRvNmVrNkRHQ0h1T2Z0U2JtajY1RU50QjZ2WEQ3TG5PUEYxcFI0OW5LTUZEZWdrelNR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-25 07:09",
+   "published_iso": "2026-08-24T22:09:07+00:00"
   },
   {
    "title": "技能実習生の学びの場、廃業の危機 指導教員「奪い合い」で採算厳しく",
@@ -48,14 +96,6 @@
    "published_iso": "2026-08-24T20:00:00+00:00"
   },
   {
-   "title": "“日常的な虐待”町議が関与か…過去に「人権侵害」で処分も ミャンマー人が刑事告訴",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NQUVhWHhkc3c1MFJFa2FGT2tRUkN2SFZNUXlKMG9FWlc0aFlLd0ROa1RDRGl6MTByS0dDY242Y1dWaVRxUC1lUTZ3YXlRZ0NzUThYN3QydktWLXhtM29ydHVPRzhZS3F3eFkzc1RCUk1vUQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-25 01:32",
-   "published_iso": "2026-08-24T16:32:00+00:00"
-  },
-  {
    "title": "江田島の外国人が交通ルールと防災学ぶ【多文化共生のまち 芸南賀茂】",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRm9nVUI4Y3hHNVg5eW54UDktZl9VOGxZOVQ2a3MzUDVhcVFJWWhYSGZHQnRvaC0tbExJLXlOM2hJeHMwM0ZiMF9sYw?oc=5",
    "source": "47NEWS",
@@ -78,14 +118,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-24 20:00",
    "published_iso": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "title": "外国人と共に 札幌の小学生がイスラム教の礼拝堂で交流…手作りのプレゼント交換も",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SUlFERG0wYzk1MnNLLVNBVFVqbTlHaEM3OE9wRUlseFgtdHkzMzJ3NlZJUlAxRVpZZUQ3U2taNHZ1bVpzSDVTeUQtdUp4UnhqY2xBN2tEQnZWU0FfbDAtUXl0cS1ySW8?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 19:55",
-   "published_iso": "2026-08-24T10:55:00+00:00"
   },
   {
    "title": "【クマ人身被害】外国人観光客が襲われた十和田湖の展望台を『当面閉鎖』 箱わな2つ設置も捕獲されず",
@@ -142,14 +174,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-24 17:47",
    "published_iso": "2026-08-24T08:47:00+00:00"
-  },
-  {
-   "title": "宮島山岳救助にアシストスーツ 大きな外国人も搬送しやすく 廿日市・弥山救助高止まり",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MQzBHMkZNZHBYMmpzZl9rSTlINll5MHZiUWtOdHNmY2JGTUtQOW43NGUxWEpTc0g5UVY3MlJMY1VuY0luY3BNVGU4NA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-24 17:12",
-   "published_iso": "2026-08-24T08:12:00+00:00"
   },
   {
    "title": "「アホか」暴言・暴行も…北海道の農業法人、特定技能のミャンマー人労働者が刑事告訴 農業法人「精査中」",
@@ -230,6 +254,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-24 08:33",
    "published_iso": "2026-08-23T23:33:00+00:00"
+  },
+  {
+   "title": "【急増】過去最悪ペースで増加する“外国人観光客のレンタカー事故”「運転席も車線も反対で目の錯覚が…」ドライバーの実態と求められる対策",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1Y0SS1mdlVKQ2h5S3hZWGV4RngzdlpIOExrVmdqSjN2N1VkOWVLbWU3QUpBbU1vNFJvTWtDX1ctWllRenliRzNDR2RvUVlqX3VRWUMyamZxWXRyVFc2dENNaW91M1pCeldtLUFla1lHWnktd0t0Q2hsMEJkZ2Y0Q0pMZGc4QjA?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-24 08:00",
+   "published_iso": "2026-08-23T23:00:00+00:00"
   },
   {
    "title": "米 移民ビザ発給停止措置 連邦地裁が取り消し",
@@ -374,38 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-23 17:53",
    "published_iso": "2026-08-23T08:53:00+00:00"
-  },
-  {
-   "title": "在留外国人の「日本語学習プログラム」検討へ各国の事例は？ 入管庁が10カ国・地域調査 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKT1hqMklZb2tPRTZtNmZuX0E5S2JiR29mR1JLMXVxLXhRQUlGaDZ6SUh2Nk41OW5fS3RjMjg0OGp4bGlqZl9PUnFfaW5KT1owdlg5SGNVT3d6UkRaYi1jTkwtSzJMVFJ4Y0ZzVldCcG5RVVU3bEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-23 15:00",
-   "published_iso": "2026-08-23T06:00:00+00:00"
-  },
-  {
-   "title": "「給料上げれば人が来るという話でもない」 外国人材に頼る現場の声 [香川県] [消滅可能性自治体]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FMjljRjZuQUUzOTVodnZzQjFJQ01Zc1RVUTNCcExxa1h1S3BaYmJZbHN2aXhycDdnMmVDOHppMl9ib2xpNk8tclpxaUhObmRfTWI4M2J2OE4wcUdsZWh3UHJsaUFNeFE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-23 12:00",
-   "published_iso": "2026-08-23T03:00:00+00:00"
-  },
-  {
-   "title": "「空き家」を輝かす外国人 1400万円で「劇的北欧風」に再生【グッド！いちおし】",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGR0FRNzZGLWRsWGN3TkRkWHZPSlR1NWd6VHdLeURxb2VhMG1yVHVYVk5Qa1Zkam9oRzhUdHBhVndXY090RktJSkVPaWpqZkM1SE1ZY0Q5am1uSWpoNHRZdTE3aG5GVE1fVHBYN1hzd0ZqZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-23 10:45",
-   "published_iso": "2026-08-23T01:45:03+00:00"
-  },
-  {
-   "title": "クマに襲われ外国人男性1人けが、命に別状なし 青森・十和田市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84ZGxEUW9JMml0eklMVm9fUy1UcW90RnBiNTRfOTYxQXVSN2hYei1NMjQ0RjBjc3dGbEZaODN5SHBxblY3N1RNbVNsVFYwclNNUy0wWWVkYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-23 05:48",
-   "published_iso": "2026-08-22T20:48:25+00:00"
   }
  ]
 }
