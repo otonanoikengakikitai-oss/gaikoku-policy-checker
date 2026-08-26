@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T14:41:09+00:00",
+ "generated_at": "2026-08-26T16:15:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ネパール中部で大規模な鉄砲水 少なくとも95人死亡、外国人340人以上が行方不明",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUlna2l4TkpUVFdTUWxIZF9kWEhtR1F6SHBUNEpKQW5zeUExUzJYVHJtUlBTZXluRzhwNVFSeVhyRGd3Q0w2anJ5bWtFWWtEMGtfTlp6QURPN3ZnWjFMZV9PWlQwTFRmemU1cW1sT2l0U1BhR09DNHZtS1NGSktyQjNvbXE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-27 00:53",
+   "published_iso": "2026-08-26T15:53:01+00:00"
+  },
+  {
+   "title": "ネパール大洪水95人死亡 中国でも死者3人、外国人ら不明",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJRW9uWlRVdkVFdklEU3ZkUTVITWFfZkY2Q2NkOGdHOURrQTJ5dFFHSnZOVHIzNWJnZGlGNlZnVU0wbnNCNjdqYnhXNm9MQ0xYM2xobmp3?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-27 00:36",
+   "published_iso": "2026-08-26T15:36:24+00:00"
+  },
+  {
+   "title": "訪日外国人が注目！Paykeアプリ「2026年7月人気コラムランキング」",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50aXlBbEhEU0RMM0hwUHNQbjktUmxRcFpRQ2p3alF3VXZSQUZ1enMza3B0eHQ4X3QzdUJuSlBWSktrWVpPQU1ua0Q1enhiLVhDTXM1VUNBOXZ5dGxLX3loQXBISGNKTjhaTVFv?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 23:10",
+   "published_iso": "2026-08-26T14:10:00+00:00"
+  },
+  {
+   "title": "ネパールで大規模な鉄砲水 22人死亡、外国人観光客含む380人以上が行方不明（2026年8月26日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUgxdVplXzNRU205MHFIMXlaUU4xbFR6T29GRURCby1QREc5dHFpTk1yS21XZUE0b2xkeWthdk9lQy1JOV9jNWhmcW1ndUR5UVZTSGt3ZkR2d1U0Rjk0TDBDTEhqakU3MHcyZEFhSE00RW9XbzVSU1RwRDFUZ25td1VMWkw?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-26 22:14",
+   "published_iso": "2026-08-26T13:14:01+00:00"
+  },
   {
    "title": "【地方創生 ×外国人材】ワールドインワーカー、北海道の外国人材受入れを推進する「HGC」にコーポレートパートナーとして参画",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Tkd6SGEwcUdXcmNJUU9rMTg1eVdlT0pjSFVEUk1pSDhtdEQxM0gycEtDdm50RHZERjREN25GLWRIek14ZXMxczdtY0laU29TN1R5bUh0Y2M2aXA2NFhpazFwMkdnMWVmODVZ?oc=5",
@@ -32,12 +64,20 @@
    "published_iso": "2026-08-26T12:47:00+00:00"
   },
   {
+   "title": "ネパール洪水で95人死亡、外国人ら380人超不明 中国でも被害",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tLUxiQkRJUmhPY3VqbUNKeFBUbFhUQm1FeW40T2NtZ1Eyd2lyZTlIb1BRX0tINFN3aUdtX1FKOXVQU2JsbXNOXzRDSVRaR3pVVmFGRTdRb3hhb19Md1B3a2hHcWF3WTJnMHBfNg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-26 21:39",
+   "published_iso": "2026-08-26T12:39:34+00:00"
+  },
+  {
    "title": "福岡・岡垣町で外国人の男2人が住宅敷地内をのぞき込み、うろつく 東高倉1丁目付近",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNDJhbldPRUdiUzVyRVJoY21yQVRldVI3bVgtSFVzMWVtT0Y1RkpyZktOMnRNMFZidTFvRnhoaENReHM3Z01vMVNHbkhtdE9xUUtFUVJB?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-26 21:25",
-   "published_iso": "2026-08-26T12:25:00+00:00"
+   "published": "2026-08-26 21:30",
+   "published_iso": "2026-08-26T12:30:47+00:00"
   },
   {
    "title": "ネパールで洪水 384人行方不明、うち291人が外国人観光客か",
@@ -72,6 +112,14 @@
    "published_iso": "2026-08-26T10:10:00+00:00"
   },
   {
+   "title": "「インドネシアより給料７倍」鹿児島の外国人労働者が10年で４倍に 人口150万人割れの地方を支える現実",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxajFjTU95TmFMUTBKTmJCR3I4VTVOZEdHczdWZW9IYVFtSDJjOWszVnI0UnhiOHRVamJkamNnSHRwSDhZbDQ0QnktR2toZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-26 18:33",
+   "published_iso": "2026-08-26T09:33:00+00:00"
+  },
+  {
    "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
    "source": "TBS NEWS DIG",
@@ -88,20 +136,28 @@
    "published_iso": "2026-08-26T09:12:48+00:00"
   },
   {
+   "title": "入管にベトナム人が相次ぐ…なぜ 海外不法滞在の罰則強化へ（2026年8月26日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZHZLeXRPREx5bW52ampfeEt2bW5MRklkQkp5MHF5MVpXaFk5Y1lmWHdfd09IT3hDU0VOVUlILXBELU53TnI0WWpyMHZsM2FIY0JONmNmSnZaZkIwOXNVTjJaZlhyN3R4LVRpQzRuVnBrcGVQMWpmc1pVUWg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-26 18:01",
+   "published_iso": "2026-08-26T09:01:01+00:00"
+  },
+  {
+   "title": "帰宅途中に気分が悪くなった男子中学生 ネイルサロンに助けを求め…救急搬送 歩行が困難になった外国人観光客も 熱中症か 愛知 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ibHd2U0ctaUJXMkFBeUh6a2dDT2FWS2E0SURuVktldmxPcnJ1SnVEQmlwbHBEbUVSNXpSakhiQ09PdF8tVFJ5SDNabGNVY3NQRjR1T01yTGVuYjNUalIwR0tKQU9BTHc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-26 17:52",
+   "published_iso": "2026-08-26T08:52:00+00:00"
+  },
+  {
    "title": "日本人と外国人、相互理解促す 長野県が補助金事業の募集開始",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BM1VMbGdySS1IaTFuakFKQXhIUnA4eUVPcjBRSzdsY3FHcE9nRFZGcjNWUGRHNzJMVFFETGotYmZ6WmZFeDRhYXJwUWtFMzZFQm5UeEhJME5kc3RTbXpLbmNtaFJNVHp1VE1TR19hT3g?oc=5",
    "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-26 17:41",
    "published_iso": "2026-08-26T08:41:00+00:00"
-  },
-  {
-   "title": "法務省が9800億円要求、外国人関連倍増",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TWGh1U2c5aHh2WDFlTU5wLXJLb05jZ2R1VTR5Zi02dGV3MFJfOVk2cE5vbHowNHJFdGM2VjBnZ0Y4VXVfZVlqNXJ3RkF2V1dGZ3JJMFd0RzBqdlRrb2RKX0hadw?oc=5",
-   "source": "nippon.com",
-   "source_domain": "nippon.com",
-   "published": "2026-08-26 17:38",
-   "published_iso": "2026-08-26T08:38:33+00:00"
   },
   {
    "title": "法務省が９８００億円要求、外国人関連倍増",
@@ -160,6 +216,14 @@
    "published_iso": "2026-08-26T02:00:00+00:00"
   },
   {
+   "title": "法務省、９８５６億円要求へ 外国人関連を大幅増",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlZiX1hHdWJxSGVqaVBCTm5sa2F2SXVwTkprbmxScDlzZ3JjcUlFQTZabnhwLXB4V1kyM3FGWFdyRkg0NkpzbjlkUWFLY3BjbVBYQkZ6SUQ3NXdTWkpfVnN3OFpzbUdzbEYxajkzeW1TX19wSWdydVhwdzlzNV9ycw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 08:50",
+   "published_iso": "2026-08-25T23:50:00+00:00"
+  },
+  {
    "title": "イスラエルが国連パレスチナ難民救済事業機関の施設を占拠 ネタニヤフ首相が退去命令",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jc1RhRG8yZ09hSFM1VVV0UUJCVXJIak5TSDFhLXphbzdOc190SnVVZ3ViUVlWbjh0SUFhaEVZazZ5UjF4YXVnV2g3MUZHV0Q3UUpURHB5WGJXd2VUWGRWSi1iOFByUjMzdjR3a2FJZ3NobW13SHc?oc=5",
    "source": "産経ニュース",
@@ -214,14 +278,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-26 05:00",
    "published_iso": "2026-08-25T20:00:00+00:00"
-  },
-  {
-   "title": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaFQ5cjRiMzdSYzZ2SWRnRmxleHlQc1IxLW5kWHlkV3VWMll1TC1NUWxGYlFjcHpqRU1QVlJFaXRoTHI1aFMwOFcwQnB3VnVyTmM3SG1RYlRhWWlldE5EX0xBTWNCSE5jalpyNA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-26 02:00",
-   "published_iso": "2026-08-25T17:00:00+00:00"
   },
   {
    "title": "トランプ政権 専門技術持つ外国人向けビザ 申請手数料を1600万円とする案発表（2026年8月25日掲載）",
@@ -350,62 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-25 08:48",
    "published_iso": "2026-08-24T23:48:38+00:00"
-  },
-  {
-   "title": "専門技能ビザ、手数料１６００万円超 米政権、外国人就労抑制へ新規則案",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wWjRDYW5WSm43NXFTaWR1UFRrbkNSTGhBZVplR3liQ3FRZV9YajhOcDFucUpYTWRfMFVmalZLVzJYN3RsVFpUUVgzNnhhNll1dXBCTm13N1FZd2x5ZzdhWTFxTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-25 08:20",
-   "published_iso": "2026-08-24T23:20:00+00:00"
-  },
-  {
-   "title": "在留手数料値上げなど抗議 新宿駅前で「入管法改悪反対」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GUlJkYzFLbXhrVFNEeEQ1Y0hvZEgyQUFldjRvNmVrNkRHQ0h1T2Z0U2JtajY1RU50QjZ2WEQ3TG5PUEYxcFI0OW5LTUZEZWdrelNR?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-25 07:09",
-   "published_iso": "2026-08-24T22:09:07+00:00"
-  },
-  {
-   "title": "技能実習生の学びの場、廃業の危機 指導教員「奪い合い」で採算厳しく",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTU2IyZEpMVXcyRzZER0pTZjNLNjZQWGZqSGcyaEtUa2R0czFUNnJxeU5VNDQ3TFJDNXpFejhfUkZXMTNlOHliN3k3RFJhNEVxSnM0Rg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-25 05:10",
-   "published_iso": "2026-08-24T20:10:00+00:00"
-  },
-  {
-   "title": "笑顔広がる子ども食堂 ＮＰＯ法人ゆめみ～る、技能実習生も手伝い交流",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWXU2VTZEVy1iSlBqNnFoRzVITDdvWlpmanB5N0t4eGpOcktfMEg0WS13VWtLRnRmY3pTTjJPMDFXTWlueDkyNGI5SQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-24 20:00",
-   "published_iso": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NURiUGgxNlpHRUd3V2lOdnBVejZjTFAxYWFMOU5IU3Fnb3pBWUc3VWZBRzd2TUdsaEpPNDJmSkhRVERwblEyRlhfREprdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-24 20:00",
-   "published_iso": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JVkt2c05oSHVfSjRtV2JEU25KeFA4WUpDOHpJNDU1Y3g0X0xyWUVxTjVtRXI0cmVKZ2Fzd3pGSlhHbkVMWGpzMDR2RGRjS25Na0xzSS1aMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 19:15",
-   "published_iso": "2026-08-24T10:15:00+00:00"
-  },
-  {
-   "title": "みやぎ生協が「買い物難民」を支援 自宅と仙台・桜ケ丘店を無料送迎する「つなぐ号」の運行開始",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMmh0aGNVTUdtZFdPY0NXSFpIZ3l3cWdtamdQSjRvM2ItX2ttZFozSzBCVlYxeFhJdkR2aE8zX19OS3Ryemx2aXVEWWlOLVcwMWlYTHkzR2ZLdzBwV29lVg?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-24 19:15",
-   "published_iso": "2026-08-24T10:15:00+00:00"
   }
  ]
 }
