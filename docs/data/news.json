@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T13:52:27+00:00",
+ "generated_at": "2026-08-26T14:41:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,12 @@
  ],
  "items": [
   {
-   "title": "ネパールで大規模な鉄砲水 22人死亡、外国人観光客含む380人以上が行方不明（2026年8月26日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUgxdVplXzNRU205MHFIMXlaUU4xbFR6T29GRURCby1QREc5dHFpTk1yS21XZUE0b2xkeWthdk9lQy1JOV9jNWhmcW1ndUR5UVZTSGt3ZkR2d1U0Rjk0TDBDTEhqakU3MHcyZEFhSE00RW9XbzVSU1RwRDFUZ25td1VMWkw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-26 22:14",
-   "published_iso": "2026-08-26T13:14:01+00:00"
+   "title": "【地方創生 ×外国人材】ワールドインワーカー、北海道の外国人材受入れを推進する「HGC」にコーポレートパートナーとして参画",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Tkd6SGEwcUdXcmNJUU9rMTg1eVdlT0pjSFVEUk1pSDhtdEQxM0gycEtDdm50RHZERjREN25GLWRIek14ZXMxczdtY0laU29TN1R5bUh0Y2M2aXA2NFhpazFwMkdnMWVmODVZ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 22:10",
+   "published_iso": "2026-08-26T13:10:00+00:00"
   },
   {
    "title": "日本語がわからない外国人の命を地震からどう守る？防災講習や避難所の多言語表示 ゲストハウスでの避難訓練＝静岡県【わたしの防災】",
@@ -64,6 +64,14 @@
    "published_iso": "2026-08-26T10:12:00+00:00"
   },
   {
+   "title": "特定技能外国人病院などで受け入れ スリランカから13人看護の補助などに従事 人手不足解消へ 大分",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSUnU0bGNOSTZPYVFQMU9EenNYcEt5ZF9ZcFFXcXZjZWlWcEc2dzlpX2N0cDB4ZWswZ2JHcHRYdkFaM3pZZXJCNW9UeHhjZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-26 19:10",
+   "published_iso": "2026-08-26T10:10:00+00:00"
+  },
+  {
    "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
    "source": "TBS NEWS DIG",
@@ -78,14 +86,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-08-26 18:12",
    "published_iso": "2026-08-26T09:12:48+00:00"
-  },
-  {
-   "title": "入管にベトナム人が相次ぐ…なぜ 海外不法滞在の罰則強化へ（2026年8月26日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZHZLeXRPREx5bW52ampfeEt2bW5MRklkQkp5MHF5MVpXaFk5Y1lmWHdfd09IT3hDU0VOVUlILXBELU53TnI0WWpyMHZsM2FIY0JONmNmSnZaZkIwOXNVTjJaZlhyN3R4LVRpQzRuVnBrcGVQMWpmc1pVUWg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-26 18:01",
-   "published_iso": "2026-08-26T09:01:01+00:00"
   },
   {
    "title": "日本人と外国人、相互理解促す 長野県が補助金事業の募集開始",
@@ -128,14 +128,6 @@
    "published_iso": "2026-08-26T04:00:00+00:00"
   },
   {
-   "title": "【地方創生 ×外国人材】ワールドインワーカー、北海道の外国人材受入れを推進する「HGC」にコーポレートパートナーとして参画",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Tkd6SGEwcUdXcmNJUU9rMTg1eVdlT0pjSFVEUk1pSDhtdEQxM0gycEtDdm50RHZERjREN25GLWRIek14ZXMxczdtY0laU29TN1R5bUh0Y2M2aXA2NFhpazFwMkdnMWVmODVZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-26 12:16",
-   "published_iso": "2026-08-26T03:16:00+00:00"
-  },
-  {
    "title": "県内の在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSlRjSEthVWVqbUc1TWZBOHVrVFZSdFpRcTVlUUQzTERSdGVSRlJ6dnhESkxldUVkenI2dDVPSi1rcjZaOHZTeEJ0T0d4LVBsS09YeGZod01oQQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -166,14 +158,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-26 11:00",
    "published_iso": "2026-08-26T02:00:00+00:00"
-  },
-  {
-   "title": "ネパール人特定技能スタッフ7名が日本の大型免許取得へ挑戦 1名が教習所に通わず運転免許試験場で一発合格",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TG90OWJfYm80a1l2cFRWc1U5UzhrOGxFUURHZ3FuWG5Jc2pCZk5Uek5HOWJLVHJoOVRqUnFEdHV4S29WTGhWb1loSmFxLTlUZk5SUHRB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-26 09:25",
-   "published_iso": "2026-08-26T00:25:45+00:00"
   },
   {
    "title": "イスラエルが国連パレスチナ難民救済事業機関の施設を占拠 ネタニヤフ首相が退去命令",
@@ -232,20 +216,20 @@
    "published_iso": "2026-08-25T20:00:00+00:00"
   },
   {
+   "title": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaFQ5cjRiMzdSYzZ2SWRnRmxleHlQc1IxLW5kWHlkV3VWMll1TC1NUWxGYlFjcHpqRU1QVlJFaXRoTHI1aFMwOFcwQnB3VnVyTmM3SG1RYlRhWWlldE5EX0xBTWNCSE5jalpyNA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-26 02:00",
+   "published_iso": "2026-08-25T17:00:00+00:00"
+  },
+  {
    "title": "トランプ政権 専門技術持つ外国人向けビザ 申請手数料を1600万円とする案発表（2026年8月25日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGdpeHg2OXp3WERHUTI2bVRhTnZoV1NEOTJUWDdUWV9oS2RSdTVXQXJZcjFYd3NfelhueFpTcGpHeGdqcUlGdzRKZDBFUU9DdFlGeTdlclpPalVHTEcyOU0wUHR6MG1pSEo0ME5pNTFBeUM4M1FmQkFQU1ZSUVpha2E1dGU?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-26 01:28",
    "published_iso": "2026-08-25T16:28:01+00:00"
-  },
-  {
-   "title": "国連難民施設に強制立ち入りか イスラエルが退去命令",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05bXhUUEJISlktMjJaUElDMm1BekVaT3M2OUxZbGNkMHVNbDhGNUdTYUlEcnpjcHRoVEZaUEtCdmM0SWc0SnY2QzlZeUc3czFWZEdPaDVOd3oySXVrRlo0X0ZmdFhvdV9wWU9n?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-25 23:19",
-   "published_iso": "2026-08-25T14:19:36+00:00"
   },
   {
    "title": "外国人の日本語学習や出入国DX…入管予算を倍増 法務省の概算要求",
@@ -406,6 +390,22 @@
    "source_domain": "fnn.jp",
    "published": "2026-08-24 20:00",
    "published_iso": "2026-08-24T11:00:00+00:00"
+  },
+  {
+   "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JVkt2c05oSHVfSjRtV2JEU25KeFA4WUpDOHpJNDU1Y3g0X0xyWUVxTjVtRXI0cmVKZ2Fzd3pGSlhHbkVMWGpzMDR2RGRjS25Na0xzSS1aMA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-24 19:15",
+   "published_iso": "2026-08-24T10:15:00+00:00"
+  },
+  {
+   "title": "みやぎ生協が「買い物難民」を支援 自宅と仙台・桜ケ丘店を無料送迎する「つなぐ号」の運行開始",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hMmh0aGNVTUdtZFdPY0NXSFpIZ3l3cWdtamdQSjRvM2ItX2ttZFozSzBCVlYxeFhJdkR2aE8zX19OS3Ryemx2aXVEWWlOLVcwMWlYTHkzR2ZLdzBwV29lVg?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-08-24 19:15",
+   "published_iso": "2026-08-24T10:15:00+00:00"
   }
  ]
 }
