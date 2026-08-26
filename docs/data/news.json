@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T09:37:48+00:00",
+ "generated_at": "2026-08-26T10:32:15+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,8 +8,16 @@
  ],
  "items": [
   {
+   "title": "特定技能外国人病院などで受け入れ スリランカから13人看護の補助などに従事 人手不足解消へ 大分",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSUnU0bGNOSTZPYVFQMU9EenNYcEt5ZF9ZcFFXcXZjZWlWcEc2dzlpX2N0cDB4ZWswZ2JHcHRYdkFaM3pZZXJCNW9UeHhjZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-26 19:10",
+   "published_iso": "2026-08-26T10:10:00+00:00"
+  },
+  {
    "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAteXAyM0hPODhsdmpEU21kQ0NhMjd1d2hPVElMR1o4M2FxcHVCWVFGdy1nM0lfOVBRZW9CaV85MXVPWjNOanpMVThuc3Vjd1R2RWNoNkFzQmV2UERtSldPZUxQVUg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-26 18:30",
@@ -192,28 +200,12 @@
    "published_iso": "2026-08-25T20:10:00+00:00"
   },
   {
-   "title": "米高技能ビザ 手数料上げ 外国人制限 １０万ドル超へ再表明",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MXdrWTZoWjVNNDZOYTBpdVZaNFlJdnVWLUpPS25taTNvbGRIQTdreFhBWDlIQi1hMTlYRFl6ZTFGbEJJMGJYTWNTSmhrcldPWEh0RG1DWHhpZjNxeHVHZVdYcw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-26 05:00",
-   "published_iso": "2026-08-25T20:00:00+00:00"
-  },
-  {
    "title": "台湾で中国出自の「新移民」に疎外感、「中国で暮らした経験」で村八分も…政権が掲げる「多様性社会」に影",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmRUYWZ4ZXJ3bjdHb3FuTV82SnpsZ1MwUlI2aTdUTHB0enhsNXpzc2tqRkhVLXp0LVBYUklZVEVlUGNTd3VkRzd4aTUzbWpMbWEzdzItN0FrX2pfMmZ2U3h3?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-26 05:00",
    "published_iso": "2026-08-25T20:00:00+00:00"
-  },
-  {
-   "title": "米政権が外国人20万人のビザ取り消しへ､過去最大規模-ホワイトハウス",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ha0VRMzBRd3lKSW9DX0hFcUt4NmhjTGI1YWRXcWxQQkduTFRfVG5yQ25JRWdGQ0p3LUdBdlJ1ZUh0d2ZwV1cyNjVSVzEteC1sa3NMVDR5MnRjd09obEJsSjNzZ3hPakJzRGxaTFdBd0Y2ZjF2?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-26 02:56",
-   "published_iso": "2026-08-25T17:56:37+00:00"
   },
   {
    "title": "極右台頭、豪「ワーホリ」制限 住宅高騰、外国人に矛先 人手不足の農家悲鳴",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWXU2VTZEVy1iSlBqNnFoRzVITDdvWlpmanB5N0t4eGpOcktfMEg0WS13VWtLRnRmY3pTTjJPMDFXTWlueDkyNGI5SQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
+   "published": "2026-08-24 20:00",
+   "published_iso": "2026-08-24T11:00:00+00:00"
+  },
+  {
+   "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NURiUGgxNlpHRUd3V2lOdnBVejZjTFAxYWFMOU5IU3Fnb3pBWUc3VWZBRzd2TUdsaEpPNDJmSkhRVERwblEyRlhfREprdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
    "published": "2026-08-24 20:00",
    "published_iso": "2026-08-24T11:00:00+00:00"
   }
