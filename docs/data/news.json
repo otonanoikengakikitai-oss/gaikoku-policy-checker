@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T07:42:54+00:00",
+ "generated_at": "2026-08-26T08:39:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,20 @@
  ],
  "items": [
   {
+   "title": "【27卒】外国人留学生の就職活動に関する調査",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pQVBDemxlRUVyS01CbjZKRFM0V0t6TVR3ZTBJQUU1bkE4R3FieTJ6R3BCM3haaV9GWVdWWEVaNkU5RVNMdjdzSEFOUGZXdFN5bkRmZXA3SHFNWWx4QkRQZkhCOW9qd0U4N3ZJ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 16:46",
+   "published_iso": "2026-08-26T07:46:00+00:00"
+  },
+  {
    "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［鳥取編］1位は「御宿 野乃境港」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LZGVyMmVPejN0ZG1HZHd4UFlDYWVjQlBGVlBwbVpZM2VQR2w2NnlNbGtSRE4xc3VYc1haUVRPcy1HNmRPam9GaEd0RzIxOFQ4cGt2YzU3ajJKOHhteGRmODc2QWo0ZVBCa2U0?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-08-26 16:16",
    "published_iso": "2026-08-26T07:16:00+00:00"
-  },
-  {
-   "title": "23区最多の外国人住民を有する江戸川区、窓口の“言語の壁”をAIさくらさんで解消。",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVktVNjRCYlBfMmlmRHEyNk1GWm5HYy1lWElFQnhLbzFDeFRmMTBHd2NodE9lTFVmSmNEQW9uV1B6QVFnQzM4bjd5Z2hrc0VFdWF5V0pjcXM4M2FXYks1cnpPRXp6SklNdzJF?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-26 15:46",
-   "published_iso": "2026-08-26T06:46:00+00:00"
   },
   {
    "title": "訪日外国人が注目！Paykeアプリ「2026年7月人気コラムランキング」",
