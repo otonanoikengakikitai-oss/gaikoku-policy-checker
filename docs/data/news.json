@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T04:36:30+00:00",
+ "generated_at": "2026-08-26T05:31:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "訪日外国人が注目！Paykeアプリ「2026年7月人気コラムランキング」",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50aXlBbEhEU0RMM0hwUHNQbjktUmxRcFpRQ2p3alF3VXZSQUZ1enMza3B0eHQ4X3QzdUJuSlBWSktrWVpPQU1ua0Q1enhiLVhDTXM1VUNBOXZ5dGxLX3loQXBISGNKTjhaTVFv?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 13:46",
+   "published_iso": "2026-08-26T04:46:00+00:00"
+  },
   {
    "title": "在留資格の要件厳格化 配慮欠く規制、共生を阻む 社説(8/26)",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XbkpKNWlQeGtQWk9wUzhSdE1tMDg4VVBPZEdXVC04cUJjOUhDbDgzY3dzWjRjNmM0T0Z3QllGa2JwRy1mQzdGWEhVOXUwb21CdjVKeEN3b1A5TTM1UFQ4MA?oc=5",
@@ -22,14 +30,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-26 12:16",
    "published_iso": "2026-08-26T03:16:00+00:00"
-  },
-  {
-   "title": "「月給より高い」…在留許可手数料の大幅引き上げに悲痛の声 外国人頼みの業界にも打撃",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnVkFyOU1kaGN6ME01M1VSYnBKZnFqUmtUUGd5SU1XSUJ0dVlyR2o5WUs5anhjOVJ2OWRsQksyTks3NmtWX1A1bE5sTFpQSWhyT2dr?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-26 12:00",
-   "published_iso": "2026-08-26T03:00:53+00:00"
   },
   {
    "title": "「もっと英語を勉強しておけば」 夏休みに外国人と「限界集落」でボランティア",
@@ -64,20 +64,12 @@
    "published_iso": "2026-08-26T02:01:00+00:00"
   },
   {
-   "title": "官僚の反対「不良外国人来る」一蹴 規制緩めすぎ?訪日客4千万人に",
+   "title": "官僚の反対「不良外国人来る」一蹴 規制緩めすぎ？訪日客4千万人に",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMWY0VmxwYjJSWGprQkJ0blFNZzEzVzlOUWVFemtOSmMtME1URUl0eVViakxZRVFqNC05cklTNG0zVHpyUWQ5QXNScTdzQnlSWWpFaW56WW5JanptNFc4QnVucmpRUWc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-26 11:00",
    "published_iso": "2026-08-26T02:00:00+00:00"
-  },
-  {
-   "title": "7月は約5万人拘束 米移民局、第2次トランプ政権で最多 電気ショックなど強硬姿勢維持",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WUDR3c1JUUW9oU1FTdDFTNXRXLXhucWtadzdMSEtqWGx0QVM5enlZNGZPWFNPNks2Y09IUHdRSzBsNDFLakpwd3FKYjlnYUgwYVlxVzVaR2Q5Nm44Q1RJNlA1MnpWb0tDeUVtNFVZYkJkaUtwdGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-26 09:43",
-   "published_iso": "2026-08-26T00:43:55+00:00"
   },
   {
    "title": "イスラエルが国連パレスチナ難民救済事業機関の施設を占拠 ネタニヤフ首相が退去命令",
@@ -86,6 +78,14 @@
    "source_domain": "sankei.com",
    "published": "2026-08-26 06:19",
    "published_iso": "2026-08-25T21:19:39+00:00"
+  },
+  {
+   "title": "「月給より高い」…在留許可手数料の大幅引き上げに悲痛の声 外国人頼みの業界にも打撃",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnVkFyOU1kaGN6ME01M1VSYnBKZnFqUmtUUGd5SU1XSUJ0dVlyR2o5WUs5anhjOVJ2OWRsQksyTks3NmtWX1A1bE5sTFpQSWhyT2dr?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-26 06:00",
+   "published_iso": "2026-08-25T21:00:00+00:00"
   },
   {
    "title": "UNRWA施設に立ち退き指示、強制的に立ち入りか 東エルサレム [イスラエル・パレスチナ問題]",
@@ -184,6 +184,14 @@
    "published_iso": "2026-08-25T09:04:43+00:00"
   },
   {
+   "title": "東北楽天、外国人投手ヨナウィル・フロリモン・ロドリゲスと育成契約",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14NTd5U182OTBtLUF5SzFhN19sYlllMFZfeC1neTdfTG1mWlh1Rlk1bE9TUFFjN3pjcnJxc0c4cXN2ZTdUdl8zSjE1azAwMXdVaDFzRk5XNnk5Q3V1eHZmXw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-08-25 17:32",
+   "published_iso": "2026-08-25T08:32:51+00:00"
+  },
+  {
    "title": "仙台市、「国際探究ラボ」12月開設 外国人児童・生徒に日本語指導",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51cGpDVFpEUGtmU3Jxa3kwQnkxU2tOWkxwaFVKc0Z4cGRIbk41MlFqSnA0YU5QdWxYVGc4SHFIN1d1SFZKd09FN1prYU5vbURJTldBajF2NkNnamh6YzlxTmF0VTBHMUhhNkdGSQ?oc=5",
    "source": "日本経済新聞",
@@ -206,22 +214,6 @@
    "source_domain": "sankei.com",
    "published": "2026-08-25 16:01",
    "published_iso": "2026-08-25T07:01:54+00:00"
-  },
-  {
-   "title": "河北新報社 ビズラボ 河北経済研究所",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5MlZCQTlsU1ZBbXpraGFqTGdtSVdHd0hpTUg2NkNmRU9hU2JYbEdmaWFuNWNJRW5PbWNqMW9KRThnRHpJZDRDUEt1SmsydkNlQ2NYdTdmdUFNS1Q2bWRqUVlaRXRVZkNRV0xhWE9n?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-08-25 15:33",
-   "published_iso": "2026-08-25T06:33:27+00:00"
-  },
-  {
-   "title": "「外国人ってどんな人のこと？」「人を国や文化で悪く言う人がいたら？」―みんなで意見を出し合った",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXVfZmJNcEdPOS0tU1hzZzZUTk56NGRNQzlyeEtPbnVoaDdQcVJWVGlYenowbFd4QVJvQWVKR3hlZWVJRWR2Z1pkZGRjUmdscTlDM2R5NA?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-25 15:13",
-   "published_iso": "2026-08-25T06:13:28+00:00"
   },
   {
    "title": "外国人の在留手数料大幅引き上げ 閣議決定 “困窮者”は減額も",
@@ -406,6 +398,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-24 12:48",
    "published_iso": "2026-08-24T03:48:26+00:00"
+  },
+  {
+   "title": "トランプ政権の政策 75か国対象・移民ビザ発給手続き停止は無効 ニューヨーク連邦地裁",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDM5SEwzTU5mdDV5c3pUT0xZa1pOVDlLQi1lampTWGowWGFoRG9uNUZTQ3FNTUlNM0xPZVpldEtzOFF5MkR5cWpqX1RHdmlWa2d4V3N6WWNuZld3Y2VTTWZmZWJaMFBjUFAyVEh5NWF4dW9tNU1oRHdCYW9sbEVJMWtESC0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-24 12:02",
+   "published_iso": "2026-08-24T03:02:01+00:00"
   }
  ]
 }
