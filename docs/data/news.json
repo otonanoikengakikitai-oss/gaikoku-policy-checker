@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T01:08:09+00:00",
+ "generated_at": "2026-08-26T03:01:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
-   "title": "台湾で中国出自の「新移民」に疎外感、「中国で暮らした経験」で村八分も…政権が掲げる「多様性社会」に影",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmRUYWZ4ZXJ3bjdHb3FuTV82SnpsZ1MwUlI2aTdUTHB0enhsNXpzc2tqRkhVLXp0LVBYUklZVEVlUGNTd3VkRzd4aTUzbWpMbWEzdzItN0FrX2pfMmZ2U3h3?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-26 09:08",
-   "published_iso": "2026-08-26T00:08:39+00:00"
+   "title": "県内の在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSlRjSEthVWVqbUc1TWZBOHVrVFZSdFpRcTVlUUQzTERSdGVSRlJ6dnhESkxldUVkenI2dDVPSi1rcjZaOHZTeEJ0T0d4LVBsS09YeGZod01oQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-26 11:38",
+   "published_iso": "2026-08-26T02:38:00+00:00"
+  },
+  {
+   "title": "ネパール人特定技能スタッフ7名が日本の大型免許取得へ挑戦 1名が教習所に通わず運転免許試験場で一発合格 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZnd6TzlPOVBwa1lodHpFUWRGRWtnaU14QW96MjRFM2lRQjdONFU2bzgxREZpbzJPalBTOTJ4YmZYZXJxVHM5cl9wd3hHczllQ0hHQS1NWQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-26 11:07",
+   "published_iso": "2026-08-26T02:07:45+00:00"
+  },
+  {
+   "title": "外国人問題、火付け役は世論じゃなく政治 早大・田辺教授の調査から",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZVIxRndETHF3OEg3TTBvcVFleEY4N1FTYUhBSDExRmM5dTUtTDJQRG5iblpnODF1RDNuaWdVU2dFVl83NG5HR2ZqLVlWOWo2ejNxSlBwSG90ZExOV1I3NUVFaFBPMGs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 11:01",
+   "published_iso": "2026-08-26T02:01:00+00:00"
+  },
+  {
+   "title": "官僚の反対「不良外国人来る」一蹴 規制緩めすぎ?訪日客4千万人に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMWY0VmxwYjJSWGprQkJ0blFNZzEzVzlOUWVFemtOSmMtME1URUl0eVViakxZRVFqNC05cklTNG0zVHpyUWQ5QXNScTdzQnlSWWpFaW56WW5JanptNFc4QnVucmpRUWc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 11:00",
+   "published_iso": "2026-08-26T02:00:00+00:00"
+  },
+  {
+   "title": "7月は約5万人拘束 米移民局、第2次トランプ政権で最多 電気ショックなど強硬姿勢維持",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WUDR3c1JUUW9oU1FTdDFTNXRXLXhucWtadzdMSEtqWGx0QVM5enlZNGZPWFNPNks2Y09IUHdRSzBsNDFLakpwd3FKYjlnYUgwYVlxVzVaR2Q5Nm44Q1RJNlA1MnpWb0tDeUVtNFVZYkJkaUtwdGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-26 09:43",
+   "published_iso": "2026-08-26T00:43:55+00:00"
   },
   {
    "title": "イスラエルが国連パレスチナ難民救済事業機関の施設を占拠 ネタニヤフ首相が退去命令",
@@ -49,9 +81,9 @@
   },
   {
    "title": "外国人世帯が７割超えの県営住宅でバーベキューイベント 「この団地を家族のようにしたいもんで」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vVnpkay1JUTk0QVdSY3hwQTAwVTV5U1hCbHBMZlJRNE53YnJabUJORU9xWnpIS3MxRWFGS0hBSElfOHN6TVRWaUY3RQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mSENIZ1Njczd2ME5oZVRsTF9PbHF3V2FlVkZ1VkpyRkp2NUxGb25ZNzRiS1BPbVdnd3NDckpfLUpHQkRfMjlNY0VmS29GZE1uaEVnUg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
    "published": "2026-08-26 05:10",
    "published_iso": "2026-08-25T20:10:00+00:00"
   },
@@ -66,6 +98,14 @@
   {
    "title": "米高技能ビザ 手数料上げ 外国人制限 １０万ドル超へ再表明",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53MXdrWTZoWjVNNDZOYTBpdVZaNFlJdnVWLUpPS25taTNvbGRIQTdreFhBWDlIQi1hMTlYRFl6ZTFGbEJJMGJYTWNTSmhrcldPWEh0RG1DWHhpZjNxeHVHZVdYcw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-26 05:00",
+   "published_iso": "2026-08-25T20:00:00+00:00"
+  },
+  {
+   "title": "台湾で中国出自の「新移民」に疎外感、「中国で暮らした経験」で村八分も…政権が掲げる「多様性社会」に影",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmRUYWZ4ZXJ3bjdHb3FuTV82SnpsZ1MwUlI2aTdUTHB0enhsNXpzc2tqRkhVLXp0LVBYUklZVEVlUGNTd3VkRzd4aTUzbWpMbWEzdzItN0FrX2pfMmZ2U3h3?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-26 05:00",
@@ -272,14 +312,6 @@
    "published_iso": "2026-08-24T20:10:00+00:00"
   },
   {
-   "title": "移民ビザ停止「権限越え無効」 ７５か国対象 ＮＹ連邦地裁が判決",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BUVllRGZFOU56NG9kWTlXWTF4Q2IyTkMzdXVvUm9uakRmRUg1STY3elVpb1dKMHNscTZ3QTYyNW5BeEE3elFCenRyQmRsODdqVWYtemU2SGtaOGxsZTR5enJuNA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-25 05:00",
-   "published_iso": "2026-08-24T20:00:00+00:00"
-  },
-  {
    "title": "『わからんか、この野郎！ちょっとこいって！』特定技能ミャンマー人労働者を虐待か―農業法人の関係者らが金属棒で暴行の疑い「怖かった」札幌地域労働組合が6人を保護し即時停止要求〈北海道京極町〉",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NURiUGgxNlpHRUd3V2lOdnBVejZjTFAxYWFMOU5IU3Fnb3pBWUc3VWZBRzd2TUdsaEpPNDJmSkhRVERwblEyRlhfREprdw?oc=5",
    "source": "FNNプライムオンライン",
@@ -305,7 +337,7 @@
   },
   {
    "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HNjJBaVhKT1B6V3RiNWtlQmk4dXE5dWE5aE9acEFreDJRQUJhOXcyMHlvN1ZpSy16UXpJRWtXa3hlbEpEN1hOY3ExRldwdGpsSEtEc3QtRTJtbkFkZHVLenNzN2ljOHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGhaNF9xb1JDQzJjaHRfbFAxbm92TEZ3b242UVB3TGpESkIyNi1sZjZ2Z3RqN3E5ZnNpYVgyNjRhMlpRN0NVQjNlNHVadS02VlQ1UnBKeVRKQQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 19:15",
@@ -374,38 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 11:50",
    "published_iso": "2026-08-24T02:50:00+00:00"
-  },
-  {
-   "title": "トランプ政権の移民ビザ発給停止は「無効」、ＮＹ連邦地裁が判決…７５か国対象・「一律に拒否」問題視",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZU1dIVkJrWEt4emFTTC1HbHNWX0J2ZjhrN1ZVUzJpT2hpakt2dVFTOHZ5TjB5SXluZk9keWt0Y3FEN2ZmMS1uc1JwVmJjRFhwcTZYWC1TM0FqSXEwZ0pkQzFB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-24 11:00",
-   "published_iso": "2026-08-24T02:00:00+00:00"
-  },
-  {
-   "title": "永住許可の厳格化 共生社会が遠ざかる懸念",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sWEpVb25oSWdteWJmNzIzb2lYRjZIMzlsZjkzUnctTUdnZGkzaVdxUTFmanRENnpsOEtubURVTFhXVXEzWVM0c1BBaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-24 06:10",
-   "published_iso": "2026-08-23T21:10:00+00:00"
-  },
-  {
-   "title": "外国人技能実習生の受け入れを仲介、「監理団体」の一部が売買 新制度移行前に活発化",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ha2YwYzhjamc3a3VjYjRHcTdpcDc0V1ZlRnpfVWZzc1FLUERTb1A1S0RKeDNGLWVpYkVPN1ktWGF0UDdLYlEyLVZMWHVSemxWQ2FtMg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-24 05:10",
-   "published_iso": "2026-08-23T20:10:00+00:00"
-  },
-  {
-   "title": "郷土の開拓移民の記憶伝えねば 岐阜県内で「黒川の女たち」自主上映広がる",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYTVvaXcxS0ROTWVIQ0szUE9qbzBHRk4tc0JZTGJGblBIUDlteVB6Rnh6MHV1Nk1PeDM5WmRVdWpXeE9CamVzell0MWtUZmdrWHFSRg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-24 05:05",
-   "published_iso": "2026-08-23T20:05:00+00:00"
   }
  ]
 }
