@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T06:42:57+00:00",
+ "generated_at": "2026-08-26T07:42:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【独自調査】2026年最新：外国人に人気のホテル・旅館ランキング［鳥取編］1位は「御宿 野乃境港」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LZGVyMmVPejN0ZG1HZHd4UFlDYWVjQlBGVlBwbVpZM2VQR2w2NnlNbGtSRE4xc3VYc1haUVRPcy1HNmRPam9GaEd0RzIxOFQ4cGt2YzU3ajJKOHhteGRmODc2QWo0ZVBCa2U0?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 16:16",
+   "published_iso": "2026-08-26T07:16:00+00:00"
+  },
+  {
+   "title": "23区最多の外国人住民を有する江戸川区、窓口の“言語の壁”をAIさくらさんで解消。",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVktVNjRCYlBfMmlmRHEyNk1GWm5HYy1lWElFQnhLbzFDeFRmMTBHd2NodE9lTFVmSmNEQW9uV1B6QVFnQzM4bjd5Z2hrc0VFdWF5V0pjcXM4M2FXYks1cnpPRXp6SklNdzJF?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 15:46",
+   "published_iso": "2026-08-26T06:46:00+00:00"
+  },
   {
    "title": "訪日外国人が注目！Paykeアプリ「2026年7月人気コラムランキング」",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50aXlBbEhEU0RMM0hwUHNQbjktUmxRcFpRQ2p3alF3VXZSQUZ1enMza3B0eHQ4X3QzdUJuSlBWSktrWVpPQU1ua0Q1enhiLVhDTXM1VUNBOXZ5dGxLX3loQXBISGNKTjhaTVFv?oc=5",
@@ -304,6 +320,14 @@
    "published_iso": "2026-08-24T23:48:38+00:00"
   },
   {
+   "title": "専門技能ビザ、手数料１６００万円超 米政権、外国人就労抑制へ新規則案",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wWjRDYW5WSm43NXFTaWR1UFRrbkNSTGhBZVplR3liQ3FRZV9YajhOcDFucUpYTWRfMFVmalZLVzJYN3RsVFpUUVgzNnhhNll1dXBCTm13N1FZd2x5ZzdhWTFxTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-25 08:20",
+   "published_iso": "2026-08-24T23:20:00+00:00"
+  },
+  {
    "title": "在留手数料値上げなど抗議 新宿駅前で「入管法改悪反対」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GUlJkYzFLbXhrVFNEeEQ1Y0hvZEgyQUFldjRvNmVrNkRHQ0h1T2Z0U2JtajY1RU50QjZ2WEQ3TG5PUEYxcFI0OW5LTUZEZWdrelNR?oc=5",
    "source": "東京新聞",
@@ -318,6 +342,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-25 05:10",
    "published_iso": "2026-08-24T20:10:00+00:00"
+  },
+  {
+   "title": "笑顔広がる子ども食堂 ＮＰＯ法人ゆめみ～る、技能実習生も手伝い交流",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xWXU2VTZEVy1iSlBqNnFoRzVITDdvWlpmanB5N0t4eGpOcktfMEg0WS13VWtLRnRmY3pTTjJPMDFXTWlueDkyNGI5SQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-24 20:00",
+   "published_iso": "2026-08-24T11:00:00+00:00"
   },
   {
    "title": "外国人と共に 札幌の小学生がイスラム教の礼拝堂で交流…手作りのプレゼント交換も",
@@ -337,7 +369,7 @@
   },
   {
    "title": "特定技能のミャンマー人らに暴行か 町議らを傷害容疑などで刑事告訴 20歳男性「怖かった、痛かった」町長は「できることは特にない」役場の不対応に懸念の声 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGhaNF9xb1JDQzJjaHRfbFAxbm92TEZ3b242UVB3TGpESkIyNi1sZjZ2Z3RqN3E5ZnNpYVgyNjRhMlpRN0NVQjNlNHVadS02VlQ1UnBKeVRKQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JVkt2c05oSHVfSjRtV2JEU25KeFA4WUpDOHpJNDU1Y3g0X0xyWUVxTjVtRXI0cmVKZ2Fzd3pGSlhHbkVMWGpzMDR2RGRjS25Na0xzSS1aMA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-24 19:15",
@@ -374,38 +406,6 @@
    "source_domain": "htb.co.jp",
    "published": "2026-08-24 16:21",
    "published_iso": "2026-08-24T07:21:00+00:00"
-  },
-  {
-   "title": "難民選手団が出場へ＝愛知・名古屋アジア大会",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lRVFsMzlzY2dQYmVNdDlHVmt0RzJ2SzJUT3BSMldGUFV2UnRnSk9Cc1BJcko2VmNPOWhWRm9MeEh4S1VMVm5YSWNzejRkZnlQU05tVQ?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-08-24 15:58",
-   "published_iso": "2026-08-24T06:58:00+00:00"
-  },
-  {
-   "title": "米政権のロシアやイランなど75カ国対象移民ビザ発給停止は無効 ニューヨーク地裁",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuU05iNlRVeVNDZVJ4aEFBY19sSlgwVTd2VEdtMnVwNUViY0haY29IWUs2TXAtZFd2SE9JWk1RajREcnNMdnowU0tvOVdJWE5wcGI3TVJUak5wVGJyUlFYamVIQ3IyV21oTUFTUVJ0OWpWQkJqRFZyZ3dB?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-24 12:48",
-   "published_iso": "2026-08-24T03:48:26+00:00"
-  },
-  {
-   "title": "トランプ政権の政策 75か国対象・移民ビザ発給手続き停止は無効 ニューヨーク連邦地裁",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDM5SEwzTU5mdDV5c3pUT0xZa1pOVDlLQi1lampTWGowWGFoRG9uNUZTQ3FNTUlNM0xPZVpldEtzOFF5MkR5cWpqX1RHdmlWa2d4V3N6WWNuZld3Y2VTTWZmZWJaMFBjUFAyVEh5NWF4dW9tNU1oRHdCYW9sbEVJMWtESC0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-24 12:02",
-   "published_iso": "2026-08-24T03:02:01+00:00"
-  },
-  {
-   "title": "農業法人で働く特定技能外国人のミャンマー人男性 暴行受けたなどとして実質的運営者とみられる町議らを刑事告訴 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LVzlkc0ZXaTJ0OVBwUjVEZjNGVW5yYzBmakZjUDFiZkdGMVdaTjBSdXVDNHlHVDEtcHh1Z3plRWJsOHkzc0xKY2xBMzVmR2YyVDdMeG9LXzdpMi1JTk9NRTZXa3Qzazg?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-24 11:50",
-   "published_iso": "2026-08-24T02:50:00+00:00"
   }
  ]
 }
