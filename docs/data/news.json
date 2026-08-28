@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T23:34:19+00:00",
+ "generated_at": "2026-08-28T09:29:01+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「外国人の安全・安心を奪う」 永住許可要件厳格化、撤回求める",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UV3p4R3k0eEJ0M2stRWlVbFFGWlBGYUY4UjhQaVUzWmdsbkU5Q3AxdjVuVXE3TnVMQ3BZbUpqaVNkZEgwNmM5MUhzWXRSZHlkQmh6aThocVpkaEJ2ckdINVFCZw?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-08-28 15:46",
+   "published_iso": "2026-08-28T06:46:33+00:00"
+  },
+  {
+   "title": "『はい、移民です。文句あるかい？ ひとりの帰化者の日本文化雑考』マイク・モラスキー著（光文社）",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TQ0FJNjRFbzR2OTVrVGZmMnlTcUFoZWlYSUVGRDBVRHRtVDYwakJtdE1qTDJ6MjlzajRtbjdtTXprYno3ekd5UmJNU204QjdzZURoaU82N1Y2aUJfbUZiaDBCZTY2YW5fX3FFdVc4Z25IZ0JNQlE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-28 15:20",
+   "published_iso": "2026-08-28T06:20:00+00:00"
+  },
+  {
+   "title": "外国人に伝わる言い換え学ぶ 可児工業団地で日本人向け日本語研修：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUVRlZ0k3SlpSM0tnQWlDWDRWMUIxYnBTUVkzRGx5VFhGYnpTMWl5aldPYmpxQjFVd3NZZHZtMVBHd0lfRGF1UTJUcDhfWkI1VjlSNUxyU1hhS0lfV0tN?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-28 12:05",
+   "published_iso": "2026-08-28T03:05:00+00:00"
+  },
+  {
+   "title": "ネパール国境の大規模土石流、死者４６９人に…日本人５人含む外国人５１７人が行方不明",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pQWFRMXc2MFpiVWxnMjhiQzEwdlRIVHNHWTZJVnJ5QVRDM2kwOS1QMUN1d3c4aUtZWHNRNHptM2Q1YWRsaGxsMHpmLXN6U2tGMmtYNUtWOVJfZ0d4ajc1V093?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-28 12:02",
+   "published_iso": "2026-08-28T03:02:00+00:00"
+  },
+  {
+   "title": "【識者コラム】必要性説く政治家現れず 移民受け入れ、現下の危機 長谷部恭男",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OUDFIWTNFdnZFTGo3Y1V3YWUxTkU2MmJrVzBOV2ZjZ2V1Z2xQX2dzWU9ZRDZqamFqdE11RVhUcHI4UXhJVlJVYmVGVmZLdDFNS3pQVHpR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-28 10:40",
+   "published_iso": "2026-08-28T01:40:27+00:00"
+  },
   {
    "title": "刑務作業品、訪日外国人にも売り込み 東京タワーで29、30日に初の矯正展",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13QmlTY0c3a1JqQXVsOHRHQV9Oc2RtUjB4TFg5R1Y4XzBkZ2ZGSGJNeUdiaGpSOEViU2k4T1JUWGJpN2ZHM21vWFVxNW55Z3JJX09kS205a084aUt4cjg2bVc0a1lDaVFQSlV6UGhQZHFmOTJPX2c?oc=5",
@@ -24,20 +64,20 @@
    "published_iso": "2026-08-27T21:00:00+00:00"
   },
   {
-   "title": "在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSlRjSEthVWVqbUc1TWZBOHVrVFZSdFpRcTVlUUQzTERSdGVSRlJ6dnhESkxldUVkenI2dDVPSi1rcjZaOHZTeEJ0T0d4LVBsS09YeGZod01oQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-28 05:58",
-   "published_iso": "2026-08-27T20:58:57+00:00"
+   "title": "インドネシア労働省 県と協力覚書を締結 技能実習生の送り出し、受け入れ促進 ／山口",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RHk5eEVXUWFoQ0RsUXh2RnBnWmNXbm1fUmtpWFYyUzdYNGpzV0h2dUhBRldUSGtwVkF6X1dnN3JWVENISEZPa01YV1pFd0NWenlSaGZ3QXB4aENRN09Lb2d4Yk9ZNDJm?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-28 05:03",
+   "published_iso": "2026-08-27T20:03:13+00:00"
   },
   {
-   "title": "日本で働く理由は？ 播磨福崎高生が福伸電機訪問 外国人従業員に取材|西播",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52ZENNZnd4X0pYMWktUEd1a3RBNGw2UEsyREIwR19jVXUwdm9pQXJGVFNrd1BkamVBUFp5ZXZVOHBvU1YwVjctSTFXZHc5SkxRdVYzZ3JySlRaNzJKdmhtUmpyQWR1akNLQWlDaHVB?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-28 05:10",
-   "published_iso": "2026-08-27T20:10:00+00:00"
+   "title": "千葉：外国人と暮らす〈１〉 労働者１０年で2.6倍：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LUnUybHNfX0JlSjJZNE1JTVM1SzJGLU5lNmRYaDRvVWlJakV2dk5CdGlySXk5cmJZeDNiSTYydG96R1dESkhVdGc1dWVIWVFjM1lwUkwtcFIwcGFfVHhaVjNpbWw5UEJhaVh0cFQtQzc0cXNx?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-28 05:00",
+   "published_iso": "2026-08-27T20:00:00+00:00"
   },
   {
    "title": "山口：技能実習生受け入れ強化 県が覚書 インドネシア労働省と ：地域ニュース",
@@ -64,14 +104,6 @@
    "published_iso": "2026-08-27T19:00:00+00:00"
   },
   {
-   "title": "ネパール・中国の巨大土石流 外国人含む多数が行方不明 [写真特集1/8]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yQ014b0x1a09PZkFFellVRUg3NEZmcEFJMW91dHZ5SDF1SWdnY1FWOWFlOEVTSXhfdG5sclRTSnVaMUJqTHRrbFFMWFAtaFZSek9Gb2NNVGZFMGhUSThTWkxFUzJIUQ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-27 22:55",
-   "published_iso": "2026-08-27T13:55:54+00:00"
-  },
-  {
    "title": "【独自】JR北海道、初の「特定技能」外国人採用 名寄で保線業務",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TcUVicDBQTUc2eGlibHJCT21vajVfYjJQZTIwSUtkRk9Wck43TGtTay1XNHpQYXdlQ2VvRVRVQ19MOXpsU2dldWRVYw?oc=5",
    "source": "47NEWS",
@@ -88,28 +120,12 @@
    "published_iso": "2026-08-27T11:47:43+00:00"
   },
   {
-   "title": "【更新中】ネパール大洪水 行方不明の日本人5人「夫婦と子ども3人の家族」か 入国直後に運転手と合流も…運転手と共に消息不明 ＜死亡165人 外国人466人含む800人以上が行方不明＞情報まとめ",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KbVRpSlhVWFJsUWF5WDlGdDRxVVRHUUVZaV9zUmpkSk9nYzJtajJGME5DZk9yVG13NHd2NGpVRjAtTEpqeEpaYlZUTUY2MTd6QXdyWm1paHhKT2pjMFd2cWxFZjItSkpDWHUxeEtraHhHOFhRZTBJZmN3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-27 20:00",
-   "published_iso": "2026-08-27T11:00:00+00:00"
-  },
-  {
    "title": "九州7県の外国人入国者数、7月は20%増の42万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5VGw0NHhRUkxNRXN4cjZ3XzFnZXVvMi1DaU1aZDRTUjVLZ0RTVUVYbFRYRHVIR2FxaEVFNElXU2VJUmRCM3Z1MVNMZ290TXhHRDRKTFNpX1o5WkhLT1NHeTBzTUZWXzF4WWE0aA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-27 19:26",
    "published_iso": "2026-08-27T10:26:37+00:00"
-  },
-  {
-   "title": "1週間の荒行・山伏修行「秋の峰入り」始まる 外国人含む18歳～79歳の男性132人参加 出羽三山神社",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LcGE0emVINHVoZ3pEQ3RsbExZcTNVaTRodExjTThnaG9wZjI4THprYzhEeU5aVFMweldzT1FJOVBMaGJ1M1M5M0lWLUFyQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-27 19:17",
-   "published_iso": "2026-08-27T10:17:00+00:00"
   },
   {
    "title": "山口県、インドネシアと連携強化 技能実習生の受け入れ促進へ",
@@ -152,38 +168,6 @@
    "published_iso": "2026-08-27T08:54:00+00:00"
   },
   {
-   "title": "函館に外国人観光客向け料理教室 七飯のNPOが10月に開設",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SYi1pdGx6eU1rdm4teURsN2k5eUY0NmtqaFdYdU9WNm1MNnE3aThkRXlSNkF3MkkwNi1fU2xlbTctOXR0MlJKNmpDZk4zaE05RlZUR1VZaVI1Q2dSYjY2N3dfRlk?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-27 17:43",
-   "published_iso": "2026-08-27T08:43:31+00:00"
-  },
-  {
-   "title": "長野県､空き家活用や若者･外国人の住まい確保を重点施策に ｢住生活基本計画｣見直しへの素案示す",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UZ05tRFpvMDEtVElhU3BfRWx2V1QwY1RkanpDQk5jTVF1T1FkYkdQVG8xN2VzcUt6a3lRTU8zRktnVWJvMWZ3QXBNaW9TVEljRlRBYnkwMFk2YXN3Z2hiMXB1bnRibWEyaFpSRzVZREc?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-27 16:44",
-   "published_iso": "2026-08-27T07:44:00+00:00"
-  },
-  {
-   "title": "外国人と消防「互いに」理解 愛知県・海部東部消防組合が各地で防災教室",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WXcwaVdkVkhVM1BDSXVJU2dqWF9rSUJOS1Q0eWdWNjJ5d0N1NXZzMDA0V0JzdHZWSzRnZ1FWbUNpTFVLX0F1alNCbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-27 16:16",
-   "published_iso": "2026-08-27T07:16:28+00:00"
-  },
-  {
-   "title": "ネパール・中国大洪水で1300人超が不明 外国人多数が被害か",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04cDJodDFaR3R5UUNaU3NjWlNJbFpVXzBkU0hhcXpCQ0FiVlVzVTNpWGRmeEk0eEdfVl9EVC1IUTMySjVXRW9WT3hISG9PdHRxOWI5SWRrQWJDTU1BeWR3ODNwcEtlUExr?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-27 15:06",
-   "published_iso": "2026-08-27T06:06:00+00:00"
-  },
-  {
    "title": "女満別空港近くでレンタカー利用の外国人観光客らに交通安全啓発 網走署・美幌署が英語・中国語チラシ配布",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4WHhxaGNKS19rT2d0amxleWpiNFk2WmRnc2EyajJCWDh5LVNGdW93N3lKQTZRbDIzTDlOQ21SM0E5a2R1VUdJbmFIY1U1RjRLeTUzd1ZHWmR0Zw?oc=5",
    "source": "北海道新聞デジタル",
@@ -192,36 +176,12 @@
    "published_iso": "2026-08-27T05:54:28+00:00"
   },
   {
-   "title": "倶知安町国保、加入者の過半数が外国人 未納8割超、町は要件見直し要望",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84SnpqMkd5SFlXb0tlODBEck03c0poQmFzVXhscUJsWW9CMFNRci1naExhVmdPQkRoZy01UjhGalhfenVXTmJFaVpuMnVlOTgxYlRVZ3I1dVMyQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-27 14:30",
-   "published_iso": "2026-08-27T05:30:00+00:00"
-  },
-  {
    "title": "「妊娠したら仕事を辞めてもらう」技能実習生の4人に1人が経験 “退職強要”で賠償命令も 「同じような状況の女性のために声を上げたい」フィリピン女性の思い【news23】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sTEU2cnk2ZnJYcndxNkpCT0s4Smh1ZmZER0szYWV0Z0poM1dfWmtqLXkwb1A4X3BVY3ZHTFVCdjRyaWl5TGlJTXI1WXVTbVpjTFBJWHg3VQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-27 14:10",
    "published_iso": "2026-08-27T05:10:00+00:00"
-  },
-  {
-   "title": "トランプ政権「移民ビザ」の審査手続きを一時停止 各国のアメリカ大使館でビザ申請者の面接も延期に 再開時期は不明",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWDVsZExTU0lEZlpHTEoxUXZJNlR5RmhEV1VydDQ5MGloTzBvUUl5MXJvcmxPQzlGeV9ZUFg1bklxYzB3eFpNcUxOT2JuUWVLMFhuNXJwalBSd1BjRDFtTWdpb01xeE1uVFVibXJhak5HT2lW?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-27 12:39",
-   "published_iso": "2026-08-27T03:39:25+00:00"
-  },
-  {
-   "title": "「安心して暮らせるように」地震体験踏まえ外国人実習生に防災・防犯呼びかけ 熊本・上天草警察署",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWF9BSXh0RFYxT0NySmlBc2U2cmtESnhsTFpvMFFRSkNFR1g2NjhHeGR6MlJzX1RONUpiR1hycTN5U2cwSWxZUm45TWp1WUZzUlB2X2MzNk93Zw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-27 12:26",
-   "published_iso": "2026-08-27T03:26:00+00:00"
   },
   {
    "title": "緊迫する中東情勢,トランプ政権：移民ら暮らす「テヘランゼルス」 米イラン戦闘半年、失望の声も",
@@ -320,14 +280,6 @@
    "published_iso": "2026-08-26T20:00:00+00:00"
   },
   {
-   "title": "（不安の正体 多民社会）政官の思惑：４ 高市氏台頭、外国人政策厳格に",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qUmdPTnEtRHNkdVNKU1pZSnEwQUhHSnU1Ri1PT3NyRGRYZHowb3l5UXA0WDh2ZkVrNmdfdXc3UG5tdlZRODJ3dUJfSW85WXNUb1dMdmJpU2R4bnNf?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-27 05:00",
-   "published_iso": "2026-08-26T20:00:00+00:00"
-  },
-  {
    "title": "［異国ログ］顔隠す中南米移民",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ERGZLX0psSi1OVGhHRFZWc0RTSHg5SE1Db1BNYmpKMjBrNWdnOXc5MmhCM3VGV1gzZngtMXJBbGhvR050T3NhZ08tWGFTTzJjM2VhazZuZ0FYd1VENmdmWEN3?oc=5",
    "source": "読売新聞",
@@ -358,14 +310,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-26 22:10",
    "published_iso": "2026-08-26T13:10:00+00:00"
-  },
-  {
-   "title": "ネパール洪水で95人死亡、外国人ら380人超不明 中国でも被害",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tLUxiQkRJUmhPY3VqbUNKeFBUbFhUQm1FeW40T2NtZ1Eyd2lyZTlIb1BRX0tINFN3aUdtX1FKOXVQU2JsbXNOXzRDSVRaR3pVVmFGRTdRb3hhb19Md1B3a2hHcWF3WTJnMHBfNg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-26 21:39",
-   "published_iso": "2026-08-26T12:39:34+00:00"
   },
   {
    "title": "外国人受け入れ、何人まで？ 与党に溝 人手か総量管理か 変わる外国人政策（中）",
@@ -400,12 +344,68 @@
    "published_iso": "2026-08-26T09:01:01+00:00"
   },
   {
+   "title": "在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSlRjSEthVWVqbUc1TWZBOHVrVFZSdFpRcTVlUUQzTERSdGVSRlJ6dnhESkxldUVkenI2dDVPSi1rcjZaOHZTeEJ0T0d4LVBsS09YeGZod01oQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-26 11:38",
+   "published_iso": "2026-08-26T02:38:00+00:00"
+  },
+  {
    "title": "敗戦知らず集団自決した旧満州開拓移民を悼む 長野県中野市で法要",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95THNaZDZSRDNMOUJicVZxazRPcFFXTmdFc3hsek1leDlXTHlXOUJ3dW9qYVpJTDZIZVRPa0tvRHhZakh5S3RvTmx2NG8tcUM0LW1JMDIzLWFXWDM0eERMR0JwWTVEZjQ?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-26 11:15",
    "published_iso": "2026-08-26T02:15:01+00:00"
+  },
+  {
+   "title": "外国人問題、火付け役は世論じゃなく政治 早大・田辺教授の調査から",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZVIxRndETHF3OEg3TTBvcVFleEY4N1FTYUhBSDExRmM5dTUtTDJQRG5iblpnODF1RDNuaWdVU2dFVl83NG5HR2ZqLVlWOWo2ejNxSlBwSG90ZExOV1I3NUVFaFBPMGs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 11:01",
+   "published_iso": "2026-08-26T02:01:00+00:00"
+  },
+  {
+   "title": "官僚の反対「不良外国人来る」一蹴 規制緩めすぎ？訪日客4千万人に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMWY0VmxwYjJSWGprQkJ0blFNZzEzVzlOUWVFemtOSmMtME1URUl0eVViakxZRVFqNC05cklTNG0zVHpyUWQ5QXNScTdzQnlSWWpFaW56WW5JanptNFc4QnVucmpRUWc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 11:00",
+   "published_iso": "2026-08-26T02:00:00+00:00"
+  },
+  {
+   "title": "UNRWA施設に立ち退き指示、強制的に立ち入りか 東エルサレム [イスラエル・パレスチナ問題]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3l3bnVCTEFmc0RVVWt1WGE4eC03eVVlQ0F5X1FBYnNwd3VMM1JVaUFOSDZxS3NhV2taN0plbnpQcFlLNHpaTzFpMmZFRmNzZWtxZ0ltMDYwQlJ3NENGUFRyYlo2cUU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 06:00",
+   "published_iso": "2026-08-25T21:00:00+00:00"
+  },
+  {
+   "title": "「国家安保に関わる事態」宣言 移民殺到のスペイン領セウタ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kejB1VlVSMFlONjc1MjFhN0xVcnM5SWl6czQ2aFdESElwb3BfVWlEeHlXZkh5UjF0bGx2OXVRNWhZQm02MXIyM3FSSG1wTVVGZC03eVgzakt0UWJLRDZtb1Rsaw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 05:54",
+   "published_iso": "2026-08-25T20:54:00+00:00"
+  },
+  {
+   "title": "台湾で中国出自の「新移民」に疎外感、「中国で暮らした経験」で村八分も…政権が掲げる「多様性社会」に影",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nNmRUYWZ4ZXJ3bjdHb3FuTV82SnpsZ1MwUlI2aTdUTHB0enhsNXpzc2tqRkhVLXp0LVBYUklZVEVlUGNTd3VkRzd4aTUzbWpMbWEzdzItN0FrX2pfMmZ2U3h3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-26 05:00",
+   "published_iso": "2026-08-25T20:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権 専門技術持つ外国人向けビザ 申請手数料を1600万円とする案発表（2026年8月25日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGdpeHg2OXp3WERHUTI2bVRhTnZoV1NEOTJUWDdUWV9oS2RSdTVXQXJZcjFYd3NfelhueFpTcGpHeGdqcUlGdzRKZDBFUU9DdFlGeTdlclpPalVHTEcyOU0wUHR6MG1pSEo0ME5pNTFBeUM4M1FmQkFQU1ZSUVpha2E1dGU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-26 01:28",
+   "published_iso": "2026-08-25T16:28:01+00:00"
   }
  ]
 }
