@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T03:28:28+00:00",
+ "generated_at": "2026-08-29T10:45:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,76 @@
  ],
  "items": [
   {
+   "title": "【社説】外国人の永住、突然高くなる壁 望みを砕く変更は悪手だ [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WGxQR1hYelphR1NYTDVlckRkN3UzMkVyTFdveUtxTkFZMEx2TURieHRySlVIelM2Y204YTMxbEpZRjZHcjk2Qlc1Uk1iaUhvcVVqWERJTHFLQkpGYUVYWE5WWWhBeVk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-29 19:00",
+   "published_iso": "2026-08-29T10:00:00+00:00"
+  },
+  {
+   "title": "７カ国語で書かれた折り鶴で外国人への交通ルール啓発も JICAの国際交流イベント開催 札幌・白石区",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZEF4X2RTR0tHWU1CTWZjbmRjc05DTGppVFFFUG1KaFltQno4T3FWTWdDVWhkY2hKVElqVDdTMjlkOXRPOHJHZnNtVVRTTkRiNGVfMTN6eVVNZw?oc=5",
+   "source": "HTB 北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-08-29 17:55",
+   "published_iso": "2026-08-29T08:55:00+00:00"
+  },
+  {
+   "title": "富士山で外国人登山者の遭難相次ぐ 米国人女性と豪州人男性の救助要請 今夏の搬送者は去年の約2倍",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aYklFTWxCTEZUXzhZc3I1YkluSTlwLXBZMnZ0czlxUGNiT2wzZWdzcERkX0tRWU1TeFNmd1RRY2JtaEZpamp2Vzd5c2pXZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-29 17:05",
+   "published_iso": "2026-08-29T08:05:00+00:00"
+  },
+  {
+   "title": "障害者が染色体験楽しむ 高鍋で共生社会推進事業",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBESlZLcnFFWTFWM3B2U1pidVZMeVp2bndobDJSd1ByeF9GTVFmOTFxTU1Eb1pUdEhNdDI4bUJOczFOcEhVczRsUWNQbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-29 17:01",
+   "published_iso": "2026-08-29T08:01:00+00:00"
+  },
+  {
+   "title": "富士山須走口5合目 外国人女性「足首が痛くて変形して動けない」などと訴え 救助要請 山岳遭難救助隊が出動中",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94VURPekpzbmhyR1AzSmdVN19pSE5rUm0zbTBJMjBuMERtWnpIT3otSWlHS3cwTGZHMGx2UXlGckduczU0S0djbS1QOVBFUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-29 14:20",
+   "published_iso": "2026-08-29T05:20:00+00:00"
+  },
+  {
+   "title": "「共助」に重要も伸び悩む、災害時の外国人支援ボラ 栃木県国際協会の「バンク」設置から15年",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CdWpxLTlkY3p2eXEwdzhvNUJYVGJHeHZfU3NjWWhzTno3NEVVcF9fM1A4TEp3VEFDQmIwTmctWDNVTDJTUTlqWXBVQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-29 12:40",
+   "published_iso": "2026-08-29T03:40:26+00:00"
+  },
+  {
    "title": "ひき逃げか…自転車の外国人男性が骨折などの重傷「大きな音がした」 滋賀・東近江市",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqVXVmQlJ3LTdBVG5XZUZKbHROUmZXVVhkVG5HMTdDUU02RzZiVGhIV3ByM0NZbS03cm5WVVMwcHpnaDlLMkI4NHN1UXl4Ti1nUUhSNC1JOGhqeWZUbE5ONXB3aU4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jbG9BWGFTZXJiaEU0ZnBnal84ZzFwNXdiMGphMW1PRjJWSFhNZEFJMWhOR29XV002TnBVSXVyaFNyOV9tbUN5M29EbTZPcC1XNDE3STBDQ0xDdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-29 12:18",
    "published_iso": "2026-08-29T03:18:25+00:00"
   },
   {
-   "title": "災害時の外国人支援ボラ96人に 栃木県国際協会の「バンク」設置から15年",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CdWpxLTlkY3p2eXEwdzhvNUJYVGJHeHZfU3NjWWhzTno3NEVVcF9fM1A4TEp3VEFDQmIwTmctWDNVTDJTUTlqWXBVQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-29 11:30",
-   "published_iso": "2026-08-29T02:30:00+00:00"
+   "title": "ICE、トランプ支持者を不法滞在で拘束 強行な移民対策を歓迎する英活動家ヤノプルス氏",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWFBnOTk1UC1NWGgyUEtMSDVzZ09PdnZGT1lnbTBTME11TXZiUFpRNTdzQTktWE9IcnU0T3FvQnRCUDgtWVh0VzhWa2V6SUl0WHE1WTVxdDlzRGZKcVF1MmVVTDYyOGt1QXJXMkpoTlYwQjczNEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-08-29 12:11",
+   "published_iso": "2026-08-29T03:11:32+00:00"
+  },
+  {
+   "title": "トランプ氏支持の英国人保守活動家を拘束 不法滞在で―米移民当局",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14LWwwemF6QjlyUUJ4UEtsdnR3bVl2YnF5WUpmRjM4THF5Q0ZIdTdHRVpNWHVOdjRhQkpSRXBTRlBTYkdvYnoxUVBJc0Y3MDdmbllZMmZsb0dxX2Nfd19pM01mMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-29 09:33",
+   "published_iso": "2026-08-29T00:33:00+00:00"
   },
   {
    "title": "産廃処分施設で技能実習生がベルトコンベアに腕を巻き込まれ大ケガ（山形・天童署）",
@@ -48,6 +104,22 @@
    "published_iso": "2026-08-28T20:10:00+00:00"
   },
   {
+   "title": "文科省予算、過去最大８兆円超 日本語教育支援で「事項要求」も",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUWJPQUdydFlKM0w0X0ZIT1pHa0twY3J3dFNlcjNyUkNRR1NUaGdxRjJIdU9jRHFwalVHV2lKNlpqRFZVVTdCaHJ3Mzh1UFlZR2s0?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-08-28 20:30",
+   "published_iso": "2026-08-28T11:30:04+00:00"
+  },
+  {
+   "title": "文科省予算、過去最大8兆円超 日本語教育支援で「事項要求」も",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSWd3Skl3WlpwOE9la0dxeUVsRG1YTFJWSjNWcVVlTXlLLVdCV3A4TmhVcU9DRk1vYkRBUHd4d1VYcEMzT3I3OHg1MlRDbzc5TjlqOGN5ZnF5Q21aTEZITG80XzE3ODQ2eWdj?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-08-28 20:27",
+   "published_iso": "2026-08-28T11:27:20+00:00"
+  },
+  {
    "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切るのは町議…議会を欠席、町長「報道見る限り残念」北海道京極町",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRTN5VkdnQ1hDMTlyZThMTmpTZTVVQXl2MTFRUU16LTNOT2pNTm50Q1lJeWp6a0gwYVJHVTF3ZFZZdUVnZ2pWUEdaU1ZwdlprSU92MkF3WQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -72,14 +144,6 @@
    "published_iso": "2026-08-28T10:51:07+00:00"
   },
   {
-   "title": "マンホールから次々にオーバーオールの男たち 下水道で金目の物を探していた移民か ニューヨーク",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84akZFdDd6cXJkRUtRXzFPUEl5M0pCLTJCLTRDcDBsMXJSQTNyNlUtM016UUZLWnA3cnNtbTZxU2tDbVZzRzRFYVBlSTNlUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-28 19:38",
-   "published_iso": "2026-08-28T10:38:00+00:00"
-  },
-  {
    "title": "「日本はふるさと」…外国人への永住厳格化にNO ガイドライン改定案撤回を求め支援団体が集会",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LOUlHLWJRMGhJeG1jLWJWSUZRRXBHOXRNUE9SZUdOREhaZEdRVlVrOElvQ29UZER0cVp6bHZwUUxqeEdxb0R1cG1pdkxJam5wcmFv?oc=5",
    "source": "東京新聞",
@@ -94,14 +158,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-28 17:15",
    "published_iso": "2026-08-28T08:15:19+00:00"
-  },
-  {
-   "title": "やさしい日本語で教えよう 9月の外国人向け講習へ、能美市消防が講座受講",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUzdCRWl5NjdTT054OEEyTGhhVWlVLWlmdEZ1NWtpMTdzTW1TbTE0bmxVU0NHMTByNkw5SnpZTU1pWmw5WlYtSVh6QWROQmVjVEIxN2w3cGN1dXZBY2Iyd191cEFxS0o5?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-28 17:02",
-   "published_iso": "2026-08-28T08:02:43+00:00"
   },
   {
    "title": "マレーシア、ミャンマー難民の送還開始 ９月に１４００人超",
@@ -272,14 +328,6 @@
    "published_iso": "2026-08-26T21:00:00+00:00"
   },
   {
-   "title": "移民連帯運動30年で顕彰 パリ、現場教会にプレート",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMkNMUkVHdWs0WDJrVkRIemJpY2Z6Y0FyNzBUR2hIdWRWbzJsWHhSYVJwRF90R3lMR3dZenBodGRwWjNPbzQ0amJFVmVqd3BQQ1BQOFdn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-27 05:56",
-   "published_iso": "2026-08-26T20:56:35+00:00"
-  },
-  {
    "title": "特定技能1号の新規受け入れストップが外食業界に与えた衝撃 外国人材の「争奪戦」始まる",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3cEJqRThSSEo3NjFTWENvV1NGS0ZRcDJfaHFJV1d5RFNibENnMTFqSVFfRGVCSU11UXVMc3IxTGlwLXVnSmhvRE5lMV9UeU10SldSWg?oc=5",
    "source": "中日新聞Web",
@@ -352,60 +400,12 @@
    "published_iso": "2026-08-26T11:49:04+00:00"
   },
   {
-   "title": "特定技能外国人病院などで受け入れ スリランカから13人看護の補助などに従事 人手不足解消へ 大分",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSUnU0bGNOSTZPYVFQMU9EenNYcEt5ZF9ZcFFXcXZjZWlWcEc2dzlpX2N0cDB4ZWswZ2JHcHRYdkFaM3pZZXJCNW9UeHhjZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-26 19:10",
-   "published_iso": "2026-08-26T10:10:00+00:00"
-  },
-  {
    "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-26 18:30",
    "published_iso": "2026-08-26T09:30:00+00:00"
-  },
-  {
-   "title": "「もっと英語を勉強しておけば」 夏休みに外国人と「限界集落」でボランティア",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRjNZY1h1dXQyamNpbGlCNnByTXF6LVlGZnhqNUxjdFBFX0ZoWUdzTnVia3NNTWpTb3BRN3FzMHZVUC1qbEJ1NkxWOTZoRF82MzFsd2RnWGQteGhSa1E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 11:50",
-   "published_iso": "2026-08-26T02:50:46+00:00"
-  },
-  {
-   "title": "在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1amMwZ2V6dFp3UWpxanVyWHFaVFZNR2RXQ1lxQ2p3NG4wRkZKMnFCOXZRejFZT2NOdk93TUhqWHphcUZjY3FpTVNGcUp6VDU5YTdRUExheEJGcTZvNUdQV3UwRkx3Vms?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-26 11:38",
-   "published_iso": "2026-08-26T02:38:00+00:00"
-  },
-  {
-   "title": "敗戦知らず集団自決した旧満州開拓移民を悼む 長野県中野市で法要",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95THNaZDZSRDNMOUJicVZxazRPcFFXTmdFc3hsek1leDlXTHlXOUJ3dW9qYVpJTDZIZVRPa0tvRHhZakh5S3RvTmx2NG8tcUM0LW1JMDIzLWFXWDM0eERMR0JwWTVEZjQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 11:15",
-   "published_iso": "2026-08-26T02:15:01+00:00"
-  },
-  {
-   "title": "外国人問題、火付け役は世論じゃなく政治 早大・田辺教授の調査から",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wZVIxRndETHF3OEg3TTBvcVFleEY4N1FTYUhBSDExRmM5dTUtTDJQRG5iblpnODF1RDNuaWdVU2dFVl83NG5HR2ZqLVlWOWo2ejNxSlBwSG90ZExOV1I3NUVFaFBPMGs?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 11:01",
-   "published_iso": "2026-08-26T02:01:00+00:00"
-  },
-  {
-   "title": "官僚の反対「不良外国人来る」一蹴 規制緩めすぎ？訪日客4千万人に",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hMWY0VmxwYjJSWGprQkJ0blFNZzEzVzlOUWVFemtOSmMtME1URUl0eVViakxZRVFqNC05cklTNG0zVHpyUWQ5QXNScTdzQnlSWWpFaW56WW5JanptNFc4QnVucmpRUWc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 11:00",
-   "published_iso": "2026-08-26T02:00:00+00:00"
   }
  ]
 }
