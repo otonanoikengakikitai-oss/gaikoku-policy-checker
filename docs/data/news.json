@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T15:28:18+00:00",
+ "generated_at": "2026-08-29T19:10:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ネパール外相「日本政府に全面的に協力する」土石流被災地で外国人261人救出も…日本人5人は依然として安否不明",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNXBCUDEweDk4S19XczlETUppNVJsZmtiS2daS0xqVUFQUnVNSGtjQ3JOU2gyWlI1TnkwbGZXdjVFOFRTeWRaVXVVUWhseWhDbnFsd0VGSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-30 00:41",
+   "published_iso": "2026-08-29T15:41:20+00:00"
+  },
   {
    "title": "インドからチベット目指す巡礼者、韓国の発電所作業員…ネパール土石流に多くの外国人が巻き込まれる",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NTAwUVZxVHVGZU51VzJEcUNkV01ZZUZQYTB3UFJtZDFfTXlQM2dLdE1tWHp1YjZpbWNXN041aXU5UmVma2dSeHFpc1RyX2FYN2ZnX29zeUd2SkhONi1iWDB3?oc=5",
@@ -208,6 +216,14 @@
    "published_iso": "2026-08-28T03:05:00+00:00"
   },
   {
+   "title": "9/16（水）受け入れ上限が迫る！介護・外国人材採用セミナー開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14MUEyMVd1bUtVMTBiZldEdTU1QlEyNnYwTmg2SU4tYVFiWHRjc05EVUctdTdvem01S2tZS0dFMTdkUmdkLVh6QXdFanFTUFdBNC00QjYtZjR0enBOcC1jbUZQWVN1VkNGaEdB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-28 10:40",
+   "published_iso": "2026-08-28T01:40:00+00:00"
+  },
+  {
    "title": "「参政票を取り戻せ」焦った自民、頼った高市氏と外国人政策の難しさ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWUlQQUhvR1kwS1o0Q1JScFZtQzdCVld5eWdQcWI2SkE4WVExejRWRnZxaTJ3amlEWlM2YzRRZGNlWllhdHNhQS1nVFJUT2pvWmtuWERNVENlWWpUNndSX3hYSThqckk?oc=5",
    "source": "朝日新聞",
@@ -336,6 +352,14 @@
    "published_iso": "2026-08-26T20:10:00+00:00"
   },
   {
+   "title": "外国人と消防「互いに」理解 愛知県・海部東部消防組合が各地で防災教室",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3YXNSWkxNa0NzekNmOUtYd2lZcVpScjFIbHFhT2s4dGswaVZQbXJtY0pxc3JjYUtuT3NtaU1STWNLUmMyWENVb3hZMy04V3EyU2ppaw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-27 05:05",
+   "published_iso": "2026-08-26T20:05:00+00:00"
+  },
+  {
    "title": "社説：永住の厳格化 外国人労働者の減少招かぬか",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55QkE3UXdwRTk0M3pzOXc3LUNrcC1ITG5pS0Y4NXBobjRjVFVmVGhLbU92LUNSLW5lSFFXWVZBQmxqTGsyYXFXWDg5Tmp2aTl0VnZKYmtXSE1yX2U2NWQzZHZ4czV1YTA?oc=5",
    "source": "読売新聞",
@@ -382,30 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-26 21:39",
    "published_iso": "2026-08-26T12:39:34+00:00"
-  },
-  {
-   "title": "外国人受け入れ、何人まで？ 与党に溝 人手か総量管理か 変わる外国人政策（中）",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBseE5QNDBrbm1KMXdud2FiTDdoNUJpRTd0NkNkeHNsX0VuOFJjVmdsTUxjb1F4bGtnLUxJQmdkdFdzMHZkVlJTMTZKdDdGblBQT2RTeWN5ZEYxNHRDeGVQRzBUbGx6S3d3enAzUWo1WElPT09iWlE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-26 20:49",
-   "published_iso": "2026-08-26T11:49:04+00:00"
-  },
-  {
-   "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-26 18:30",
-   "published_iso": "2026-08-26T09:30:00+00:00"
-  },
-  {
-   "title": "国連施設に立ち退き指示 イスラエル部隊侵入 ＵＮＲＷＡ",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhc1N6blJMczZWYnV0YVllM2xDek1Xdzg3b0RmM2V3dHlZV0R3dzJsSlNzOEhaWmUwXzJ5Z2p1bVBwelo1OXVRdnR3aWlHRmhoUUZzc2p5X28tX2RT?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 16:30",
-   "published_iso": "2026-08-26T07:30:00+00:00"
   }
  ]
 }
