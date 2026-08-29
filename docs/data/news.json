@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T21:04:33+00:00",
+ "generated_at": "2026-08-29T03:28:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ひき逃げか…自転車の外国人男性が骨折などの重傷「大きな音がした」 滋賀・東近江市",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqVXVmQlJ3LTdBVG5XZUZKbHROUmZXVVhkVG5HMTdDUU02RzZiVGhIV3ByM0NZbS03cm5WVVMwcHpnaDlLMkI4NHN1UXl4Ti1nUUhSNC1JOGhqeWZUbE5ONXB3aU4?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-29 12:18",
+   "published_iso": "2026-08-29T03:18:25+00:00"
+  },
+  {
+   "title": "災害時の外国人支援ボラ96人に 栃木県国際協会の「バンク」設置から15年",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CdWpxLTlkY3p2eXEwdzhvNUJYVGJHeHZfU3NjWWhzTno3NEVVcF9fM1A4TEp3VEFDQmIwTmctWDNVTDJTUTlqWXBVQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-08-29 11:30",
+   "published_iso": "2026-08-29T02:30:00+00:00"
+  },
+  {
+   "title": "産廃処分施設で技能実習生がベルトコンベアに腕を巻き込まれ大ケガ（山形・天童署）",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1OUVNMXFYZURPWEY5eldldlh2VlNBcEhUci1kTlJ4RTFCMHhOZ19PRmVpcllGdkJGcHFHT3lmUWRXQjUxb2NLWUR6M1g3VHQ2clcxX0J5ZER3QQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-29 09:04",
+   "published_iso": "2026-08-29T00:04:00+00:00"
+  },
   {
    "title": "宮崎交通、バス運転士に外国人材初採用",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zaUlVMnI4Nmp3MGxPNjBZcjdIXzBLVU15VkZCMnhHMV9jT3dLazl4cE9iRlEzekhZT2tpWXFCaEpRRUFRSmZwQnBJQQ?oc=5",
@@ -24,12 +48,12 @@
    "published_iso": "2026-08-28T20:10:00+00:00"
   },
   {
-   "title": "「自動車運送業」で特定技能採用を成功に導くために～免許取得の壁を越える『インドネシア人材の育成モデル』を解説～",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qRXlWa2hMYkZzQ0I5UGFaMXo4ZS1SRXByUTlTd3dzTmV1ODFfbG5iOWJyUDdVUjJ3QXdILTRIamJRR01CeHVZazVPMWYxNzAwMlpxNmxWeHNOWVVNOEo2Y1FpZHFLQ0JVanZj?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-29 02:10",
-   "published_iso": "2026-08-28T17:10:00+00:00"
+   "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切るのは町議…議会を欠席、町長「報道見る限り残念」北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRTN5VkdnQ1hDMTlyZThMTmpTZTVVQXl2MTFRUU16LTNOT2pNTm50Q1lJeWp6a0gwYVJHVTF3ZFZZdUVnZ2pWUEdaU1ZwdlprSU92MkF3WQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-28 20:14",
+   "published_iso": "2026-08-28T11:14:00+00:00"
   },
   {
    "title": "介護現場で働く外国人が防災学ぶ 家具配置の見直しや避難生活の備え体験 愛媛",
@@ -192,14 +216,6 @@
    "published_iso": "2026-08-27T10:01:00+00:00"
   },
   {
-   "title": "「被害ないのに…」相次ぐ宿泊キャンセル 地震で足遠のく外国人",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tT3hPOFBmZ2tzUF8zbWlyak55SVY2LVQ3QnZrX0wwVTM2Qzc0MUlMdnBPQ2hzdjJqSmhTRUJtRmtNVTFvMy1VcVZIVzVvX21TdG5kU3JqQ2FmbmE0X1kxV18xZ1AxTVo4?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-27 18:18",
-   "published_iso": "2026-08-27T09:18:54+00:00"
-  },
-  {
    "title": "鹿児島の人口が101年ぶりに150万人割れ 外国人労働者「10年で4倍」 地域産業の現場は今",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xZXFQTUNzNjNhNXhnYTdwRzdzRTc1Yjh0MS13Y3ZPdF9pU3phbkpjSW0zZWpvR3F4cldzOEluaVc0SzBmZG1iZEs5M2Nfdw?oc=5",
    "source": "FNNプライムオンライン",
@@ -230,14 +246,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-08-27 12:00",
    "published_iso": "2026-08-27T03:00:00+00:00"
-  },
-  {
-   "title": "トランプ政権 移民ビザ面接一時停止 申請者への審査厳格化で職員に研修実施 米報道",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nTmhsOElyR2owZFlEQ3NfSzJJQWxmalZ5MEV3THYzVE5YYjBrSXhxeGVQUDZwTkFsVE55LXFzdXZiN3A4UjJZMWlrY3pfanZVYUktNDBRT043MGZ1Nk04MXZjYTRRb1JabmpaTzg5akItUW9zLTZoQnJ3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-08-27 11:29",
-   "published_iso": "2026-08-27T02:29:54+00:00"
   },
   {
    "title": "世界各地の米大使館・領事館で移民ビザ面接が一時停止 審査厳格化へ大規模研修を開始",
@@ -320,6 +328,14 @@
    "published_iso": "2026-08-26T17:00:00+00:00"
   },
   {
+   "title": "【地方創生 ×外国人材】ワールドインワーカー、北海道の外国人材受入れを推進する「HGC」にコーポレートパートナーとして参画",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Tkd6SGEwcUdXcmNJUU9rMTg1eVdlT0pjSFVEUk1pSDhtdEQxM0gycEtDdm50RHZERjREN25GLWRIek14ZXMxczdtY0laU29TN1R5bUh0Y2M2aXA2NFhpazFwMkdnMWVmODVZ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-08-26 22:10",
+   "published_iso": "2026-08-26T13:10:00+00:00"
+  },
+  {
    "title": "ネパール洪水で95人死亡、外国人ら380人超不明 中国でも被害",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tLUxiQkRJUmhPY3VqbUNKeFBUbFhUQm1FeW40T2NtZ1Eyd2lyZTlIb1BRX0tINFN3aUdtX1FKOXVQU2JsbXNOXzRDSVRaR3pVVmFGRTdRb3hhb19Md1B3a2hHcWF3WTJnMHBfNg?oc=5",
    "source": "日本経済新聞",
@@ -336,6 +352,14 @@
    "published_iso": "2026-08-26T11:49:04+00:00"
   },
   {
+   "title": "特定技能外国人病院などで受け入れ スリランカから13人看護の補助などに従事 人手不足解消へ 大分",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSUnU0bGNOSTZPYVFQMU9EenNYcEt5ZF9ZcFFXcXZjZWlWcEc2dzlpX2N0cDB4ZWswZ2JHcHRYdkFaM3pZZXJCNW9UeHhjZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-26 19:10",
+   "published_iso": "2026-08-26T10:10:00+00:00"
+  },
+  {
    "title": "スリランカから特定技能人材13人が到着 医療機関でヘルパー業務担う 人手不足解消へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90RC1VVHUyaXVkOTFfMjI4c05CSHNjT0g2dHNIdEJXaTc4ZGlKanpmN0FHS292c3hybjNGRE10YjhDMDZObThQbHBra2JPWWVmSENWTUpzd19LZw?oc=5",
    "source": "TBS NEWS DIG",
@@ -344,16 +368,16 @@
    "published_iso": "2026-08-26T09:30:00+00:00"
   },
   {
-   "title": "入管にベトナム人が相次ぐ…なぜ 海外不法滞在の罰則強化へ（2026年8月26日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZHZLeXRPREx5bW52ampfeEt2bW5MRklkQkp5MHF5MVpXaFk5Y1lmWHdfd09IT3hDU0VOVUlILXBELU53TnI0WWpyMHZsM2FIY0JONmNmSnZaZkIwOXNVTjJaZlhyN3R4LVRpQzRuVnBrcGVQMWpmc1pVUWg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-26 18:01",
-   "published_iso": "2026-08-26T09:01:01+00:00"
+   "title": "「もっと英語を勉強しておけば」 夏休みに外国人と「限界集落」でボランティア",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRjNZY1h1dXQyamNpbGlCNnByTXF6LVlGZnhqNUxjdFBFX0ZoWUdzTnVia3NNTWpTb3BRN3FzMHZVUC1qbEJ1NkxWOTZoRF82MzFsd2RnWGQteGhSa1E?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 11:50",
+   "published_iso": "2026-08-26T02:50:46+00:00"
   },
   {
    "title": "在留外国人が過去最多を更新 国籍別はインドネシアがトップに",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSlRjSEthVWVqbUc1TWZBOHVrVFZSdFpRcTVlUUQzTERSdGVSRlJ6dnhESkxldUVkenI2dDVPSi1rcjZaOHZTeEJ0T0d4LVBsS09YeGZod01oQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1amMwZ2V6dFp3UWpxanVyWHFaVFZNR2RXQ1lxQ2p3NG4wRkZKMnFCOXZRejFZT2NOdk93TUhqWHphcUZjY3FpTVNGcUp6VDU5YTdRUExheEJGcTZvNUdQV3UwRkx3Vms?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-26 11:38",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-26 11:00",
    "published_iso": "2026-08-26T02:00:00+00:00"
-  },
-  {
-   "title": "技能実習生の学びの場、廃業の危機 指導教員「奪い合い」で採算厳しく",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTU2IyZEpMVXcyRzZER0pTZjNLNjZQWGZqSGcyaEtUa2R0czFUNnJxeU5VNDQ3TFJDNXpFejhfUkZXMTNlOHliN3k3RFJhNEVxSnM0Rg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-26 09:25",
-   "published_iso": "2026-08-26T00:25:00+00:00"
-  },
-  {
-   "title": "UNRWA施設に立ち退き指示、強制的に立ち入りか 東エルサレム [イスラエル・パレスチナ問題]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yM3l3bnVCTEFmc0RVVWt1WGE4eC03eVVlQ0F5X1FBYnNwd3VMM1JVaUFOSDZxS3NhV2taN0plbnpQcFlLNHpaTzFpMmZFRmNzZWtxZ0ltMDYwQlJ3NENGUFRyYlo2cUU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-26 06:00",
-   "published_iso": "2026-08-25T21:00:00+00:00"
-  },
-  {
-   "title": "「国家安保に関わる事態」宣言 移民殺到のスペイン領セウタ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kejB1VlVSMFlONjc1MjFhN0xVcnM5SWl6czQ2aFdESElwb3BfVWlEeHlXZkh5UjF0bGx2OXVRNWhZQm02MXIyM3FSSG1wTVVGZC03eVgzakt0UWJLRDZtb1Rsaw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-26 05:54",
-   "published_iso": "2026-08-25T20:54:00+00:00"
   }
  ]
 }
