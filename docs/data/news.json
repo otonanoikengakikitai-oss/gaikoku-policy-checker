@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T10:45:36+00:00",
+ "generated_at": "2026-08-29T15:28:18+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "インドからチベット目指す巡礼者、韓国の発電所作業員…ネパール土石流に多くの外国人が巻き込まれる",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13NTAwUVZxVHVGZU51VzJEcUNkV01ZZUZQYTB3UFJtZDFfTXlQM2dLdE1tWHp1YjZpbWNXN041aXU5UmVma2dSeHFpc1RyX2FYN2ZnX29zeUd2SkhONi1iWDB3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-29 21:52",
+   "published_iso": "2026-08-29T12:52:00+00:00"
+  },
+  {
+   "title": "中日・マラー、6イニングをソロのみの1失点と好投も援護なく球団外国人では10年7月チェン以来の月間4勝ならず",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GcnFWYnh1U3JlR1VyNi1FLWtxbkprelFZd0l1T01DbmV1a0tYbEV0NzJnaHlGMWh4Ml8yZVFBSFlzSFBBYWV1WFljOXRYSTJrTFhkZw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-08-29 20:40",
+   "published_iso": "2026-08-29T11:40:59+00:00"
+  },
   {
    "title": "【社説】外国人の永住、突然高くなる壁 望みを砕く変更は悪手だ [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WGxQR1hYelphR1NYTDVlckRkN3UzMkVyTFdveUtxTkFZMEx2TURieHRySlVIelM2Y204YTMxbEpZRjZHcjk2Qlc1Uk1iaUhvcVVqWERJTHFLQkpGYUVYWE5WWWhBeVk?oc=5",
@@ -22,14 +38,6 @@
    "source_domain": "htb.co.jp",
    "published": "2026-08-29 17:55",
    "published_iso": "2026-08-29T08:55:00+00:00"
-  },
-  {
-   "title": "富士山で外国人登山者の遭難相次ぐ 米国人女性と豪州人男性の救助要請 今夏の搬送者は去年の約2倍",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aYklFTWxCTEZUXzhZc3I1YkluSTlwLXBZMnZ0czlxUGNiT2wzZWdzcERkX0tRWU1TeFNmd1RRY2JtaEZpamp2Vzd5c2pXZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-29 17:05",
-   "published_iso": "2026-08-29T08:05:00+00:00"
   },
   {
    "title": "障害者が染色体験楽しむ 高鍋で共生社会推進事業",
@@ -120,7 +128,7 @@
    "published_iso": "2026-08-28T11:27:20+00:00"
   },
   {
-   "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切るのは町議…議会を欠席、町長「報道見る限り残念」北海道京極町",
+   "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切る町議は議会を欠席、町長「報道を見る限り残念」北海道京極町",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRTN5VkdnQ1hDMTlyZThMTmpTZTVVQXl2MTFRUU16LTNOT2pNTm50Q1lJeWp6a0gwYVJHVTF3ZFZZdUVnZ2pWUEdaU1ZwdlprSU92MkF3WQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
@@ -200,14 +208,6 @@
    "published_iso": "2026-08-28T03:05:00+00:00"
   },
   {
-   "title": "【識者コラム】必要性説く政治家現れず 移民受け入れ、現下の危機 長谷部恭男",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OUDFIWTNFdnZFTGo3Y1V3YWUxTkU2MmJrVzBOV2ZjZ2V1Z2xQX2dzWU9ZRDZqamFqdE11RVhUcHI4UXhJVlJVYmVGVmZLdDFNS3pQVHpR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-08-28 10:40",
-   "published_iso": "2026-08-28T01:40:27+00:00"
-  },
-  {
    "title": "「参政票を取り戻せ」焦った自民、頼った高市氏と外国人政策の難しさ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWUlQQUhvR1kwS1o0Q1JScFZtQzdCVld5eWdQcWI2SkE4WVExejRWRnZxaTJ3amlEWlM2YzRRZGNlWllhdHNhQS1nVFJUT2pvWmtuWERNVENlWWpUNndSX3hYSThqckk?oc=5",
    "source": "朝日新聞",
@@ -230,14 +230,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-28 05:00",
    "published_iso": "2026-08-27T20:00:00+00:00"
-  },
-  {
-   "title": "【独自】JR北海道、初の「特定技能」外国人採用 名寄で保線業務",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TcUVicDBQTUc2eGlibHJCT21vajVfYjJQZTIwSUtkRk9Wck43TGtTay1XNHpQYXdlQ2VvRVRVQ19MOXpsU2dldWRVYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-27 21:46",
-   "published_iso": "2026-08-27T12:46:18+00:00"
   },
   {
    "title": "神戸空港で外国人観光客を有償で乗車させた疑い 31歳男逮捕 県警が「白タク」行為警戒中に発見|事件・事故",
@@ -272,20 +264,20 @@
    "published_iso": "2026-08-27T10:01:00+00:00"
   },
   {
-   "title": "鹿児島の人口が101年ぶりに150万人割れ 外国人労働者「10年で4倍」 地域産業の現場は今",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xZXFQTUNzNjNhNXhnYTdwRzdzRTc1Yjh0MS13Y3ZPdF9pU3phbkpjSW0zZWpvR3F4cldzOEluaVc0SzBmZG1iZEs5M2Nfdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-08-27 18:00",
-   "published_iso": "2026-08-27T09:00:00+00:00"
-  },
-  {
    "title": "女満別空港近くでレンタカー利用の外国人観光客らに交通安全啓発 網走署・美幌署が英語・中国語チラシ配布",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4WHhxaGNKS19rT2d0amxleWpiNFk2WmRnc2EyajJCWDh5LVNGdW93N3lKQTZRbDIzTDlOQ21SM0E5a2R1VUdJbmFIY1U1RjRLeTUzd1ZHWmR0Zw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-08-27 14:54",
    "published_iso": "2026-08-27T05:54:28+00:00"
+  },
+  {
+   "title": "倶知安町の国保加入者、過半数が外国人 季節労働者多く国保税未納も",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84SnpqMkd5SFlXb0tlODBEck03c0poQmFzVXhscUJsWW9CMFNRci1naExhVmdPQkRoZy01UjhGalhfenVXTmJFaVpuMnVlOTgxYlRVZ3I1dVMyQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-27 14:30",
+   "published_iso": "2026-08-27T05:30:00+00:00"
   },
   {
    "title": "「妊娠したら仕事を辞めてもらう」技能実習生の4人に1人が経験 “退職強要”で賠償命令も 「同じような状況の女性のために声を上げたい」フィリピン女性の思い【news23】",
@@ -320,6 +312,14 @@
    "published_iso": "2026-08-26T22:28:21+00:00"
   },
   {
+   "title": "移民連帯運動30年で顕彰 パリ、現場教会にプレート",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WUUVrNUt0c3BTRUc3ckluYmV1cko1SFpETEJNY0tzSHlMeHkxZDFBWnVaVUVFel9pcmNBZ2loZElWY1MtYVA4cjQ5eTJTY1RlaW1UTHk2a0tKZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-27 06:03",
+   "published_iso": "2026-08-26T21:03:16+00:00"
+  },
+  {
    "title": "安倍首相「僕だからできた」 特定技能、移民否定が生んだ「ひずみ」 [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xWTFEeXVSeFBRcGg5Yml4bkFPU1J0NkdBbjZWZV9kaUlkd3RMVXNfTmxjM185X1U4RlRldHJ4N1o1cmZZSlh6SjlvN3h2WEd5Qkk5R1JOYkNGNzkteGhTYXBaaUhXWWM?oc=5",
    "source": "朝日新聞",
@@ -340,14 +340,6 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55QkE3UXdwRTk0M3pzOXc3LUNrcC1ITG5pS0Y4NXBobjRjVFVmVGhLbU92LUNSLW5lSFFXWVZBQmxqTGsyYXFXWDg5Tmp2aTl0VnZKYmtXSE1yX2U2NWQzZHZ4czV1YTA?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-27 05:00",
-   "published_iso": "2026-08-26T20:00:00+00:00"
-  },
-  {
-   "title": "「外国人のための日本語講座」は教壇の学生にとって実践の場 文教大 [埼玉県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0S0UwS0RSR29CWmtQZ3ZPZW9XSWhjMFhOUEVsR2VuNkF4bjQtOUZGRFNrd0tldzVDWFVHOG5OMHFLT0V3UTRlWlN0YXZ4SjBPY3M4UXZXZVA3NnlPNnJtUDRGcnpKUTA?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
    "published": "2026-08-27 05:00",
    "published_iso": "2026-08-26T20:00:00+00:00"
   },
@@ -406,6 +398,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-08-26 18:30",
    "published_iso": "2026-08-26T09:30:00+00:00"
+  },
+  {
+   "title": "国連施設に立ち退き指示 イスラエル部隊侵入 ＵＮＲＷＡ",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhc1N6blJMczZWYnV0YVllM2xDek1Xdzg3b0RmM2V3dHlZV0R3dzJsSlNzOEhaWmUwXzJ5Z2p1bVBwelo1OXVRdnR3aWlHRmhoUUZzc2p5X28tX2RT?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-26 16:30",
+   "published_iso": "2026-08-26T07:30:00+00:00"
   }
  ]
 }
