@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T19:10:36+00:00",
+ "generated_at": "2026-08-29T22:19:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "静岡：外国人の子障害どう支援 浜松で研修会 保護者への声かけ案も ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51YUo0TzNNXzhEVXJLYlpwaDJ1cVNldGc1X2F2NkxzQVYzSTZXanNmdXFrQy1WR1p1SXA4cW91R1F5ek9ReFNpbTdaUkJhSEZXQlhKZFB2M1BsbTAzQi1HWEdiT2V3cUJoNXVramEyRWJQSDJu?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-30 05:00",
+   "published_iso": "2026-08-29T20:00:00+00:00"
+  },
+  {
+   "title": "土石流 大勢の外国人被災 ネパール 巡礼者や観光客ら",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMmpELVF1Q3RfSkFtaEVKZllrc0J3VmtUTk1YeUd2QlVOektGYUdBVHlEc2tQSE5HWjZyQVRKUUlJY1IydkJ4WHZzZF9RZXFxMFZkTngyVU10SW9GZ2hKZmFZVQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-30 05:00",
+   "published_iso": "2026-08-29T20:00:00+00:00"
+  },
   {
    "title": "ネパール外相「日本政府に全面的に協力する」土石流被災地で外国人261人救出も…日本人5人は依然として安否不明",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rNXBCUDEweDk4S19XczlETUppNVJsZmtiS2daS0xqVUFQUnVNSGtjQ3JOU2gyWlI1TnkwbGZXdjVFOFRTeWRaVXVVUWhseWhDbnFsd0VGSQ?oc=5",
@@ -216,14 +232,6 @@
    "published_iso": "2026-08-28T03:05:00+00:00"
   },
   {
-   "title": "9/16（水）受け入れ上限が迫る！介護・外国人材採用セミナー開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14MUEyMVd1bUtVMTBiZldEdTU1QlEyNnYwTmg2SU4tYVFiWHRjc05EVUctdTdvem01S2tZS0dFMTdkUmdkLVh6QXdFanFTUFdBNC00QjYtZjR0enBOcC1jbUZQWVN1VkNGaEdB?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-28 10:40",
-   "published_iso": "2026-08-28T01:40:00+00:00"
-  },
-  {
    "title": "「参政票を取り戻せ」焦った自民、頼った高市氏と外国人政策の難しさ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqWUlQQUhvR1kwS1o0Q1JScFZtQzdCVld5eWdQcWI2SkE4WVExejRWRnZxaTJ3amlEWlM2YzRRZGNlWllhdHNhQS1nVFJUT2pvWmtuWERNVENlWWpUNndSX3hYSThqckk?oc=5",
    "source": "朝日新聞",
@@ -248,14 +256,6 @@
    "published_iso": "2026-08-27T20:00:00+00:00"
   },
   {
-   "title": "神戸空港で外国人観光客を有償で乗車させた疑い 31歳男逮捕 県警が「白タク」行為警戒中に発見|事件・事故",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYjAtZy10VGVRMWtsdW5jMVVBNks3WU1waTJjMTZxUm5jZ0puS0EtUGdrRnRpZzBXSzYxWUFIeE1HWDU2ZlJMUERiTUU1X2RqUlRrcTBYcHVEVGt6Mm9Jd3VtM1dXSGZlSU40?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-08-27 20:47",
-   "published_iso": "2026-08-27T11:47:43+00:00"
-  },
-  {
    "title": "九州7県の外国人入国者数、7月は20%増の42万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5VGw0NHhRUkxNRXN4cjZ3XzFnZXVvMi1DaU1aZDRTUjVLZ0RTVUVYbFRYRHVIR2FxaEVFNElXU2VJUmRCM3Z1MVNMZ290TXhHRDRKTFNpX1o5WkhLT1NHeTBzTUZWXzF4WWE0aA?oc=5",
    "source": "日本経済新聞",
@@ -278,6 +278,14 @@
    "source_domain": "asahi.com",
    "published": "2026-08-27 19:01",
    "published_iso": "2026-08-27T10:01:00+00:00"
+  },
+  {
+   "title": "函館に外国人観光客向け料理教室 七飯のNPOが10月に開設",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TV0ltSjhoSzJmM0U4U3pZdlNKTWFHRk1hbWxySGt4SnpMVHhMMEJSME53UHUtbVZKTjF0OTVsQXFtZzhibEJONVE5WWRTa2IyYUdZbVFVejhHZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-27 17:43",
+   "published_iso": "2026-08-27T08:43:31+00:00"
   },
   {
    "title": "女満別空港近くでレンタカー利用の外国人観光客らに交通安全啓発 網走署・美幌署が英語・中国語チラシ配布",
@@ -398,14 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-08-26 22:10",
    "published_iso": "2026-08-26T13:10:00+00:00"
-  },
-  {
-   "title": "ネパール洪水で95人死亡、外国人ら380人超不明 中国でも被害",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tLUxiQkRJUmhPY3VqbUNKeFBUbFhUQm1FeW40T2NtZ1Eyd2lyZTlIb1BRX0tINFN3aUdtX1FKOXVQU2JsbXNOXzRDSVRaR3pVVmFGRTdRb3hhb19Md1B3a2hHcWF3WTJnMHBfNg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-26 21:39",
-   "published_iso": "2026-08-26T12:39:34+00:00"
   }
  ]
 }
