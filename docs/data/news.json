@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T22:19:51+00:00",
+ "generated_at": "2026-08-30T01:01:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「交番」の仕組みは日本発祥だった！外国人だから気づく“日本のいいところ”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RNmpURmZZWU43SlBtUExvRlpQVmpXQmlTWnByNG82eDJhek1MTzA5aXhhMU95MkNsNEtJTzFsSWtfTmRJM21wcGxQS0taVDFYT1HSAVdBVV95cUxNR2pSeE9xVGJLMzRtRW91ckhxVTFKVk9kVDhaSmFSeDhiV2J5bXZDQXpiZTY3NVhYV0g3M3pmR3hxd0FIaWxwekhfMlNqd0hCVFY0NDJkUTA?oc=5",
+   "source": "テレ朝POST",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-08-30 07:05",
+   "published_iso": "2026-08-29T22:05:20+00:00"
+  },
+  {
+   "title": "外国人採用アンケ 知事の「助言」 断固抗議 「差別、排外あおる」 津で集会 ／三重",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TRG1SeVhpUGRwMTFBU2Q3YmxJd0ZJb29lc2xqajRGUHduVjFEaEtLajZBcTU0cldmYXNJYU11VkJyeXl1bjFRbk1pcV9UZnlOUE9Bekk5QUxCV2VpNVFiQlZuVHl6YWlV?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-30 05:03",
+   "published_iso": "2026-08-29T20:03:16+00:00"
+  },
+  {
+   "title": "（社説）外国人の永住 望みを砕く変更は悪手",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQWG1HakNkeUpyMGxiTmxRWk9JM3ljT2JpSEh6X2ZlUFU5elFoc2dPVVZjbkdTd0JicERfVGJFZlB0WFlYdURlSzNycFRmcEk4emw3SERhV2xraGNs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-30 05:00",
+   "published_iso": "2026-08-29T20:00:00+00:00"
+  },
+  {
+   "title": "日本語教室、広島県福山市が市外でも開講 外国人の子に宿題支援も",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQXNmX0NHSXNXamZsbTg0TWVBMUxkMHNjdWNicGlTaVFWSzNkaUFTN0Y5N3U5d0ZlSTV2T0Rmc2k0MFhaLS1pQ3dwNUxQVWRCdXQxRGpTVGRnTXBKbnFiQ2ZnQkxXbmNTalVOZQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-30 05:00",
+   "published_iso": "2026-08-29T20:00:00+00:00"
+  },
   {
    "title": "静岡：外国人の子障害どう支援 浜松で研修会 保護者への声かけ案も ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51YUo0TzNNXzhEVXJLYlpwaDJ1cVNldGc1X2F2NkxzQVYzSTZXanNmdXFrQy1WR1p1SXA4cW91R1F5ek9ReFNpbTdaUkJhSEZXQlhKZFB2M1BsbTAzQi1HWEdiT2V3cUJoNXVramEyRWJQSDJu?oc=5",
@@ -38,22 +70,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-08-29 21:52",
    "published_iso": "2026-08-29T12:52:00+00:00"
-  },
-  {
-   "title": "中日・マラー、6イニングをソロのみの1失点と好投も援護なく球団外国人では10年7月チェン以来の月間4勝ならず",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GcnFWYnh1U3JlR1VyNi1FLWtxbkprelFZd0l1T01DbmV1a0tYbEV0NzJnaHlGMWh4Ml8yZVFBSFlzSFBBYWV1WFljOXRYSTJrTFhkZw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-08-29 20:40",
-   "published_iso": "2026-08-29T11:40:59+00:00"
-  },
-  {
-   "title": "【社説】外国人の永住、突然高くなる壁 望みを砕く変更は悪手だ [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WGxQR1hYelphR1NYTDVlckRkN3UzMkVyTFdveUtxTkFZMEx2TURieHRySlVIelM2Y204YTMxbEpZRjZHcjk2Qlc1Uk1iaUhvcVVqWERJTHFLQkpGYUVYWE5WWWhBeVk?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-29 19:00",
-   "published_iso": "2026-08-29T10:00:00+00:00"
   },
   {
    "title": "７カ国語で書かれた折り鶴で外国人への交通ルール啓発も JICAの国際交流イベント開催 札幌・白石区",
@@ -184,14 +200,6 @@
    "published_iso": "2026-08-28T08:31:34+00:00"
   },
   {
-   "title": "外国人へ暴行疑惑 農業法人「実質的経営」町議、9月議会欠席へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96NFpKbGdyUTVicFdxSkZtNHhkX2M3T044WV82LW50elVaUU5tWW1QaVI3WlcxeDBnWWZuc1BlUko3ZWdiRmZZUDVVUjVBbjNpUHBlZjBXVlFpVzdBTVFfb1FsN01pWER2?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-28 17:15",
-   "published_iso": "2026-08-28T08:15:19+00:00"
-  },
-  {
    "title": "マレーシア、ミャンマー難民の送還開始 ９月に１４００人超",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KemFoNmdZUDhzY1Fwa2RHME50TEJJbkU1YzVNTWtCeGMySk5XdkUyUUFSamhBdE9LU0o0UFBwam80WFFFSGdHc29Da05HS2hwbU4tMVpBeElablNLYTZWWVMxMA?oc=5",
    "source": "時事ドットコム",
@@ -230,6 +238,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-28 12:05",
    "published_iso": "2026-08-28T03:05:00+00:00"
+  },
+  {
+   "title": "【識者コラム】必要性説く政治家現れず 移民受け入れ、現下の危機 長谷部恭男",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OUDFIWTNFdnZFTGo3Y1V3YWUxTkU2MmJrVzBOV2ZjZ2V1Z2xQX2dzWU9ZRDZqamFqdE11RVhUcHI4UXhJVlJVYmVGVmZLdDFNS3pQVHpR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-08-28 10:40",
+   "published_iso": "2026-08-28T01:40:27+00:00"
   },
   {
    "title": "「参政票を取り戻せ」焦った自民、頼った高市氏と外国人政策の難しさ",
@@ -296,14 +312,6 @@
    "published_iso": "2026-08-27T05:54:28+00:00"
   },
   {
-   "title": "倶知安町の国保加入者、過半数が外国人 季節労働者多く国保税未納も",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84SnpqMkd5SFlXb0tlODBEck03c0poQmFzVXhscUJsWW9CMFNRci1naExhVmdPQkRoZy01UjhGalhfenVXTmJFaVpuMnVlOTgxYlRVZ3I1dVMyQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-08-27 14:30",
-   "published_iso": "2026-08-27T05:30:00+00:00"
-  },
-  {
    "title": "「妊娠したら仕事を辞めてもらう」技能実習生の4人に1人が経験 “退職強要”で賠償命令も 「同じような状況の女性のために声を上げたい」フィリピン女性の思い【news23】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sTEU2cnk2ZnJYcndxNkpCT0s4Smh1ZmZER0szYWV0Z0poM1dfWmtqLXkwb1A4X3BVY3ZHTFVCdjRyaWl5TGlJTXI1WXVTbVpjTFBJWHg3VQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -320,12 +328,12 @@
    "published_iso": "2026-08-27T03:00:00+00:00"
   },
   {
-   "title": "世界各地の米大使館・領事館で移民ビザ面接が一時停止 審査厳格化へ大規模研修を開始",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9INncwcjBBWmtSdHdBelFhd0RwbTlhLWgxazF5LWFaQ1ExOHU5dWp0TXQwUE1mNGVMNE5OSEdqRjVXNGVuSlZ6LUEzb3FBR2hCQzkxTWp5czVmWkhkSGZTNVRERWJFWTJiQVRVWWdMdF9mSU5CYVE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-27 11:08",
-   "published_iso": "2026-08-27T02:08:04+00:00"
+   "title": "米、移民ビザの面接を一時停止 審査厳格化へ研修実施",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MS1JuQ3NuTElPSzJsbElHVlJDYW1DVkxoRG5mRG1kcG53b0NoeVVZOGNjQTcwblJBNy0zMlJrUTFET0E4REFQU2l6X1dNNFFXSW96d0J0MHN6MG5ER2thTDFDVWJNVTdNYnNDeA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-27 09:07",
+   "published_iso": "2026-08-27T00:07:36+00:00"
   },
   {
    "title": "トランプ政権 移民ビザの審査手続きを一時停止 再開時期は不明",
@@ -398,14 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-08-27 02:00",
    "published_iso": "2026-08-26T17:00:00+00:00"
-  },
-  {
-   "title": "【地方創生 ×外国人材】ワールドインワーカー、北海道の外国人材受入れを推進する「HGC」にコーポレートパートナーとして参画",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Tkd6SGEwcUdXcmNJUU9rMTg1eVdlT0pjSFVEUk1pSDhtdEQxM0gycEtDdm50RHZERjREN25GLWRIek14ZXMxczdtY0laU29TN1R5bUh0Y2M2aXA2NFhpazFwMkdnMWVmODVZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-26 22:10",
-   "published_iso": "2026-08-26T13:10:00+00:00"
   }
  ]
 }
