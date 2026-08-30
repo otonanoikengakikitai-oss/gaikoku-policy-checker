@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T17:53:36+00:00",
+ "generated_at": "2026-08-30T20:32:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -328,20 +328,20 @@
    "published_iso": "2026-08-28T08:31:34+00:00"
   },
   {
-   "title": "マレーシア、ミャンマー難民の送還開始 ９月に１４００人超",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KemFoNmdZUDhzY1Fwa2RHME50TEJJbkU1YzVNTWtCeGMySk5XdkUyUUFSamhBdE9LU0o0UFBwam80WFFFSGdHc29Da05HS2hwbU4tMVpBeElablNLYTZWWVMxMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-28 16:48",
-   "published_iso": "2026-08-28T07:48:00+00:00"
-  },
-  {
    "title": "「外国人の安全・安心を奪う」 永住許可要件厳格化、撤回求める",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85R2w4RG9MREsyQkYxZmJzYmF6MEVRcFAtR3JvTENuMnYyTXBrVGF1RjdiajJTdkhDQjIxbzUtRnh5ekVvU3NTN01Qam5JNlgzN0daNGdYVWo4MEJQdVo0SVlLMjdkTElJYWlj?oc=5",
    "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-08-28 15:45",
    "published_iso": "2026-08-28T06:45:51+00:00"
+  },
+  {
+   "title": "災害発生時にどう身を守るか 外国人材が災害への備えを学ぶ【愛媛】（2026年8月27日掲載）｜南海放送NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVnFndXN0N2Q5bG1ScUVhSkQwcG5kaVFSMGZPTUNnV1IwTXdLSWdYLXgzeDdGLWZPNjktV0dSMnd5a0xKcnZLNEtSVVpfcnJ2MlFEd3premJSb2FxUktwRmtxejFfMnBWbWRkaTVwTWxVc2NXd0pHOUN3NUJLWVREZEViMEppSE0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-28 15:44",
+   "published_iso": "2026-08-28T06:44:00+00:00"
   },
   {
    "title": "『はい、移民です。文句あるかい？ ひとりの帰化者の日本文化雑考』マイク・モラスキー著（光文社）",
