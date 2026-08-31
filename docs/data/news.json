@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:51:43+00:00",
+ "generated_at": "2026-08-31T22:25:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,9 +8,49 @@
  ],
  "items": [
   {
+   "title": "イタリアとスペインの外交対立続く 入国審査の撤廃停止延長 モロッコ移民流入問題巡り",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSjJTVzd0MGxaRndqcFRuZklIaWd2elhNVF80czJGM1ZseXJBUVZRX0hiLXZ5WlE2SHY4bU9RQ0ZZek5hWXNqaGlwMnhmSDdPbUZ5U3l2Tk0yV2g5QzV1SXU0SkQ3dzNEYUJFLVNJWktDZV9UMFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-01 06:21",
+   "published_iso": "2026-08-31T21:21:13+00:00"
+  },
+  {
+   "title": "滋賀県が「日本語教育推進センター」開設 外国人県民の暮らし支援で",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdXNvZ3ZiMnNxWEJUZVNfSHFIVkVmVFJiZzV2RDN6SjBJc1F6RFpsN0h6cEhBeWhGTExCeklkX3U5eGlmbG1oOWhrUlB4M2FtSl9NSXk2M0I?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-09-01 06:18",
+   "published_iso": "2026-08-31T21:18:00+00:00"
+  },
+  {
+   "title": "異国で被災、届かぬ公助 熊本地震 車なく野宿する外国人も",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbURsMEQwbFVTVEdNdkhxME8wTENEWEVxQ3lsNlB4U0lUaWhHVzJvUlhxWnY5NWx5eHNqN3JmNEFRMlJhbnBlU09PTDZNUVJDZEw1dnpB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-01 06:00",
+   "published_iso": "2026-08-31T21:00:00+00:00"
+  },
+  {
+   "title": "プロ野球外国人選手の大量雇用と死蔵 「助っ人の力は借りたいが…」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYWMxX1VvOGhjR0lFOHBxVWdKM3FTVm92bTAzSmVfY0p6eld1dHVvcHc0ejNaMnlLeUl1M3FEQWRweHptcWpkVnVmMmM0RkUwR19jSV94eXRZQjZWTkZxcmRpZlYxRzBwNWtGUw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-01 05:00",
+   "published_iso": "2026-08-31T20:00:00+00:00"
+  },
+  {
+   "title": "外国人宿泊１５％減 人手不足や中国渡航自粛 東海３県上半期：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XanpRRGJycXBMUWg1UGVhVml2b19ZdDNQR1hfLWJHTWh3cVFmQ3lySDB2dTdBTWRNLUR4RlE1Yk9ya3R6ZDdoU2dJb0l1RU9zR2cyb1BiNHV4Tnh1c3drOUFUbWYtU0d3cmpKME5CdkI?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-01 05:00",
+   "published_iso": "2026-08-31T20:00:00+00:00"
+  },
+  {
    "title": "サンチェス首相「原因調査中」 スペイン飛び地セウタに不法移民7万人流入問題",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FcFBCTUhORWxqTE5YLVhfb0FiS1hlQ2JZOEtRSDhtcllSTjZYNms2YjZxVURFRmxKRmxXeGNMaFdEcGVrWGxEVC1DWnZ0X3ZpOFdFWkgtYXF4R3Z3TmdGODcxREJTeTI1bW42NU9VTWdTcU1xRFlLeFBB?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-31 21:21",
    "published_iso": "2026-08-31T12:21:00+00:00"
@@ -18,7 +58,7 @@
   {
    "title": "スペイン飛び地セウタへの不法移民大量流入 背景に西サハラを巡る“3カ国の思惑”か",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBucUI4MTM4MXdBN2tqSk11VGxpQ3FVSlFjUUpYUHlYYXU4MXF2ZUdhejVoeDB4WnNXWWdTOGFnckpzZFRZOGZQVk5hd2V0c2pvUzItODJ1UGZtQUhBU3JiV3R2U21ERTE5Z0NIajA1S082aHpWcHlaYjhR?oc=5",
-   "source": "news.tv-asahi.co.jp",
+   "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-31 20:12",
    "published_iso": "2026-08-31T11:12:00+00:00"
@@ -26,7 +66,7 @@
   {
    "title": "【追跡】「ご主人様は誰だ？」農業法人で外国人に日常的暴行か 渦中の町議を直撃 北海道京極町",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyUERzTzlXLXBZU25kb0N2bFhOQ2R1VHVObDlYODhYeXV2Q0VwUE1MMXdvSC1lZzQwSFZUaXNMYnUyNXkxa0FsR05YUGlQREpkMXl5NTNSbWhFdw?oc=5",
-   "source": "HTB 北海道テレビ",
+   "source": "HTB北海道テレビ",
    "source_domain": "htb.co.jp",
    "published": "2026-08-31 20:11",
    "published_iso": "2026-08-31T11:11:00+00:00"
@@ -34,7 +74,7 @@
   {
    "title": "英語で買い物できるかな？飯島町の中学生が地域の外国人と交流 生きた英語を学ぶ取り組み【長野】",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMjMzSmt6eDMyVzl5aEZ4UFlYM25za2RtM0k5ajBZNFp6N0FyOWFTam42el9acWthVURPYkQxczhPRXM0U2JfT19RcUw5RUlxYXd4NDdHakhWbkVKRm5pWU1YUDFFeFRCaXY2dUFXWXV0dWswallKU0JOdThZWEJSYnZ6RGR5QVU?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-31 18:54",
    "published_iso": "2026-08-31T09:54:00+00:00"
@@ -42,7 +82,7 @@
   {
    "title": "【サンフレッチェ広島】新外国人ＦＷクシニ イェンギ選手期限付き移籍で獲得 元豪代表・身長１９０ｃｍ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5sWENXcjVZQzFndWtxSjRaczBfV201UUZ6cUtKdTJ1bGhhV0hOWVNxRzREYnR4VFpfdF8xelVCYTdITC1SZVhDdGg0QmtQZw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-31 17:55",
    "published_iso": "2026-08-31T08:55:00+00:00"
@@ -50,7 +90,7 @@
   {
    "title": "飯島町の中学生が地域の外国人と英語で交流 買い物体験を通して実践的な英語学ぶ【長野】",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTlkZlY2RElaU2hoUDlsemFVMUE3UzllN0VZby03M19abk1meHloLThIanFvX2szWnBndjhMaTFRdFBITnBFQ25vbEFGY1pBUC15ejExdG1Lbk9yS21qT0xkVkpnUW1wOG5TSzRfYU9oVzZtdEZlZExOQUNmUngwUFEwS1BmTWc?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-31 17:23",
    "published_iso": "2026-08-31T08:23:00+00:00"
@@ -58,7 +98,7 @@
   {
    "title": "「人が水中に沈んだ」外国人留学生(20代)が溺れて死亡 防波堤から水深3ｍの海に飛び込んだとみられ 大学関係者ら約15人と海を訪れていたか 広島",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wTHlGWHdqZHBZM3lhN3htUUVROExmV1QwRl9VaWRwSU5IanNGeHczVzZfOWxlSXBaLUhHTXV2TWx1eS13LWtQT1AyYklFQ3BBbVpuemRyY1dFTDdObVhhazEtSTA?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-31 16:56",
    "published_iso": "2026-08-31T07:56:00+00:00"
@@ -74,23 +114,23 @@
   {
    "title": "ＵＴグループ[2146]：トゥエンティファースト株式会社の株式取得（子会社化）に関するお知らせ 2026年8月31日(適時開示) ：日経会社情報DIGITAL",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kbWxPM25yZlMtRnhfOF9HTUhLNENDb3BhUGVJVFZUTVcyRmtOb2hhcHVMeVRuQUt6TEVoN25hMDctdGZoaTNFek16cHhoRWdBYlNkZnFiUEF6eHgta0RtU3VJa3ROWHNCcEE?oc=5",
-   "source": "nikkei.com",
+   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-08-31 16:00",
    "published_iso": "2026-08-31T07:00:00+00:00"
   },
   {
-   "title": "外国人労働者の給与6.4%増 25年月29.2万円、賃上げ効果が波及",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByaEczY3o2UEVqRDc2M0pSMElUSDBUOUNEZEJMSF9nUW9aREthTkF4YzhOZG1aamdVa3JDRUhSZVRnNi14UGFlTFd1Y19vTTJ2RFBTV3p3V21pbDhzeHp2ck5LSll0M3ktNnJheA?oc=5",
-   "source": "nikkei.com",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-31 14:29",
-   "published_iso": "2026-08-31T05:29:22+00:00"
+   "title": "「今の会社続けたい」81％ 外国人雇用実態調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUnkyQlBNMHdxQXBPMlQxSm1kellvOU5kMmJyR2tFS2N5czAxQmxUYVFYQVA4LUpMdHNlQVdtR2NLLUdxeC1kd21yaEtuVUhkVXRfSzRLSG5EUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-08-31 14:06",
+   "published_iso": "2026-08-31T05:06:40+00:00"
   },
   {
    "title": "フルタイムの外国人給与、前年比6.4%増の29万円 厚労省調査",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPTG9IWUNjMHAxSnVWa1VWLV9xQVNOVTRKZnpBdjlPYnR1SEJiamxrc0V5aGxnOF8wYzZoVHlhM25wT3BleE81QWdLRXFISURCOW1WdGdlS1BMUF9iWE8yMDNZdjZURUU?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-31 14:00",
    "published_iso": "2026-08-31T05:00:00+00:00"
@@ -104,14 +144,6 @@
    "published_iso": "2026-08-31T05:00:00+00:00"
   },
   {
-   "title": "外国人政策を大幅増額 法務省、文科省の27年度概算要求",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcEVlX09pOENuWHZLUzIwRGhUM2dfbFJXRzB3SFhJZnY3UXVkSjNJekJyeWNaeURmZnpneF95RzFBTmFCeUZJS2YxMEpSUHJyQXloUE5SQm9OdHlfU1ZtdTVUUVpvckx5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-31 13:38",
-   "published_iso": "2026-08-31T04:38:57+00:00"
-  },
-  {
    "title": "「どこで給水が受けられるか教えてもらえてよかった」熊本地震で被災した外国人を対象に出張相談会",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jd1dMTTFTM0RMWFU1bk8yMHdfdk1PdS1uYzhoVXhZUDRuOTVETWhvbVVDb0pxOTNoYzBWYl9ZSjVmeXJ5TjRnTGtTdWxRNEc4ZGV6dGpwaHR6bUVOaV9peUJUR09pWWZQM25rS2RodEdGdw?oc=5",
    "source": "読売新聞",
@@ -120,17 +152,9 @@
    "published_iso": "2026-08-31T03:31:00+00:00"
   },
   {
-   "title": "｢好きな日本食は何ですか?｣ 観光地の子どもたちが外国人観光客に英語でインタビュー 英語授業の一環として 岐阜・高山市",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTXJkMVMyX010NHpVVjZZcVV2dkF5Tng5M0dyZ0U5c0t2UzFkZXIyVmVuckFjMzdWS0hWYU8wVTV5N0JaZVRMM2NDbU5uZW12NTdIcVl4dTY5NkwzQ1hYM1g4Z1FkZWs?oc=5",
-   "source": "newsdig.tbs.co.jp",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-31 12:18",
-   "published_iso": "2026-08-31T03:18:00+00:00"
-  },
-  {
    "title": "防波堤から飛び込んだか 外国人留学生(20代)が溺れて死亡 大学関係者ら約15人と海を訪れる 広島・呉市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FY3hMWkVibzV2Mzg1U0stQ3QwVVdRZnhqZWVxb0R5UDY1d0RTbGp2U20weDl4SC1nVTJTWTc4SGl0bm1uRE5WTWRTd3ZLZVNZQk16Rkg0VQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-31 12:16",
    "published_iso": "2026-08-31T03:16:00+00:00"
@@ -138,7 +162,7 @@
   {
    "title": "街のカレー店が問うジャパニーズ・ドリームの行方 ビザ厳格化の先は [外国人政策 高市早苗総理 自民党][外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01djVsZzBOeGtmdDh3RlhXZEdGV0kxaEFjcWxiSEQ1NU5SdkxaS3o5ZlZiX3JrcWx6cUZVSTgxcG1CcFBMQ2J2cFFPSkdqLTB5LURORlR0blYxekVpTHJrSEZodTczWVE?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-08-31 11:00",
    "published_iso": "2026-08-31T02:00:00+00:00"
@@ -146,7 +170,7 @@
   {
    "title": "激流にもまれる外国人労働者受け入れ業界 来年4月スタートの新育成就労制度、「嵐の前夜」の実像に迫る",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzOFp6Rk1kclAwY011aW1nYzFORUFENEkxOHl0NVVGSnBWMnVNWHo4Nk9sVHMwMHhIZzRLaTVjaG84amlPSVd4T1VxZWNIdEFkRDNWLQ?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-31 11:00",
    "published_iso": "2026-08-31T02:00:00+00:00"
@@ -154,7 +178,7 @@
   {
    "title": "NYのど真ん中で…マンホールから次々にオーバーオール着た“謎の集団”出現 正体は？下水道で金目の物を探す移民か アメリカ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mV3hTX2pES0NJSXR6NUhlTmd1dElIU0ZvZmJ0THVoLXNpbWNFXzdHSUZxMTg5WUQ4ZXBHcjBpUTFJSExqWl9JaGkzU3VNdw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-08-31 11:00",
    "published_iso": "2026-08-31T02:00:00+00:00"
@@ -162,7 +186,7 @@
   {
    "title": "県内に住む外国人語り合う 福井で催し感じたことや悩み共有：日刊県民福井Web",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52SllRTzU5RlNPbU1KbV9rTkd1NVc5UkFDWmNVdnRFd25xQmtLWjdqaTY4RFJFNnFXZU9jUlpWRkZzXzRGT0VSTmxadnQ4cWFQV0RKU0VSbU5uMmpIM292TVdPcnM?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-31 10:17",
    "published_iso": "2026-08-31T01:17:36+00:00"
@@ -174,22 +198,6 @@
    "source_domain": "47news.jp",
    "published": "2026-08-31 10:00",
    "published_iso": "2026-08-31T01:00:00+00:00"
-  },
-  {
-   "title": "外国人ドライバーの安全運転を重点対策に 県5カ年計画 特定小型も指導強化へ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rRGVyU1Z3cFMtNHdtUXE2UHVzS1dtak5uQTFhU0RQMUZIMWRBV0ZDbGNnc21nWGpsd0hMdEtmelJ1azVfNU9Oak5oTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-08-31 08:36",
-   "published_iso": "2026-08-30T23:36:00+00:00"
-  },
-  {
-   "title": "寿司と珈琲を組み合わせるカフェ！？ 大阪で外国人が「注目し過ぎる街」「ハマり過ぎる街」「愛し過ぎる街」の楽しみ方を徹底調査！ 歌姫や夜の蝶も登場",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qUVhQdlREZG5LQmVDMEtUdUFiZU9xMWtYVTBWdzItU1I3WUJKX1hrcEVuVWlXZFlyOFlxZ3I1YlYyR2Z2YXozUk9Id0Q3Mmd0ZGc2X0tYSQ?oc=5",
-   "source": "ABCマガジン",
-   "source_domain": "asahi.co.jp",
-   "published": "2026-08-31 05:07",
-   "published_iso": "2026-08-30T20:07:40+00:00"
   },
   {
    "title": "ともに・共生社会へ：注目の人 寄り添い、未来志向で 「やまゆり園」題材に映像作品制作",
@@ -208,17 +216,25 @@
    "published_iso": "2026-08-30T17:01:01+00:00"
   },
   {
-   "title": "熊本地震で被災…外国人の住民対象に行政書士らの相談会 熊本・氷川町（2026年8月30日掲載）｜日テレNEWS NNN",
+   "title": "熊本地震で被災…外国人の住民対象に行政書士らの相談会 熊本・氷川町（2026年8月30日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bFAtVGd3alUyMWE4d1BOTFM3UWx2X1JYaGdwWHAxdmdIVXNYbDBQTXZRb3o3YnI1X3ZoRUZDRGhfMDNvenE5ZTNpWllfeWRyVTJmSE12WkFJLXIwOFdKR0tmYjlWRHAtWnhkaFczbnlMbnRaMXgyU3Z6YlY?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-30 20:06",
    "published_iso": "2026-08-30T11:06:00+00:00"
   },
   {
+   "title": "みんなで支え合う地域共生社会を目指す催し",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QeHlOX2lIM1diN2RyRTFkYjJza2RtNnAtbHpKMENqRXBZMnJzdnN2WEhNQUlfYnlBQVpPU0h1b3FtWHpnN0dJcU9NNTQ4UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-08-30 18:10",
+   "published_iso": "2026-08-30T09:10:00+00:00"
+  },
+  {
    "title": "地震で被災した外国人のニーズ把握へ 相談会を開催",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SU2JWRWVMN2NHRklQSS1TQ1lXX3N3YWY2elF4Z3lyVl9UU01XWmlHMjNNbkE3UjRsTzZjWF94UGI3ck1SS2lJcm1zZHdNSjljY1JkOHBXYjd2dw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 18:01",
    "published_iso": "2026-08-30T09:01:00+00:00"
@@ -226,15 +242,23 @@
   {
    "title": "憧れのキティに喜び爆発！今外国人にサンリオキャラが大人気！絶品フードに映えスポット 日本のカワイイに世界が大興奮！【それスタ】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XNGZSdGUwVlU3VmU2ejd0b043cWxwQVViTW8zOHpMWW9Ld1Z4TTRfV0VxN3BRSno3cGp1UkNNQ19lQUJpYUdtVlh0UUNzS05VN0ZqVUxNQQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 18:00",
    "published_iso": "2026-08-30T09:00:00+00:00"
   },
   {
+   "title": "氷川町で被災した外国人住民対象に相談会 町内に約290人在住（2026年8月30日掲載）｜KKT NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzBhbWt1VUtzSVFMbzVhQzVNQ0JHR21SVmx3cmJhaEh2MVFVNFluY2JDOTVqb2plTG5XNXotV0FpWk9kUmJoeWEzQzU2QW8xTlUxbG1XU3VUUWxzaHFYV05oNnNqM19ZMm5aLWFTR0xOZWdIN1JfcUpRZ1B0RE5WaE9YamV6ZkE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-08-30 17:04",
+   "published_iso": "2026-08-30T08:04:00+00:00"
+  },
+  {
    "title": "外国人労働者257万人 過去の反省から生まれた「特定技能」 迷走?受け入れ政策の「アクセルとブレーキ」 争奪戦ライバル韓国との「2つの差」とは【サンデーモーニング】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83OW1YZnphR3dMR3VtcVRXZkV5djJaY1ozOWE0U0lYVDhOZ3RZb2JDWWNpTWxMZWVzSWc0QmFrVkl6ZXBPSEpQdkxQN2pDR2dyMi02RWJaTQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 13:20",
    "published_iso": "2026-08-30T04:20:00+00:00"
@@ -242,7 +266,7 @@
   {
    "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wM2xmOFprQVRLTElwTVpOTHN5T2FfNll1dThLZDQ0X2hNdHhMblFPTHRTWjliN0gzUTVhY0h2TUtyQ18yb2FnSFk4VU91a2FiVkxPODh5TnV5UWVka3E0X215X0dqQnd1bHhtMnh2QkRiWTdtR0RYdDN1dXE?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-30 13:11",
    "published_iso": "2026-08-30T04:11:00+00:00"
@@ -274,7 +298,7 @@
   {
    "title": "20代の女性の自宅に侵入し気づかれて包丁を見せた疑い インドネシア国籍の技能実習生の男（21）を逮捕【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pVlp0U3YySkRsLW9aOVBhSjl5M1JjT2JKZnlycUVMZlNXdnF5OTMtZC1USDZWY3VGUWtBU00zY3B1OWI3d1dra0ZldmdrYXhMTG94azJEbk84MnBXMlFGU1dQOTVpWE0?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 10:24",
    "published_iso": "2026-08-30T01:24:00+00:00"
@@ -282,26 +306,34 @@
   {
    "title": "現職町議らがミャンマー人虐待か 外国人労働者への暴言・暴力が発覚「日本のご主人様は誰だ」【前編】",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Y3hkRkRPczZaTWdOb3RabnNQc0tCODR5dUFxM2M1eW1UamlVUk9aWmJPYlVTVWhISk1lenJ3bUZMTU1NU1BCa1dVZEc4eDR0eTdQRkpxLUE2Zw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 09:00",
    "published_iso": "2026-08-30T00:00:00+00:00"
   },
   {
-   "title": "（社説）外国人の永住 望みを砕く変更は悪手",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQWG1HakNkeUpyMGxiTmxRWk9JM3ljT2JpSEh6X2ZlUFU5elFoc2dPVVZjbkdTd0JicERfVGJFZlB0WFlYdURlSzNycFRmcEk4emw3SERhV2xraGNs?oc=5",
-   "source": "asahi.com",
-   "source_domain": "asahi.com",
+   "title": "日本語教室、広島県福山市が市外でも開講 外国人の子に宿題支援も",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQXNmX0NHSXNXamZsbTg0TWVBMUxkMHNjdWNicGlTaVFWSzNkaUFTN0Y5N3U5d0ZlSTV2T0Rmc2k0MFhaLS1pQ3dwNUxQVWRCdXQxRGpTVGRnTXBKbnFiQ2ZnQkxXbmNTalVOZQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-08-30 05:00",
    "published_iso": "2026-08-29T20:00:00+00:00"
   },
   {
-   "title": "日本語教室、広島県福山市が市外でも開講 外国人の子に宿題支援も",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtQXNmX0NHSXNXamZsbTg0TWVBMUxkMHNjdWNicGlTaVFWSzNkaUFTN0Y5N3U5d0ZlSTV2T0Rmc2k0MFhaLS1pQ3dwNUxQVWRCdXQxRGpTVGRnTXBKbnFiQ2ZnQkxXbmNTalVOZQ?oc=5",
-   "source": "nikkei.com",
-   "source_domain": "nikkei.com",
-   "published": "2026-08-30 05:00",
-   "published_iso": "2026-08-29T20:00:00+00:00"
+   "title": "【社説】外国人の永住、突然高くなる壁 望みを砕く変更は悪手だ [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WGxQR1hYelphR1NYTDVlckRkN3UzMkVyTFdveUtxTkFZMEx2TURieHRySlVIelM2Y204YTMxbEpZRjZHcjk2Qlc1Uk1iaUhvcVVqWERJTHFLQkpGYUVYWE5WWWhBeVk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-08-29 19:00",
+   "published_iso": "2026-08-29T10:00:00+00:00"
+  },
+  {
+   "title": "７カ国語で書かれた折り鶴で外国人への交通ルール啓発も JICAの国際交流イベント開催 札幌・白石区",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYZEF4X2RTR0tHWU1CTWZjbmRjc05DTGppVFFFUG1KaFltQno4T3FWTWdDVWhkY2hKVElqVDdTMjlkOXRPOHJHZnNtVVRTTkRiNGVfMTN6eVVNZw?oc=5",
+   "source": "HTB北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-08-29 17:55",
+   "published_iso": "2026-08-29T08:55:00+00:00"
   },
   {
    "title": "障害者が染色体験楽しむ 高鍋で共生社会推進事業",
@@ -310,6 +342,14 @@
    "source_domain": "47news.jp",
    "published": "2026-08-29 17:01",
    "published_iso": "2026-08-29T08:01:00+00:00"
+  },
+  {
+   "title": "ひき逃げか…自転車の外国人男性が骨折などの重傷「大きな音がした」 滋賀・東近江市",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12X2MwMU9icWszVzhMM09WbGYwZ0ZkNk04Z2dLY2IwWldJNjMxallFVFlrMjhPM3VaRi1ETEhMZ3pUYmFsMEtyZ1dndlVBaUxVWmdsSWdCYWc4VC0yU19wd3k4QUNva28?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-08-29 12:18",
+   "published_iso": "2026-08-29T03:18:25+00:00"
   },
   {
    "title": "ICE、トランプ支持者を不法滞在で拘束 強行な移民対策を歓迎する英活動家ヤノプルス氏",
@@ -322,7 +362,7 @@
   {
    "title": "ベルトコンベアのローラーに巻き込まれて左腕を骨折 廃材処理作業していた技能実習生の男性（25） 山形県天童市",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T2VZQ0JYUzNuM0F1dUF2UEQ2QzlZaWM4U210b0ZXT3dqUU1VNkR5OVBSYi1KVHBUV1R4VGJkX29jOVlGV2l3c2VkNlJYVXhIXzU4SjNUNXdMbF9kVDY0Q0xfOGNILVBzeHBtdUt2aWdVQTE4TVduX1l0bUFXOVk?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-08-29 09:44",
    "published_iso": "2026-08-29T00:44:00+00:00"
@@ -337,8 +377,8 @@
   },
   {
    "title": "産廃処分施設で技能実習生がベルトコンベアに腕を巻き込まれ大ケガ（山形・天童署）",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1OUVNMXFYZURPWEY5eldldlh2VlNBcEhUci1kTlJ4RTFCMHhOZ19PRmVpcllGdkJGcHFHT3lmUWRXQjUxb2NLWUR6M1g3VHQ2clcxX0J5ZER3QQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5veHRoaGhXY3pZRzZqbDA2Ry1kR2FhNTZfVTh3a1p6Z2RwcGpNNWVMVmlhbDdSMWprNFJuSVZrT3BpWXNHQWVKMnJRY1ZpOHRhYXRkNEJ2OG5nZVNZRHZSeXdYdVVhajg?oc=5",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-29 09:04",
    "published_iso": "2026-08-29T00:04:00+00:00"
@@ -362,50 +402,10 @@
   {
    "title": "外国人労働者の「運命」にぎる行政書士 活躍の場が広がる裏で不祥事も後を絶たず…",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KRnJnUUVvMEpDY2dGY0xBRnNTcTNzMVV1UlEweXVfOVgzdHJxUTQtaU1oaHA2WTNUS210VXVNWndXVlY0d1BWcDh1d2ZKSGs2VTB3dg?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-29 05:10",
    "published_iso": "2026-08-28T20:10:00+00:00"
-  },
-  {
-   "title": "文科省予算、過去最大８兆円超 日本語教育支援で「事項要求」も",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUWJPQUdydFlKM0w0X0ZIT1pHa0twY3J3dFNlcjNyUkNRR1NUaGdxRjJIdU9jRHFwalVHV2lKNlpqRFZVVTdCaHJ3Mzh1UFlZR2s0?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-28 20:30",
-   "published_iso": "2026-08-28T11:30:04+00:00"
-  },
-  {
-   "title": "文科省予算、過去最大8兆円超 日本語教育支援で「事項要求」も",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSWd3Skl3WlpwOE9la0dxeUVsRG1YTFJWSjNWcVVlTXlLLVdCV3A4TmhVcU9DRk1vYkRBUHd4d1VYcEMzT3I3OHg1MlRDbzc5TjlqOGN5ZnF5Q21aTEZITG80XzE3ODQ2eWdj?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-28 20:27",
-   "published_iso": "2026-08-28T11:27:20+00:00"
-  },
-  {
-   "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切る町議は議会を欠席、町長「報道を見る限り残念」北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRTN5VkdnQ1hDMTlyZThMTmpTZTVVQXl2MTFRUU16LTNOT2pNTm50Q1lJeWp6a0gwYVJHVTF3ZFZZdUVnZ2pWUEdaU1ZwdlprSU92MkF3WQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-28 20:14",
-   "published_iso": "2026-08-28T11:14:00+00:00"
-  },
-  {
-   "title": "災害発生時にどう身を守るか 外国人材が災害への備えを学ぶ【愛媛】（2026年8月27日掲載）｜南海放送NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVnFndXN0N2Q5bG1ScUVhSkQwcG5kaVFSMGZPTUNnV1IwTXdLSWdYLXgzeDdGLWZPNjktV0dSMnd5a0xKcnZLNEtSVVpfcnJ2MlFEd3premJSb2FxUktwRmtxejFfMnBWbWRkaTVwTWxVc2NXd0pHOUN3NUJLWVREZEViMEppSE0?oc=5",
-   "source": "news.ntv.co.jp",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-28 15:44",
-   "published_iso": "2026-08-28T06:44:00+00:00"
-  },
-  {
-   "title": "『はい、移民です。文句あるかい？ ひとりの帰化者の日本文化雑考』マイク・モラスキー著（光文社）",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TQ0FJNjRFbzR2OTVrVGZmMnlTcUFoZWlYSUVGRDBVRHRtVDYwakJtdE1qTDJ6MjlzajRtbjdtTXprYno3ekd5UmJNU204QjdzZURoaU82N1Y2aUJfbUZiaDBCZTY2YW5fX3FFdVc4Z25IZ0JNQlE?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-08-28 15:20",
-   "published_iso": "2026-08-28T06:20:00+00:00"
   }
  ]
 }
