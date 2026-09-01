@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T13:04:22+00:00",
+ "generated_at": "2026-09-01T17:34:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "英労働党、外国人の新築住宅購入制限の公約を棚上げ",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84T3hRQktkTk0tbnVLMjBZY2tWaGFnbVB1dnpNb1A4ck5PZUhyVFpnNGRHMzJickFLUnFPMU5DY2xjcFVyWW1PLXB3TTFuVzhobGZRamRLbWxON2Y5SDFka3RPRmwyRTZVcXZTVXBiYW5adG1GLUpR?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-02 00:00",
+   "published_iso": "2026-09-01T15:00:00+00:00"
+  },
+  {
+   "title": "成田空港で震度6強想定の防災訓練 外国人観光客は実践的に英語で対応",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YSFJCM2Yza3RlUWdTbDZfZkpaWmlnSF8zeGVJcXQ1U0hudE56VE5rZHhIV2ZiT3ZvRHo1bG15NTRHa29VaWlSb0tHaFFsbEJRak9fV1R2V1F5MDZ1QkFaOG9KWVVMT1lidzBINHl4Q2VvQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-01 23:54",
+   "published_iso": "2026-09-01T14:54:23+00:00"
+  },
+  {
+   "title": "中国、外資配当の外国人向け課税免除を廃止 20%の税率適用へ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZ1RlWnNXc0tiLS1zU1B6V200UkRLWVFPVTF4Y3k3bjc3YWNQTW9QN0hhcHBRX0t0SkFHZm5RM3JiaE8wNnk3WWhLdFAxQWEtUHhsNlVwUE1tYjktNVhTbDRzVDgwZ2l1d3hNLQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-01 22:56",
+   "published_iso": "2026-09-01T13:56:34+00:00"
+  },
+  {
+   "title": "避難所に外国人観光客、課題は 増毛で北海道総合訓練",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Fb1Fob0l5LTQ1dW5ndmV4WTdINXlqODN4cm5LMGpCdERMUS1aQzNMQTFRV0lNZ3dBVGFHTEpwMF9zMmhiTWlveEVrdmprMzVsM2NMVXNmTUlkQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-01 22:13",
+   "published_iso": "2026-09-01T13:13:11+00:00"
+  },
   {
    "title": "「原爆の惨状、外国人にも衝撃」 八雲・大内さんが原水禁世界大会参加 13日に町内で報告",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SSTFuU0NNYnprcUdkY3pucWNBTU91cFRfU1cwc3E1eHkxWV84cUNHWUhxQzJjS2NCeHpYdlYweVg0dW81RDg4Wi1FeTE0VVBQV3lWblFGV194UQ?oc=5",
@@ -24,33 +56,25 @@
    "published_iso": "2026-09-01T09:52:38+00:00"
   },
   {
+   "title": "在留外国人400万人時代、ライフライン支援を「入国後」から「入国前」へユーネット、外国人向け新サービス「Life Ready Japan」を9月1日開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVzhpaTZ2dGR1VjE3alZmN19WY0FWM29qbGVEU19uSWtweDFFUTJyVHVLcm5JSnpGVXI2UWc1UHdGSkRQWndrN1dheVpNN0kwUjNhTU04SDRqQTJxSzdtdkpLQk1tcDFzaHhR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-01 18:46",
+   "published_iso": "2026-09-01T09:46:00+00:00"
+  },
+  {
    "title": "北アフリカのスペイン「飛び地」に不法移民７万人殺到、ロシアとイスラエルの「偽情報拡散」が原因と主張",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WUtzd0UzZFI0QUlIalNHZmJ6UElEbjdQZC1DMGlIUmdHZDAyTENUQzk1VnhGTE1FdDhSRDFweGVTclJaMHQ3Sko5SGRqM1ZyVVdWM0hjUW5Ya2V1dXVzWkNB?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-01 18:15",
    "published_iso": "2026-09-01T09:15:00+00:00"
   },
   {
-   "title": "人手不足の訪問介護を支える外国人ヘルパー 「特定技能」対象拡大から1年も受け入れ1.2% 日本の生活様式に苦労も",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOFIzMmFmY3pPZzJIaE0xVlBoRGFoeEg2akhzLWZPMmtCUnpscmQ2anA5dWszbmdXemZGalBlOFVLZU5nRVcyOTFDMUY5Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-01 18:02",
-   "published_iso": "2026-09-01T09:02:00+00:00"
-  },
-  {
-   "title": "在留外国人400万人時代、ライフライン支援を「入国後」から「入国前」へユーネット、外国人向け新サービス「Life Ready Japan」を9月1日開始",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTVNhR0J5SndIRVBzb2trZVA0Q1dGMFVvRE5lSm1TR2hSQnU1Rk9abmE3cmVLUTZkeWJCR3dySkVjYUg1SDJqYTF5b09zc2dxcG51dlhNbUZaOUlySmcwbGZCR3h4UVEyUnpsU2JkdWVJZHh2Nk5zdm5DUQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-01 17:58",
-   "published_iso": "2026-09-01T08:58:12+00:00"
-  },
-  {
    "title": "「掃除機は初めて」人材不足の訪問介護 外国人ヘルパー解禁も直面する“壁” 「1対1」への不安や生活文化の違いも",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JeHlrbTBCX1AwbDJYSzBPc2ZrcEIzUWJoN0lxVDdUMEk3MzlNUndPVFl1bVJQUjVWRHA5T3JjWk9UQVh5T2xZVzY2QVlWUQ?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-09-01 17:04",
    "published_iso": "2026-09-01T08:04:00+00:00"
@@ -58,7 +82,7 @@
   {
    "title": "「将来的なトラックドライバー不足解消」初の外国人ドライバー採用 鹿児島市の園田陸運",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91TEFTdFBTZVFvTGZsRVlMMzlaY2RSMEdOWUUwZUpJTkt3NmRTc2JDczB1YzBHbmtWQ0tQYy1BTHJ6ZXgtVUxxQmRMZkltaVJpejZzT2VlQ0hxdG1vRWRKTkJta1FRU2c?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-01 16:32",
    "published_iso": "2026-09-01T07:32:00+00:00"
@@ -74,7 +98,7 @@
   {
    "title": "難民の子供たちへ服を贈ろう、中３がユニクロ店頭に回収ボックス…洛南",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFFXTExiT1lveFYxOEJpMTdUcGJOQ3RtRDVCY2ZnMkZvNzFKUm5ma0JPVzdwM0lpMFVRWG50Tm5XZl9HbW1jalpjNHpMQU5TeUw3V0hscFdDMG51aUwxVE92UXctczZWZnFWdTdoWUhLcVpYZ0QwZzRzTTg2TE1rVFJOdC1mQ0NtekE?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-01 15:00",
    "published_iso": "2026-09-01T06:00:00+00:00"
@@ -82,7 +106,7 @@
   {
    "title": "「蹴ったのは片足だけ」インドネシア国籍の技能実習生の男（22） 元交際相手の20代女性への傷害の容疑で逮捕_女性は皮下出血〈北海道八雲町〉",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83REUzQWVEMnJudUhiWGZaYi1KN25oQVRvemhNczFyYi1nbXUwUmM5d1dKTHhpelZkbi1SNVE3T1VjSHZaSmVQMFAxMU5nQQ?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-09-01 07:40",
    "published_iso": "2026-08-31T22:40:00+00:00"
@@ -90,7 +114,7 @@
   {
    "title": "イタリアとスペインの外交対立続く 入国審査の撤廃停止延長 モロッコ移民流入問題巡り",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSjJTVzd0MGxaRndqcFRuZklIaWd2elhNVF80czJGM1ZseXJBUVZRX0hiLXZ5WlE2SHY4bU9RQ0ZZek5hWXNqaGlwMnhmSDdPbUZ5U3l2Tk0yV2g5QzV1SXU0SkQ3dzNEYUJFLVNJWktDZV9UMFE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-01 06:21",
    "published_iso": "2026-08-31T21:21:13+00:00"
@@ -102,14 +126,6 @@
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-09-01 06:18",
    "published_iso": "2026-08-31T21:18:00+00:00"
-  },
-  {
-   "title": "異国で被災、届かぬ公助 熊本地震 車なく野宿する外国人も",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IbURsMEQwbFVTVEdNdkhxME8wTENEWEVxQ3lsNlB4U0lUaWhHVzJvUlhxWnY5NWx5eHNqN3JmNEFRMlJhbnBlU09PTDZNUVJDZEw1dnpB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-01 06:00",
-   "published_iso": "2026-08-31T21:00:00+00:00"
   },
   {
    "title": "「ロシア、イスラエルの偽情報」非難 不法移民殺到で―スペイン首相",
@@ -170,7 +186,7 @@
   {
    "title": "「人が水中に沈んだ」外国人留学生(20代)が溺れて死亡 防波堤から水深3ｍの海に飛び込んだとみられ 大学関係者ら約15人と海を訪れていたか 広島",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wTHlGWHdqZHBZM3lhN3htUUVROExmV1QwRl9VaWRwSU5IanNGeHczVzZfOWxlSXBaLUhHTXV2TWx1eS13LWtQT1AyYklFQ3BBbVpuemRyY1dFTDdObVhhazEtSTA?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-31 16:56",
    "published_iso": "2026-08-31T07:56:00+00:00"
@@ -200,9 +216,17 @@
    "published_iso": "2026-08-31T05:00:00+00:00"
   },
   {
+   "title": "外国人政策を大幅増額 法務省、文科省の27年度概算要求",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcEVlX09pOENuWHZLUzIwRGhUM2dfbFJXRzB3SFhJZnY3UXVkSjNJekJyeWNaeURmZnpneF95RzFBTmFCeUZJS2YxMEpSUHJyQXloUE5SQm9OdHlfU1ZtdTVUUVpvckx5?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-31 13:38",
+   "published_iso": "2026-08-31T04:38:57+00:00"
+  },
+  {
    "title": "防波堤から飛び込んだか 外国人留学生(20代)が溺れて死亡 大学関係者ら約15人と海を訪れる 広島・呉市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FY3hMWkVibzV2Mzg1U0stQ3QwVVdRZnhqZWVxb0R5UDY1d0RTbGp2U20weDl4SC1nVTJTWTc4SGl0bm1uRE5WTWRTd3ZLZVNZQk16Rkg0VQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-31 12:16",
    "published_iso": "2026-08-31T03:16:00+00:00"
@@ -242,7 +266,7 @@
   {
    "title": "地震で被災した外国人のニーズ把握へ 相談会を開催",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SU2JWRWVMN2NHRklQSS1TQ1lXX3N3YWY2elF4Z3lyVl9UU01XWmlHMjNNbkE3UjRsTzZjWF94UGI3ck1SS2lJcm1zZHdNSjljY1JkOHBXYjd2dw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 18:01",
    "published_iso": "2026-08-30T09:01:00+00:00"
@@ -250,7 +274,7 @@
   {
    "title": "地震で被災した外国人のニーズ把握へ 相談会を開催 熊本",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VTmtwN0pfejJWVTFyUmNid2JjaF9HRURFdlFWdjhRdjNPei1nR01pWm92TGVERS1uVzMtQWt0WjdaNmFDTHhvaW5qUE1WRlNwNU1LM005clZhalBmdi1qcGV4VzdHbFE?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 18:01",
    "published_iso": "2026-08-30T09:01:00+00:00"
@@ -266,7 +290,7 @@
   {
    "title": "外国人労働者257万人 過去の反省から生まれた「特定技能」 迷走?受け入れ政策の「アクセルとブレーキ」 争奪戦ライバル韓国との「2つの差」とは【サンデーモーニング】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83OW1YZnphR3dMR3VtcVRXZkV5djJaY1ozOWE0U0lYVDhOZ3RZb2JDWWNpTWxMZWVzSWc0QmFrVkl6ZXBPSEpQdkxQN2pDR2dyMi02RWJaTQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 13:20",
    "published_iso": "2026-08-30T04:20:00+00:00"
@@ -298,7 +322,7 @@
   {
    "title": "20代の女性の自宅に侵入し気づかれて包丁を見せた疑い インドネシア国籍の技能実習生の男（21）を逮捕【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pVlp0U3YySkRsLW9aOVBhSjl5M1JjT2JKZnlycUVMZlNXdnF5OTMtZC1USDZWY3VGUWtBU00zY3B1OWI3d1dra0ZldmdrYXhMTG94azJEbk84MnBXMlFGU1dQOTVpWE0?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 10:24",
    "published_iso": "2026-08-30T01:24:00+00:00"
@@ -306,7 +330,7 @@
   {
    "title": "現職町議らがミャンマー人虐待か 外国人労働者への暴言・暴力が発覚「日本のご主人様は誰だ」【前編】",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Y3hkRkRPczZaTWdOb3RabnNQc0tCODR5dUFxM2M1eW1UamlVUk9aWmJPYlVTVWhISk1lenJ3bUZMTU1NU1BCa1dVZEc4eDR0eTdQRkpxLUE2Zw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-30 09:00",
    "published_iso": "2026-08-30T00:00:00+00:00"
@@ -328,33 +352,9 @@
    "published_iso": "2026-08-29T08:01:00+00:00"
   },
   {
-   "title": "ICE、トランプ支持者を不法滞在で拘束 強行な移民対策を歓迎する英活動家ヤノプルス氏",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWFBnOTk1UC1NWGgyUEtMSDVzZ09PdnZGT1lnbTBTME11TXZiUFpRNTdzQTktWE9IcnU0T3FvQnRCUDgtWVh0VzhWa2V6SUl0WHE1WTVxdDlzRGZKcVF1MmVVTDYyOGt1QXJXMkpoTlYwQjczNEE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-08-29 12:11",
-   "published_iso": "2026-08-29T03:11:32+00:00"
-  },
-  {
-   "title": "ベルトコンベアのローラーに巻き込まれて左腕を骨折 廃材処理作業していた技能実習生の男性（25） 山形県天童市",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T2VZQ0JYUzNuM0F1dUF2UEQ2QzlZaWM4U210b0ZXT3dqUU1VNkR5OVBSYi1KVHBUV1R4VGJkX29jOVlGV2l3c2VkNlJYVXhIXzU4SjNUNXdMbF9kVDY0Q0xfOGNILVBzeHBtdUt2aWdVQTE4TVduX1l0bUFXOVk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-29 09:44",
-   "published_iso": "2026-08-29T00:44:00+00:00"
-  },
-  {
-   "title": "トランプ氏支持の英国人保守活動家を拘束 不法滞在で―米移民当局",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14LWwwemF6QjlyUUJ4UEtsdnR3bVl2YnF5WUpmRjM4THF5Q0ZIdTdHRVpNWHVOdjRhQkpSRXBTRlBTYkdvYnoxUVBJc0Y3MDdmbllZMmZsb0dxX2Nfd19pM01mMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-29 09:33",
-   "published_iso": "2026-08-29T00:33:00+00:00"
-  },
-  {
    "title": "産廃処分施設で技能実習生がベルトコンベアに腕を巻き込まれ大ケガ（山形・天童署）",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5veHRoaGhXY3pZRzZqbDA2Ry1kR2FhNTZfVTh3a1p6Z2RwcGpNNWVMVmlhbDdSMWprNFJuSVZrT3BpWXNHQWVKMnJRY1ZpOHRhYXRkNEJ2OG5nZVNZRHZSeXdYdVVhajg?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-29 09:04",
    "published_iso": "2026-08-29T00:04:00+00:00"
@@ -394,7 +394,7 @@
   {
    "title": "「文句あるのか言ってみろ」特定技能のミャンマー人“虐待問題”に地元町民「恥ずかしい」農業法人を取り仕切る町議は議会を欠席、町長「報道を見る限り残念」北海道京極町",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRTN5VkdnQ1hDMTlyZThMTmpTZTVVQXl2MTFRUU16LTNOT2pNTm50Q1lJeWp6a0gwYVJHVTF3ZFZZdUVnZ2pWUEdaU1ZwdlprSU92MkF3WQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-08-28 20:14",
    "published_iso": "2026-08-28T11:14:00+00:00"
