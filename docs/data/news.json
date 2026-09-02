@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T18:28:59+00:00",
+ "generated_at": "2026-09-02T21:34:52+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -16,6 +16,14 @@
    "published_iso": "2026-09-02T10:56:18+00:00"
   },
   {
+   "title": "伊勢の商店街火災で「外国人が放火」との不確定情報がSNS上で拡散 伊勢署「投稿を裏付けるような事実は現時点で把握していない」",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TUHdLd1A4YTFKSldQQzRySmg3S1A2OVJIQjRibGJPZmhZOHMtRWFkVnFfZHNmYzhRcW1DUTE5b0lKYWE0TWw2ck56S0d5VmZseGVCRA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-09-02 19:21",
+   "published_iso": "2026-09-02T10:21:36+00:00"
+  },
+  {
    "title": "【胆振東部地震から8年】言葉の壁で外国人を孤立させない…白老町で82歳「防災マスター」が立ち上げた「白老防災通訳会」の挑戦",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80WDdfelJZTXlNUFVuOHI2MXFPWkVMRXNfNnpTV2Nwek9ta2FBN2pvZHhIQ3lnSDE4Wm5kcVRuZkhJWGtvdTN2MEVBY0Qzc1BjNlVtXzRoQURMSDltWDJRTy13Z2w?oc=5",
    "source": "TBS NEWS DIG",
@@ -30,6 +38,22 @@
    "source_domain": "fnn.jp",
    "published": "2026-09-02 18:09",
    "published_iso": "2026-09-02T09:09:00+00:00"
+  },
+  {
+   "title": "ネパール土石流、中国側の外国人不明者は23カ国261人 各国に通知",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sbDlIZ1FWSmlEUXZXM3JDdDd6Y05QTklJTVZ3WTNGYTZUVG9Wb0pRRTRzaTA4TDRydzhhQ085ay1NRnFGM1UyWnVQSkhEWUZrWk5rY09pN3RITzl0c3pZOHBUdzBjUk01UnV0UQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-02 17:55",
+   "published_iso": "2026-09-02T08:55:26+00:00"
+  },
+  {
+   "title": "外国人客のレンタカー事故急増、新潟・長野のスノーリゾート地域に集中…新潟は４倍",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wbnl5X2VPNTkxdFJCVkhPdDkxaVFOX0xNbklaajZxYkMyQ3U0TWVfMWlUM05ucldwcktBTHRSWFJqRTdUenJDOS1nVzRUaFhock1hWTlVaFlmWVdPZzMtdHZEbVNzUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-02 16:52",
+   "published_iso": "2026-09-02T07:52:00+00:00"
   },
   {
    "title": "湾岸危機 イラクのフセイン政権は外国人を「…：湾岸戦争とイラク戦争 写真特集",
@@ -56,6 +80,14 @@
    "published_iso": "2026-09-02T02:40:00+00:00"
   },
   {
+   "title": "薬が効きづらい結核を治したくて… 偽装結婚と難民申請にかけた望み",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vanpHa2lVNmxwOEhjdkVVanRFc1BLVnJSc1lHdmVudTRMRHk3RUNVQXF0VFdlaTZJYVFEM3gwbUkxSlVtZGpBZUdtdmNlMWJPQU9TT3RPNXg5b2RRZTZfTHZYX3UtQ00?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-02 11:00",
+   "published_iso": "2026-09-02T02:00:00+00:00"
+  },
+  {
    "title": "農業の外国人材に理解深める 福井県坂井市の導入企業で雇用検討する農家ら向け研修会",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjckFqMDUwUUZ4WmUzQ1hfSzV4Ym1fcE1iRkE0N3MwdU5XbFBwRmowblVXbkFzQ2VXWkdqaG9xUTNGYUhmTXBlS0ZXdw?oc=5",
    "source": "47NEWS",
@@ -66,7 +98,7 @@
   {
    "title": "入管に翻弄される家族描く 「やさしい猫」2年半ぶり再演 劇団民芸、川崎で11日",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LckQ4VG9Kc3RjX2hEeUdpdVFSM2tFOUd1cHJ3MjVDcE1oUXJhR3ZuY0VqeWhGZjBnVXF1V0ZqR0g1WFp0N2EtTENuQVdxMExDN00w?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-02 07:31",
    "published_iso": "2026-09-01T22:31:33+00:00"
@@ -88,17 +120,17 @@
    "published_iso": "2026-09-01T21:10:02+00:00"
   },
   {
+   "title": "叫んだ「私の方が愛国だ」 中国でスパイ容疑で拘束、同胞支えた人生 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WazVlSkxmSG9pcEJrYVM4RjZzaTJheXBvQXF6eTZ0SUVmM3U1NkJvUXRqR21oYjJzMEo2YU9uYU9lZHV0ZVdsR1l0bmVCN25nMW50eHRHdVZHeS1JdTFBYkZibUlSQVU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-02 06:00",
+   "published_iso": "2026-09-01T21:00:00+00:00"
+  },
+  {
    "title": "訪日客4000万人時代の空港改革 税関・入管・検疫の「縦割り」はデータ統合で克服",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ybjlNeWtSNEJZSUNxalFZS0Z1RGFvc2NTbVFqOGRWWHFySEJsUnFZa0MyZTJ4OUlhY2E1RzVqZWYyTmVQQkVWOV9pdzctWXpqQkZfMjlvMVhVQldYLVhuQ2V2QlZCOTg?oc=5",
    "source": "日経ビジネス電子版",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-02 05:00",
-   "published_iso": "2026-09-01T20:00:00+00:00"
-  },
-  {
-   "title": "「経営」資格の外国人、上半期の出国3.9倍 資本金など在留要件厳しく",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tWFpjQVVyVTFfX1BvRjZRMHZJWndQUXcyRHNYOFcwUzBMcnRPNVRyRHhMMXNDbm8xZWhBczk4ZWd3MnNMRHRzWWctLU5sZ1V6amNncVlDR1JxN3Z3bHlCMHg2Rkhwanh5Y0Z3Tw?oc=5",
-   "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-09-02 05:00",
    "published_iso": "2026-09-01T20:00:00+00:00"
@@ -128,14 +160,6 @@
    "published_iso": "2026-09-01T20:00:00+00:00"
   },
   {
-   "title": "英労働党、外国人の新築住宅購入制限の公約を棚上げ",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84T3hRQktkTk0tbnVLMjBZY2tWaGFnbVB1dnpNb1A4ck5PZUhyVFpnNGRHMzJickFLUnFPMU5DY2xjcFVyWW1PLXB3TTFuVzhobGZRamRLbWxON2Y5SDFka3RPRmwyRTZVcXZTVXBiYW5adG1GLUpR?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-02 00:00",
-   "published_iso": "2026-09-01T15:00:00+00:00"
-  },
-  {
    "title": "中国、外資配当の外国人向け課税免除を廃止 20%の税率適用へ",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZ1RlWnNXc0tiLS1zU1B6V200UkRLWVFPVTF4Y3k3bjc3YWNQTW9QN0hhcHBRX0t0SkFHZm5RM3JiaE8wNnk3WWhLdFAxQWEtUHhsNlVwUE1tYjktNVhTbDRzVDgwZ2l1d3hNLQ?oc=5",
    "source": "日本経済新聞",
@@ -158,6 +182,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-01 18:52",
    "published_iso": "2026-09-01T09:52:38+00:00"
+  },
+  {
+   "title": "北アフリカのスペイン「飛び地」に不法移民７万人殺到、ロシアとイスラエルの「偽情報拡散」が原因と主張",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WUtzd0UzZFI0QUlIalNHZmJ6UElEbjdQZC1DMGlIUmdHZDAyTENUQzk1VnhGTE1FdDhSRDFweGVTclJaMHQ3Sko5SGRqM1ZyVVdWM0hjUW5Ya2V1dXVzWkNB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-01 18:15",
+   "published_iso": "2026-09-01T09:15:00+00:00"
   },
   {
    "title": "人手不足の訪問介護を支える外国人ヘルパー 「特定技能」対象拡大から1年も受け入れ1.2% 日本の生活様式に苦労も",
@@ -214,14 +246,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-08-31 20:12",
    "published_iso": "2026-08-31T11:12:00+00:00"
-  },
-  {
-   "title": "外国人労働者257万人 過去の反省から生まれた「特定技能」 迷走？受け入れ政策の「アクセルとブレーキ」 争奪戦ライバル韓国との「2つの差」とは",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WdjRqM2Y1QlBWQXByM1VqTnJ1TVFOU2hNTWpBNHZZRDA5aUJuaWpZcE1aUnkzcm5rMFJvU3poLUVJd0N0a3Q0Wmx4WGRncGtySTQtZGdZR2ZVZXdzeWdEdVZn?oc=5",
-   "source": "tbs.co.jp",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-31 17:43",
-   "published_iso": "2026-08-31T08:43:05+00:00"
   },
   {
    "title": "「人が水中に沈んだ」外国人留学生(20代)が溺れて死亡 防波堤から水深3ｍの海に飛び込んだとみられ 大学関係者ら約15人と海を訪れていたか 広島",
@@ -352,14 +376,6 @@
    "published_iso": "2026-08-30T00:00:00+00:00"
   },
   {
-   "title": "外国人採用アンケ 知事の「助言」 断固抗議 「差別、排外あおる」 津で集会 ／三重",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TRG1SeVhpUGRwMTFBU2Q3YmxJd0ZJb29lc2xqajRGUHduVjFEaEtLajZBcTU0cldmYXNJYU11VkJyeXl1bjFRbk1pcV9UZnlOUE9Bekk5QUxCV2VpNVFiQlZuVHl6YWlV?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-30 05:03",
-   "published_iso": "2026-08-29T20:03:16+00:00"
-  },
-  {
    "title": "ICE、トランプ支持者を不法滞在で拘束 強行な移民対策を歓迎する英活動家ヤノプルス氏",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pWFBnOTk1UC1NWGgyUEtMSDVzZ09PdnZGT1lnbTBTME11TXZiUFpRNTdzQTktWE9IcnU0T3FvQnRCUDgtWVh0VzhWa2V6SUl0WHE1WTVxdDlzRGZKcVF1MmVVTDYyOGt1QXJXMkpoTlYwQjczNEE?oc=5",
    "source": "産経ニュース",
@@ -390,22 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-08-29 05:10",
    "published_iso": "2026-08-28T20:10:00+00:00"
-  },
-  {
-   "title": "文科省予算、過去最大８兆円超 日本語教育支援で「事項要求」も",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SUWJPQUdydFlKM0w0X0ZIT1pHa0twY3J3dFNlcjNyUkNRR1NUaGdxRjJIdU9jRHFwalVHV2lKNlpqRFZVVTdCaHJ3Mzh1UFlZR2s0?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-08-28 20:30",
-   "published_iso": "2026-08-28T11:30:04+00:00"
-  },
-  {
-   "title": "文科省予算、過去最大8兆円超 日本語教育支援で「事項要求」も",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSWd3Skl3WlpwOE9la0dxeUVsRG1YTFJWSjNWcVVlTXlLLVdCV3A4TmhVcU9DRk1vYkRBUHd4d1VYcEMzT3I3OHg1MlRDbzc5TjlqOGN5ZnF5Q21aTEZITG80XzE3ODQ2eWdj?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-08-28 20:27",
-   "published_iso": "2026-08-28T11:27:20+00:00"
   }
  ]
 }
