@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T16:55:06+00:00",
+ "generated_at": "2026-09-03T19:38:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,24 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hSEVJWEt3UEtyNm1QZGhXY1VvMWhJVDBWMmp4UkVhYkJ5RHFqeW1PYmMtdG44YnFTZnh4MzhtY3dzREF1cnROcC1fN0ItMUpkS2h0T1RVQ2hKVTh4VjZCY000UnZCNEdTTkcw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-09-04 01:15",
-   "published_iso": "2026-09-03T16:15:00+00:00"
+   "published": "2026-09-04 01:16",
+   "published_iso": "2026-09-03T16:16:00+00:00"
+  },
+  {
+   "title": "大阪・あべちかの強殺未遂 公開手配中の4人目を逮捕 被害額は600万円 東京都内の入管に出頭",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXOTVrd0psZWhYbDFYa3Byb3hweEZ3MlhydHZfdmZPNm5jNzBEV2NDbHJSUmZSTHVEQ1hSdmJXbVN1V3otNXd3bHUwZ29lYThQTEl1d0lFb2pjWXNZZ1pwakcyWWdmejlMTnphOGV3a1Jnb0lZT0E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-03 23:22",
+   "published_iso": "2026-09-03T14:22:25+00:00"
+  },
+  {
+   "title": "＜多文化共生の現場から＞キムチ、おいしいんですか？",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYzRhLWd3Wk9sS1N6dk0xaEp3Zko0VDdCQVRKa0xhUFo1ZmFncWJmOGFuNnljN1ZiZkNJTWU2Y0tIY0NuMmFyS29lYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-03 23:16",
+   "published_iso": "2026-09-03T14:16:53+00:00"
   },
   {
    "title": "大阪「あべちか」の強盗殺人未遂、公開手配の男を逮捕 入管に出頭 [大阪府]",
@@ -24,28 +40,52 @@
    "published_iso": "2026-09-03T11:46:00+00:00"
   },
   {
-   "title": "地震で被災した外国人が不安に思っていることや困りごとを相談【令和8年熊本地震】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LZWQyN3VaOWpJd0pHbnFld2U1WGkyYkV5bjBoWDVJZm8yZ2RiYlp4YU9Nc0V0Y1k5VWJnQjNvY2dMWEc2MVA1b1ktbHZEZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-03 19:00",
-   "published_iso": "2026-09-03T10:00:00+00:00"
+   "title": "京極町・特定技能のミャンマー人男性、暴行などの容疑で町議会議員を告訴方針 議会定例会開会も…渦中の町議は欠席 外国人支援めぐり議論も",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13N0dFX3h1RzU5dTZKVXBvYXk0THdBaUFVbUVRTWtlLTE1N2MzUUNyQVJZbEF0eUpPallIQUo5Ml9ITDRjZS1xeGdrSGZXZ0FEZkxieGQzOGtQbnpRaGZXUWdvUkw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-03 19:48",
+   "published_iso": "2026-09-03T10:48:00+00:00"
+  },
+  {
+   "title": "外国人運転手の受け入れ環境、岡山でモデル構築 公共交通の維持図る",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wVDdtM3NydUZtbFdyd0k1cWJKX1A2X0hWM2pkb21oYTBYdk9zcFdyNzFhUTBESUVMNF9wUEpBV214YzhIRkxTZUFQd0R6dm5jWkdtVHVPNVpITHZZNVJ1dGNsTi14TnZRcXRhQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-03 18:47",
+   "published_iso": "2026-09-03T09:47:46+00:00"
+  },
+  {
+   "title": "27年度公立高校入試、選抜要綱を発表 部活動などの「特別取り扱い」廃止 外国人生徒特別枠は9校に拡充",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mZFVQdzNIa0JJWGNnbXdrb2gyZHZNQ1BZclFqYmJ2SHItekZpUmFBR1RkVEt0MDNPQk9jVEY0QmJ5ZEt0SjRRQU9qYS1XR2hXRXBZN08zZ3d5aWFoMG5TY1ZqaTZmZHpjTEhOelRR?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-09-03 18:33",
+   "published_iso": "2026-09-03T09:33:29+00:00"
+  },
+  {
+   "title": "「ミキサーに首を挟まれ」技能実習生（21）が巻き込まれ死亡 1人で作業",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xN3Y1cG9EZGhWUm9zNWxwTFVmRFBENE9kZ3ZTX1pEdW9Mem1nRFJPSlJqdE9jUHphdlZlb2ZqSXJ5ZDhKTUJRVUprekY3T1htMW54aWNiZW1LUE03ZFJibEw4ZjY3ZGJzTXhobEVabWpwUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-03 18:15",
+   "published_iso": "2026-09-03T09:15:56+00:00"
   },
   {
    "title": "モロッコ当局、セウタへの不法移民殺到を「完全容認」 スペイン警察報告書",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40UktyNWFaQkh2UUdaRXRiOTlpZ1dwVC05eDA3dC1HX3l5R1NESl9xTFJhMm01UGxzalVNM1lYcHNhYUE3M2Y5dDhoX1dza3hQWWtqRw?oc=5",
-   "source": "時事通信ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ha3hpNnRBcWx6ZGlCQmZGdTFpN20zT29mNDhpYW50X0VMQWpmRnhuTVJFYnc1QzB1MkhRUnZLVTdCNkotcFowWG9OTXd5MjZsSnBpQ2x4TExlUTN3M3EtOHVKVlladw?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-03 16:55",
    "published_iso": "2026-09-03T07:55:00+00:00"
   },
   {
-   "title": "飲酒ひき逃げ執行猶予中の中国人男、無免許運転認める 免許取り消し3633日も「再犯」 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxODlWNU85ekNlZ0JDVFNObk9lMnVOQ0RBYzRPY0FhVGpzNVg4c25KalZZSjJ6V2VNMGhTem1KOGp1WklKY05MU2ZDdnBGdlFCdVNOUURGdl9hd08tUk1TQ09YUFMxQlBST0tTRG9VMmtMQnpIVWc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-03 14:27",
-   "published_iso": "2026-09-03T05:27:35+00:00"
+   "title": "第一ライフ、NZ生保を580億円で買収 移民増で保険需要見込む",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMUN3VjNfWnA0LTFPNmVKcXJfUjlFTWs4S1N0ekc5Y0tqOFR2NzJRTmZMWFJjbmV5Ym12TGFWZWRsdU1sZHJsUVhiMGFmTWtUR2pvR2Y0ZUdxd2xVLUx6Rm1jazNFZVZCOE5qNQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-03 13:27",
+   "published_iso": "2026-09-03T04:27:55+00:00"
   },
   {
    "title": "「本当に頼りにしている」活躍広がる「特定技能」の外国人ヘルパー 訪問看護“解禁”で現場は？背景に…深刻な介護士不足「やりがいがある仕事」外国人人材は超高齢化を支える欠かせない存在に",
@@ -64,6 +104,46 @@
    "published_iso": "2026-09-03T03:19:00+00:00"
   },
   {
+   "title": "「ミキサーに首を…」インドネシアの技能実習生(21)が死亡 ミキサー内のつまりを取り除く作業中に挟まれたか 広島・大竹",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZUI0cEo1ZTdoUV9iMHhFMGYyZVptMFJlTVVxX2prbVQ2OUlwTkFFeS01akZDQjdXbEhZN0JVNzFzdTExc2E0cmVjajk5UlJvY2N4ZFVOX0hQRnBsS1FGRg?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-03 10:36",
+   "published_iso": "2026-09-03T01:36:00+00:00"
+  },
+  {
+   "title": "特産「だだちゃ豆」の現場に外国人材 農業会社の見学会に農家ら注目 [山形県] [外国人][消滅可能性自治体]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qTDdNR0ZqakZwMHdxa1RKS1FTdGlMY24yQWlXb1F4T1FwYmdYZ1ZlWEZoanE2OU8tM3U4TFpRc2djajVUeXo0cUNXYVp1amxFVElRLVl5YzJLM0VQWHlsR1lMaTJmU2s?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-03 10:00",
+   "published_iso": "2026-09-03T01:00:01+00:00"
+  },
+  {
+   "title": "【事故】戸田工業大竹事業所で技能実習生がミキサーに巻き込まれ死亡",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ndXE2TWZEeTVvNmcySU84WE5Gc1EwLWF0MjJJX1kwek9sRlA4Uzg4Y1JfQ051UWhqMjhmU0UtbDRKU296em1ySHR0WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-03 08:41",
+   "published_iso": "2026-09-02T23:41:00+00:00"
+  },
+  {
+   "title": "【速報】ミキサーに挟まれ技能実習生の男性死亡",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wNFhxa0pIMFRkaTRjeFcyaWlhRC0tTzR2a3F5UTZQbHd5UjVtRTdpeUZvSGx4WXdfeUJFbVpQdHQ4ci1xQUlSVTUzdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-03 08:29",
+   "published_iso": "2026-09-02T23:29:44+00:00"
+  },
+  {
+   "title": "ミキサーに挟まれ技能実習生の男性死亡",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxeHpvSHp4S2JFUGYyc1dTdzJYU01jc1BpdV9Va3FYSUE5azk5QTJzS2d4TlRIYzBQbENnZnAtZGdrT01HdTBzeWUyZ3JVdnVRczVsNFhRa25WbWgteTlmY2tHYw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-09-03 08:29",
+   "published_iso": "2026-09-02T23:29:44+00:00"
+  },
+  {
    "title": "外国人宿泊比率 全国43位 経済研究所、25年の群馬県内動向分析 SNSによる情報発信強化など課題",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEVFZBamFpQnNWODNkN2c1eUgyd1BOMFpQWVBfZkJUN0JQTkRQR0FTTTFvTFRIWjg3TE5uR29vZktqSFplWUtkUzMzbzQwTWFNbmxn?oc=5",
    "source": "東京新聞",
@@ -72,12 +152,20 @@
    "published_iso": "2026-09-02T23:11:46+00:00"
   },
   {
-   "title": "「右寄りじゃない」外国人政策 日本語支援、政府検討 在留審査厳格化の懸念も",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2b1dqajBsanU2dmRZdE9hWXNWRDZJUjZ1cjdKc2lKVW54NjlPYWhpUUUyNVRicFhwLU9qT0xObURCRGlGUUtQbi1TelVpZDJmbjdic1dKU1dpTEcxbkpzOGxadTJ5bHhE?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-03 02:02",
-   "published_iso": "2026-09-02T17:02:31+00:00"
+   "title": "共生社会は実現したか～東京パラリンピックから５年～",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GTGxtLU5TWnprUHVMWHhNQmM5SHg2UmI3VURvZnY4QWo4TmZkRmUtd0dYb0ZtMHctb0NDQVNxTUcwMUhtenlxTVUxbm3SAVJBVV95cUxPbTNjV1d3WUIxd094LWJoUVRDNkpQdEc4SVlLNzJjWkc2Tkw0N2lWNUdsR0hmLTNmNkRnTGFtdzZZNFMtWWRtc243a3JLWGtZUEdn?oc=5",
+   "source": "時事メディカル",
+   "source_domain": "jiji.com",
+   "published": "2026-09-03 05:01",
+   "published_iso": "2026-09-02T20:01:00+00:00"
+  },
+  {
+   "title": "川崎鶴見臨港バス、運転手に外国人材活用 国内採用不足を補完",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92TzlfODBXQnJTNm5WWEJWV19KQ2JXOXdId210VFp3OTVtQ21vYmYwNVFlVnlFYm9PU0ZDd1BIRVB4enFQTzcybWNMcFhSZG5KMXV0U01rVWNVQ3oyY1NaVTdxSWF1ZFNwa2FubA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-03 05:00",
+   "published_iso": "2026-09-02T20:00:00+00:00"
   },
   {
    "title": "「右寄りじゃない」高市政権? “社会統合”へ外国人支援を検討",
@@ -86,14 +174,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-09-02 19:56",
    "published_iso": "2026-09-02T10:56:18+00:00"
-  },
-  {
-   "title": "「自衛隊へ外国人登用検討を」 笹川平和財団が小泉防衛相に提言",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yV1czZTRYUmhBV0p0WnhuTUJEWFRJM2RaUGtwSUNoeFZ2YWt3Mmh0YW9DbU93dmNqT1V2RDJMWEN3OG11UFY2MWh5WjZlQTNLcjIzZ3otYjFOY0JiRFRsOUlHdEFqQXhm?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-02 19:11",
-   "published_iso": "2026-09-02T10:11:58+00:00"
   },
   {
    "title": "【胆振東部地震から8年】言葉の壁で外国人を孤立させない…白老町で82歳「防災マスター」が立ち上げた「白老防災通訳会」の挑戦",
@@ -120,12 +200,28 @@
    "published_iso": "2026-09-02T08:55:26+00:00"
   },
   {
-   "title": "29歳女性がロマンス詐欺で670万円分被害 外国人男性名乗る人物に",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DT0dBaFFOTGVJc1dfcnhibWN2TEloQmNNTTFzd0JsQTZweTVxd1dXdy1vVXlBQzFSOVpxVnBlS19peVlBWmdBVzlIUWFNcVlrVl9FSUtXRlU?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-02 17:13",
-   "published_iso": "2026-09-02T08:13:00+00:00"
+   "title": "外国人客のレンタカー事故急増、新潟・長野のスノーリゾート地域に集中…新潟は４倍",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wbnl5X2VPNTkxdFJCVkhPdDkxaVFOX0xNbklaajZxYkMyQ3U0TWVfMWlUM05ucldwcktBTHRSWFJqRTdUenJDOS1nVzRUaFhock1hWTlVaFlmWVdPZzMtdHZEbVNzUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-02 16:52",
+   "published_iso": "2026-09-02T07:52:00+00:00"
+  },
+  {
+   "title": "クルドの豊かな文化知って 埼玉で展覧会、共生社会を",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YQXhJTmtTX2lsaUxfRVMweG5ucWVkZDJjY2hnTUF0RDlwOTJ1RWxJdzhWTEpNVzFiaEJ2ZjFIYy1jQmJzRWxZWnpmdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-02 12:45",
+   "published_iso": "2026-09-02T03:45:00+00:00"
+  },
+  {
+   "title": "きのう魚津市の看板工事現場で転落事故 技能実習生が意識不明の重体（2026年9月1日掲載）｜KNB NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0hZRFFMLThZVG0tdFlzV3hIT1RQM2dXRzNfSm5saFg0UkppS1pFbWdXbjNEak9DM012RTVTT3dJdHlGcUtfRm43WlRoTFFqREE3QVlSNzJzRHhQV0llZU1qZjk5WTEzblB0SUwzSHVNZkx5elRfYW9aMVEyTEs5OFJJczlDXzQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-02 11:56",
+   "published_iso": "2026-09-02T02:56:00+00:00"
   },
   {
    "title": "大分県内の外国人数が過去最多約2万3900人に 在留資格別は「技能実習」最多 背景に人手不足",
@@ -134,6 +230,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-09-02 11:40",
    "published_iso": "2026-09-02T02:40:00+00:00"
+  },
+  {
+   "title": "TOEIC400点アップ、外国人教員７割 認知度は低くても学生の満足度が高い「掘り出し物の大学」",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtSDVRLXczNWF0X3ZDLV9nYXdXWFE3MHdtY3p4R2lFNllld0Y3WWF5WEUxbUVkSHY3WkpyaF9DRVdZdjU3ckNoM3JhVGZnMGZsSU9LQU9EZjQybFJrM1E?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-02 11:30",
+   "published_iso": "2026-09-02T02:30:50+00:00"
   },
   {
    "title": "北海道訪問の外国人観光客数、16％増331万人 25年度、過去最高更新",
@@ -160,9 +264,25 @@
    "published_iso": "2026-09-01T21:10:02+00:00"
   },
   {
+   "title": "叫んだ「私の方が愛国だ」 中国でスパイ容疑で拘束、同胞支えた人生 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WazVlSkxmSG9pcEJrYVM4RjZzaTJheXBvQXF6eTZ0SUVmM3U1NkJvUXRqR21oYjJzMEo2YU9uYU9lZHV0ZVdsR1l0bmVCN25nMW50eHRHdVZHeS1JdTFBYkZibUlSQVU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-02 06:00",
+   "published_iso": "2026-09-01T21:00:00+00:00"
+  },
+  {
    "title": "「経営」資格の外国人、上半期の出国3.9倍 資本金など在留要件厳しく",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tWFpjQVVyVTFfX1BvRjZRMHZJWndQUXcyRHNYOFcwUzBMcnRPNVRyRHhMMXNDbm8xZWhBczk4ZWd3MnNMRHRzWWctLU5sZ1V6amNncVlDR1JxN3Z3bHlCMHg2Rkhwanh5Y0Z3Tw?oc=5",
    "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-02 05:00",
+   "published_iso": "2026-09-01T20:00:00+00:00"
+  },
+  {
+   "title": "訪日客4000万人時代の空港改革 税関・入管・検疫の「縦割り」はデータ統合で克服",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ybjlNeWtSNEJZSUNxalFZS0Z1RGFvc2NTbVFqOGRWWHFySEJsUnFZa0MyZTJ4OUlhY2E1RzVqZWYyTmVQQkVWOV9pdzctWXpqQkZfMjlvMVhVQldYLVhuQ2V2QlZCOTg?oc=5",
+   "source": "日経ビジネス電子版",
    "source_domain": "nikkei.com",
    "published": "2026-09-02 05:00",
    "published_iso": "2026-09-01T20:00:00+00:00"
@@ -172,6 +292,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90cG1CLTNaQlVYcVVGMnZlLS1UWHNCR0FmeFROa0Z1akp0emNkeU5Icm1QSld4dWNVT1Q2ZzIwcDg1aGw1X0dvNjhoOTUyak1ZOUdLOTVYMVdTZGEtZGtDZEthWEdKQzhtNGVRZQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-09-02 05:00",
+   "published_iso": "2026-09-01T20:00:00+00:00"
+  },
+  {
+   "title": "ＳＮＳ偽情報で移民流入 スペイン首相 「露イスラエルが拡散」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rd2pQN3pUb0ZfbkNtQTRrWFFjLVRGRXdGQVBUVndRd29tUXhQUHVOSG1ObEVjMGV6WnM3R1FrTGlsOUFfcXlsMzlLNnV1Y1RtN3Nnb29KTUU5MWhxT1NHLWN2QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-09-02 05:00",
    "published_iso": "2026-09-01T20:00:00+00:00"
   },
@@ -216,6 +344,14 @@
    "published_iso": "2026-08-31T20:23:00+00:00"
   },
   {
+   "title": "農業の外国人材に理解深める 福井県坂井市の導入企業で雇用検討する農家ら向け研修会",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUb3dFaXZOak05UkNZRjRwaTRmS2taY1oyMWJDZnFkSWI3QURtOW5YOGxzNi0tVHQtRDFmZ2xRcU1YdjlwMk1jSUUtMmpCYjA0WlpEbg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-09-01 05:05",
+   "published_iso": "2026-08-31T20:05:00+00:00"
+  },
+  {
    "title": "プロ野球外国人選手の大量雇用と死蔵 「助っ人の力は借りたいが…」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxYWMxX1VvOGhjR0lFOHBxVWdKM3FTVm92bTAzSmVfY0p6eld1dHVvcHc0ejNaMnlLeUl1M3FEQWRweHptcWpkVnVmMmM0RkUwR19jSV94eXRZQjZWTkZxcmRpZlYxRzBwNWtGUw?oc=5",
    "source": "日本経済新聞",
@@ -240,12 +376,28 @@
    "published_iso": "2026-08-31T11:12:00+00:00"
   },
   {
-   "title": "英語で買い物できるかな？飯島町の中学生が地域の外国人と交流 生きた英語を学ぶ取り組み【長野】（2026年8月31日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdnlaSmdoZlY4NHk4QWxIRDRkMU9DaEdOOUdzTjVSSEd1SXNSRkFrSFBrbHpjM1Y4akMyX054T2VLWjRZUGd4cDNuYXFDUXNaRmVVQTBTazQzWEdFamEzZ24xNGxWaDN0MVlIbDRyNHFsZ0pYeDZ0VzhydGF4ZEk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-31 18:54",
-   "published_iso": "2026-08-31T09:54:00+00:00"
+   "title": "プレスリリース：外国人介護人材の「その先」へ。特定技能サプリが介護福祉士国家試験対策の提供を開始（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15aVFVSkQxcEFkY0U1RWhzeWtuXzV0S3lBZ2lpMkxwN29ESDFDdlp1S0pxclJYaE54aDlqV0MxR0FfSU1QR1JzWlVQb3R5ZlhEU3JNZ1d0dGNaeUlEaXQ5dkVRMGJGUzhX?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-08-31 15:52",
+   "published_iso": "2026-08-31T06:52:41+00:00"
+  },
+  {
+   "title": "技能実習生の受け入れ増へ、山口県がインドネシア労働省と覚書…知事「産業を支える大切な存在」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ISjZPVFQ3S3pBeDA2di1pWlBfb1hMbUF1Tmo0WE85dzFCR2dHLVBseVZjbTUzQkNKak9hcnY0QmlPTEpuX0NKT3B2Vi1wTkU4UjRmR3Fyc1ZXSVBreVZQMU1MRUhuQzc3VUtBMDhmamRyZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-08-31 15:09",
+   "published_iso": "2026-08-31T06:09:00+00:00"
+  },
+  {
+   "title": "外国人労働者の給与6.4%増 25年月29.2万円、賃上げ効果が波及",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByaEczY3o2UEVqRDc2M0pSMElUSDBUOUNEZEJMSF9nUW9aREthTkF4YzhOZG1aamdVa3JDRUhSZVRnNi14UGFlTFd1Y19vTTJ2RFBTV3p3V21pbDhzeHp2ck5LSll0M3ktNnJheA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-08-31 14:29",
+   "published_iso": "2026-08-31T05:29:22+00:00"
   },
   {
    "title": "フルタイムの外国人給与、前年比6.4%増の29万円 厚労省調査",
@@ -254,86 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-08-31 14:00",
    "published_iso": "2026-08-31T05:00:00+00:00"
-  },
-  {
-   "title": "熊本地震で被災…外国人の住民対象に行政書士らの相談会 熊本・氷川町（2026年8月30日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bFAtVGd3alUyMWE4d1BOTFM3UWx2X1JYaGdwWHAxdmdIVXNYbDBQTXZRb3o3YnI1X3ZoRUZDRGhfMDNvenE5ZTNpWllfeWRyVTJmSE12WkFJLXIwOFdKR0tmYjlWRHAtWnhkaFczbnlMbnRaMXgyU3Z6YlY?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-30 20:06",
-   "published_iso": "2026-08-30T11:06:00+00:00"
-  },
-  {
-   "title": "地震で被災した外国人のニーズ把握へ 相談会を開催",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SU2JWRWVMN2NHRklQSS1TQ1lXX3N3YWY2elF4Z3lyVl9UU01XWmlHMjNNbkE3UjRsTzZjWF94UGI3ck1SS2lJcm1zZHdNSjljY1JkOHBXYjd2dw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-30 18:01",
-   "published_iso": "2026-08-30T09:01:00+00:00"
-  },
-  {
-   "title": "地震で被災した外国人のニーズ把握へ 相談会を開催 熊本",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VTmtwN0pfejJWVTFyUmNid2JjaF9HRURFdlFWdjhRdjNPei1nR01pWm92TGVERS1uVzMtQWt0WjdaNmFDTHhvaW5qUE1WRlNwNU1LM005clZhalBmdi1qcGV4VzdHbFE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-08-30 18:01",
-   "published_iso": "2026-08-30T09:01:00+00:00"
-  },
-  {
-   "title": "氷川町で被災した外国人住民対象に相談会 町内に約290人在住（2026年8月30日掲載）｜KKT NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzBhbWt1VUtzSVFMbzVhQzVNQ0JHR21SVmx3cmJhaEh2MVFVNFluY2JDOTVqb2plTG5XNXotV0FpWk9kUmJoeWEzQzU2QW8xTlUxbG1XU3VUUWxzaHFYV05oNnNqM19ZMm5aLWFTR0xOZWdIN1JfcUpRZ1B0RE5WaE9YamV6ZkE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-30 17:04",
-   "published_iso": "2026-08-30T08:04:00+00:00"
-  },
-  {
-   "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wM2xmOFprQVRLTElwTVpOTHN5T2FfNll1dThLZDQ0X2hNdHhMblFPTHRTWjliN0gzUTVhY0h2TUtyQ18yb2FnSFk4VU91a2FiVkxPODh5TnV5UWVka3E0X215X0dqQnd1bHhtMnh2QkRiWTdtR0RYdDN1dXE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-08-30 13:11",
-   "published_iso": "2026-08-30T04:11:00+00:00"
-  },
-  {
-   "title": "北アフリカで移民が殺到するスペインの「飛び地」 その歴史とは",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IQmFGZVhsZEhvdFZXRkljaGxydUxpbU8wMkNMOFFEeGlwdXZWS2dmQUtyYnRteVV2N3JCVVNWVzRUTlBveEtpQVBiRW5HaXEzdWxPNjdWaDNIVzJxSVRHLWp5aHUyS3p1?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-30 11:00",
-   "published_iso": "2026-08-30T02:00:00+00:00"
-  },
-  {
-   "title": "「対岸の火事ではない」特定技能外食停止、介護業界に広がる波紋",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DSzczNm1zamJrOE9xX0x2VmdOejlnUUp1cGxVYWstblg2WFBjQWhPZE5MSUI5YWJhWUh5czhXT0EzUm92QmZ6RF9COGNJTGtTU1J4VW13Y3BfR0YycFpucEI0Ykx0YVpL?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-08-20 16:00",
-   "published_iso": "2026-08-20T07:00:00+00:00"
-  },
-  {
-   "title": "スペインとイタリア、対立過熱 不法移民７万人殺到で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DQlNrWUhSM3dUYWExX0NpT0FfOUVtMlQyOVp4bXlxQVU0bmkwYTVNOG11NExPeS1OaEJtWE8tZFdJU2xLMm5YX3puYTZZNm9XZWlBYzM2NVc5bURUM2VGVnJhUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-08-09 16:00",
-   "published_iso": "2026-08-09T07:00:00+00:00"
-  },
-  {
-   "title": "外国人受け入れ制限、可否の検討が本格始動 政府、年度内に基本方針",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JQlNTQ204RDAwMzRSeGxZYTlzZ1hra0JudjhPOUJzLVpVMVNkX3RPSmR4dTZTNnBXbVI0U05DbWtBMXp0NXNSZHM2QmRtNTRNbVdxd2Q2bF95V3hPNXN1ZUFRVi0tZXc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-08-07 16:00",
-   "published_iso": "2026-08-07T07:00:00+00:00"
-  },
-  {
-   "title": "移民の子ども急増、工夫重ねるドイツ教育現場 受け入れ制限の議論も",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUVRXbkdkN3NOVDJHZFdqZVlJZW1pbG5hbUdOYkd1NWFBcF82SGc2X3BUdVVNMDlMcDB4QjQ3c0VkaExjV0lzUUNKZGF6YmlmcjYwS29zbDUyV0FhRERlcF9GSmMyRnc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-07-12 16:00",
-   "published_iso": "2026-07-12T07:00:00+00:00"
   }
  ]
 }
