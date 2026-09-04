@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T14:46:09+00:00",
+ "generated_at": "2026-09-04T18:04:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -12,8 +12,8 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBONmI0Tk9SU2ZBMzFGMjZQNjl2OWFhOV91UTNiMElZTU9URkZ1bWRfa3ozNG12SU53TW12QjZWNk5IdzVpTldPcDlmdXlNYkQ0ZGFNbEJvd3FFMUsxUHJlNEpKd08?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-09-04 22:43",
-   "published_iso": "2026-09-04T13:43:07+00:00"
+   "published": "2026-09-05 00:13",
+   "published_iso": "2026-09-04T15:13:07+00:00"
   },
   {
    "title": "広島市東区で外国人材との共生探るフォーラム 企業から「育成就労制度」への課題指摘",
@@ -32,12 +32,12 @@
    "published_iso": "2026-09-04T11:39:59+00:00"
   },
   {
-   "title": "杉原千畝が難民救ったリトアニア関連の展示等…リニューアル工事中の名古屋市博物館 5日からアジア大会に合わせた期間限定展示",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96NjJhMkFTa0VXQnhMckpybDNIdlBFRE1IOVo3ek5rRENHaUZSeWo2eHlkN3lub2JEWllneG9UOXl5UWdIYzdNVFpxUnB0QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-04 19:34",
-   "published_iso": "2026-09-04T10:34:39+00:00"
+   "title": "兵庫県内初、特定技能のバス運転手が単独乗務 神姫バス採用、社内訓練10カ月で基準満たす|経済ニュース",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RQjFHT2tQdi02WDBtNExUSzdvUURSbmpBWWFjYzRGZmJRem5zT2hBMk1NNGlBWUJPa1JGQk53V0J5bFowdmU1b3BkQXllN24xS2VKcS1WdjdnZVlTNTN6LXF2TE9XeVVaa2xPQ2JhVQ?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-09-04 20:05",
+   "published_iso": "2026-09-04T11:05:00+00:00"
   },
   {
    "title": "地域を盛り上げに一役 長野市の専門学生がデザイン考え中… 野沢温泉村にある郵便局の外壁をアートで彩る 外国人観光客などが写真を撮りたくなる外観を目指す【長野】",
@@ -176,6 +176,14 @@
    "published_iso": "2026-09-04T03:12:00+00:00"
   },
   {
+   "title": "自衛隊に外国人登用せず 小泉防衛相「処遇改善で対応」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tUmR4bDgxaUtHNVZweE1uV3U0ZDBRaU1WQXBDRWd0eFV2VWh4cjRtSHJnb3pQWWJISnp4X29obEhrZ2dXcklqeFJzTGtuM0ZuSkZoX0RpUXhvdmRRSXBTUnQxMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-04 12:06",
+   "published_iso": "2026-09-04T03:06:00+00:00"
+  },
+  {
    "title": "「SEGA」模したロゴで看板政策をゲーム化 トランプ政権が国境対策や移民送還テーマのミニゲームを公開",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sYjRoXzI4bUgzMzhqQkZ6UGZIYkRMUU1RSm1KaFdLOWpZNkdUdi0zX2VQX3BZZUJDVXItZHhXOVJBMk5rZmVzenQ0OXpEUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -274,7 +282,7 @@
   {
    "title": "「二重価格のお店」、外国人YouTuberによる事実無根の批判動画で炎上",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSzlKYjJ1bzNodExPeFh4S1RjWkdEM1ZWNHJnRnFEeE40WHlpUW9FU1NNNG5IUEdlSzVPbjNqYV9ocUZIdGtBS21RaXN6OUJqZTRMd2dVcFVTSkZ6NmhXb0h3?oc=5",
-   "source": "日経ビジネス電子版",
+   "source": "business.nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-09-04 00:00",
    "published_iso": "2026-09-03T15:00:00+00:00"
@@ -374,14 +382,6 @@
    "source_domain": "kahoku.news",
    "published": "2026-09-03 08:29",
    "published_iso": "2026-09-02T23:29:44+00:00"
-  },
-  {
-   "title": "外国人宿泊比率 全国43位 経済研究所、25年の群馬県内動向分析 SNSによる情報発信強化など課題",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEVFZBamFpQnNWODNkN2c1eUgyd1BOMFpQWVBfZkJUN0JQTkRQR0FTTTFvTFRIWjg3TE5uR29vZktqSFplWUtkUzMzbzQwTWFNbmxn?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-03 08:11",
-   "published_iso": "2026-09-02T23:11:46+00:00"
   },
   {
    "title": "共生社会は実現したか～東京パラリンピックから５年～",
