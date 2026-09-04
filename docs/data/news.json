@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T10:34:24+00:00",
+ "generated_at": "2026-09-04T14:46:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "自衛隊に外国人登用せず",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBONmI0Tk9SU2ZBMzFGMjZQNjl2OWFhOV91UTNiMElZTU9URkZ1bWRfa3ozNG12SU53TW12QjZWNk5IdzVpTldPcDlmdXlNYkQ0ZGFNbEJvd3FFMUsxUHJlNEpKd08?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-04 22:43",
+   "published_iso": "2026-09-04T13:43:07+00:00"
+  },
+  {
+   "title": "広島市東区で外国人材との共生探るフォーラム 企業から「育成就労制度」への課題指摘",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMQmFvbnhmUDhTYzc4eDltalc0NFZjcmpNTjdsMURKSU4xUlAwbVd6QnJGcHhiZzJCN0MtQWU1bGw4eVlpNldTTkhQYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-04 21:34",
+   "published_iso": "2026-09-04T12:34:41+00:00"
+  },
+  {
+   "title": "【チャンネル正論】【噓にまみれた外国人政策】厳格化でバレた… 外国人労働者受け入れ政策の「不都合な真実」 政策シンクタンク代表 原英史が解説 - 月刊正論オンライン",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzBaZ3RlLUdzeXU3ZFhMZ2hYRWE0Ty1sNXZYcGF4clhJY0lBYlM4QjVKSDBMNmJ5aGp2YWd6MUM4b3FhNVROSk91eVA3aUhJOTBadEhHbTJ1RG1wUlRBbzdjZmZjV0JsaV95ZHB5WFhoYm5JYnoySEw0d3VjbEhmZkNLYWVtRzU1VkFBRkItX3V3eUJ1OEx2WXc3T2lXUVV5?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-04 20:39",
+   "published_iso": "2026-09-04T11:39:59+00:00"
+  },
+  {
+   "title": "杉原千畝が難民救ったリトアニア関連の展示等…リニューアル工事中の名古屋市博物館 5日からアジア大会に合わせた期間限定展示",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96NjJhMkFTa0VXQnhMckpybDNIdlBFRE1IOVo3ek5rRENHaUZSeWo2eHlkN3lub2JEWllneG9UOXl5UWdIYzdNVFpxUnB0QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-04 19:34",
+   "published_iso": "2026-09-04T10:34:39+00:00"
+  },
+  {
+   "title": "地域を盛り上げに一役 長野市の専門学生がデザイン考え中… 野沢温泉村にある郵便局の外壁をアートで彩る 外国人観光客などが写真を撮りたくなる外観を目指す【長野】",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMExfUkRfTVRYakxXemJwbUZUcXdpRUdiSWlXRThYRHlMbjhaOVRObXNyYzkzNDhCV2xjUnJSLU93Z3hZay0tSldxRlRFVV9pNzNBT3laT0p4OWxXZ1psc3JCNWVCODdHQk1WX2VTY1JPek0zdndTZWg5RjBoV2d5WHdFbW9yaWM?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-04 19:02",
+   "published_iso": "2026-09-04T10:02:00+00:00"
+  },
   {
    "title": "外国人材への懸念、自治体受け止めは「排外主義否定」「覚書は無秩序防ぐ」 回答全文",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MV05jc1VDcWpfcVBhOVNGVWM4MDJSdmw1M0R4YTNqcU9JWWhVT1RkOThkNUxFcVFieW9vSEU1MEFneEFxMGxtaGRGRkFCR2JYemVMcFBnc0gyMU02dkR1LTdBOGNLM2dZQXVJaUZTR01pa21wZnc?oc=5",
@@ -32,20 +72,20 @@
    "published_iso": "2026-09-04T09:30:00+00:00"
   },
   {
-   "title": "自衛隊に外国人登用せず：時事ドットコム",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBONmI0Tk9SU2ZBMzFGMjZQNjl2OWFhOV91UTNiMElZTU9URkZ1bWRfa3ozNG12SU53TW12QjZWNk5IdzVpTldPcDlmdXlNYkQ0ZGFNbEJvd3FFMUsxUHJlNEpKd08?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-09-04 18:13",
-   "published_iso": "2026-09-04T09:13:07+00:00"
-  },
-  {
    "title": "小泉防衛相、自衛隊の外国人採用は「考えていない」…笹川平和財団が人口減少を踏まえ検討求める提言",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1abUVGVU8xVkhncUJMc0V0TzdLX21zM2FPVEJySkpMVm40N3FxMHBxa2lwX1ZYdjFpQUVsbmtKOFljRTU1V0pIZHBYLXFhdGw4SUxENVVjYlU1XzRTTDNjQjVFSFVTQQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-04 17:39",
    "published_iso": "2026-09-04T08:39:00+00:00"
+  },
+  {
+   "title": "セウタへの不法移民 殺到、モロッコが画策した「確証」なし スペイン首相",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02M3EySGJUalFsenY4ZHBZWmc2ZXltM1NpbEZmVnpxOXBkdGhNbU5tVGwydFRnd0NkSG00ZmlBU2dnbFBCdmNLNXNQTnhfbmZoUjR1RGctbklCaUNoT25UMGJ1ZTBJeVpOalhnYTczTkdyaTdsd3RzLWdVQ2tnQ3c?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-04 17:36",
+   "published_iso": "2026-09-04T08:36:00+00:00"
   },
   {
    "title": "自衛隊への外国人登用「考えていない」 小泉防衛相、会見で否定",
@@ -56,15 +96,15 @@
    "published_iso": "2026-09-04T08:20:37+00:00"
   },
   {
-   "title": "地震で公共交通機関がストップ 家に帰れない… 帰宅困難者が大勢いる想定 岐阜･JR高山駅で誘導訓練 外国人観光客への対応も | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LS0Ywd25wWk5hUXFGZV96U3Bxa01LTWh0WU1lZDFQVTZ4OGlYZHZTOUdsdmpBcjlKVjJ5V1Uxbjdnem1BbkgtOTA1YWE3ZWQxUHVDTmtPRFVQdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-04 16:22",
-   "published_iso": "2026-09-04T07:22:00+00:00"
+   "title": "小泉防衛大臣 自衛隊への外国人登用「考えていない」",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iSjV1WktRTkpTeDFsa0lmV0JWSkU2bEdCdjlqam5YdU9iYTdhNlBrS2hGRjk4Zm9na0xtdXlKeFlWZWlwVXd2TzhKelRIOTNJS3BUUE8xOGlTQXZ3Y3MySjNZZ1hsQk9KVEZyamd1aGV3OEE?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-04 16:18",
+   "published_iso": "2026-09-04T07:18:28+00:00"
   },
   {
-   "title": "英国で極右新党台頭、移民送還訴え バーナム旋風も排外主義衰えず",
+   "title": "英国で極右新党が台頭、移民送還訴え バーナム旋風でも勢い衰えず",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80U0prNkphZExsTWdHaDBUblZIXzJZMHhkblR1a3pZRmx1cVVKOG9OaGdZYVlZczJMYThsbTBVZ182TU5VZGVTUy01ZmRybmpKQXdlb2tBNUVRbWtGdVlVUU5aUENEUGQ0RGtwQQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -120,6 +160,14 @@
    "published_iso": "2026-09-04T03:30:00+00:00"
   },
   {
+   "title": "「考えていない。日本国籍者に限ってきている」小泉防衛相「外国人の自衛隊登用」提言否定",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRjYzcnVJMTBVWFQ0aklZTVZWS2JlSDdkeU1xU0l6RHhBMmFlY29tWXc4R0xnS1dOV1RoU2pxVzUzZjJyajV4d245eUFvX3RwQXdCcjd1YVJUY1BxeDdhN3JoS3g1eFo1d01pUXNqN0JlY1JCV2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-04 12:17",
+   "published_iso": "2026-09-04T03:17:01+00:00"
+  },
+  {
    "title": "タイ、観光ビザ免除期間を６０日から３０日に短縮…外国人犯罪の増加を懸念",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UUjYtN2pyRUwwUWt6anMyaUVnRkFiN3FRU0Rvbzk2SW9fZUVsblptanZQS01pMjV6TGtoajFtcTZRYzNRWDB5UmR1OWF4dnFRM19uZzlLSDJTdUNETXRBZTln?oc=5",
    "source": "読売新聞",
@@ -130,7 +178,7 @@
   {
    "title": "「SEGA」模したロゴで看板政策をゲーム化 トランプ政権が国境対策や移民送還テーマのミニゲームを公開",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sYjRoXzI4bUgzMzhqQkZ6UGZIYkRMUU1RSm1KaFdLOWpZNkdUdi0zX2VQX3BZZUJDVXItZHhXOVJBMk5rZmVzenQ0OXpEUQ?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-09-04 11:21",
    "published_iso": "2026-09-04T02:21:00+00:00"
@@ -226,7 +274,7 @@
   {
    "title": "「二重価格のお店」、外国人YouTuberによる事実無根の批判動画で炎上",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSzlKYjJ1bzNodExPeFh4S1RjWkdEM1ZWNHJnRnFEeE40WHlpUW9FU1NNNG5IUEdlSzVPbjNqYV9ocUZIdGtBS21RaXN6OUJqZTRMd2dVcFVTSkZ6NmhXb0h3?oc=5",
-   "source": "business.nikkei.com",
+   "source": "日経ビジネス電子版",
    "source_domain": "nikkei.com",
    "published": "2026-09-04 00:00",
    "published_iso": "2026-09-03T15:00:00+00:00"
@@ -352,60 +400,12 @@
    "published_iso": "2026-09-02T20:00:00+00:00"
   },
   {
-   "title": "「右寄りじゃない」外国人政策 日本語支援、政府検討 在留審査厳格化の懸念も",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2b1dqajBsanU2dmRZdE9hWXNWRDZJUjZ1cjdKc2lKVW54NjlPYWhpUUUyNVRicFhwLU9qT0xObURCRGlGUUtQbi1TelVpZDJmbjdic1dKU1dpTEcxbkpzOGxadTJ5bHhE?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-03 02:02",
-   "published_iso": "2026-09-02T17:02:31+00:00"
-  },
-  {
    "title": "「右寄りじゃない」高市政権? “社会統合”へ外国人支援を検討",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGU0lzOUx5Z2kweGR3VkdPWG02SkhuMDZCdGRVZENWcGhZYS1NMlI3eDlsRXdmY3RmMTFId2VGOUNnaFgyVkoxX1huNXFoLThhc1R2TTlnMDV3T3JXVEFpWTFwdHdiM3NE?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-02 19:56",
    "published_iso": "2026-09-02T10:56:18+00:00"
-  },
-  {
-   "title": "「自衛隊へ外国人登用検討を」 笹川平和財団が小泉防衛相に提言",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yV1czZTRYUmhBV0p0WnhuTUJEWFRJM2RaUGtwSUNoeFZ2YWt3Mmh0YW9DbU93dmNqT1V2RDJMWEN3OG11UFY2MWh5WjZlQTNLcjIzZ3otYjFOY0JiRFRsOUlHdEFqQXhm?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-02 19:11",
-   "published_iso": "2026-09-02T10:11:58+00:00"
-  },
-  {
-   "title": "沖縄移民125周年映画製作チームが経過報告 2027年に公開予定",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xVVVzSk1XRmpMbVhRMW1MVmM3TFp0MURwWWVyMjJEankwZ1lRU0xHaC1WRWxKRnFVUFJlMWY3MjhNVGlwbklVQlhQNV9iUQ?oc=5",
-   "source": "fnn.jp",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-02 18:09",
-   "published_iso": "2026-09-02T09:09:00+00:00"
-  },
-  {
-   "title": "外国人客のレンタカー事故急増、新潟・長野のスノーリゾート地域に集中…新潟は４倍",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wbnl5X2VPNTkxdFJCVkhPdDkxaVFOX0xNbklaajZxYkMyQ3U0TWVfMWlUM05ucldwcktBTHRSWFJqRTdUenJDOS1nVzRUaFhock1hWTlVaFlmWVdPZzMtdHZEbVNzUQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-02 16:52",
-   "published_iso": "2026-09-02T07:52:00+00:00"
-  },
-  {
-   "title": "防衛装備の国内製造強化へ提言 笹川平和財団、自衛隊の外国人登用も",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRl9LNkk3am9rdzUwS1pTak1Mb2dqS2dJdU1XOUNfMnktY2MweGdWMlA4SUhoeXUtRDVpTnViZnhaaEV4dTgzV0dISEUxWHlfNXUxaVp3alVUaFV0QUVMckxwMHFyX0JXWG5tMA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-02 16:00",
-   "published_iso": "2026-09-02T07:00:00+00:00"
-  },
-  {
-   "title": "滋賀県が「日本語教育推進センター」開設 外国人県民の暮らし支援で",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdXNvZ3ZiMnNxWEJUZVNfSHFIVkVmVFJiZzV2RDN6SjBJc1F6RFpsN0h6cEhBeWhGTExCeklkX3U5eGlmbG1oOWhrUlB4M2FtSl9NSXk2M0I?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-02 14:15",
-   "published_iso": "2026-09-02T05:15:15+00:00"
   }
  ]
 }
