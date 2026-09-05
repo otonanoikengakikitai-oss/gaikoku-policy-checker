@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T21:54:59+00:00",
+ "generated_at": "2026-09-05T23:33:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「反移民」英改革党、勢いに陰り 党首の「過ち」、新興政党も…",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tQWdpRUlLMzY0akpiNm1jdUNJTlVBdGNqeEdwRkZxRWNTSEgzNDM1SWdqcVZMUUFHNmNQNjd0emdBbVhqWWs2YkhmeERIZGd4V2ItY1lfS0V3RE5PblZDRmZFVXVfVU5P?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-06 08:00",
+   "published_iso": "2026-09-05T23:00:00+00:00"
+  },
   {
    "title": "広島：外国人選手献身的に支え ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbG4tdFNVR2l5ekZJaUdtd0N0TnlPVmRwY2ZlblRUWHhQSkp6YVRzeG1Td3dkRXE0SUszOVlWaU9LcWVGamhPNFBrVlFKSWpXQTBEeTVZWlplVFVPczllTkNyaFc3Zkdqdm5QU0FnakVMYThCWkE?oc=5",
@@ -134,14 +142,6 @@
    "source_domain": "47news.jp",
    "published": "2026-09-04 21:34",
    "published_iso": "2026-09-04T12:34:41+00:00"
-  },
-  {
-   "title": "【チャンネル正論】【噓にまみれた外国人政策】厳格化でバレた… 外国人労働者受け入れ政策の「不都合な真実」 政策シンクタンク代表 原英史が解説 - 月刊正論オンライン",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzBaZ3RlLUdzeXU3ZFhMZ2hYRWE0Ty1sNXZYcGF4clhJY0lBYlM4QjVKSDBMNmJ5aGp2YWd6MUM4b3FhNVROSk91eVA3aUhJOTBadEhHbTJ1RG1wUlRBbzdjZmZjV0JsaV95ZHB5WFhoYm5JYnoySEw0d3VjbEhmZkNLYWVtRzU1VkFBRkItX3V3eUJ1OEx2WXc3T2lXUVV5?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-04 20:39",
-   "published_iso": "2026-09-04T11:39:59+00:00"
   },
   {
    "title": "兵庫県内初、特定技能のバス運転手が単独乗務 神姫バス採用、社内訓練10カ月で基準満たす|経済ニュース",
@@ -290,7 +290,7 @@
   {
    "title": "「SEGA」模したロゴで看板政策をゲーム化 トランプ政権が国境対策や移民送還テーマのミニゲームを公開",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sYjRoXzI4bUgzMzhqQkZ6UGZIYkRMUU1RSm1KaFdLOWpZNkdUdi0zX2VQX3BZZUJDVXItZHhXOVJBMk5rZmVzenQ0OXpEUQ?oc=5",
-   "source": "FNNプライムオンライン",
+   "source": "fnn.jp",
    "source_domain": "fnn.jp",
    "published": "2026-09-04 11:21",
    "published_iso": "2026-09-04T02:21:00+00:00"
@@ -368,6 +368,14 @@
    "published_iso": "2026-09-03T19:00:00+00:00"
   },
   {
+   "title": "「二重価格のお店」、外国人YouTuberによる事実無根の批判動画で炎上",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSzlKYjJ1bzNodExPeFh4S1RjWkdEM1ZWNHJnRnFEeE40WHlpUW9FU1NNNG5IUEdlSzVPbjNqYV9ocUZIdGtBS21RaXN6OUJqZTRMd2dVcFVTSkZ6NmhXb0h3?oc=5",
+   "source": "日経ビジネス電子版",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-04 00:00",
+   "published_iso": "2026-09-03T15:00:00+00:00"
+  },
+  {
    "title": "＜多文化共生の現場から＞キムチ、おいしいんですか？",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByYzRhLWd3Wk9sS1N6dk0xaEp3Zko0VDdCQVRKa0xhUFo1ZmFncWJmOGFuNnljN1ZiZkNJTWU2Y0tIY0NuMmFyS29lYw?oc=5",
    "source": "47NEWS",
@@ -398,14 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-03 13:27",
    "published_iso": "2026-09-03T04:27:55+00:00"
-  },
-  {
-   "title": "「本当に頼りにしている」活躍広がる「特定技能」の外国人ヘルパー 訪問看護“解禁”で現場は？背景に…深刻な介護士不足「やりがいがある仕事」外国人人材は超高齢化を支える欠かせない存在に",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHNkYwN2UtZGN6djFhWk1qSHR6a3ZRdUVXU2stb3hQV3UtSzhJUU8tOHZ4WTFZZHZUekFNWnFFWVRBQXBubEFyLVhmWmx0MWJPOExmaGpwX3d2QQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-03 13:02",
-   "published_iso": "2026-09-03T04:02:00+00:00"
   }
  ]
 }
