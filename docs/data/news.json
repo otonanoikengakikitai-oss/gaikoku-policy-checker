@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T19:55:09+00:00",
+ "generated_at": "2026-09-05T21:54:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "広島：外国人選手献身的に支え ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbG4tdFNVR2l5ekZJaUdtd0N0TnlPVmRwY2ZlblRUWHhQSkp6YVRzeG1Td3dkRXE0SUszOVlWaU9LcWVGamhPNFBrVlFKSWpXQTBEeTVZWlplVFVPczllTkNyaFc3Zkdqdm5QU0FnakVMYThCWkE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-06 05:00",
+   "published_iso": "2026-09-05T20:00:00+00:00"
+  },
+  {
+   "title": "英改革党 反転攻勢狙う 逆風の右派 党大会でアピール…「政権取れば１００日以内に不法移民止める」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SLUtxQ1ZXSkwtdmMyMHRQTU5vMS0xalZpandxNjcwQWp4VjZyUFBQc3FSOWJLYUFpclk3ZThVQ1FsR3RFR3RMcllsSktoWWRpNUR5d3dZd1E2eDBJVjNzQkFB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-06 05:00",
+   "published_iso": "2026-09-05T20:00:00+00:00"
+  },
   {
    "title": "倶知安 急増する冬の季節労働者 国保加入 外国人が過半数 通知届かず、理解不足… 税徴収に課題",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQOVhRNDZnVWstdUx2MTVJZHpoTjRxSmg2WXl5YW9rcTl1anN3eEtEeEt0cFhLQXdYVTd4dGpWUXdpSDliRjdxQ19ZSDBhakYxaEpUVWtfY1AwUQ?oc=5",
@@ -18,7 +34,7 @@
   {
    "title": "「反移民」英改革党に陰り 党首が失態、新興極右と票割れ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Lb3p2TVR4aXhRUVlqUkh6UzRyUFJkdWN1VkpEbGhYVmdQZHE2dFlGQmdZLWgtQmZFSVpuUS04MXVCOEttMFRFMGV1NURxSTVienU1ZG5ua1BBRmx0VU4xX2w4bm9tUTdR?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-06 02:00",
    "published_iso": "2026-09-05T17:00:56+00:00"
@@ -32,14 +48,6 @@
    "published_iso": "2026-09-05T16:39:00+00:00"
   },
   {
-   "title": "【川又米利の目】中日・福永の球団初の2戦連続先頭弾「準備が思い切りの良さにつながっている」30年前シーズン6本の助っ人外国人も回顧「タイプ的にも重なる」：中日スポーツ・東京中日スポーツ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95bkEzcHFxRzMtRmx4ZlN4Q1g3VC1BbkUtUGpGLVV6VGdSc2FoRmJRN1NJQjdxWGpNU0RNTWRFSGZKcnF6RzhlbXNXSkhrTlN5cFN4UQ?oc=5",
-   "source": "chunichi.co.jp",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-09-05 22:09",
-   "published_iso": "2026-09-05T13:09:06+00:00"
-  },
-  {
    "title": "党勢失速のリフォームUKが仏極右政党・国民連合と「難民申請者の強制送還」協定",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42bVlmZ2tmRUlTNUlaOXJIcXJvNnpUUjdHNWNpLW9wakZ4Mk92Z1VwQ1lVVkNPeUY4dnhKaWx2OU4tT0tZekhCMmZtVktjVXJSR1R4el9Md2duMDdNdE1BS0JFaTQ3djlyb1Z4dHA2WEtQMXBBY1VaTHFB?oc=5",
    "source": "テレ朝NEWS",
@@ -50,7 +58,7 @@
   {
    "title": "上半期の県内宿泊者は423万人 コロナ前上回り最多 外国人2割減も日本人増加 山梨",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlMzeWFieW9RSk1DbVEwbHBUeUNtakxKamFKUnVIdG9TVjF4RVpTNUlHZExkZ3kxdnJtUUppc0ZEbDkzXzlUdGt6dUV1eEt0SkpPRzE3OG9iQXVvY3VlWUZmS2I3Zmh5YWNXTmNUUjZmaDR5aHI3NVlFVEdSWTdBMm5zQ04yb28?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-05 10:40",
    "published_iso": "2026-09-05T01:40:00+00:00"
@@ -58,7 +66,7 @@
   {
    "title": "博多湾に浮かぶ能古島、外国人に人気 カボベルデからも来島",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xeExlMjVTUDRtMW9qZUJZMFl1V1lYa1VpdThOTUlzemtQQ0F6RS12VHlraE82SHh5elYteU82bWx3WVlXcGxfUGJGWV9yRFQ5QnhvaU9YYmM5T2F5Um5FNFFNUFVVMDFl?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-05 09:45",
    "published_iso": "2026-09-05T00:45:00+00:00"
@@ -138,7 +146,7 @@
   {
    "title": "兵庫県内初、特定技能のバス運転手が単独乗務 神姫バス採用、社内訓練10カ月で基準満たす|経済ニュース",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xb1l0b2lNcUFNeUZmUTRhRDlxdTdtSWFWYzkyRVB0MDJnbkxydExsVmd0QzZWSmFsd09QVUxrMzdyLS1SWFhaVW10M3k0clhfNHItSmp5RGVMVUNEVUhEVWZXa3Y0c1ROSGtmc2hR?oc=5",
-   "source": "kobe-np.co.jp",
+   "source": "神戸新聞",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-09-04 20:05",
    "published_iso": "2026-09-04T11:05:00+00:00"
@@ -234,7 +242,7 @@
   {
    "title": "小泉防衛相、自衛隊への外国人登用「考えていない」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wSGZjbC10d3lSa1drUWgxcUQ0bEJEWlJHZVFDVGZsV3VZSUJOdTZSQUdrSDZySGFPVzFyUWFsVHdLYUJoSDkyMzZzSjJUdGl3NmtIWkdwSEd5OVB5Ui1JRXNoRk9IaWJZ?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-04 12:48",
    "published_iso": "2026-09-04T03:48:30+00:00"
@@ -336,20 +344,20 @@
    "published_iso": "2026-09-03T22:48:30+00:00"
   },
   {
-   "title": "大阪市天王寺区の地下街「あべちか」強盗殺人未遂事件 公開手配のベトナム国籍の男逮捕 東京都内の入管施設に出頭",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91R1JaWEFNVXhWcWdzU041bUVjMUhfaG1HRHlJcHR3aFVlSHd1R25RZnR4Vmw2NEtwc3hnZHFSb3diSlVMQkFjR3UzdmtHZmdTYXNqRDJTcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-04 06:53",
-   "published_iso": "2026-09-03T21:53:22+00:00"
-  },
-  {
    "title": "「モロッコ関与」証拠なし 移民流入でスペイン首相",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90YWR0X1VyeG5pVlRvN3JBYjBuZ3d5TWdMeU9KMjlyMlh1Y21yTG9PRzZLUUs0MGdNaS1UbzBpeG5TS0owZ0c3ZTEtYVYwSzFOXzlfaF9NdmJZbEh2UnRDWE5MNnFRSkZLYzFz?oc=5",
    "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
    "published": "2026-09-04 06:29",
    "published_iso": "2026-09-03T21:29:26+00:00"
+  },
+  {
+   "title": "千葉：外国人と暮らす〈４〉 ムスリム相互理解へ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UUTlzVm9ZSEFMQWVSRy1HYzRrTzJmbFd1Z0RuQl9WZF84ZXIyR0otdFBuY2RSZ0k3WlFQRWVXRXp1NVU1N3BhcXhuNW9aUGhoSTBYNTkxb2xpN09leGdtVnpkM2hrSDJ5U3N5UjlabUR4UUhC?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-04 05:00",
+   "published_iso": "2026-09-03T20:00:00+00:00"
   },
   {
    "title": "京極「特定技能ミャンマー人虐待」 町長「支援体制を再確認」 町議会で報告 批判や意見100件超",
@@ -366,6 +374,14 @@
    "source_domain": "47news.jp",
    "published": "2026-09-03 23:16",
    "published_iso": "2026-09-03T14:16:53+00:00"
+  },
+  {
+   "title": "大阪「あべちか」の強盗殺人未遂、公開手配の男を逮捕 入管に出頭 [大阪府]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81Mm1YNmcwX2liSnVfWVNGSUt3VlhwaFdadWRXQnhFSnd0NlNtaUlvdXp2TVI1Q0FZZE1vT1JCTE1Pbkc0WkEyS3NaUHB6SFZpMjR0THJoUk9IVndhZDBOUjZ6eS1yY2c?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-03 20:46",
+   "published_iso": "2026-09-03T11:46:00+00:00"
   },
   {
    "title": "京極町・特定技能のミャンマー人男性、暴行などの容疑で町議会議員を告訴方針 議会定例会開会も…渦中の町議は欠席 外国人支援めぐり議論も | 北海道のニュース｜HBC北海道放送 (1ページ)",
@@ -390,22 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-03 13:02",
    "published_iso": "2026-09-03T04:02:00+00:00"
-  },
-  {
-   "title": "「ミキサーに首を…」インドネシアの技能実習生(21)が死亡 ミキサー内のつまりを取り除く作業中に挟まれたか 広島・大竹",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZUI0cEo1ZTdoUV9iMHhFMGYyZVptMFJlTVVxX2prbVQ2OUlwTkFFeS01akZDQjdXbEhZN0JVNzFzdTExc2E0cmVjajk5UlJvY2N4ZFVOX0hQRnBsS1FGRg?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-03 10:36",
-   "published_iso": "2026-09-03T01:36:00+00:00"
-  },
-  {
-   "title": "【事故】戸田工業大竹事業所で技能実習生がミキサーに巻き込まれ死亡",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ndXE2TWZEeTVvNmcySU84WE5Gc1EwLWF0MjJJX1kwek9sRlA4Uzg4Y1JfQ051UWhqMjhmU0UtbDRKU296em1ySHR0WQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-03 08:41",
-   "published_iso": "2026-09-02T23:41:00+00:00"
   }
  ]
 }
