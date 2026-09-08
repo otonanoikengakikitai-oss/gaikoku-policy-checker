@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T09:20:43+00:00",
+ "generated_at": "2026-09-08T14:07:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,86 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "長野市にいながら「海外留学」 長野清泉女学院中学・高校が外国人指導者招き交流",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZnhpd1U1TGxya3VZSnFrLUt6T19fLUVVUGpuYmJHa1c1QU1hdnBGb3U1MldwZXdCRXlJNkFLX29lOVF5bjAyc0JQU2RNMDlpV01Ca0JHdmFGaGd5SXNjRWN6VkdhTWxFVVFpRWhNalo?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-09-08 21:02",
+   "published_iso": "2026-09-08T12:02:00+00:00"
+  },
+  {
+   "title": "英首相、反不法移民デモ受け「毒の政治」批判",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vT2tBYmt2ZC1UNENUbC1Ic2FtX2pUem1QR2pSNE9QcXlpU1o3cThjRUdmSjVoRlFVWHpMN3lEUThyQk42V3FlanpZVG9Fd09ELXdvMU5kSWtOTzR1SFdZRXdiMmdwQQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-08 20:14",
+   "published_iso": "2026-09-08T11:14:00+00:00"
+  },
+  {
+   "title": "UK PM denounces 'politics of poison' after anti-migrant protests",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XNGFWNlFmcDdVN194Sm95RXJ5MDYyMm1QZWhxcFhFZ0h1THBMQkJtT0oxSmdkMHRTTmZBeXgzTF9Ha2NIOFladWY5M09PelNSdGc?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-09-08 20:14",
+   "published_iso": "2026-09-08T11:14:00+00:00"
+  },
+  {
+   "title": "「2つ目の故郷みたい」来日9年ベトナム人介護福祉士の思い 増える外国人介護者 “選ばれる地域”へ試行錯誤続く 新潟県",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKZm9qSjdURF9YcTVnbUJsT3ozbkQzWjg0dUVZbERvYk8yT1hLRUVSRjhnc2g1SlRvZ0lqblZ0QUJMNUZuaGh0MEJTQkJadmNMSWZ0NHNrYw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-08 20:01",
+   "published_iso": "2026-09-08T11:01:00+00:00"
+  },
+  {
+   "title": "＜社説＞外国人虐待疑い 事実の早急な説明必要だ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM3hpaThGeDEtVGpJQkdMd0pILXM5aDgzc3NHTW1KVzdyUVZlYWU4YklidGlLX1hXdF9mV2E2U29PVjMzczdvc2hrekFVcS0zLThCMXJUZVYtQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-08 20:00",
+   "published_iso": "2026-09-08T11:00:00+00:00"
+  },
+  {
+   "title": "中国5県の1〜6月宿泊者5%増、外国人8%増 鳥取・山口は2割増",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSFZqSDNqVHp3VC1BbUZobEp1U3FhenZaVzE2QkpFMF9KclBINGJKTnl0WEc5akxMOVZpUmttR1JjZDNYRldJV2RKN05acGpwX2Q3c1lXekpkRW51WFQyY2xwdUlyUEllb0ZoZA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-08 19:37",
+   "published_iso": "2026-09-08T10:37:18+00:00"
+  },
+  {
+   "title": "介護現場を担う外国人が増加する中 宮崎県内で働く特定技能実習生たちがリアルな「宮崎弁」を学ぶ講座",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfYmxES09MRGU5Q1FjdkltWlZRbDUwdENfaFc1UVBjV1NzX04tcG9WeG9GMThrTXJvd0g0QlVSYWIzSUZua3FCLXEzbHZBOVhMS0J3Y193c0Ytdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-08 19:11",
+   "published_iso": "2026-09-08T10:11:00+00:00"
+  },
+  {
+   "title": "黒部峡谷鉄道、JR販売の外国人向け切符の割引区間延長 全線再開で",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53b2FpQVRDa19XYXdqVkdTNkctOXl0MS1ielNXSHl3Qy1BNGJlS0N5b25vcFRMQmstTlotSXJZUW5ibGpLTEZSelU0UE9mR2FGNVBDaVBRNk02bE5jeHFrWDBBb1JaU29tT2hpbA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-08 19:00",
+   "published_iso": "2026-09-08T10:00:00+00:00"
+  },
+  {
+   "title": "国際学力調査「日本1位」も手放しで喜べず OECD平均低下要因に移民増、デジタル化も",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KbVF5TmlhRmRtRGRXYmpDbmFtMnYxWTZIZ1p4bmIxTWhGcU5TSjlfcHZPRlFFaTV2dEZvcHlyM3k2SEdnWGQtRFR6NkVBSU53U2dEVTA2RkVCazRWTzBoTUQwdkNPN2tyNjJOMkJjYzZKcGJSY1E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-08 18:22",
+   "published_iso": "2026-09-08T09:22:22+00:00"
+  },
+  {
+   "title": "“4人に1人が外国人”多国籍化する東京・府中刑務所 フローリングにベッド、原則個室 “豚肉禁食”など宗教や食文化にも対応",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlZTZkdm51cmpxSUpybmRiVHFnWWRKNmZHRTlnQlVTc3dVYlNBTUlRQXFncHRqN1E2UEpZcUQ4djIwcmRxREsxbTlYTE12Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-08 17:09",
+   "published_iso": "2026-09-08T08:09:00+00:00"
+  },
   {
    "title": "「浴衣は涼しいけど足湯は熱い!?」Bリーグ愛媛の外国人選手らが道後で開幕PR 蛇口みかんジュースに感激",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSTZDWGVLdks1QlY2TnNkdTA4bVYwNDBiOS1CMngwVFNlUDdqWGdFSFBrb181TXo5eWFPVWdFYzVaSWNyUVNsUHNvMHpkLVIxVEhNeGc1LUxEZw?oc=5",
@@ -16,17 +96,17 @@
    "published_iso": "2026-09-08T08:02:00+00:00"
   },
   {
-   "title": "移動時間を“体験”として楽しめる、訪日外国人向け日帰りツアーを新たに展開 ９月１０日「Odakyu Official CHECKBOX TOUR with Guide」を発売",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KOG9NNktwS0FoNlo4QklmRXdaaEhSSjF6T0VNdWJkYnYtalBkYTNkbmRBc0JEbVM1WGNEZklrVG5yQ2Y0MFhuVzR1Y0xlTW5CU2RkSXN4UWtxUnZTR2Y0TUsyd3BDMU8xYW1r?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-09-08 16:16",
-   "published_iso": "2026-09-08T07:16:00+00:00"
+   "title": "実習先で面識のない30代女性に無理やりキスなど 不同意わいせつ容疑で21歳フィリピン人技能実習生の男を逮捕「友達になれたと思った」北海道函館市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bVE2N0FvV3ptOVc0WkN3UkZwVjlVR3Ixd2cwa2RCRDJPcWhwUlNBYW5MSUxWUGM1NjFld1lZeEZyNWYzMHBPS2VhQmI5NDB1NU9CU2Ftaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-08 16:35",
+   "published_iso": "2026-09-08T07:35:00+00:00"
   },
   {
    "title": "「定住すると人口は増え続ける」 異文化統合の難しさも 移民問題をドイツ識者に聞く",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOXAyOWh2dGtwSE1xYWV4MVBPRmRiZ3ZtQ3FwT0piaFJ0bkFEbUFSYjZwS1JJWE9ZMlRDelZxY3dFNVdYVjBBZk8wYnRocEpqeU1RR0FPY3NvS2x2OWJJdkkwWEM5NVBLdmlvVnpKSEcwNTR3SVE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-08 14:00",
    "published_iso": "2026-09-08T05:00:00+00:00"
@@ -48,17 +128,9 @@
    "published_iso": "2026-09-08T03:57:44+00:00"
   },
   {
-   "title": "【物流業界向け】外国人ドライバー活用と物流倉庫分野の最新動向を解説 特定技能・育成就労セミナーを開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MVzhnRC02emVMbXF3MXBwaTZ5RnF1MjFfNkZDbGhFN2JZdlkybklaaFpyNXlEeHE5MzczRUFDQnBZeGsyd016Zmg2NmZKcklCNHdKMmF1T2xialFocTJremdFdEhoVEQ4YUtZ?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-09-08 12:45",
-   "published_iso": "2026-09-08T03:45:00+00:00"
-  },
-  {
    "title": "「欧州型かシンガポール型か、日本政府は指針示せ」 移民問題を英諮問委の元委員に聞く",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PSTd1NGlrYUhhUVZmT0FOdWFySDgwX1NucTMwNFVCbU14djlpeFVDeEcybFFUUU52NkQ3VVMzNXNtcmEwSFBJbjBDZzR6ak94VUxESFdYV29QR1ZkUTRIV3VTeEV3V0RUUmdyQXlGTVd1ekJfREE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-08 12:00",
    "published_iso": "2026-09-08T03:00:00+00:00"
@@ -74,7 +146,7 @@
   {
    "title": "特定技能外国人受け入れを担う建設技能人材機構（JAC）、WOVN.io で16言語対応",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZFhST0RhOV9JZVUtcjA3WDRYaWNTTHVySzBYVDdsbElaQWZYR3VSaE4ydlhoUjJ6MmVhYWRlWWlNS1l3OXo1VVJvdHJHcE5nMlBzUkZidDJYakNISG5MZGQzXzY1MUJDZE1R?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-08 11:16",
    "published_iso": "2026-09-08T02:16:00+00:00"
@@ -88,17 +160,9 @@
    "published_iso": "2026-09-08T01:40:00+00:00"
   },
   {
-   "title": "「JAPAN」の生活ルールは難しい？ 日本で働く外国人が直面する課題とは バングラデシュから来日した若者3人が奮闘",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PYUhpY0ItdTVQeWhIZjZsX3N4OG5JQXU5UmJibDVIS0RaV2J3RGpQUS1WZGl3UHV5Rm5BejVjSUpZNkRVSGo0SjZHcFNqdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-08 10:21",
-   "published_iso": "2026-09-08T01:21:00+00:00"
-  },
-  {
    "title": "ＡｆＤ、愛国心うたい移民攻撃 過激な主張、ナチスほうふつ―独州議選",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5icThxM3lDekVJcVVBT0hCSXRMVFNCRGtSZEJ1OTlRdHdmYUxmV3draWVDOVFGZ0RlNTdWNVo3a0QwM3VQbF83YzFPb01SMGFGc1ctT2M0UkdvdndRNXY1UVdkUQ?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-08 07:02",
    "published_iso": "2026-09-07T22:02:00+00:00"
@@ -114,7 +178,7 @@
   {
    "title": "外国人対応相談は「想定より少ない」1日3件…川口市で「全国初」の窓口開設から2カ月",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KeVVzVVZhQjA0eDAzelZoQ1BSYWxfYVpkbjFsRFdMc2tUZzlKVzlCWEVUaTZPU2ZYVXhlNUFXRGRKTVlVdzVaTmMwMVlmUVk5WGtB?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-08 05:00",
    "published_iso": "2026-09-07T20:00:00+00:00"
@@ -122,7 +186,7 @@
   {
    "title": "「自衛隊に外国人」「民間力の活用」笹川平和財団の提言がもたらす波紋…実現性とリスクは",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTWk5WUZoQ1BOeVFKYzZULWFfb3BncnhwV1RadHpKYW5naHN4amdSYWxKc3JFMlRFZC1Xa3RXNjljeF93VXk5R1dkYWppMmMtalpV?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-08 05:00",
    "published_iso": "2026-09-07T20:00:00+00:00"
@@ -154,10 +218,18 @@
   {
    "title": "独州議選、反移民派第1党 メルツ独政権に「極右ショック」、州首相選出への連立交渉焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LT1BidjBIeGw2Q3VKbWdRejlVQ2tfUjFreUs5OWpZdkN3N0RnOG41THlZbmxHVFNoSEJhN1ZFWkR5OENhN0VaaFY5NldTY0UtTzFrX24zRWJQb1YwTncwOVJudlplNlBfV19ZdjlSVHRjcFhMSmc?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-07 21:50",
    "published_iso": "2026-09-07T12:50:56+00:00"
+  },
+  {
+   "title": "特定技能のミャンマー人男性が暴行被害を告白「朝になるのが怖かった」農業法人の実質的運営者の町議らを告訴検討 損害賠償をもらいに日本へ来たのではないと訴え 北海道京極町",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MUDdDNEY1U2Z5NDJZWlBvcDFTWjA2VU5IMmpRRmFKWjhfR2xiVlg2MlpINGhqeDFpSTVWY1NnSDhIb2p0NTBFVWE5YzFjcC1Renc4TEVBc0hhNlBTeXFnNjdodTEwX3c?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-07 19:00",
+   "published_iso": "2026-09-07T10:00:00+00:00"
   },
   {
    "title": "独州議会選挙で強硬右派「ＡｆＤ」圧勝、州首相輩出なら戦後初「極右」州政権誕生…移民排斥や愛国主義訴え",
@@ -166,14 +238,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-07 18:57",
    "published_iso": "2026-09-07T09:57:00+00:00"
-  },
-  {
-   "title": "原発未整備国の外国人研修員が福井の取り組み学ぶ 基礎知識や安全対策・地域との関わりに理解深める JICAの人材育成プログラムの一環",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2hiNE9NTXBzU0M1RHd2cEpLQmNwVHRHOVlsell4SFhSRnVpSzJnRHRIdEkxeER3S09wNnRDaTM2Q0gzUkR6WXdfT3ZmY3FDMFlkek9ldG02YnM2SFJlTUdGMHFYR1B6OFdCMV9vOVRKbEpWTVNtNGNMWEJFd29YdTN2TWx5UGs?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-09-07 18:40",
-   "published_iso": "2026-09-07T09:40:00+00:00"
   },
   {
    "title": "【劣悪】寮にネズミ 金属棒で殴打も…特定技能のミャンマー人男性が暴行被害訴え会見 町議らを刑事告訴へ",
@@ -185,8 +249,8 @@
   },
   {
    "title": "ＥＵ５か国、難民申請却下された移民の「送還拠点」域外設置で協議",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxVjVmS2NETEVsdEVZLTJiOGQ3YkZVanhDZlBvSkZKU0paSVk3d0tXVnhyMkVLWlJrV3Nsck5IaHNjcmtsY2dsWEZ6WlhfM19xRndpYUdMWmdDZ3BhZk5jSVNRS21fSFpYVnlHdTJCa05uSVhBNWc5bFVpQVM0Qkk?oc=5",
-   "source": "jiji.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ncmVtbVNtaWZrQ0pQQWtiRDNBQlM2QUp6aV9MV0E4cDhCQlJSa0dKNm15U2pGbzVUSGU4VWFxTWx1SXExa1RyQjRZMktONHZ2YTlpQ3RQQTRRUEZfVzU5QVNmMDlUQQ?oc=5",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-07 17:46",
    "published_iso": "2026-09-07T08:46:00+00:00"
@@ -194,7 +258,7 @@
   {
    "title": "胸元つかみ「文句あるなら」 特定技能ミャンマー人が町議告訴へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yS2UxbFJFQnk4M01veEI1YkpqZnlfU1BRQ3NwLWxWZXR4UnF2dnZoNTFjT3JXTDVKdHBlUjNaaEZNbjluQ3JmdUF5MHdvcUtJaVY1dEYyMGV0c0NQSFpGa0VyUm55aFln?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-07 17:30",
    "published_iso": "2026-09-07T08:30:22+00:00"
@@ -218,7 +282,7 @@
   {
    "title": "外国人支援員、全国に拡大 ３８都道府県に配置―入管庁、評価・待遇改善を検討",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZQVh4U2JRSEtDbF9zVkkzTTFISU5OU0xCdXFGRFdSSXljZTAwTnE4MUExMjZwbjNsbHNTWFAtd0VRT2R2anh2RDBLLXpFb3g3TW14LUNBZmo4NlkyT0FuYXJpZw?oc=5",
-   "source": "jiji.com",
+   "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-07 14:32",
    "published_iso": "2026-09-07T05:32:00+00:00"
@@ -226,7 +290,7 @@
   {
    "title": "棒で殴られ…特定技能外国人が告発 北海道の町議らを刑事告訴へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ2sxeDFfeTZZTDFoVFFFWDRrZVRCaHp1b0xuUGVpZ2NpNTZILWlmc2h3N25CUUN2cHBTa0htTFZIVWVZRGdoQ25RX2xqZUN3cEh0VjhBQ0loM2FvTnNNbVV4TmxiYzF0?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-07 12:32",
    "published_iso": "2026-09-07T03:32:26+00:00"
@@ -234,7 +298,7 @@
   {
    "title": "鍵握る新興左派BSW 反移民と協力排除せず ドイツ東部の州の議会選",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwejFaTDRYY2VhMl9ILXE3OEtFcEZCbTBiMUxPcGFmVE44azBpc2xqYmdUNE9rekVtdnZUVmdPeXBzVHVtOFdwQVV1ZGpyaUgwN1ZqQVpkTVJkRFlyZW1yWTc3d1ktUFlJLUwzcmI0OXBncU42VEE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-07 12:17",
    "published_iso": "2026-09-07T03:17:54+00:00"
@@ -274,7 +338,7 @@
   {
    "title": "ドイツ反移民派、第1党勢い 東部州での議会選、単独過半数に届くかが焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYk1jNDZlODdEZ052d29MTjJUa00xSGk1ZFNpa3NQakRjQnJMWGJoQ3dVU3lqc0s2SGI0WF9iU1NDZFdJSEtnOERfTGowTDhVb3VVU2oxYjVBNjJ2UTk4Y0p5WU5heTZnNXZDV01oY1EySnZ4a0E?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-07 05:54",
    "published_iso": "2026-09-06T20:54:29+00:00"
@@ -298,7 +362,7 @@
   {
    "title": "ドイツ東部州で反移民派が第1党の勢い 州議会選、初の政権掌握か焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84aHFXbzZZZ1BvMFRldWhFR1UwdzR2N3FxQUdoeS1RcUltLW9SejhnM0hiamExT3VVaF9wdXhYWTE1NHNVQWdRanp0OEJ3MnlrTS13d0xRR2RiYXpvY0EzWFV2Q2Q0UjFjNUdlVWFBVDZCNHlmaXc?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-06 16:04",
    "published_iso": "2026-09-06T07:04:10+00:00"
@@ -322,7 +386,7 @@
   {
    "title": "「反移民」英改革党、勢いに陰り 党首の「過ち」、新興政党も…",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tQWdpRUlLMzY0akpiNm1jdUNJTlVBdGNqeEdwRkZxRWNTSEgzNDM1SWdqcVZMUUFHNmNQNjd0emdBbVhqWWs2YkhmeERIZGd4V2ItY1lfS0V3RE5PblZDRmZFVXVfVU5P?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-06 08:00",
    "published_iso": "2026-09-05T23:00:00+00:00"
@@ -336,76 +400,12 @@
    "published_iso": "2026-09-05T20:00:00+00:00"
   },
   {
-   "title": "「反移民」英改革党に陰り 党首が失態、新興極右と票割れ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Lb3p2TVR4aXhRUVlqUkh6UzRyUFJkdWN1VkpEbGhYVmdQZHE2dFlGQmdZLWgtQmZFSVpuUS04MXVCOEttMFRFMGV1NURxSTVienU1ZG5ua1BBRmx0VU4xX2w4bm9tUTdR?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-06 02:00",
-   "published_iso": "2026-09-05T17:00:56+00:00"
-  },
-  {
-   "title": "「外食業」で受け入れ停止 激化する外国人“引き抜き合戦”と地方の人手不足の実態",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTU24yQm5GZkpIVnAzaEVaRmZUcUpLQ0dWN09XZDFIRVF3YnBKN1lZOFVKMmNLQzJDZ3RFMWd0TWZCeEJFSnZjWFRsdEJKN2hqTkJLN0dJYnV5LWZkSWctR0lPVTcxdG9wMDJyYkhzWkpSdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-09-06 01:39",
-   "published_iso": "2026-09-05T16:39:00+00:00"
-  },
-  {
-   "title": "「100日以内に海峡渡る不法移民の入国根絶」 英右派、政権奪取を宣言",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXX0RQUVdDTzg5V0NNcFd4OHhBODNlblVKMUNTT2NZeTZXanZxZ25COU5Bbm1vaHhDeURfM3U5bllEMGlUdHVaZHFUb3hfdFExdGNqdUNoM1J6NjRRa1RCWXQ5NmJlYkNvNXpUd25TUXJ6bHJuUlE?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-09-05 07:52",
-   "published_iso": "2026-09-04T22:52:22+00:00"
-  },
-  {
-   "title": "トランプ政権、政策ＰＲでゲーム公開 移民拘束など５種類、セガのロゴ模倣し「ＭＡＧＡ」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LaFBOajU3R0hBeGFLUFdhOFcwY2M5Y290X3ZRclFFYi1LNVZyekdxUmFlX3czdUp5Z1ZCZW9lUmJRRUxpM1NwWXBsOWdMSGpUZVF4eGQwVnIyYUU5aVFhU3lzZw?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-09-05 06:28",
-   "published_iso": "2026-09-04T21:28:00+00:00"
-  },
-  {
-   "title": "広島市東区で外国人材との共生探るフォーラム 企業から「育成就労制度」への課題指摘",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMQmFvbnhmUDhTYzc4eDltalc0NFZjcmpNTjdsMURKSU4xUlAwbVd6QnJGcHhiZzJCN0MtQWU1bGw4eVlpNldTTkhQYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-04 21:34",
-   "published_iso": "2026-09-04T12:34:41+00:00"
-  },
-  {
-   "title": "兵庫県内初、特定技能のバス運転手が単独乗務 神姫バス採用、社内訓練10カ月で基準満たす|経済ニュース",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xb1l0b2lNcUFNeUZmUTRhRDlxdTdtSWFWYzkyRVB0MDJnbkxydExsVmd0QzZWSmFsd09QVUxrMzdyLS1SWFhaVW10M3k0clhfNHItSmp5RGVMVUNEVUhEVWZXa3Y0c1ROSGtmc2hR?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-09-04 20:05",
-   "published_iso": "2026-09-04T11:05:00+00:00"
-  },
-  {
-   "title": "外国人材への懸念、自治体受け止めは「排外主義否定」「覚書は無秩序防ぐ」 回答全文",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MV05jc1VDcWpfcVBhOVNGVWM4MDJSdmw1M0R4YTNqcU9JWWhVT1RkOThkNUxFcVFieW9vSEU1MEFneEFxMGxtaGRGRkFCR2JYemVMcFBnc0gyMU02dkR1LTdBOGNLM2dZQXVJaUZTR01pa21wZnc?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-09-04 19:00",
-   "published_iso": "2026-09-04T10:00:00+00:00"
-  },
-  {
-   "title": "外国人材確保へ自治体独自の覚書、20道県が締結し4府県検討 「二極化」も依存度増す",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pMVMxWXc1VUphZ1hpUlNnR3ZxUUdHME9GQjNfTExfRlNHcHpObDV6YURfSU5VUmV3bkV3VEpSdkZ2V1FQNTI5X3FCOVd6U21Ma3ZVMXdNZXlGUnYwQm5tbU0wdDd2UmM2VlhLNHgzY3BTSVliUVE?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-09-04 18:30",
-   "published_iso": "2026-09-04T09:30:00+00:00"
-  },
-  {
-   "title": "セウタへの不法移民 殺到、モロッコが画策した「確証」なし スペイン首相",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iWVY0ZjNJWUxySEZDLS0wTUlmeUE1Sl9EZFpJd0ZtOXpnLVBQSDNTdGh2RWtCWUdXaWFIWmNKYVZYTDVXUUY3Rk44QXJ2emtNUEE3cW90YkhTVEloa3oteThRb2o5Zw?oc=5",
-   "source": "jiji.com",
-   "source_domain": "jiji.com",
-   "published": "2026-09-04 17:36",
-   "published_iso": "2026-09-04T08:36:00+00:00"
+   "title": "「日本語」学習が生きる希望…ウクライナ人学生の思い（2026年9月5日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUdWbXNWVXN3QnJuUUxORGdYaFJ0TzAtUGh2Rkdra0s5R1M3cER5cU0wQU51em91b2xnRHAteHA3SGN5VFVESlFiWkFOczUxUG1HNTQ3Y185a2gwVHV5QzlHdUdPN29sTzJUaEk1YXhYT3lxMnNYMkVfZGFXdXdheFdUNWk?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-05 19:55",
+   "published_iso": "2026-09-05T10:55:00+00:00"
   }
  ]
 }
