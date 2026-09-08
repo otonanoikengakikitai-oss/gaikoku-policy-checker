@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T18:17:16+00:00",
+ "generated_at": "2026-09-08T21:32:57+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "毎小ニュース：国際 ドイツ州議選 「反移民」政党が第1党に",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wOXZMZmJUQklacmpnRzZsOVJvRVdKM2xPbmJCcmdKN0Qzcy1NYkZVUzQxa1lLM0VJSHZqdWFSMTZiaGtxSTlZR3pLLWJ5d0N2LUxkRm1XSDlOSFZYRXFCWVVpZE5Xalg5TmVvOXRPUXlSQQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-09 06:04",
+   "published_iso": "2026-09-08T21:04:34+00:00"
+  },
+  {
+   "title": "飲食店スタッフの英語対応は不要？ 京都の外国人旅行客から聞こえた要望とは",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fUjhoaFg2RGtCcXBWRUc1SkcxZk1NRGxTLXZ0YTZ6QkNGdzd3ejRxY1o3VkZCUmxCdEJqM25YVjNaRHkyVDJNRTM0N2NuUjhtY3hpam54Slg?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-09-09 06:00",
+   "published_iso": "2026-09-08T21:00:00+00:00"
+  },
+  {
+   "title": "入管庁、「不法就労」摘発強化へ他省庁と合同で立ち入り調査…１０月にも国交省と解体業者対象に実施へ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mTTRxcERzQlQ2ejNNNWNlTnB6YnloUUViTWppbWVfcmUyRllIZGpoWHplTXBRSThMVHNnYlU5cHpvM2xEZU5JLXc1TmwtdFUwVWhURmpGMEI1elF5NV9Ca3U0MDZaZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-09 05:00",
+   "published_iso": "2026-09-08T20:00:00+00:00"
+  },
+  {
+   "title": "入管庁、不法就労摘発強化 来月にも 国交省と立ち入り",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iQUp2akNqZ25taXNKVTd0bVFIU2lDaXdQQ29GakExZ2djX2laSzRhWFdkckk0QXJEc3VNaHhPa05sYWllMURMRjV2dzJ0LWc0VTdrV2RrSVVuc1N3Rk1VQ3JPdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-09 05:00",
+   "published_iso": "2026-09-08T20:00:00+00:00"
+  },
   {
    "title": "長野市にいながら「海外留学」 長野清泉女学院中学・高校が外国人指導者招き交流",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZnhpd1U1TGxya3VZSnFrLUt6T19fLUVVUGpuYmJHa1c1QU1hdnBGb3U1MldwZXdCRXlJNkFLX29lOVF5bjAyc0JQU2RNMDlpV01Ca0JHdmFGaGd5SXNjRWN6VkdhTWxFVVFpRWhNalo?oc=5",
@@ -17,7 +49,7 @@
   },
   {
    "title": "英首相、反不法移民デモ受け「毒の政治」批判",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GempYX2QtNFJZYWUzMk9xQ3gzeldheVJJajBnYzNWMWs3aXlieWJFREVBeEVuNVdPVERsY0hLeUJkSmRzSUlsZUJzcXRiMzdVSW9Fell2REZwSE1uVEdBWmZUVEhJRTZyajc0Z2Z6aUZCMUc0aENjclc2Ny12T0U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vT2tBYmt2ZC1UNENUbC1Ic2FtX2pUem1QR2pSNE9QcXlpU1o3cThjRUdmSjVoRlFVWHpMN3lEUThyQk42V3FlanpZVG9Fd09ELXdvMU5kSWtOTzR1SFdZRXdiMmdwQQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-08 20:14",
@@ -96,28 +128,20 @@
    "published_iso": "2026-09-08T07:35:00+00:00"
   },
   {
+   "title": "紋別、北見で外国人無料相談会 12日と13日 在留資格や就労など対応",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwVnpveDVpV1M2RnVxM004eXdlV2ZWNDQtT3N1dkZoOFFaR2JmVktsRDV6VEx0d3lKQlYwNGx0cklHUDlGbWU5YV9mUQ?oc=5",
+   "source": "47news.jp",
+   "source_domain": "47news.jp",
+   "published": "2026-09-08 14:15",
+   "published_iso": "2026-09-08T05:15:52+00:00"
+  },
+  {
    "title": "「定住すると人口は増え続ける」 異文化統合の難しさも 移民問題をドイツ識者に聞く",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOXAyOWh2dGtwSE1xYWV4MVBPRmRiZ3ZtQ3FwT0piaFJ0bkFEbUFSYjZwS1JJWE9ZMlRDelZxY3dFNVdYVjBBZk8wYnRocEpqeU1RR0FPY3NvS2x2OWJJdkkwWEM5NVBLdmlvVnpKSEcwNTR3SVE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-08 14:00",
    "published_iso": "2026-09-08T05:00:00+00:00"
-  },
-  {
-   "title": "プレスリリース：訪日外国人が注目！Paykeアプリ「2026年8月人気コラムランキング」（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51SC1mN1AxVWt5MHZiVXJXZkZTeTZPaDJtQnNVUkU4VEwtdElZd0dNekFZOXFxY3AtZ3ZtaTdHWjVoQlRrM1ZIck9VaUprTWUwZ3pnOUFONXM3MXNSRXRFQUg1aDVWVUZn?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-08 13:22",
-   "published_iso": "2026-09-08T04:22:37+00:00"
-  },
-  {
-   "title": "紋別、北見で外国人無料相談会 12日と13日 在留資格や就労など対応",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nVW5tcnMyMnFxNjR5T29iXzduN2NmSWV0X0VzWFBpUEluOVJsN1o2SF9MNWdwWUNHM2ZBZmVubnN3MEdiaEx1dmRjTndXVTYza3l1dnNBanJSOFRFRmgyb3Bocmw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-08 12:57",
-   "published_iso": "2026-09-08T03:57:44+00:00"
   },
   {
    "title": "「欧州型かシンガポール型か、日本政府は指針示せ」 移民問題を英諮問委の元委員に聞く",
@@ -200,22 +224,6 @@
    "published_iso": "2026-09-07T09:57:00+00:00"
   },
   {
-   "title": "【劣悪】寮にネズミ 金属棒で殴打も…特定技能のミャンマー人男性が暴行被害訴え会見 町議らを刑事告訴へ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOEpSdGY1akNaOERXRjVVNk5Sb0NnMUFkQ2RPblpndVhVRldBM1VrdU5HN1JPODd1VDdIT0Fyb0Itc1FabDVlNFg2RFp0a082TnhFSnB5eWpJQQ?oc=5",
-   "source": "HTB 北海道テレビ",
-   "source_domain": "htb.co.jp",
-   "published": "2026-09-07 18:19",
-   "published_iso": "2026-09-07T09:19:00+00:00"
-  },
-  {
-   "title": "ＥＵ５か国、難民申請却下された移民の「送還拠点」域外設置で協議",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ncmVtbVNtaWZrQ0pQQWtiRDNBQlM2QUp6aV9MV0E4cDhCQlJSa0dKNm15U2pGbzVUSGU4VWFxTWx1SXExa1RyQjRZMktONHZ2YTlpQ3RQQTRRUEZfVzU5QVNmMDlUQQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-07 17:46",
-   "published_iso": "2026-09-07T08:46:00+00:00"
-  },
-  {
    "title": "胸元つかみ「文句あるなら」 特定技能ミャンマー人が町議告訴へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yS2UxbFJFQnk4M01veEI1YkpqZnlfU1BRQ3NwLWxWZXR4UnF2dnZoNTFjT3JXTDVKdHBlUjNaaEZNbjluQ3JmdUF5MHdvcUtJaVY1dEYyMGV0c0NQSFpGa0VyUm55aFln?oc=5",
    "source": "毎日新聞",
@@ -274,7 +282,7 @@
   {
    "title": "【速報】独反移民右派、単独過半数には届かず",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRRjhiQS1pWmdCS08xcFdOR3hIeTR3aGtXNDlUeEtwZGliOGhPRmkzdDVOUUUzM2lDSWxidWZfT3Z0cEF5OGV0LW54SQ?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-07 10:46",
    "published_iso": "2026-09-07T01:46:20+00:00"
@@ -288,17 +296,9 @@
    "published_iso": "2026-09-07T01:46:20+00:00"
   },
   {
-   "title": "独反移民右派、東部の州議会選で第１党",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TTEdkTHB0RzI1dG12MGdXNHh6U01wYkRtaHo0dUJkUjBPMlhBNDMzQ09ZOXI4Njg2ekJSalJwWFpCRlNmbU55a3JiRURWRFRMRlVaRDh3UFI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-07 10:28",
-   "published_iso": "2026-09-07T01:28:38+00:00"
-  },
-  {
    "title": "【速報】独反移民右派、東部の州議会選で第1党",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1scFNMR2w5TE1ySDNpVHVvRHZJSVBIdF9kVTY0TU1LalpPSGNnNTVLS2JOeFRXUjB5Q0ZEdElmTHZGWWM0aWU2ajdoYw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-07 10:28",
    "published_iso": "2026-09-07T01:28:38+00:00"
@@ -312,17 +312,9 @@
    "published_iso": "2026-09-06T20:54:29+00:00"
   },
   {
-   "title": "ドイツ反移民派が第1党の勢い 東部州、単独過半数が焦点",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KV2NhMXpPaWlRa0F1YUxYSXZvbGxxd0VXUEJzdC15X2xoN3VNSE1mdk0ySjR3WnktaERfMWhvV1JTUGlwazRoa0dRZUZiSzh3bkJWYWlzN3c1Zw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-07 05:42",
-   "published_iso": "2026-09-06T20:42:14+00:00"
-  },
-  {
    "title": "【速報】独州議会選、反移民右派が第1党の見通し",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqRTNUVzlqenlzalEtMjNxR1RKN3VVb0ZlazZPM3NwLWZ2YTFKNkM1am1DRXJ4T2dmNVR6aFBpb183VjBYNnJwaWwwaw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-07 03:00",
    "published_iso": "2026-09-06T18:00:27+00:00"
@@ -346,7 +338,7 @@
   {
    "title": "急変する「在留資格」に翻弄される外国人労働者たち 夢の寿司店オープン直後に…",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4N2JJc1gtdWoxV0YwYnEzMHVkVnZleGZ1cTlETVRiNlVJSXdKYlZYdDZCMlkzaVAtbFVyTFhqdjFqYk9WMF9tVW9hOA?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-06 09:40",
    "published_iso": "2026-09-06T00:40:00+00:00"
@@ -366,6 +358,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-09-06 08:00",
    "published_iso": "2026-09-05T23:00:00+00:00"
+  },
+  {
+   "title": "県の多文化共生認証制度 第1号に「ヤタロー」 海外12カ国から120人採用 浜松 ／静岡",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XZmZfM21GVjc0eHhURGVaM190YnpkVVdzSUszRmFUUHk1TkxwempQeDVkaFBwYXpMVFhnZGV0a2pLc1JzVFpjb1VqYmNjMmFwaGNHWEEwQWlKZTc0Qy1OWFJUdVVZamh6?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-06 05:01",
+   "published_iso": "2026-09-05T20:01:20+00:00"
   },
   {
    "title": "英改革党「政権取れば１００日以内に不法移民止める」…疑惑で逆風、反転攻勢へ党首が「反移民」アピール",
@@ -400,12 +400,12 @@
    "published_iso": "2026-09-05T10:55:00+00:00"
   },
   {
-   "title": "英右派党首、政権奪取を宣言 不法移民対策の強化訴え",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAweWNDa2ctWFdfcnYxNl9WNW5zUi1TU2x5LVFQNFVTT3FzREIycFd3SVdpU1hvY0lIdkN6UEJuSzFfclpqU2Z3OUZ0dVNwb3A3MzFjbkJjMzZNZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-05 07:45",
-   "published_iso": "2026-09-04T22:45:37+00:00"
+   "title": "トランプ政権、政策ＰＲでゲーム公開 移民拘束など５種類、セガのロゴ模倣し「ＭＡＧＡ」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LaFBOajU3R0hBeGFLUFdhOFcwY2M5Y290X3ZRclFFYi1LNVZyekdxUmFlX3czdUp5Z1ZCZW9lUmJRRUxpM1NwWXBsOWdMSGpUZVF4eGQwVnIyYUU5aVFhU3lzZw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-05 06:28",
+   "published_iso": "2026-09-04T21:28:00+00:00"
   }
  ]
 }
