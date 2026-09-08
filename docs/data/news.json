@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:32:57+00:00",
+ "generated_at": "2026-09-08T23:48:51+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "宿泊業界 外国人スタッフが存在感 28人働く仙台・秋保の緑水亭 働きぶりを評価",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MWJFR1NlTTBLVDdMVXZ1OHpSdTRlVFZBOWdaZDB2MGNpcjRfSW9zNzNjVzROYUNwZFdwMjhZZUhOeV9KZ2VoYTNSdE1ScFVDRzFISXJpeGZJeUlRTHdfNw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-09-09 08:00",
+   "published_iso": "2026-09-08T23:00:00+00:00"
+  },
   {
    "title": "毎小ニュース：国際 ドイツ州議選 「反移民」政党が第1党に",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wOXZMZmJUQklacmpnRzZsOVJvRVdKM2xPbmJCcmdKN0Qzcy1NYkZVUzQxa1lLM0VJSHZqdWFSMTZiaGtxSTlZR3pLLWJ5d0N2LUxkRm1XSDlOSFZYRXFCWVVpZE5Xalg5TmVvOXRPUXlSQQ?oc=5",
@@ -18,7 +26,7 @@
   {
    "title": "飲食店スタッフの英語対応は不要？ 京都の外国人旅行客から聞こえた要望とは",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fUjhoaFg2RGtCcXBWRUc1SkcxZk1NRGxTLXZ0YTZ6QkNGdzd3ejRxY1o3VkZCUmxCdEJqM25YVjNaRHkyVDJNRTM0N2NuUjhtY3hpam54Slg?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-09-09 06:00",
    "published_iso": "2026-09-08T21:00:00+00:00"
@@ -106,7 +114,7 @@
   {
    "title": "国際学力調査「日本1位」も手放しで喜べず OECD平均低下要因に移民増、デジタル化も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KbVF5TmlhRmRtRGRXYmpDbmFtMnYxWTZIZ1p4bmIxTWhGcU5TSjlfcHZPRlFFaTV2dEZvcHlyM3k2SEdnWGQtRFR6NkVBSU53U2dEVTA2RkVCazRWTzBoTUQwdkNPN2tyNjJOMkJjYzZKcGJSY1E?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-08 18:22",
    "published_iso": "2026-09-08T09:22:22+00:00"
@@ -130,7 +138,7 @@
   {
    "title": "紋別、北見で外国人無料相談会 12日と13日 在留資格や就労など対応",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwVnpveDVpV1M2RnVxM004eXdlV2ZWNDQtT3N1dkZoOFFaR2JmVktsRDV6VEx0d3lKQlYwNGx0cklHUDlGbWU5YV9mUQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-08 14:15",
    "published_iso": "2026-09-08T05:15:52+00:00"
@@ -138,7 +146,7 @@
   {
    "title": "「定住すると人口は増え続ける」 異文化統合の難しさも 移民問題をドイツ識者に聞く",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOXAyOWh2dGtwSE1xYWV4MVBPRmRiZ3ZtQ3FwT0piaFJ0bkFEbUFSYjZwS1JJWE9ZMlRDelZxY3dFNVdYVjBBZk8wYnRocEpqeU1RR0FPY3NvS2x2OWJJdkkwWEM5NVBLdmlvVnpKSEcwNTR3SVE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-08 14:00",
    "published_iso": "2026-09-08T05:00:00+00:00"
@@ -146,7 +154,7 @@
   {
    "title": "「欧州型かシンガポール型か、日本政府は指針示せ」 移民問題を英諮問委の元委員に聞く",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PSTd1NGlrYUhhUVZmT0FOdWFySDgwX1NucTMwNFVCbU14djlpeFVDeEcybFFUUU52NkQ3VVMzNXNtcmEwSFBJbjBDZzR6ak94VUxESFdYV29QR1ZkUTRIV3VTeEV3V0RUUmdyQXlGTVd1ekJfREE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-08 12:00",
    "published_iso": "2026-09-08T03:00:00+00:00"
@@ -162,7 +170,7 @@
   {
    "title": "欧州の中核ドイツに極右の波、反移民掲げるAfDが州議会選大勝 単独過半数には届かず",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FZXV5ZW5Ea0wyWWttNEtnNlRrUnBTLTBtTjNXbTBQVW1JU29icnZucFJQZElIWlhaNGZZNWNJbTBLMHpWWGVlajlIQWVDTkI5TDhUUk5B?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-08 06:00",
    "published_iso": "2026-09-07T21:00:00+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "独メルツ政権、有権者が「ノー」 州議会選、極右政党に惨敗 経済悪化、移民政策に怒り",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wY3JBYThPTHVSUXlrbi1MREI5NmE3Wjh4amFNMnplZ1ZybzFvZmRnaVE0Ukp2ZllwNG5pTXA0bm5TaVJTV2hwN1NMcEY5ZUZucGs0em4xVGJwd3VU?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-08 05:00",
    "published_iso": "2026-09-07T20:00:00+00:00"
@@ -194,7 +202,7 @@
   {
    "title": "ナチスと酷似“ドイツ的に考える” 反移民を掲げる“極右『AfD』州議会選挙”で圧勝",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqSkVBUUVnWmpNVldEa0JmaTMtdHZrMFZ6S2ZpSEYtalJTQWFjLVQzXzQ1dG9IX3dPYk43R1h3RnFMRVR0czdRdUJUbk56VjBmdW04UUN2RC1mQmE2Mi1lUTNWZnRZQzRxTldrdV9qVjdhT0Q0TlBpZnh3?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-08 01:14",
    "published_iso": "2026-09-07T16:14:00+00:00"
@@ -202,7 +210,7 @@
   {
    "title": "独州議選、反移民派第1党 メルツ独政権に「極右ショック」、州首相選出への連立交渉焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LT1BidjBIeGw2Q3VKbWdRejlVQ2tfUjFreUs5OWpZdkN3N0RnOG41THlZbmxHVFNoSEJhN1ZFWkR5OENhN0VaaFY5NldTY0UtTzFrX24zRWJQb1YwTncwOVJudlplNlBfV19ZdjlSVHRjcFhMSmc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-07 21:50",
    "published_iso": "2026-09-07T12:50:56+00:00"
@@ -266,23 +274,15 @@
   {
    "title": "鍵握る新興左派BSW 反移民と協力排除せず ドイツ東部の州の議会選",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwejFaTDRYY2VhMl9ILXE3OEtFcEZCbTBiMUxPcGFmVE44azBpc2xqYmdUNE9rekVtdnZUVmdPeXBzVHVtOFdwQVV1ZGpyaUgwN1ZqQVpkTVJkRFlyZW1yWTc3d1ktUFlJLUwzcmI0OXBncU42VEE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-07 12:17",
    "published_iso": "2026-09-07T03:17:54+00:00"
   },
   {
-   "title": "\"パニック状態だった\" 特定技能労働のミャンマー人 京極町の農業法人関係者から暴行を受けたとして告訴へ",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWDNlcXFoeS1ncDEwWkxqemZqdHl1VFBtX2VYSDc4b1dVWlYyVmQwSmxLNlppeE8zTk1NX2tTdzhIUDRVbzBBUld1OThGSzBKY2lCcjd3OEp2QQ?oc=5",
-   "source": "HTB 北海道テレビ",
-   "source_domain": "htb.co.jp",
-   "published": "2026-09-07 11:52",
-   "published_iso": "2026-09-07T02:52:00+00:00"
-  },
-  {
    "title": "【速報】独反移民右派、単独過半数には届かず",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRRjhiQS1pWmdCS08xcFdOR3hIeTR3aGtXNDlUeEtwZGliOGhPRmkzdDVOUUUzM2lDSWxidWZfT3Z0cEF5OGV0LW54SQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-07 10:46",
    "published_iso": "2026-09-07T01:46:20+00:00"
@@ -290,7 +290,7 @@
   {
    "title": "独反移民右派、単独過半数には届かず",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90WVBUclNVbU9jOVpfeEZmaDBzTTBFWEpyYTFjcnRiRnBhZWQxQVpSQTNJei12QzVkdW9ueXlFMnowV19vSmtJQWNMT0ZiR0lwbkRMbmRWa24?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-09-07 10:46",
    "published_iso": "2026-09-07T01:46:20+00:00"
@@ -298,7 +298,7 @@
   {
    "title": "【速報】独反移民右派、東部の州議会選で第1党",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1scFNMR2w5TE1ySDNpVHVvRHZJSVBIdF9kVTY0TU1LalpPSGNnNTVLS2JOeFRXUjB5Q0ZEdElmTHZGWWM0aWU2ajdoYw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-07 10:28",
    "published_iso": "2026-09-07T01:28:38+00:00"
@@ -306,15 +306,23 @@
   {
    "title": "ドイツ反移民派、第1党勢い 東部州での議会選、単独過半数に届くかが焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhYk1jNDZlODdEZ052d29MTjJUa00xSGk1ZFNpa3NQakRjQnJMWGJoQ3dVU3lqc0s2SGI0WF9iU1NDZFdJSEtnOERfTGowTDhVb3VVU2oxYjVBNjJ2UTk4Y0p5WU5heTZnNXZDV01oY1EySnZ4a0E?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-07 05:54",
    "published_iso": "2026-09-06T20:54:29+00:00"
   },
   {
+   "title": "ドイツ反移民派が第1党の勢い 東部州、単独過半数が焦点",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KV2NhMXpPaWlRa0F1YUxYSXZvbGxxd0VXUEJzdC15X2xoN3VNSE1mdk0ySjR3WnktaERfMWhvV1JTUGlwazRoa0dRZUZiSzh3bkJWYWlzN3c1Zw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-07 05:42",
+   "published_iso": "2026-09-06T20:42:14+00:00"
+  },
+  {
    "title": "【速報】独州議会選、反移民右派が第1党の見通し",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqRTNUVzlqenlzalEtMjNxR1RKN3VVb0ZlazZPM3NwLWZ2YTFKNkM1am1DRXJ4T2dmNVR6aFBpb183VjBYNnJwaWwwaw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-07 03:00",
    "published_iso": "2026-09-06T18:00:27+00:00"
@@ -322,7 +330,7 @@
   {
    "title": "独州議会選、反移民右派が第１党の見通し",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42RHdVV0hoSjRLRC1oS1hGMFRya3ZlV21EU1hzbW9uMWl1dzRIZnRUZ2QyN3JPYVUzN3pqbVlqTDNxekxtSlRHbUUxUjBJXzRRR2gxWDZUS2c?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-09-07 03:00",
    "published_iso": "2026-09-06T18:00:27+00:00"
@@ -330,7 +338,7 @@
   {
    "title": "ドイツ東部州で反移民派が第1党の勢い 州議会選、初の政権掌握か焦点",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84aHFXbzZZZ1BvMFRldWhFR1UwdzR2N3FxQUdoeS1RcUltLW9SejhnM0hiamExT3VVaF9wdXhYWTE1NHNVQWdRanp0OEJ3MnlrTS13d0xRR2RiYXpvY0EzWFV2Q2Q0UjFjNUdlVWFBVDZCNHlmaXc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-06 16:04",
    "published_iso": "2026-09-06T07:04:10+00:00"
@@ -338,7 +346,7 @@
   {
    "title": "急変する「在留資格」に翻弄される外国人労働者たち 夢の寿司店オープン直後に…",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4N2JJc1gtdWoxV0YwYnEzMHVkVnZleGZ1cTlETVRiNlVJSXdKYlZYdDZCMlkzaVAtbFVyTFhqdjFqYk9WMF9tVW9hOA?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-06 09:40",
    "published_iso": "2026-09-06T00:40:00+00:00"
@@ -386,26 +394,18 @@
   {
    "title": "「外食業」で受け入れ停止 激化する外国人“引き抜き合戦”と地方の人手不足の実態",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTU24yQm5GZkpIVnAzaEVaRmZUcUpLQ0dWN09XZDFIRVF3YnBKN1lZOFVKMmNLQzJDZ3RFMWd0TWZCeEJFSnZjWFRsdEJKN2hqTkJLN0dJYnV5LWZkSWctR0lPVTcxdG9wMDJyYkhzWkpSdw?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-06 01:39",
    "published_iso": "2026-09-05T16:39:00+00:00"
   },
   {
-   "title": "「日本語」学習が生きる希望…ウクライナ人学生の思い（2026年9月5日掲載）",
+   "title": "「日本語」学習が生きる希望…ウクライナ人学生の思い（2026年9月5日掲載）｜日テレNEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUdWbXNWVXN3QnJuUUxORGdYaFJ0TzAtUGh2Rkdra0s5R1M3cER5cU0wQU51em91b2xnRHAteHA3SGN5VFVESlFiWkFOczUxUG1HNTQ3Y185a2gwVHV5QzlHdUdPN29sTzJUaEk1YXhYT3lxMnNYMkVfZGFXdXdheFdUNWk?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-05 19:55",
    "published_iso": "2026-09-05T10:55:00+00:00"
-  },
-  {
-   "title": "トランプ政権、政策ＰＲでゲーム公開 移民拘束など５種類、セガのロゴ模倣し「ＭＡＧＡ」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LaFBOajU3R0hBeGFLUFdhOFcwY2M5Y290X3ZRclFFYi1LNVZyekdxUmFlX3czdUp5Z1ZCZW9lUmJRRUxpM1NwWXBsOWdMSGpUZVF4eGQwVnIyYUU5aVFhU3lzZw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-05 06:28",
-   "published_iso": "2026-09-04T21:28:00+00:00"
   }
  ]
 }
