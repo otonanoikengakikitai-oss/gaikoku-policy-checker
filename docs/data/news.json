@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T14:07:26+00:00",
+ "generated_at": "2026-09-08T18:17:16+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -17,7 +17,7 @@
   },
   {
    "title": "英首相、反不法移民デモ受け「毒の政治」批判",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vT2tBYmt2ZC1UNENUbC1Ic2FtX2pUem1QR2pSNE9QcXlpU1o3cThjRUdmSjVoRlFVWHpMN3lEUThyQk42V3FlanpZVG9Fd09ELXdvMU5kSWtOTzR1SFdZRXdiMmdwQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GempYX2QtNFJZYWUzMk9xQ3gzeldheVJJajBnYzNWMWs3aXlieWJFREVBeEVuNVdPVERsY0hLeUJkSmRzSUlsZUJzcXRiMzdVSW9Fell2REZwSE1uVEdBWmZUVEhJRTZyajc0Z2Z6aUZCMUc0aENjclc2Ny12T0U?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-08 20:14",
@@ -80,14 +80,6 @@
    "published_iso": "2026-09-08T09:22:22+00:00"
   },
   {
-   "title": "“4人に1人が外国人”多国籍化する東京・府中刑務所 フローリングにベッド、原則個室 “豚肉禁食”など宗教や食文化にも対応",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlZTZkdm51cmpxSUpybmRiVHFnWWRKNmZHRTlnQlVTc3dVYlNBTUlRQXFncHRqN1E2UEpZcUQ4djIwcmRxREsxbTlYTE12Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-08 17:09",
-   "published_iso": "2026-09-08T08:09:00+00:00"
-  },
-  {
    "title": "「浴衣は涼しいけど足湯は熱い!?」Bリーグ愛媛の外国人選手らが道後で開幕PR 蛇口みかんジュースに感激",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSTZDWGVLdks1QlY2TnNkdTA4bVYwNDBiOS1CMngwVFNlUDdqWGdFSFBrb181TXo5eWFPVWdFYzVaSWNyUVNsUHNvMHpkLVIxVEhNeGc1LUxEZw?oc=5",
    "source": "TBS NEWS DIG",
@@ -136,30 +128,6 @@
    "published_iso": "2026-09-08T03:00:00+00:00"
   },
   {
-   "title": "WSJ日本版：ロンドン悩ますスーパーカー駐車違反、多くは外国人",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMX3czelREWGVEb010T0NVbkFVZ1R4WENyZnVMcHZxd0FpWWJOV2NFSjl6RnNPVFhhTUU2TWhSZUJyWUZXNHI5Mmh6VWI3QTl0dHlsM3BObUFWZUIwdmNlNng3ZEMzOVJw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-08 11:48",
-   "published_iso": "2026-09-08T02:48:00+00:00"
-  },
-  {
-   "title": "特定技能外国人受け入れを担う建設技能人材機構（JAC）、WOVN.io で16言語対応",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZFhST0RhOV9JZVUtcjA3WDRYaWNTTHVySzBYVDdsbElaQWZYR3VSaE4ydlhoUjJ6MmVhYWRlWWlNS1l3OXo1VVJvdHJHcE5nMlBzUkZidDJYakNISG5MZGQzXzY1MUJDZE1R?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-08 11:16",
-   "published_iso": "2026-09-08T02:16:00+00:00"
-  },
-  {
-   "title": "三重県 外国人除外「意図的でない」…県民アンケ訴訟 津地裁で第１回弁論：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CQV9yWG9kUUhtYUxHbnhjQjBNNnRuUjFiQ3F2VnFSWTZoWk5VRFgzZTY2WmpHZXprVmlKNWhHTnVtQldtSm9iekdkaTBXaS1NT0NLUGRrZGNCX2d4UjdhWC1DSW9qSzlFemkwemFCUEM?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-08 10:40",
-   "published_iso": "2026-09-08T01:40:00+00:00"
-  },
-  {
    "title": "ＡｆＤ、愛国心うたい移民攻撃 過激な主張、ナチスほうふつ―独州議選",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5icThxM3lDekVJcVVBT0hCSXRMVFNCRGtSZEJ1OTlRdHdmYUxmV3draWVDOVFGZ0RlNTdWNVo3a0QwM3VQbF83YzFPb01SMGFGc1ctT2M0UkdvdndRNXY1UVdkUQ?oc=5",
    "source": "時事ドットコム",
@@ -198,14 +166,6 @@
    "source_domain": "asahi.com",
    "published": "2026-09-08 05:00",
    "published_iso": "2026-09-07T20:00:00+00:00"
-  },
-  {
-   "title": "外国人材が高める企業の育成力 臼井一博氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pX0h3Ty1MRXNLMk90QUU5RENqeHJuZ2xUTTBESnA5MkxOc3dYZndseC1FelVnT25Lajl3SkFsMHJKQmd3YWkxbVN5WGhmLU5BbXktbUhWNU5WcUNvZWIxcUUwbE05Q1hCWmZCRg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-08 02:00",
-   "published_iso": "2026-09-07T17:00:00+00:00"
   },
   {
    "title": "ナチスと酷似“ドイツ的に考える” 反移民を掲げる“極右『AfD』州議会選挙”で圧勝",
@@ -258,7 +218,7 @@
   {
    "title": "胸元つかみ「文句あるなら」 特定技能ミャンマー人が町議告訴へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yS2UxbFJFQnk4M01veEI1YkpqZnlfU1BRQ3NwLWxWZXR4UnF2dnZoNTFjT3JXTDVKdHBlUjNaaEZNbjluQ3JmdUF5MHdvcUtJaVY1dEYyMGV0c0NQSFpGa0VyUm55aFln?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-07 17:30",
    "published_iso": "2026-09-07T08:30:22+00:00"
@@ -290,7 +250,7 @@
   {
    "title": "棒で殴られ…特定技能外国人が告発 北海道の町議らを刑事告訴へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ2sxeDFfeTZZTDFoVFFFWDRrZVRCaHp1b0xuUGVpZ2NpNTZILWlmc2h3N25CUUN2cHBTa0htTFZIVWVZRGdoQ25RX2xqZUN3cEh0VjhBQ0loM2FvTnNNbVV4TmxiYzF0?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-07 12:32",
    "published_iso": "2026-09-07T03:32:26+00:00"
@@ -320,6 +280,14 @@
    "published_iso": "2026-09-07T01:46:20+00:00"
   },
   {
+   "title": "独反移民右派、単独過半数には届かず",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90WVBUclNVbU9jOVpfeEZmaDBzTTBFWEpyYTFjcnRiRnBhZWQxQVpSQTNJei12QzVkdW9ueXlFMnowV19vSmtJQWNMT0ZiR0lwbkRMbmRWa24?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-09-07 10:46",
+   "published_iso": "2026-09-07T01:46:20+00:00"
+  },
+  {
    "title": "独反移民右派、東部の州議会選で第１党",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TTEdkTHB0RzI1dG12MGdXNHh6U01wYkRtaHo0dUJkUjBPMlhBNDMzQ09ZOXI4Njg2ekJSalJwWFpCRlNmbU55a3JiRURWRFRMRlVaRDh3UFI?oc=5",
    "source": "京都新聞デジタル",
@@ -342,6 +310,14 @@
    "source_domain": "sankei.com",
    "published": "2026-09-07 05:54",
    "published_iso": "2026-09-06T20:54:29+00:00"
+  },
+  {
+   "title": "ドイツ反移民派が第1党の勢い 東部州、単独過半数が焦点",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KV2NhMXpPaWlRa0F1YUxYSXZvbGxxd0VXUEJzdC15X2xoN3VNSE1mdk0ySjR3WnktaERfMWhvV1JTUGlwazRoa0dRZUZiSzh3bkJWYWlzN3c1Zw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-07 05:42",
+   "published_iso": "2026-09-06T20:42:14+00:00"
   },
   {
    "title": "【速報】独州議会選、反移民右派が第1党の見通し",
@@ -386,7 +362,7 @@
   {
    "title": "「反移民」英改革党、勢いに陰り 党首の「過ち」、新興政党も…",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tQWdpRUlLMzY0akpiNm1jdUNJTlVBdGNqeEdwRkZxRWNTSEgzNDM1SWdqcVZMUUFHNmNQNjd0emdBbVhqWWs2YkhmeERIZGd4V2ItY1lfS0V3RE5PblZDRmZFVXVfVU5P?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-06 08:00",
    "published_iso": "2026-09-05T23:00:00+00:00"
@@ -400,12 +376,36 @@
    "published_iso": "2026-09-05T20:00:00+00:00"
   },
   {
+   "title": "「反移民」英改革党に陰り 党首が失態、新興極右と票割れ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Lb3p2TVR4aXhRUVlqUkh6UzRyUFJkdWN1VkpEbGhYVmdQZHE2dFlGQmdZLWgtQmZFSVpuUS04MXVCOEttMFRFMGV1NURxSTVienU1ZG5ua1BBRmx0VU4xX2w4bm9tUTdR?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-06 02:00",
+   "published_iso": "2026-09-05T17:00:56+00:00"
+  },
+  {
+   "title": "「外食業」で受け入れ停止 激化する外国人“引き抜き合戦”と地方の人手不足の実態",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTU24yQm5GZkpIVnAzaEVaRmZUcUpLQ0dWN09XZDFIRVF3YnBKN1lZOFVKMmNLQzJDZ3RFMWd0TWZCeEJFSnZjWFRsdEJKN2hqTkJLN0dJYnV5LWZkSWctR0lPVTcxdG9wMDJyYkhzWkpSdw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-06 01:39",
+   "published_iso": "2026-09-05T16:39:00+00:00"
+  },
+  {
    "title": "「日本語」学習が生きる希望…ウクライナ人学生の思い（2026年9月5日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUdWbXNWVXN3QnJuUUxORGdYaFJ0TzAtUGh2Rkdra0s5R1M3cER5cU0wQU51em91b2xnRHAteHA3SGN5VFVESlFiWkFOczUxUG1HNTQ3Y185a2gwVHV5QzlHdUdPN29sTzJUaEk1YXhYT3lxMnNYMkVfZGFXdXdheFdUNWk?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-05 19:55",
    "published_iso": "2026-09-05T10:55:00+00:00"
+  },
+  {
+   "title": "英右派党首、政権奪取を宣言 不法移民対策の強化訴え",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAweWNDa2ctWFdfcnYxNl9WNW5zUi1TU2x5LVFQNFVTT3FzREIycFd3SVdpU1hvY0lIdkN6UEJuSzFfclpqU2Z3OUZ0dVNwb3A3MzFjbkJjMzZNZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-05 07:45",
+   "published_iso": "2026-09-04T22:45:37+00:00"
   }
  ]
 }
