@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T17:32:11+00:00",
+ "generated_at": "2026-09-09T20:23:52+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,7 +34,7 @@
   {
    "title": "京極の農場、外国人虐待否定し謝罪せず 初の団体交渉 徴収金など返還へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12RS1oYlk5UmhIVlQ2UGpuTFlKNEZya1NyZXpRYWRlZWxjbFAtTmh2UWlORFlQMHBlR3BxMEF3NE9TMl9PaDZnMkROR24tVF9JbkJfQS1Od0c3Zw?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-09 19:19",
    "published_iso": "2026-09-09T10:19:19+00:00"
@@ -42,7 +42,7 @@
   {
    "title": "【解説】団体交渉のポイント 外国人暴行問題の事実関係は 農業法人側から謝罪の言葉なし 北海道",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3RkaXp2MVpwZ1JtTTBJYWs0TkUxYUs3N3JVaXp4NGlYUTNpanFBNm1TdnR2d1FRSEJEWkNzWUk1RWkwT004WFRORTQ3QWVhaXNZT3BDbmVNUkw5S2F6VThhczMxbVdMQzFmQkkxX3NRb3l4LTdxbVNWc1R2UVRjYXRScDZXa2M?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-09 18:40",
    "published_iso": "2026-09-09T09:40:00+00:00"
@@ -50,7 +50,7 @@
   {
    "title": "カギは外国人選手の活躍か 開幕まであと２週間に迫るプロバスケBプレミア スサノオマジックが練習を公開 鬼ごっこを取り入れたユニークなメニューなどで練習に励む 島根県",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3dDTXhDQmF6d19wOVZaSUZvZm1POEs4Vk9GRkF4MnBDeUR5X3dVdGJ4dGFiTS04U3FvZXhhTDV6R0N2WDJ3YWhQdDM5Y3RpTmgwamJUaTg4RDJfN0N5cTBvcFBhenF0dUpYQVdZQXlqSENlbllHWUFOV0ZNNkJob1hsYzlKZw?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-09 18:39",
    "published_iso": "2026-09-09T09:39:00+00:00"
@@ -128,6 +128,14 @@
    "published_iso": "2026-09-09T08:30:57+00:00"
   },
   {
+   "title": "オーストラリア留学ビザ、承認率が過去最低 移民削減方針で審査厳格化―２５年度",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktrSHlfZVg2N09Ic1JmLTVxZUhjTTNieUoxRnVmbnJhSDVGOUxYUlZaUzRYZkFnT2xCX0gzQUg3NC1JVDdQSEg1ZThsMkdOSTYtYUh5ZjZBYlM1RE56VUg4ZG9MT3pCY0VUWTdWMG9wajlqMzZBV1JrSXVtUVY4WA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-09 16:21",
+   "published_iso": "2026-09-09T07:21:00+00:00"
+  },
+  {
    "title": "講演会「居場所難民－教育取材の現場から－」 2026年9月26日(土) | 福岡おでかけ・イベント情報",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GdUpKN3BocE4tOFVOd0gxZTJEamdkbjduaDNkVjM5eWZoRnhXVUlmUUJVT3JteDNNeUpiWm1sVmE0N29vNnpBOGVtSjA2VVh1RTFSb2V0ZFpaWkE1WEE?oc=5",
    "source": "西日本新聞me",
@@ -192,22 +200,6 @@
    "published_iso": "2026-09-08T23:00:00+00:00"
   },
   {
-   "title": "毎小ニュース：国際 ドイツ州議選 「反移民」政党が第1党に",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wOXZMZmJUQklacmpnRzZsOVJvRVdKM2xPbmJCcmdKN0Qzcy1NYkZVUzQxa1lLM0VJSHZqdWFSMTZiaGtxSTlZR3pLLWJ5d0N2LUxkRm1XSDlOSFZYRXFCWVVpZE5Xalg5TmVvOXRPUXlSQQ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-09 06:04",
-   "published_iso": "2026-09-08T21:04:34+00:00"
-  },
-  {
-   "title": "飲食店スタッフの英語対応は不要？ 京都の外国人旅行客から聞こえた要望とは",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fUjhoaFg2RGtCcXBWRUc1SkcxZk1NRGxTLXZ0YTZ6QkNGdzd3ejRxY1o3VkZCUmxCdEJqM25YVjNaRHkyVDJNRTM0N2NuUjhtY3hpam54Slg?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-09 06:00",
-   "published_iso": "2026-09-08T21:00:00+00:00"
-  },
-  {
    "title": "宮崎弁学び介護技能向上 県、外国人材定着へ研修会",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53ZkQ1WHFfbzFLT3MyZjJzLWt3TVZmLWJFMGNyeE9RZHZXLURlejJWaFFsLS1DeGFpQzRrRFF4Q3FiY0tqOFNONk1oaw?oc=5",
    "source": "47NEWS",
@@ -234,7 +226,7 @@
   {
    "title": "＜社説＞外国人虐待疑い 事実の早急な説明必要だ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM3hpaThGeDEtVGpJQkdMd0pILXM5aDgzc3NHTW1KVzdyUVZlYWU4YklidGlLX1hXdF9mV2E2U29PVjMzczdvc2hrekFVcS0zLThCMXJUZVYtQQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-08 20:00",
    "published_iso": "2026-09-08T11:00:00+00:00"
@@ -330,7 +322,7 @@
   {
    "title": "独メルツ政権、有権者が「ノー」 州議会選、極右政党に惨敗 経済悪化、移民政策に怒り",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wY3JBYThPTHVSUXlrbi1MREI5NmE3Wjh4amFNMnplZ1ZybzFvZmRnaVE0Ukp2ZllwNG5pTXA0bm5TaVJTV2hwN1NMcEY5ZUZucGs0em4xVGJwd3VU?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-09-08 05:00",
    "published_iso": "2026-09-07T20:00:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "jiji.com",
    "published": "2026-09-07 14:32",
    "published_iso": "2026-09-07T05:32:00+00:00"
+  },
+  {
+   "title": "棒で殴られ…特定技能外国人が告発 北海道の町議らを刑事告訴へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BQ2sxeDFfeTZZTDFoVFFFWDRrZVRCaHp1b0xuUGVpZ2NpNTZILWlmc2h3N25CUUN2cHBTa0htTFZIVWVZRGdoQ25RX2xqZUN3cEh0VjhBQ0loM2FvTnNNbVV4TmxiYzF0?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-07 12:32",
+   "published_iso": "2026-09-07T03:32:26+00:00"
   }
  ]
 }
