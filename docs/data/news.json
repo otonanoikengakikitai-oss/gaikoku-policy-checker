@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T20:23:52+00:00",
+ "generated_at": "2026-09-09T22:54:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "オーストラリア留学生ビザ拒否、過去10年で最高水準 移民規制",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTEI1aFJrMUlMOE5JQ2xBM1c4NmE5dWNJeU1sc0xJQkZmSkFvSk5sTVpZcFQ5dGhOaWU4YjdmYkdmbE03dEwtWGVZNjlDSmsxOE1TUUxYYXNXVEtYeS1yWlV5aWRpS3FPZFplTg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-10 06:50",
+   "published_iso": "2026-09-09T21:50:00+00:00"
+  },
   {
    "title": "巨人の新打線が機能 上位に両外国人、セオリー無視で難敵攻略",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hVGt1ZklHVG9HWVhaVVNsQXVRZ21TOUNmR1JodXhsUDBjUnpCZFBlX3Q1YVhqeDJocjQ4QjJJNUVQOUktQVlaenFLZFozM2xCQ2xSWHMwc0xCQ1Y0dlRZelozQWZwR0Zi?oc=5",
@@ -34,7 +42,7 @@
   {
    "title": "京極の農場、外国人虐待否定し謝罪せず 初の団体交渉 徴収金など返還へ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12RS1oYlk5UmhIVlQ2UGpuTFlKNEZya1NyZXpRYWRlZWxjbFAtTmh2UWlORFlQMHBlR3BxMEF3NE9TMl9PaDZnMkROR24tVF9JbkJfQS1Od0c3Zw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-09 19:19",
    "published_iso": "2026-09-09T10:19:19+00:00"
@@ -42,7 +50,7 @@
   {
    "title": "【解説】団体交渉のポイント 外国人暴行問題の事実関係は 農業法人側から謝罪の言葉なし 北海道",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ3RkaXp2MVpwZ1JtTTBJYWs0TkUxYUs3N3JVaXp4NGlYUTNpanFBNm1TdnR2d1FRSEJEWkNzWUk1RWkwT004WFRORTQ3QWVhaXNZT3BDbmVNUkw5S2F6VThhczMxbVdMQzFmQkkxX3NRb3l4LTdxbVNWc1R2UVRjYXRScDZXa2M?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-09 18:40",
    "published_iso": "2026-09-09T09:40:00+00:00"
@@ -50,18 +58,10 @@
   {
    "title": "カギは外国人選手の活躍か 開幕まであと２週間に迫るプロバスケBプレミア スサノオマジックが練習を公開 鬼ごっこを取り入れたユニークなメニューなどで練習に励む 島根県",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3dDTXhDQmF6d19wOVZaSUZvZm1POEs4Vk9GRkF4MnBDeUR5X3dVdGJ4dGFiTS04U3FvZXhhTDV6R0N2WDJ3YWhQdDM5Y3RpTmgwamJUaTg4RDJfN0N5cTBvcFBhenF0dUpYQVdZQXlqSENlbllHWUFOV0ZNNkJob1hsYzlKZw?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-09 18:39",
    "published_iso": "2026-09-09T09:39:00+00:00"
-  },
-  {
-   "title": "「外国人女性」に誘われ…暗号資産346万円詐欺被害 下野市の男性",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12dVJtSVZjbkVxUEQ5S2JtZDdGUUhyNnl0Sm5qZFZwNnhuX0RPZF9naG5DYndSZDhaS1NaZzBMalhEZ19jRVZTVm9KZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-09 18:16",
-   "published_iso": "2026-09-09T09:16:00+00:00"
   },
   {
    "title": "「育成就労」に関する有識者会議の会合",
@@ -192,14 +192,6 @@
    "published_iso": "2026-09-09T01:45:00+00:00"
   },
   {
-   "title": "宿泊業界 外国人スタッフが存在感 28人働く仙台・秋保の緑水亭 働きぶりを評価",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16MWJFR1NlTTBLVDdMVXZ1OHpSdTRlVFZBOWdaZDB2MGNpcjRfSW9zNzNjVzROYUNwZFdwMjhZZUhOeV9KZ2VoYTNSdE1ScFVDRzFISXJpeGZJeUlRTHdfNw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-09-09 08:00",
-   "published_iso": "2026-09-08T23:00:00+00:00"
-  },
-  {
    "title": "宮崎弁学び介護技能向上 県、外国人材定着へ研修会",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53ZkQ1WHFfbzFLT3MyZjJzLWt3TVZmLWJFMGNyeE9RZHZXLURlejJWaFFsLS1DeGFpQzRrRFF4Q3FiY0tqOFNONk1oaw?oc=5",
    "source": "47NEWS",
@@ -226,7 +218,7 @@
   {
    "title": "＜社説＞外国人虐待疑い 事実の早急な説明必要だ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM3hpaThGeDEtVGpJQkdMd0pILXM5aDgzc3NHTW1KVzdyUVZlYWU4YklidGlLX1hXdF9mV2E2U29PVjMzczdvc2hrekFVcS0zLThCMXJUZVYtQQ?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-08 20:00",
    "published_iso": "2026-09-08T11:00:00+00:00"
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-09-07 12:32",
    "published_iso": "2026-09-07T03:32:26+00:00"
+  },
+  {
+   "title": "鍵握る新興左派BSW 反移民と協力排除せず ドイツ東部の州の議会選",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwejFaTDRYY2VhMl9ILXE3OEtFcEZCbTBiMUxPcGFmVE44azBpc2xqYmdUNE9rekVtdnZUVmdPeXBzVHVtOFdwQVV1ZGpyaUgwN1ZqQVpkTVJkRFlyZW1yWTc3d1ktUFlJLUwzcmI0OXBncU42VEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-07 12:17",
+   "published_iso": "2026-09-07T03:17:54+00:00"
   }
  ]
 }
