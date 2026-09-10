@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T21:23:08+00:00",
+ "generated_at": "2026-09-10T23:42:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -122,7 +122,7 @@
   {
    "title": "25年前にアルカーイダがまいた「テロの種」各地に 移民排除の動きが養分となる恐れ",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvbF8wOURRT2Qwbld2UFJNVE1kRGluNkpXYW51d1p4aVRMSDl5LTcyMXZkR1pOekJiUlFodU9PQWxxZkdFRUhNYjg4NnBFYS1sRjJ2cFoxeXRkdWtINXlvVTVueUJFT0VVcXhLSVZzdzdZWXAxZVE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-10 17:38",
    "published_iso": "2026-09-10T08:38:57+00:00"
@@ -152,17 +152,9 @@
    "published_iso": "2026-09-10T07:16:00+00:00"
   },
   {
-   "title": "外国人を人手不足の警備業で採用検討 警察庁有識者会議設置",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LVUlmaDFzbklHaHZsTHd0R2ZuZ091ZTliRkxkRUR3ckxvNnd1Mi1PeW5HZXpReFRaX3o1U0h5cFd1WmJfU21aQUxkNVlPTVg2cFB6WmphTTFRb2JKdFRmSkhwQXh4UVdR?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-10 13:52",
-   "published_iso": "2026-09-10T04:52:39+00:00"
-  },
-  {
    "title": "警備業で育成就労と特定技能で受け入れ議論 警察庁が有識者検討会設置",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wVlJmbk4tOGw5U0Vpd19zYkRGZGFVRFBwYW1INDdVNU1Fcm1DcXJUZWdGTS1KaC1OWTlYLU1kWnlhY0hYNDJtbVJnVTRwWTNUazhvc2dOcktjOWkxSWRHblJPM2VrUWN3WkNtWldJVnpOT2U4TFE?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-10 12:08",
    "published_iso": "2026-09-10T03:08:02+00:00"
@@ -210,7 +202,7 @@
   {
    "title": "国境管理でスペイン支援 EU、205億円を拠出 モロッコからの移民押し寄せで",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tT1pfcTlEdU85RVdDb2dkQjJLQmhFNFk5TVlIMWRTRFNlSjA1MU9HOEptX2c3SDFOX3VtclZKUWtBTnpoc1dSOVBkSmdzLUV0cVJyWjI4cU4wLV81MUduM2xadGxYR2dQZGhxS3RXS01KVlNBUXc?oc=5",
-   "source": "産経ニュース",
+   "source": "sankei.com",
    "source_domain": "sankei.com",
    "published": "2026-09-10 08:28",
    "published_iso": "2026-09-09T23:28:56+00:00"
@@ -290,7 +282,7 @@
   {
    "title": "育成就労、「航空」分野を追加へ",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNU9KOHJHeDRjUlhHQXJhVlYxZXJKV3NneTNLdW9ac01LS1BwU0luNDB2Y0VTMlZ1Y1kzU2tOTmtZcGR0VjVqYi1tcG9PdHk4Y19QbFg3RDE?oc=5",
-   "source": "京都新聞デジタル",
+   "source": "kyoto-np.co.jp",
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-09-09 17:46",
    "published_iso": "2026-09-09T08:46:43+00:00"
@@ -384,16 +376,8 @@
    "published_iso": "2026-09-08T11:00:00+00:00"
   },
   {
-   "title": "中国5県の1〜6月宿泊者5%増、外国人8%増 鳥取・山口は2割増",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSFZqSDNqVHp3VC1BbUZobEp1U3FhenZaVzE2QkpFMF9KclBINGJKTnl0WEc5akxMOVZpUmttR1JjZDNYRldJV2RKN05acGpwX2Q3c1lXekpkRW51WFQyY2xwdUlyUEllb0ZoZA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-08 19:37",
-   "published_iso": "2026-09-08T10:37:18+00:00"
-  },
-  {
    "title": "介護現場を担う外国人が増加する中 宮崎県内で働く特定技能実習生たちがリアルな「宮崎弁」を学ぶ講座",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfYmxES09MRGU5Q1FjdkltWlZRbDUwdENfaFc1UVBjV1NzX04tcG9WeG9GMThrTXJvd0g0QlVSYWIzSUZua3FCLXEzbHZBOVhMS0J3Y193c0Ytdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GQ2FsMFdlMjZmdVF3ZlhLQnpNaHRNZUJiZ3JXQWpDQUMtd3FDSzVucmhIQUliSTFVa1dvMllsSzVNUkNKWGpCOUJpU2lKY2VMZjZ0NlFFUjZoeWE1OWo5UWRSaGV1NTQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-08 19:11",
@@ -406,6 +390,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-08 19:00",
    "published_iso": "2026-09-08T10:00:00+00:00"
+  },
+  {
+   "title": "国際学力調査「日本1位」も手放しで喜べず OECD平均低下要因に移民増、デジタル化も",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KbVF5TmlhRmRtRGRXYmpDbmFtMnYxWTZIZ1p4bmIxTWhGcU5TSjlfcHZPRlFFaTV2dEZvcHlyM3k2SEdnWGQtRFR6NkVBSU53U2dEVTA2RkVCazRWTzBoTUQwdkNPN2tyNjJOMkJjYzZKcGJSY1E?oc=5",
+   "source": "sankei.com",
+   "source_domain": "sankei.com",
+   "published": "2026-09-08 18:22",
+   "published_iso": "2026-09-08T09:22:22+00:00"
+  },
+  {
+   "title": "「定住すると人口は増え続ける」 異文化統合の難しさも 移民問題をドイツ識者に聞く",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOXAyOWh2dGtwSE1xYWV4MVBPRmRiZ3ZtQ3FwT0piaFJ0bkFEbUFSYjZwS1JJWE9ZMlRDelZxY3dFNVdYVjBBZk8wYnRocEpqeU1RR0FPY3NvS2x2OWJJdkkwWEM5NVBLdmlvVnpKSEcwNTR3SVE?oc=5",
+   "source": "sankei.com",
+   "source_domain": "sankei.com",
+   "published": "2026-09-08 14:00",
+   "published_iso": "2026-09-08T05:00:00+00:00"
   }
  ]
 }
