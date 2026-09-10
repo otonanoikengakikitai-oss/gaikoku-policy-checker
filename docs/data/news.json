@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T14:48:13+00:00",
+ "generated_at": "2026-09-10T18:04:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -34,34 +34,18 @@
   {
    "title": "巨人・マルティネス、史上最年少、史上最速で250セーブ！古巣・中日戦で達成 外国人ではラミレス以来2人目の名球会、育成出身では初：中日スポーツ・東京中日スポーツ",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BLVBKclpETUhwajItUEcwZV9UQ09acEdVWlV6anptbHJOMG9kOURXbXdiX0JhQU9oVHczTW9GNzRYamxHZzF1c2E3TDhOeWNFOXBmMQ?oc=5",
-   "source": "chunichi.co.jp",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-09-10 21:04",
    "published_iso": "2026-09-10T12:04:03+00:00"
   },
   {
-   "title": "富士山シーズン終え4ルート閉山 山梨側17万人、外国人3割",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVnNCTkp1MUU2N1lVT2VSNVZwejMtSVhaQndIR0FVRXFRTm1GUXpJbkthMlRwT2dOMG1uVkMzYy1vN0RVWmdqNjRXdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-10 20:58",
-   "published_iso": "2026-09-10T11:58:00+00:00"
-  },
-  {
    "title": "「外国人がタイヤを盗もうとしている」住宅の車庫からタイヤ4本を盗もうとした疑い ブラジル国籍の男(42)を逮捕 新潟・三条市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NZU1KSTU0Y0RtRVowSGlVcVhodXNpakloMm55TmppbkhOaVViYTQzNGVDamp3N3lmajFtd2tTRHFNb3lQVHlWbW1nT3YtaXJfQzQ5TTVuaw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-10 20:39",
    "published_iso": "2026-09-10T11:39:00+00:00"
-  },
-  {
-   "title": "閉山の富士山に「駆け込み登山客」殺到 スタッフが軽装の外国人観光客に注意する場面も 山梨県「登山控えて」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qUGl1eHE3N1htX2tvZzJpd2UtUWpQNnVmNDJFM21iZFRLazdaRzlwaFRmcmhMNUZiSm41MHdpREU0SGEtSTYtcGJ6RXphdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-10 19:44",
-   "published_iso": "2026-09-10T10:44:00+00:00"
   },
   {
    "title": "外国人傷病者へ話しかけ方学ぶ 日南の救急隊員研修",
@@ -138,10 +122,18 @@
   {
    "title": "小学生が共生社会と向き合う特別授業 脳性マヒの作家を講師に…絵手紙教室で伝える思い",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4td3JUNEJnXzlreWZGaklrMkdtS255cmg5cl9PcHNhdFVVR1B2TU1rZk5jVjIxb3pSQ1dxT245X2FyLXI5TVBlMURnRzdTeWpjazdHYlZhSktoQQ?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-10 16:16",
    "published_iso": "2026-09-10T07:16:00+00:00"
+  },
+  {
+   "title": "外国人を人手不足の警備業で採用検討 警察庁有識者会議設置",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LVUlmaDFzbklHaHZsTHd0R2ZuZ091ZTliRkxkRUR3ckxvNnd1Mi1PeW5HZXpReFRaX3o1U0h5cFd1WmJfU21aQUxkNVlPTVg2cFB6WmphTTFRb2JKdFRmSkhwQXh4UVdR?oc=5",
+   "source": "mainichi.jp",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-10 13:52",
+   "published_iso": "2026-09-10T04:52:39+00:00"
   },
   {
    "title": "警備業で育成就労と特定技能で受け入れ議論 警察庁が有識者検討会設置",
@@ -162,7 +154,7 @@
   {
    "title": "“警備業”人材不足深刻化の中…在留資格「特定技能」などを持つ外国人の受け入れ議論 有識者検討会設置へ 警察庁",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lS3J0eEh2SjFyb0FocElrSndLY0tpLXItLUpJNTYtenZYcks2dkZqc3FxZ3FaX3AwTkFiVldyNVlBVUhOOUNKanpEWXNLXzhVcVpsWjBPYw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-10 11:45",
    "published_iso": "2026-09-10T02:45:55+00:00"
@@ -226,7 +218,7 @@
   {
    "title": "いざという時に備え 外国人向け救命講習 米国出身者ら8人参加 長崎市消防初企画 ／長崎",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DX2VEVmoxdVYtVjdKNkdwRUpNV1R3VC1uYV9xaWF1bHZLa2NlenprblkxYUtQZlFqQmRieVc2WXlYT09icUpSWU5ROEM0RDZfaHpNYUlBbG0zQWh3Mjh1WlNOc1FvVGhx?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-10 05:03",
    "published_iso": "2026-09-09T20:03:07+00:00"
@@ -242,7 +234,7 @@
   {
    "title": "外食業の特定技能、受け入れ再開未定 現場では「ギリギリ」の声",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBURmRuOHVmZEdZZnRVTWJNNGJmQS13TXNHVTItTHdrcDVBbDdCd2ZwS1ptOTlGU2FIZC1CZmJiZmlrNWpPNldvVHFQcHdLZlI4dW5nSWJKanBDa2dIQkJyT3RSX2FwcGQ4?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-09 19:28",
    "published_iso": "2026-09-09T10:28:26+00:00"
@@ -250,7 +242,7 @@
   {
    "title": "暴行被害など訴える特定技能ミャンマー人6人が初の団体交渉「顔を見るのが怖い」農業法人側は未払い賃金に応じるもセクハラは否定",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QT2NIcWhXVWVhM2h5UVZZRzRXSnZjdW9LUUNlSDJJdTdhbnFSN3RCNTRNSzMxdm1UcERwU1ZIeWlJbTZEZFhMTzhoV1BQTUthbjBlcGNsVDZFbHVSS0FTbFZXZE03UWc?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-09 18:33",
    "published_iso": "2026-09-09T09:33:00+00:00"
@@ -330,7 +322,7 @@
   {
    "title": "暴行や暴言、性被害など訴えるミャンマー人特定技能の男女6人 虐待の即時停止や未払い賃金の支給など求め北海道京極町の農業法人と団体交渉",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RXFtSDFkNWJoYml5SEZlRGhaT3RyQ1lNQVA1VEJiYmVXU3IwSHotR1ktRndsd2xBelVBZmRseTZWRGVtR1NmMjJaNmtCclozLTBCU1VjNXloaHpqdGhDN2Z3b3llWk0?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-09 10:45",
    "published_iso": "2026-09-09T01:45:00+00:00"
@@ -362,23 +354,15 @@
   {
    "title": "＜社説＞外国人虐待疑い 事実の早急な説明必要だ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RM3hpaThGeDEtVGpJQkdMd0pILXM5aDgzc3NHTW1KVzdyUVZlYWU4YklidGlLX1hXdF9mV2E2U29PVjMzczdvc2hrekFVcS0zLThCMXJUZVYtQQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-08 20:00",
    "published_iso": "2026-09-08T11:00:00+00:00"
   },
   {
-   "title": "中国5県の1〜6月宿泊者5%増、外国人8%増 鳥取・山口は2割増",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lSFZqSDNqVHp3VC1BbUZobEp1U3FhenZaVzE2QkpFMF9KclBINGJKTnl0WEc5akxMOVZpUmttR1JjZDNYRldJV2RKN05acGpwX2Q3c1lXekpkRW51WFQyY2xwdUlyUEllb0ZoZA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-08 19:37",
-   "published_iso": "2026-09-08T10:37:18+00:00"
-  },
-  {
    "title": "介護現場を担う外国人が増加する中 宮崎県内で働く特定技能実習生たちがリアルな「宮崎弁」を学ぶ講座",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfYmxES09MRGU5Q1FjdkltWlZRbDUwdENfaFc1UVBjV1NzX04tcG9WeG9GMThrTXJvd0g0QlVSYWIzSUZua3FCLXEzbHZBOVhMS0J3Y193c0Ytdw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-08 19:11",
    "published_iso": "2026-09-08T10:11:00+00:00"
@@ -402,10 +386,26 @@
   {
    "title": "実習先で面識のない30代女性に無理やりキスなど 不同意わいせつ容疑で21歳フィリピン人技能実習生の男を逮捕「友達になれたと思った」北海道函館市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bVE2N0FvV3ptOVc0WkN3UkZwVjlVR3Ixd2cwa2RCRDJPcWhwUlNBYW5MSUxWUGM1NjFld1lZeEZyNWYzMHBPS2VhQmI5NDB1NU9CU2Ftaw?oc=5",
-   "source": "newsdig.tbs.co.jp",
+   "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-08 16:35",
    "published_iso": "2026-09-08T07:35:00+00:00"
+  },
+  {
+   "title": "「定住すると人口は増え続ける」 異文化統合の難しさも 移民問題をドイツ識者に聞く",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOXAyOWh2dGtwSE1xYWV4MVBPRmRiZ3ZtQ3FwT0piaFJ0bkFEbUFSYjZwS1JJWE9ZMlRDelZxY3dFNVdYVjBBZk8wYnRocEpqeU1RR0FPY3NvS2x2OWJJdkkwWEM5NVBLdmlvVnpKSEcwNTR3SVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-08 14:00",
+   "published_iso": "2026-09-08T05:00:00+00:00"
+  },
+  {
+   "title": "「欧州型かシンガポール型か、日本政府は指針示せ」 移民問題を英諮問委の元委員に聞く",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PSTd1NGlrYUhhUVZmT0FOdWFySDgwX1NucTMwNFVCbU14djlpeFVDeEcybFFUUU52NkQ3VVMzNXNtcmEwSFBJbjBDZzR6ak94VUxESFdYV29QR1ZkUTRIV3VTeEV3V0RUUmdyQXlGTVd1ekJfREE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-08 12:00",
+   "published_iso": "2026-09-08T03:00:00+00:00"
   }
  ]
 }
