@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T19:26:57+00:00",
+ "generated_at": "2026-09-11T22:14:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-12 05:00",
+   "published_iso": "2026-09-11T20:00:00+00:00"
+  },
+  {
+   "title": "北海道：函館ＰＲ外国人目線で フィリピンからインフルエンサー 「ぜひ訪れて」：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtLVZTQ1lHaDJWYmZkZ3NKZFQ2aG1oLWVhLV82cFF0dnJPSG9NZWhLRXZlM25JckQycnhuYzNwTnhPTEIwdUM1RmRjRER6TF9NSFV1TTlBa1c5X1RUSW5QaDFuSEhOQUJKTHRrNGdkNUtUWVJD?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-12 05:00",
+   "published_iso": "2026-09-11T20:00:00+00:00"
+  },
+  {
+   "title": "特定技能給与「違法天引き」 東京地裁 ラーメン店側 支払い命令",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GbWE2QXVjWDhFRmY2ZDUtN2JCNlYwZ3R0LXVCVUtMekpuWEVJTUVyaTlxa040Y3VkTUM3YnRoN0RaWkl2TmszSFA0RkNRbDRwUnF4NjVDQUNhUGE3SWRMV0tzZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-12 05:00",
+   "published_iso": "2026-09-11T20:00:00+00:00"
+  },
+  {
+   "title": "欧州の移民、何が問題？ 住民の不安解消が重要に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XcGFQb25ZTlAwOFVHTG41ZHJ6R2JmZGxIR0daWWRnNFdtTl81TV9rYUkxcXV4UHJKVHlCMkwyQkR1YTFtM1pXa1NLb1MwRWYwLVpFUThFc3RBLU5mRlEwTXlFNzkyUzdQOFpuOA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-12 05:00",
+   "published_iso": "2026-09-11T20:00:00+00:00"
+  },
   {
    "title": "特定技能のミャンマー人女性給与から違法天引き、ラーメン店側に１００万円超支払い命令",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWHJjajNHX25mYTQ4blE3MkJsc1JFbGVKbF9JdVRXMUkybG15c2dqUEhxYUpwaXZiUHBIbGc1b2JsTzhUOTI2Nm9pN3JVdXpybEhZVFoxaFJFOWZuMzkzcFdFVFRJdw?oc=5",
@@ -56,14 +88,6 @@
    "published_iso": "2026-09-11T09:30:00+00:00"
   },
   {
-   "title": "外国籍の生活保護認めず 「違憲」反対意見も―最高裁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GV25qWC0tUUpmU2p2cGFTakhQZFQ3Y0pjM2V0dWVUUnU0MGlSUnVkSVl0b1pyc2Fta1hBLTRGdHNFVUZzY3hqd1UyUjdDVFlaaEdMZjlEOV9pbS1mYnViX29Pcw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-11 18:10",
-   "published_iso": "2026-09-11T09:10:00+00:00"
-  },
-  {
    "title": "【訃報】長谷川閑史さん死去 80歳 元武田薬品工業社長・経済同友会代表幹事 社長時代は後任に外国人社長を招聘 労働規制緩和などに尽力",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtTjIyc00wcGNQWG13SjRZaUxYN2NnMlFHRmE0cGJyUTVRVVltbzJObUhrVXdJcGRlSnNVZ3prTVh1MVktdFdwUHRYQTNKSUZLS3NDTzhQUQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -89,8 +113,8 @@
   },
   {
    "title": "「自衛隊に外国人」提言の真意は 歴代首相と近い笹川平和財団、防衛相は否定",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sRlZwaXhTQXNVVGs5dlNTbEVWa21xdW5Hdm9JWlBtZFE5RFlVMTBBSUFza28xNWp4OGVBUGRveGtDSkExZWRRTVVhdm8yMmNsUkdiSExydGtBWkhOUFpadTVWOXM?oc=5",
-   "source": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pNUlCbUVGVzFEQTRxZGRDSXItNkVvclA0cXVaOHlZYkVOQlRFNTFfUi16RzJVWEpMRE9xT01FdVRCNWFPZVp0aTRBS0RTWFBBbjVsRQ?oc=5",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-09-11 16:00",
    "published_iso": "2026-09-11T07:00:00+00:00"
@@ -98,7 +122,7 @@
   {
    "title": "記者会見する平口法相＝11日午前、法務省 - 入管庁、他省庁と合同で調査へ 外国人の不法就労対策 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QVFQzd04xTmNlX3RTSGhZb21yVk16N3lVazJMQmR5YlFWXzJlX1Uxcl9YQmlaTW8zYlNWRkZOM2hmYVNkV09GZlBWMVVTUEdJMUpNWmZzUQ?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-11 15:23",
    "published_iso": "2026-09-11T06:23:04+00:00"
@@ -138,7 +162,7 @@
   {
    "title": "「移民は脅威」米国で消えぬイスラムへの敵意 トランプ政権下で深まる分断 イスラム教徒の市長誕生も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xLXRwVkhSM2cwUTNqbklPYzEyY0U1UHcxZFU3VDN5eTFEdVN2Y2VjMnp2ZjBsSHpINi1yMjFKTTZyeWx1NGx4VnRiVENSMkpEWmxQMnZR?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-11 06:00",
    "published_iso": "2026-09-10T21:00:00+00:00"
@@ -282,7 +306,7 @@
   {
    "title": "外国人材の受け入れ制度「育成就労」の運用などを話し合う政府の有識者会議＝9日午後、法務省 - 育成就労、「航空」分野を追加へ 政府、有識者会議に提示 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EMlJMTzNlXzd6cVl2d0N4NmZjQU9JY21UYjB1cFIxTnFDOWN1SU9JZTdkdXlfU3YzSmtLTFRDUncwSUc4bUZsa1dxNUYyNEp1aWN1LTNXbw?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-09 19:44",
    "published_iso": "2026-09-09T10:44:54+00:00"
@@ -362,7 +386,7 @@
   {
    "title": "講演会「居場所難民－教育取材の現場から－」 2026年9月26日(土) | 福岡おでかけ・イベント情報",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GdUpKN3BocE4tOFVOd0gxZTJEamdkbjduaDNkVjM5eWZoRnhXVUlmUUJVT3JteDNNeUpiWm1sVmE0N29vNnpBOGVtSjA2VVh1RTFSb2V0ZFpaWkE1WEE?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-09 13:25",
    "published_iso": "2026-09-09T04:25:13+00:00"
@@ -382,30 +406,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-09 12:24",
    "published_iso": "2026-09-09T03:24:00+00:00"
-  },
-  {
-   "title": "「親族ができなかった沖縄での墓参り」 ブラジル移民3世の旅を映画に 「オキナワ・サウダージ」来春公開",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qa2Z0ckR3V3lFc19IUzIza3ZfTmZqdElQcGUtRVYzTHI2d25KMjlWaXNnOGRCRUgzRy1Yd2dMNWpnWlhiTDVsVXhvbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-09 11:18",
-   "published_iso": "2026-09-09T02:18:00+00:00"
-  },
-  {
-   "title": "暴行や暴言、性被害など訴えるミャンマー人特定技能の男女6人 虐待の即時停止や未払い賃金の支給など求め北海道京極町の農業法人と団体交渉",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RXFtSDFkNWJoYml5SEZlRGhaT3RyQ1lNQVA1VEJiYmVXU3IwSHotR1ktRndsd2xBelVBZmRseTZWRGVtR1NmMjJaNmtCclozLTBCU1VjNXloaHpqdGhDN2Z3b3llWk0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-09 10:45",
-   "published_iso": "2026-09-09T01:45:00+00:00"
-  },
-  {
-   "title": "宮崎弁学び介護技能向上 県、外国人材定着へ研修会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53ZkQ1WHFfbzFLT3MyZjJzLWt3TVZmLWJFMGNyeE9RZHZXLURlejJWaFFsLS1DeGFpQzRrRFF4Q3FiY0tqOFNONk1oaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-09 06:00",
-   "published_iso": "2026-09-08T21:00:00+00:00"
   }
  ]
 }
