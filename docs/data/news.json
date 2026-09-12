@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T22:14:33+00:00",
+ "generated_at": "2026-09-12T00:53:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人との「共生」説く高校公民教科書 参政権などの制限「再検討すべき」と実教出版 教科書はこう書いている",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeklYNkxCanZSU2tSaTQ5UkEtRWUwc0dZcm9DSjFzUjhnekxOR2RpUzFya2RxamNndUZ1a1h1NGt5MTJUNnl1OUNwOEtkcWtyOTl1Mkl4RVg1TDFDVjNIWmV1VDBodEVuNHFrZWtkcUppLUtoVlE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-12 09:00",
+   "published_iso": "2026-09-12T00:00:00+00:00"
+  },
+  {
+   "title": "読めなくても自由を感じて 外国人参加者が体験した書の魅力",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESU5oU2FVOW8yYXRyZzJCR3UyYU5UVjFlY1c2MVJjWDl1cGQzQ0tpMUhzUTVvNWdad2NrRjVmcGNkcmQ5QkVqTmJLYldwV0xpNlMzSldOUktLSGtVckpHdy02VldfR0dQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-12 08:15",
+   "published_iso": "2026-09-11T23:15:00+00:00"
+  },
   {
    "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
@@ -104,28 +120,12 @@
    "published_iso": "2026-09-11T08:02:00+00:00"
   },
   {
-   "title": "「明日楽しみ」身長203センチのソフトバンク新外国人右腕が1軍初マウンドへ 12日ロッテ戦に先発",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUDRuTGQ3VE5PR0tRdnNqaUNlOEpwZFVqUnlLODBmc3ZjR1lOQjV1UXVqTUdWYVB0WmUzRVA4aDRhZnkwYndNb3A4aDBwNE9lY3hiQ3Z6YmtyNjhLc0lV?oc=5",
-   "source": "西スポWEB OTTO!",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-11 16:37",
-   "published_iso": "2026-09-11T07:37:54+00:00"
-  },
-  {
    "title": "「自衛隊に外国人」提言の真意は 歴代首相と近い笹川平和財団、防衛相は否定",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pNUlCbUVGVzFEQTRxZGRDSXItNkVvclA0cXVaOHlZYkVOQlRFNTFfUi16RzJVWEpMRE9xT01FdVRCNWFPZVp0aTRBS0RTWFBBbjVsRQ?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-09-11 16:00",
    "published_iso": "2026-09-11T07:00:00+00:00"
-  },
-  {
-   "title": "記者会見する平口法相＝11日午前、法務省 - 入管庁、他省庁と合同で調査へ 外国人の不法就労対策 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QVFQzd04xTmNlX3RTSGhZb21yVk16N3lVazJMQmR5YlFWXzJlX1Uxcl9YQmlaTW8zYlNWRkZOM2hmYVNkV09GZlBWMVVTUEdJMUpNWmZzUQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-11 15:23",
-   "published_iso": "2026-09-11T06:23:04+00:00"
   },
   {
    "title": "移民拘束、「日系人収容」なぞらえ 保釈なし方針退ける―米控訴裁",
@@ -201,9 +201,9 @@
   },
   {
    "title": "使わなくなった服、世界の難民の子どもたちに 高森町の中学生が募る",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TRklRbVlHcVJHdFBRYkFhTnFOUFNSZW9ubUpFVmtlcXg1YTVoYUFuVWp3anUyajFBRXQ2Sm12X18weHZSSGdSbVpsbk85Y3pKLW40bDdNWW9sSGswLXFUV2h1ZklzSGIyLWlSMDJlRjg?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pTnVORGozRjhOUTZDd1V0UjVlY0tiTHBPblN1YklaSnBXT2pvOXotamFWNWFCM0hrMWdmMHo2NkFXTGhUYllSWkFBZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-09-10 18:58",
    "published_iso": "2026-09-10T09:58:00+00:00"
   },
@@ -264,14 +264,6 @@
    "published_iso": "2026-09-10T01:09:55+00:00"
   },
   {
-   "title": "国境管理でスペイン支援 EU、205億円を拠出 モロッコからの移民押し寄せで",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tT1pfcTlEdU85RVdDb2dkQjJLQmhFNFk5TVlIMWRTRFNlSjA1MU9HOEptX2c3SDFOX3VtclZKUWtBTnpoc1dSOVBkSmdzLUV0cVJyWjI4cU4wLV81MUduM2xadGxYR2dQZGhxS3RXS01KVlNBUXc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-10 08:28",
-   "published_iso": "2026-09-09T23:28:56+00:00"
-  },
-  {
    "title": "なぜ？群馬県の外国人と日本人で「意識のギャップ」 アンケートで「差別経験ない」も「治安不安」も増加",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eVRIbTFZTnZfWG41MDEybEljeXU0Tk5BWGhrQVdZZ3VzX0NxTVVjbTFBSzROU0FPSTdhb1M3cEZOQ0N2MlFzd1dzWWFGM252b3Iw?oc=5",
    "source": "東京新聞",
@@ -294,6 +286,14 @@
    "source_domain": "asahi.com",
    "published": "2026-09-10 06:00",
    "published_iso": "2026-09-09T21:00:00+00:00"
+  },
+  {
+   "title": "特定技能外国人受け入れを担う建設技能人材機構（JAC）、WOVN.io で16言語対応",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZFhST0RhOV9JZVUtcjA3WDRYaWNTTHVySzBYVDdsbElaQWZYR3VSaE4ydlhoUjJ6MmVhYWRlWWlNS1l3OXo1VVJvdHJHcE5nMlBzUkZidDJYakNISG5MZGQzXzY1MUJDZE1R?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-10 04:40",
+   "published_iso": "2026-09-09T19:40:00+00:00"
   },
   {
    "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
