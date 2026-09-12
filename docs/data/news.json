@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T13:51:18+00:00",
+ "generated_at": "2026-09-12T16:44:02+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -16,9 +16,17 @@
    "published_iso": "2026-09-12T11:40:00+00:00"
   },
   {
+   "title": "ソフトバンク新外国人ラトリッジ、来日初先発で初勝利 小久保監督「大津の穴をしっかり埋めてくれましたね」",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkOXJNVE41U1JWekhXMktLS2NKaFFsemh0Tnh5ZG9uUVMxXy04N3YzVUdZN041OS1TZFhpMGxhSGlOZnU5X0xKcTR0YmdXOGs4b2YwYm9wZ1RtNjU4N09F?oc=5",
+   "source": "西スポWEB OTTO!",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-12 19:11",
+   "published_iso": "2026-09-12T10:11:06+00:00"
+  },
+  {
    "title": "ソフトバンクホークス、5連勝で優勝マジック「8」 来日初先発の新外国人ラトリッジが初勝利",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mcDRIMWdRSmtLNjJqMUtJWkZqc1ZGMThvd09raExybE5DZDdrdEJuNlh0TG5uOFZjYklIOXlyZjI5M3ZfR1B0YklXUHZJU0NwdF9BemNB?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-12 16:59",
    "published_iso": "2026-09-12T07:59:00+00:00"
@@ -26,7 +34,7 @@
   {
    "title": "外国人ドライバー養成「クロフネ」 県支援・実装事業枠の第１号に 大館市で合宿、年度内３０人目指す",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yM2hYNTN4cnhzVHJSQVpNSnhrS3ZpY3lTLWtKVC1kRk1CWExBSWZKamIwR2tXNnBCZzZaajZBczBrbTVNbF9PaDc2SQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-12 12:30",
    "published_iso": "2026-09-12T03:30:00+00:00"
@@ -57,16 +65,16 @@
   },
   {
    "title": "難民の子へ届ける服の回収呼びかけ 長野県高森町・高森中生が町内外15カ所に箱設置",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuUGtsMkJCUEZoMExZSlhrY202TDNvbkd5cVFFaU1qdzdQa0lBZE5XMmJUMXVZQmxHNUw1MGoyUzY1dXRrQ2ZmVGdGNA?oc=5",
-   "source": "47news.jp",
-   "source_domain": "47news.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzSWQyQmxwZUxzUnBiVDQ3aklmWEY3RUFZa2Fwb3ZOSDREYURDTE14bFByUk94U2VINnRJLVlzaU9zLTJodDN0bzJLd3EwSVNvZnEtRQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
    "published": "2026-09-12 05:05",
    "published_iso": "2026-09-11T20:05:00+00:00"
   },
   {
    "title": "北海道：函館ＰＲ外国人目線で フィリピンからインフルエンサー 「ぜひ訪れて」：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtLVZTQ1lHaDJWYmZkZ3NKZFQ2aG1oLWVhLV82cFF0dnJPSG9NZWhLRXZlM25JckQycnhuYzNwTnhPTEIwdUM1RmRjRER6TF9NSFV1TTlBa1c5X1RUSW5QaDFuSEhOQUJKTHRrNGdkNUtUWVJD?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
@@ -82,7 +90,7 @@
   {
    "title": "特定技能給与「違法天引き」 東京地裁 ラーメン店側 支払い命令",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GbWE2QXVjWDhFRmY2ZDUtN2JCNlYwZ3R0LXVCVUtMekpuWEVJTUVyaTlxa040Y3VkTUM3YnRoN0RaWkl2TmszSFA0RkNRbDRwUnF4NjVDQUNhUGE3SWRMV0tzZw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
@@ -98,7 +106,7 @@
   {
    "title": "特定技能のミャンマー人女性給与から違法天引き、ラーメン店側に１００万円超支払い命令",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWHJjajNHX25mYTQ4blE3MkJsc1JFbGVKbF9JdVRXMUkybG15c2dqUEhxYUpwaXZiUHBIbGc1b2JsTzhUOTI2Nm9pN3JVdXpybEhZVFoxaFJFOWZuMzkzcFdFVFRJdw?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-11 20:16",
    "published_iso": "2026-09-11T11:16:00+00:00"
@@ -176,9 +184,9 @@
    "published_iso": "2026-09-11T02:43:00+00:00"
   },
   {
-   "title": "外国人にも人気の「宿坊」で申告漏れか…計1億円超 宗教法人、なにが課税？（2026年9月10日掲載）｜日テレNEWS NNN",
+   "title": "外国人にも人気の「宿坊」で申告漏れか…計1億円超 宗教法人、なにが課税？（2026年9月10日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kbFFHRWIzMXNRSkRjRDc3RnZxYUdSd2dyRFFGY0tOU2ZHdERLLXZsZjNHZlVyOFdsQUlpUEROVnI0WEVERlFGRExSemdQRmVJMzlmT0xkaXJVTmlSUVR3cjM4QlE3ZGJpaU9nVFVrcDU5UkJSNDRoZ3ZUUFI?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-11 06:22",
    "published_iso": "2026-09-10T21:22:00+00:00"
@@ -186,7 +194,7 @@
   {
    "title": "「移民は脅威」米国で消えぬイスラムへの敵意 トランプ政権下で深まる分断 イスラム教徒の市長誕生も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xLXRwVkhSM2cwUTNqbklPYzEyY0U1UHcxZFU3VDN5eTFEdVN2Y2VjMnp2ZjBsSHpINi1yMjFKTTZyeWx1NGx4VnRiVENSMkpEWmxQMnZR?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-11 06:00",
    "published_iso": "2026-09-10T21:00:00+00:00"
@@ -198,14 +206,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-11 05:00",
    "published_iso": "2026-09-10T20:00:00+00:00"
-  },
-  {
-   "title": "巨人のマルティネスが通算２５０セーブ プロ野球６人目、外国人初",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5OGZvdi1keXBkNWt6Q1pja19OSkVuSWxUeFptZmRpUEdneXE0YWRIYklLUDBMWU5jVWdxa2oybkxSck8ySEQ3WVBnRGN1SzBqOG1XcU5zazkyN2llZG5pb3Mtdw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-10 21:50",
-   "published_iso": "2026-09-10T12:50:00+00:00"
   },
   {
    "title": "プロ野球:巨人マルティネスが通算250セーブ 外国人投手で初の到達",
@@ -226,7 +226,7 @@
   {
    "title": "使わなくなった服、世界の難民の子どもたちに 高森町の中学生が募る",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pTnVORGozRjhOUTZDd1V0UjVlY0tiTHBPblN1YklaSnBXT2pvOXotamFWNWFCM0hrMWdmMHo2NkFXTGhUYllSWkFBZw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-10 18:58",
    "published_iso": "2026-09-10T09:58:00+00:00"
@@ -258,7 +258,7 @@
   {
    "title": "外国人宿泊者が急増 世界遺産の高野山 複数の宗教法人が宿坊の収益など１億円の申告漏れ",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0FCZEVDX1VTd29aTnZjTC1RN29faTBXdjNWWGEzb01Qd3RJeHRINW00a3A3bm9QMktIaVZSa2NmTTFsdHdQa1FSV2FVMDJCZ1R5VHgwRi05VllRRUgtcXVnS3ZHOHVxLTlyZjdfWDVhS0xXWHN0d3JaZmxseWNiazhKYXdaUTg?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-10 12:02",
    "published_iso": "2026-09-10T03:02:00+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "外国人材の受け入れ制度「育成就労」の運用などを話し合う政府の有識者会議＝9日午後、法務省 - 育成就労、「航空」分野を追加へ 政府、有識者会議に提示 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EMlJMTzNlXzd6cVl2d0N4NmZjQU9JY21UYjB1cFIxTnFDOWN1SU9JZTdkdXlfU3YzSmtLTFRDUncwSUc4bUZsa1dxNUYyNEp1aWN1LTNXbw?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-09 19:44",
    "published_iso": "2026-09-09T10:44:54+00:00"
@@ -362,7 +362,7 @@
   {
    "title": "農場関係者のセクハラ否定 特定技能ミャンマー人訴え",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1La1N6c2ZpUEtQVUk2b1hTWURjamVERm1nOXViUERDb1huS1A2M0VUaWFzX3JLbERZQUFtZUkzZFJkYUd4NXJTd3FDVQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-09 17:54",
    "published_iso": "2026-09-09T08:54:31+00:00"
