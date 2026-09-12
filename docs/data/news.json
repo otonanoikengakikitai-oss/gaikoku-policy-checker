@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T05:23:24+00:00",
+ "generated_at": "2026-09-12T10:04:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "京都・嵐山の渡月橋で清掃活動 「せっかくなら」外国人観光客や修学旅行生にも呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tdTQwLUFXaVBldktOM3JlN0Vua29KY3JISktwZmhpSVUxX0dRbXk0OXBBXy0yTzFfY2pvZDZ6bEQwMTI3RVRJdnpaWmdnWVptYzNSaWpnM2Q?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-09-12 17:25",
+   "published_iso": "2026-09-12T08:25:00+00:00"
+  },
+  {
+   "title": "ソフトバンク新外国人ラトリッジ、ロッテ打線に5回1失点の好投 来日初登板で初勝利の権利",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKM0dDYWtOMURGX0lZbzAzLUlaZjdmUjAxVmYxSy1jcGxudzBROWd4em0tcG5wMmlZMGZhbDRnNE8tZkQtR2VVWHRzalhQYXkxN3hRZmQyZHBjcldxbmJz?oc=5",
+   "source": "西スポWEB OTTO!",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-12 15:42",
+   "published_iso": "2026-09-12T06:42:42+00:00"
+  },
   {
    "title": "外国人ドライバー養成「クロフネ」 県支援・実装事業枠の第１号に 大館市で合宿、年度内３０人目指す",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yM2hYNTN4cnhzVHJSQVpNSnhrS3ZpY3lTLWtKVC1kRk1CWExBSWZKamIwR2tXNnBCZzZaajZBczBrbTVNbF9PaDc2SQ?oc=5",
@@ -42,10 +58,18 @@
   {
    "title": "読めなくても自由を感じて 外国人参加者が体験した書の魅力",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESU5oU2FVOW8yYXRyZzJCR3UyYU5UVjFlY1c2MVJjWDl1cGQzQ0tpMUhzUTVvNWdad2NrRjVmcGNkcmQ5QkVqTmJLYldwV0xpNlMzSldOUktLSGtVckpHdy02VldfR0dQ?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-12 08:15",
    "published_iso": "2026-09-11T23:15:00+00:00"
+  },
+  {
+   "title": "難民の子へ届ける服の回収呼びかけ 長野県高森町・高森中生が町内外15カ所に箱設置",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WWXhqRTQzTjRZbmM1dU0yX2V6MW10Y0JKMmU4NjQ2SjlEWURoM0R3b0ZxSTRwamctbXZGZDRsYlJXT1VLeUdsN3M2TnJCaFZabndNWTRTWmdYZXV5aklGX2xqUQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-09-12 05:05",
+   "published_iso": "2026-09-11T20:05:00+00:00"
   },
   {
    "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
@@ -88,14 +112,6 @@
    "published_iso": "2026-09-11T11:16:00+00:00"
   },
   {
-   "title": "ビザ料金、７倍に 日本側の値上げに合わせ―在日中国大使館",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zdWZsM1ZEYTBJbWZuRnJsRjlRcnNKU0MyM25pQ190Q0NzYlVTS21XcFBicF9nYlhjcEc0S0JYWlFoeXdVUENpZWdMNmFqNC1wc0V2cXA5TC1UcUtsc1hueFEwOA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-11 19:21",
-   "published_iso": "2026-09-11T10:21:00+00:00"
-  },
-  {
    "title": "ベルトコンベアに巻き込まれ死亡 モンゴル国籍の男性技能実習生 死因は脳挫傷 広島・呉",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQzd6dEg3VDB3WVpDOFdEMjJPSGdXNEx5dnA4ZGhudlJjdTlsSGxob0w5MzNoUUhaQzJPV3B1YlJKUTlCWGpNRkg5M3hud2JQbTJhNzYxVm9MNTNnZUNhT2NuQVFvbHc?oc=5",
    "source": "TBS NEWS DIG",
@@ -120,20 +136,20 @@
    "published_iso": "2026-09-11T09:53:53+00:00"
   },
   {
+   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRFBNdVJhejJIMk9pa0pEdENENmltU1NmTXVpaHFRMjJtRGtIVVg1WGRmb1E0d0tFcFBwUzc5cl9iME1TUEhOMkdnZjBTVGJzcVBRVllvVGJ3OERxWUZXVjdXTQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-11 18:49",
+   "published_iso": "2026-09-11T09:49:00+00:00"
+  },
+  {
    "title": "療養中の外国人の生活保護、不支給「適法」確定 最高裁決定",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zdjBVeWM1M3NKN0VVWVlqTzBXbThFcU9NRng2alV2VEFxdW5lTFF1dE5lRWZVMC1DM25iN2Z1bDBWYmswVDdJMzh2TExZZ2pXbVlKTlJMUUNFdU5mWVBhQ3Y4OHloRml6U1BCYw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-09-11 18:30",
    "published_iso": "2026-09-11T09:30:00+00:00"
-  },
-  {
-   "title": "【訃報】長谷川閑史さん死去 80歳 元武田薬品工業社長・経済同友会代表幹事 社長時代は後任に外国人社長を招聘 労働規制緩和などに尽力",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtTjIyc00wcGNQWG13SjRZaUxYN2NnMlFHRmE0cGJyUTVRVVltbzJObUhrVXdJcGRlSnNVZ3prTVh1MVktdFdwUHRYQTNKSUZLS3NDTzhQUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-11 17:07",
-   "published_iso": "2026-09-11T08:07:50+00:00"
   },
   {
    "title": "モロッコ、セウタ不法移民殺到への関与否定「なぜ送還しないのか」",
@@ -154,7 +170,7 @@
   {
    "title": "特定技能の給与違法天引き ラーメン店側に支払い命令 東京地裁",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMTNFV21ZNER5UjJfUEFPY1I1QXlSdHlkVEhmY0hvQXVldmZSbHNqd1I1dUhhaWg3SUJ5MDZULU1mdF9aYTF0UTIxYXlfNkpkbkw1SFYwT0JHdEh5VGtTSExrbmJvUklG?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-11 13:15",
    "published_iso": "2026-09-11T04:15:03+00:00"
@@ -264,14 +280,6 @@
    "published_iso": "2026-09-10T02:30:00+00:00"
   },
   {
-   "title": "ブラジル移民3世の旅を映画に 来春公開「オキナワ・サウダージ」 [沖縄県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNkYzSG5DX0FUSXE2cS15ZU1mVkdLR2lJSlNVdWFsZUpQSUctX1dsYzJiRU5RSGNYbHVPaEVGRGRaY3lMNG9wbUE5R19VX3pPT2dySTU4Yk5SdWV0a2dmNzZqVGhEUFE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-10 11:30",
-   "published_iso": "2026-09-10T02:30:00+00:00"
-  },
-  {
    "title": "「特定技能」に警備員追加検討 警察庁が有識者検討会",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFjOUNzazdQVUJOMndicXpWMmJocDFOSlVSczRxUTFhbFNWWE9DVnI2MFNaa3JZWnMwdm9zXzF0a0d3cFBYTHJUVEtPWXVNSHhZVXB1UHdocmpFN0hVaWpvckU5MHozV2FPa3NQSDFraThoT1NYNmxTWGRCNFkxNQ?oc=5",
    "source": "時事ドットコム",
@@ -286,6 +294,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-10 10:09",
    "published_iso": "2026-09-10T01:09:55+00:00"
+  },
+  {
+   "title": "国境管理でスペイン支援 EU、205億円を拠出 モロッコからの移民押し寄せで",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tT1pfcTlEdU85RVdDb2dkQjJLQmhFNFk5TVlIMWRTRFNlSjA1MU9HOEptX2c3SDFOX3VtclZKUWtBTnpoc1dSOVBkSmdzLUV0cVJyWjI4cU4wLV81MUduM2xadGxYR2dQZGhxS3RXS01KVlNBUXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-10 08:28",
+   "published_iso": "2026-09-09T23:28:56+00:00"
   },
   {
    "title": "なぜ？群馬県の外国人と日本人で「意識のギャップ」 アンケートで「差別経験ない」も「治安不安」も増加",
@@ -304,12 +320,12 @@
    "published_iso": "2026-09-09T21:50:00+00:00"
   },
   {
-   "title": "外国人の家具修理がルーツの神戸洋家具、腕磨く25歳 桂天吾がゆく",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTTRreVNtaVMzTmRmLWc0LWpMeF9fS3NVZndrQTdXYUdRQkxTT0xKeHB5YkF5aVByd3oybk5RTDNsYUptR1BYY3pFb1hNRk1PelNKQzlsNEZsTHExcDZ2Y3lkbDZidU0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-10 06:00",
-   "published_iso": "2026-09-09T21:00:00+00:00"
+   "title": "特定技能外国人受け入れを担う建設技能人材機構（JAC）、WOVN.io で16言語対応",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZFhST0RhOV9JZVUtcjA3WDRYaWNTTHVySzBYVDdsbElaQWZYR3VSaE4ydlhoUjJ6MmVhYWRlWWlNS1l3OXo1VVJvdHJHcE5nMlBzUkZidDJYakNISG5MZGQzXzY1MUJDZE1R?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-10 04:40",
+   "published_iso": "2026-09-09T19:40:00+00:00"
   },
   {
    "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
@@ -330,7 +346,7 @@
   {
    "title": "外食業の特定技能、受け入れ再開未定 現場では「ギリギリ」の声",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBURmRuOHVmZEdZZnRVTWJNNGJmQS13TXNHVTItTHdrcDVBbDdCd2ZwS1ptOTlGU2FIZC1CZmJiZmlrNWpPNldvVHFQcHdLZlI4dW5nSWJKanBDa2dIQkJyT3RSX2FwcGQ4?oc=5",
-   "source": "mainichi.jp",
+   "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-09-09 19:28",
    "published_iso": "2026-09-09T10:28:26+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-09 17:30",
    "published_iso": "2026-09-09T08:30:57+00:00"
-  },
-  {
-   "title": "オーストラリア留学ビザ、承認率が過去最低 移民削減方針で審査厳格化―２５年度",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYktrSHlfZVg2N09Ic1JmLTVxZUhjTTNieUoxRnVmbnJhSDVGOUxYUlZaUzRYZkFnT2xCX0gzQUg3NC1JVDdQSEg1ZThsMkdOSTYtYUh5ZjZBYlM1RE56VUg4ZG9MT3pCY0VUWTdWMG9wajlqMzZBV1JrSXVtUVY4WA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-09 16:21",
-   "published_iso": "2026-09-09T07:21:00+00:00"
-  },
-  {
-   "title": "講演会「居場所難民－教育取材の現場から－」 2026年9月26日(土) | 福岡おでかけ・イベント情報",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GdUpKN3BocE4tOFVOd0gxZTJEamdkbjduaDNkVjM5eWZoRnhXVUlmUUJVT3JteDNNeUpiWm1sVmE0N29vNnpBOGVtSjA2VVh1RTFSb2V0ZFpaWkE1WEE?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-09 13:25",
-   "published_iso": "2026-09-09T04:25:13+00:00"
   }
  ]
 }
