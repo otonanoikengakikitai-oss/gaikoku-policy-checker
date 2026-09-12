@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T00:53:40+00:00",
+ "generated_at": "2026-09-12T05:23:24+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人ドライバー養成「クロフネ」 県支援・実装事業枠の第１号に 大館市で合宿、年度内３０人目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yM2hYNTN4cnhzVHJSQVpNSnhrS3ZpY3lTLWtKVC1kRk1CWExBSWZKamIwR2tXNnBCZzZaajZBczBrbTVNbF9PaDc2SQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-12 12:30",
+   "published_iso": "2026-09-12T03:30:00+00:00"
+  },
+  {
+   "title": "ソフトバンク、新外国人のラトリッジを出場選手登録 12日のロッテ戦で来日初先発 最速157キロの大山凌も昇格",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fNWhtVnFfbmRPOGdZWExidkVaSVo4bk9VcE1OeHJQcHg4dGRrejRwSFRMUUJxbE9yNGxhQ2F1eVJMamNtUllPY1kxTlpWUHBETTdURTZnYjRzU3M4LWgw?oc=5",
+   "source": "西スポWEB OTTO!",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-12 12:05",
+   "published_iso": "2026-09-12T03:05:44+00:00"
+  },
+  {
+   "title": "ついにマジック一桁の「9」 ソフトバンク、残り16試合で新外国人がベールを脱ぐ ポストシーズンの〝秘密兵器〟となるか",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pYjlwTFplRnUxOWpxWGNuNFk4SmMyYWRwY2lBVWRPTlAzWDByZjdRTDIzTU94U2xHcG5HSmMyYjVzSkFpWm9pWmpXa2VoZUxrY1hvaXZGRXlZSFk2ZEM4?oc=5",
+   "source": "西スポWEB OTTO!",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-12 11:35",
+   "published_iso": "2026-09-12T02:35:04+00:00"
+  },
   {
    "title": "外国人との「共生」説く高校公民教科書 参政権などの制限「再検討すべき」と実教出版 教科書はこう書いている",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeklYNkxCanZSU2tSaTQ5UkEtRWUwc0dZcm9DSjFzUjhnekxOR2RpUzFya2RxamNndUZ1a1h1NGt5MTJUNnl1OUNwOEtkcWtyOTl1Mkl4RVg1TDFDVjNIWmV1VDBodEVuNHFrZWtkcUppLUtoVlE?oc=5",
@@ -18,7 +42,7 @@
   {
    "title": "読めなくても自由を感じて 外国人参加者が体験した書の魅力",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESU5oU2FVOW8yYXRyZzJCR3UyYU5UVjFlY1c2MVJjWDl1cGQzQ0tpMUhzUTVvNWdad2NrRjVmcGNkcmQ5QkVqTmJLYldwV0xpNlMzSldOUktLSGtVckpHdy02VldfR0dQ?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-12 08:15",
    "published_iso": "2026-09-11T23:15:00+00:00"
@@ -64,6 +88,14 @@
    "published_iso": "2026-09-11T11:16:00+00:00"
   },
   {
+   "title": "ビザ料金、７倍に 日本側の値上げに合わせ―在日中国大使館",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zdWZsM1ZEYTBJbWZuRnJsRjlRcnNKU0MyM25pQ190Q0NzYlVTS21XcFBicF9nYlhjcEc0S0JYWlFoeXdVUENpZWdMNmFqNC1wc0V2cXA5TC1UcUtsc1hueFEwOA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-11 19:21",
+   "published_iso": "2026-09-11T10:21:00+00:00"
+  },
+  {
    "title": "ベルトコンベアに巻き込まれ死亡 モンゴル国籍の男性技能実習生 死因は脳挫傷 広島・呉",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQzd6dEg3VDB3WVpDOFdEMjJPSGdXNEx5dnA4ZGhudlJjdTlsSGxob0w5MzNoUUhaQzJPV3B1YlJKUTlCWGpNRkg5M3hud2JQbTJhNzYxVm9MNTNnZUNhT2NuQVFvbHc?oc=5",
    "source": "TBS NEWS DIG",
@@ -86,14 +118,6 @@
    "source_domain": "asahi.com",
    "published": "2026-09-11 18:53",
    "published_iso": "2026-09-11T09:53:53+00:00"
-  },
-  {
-   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRFBNdVJhejJIMk9pa0pEdENENmltU1NmTXVpaHFRMjJtRGtIVVg1WGRmb1E0d0tFcFBwUzc5cl9iME1TUEhOMkdnZjBTVGJzcVBRVllvVGJ3OERxWUZXVjdXTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-11 18:49",
-   "published_iso": "2026-09-11T09:49:00+00:00"
   },
   {
    "title": "療養中の外国人の生活保護、不支給「適法」確定 最高裁決定",
@@ -120,14 +144,6 @@
    "published_iso": "2026-09-11T08:02:00+00:00"
   },
   {
-   "title": "「自衛隊に外国人」提言の真意は 歴代首相と近い笹川平和財団、防衛相は否定",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pNUlCbUVGVzFEQTRxZGRDSXItNkVvclA0cXVaOHlZYkVOQlRFNTFfUi16RzJVWEpMRE9xT01FdVRCNWFPZVp0aTRBS0RTWFBBbjVsRQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-09-11 16:00",
-   "published_iso": "2026-09-11T07:00:00+00:00"
-  },
-  {
    "title": "移民拘束、「日系人収容」なぞらえ 保釈なし方針退ける―米控訴裁",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalpPYWE5TDJkTmg4aDIzNFNna1k3aGctbXNscjJEVUhOb1lLRWJxSG5KQ3NHbzRrYlRXeTN0a0dwV0F0Q0w1TkFmMmp0bVk1Z0kwdC1WRE5EdnlTMlVyWnFrZ2pPdWhnRm5WalV5NzdKNlBxcl9MTm5IblUtMC11Mzd3?oc=5",
    "source": "時事ドットコム",
@@ -138,18 +154,10 @@
   {
    "title": "特定技能の給与違法天引き ラーメン店側に支払い命令 東京地裁",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVMTNFV21ZNER5UjJfUEFPY1I1QXlSdHlkVEhmY0hvQXVldmZSbHNqd1I1dUhhaWg3SUJ5MDZULU1mdF9aYTF0UTIxYXlfNkpkbkw1SFYwT0JHdEh5VGtTSExrbmJvUklG?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-11 13:15",
    "published_iso": "2026-09-11T04:15:03+00:00"
-  },
-  {
-   "title": "入管職員が職権乱用で“乗客の秘密”を暴く。あるまじき行為に「何やってんの！」と非難殺到＜ドラマ『大空港』＞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UNXk4c1JwN3ZqZ3FwX01QVXRqMkMxcUpFWVVBTkxVcEI1am11RUVuSEc2REc0RDlodUxDUlJnSEdjU1R3LV95SVA0aFVfeGJBbXfSAVdBVV95cUxQZ1RCR0QzOUhlSi1uUkdFY0dSM3hOcHBfSjdwcTZoVkU3Zkw3aWJYTXNBdUo3TlozejRqdVJlWjhiRTM0aFZqd2hQX0lRRUhDSnJ6NjZ1TDA?oc=5",
-   "source": "テレ朝POST",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-09-11 12:48",
-   "published_iso": "2026-09-11T03:48:01+00:00"
   },
   {
    "title": "帰宅中の女子生徒が、外国人と思われる男性から「こんばんは、日本語の勉強がしたいです」と声をかけられる事案発生 島根県松江市 | BSSニュース | BSS山陰放送 (1ページ)",
@@ -158,6 +166,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-11 11:43",
    "published_iso": "2026-09-11T02:43:00+00:00"
+  },
+  {
+   "title": "外国人にも人気の「宿坊」で申告漏れか…計1億円超 宗教法人、なにが課税？（2026年9月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kbFFHRWIzMXNRSkRjRDc3RnZxYUdSd2dyRFFGY0tOU2ZHdERLLXZsZjNHZlVyOFdsQUlpUEROVnI0WEVERlFGRExSemdQRmVJMzlmT0xkaXJVTmlSUVR3cjM4QlE3ZGJpaU9nVFVrcDU5UkJSNDRoZ3ZUUFI?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-11 06:22",
+   "published_iso": "2026-09-10T21:22:00+00:00"
   },
   {
    "title": "「移民は脅威」米国で消えぬイスラムへの敵意 トランプ政権下で深まる分断 イスラム教徒の市長誕生も",
@@ -174,14 +190,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-11 05:00",
    "published_iso": "2026-09-10T20:00:00+00:00"
-  },
-  {
-   "title": "巨人のマルティネスが通算２５０セーブ プロ野球６人目、外国人初",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5OGZvdi1keXBkNWt6Q1pja19OSkVuSWxUeFptZmRpUEdneXE0YWRIYklLUDBMWU5jVWdxa2oybkxSck8ySEQ3WVBnRGN1SzBqOG1XcU5zazkyN2llZG5pb3Mtdw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-10 21:50",
-   "published_iso": "2026-09-10T12:50:00+00:00"
   },
   {
    "title": "プロ野球:巨人マルティネスが通算250セーブ 外国人投手で初の到達",
@@ -206,6 +214,14 @@
    "source_domain": "47news.jp",
    "published": "2026-09-10 18:58",
    "published_iso": "2026-09-10T09:58:00+00:00"
+  },
+  {
+   "title": "不法移民の大規模強制送還は「民族浄化」 独首相、極右ＡｆＤの看板政策を痛烈批判",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjRTTUFTOXFkYllMR1ZLX2JtVklZWDVaanF2YUJGNmw0VnA3b2dRNzlBN0pZQXlQaWhGY2NEelhOcFlqcUl1Z01JSVJnWEpCZVNNcE43VW03Tk1Ga1laVzkzOWFWdw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-10 18:35",
+   "published_iso": "2026-09-10T09:35:00+00:00"
   },
   {
    "title": "25年前にアルカーイダがまいた「テロの種」各地に 移民排除の動きが養分となる恐れ",
@@ -242,6 +258,14 @@
   {
    "title": "「警備業」人手不足深刻 特定技能外国人ら受け入れ議論の検討会設置",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51S3FGS0VCcE5qN2wwb2VmaGsxTTkzUExzaGxWLVpEQ3VkS2hFTlVkZXRZbDFYckRKR0c4U2F0YTlid2o5VEhHck5KRWRIQmR3SzFPdzNtYnUxVzhMaW5ZeV9wSm45T2c?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-10 11:30",
+   "published_iso": "2026-09-10T02:30:00+00:00"
+  },
+  {
+   "title": "ブラジル移民3世の旅を映画に 来春公開「オキナワ・サウダージ」 [沖縄県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNkYzSG5DX0FUSXE2cS15ZU1mVkdLR2lJSlNVdWFsZUpQSUctX1dsYzJiRU5RSGNYbHVPaEVGRGRaY3lMNG9wbUE5R19VX3pPT2dySTU4Yk5SdWV0a2dmNzZqVGhEUFE?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-09-10 11:30",
@@ -288,14 +312,6 @@
    "published_iso": "2026-09-09T21:00:00+00:00"
   },
   {
-   "title": "特定技能外国人受け入れを担う建設技能人材機構（JAC）、WOVN.io で16言語対応",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZFhST0RhOV9JZVUtcjA3WDRYaWNTTHVySzBYVDdsbElaQWZYR3VSaE4ydlhoUjJ6MmVhYWRlWWlNS1l3OXo1VVJvdHJHcE5nMlBzUkZidDJYakNISG5MZGQzXzY1MUJDZE1R?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-10 04:40",
-   "published_iso": "2026-09-09T19:40:00+00:00"
-  },
-  {
    "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BLWlIRTR4cE1ZeS1QR2ZZMmRtVjhkZVZDZTVwUGJpQ1RMYU1fZHppMkpZaVo3MHpLNExMMkNfS094clRXTXlWSWJOUUhzd05EdlB3MEg2V2NPQQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -314,7 +330,7 @@
   {
    "title": "外食業の特定技能、受け入れ再開未定 現場では「ギリギリ」の声",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBURmRuOHVmZEdZZnRVTWJNNGJmQS13TXNHVTItTHdrcDVBbDdCd2ZwS1ptOTlGU2FIZC1CZmJiZmlrNWpPNldvVHFQcHdLZlI4dW5nSWJKanBDa2dIQkJyT3RSX2FwcGQ4?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-09-09 19:28",
    "published_iso": "2026-09-09T10:28:26+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-09 13:25",
    "published_iso": "2026-09-09T04:25:13+00:00"
-  },
-  {
-   "title": "暴行･セクハラ･賃金未払い 特定技能ミャンマー人6人が「謝罪と補償」求めて北海道京極町の農業法人と団体交渉",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkOVR3cTdaanN3MFVpVlpiNV9aN3pUMjZJRzA4V2ZobnZnR1pFWmtDcDlUZi01QlkzdGVIWjBZekQ5Nlc5TUJvci0zamJlWTVSYUNGalVtaFo1Y1pocGhwaUNLMlA1Qk0?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-09 12:24",
-   "published_iso": "2026-09-09T03:24:00+00:00"
-  },
-  {
-   "title": "暴行･セクハラ･賃金未払い 特定技能ミャンマー人6人が「謝罪・補償」求めて北海道京極町の農業法人と団体交渉",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUjB2R2FEeEtiTU9BazJCRlZURUNTdTZ6SF9NVjI0UkEwaWlqMGdUSTQ3WGRld185RDZCWVZXWHdmZC1hb1VObkdOSmNNZTB6QjBrUW5SWjlkOVJXbjRjM0xfWnM?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-09 12:24",
-   "published_iso": "2026-09-09T03:24:00+00:00"
   }
  ]
 }
