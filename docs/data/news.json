@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T23:43:07+00:00",
+ "generated_at": "2026-09-13T03:06:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人絶賛「今日本で買って帰りたい」 味覚の秋へ「かっぱ橋」最新＆驚き便利グッズ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85X05TTzJmOVNyS1B0elE2dnpMQkNPUTVZdll5SWZHcEZwSFhjTk5TLUl4NEV2S25WXy1xMXZGdUExd2hOcG1jSmo1blhUMWJ2djFWN1VSbFZTT0d3YUhhUUhYMk83N292OUdLWnYzeGdaUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-13 11:00",
+   "published_iso": "2026-09-13T02:00:00+00:00"
+  },
   {
    "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
@@ -16,20 +24,20 @@
    "published_iso": "2026-09-12T23:00:00+00:00"
   },
   {
-   "title": "帰宅中の女子生徒が、外国人と思われる男性から「こんばんは、日本語の勉強がしたいです」と声をかけられる事案発生 島根県松江市 | BSSニュース | BSS山陰放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FMUs0WnBzUFpYUDdzVEUwcjdzT0xqLUk1REtqanNSV0E5czNLeXBBRWpQd0I0UDUwaE9KcTM5NmlaMFRnY2pJUl9ISmViN0tHejdvLWZtTHdib0dfczRldnBIUmd6cnc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-13 07:23",
-   "published_iso": "2026-09-12T22:23:17+00:00"
-  },
-  {
    "title": "在留手数料の唐突な引き上げ、地域に根を張って働く外国人ら「日本に住み続けたいけどこれ以上は」…閉鎖になる介護事業所も？産業界にも危惧の声",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2YwT1owMllpQ0NzSGhaUnZnbDA5Y04yUEFnLXNFWTdaaGljc0dMN0xudUk2Z0NGUFBCTmFFZ1g5ckZENFVON1JnbUNfd0JEOXc0NGwtdm5HTUt2aDk5LWk1dUNlNHB6X0NNc2theDJjXzdHaWVEcWNPMC1KT3VXSWxTckgyNjdKcDJJ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-13 05:00",
    "published_iso": "2026-09-12T20:00:00+00:00"
+  },
+  {
+   "title": "介護の仕事、良いヒントもらう 境港総合技術高校福祉科の生徒が技能実習生と交流",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13SFA5WlA3QjRPODN0aUxUSnh2TjV5YXFUMDlrR0ZpN0R6TjlsUVBkdjUtNGlXNXdva0UxdmU0X08yc21pM2p5UU8tZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-13 04:00",
+   "published_iso": "2026-09-12T19:00:00+00:00"
   },
   {
    "title": "人権侵害の一方で…外国人労働者の獲得競争が加熱 迫る“受け入れ上限”日本が「選ばれない国」の懸念も【報道特集】",
@@ -54,14 +62,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-12 16:59",
    "published_iso": "2026-09-12T07:59:00+00:00"
-  },
-  {
-   "title": "外国人ドライバー養成「クロフネ」 県支援・実装事業枠の第１号に 大館市で合宿、年度内３０人目指す",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yM2hYNTN4cnhzVHJSQVpNSnhrS3ZpY3lTLWtKVC1kRk1CWExBSWZKamIwR2tXNnBCZzZaajZBczBrbTVNbF9PaDc2SQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-12 12:30",
-   "published_iso": "2026-09-12T03:30:00+00:00"
   },
   {
    "title": "外国人との「共生」説く高校公民教科書 参政権などの制限「再検討すべき」と実教出版 教科書はこう書いている",
@@ -98,7 +98,7 @@
   {
    "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
@@ -145,7 +145,7 @@
   },
   {
    "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1Q1RVJEek5FQTVBYXU1ZG9jQW9yNWNYUmlUaXFCR2lKUTl1M2E2LUstOXJTTnZjcmZuM3lucnE4S0VtRnpPOEtUenBNN0VPYnNlTHRTZ0FwSTBqTTN1SUhhVzVqNWJPWFk0Mlh5bUNvYmpsWThKamhrNGdDTTRZbw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRFBNdVJhejJIMk9pa0pEdENENmltU1NmTXVpaHFRMjJtRGtIVVg1WGRmb1E0d0tFcFBwUzc5cl9iME1TUEhOMkdnZjBTVGJzcVBRVllvVGJ3OERxWUZXVjdXTQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-11 18:49",
@@ -158,6 +158,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-11 18:30",
    "published_iso": "2026-09-11T09:30:00+00:00"
+  },
+  {
+   "title": "スウェーデン総選挙、左派失速で接戦に 極右は無職外国人の国外追放を主張",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHNTU1FCT21FQi0wYWNicFNZdnI0YjZnVUxmTE5IdDFmTF9kTlBCX09xM1Jta3BYY2p0dDNXNEU1NjNWYmxCMExCMGNNdXRoSEo5c05nQXlsZFF6LW9KRS1ZYXVfdw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-11 17:10",
+   "published_iso": "2026-09-11T08:10:00+00:00"
   },
   {
    "title": "モロッコ、セウタ不法移民殺到への関与否定「なぜ送還しないのか」",
@@ -176,12 +184,36 @@
    "published_iso": "2026-09-11T04:15:03+00:00"
   },
   {
+   "title": "帰宅中の女子生徒が、外国人と思われる男性から「こんばんは、日本語の勉強がしたいです」と声をかけられる事案発生 島根県松江市 | BSSニュース | BSS山陰放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FMUs0WnBzUFpYUDdzVEUwcjdzT0xqLUk1REtqanNSV0E5czNLeXBBRWpQd0I0UDUwaE9KcTM5NmlaMFRnY2pJUl9ISmViN0tHejdvLWZtTHdib0dfczRldnBIUmd6cnc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-11 11:43",
+   "published_iso": "2026-09-11T02:43:00+00:00"
+  },
+  {
+   "title": "外国人にも人気の「宿坊」で申告漏れか…計1億円超 宗教法人、なにが課税？（2026年9月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kbFFHRWIzMXNRSkRjRDc3RnZxYUdSd2dyRFFGY0tOU2ZHdERLLXZsZjNHZlVyOFdsQUlpUEROVnI0WEVERlFGRExSemdQRmVJMzlmT0xkaXJVTmlSUVR3cjM4QlE3ZGJpaU9nVFVrcDU5UkJSNDRoZ3ZUUFI?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-11 06:22",
+   "published_iso": "2026-09-10T21:22:00+00:00"
+  },
+  {
    "title": "「移民は脅威」米国で消えぬイスラムへの敵意 トランプ政権下で深まる分断 イスラム教徒の市長誕生も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xLXRwVkhSM2cwUTNqbklPYzEyY0U1UHcxZFU3VDN5eTFEdVN2Y2VjMnp2ZjBsSHpINi1yMjFKTTZyeWx1NGx4VnRiVENSMkpEWmxQMnZR?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-11 06:00",
    "published_iso": "2026-09-10T21:00:00+00:00"
+  },
+  {
+   "title": "【特定技能・介護】開校からわずか2ヶ月！マカティ提携校の「第1期生」から早くも内定獲得！日本での実習経験を持つ即戦力が配属へ",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LNF9aZFZVWlFpU0g3REdiMkhreEpidUFBOUpyRmpselpCbFFYel9XeXNxWUdQU3VlekN0VXJUMWVQZ1l5bFVyYVZaSnhhbnFNTUZzb1g3anBGZUlTQzJwUmlCRGJTSDM1a3Jr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-11 05:10",
+   "published_iso": "2026-09-10T20:10:00+00:00"
   },
   {
    "title": "プロ野球:巨人マルティネス、外国人初の250Ｓ 守護神支える恩師の金言",
@@ -314,7 +346,7 @@
   {
    "title": "なぜ？群馬県の外国人と日本人で「意識のギャップ」 アンケートで「差別経験ない」も「治安不安」も増加",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eVRIbTFZTnZfWG41MDEybEljeXU0Tk5BWGhrQVdZZ3VzX0NxTVVjbTFBSzROU0FPSTdhb1M3cEZOQ0N2MlFzd1dzWWFGM252b3Iw?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-10 08:03",
    "published_iso": "2026-09-09T23:03:31+00:00"
@@ -368,44 +400,12 @@
    "published_iso": "2026-09-09T09:00:59+00:00"
   },
   {
-   "title": "農場関係者のセクハラ否定 特定技能ミャンマー人訴え",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1La1N6c2ZpUEtQVUk2b1hTWURjamVERm1nOXViUERDb1huS1A2M0VUaWFzX3JLbERZQUFtZUkzZFJkYUd4NXJTd3FDVQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-09 17:54",
-   "published_iso": "2026-09-09T08:54:31+00:00"
-  },
-  {
-   "title": "育成就労、「航空」分野を追加へ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNU9KOHJHeDRjUlhHQXJhVlYxZXJKV3NneTNLdW9ac01LS1BwU0luNDB2Y0VTMlZ1Y1kzU2tOTmtZcGR0VjVqYi1tcG9PdHk4Y19QbFg3RDE?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-09 17:46",
-   "published_iso": "2026-09-09T08:46:43+00:00"
-  },
-  {
-   "title": "外国人新資格「育成就労」に航空分野を追加 受け入れ上限は変わらず―政府",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Eb0dZdWdONmpUX2x6RF8tSG51V1F4VmFVamhhZUJSWXVILWF2aVZjWUhYSU9VSWlzazczU0ZjRlVqUUx4andKWktQTGNTR2hBXzI4MTd6UklucE5QZzctOUFEQQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-09 17:32",
-   "published_iso": "2026-09-09T08:32:00+00:00"
-  },
-  {
-   "title": "◎育成就労、航空分野を対象追加＝受け入れ上限変わらず―政府",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tMEdTY3poNkRnenBFM2JLNXZMZU4xWFhnV1BuNHJyTHRTWlBWbEtKRHVWLTQtZmp3YVNORkd6MWNIeXlnM2dWQlROeFI5TkUwaTlwRA?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-09-09 17:31",
-   "published_iso": "2026-09-09T08:31:00+00:00"
-  },
-  {
-   "title": "外国人の育成就労、空港グラハン業務追加へ 政府が有識者会議で議論",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VdC1NWHRpUnFWeDhNRjFFUXd5TDNwY2tIMXJBQjQ3SUNSb3hxYmg5TWFVSzk4N0NCeE9nLVBncGJRcmM3dW40Rm1lRkhxSEktY19iVFZudnc5RWZGTGU3MEh3T1JNWlZJXzYtYw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-09 17:30",
-   "published_iso": "2026-09-09T08:30:57+00:00"
+   "title": "育成就労、「航空」分野を追加へ 政府、有識者会議に提示",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pN1NockdESFVQUUpOQlB2U2NmeHdhN0NGa0hqdjVCbkFBWXVEV254bmZvQ3pSbFBIU2dDUERXOHBxTWlTb3lVYlZrSVRtNFV4RnVzQVVnNE5rQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-09 17:55",
+   "published_iso": "2026-09-09T08:55:34+00:00"
   }
  ]
 }
