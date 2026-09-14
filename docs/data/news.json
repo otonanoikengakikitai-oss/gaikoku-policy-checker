@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T17:40:14+00:00",
+ "generated_at": "2026-09-14T21:27:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "障害者と健常者 支え合いが共生社会 元パラ陸上・辻さん講演 函館",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTERDY0lIYWhnTGtnYzRnWU12TktGblRwcFh6TlpxeWxZNTRzcE9rbVFvNlpEd1BQb2l1cTl0YkZFOFBCQXFrWHozRmhxR1dOV3VIbFBaMHFEZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-15 04:00",
+   "published_iso": "2026-09-14T19:00:00+00:00"
+  },
   {
    "title": "英語で強気の外国人、試合で泣いた錦織圭 異国で強くなるマインドは",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3a0toSlJIWlhTRHBsY3FIa1czMEdVLTUtSDlXdW5iVEVzMERNVmZqekVDNm9rNFJ5VUdtenFWUm1uQklLc3lVcWwzaXFhMnZNNjVHWkNRQ0pIemdzYlZXTWQ1bkQ0VlE?oc=5",
@@ -40,6 +48,14 @@
    "published_iso": "2026-09-14T12:00:00+00:00"
   },
   {
+   "title": "極右の入閣が焦点、接戦のスウェーデン総選挙 野党が僅差でリード",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84NDhOaXBDWEl4Xzd2RGlnZzYzdjQ3bjI5czFZaFM3OGFsRTN4cHJfcVFKdDA5ZGdHeTU2cXc4RzltVXpNZlA1dGtDRXl5S2VuWkcxd0YtRFZySnotOC1UX0l5bzl2ZTA?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-14 19:30",
+   "published_iso": "2026-09-14T10:30:00+00:00"
+  },
+  {
    "title": "福山通運、外国人材想定し小型トラック36台導入 普通免許で運転が可能、人手不足に対応",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sMnVLSDVuemNBYjZhSWpHMUVvNVIzYnhNbFlzYVR4c2dicXk1SmI3dzNudzdNd0NPaS1heDkxYjJHeEFYSVY3SmFDdnd1eEFFYlFKZ1V3RGR5bF9aUHlSeW1Yc0xkMUl5cEVBUHhrTWh6Z05Ia2c?oc=5",
    "source": "産経ニュース",
@@ -54,6 +70,14 @@
    "source_domain": "47news.jp",
    "published": "2026-09-14 19:09",
    "published_iso": "2026-09-14T10:09:30+00:00"
+  },
+  {
+   "title": "オーストラリアの極右党、移民削減案を先鋭化 「３年間で７５万人」",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDNwVGxMYmYzMmhVREJocHNBRi0zUGlqSnBXYVdoYnAxZmtHbExRNWd1Vl9PS1dRMXZIbno3czNrTDdYMXFqRlc3eXZqNlVYNDBlOWJaWnBVb1ZkNEVkNXJsampoSXE3MW13d3RNUzNJNllqWW41aGNlcEVXaGpUdQ?oc=5",
+   "source": "jiji.com",
+   "source_domain": "jiji.com",
+   "published": "2026-09-14 15:42",
+   "published_iso": "2026-09-14T06:42:00+00:00"
   },
   {
    "title": "欧州の移民、何が問題？ 住民の不安解消が重要に",
@@ -74,7 +98,7 @@
   {
    "title": "【2026年9月最新版】衝撃 ！特定技能1号「受入れ上限」予測。2028年に介護・建設・農業など5分野が軒並み受入れ制限か？ 日本の労働力不足はどうなる！？（独自試算）",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oOFpJRG9qQUVnd1o0YTJOYV9nbGdKaUxXNEFuNVZmS3pBUnRtanlmZUVkX2dvUXdDV1lXX3lOMW1zc1ZES1ZmZFFWUkd3UjZQSG9yUW9uQ1ZQenduOEk0Zm5kSmF3dTZpQXlV?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-09-14 12:45",
    "published_iso": "2026-09-14T03:45:00+00:00"
@@ -82,7 +106,7 @@
   {
    "title": "トランプ氏が言えば正しい？ 移民めぐる虚偽情報を垂れ流す政権にアメリカ市民は慣れてしまい",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5SnZrOWp4d2Vxb0MxcUhLTW1ieWpwcE9kWkVCMy1ITW5ZUHkyS1ljcGlrVm91YUlUc2h6QjNqd3hrZkNKaWoyNFczM1pfTjRvZG5J?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-14 12:00",
    "published_iso": "2026-09-14T03:00:00+00:00"
@@ -112,14 +136,6 @@
    "published_iso": "2026-09-13T21:40:00+00:00"
   },
   {
-   "title": "日本に住む外国人 一緒に備えのポイントや防災知識を学ぶ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12anFsbnlIcXc3VmdueXN2a3lfV1huSEF2aERKR3RtX2p5U2hDMFNqcFBObGN1dUFVYk5xUGsybG1LSTlGdlM5R0lkRi1xY3p3Z2Vma1JSdXdwLUVBRGlwdVJoWm1HaWs?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-14 06:26",
-   "published_iso": "2026-09-13T21:26:57+00:00"
-  },
-  {
    "title": "高度外国人材の来日が2025年秋から減少 AI普及で求人減、審査厳しく",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xYlpNb2UzTi0zYl9ua2txVEVocXF0dk02UnJWSWg4NkdHa3lwZlFwZ2tZMWFTUnhkNmktaXZGVFA2a3gyVzJZdWs5SjhEVzBTS2JWX3NQQXhpdUs5X1lWNzlkZTNVVDNqT2NDUg?oc=5",
    "source": "日本経済新聞",
@@ -130,7 +146,7 @@
   {
    "title": "支援するのは「トランプ氏が優先する文化」だけ 移民、黒人、LGBTは削減…「アート生き残れない」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zN3dkSzRrdGlnbjVncVhVTFFoMm5pb3JFRGlsUG5kbjFvMkNjQ0hXSlpSQ3AzOXNfaG93bDVvYnNlNV9aUXFuYVZ3QVZ4SWRzZ05n?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-14 05:00",
    "published_iso": "2026-09-13T20:00:00+00:00"
@@ -178,7 +194,7 @@
   {
    "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
-   "source": "tokyo-np.co.jp",
+   "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
@@ -200,14 +216,6 @@
    "published_iso": "2026-09-11T11:16:00+00:00"
   },
   {
-   "title": "ベルトコンベアに巻き込まれ死亡 モンゴル国籍の男性技能実習生 死因は脳挫傷 広島・呉",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQzd6dEg3VDB3WVpDOFdEMjJPSGdXNEx5dnA4ZGhudlJjdTlsSGxob0w5MzNoUUhaQzJPV3B1YlJKUTlCWGpNRkg5M3hud2JQbTJhNzYxVm9MNTNnZUNhT2NuQVFvbHc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-11 19:13",
-   "published_iso": "2026-09-11T10:13:00+00:00"
-  },
-  {
    "title": "外国人の生活保護認めず、最高裁で原告敗訴 判事1人「排除は違憲」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ud21tY0ZSTWV6eG9nbGVEQlo0ejhKcDllbnVXYThyU0pkb1R6V1JLOWZpOXB5STFNbmZjR2dZaG16NHlrZktYZEN1UnhrNDFxcXFDSnVBTTVrOHREdlVia2o5dWVQY00?oc=5",
    "source": "朝日新聞",
@@ -224,9 +232,17 @@
    "published_iso": "2026-09-11T09:53:53+00:00"
   },
   {
-   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
+   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRFBNdVJhejJIMk9pa0pEdENENmltU1NmTXVpaHFRMjJtRGtIVVg1WGRmb1E0d0tFcFBwUzc5cl9iME1TUEhOMkdnZjBTVGJzcVBRVllvVGJ3OERxWUZXVjdXTQ?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
+   "source_domain": "jiji.com",
+   "published": "2026-09-11 18:49",
+   "published_iso": "2026-09-11T09:49:00+00:00"
+  },
+  {
+   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS1Q1RVJEek5FQTVBYXU1ZG9jQW9yNWNYUmlUaXFCR2lKUTl1M2E2LUstOXJTTnZjcmZuM3lucnE4S0VtRnpPOEtUenBNN0VPYnNlTHRTZ0FwSTBqTTN1SUhhVzVqNWJPWFk0Mlh5bUNvYmpsWThKamhrNGdDTTRZbw?oc=5",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-09-11 18:49",
    "published_iso": "2026-09-11T09:49:00+00:00"
@@ -242,7 +258,7 @@
   {
    "title": "スウェーデン総選挙、左派失速で接戦に 極右は無職外国人の国外追放を主張",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVHNTU1FCT21FQi0wYWNicFNZdnI0YjZnVUxmTE5IdDFmTF9kTlBCX09xM1Jta3BYY2p0dDNXNEU1NjNWYmxCMExCMGNNdXRoSEo5c05nQXlsZFF6LW9KRS1ZYXVfdw?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-09-11 17:10",
    "published_iso": "2026-09-11T08:10:00+00:00"
@@ -296,17 +312,9 @@
    "published_iso": "2026-09-10T12:47:37+00:00"
   },
   {
-   "title": "使わなくなった服、世界の難民の子どもたちに 高森町の中学生が募る",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pTnVORGozRjhOUTZDd1V0UjVlY0tiTHBPblN1YklaSnBXT2pvOXotamFWNWFCM0hrMWdmMHo2NkFXTGhUYllSWkFBZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-10 18:58",
-   "published_iso": "2026-09-10T09:58:00+00:00"
-  },
-  {
    "title": "不法移民の大規模強制送還は「民族浄化」 独首相、極右ＡｆＤの看板政策を痛烈批判",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjRTTUFTOXFkYllMR1ZLX2JtVklZWDVaanF2YUJGNmw0VnA3b2dRNzlBN0pZQXlQaWhGY2NEelhOcFlqcUl1Z01JSVJnWEpCZVNNcE43VW03Tk1Ga1laVzkzOWFWdw?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-09-10 18:35",
    "published_iso": "2026-09-10T09:35:00+00:00"
@@ -360,12 +368,12 @@
    "published_iso": "2026-09-09T21:50:00+00:00"
   },
   {
-   "title": "外国人材の受け入れ制度「育成就労」の運用などを話し合う政府の有識者会議＝9日午後、法務省 - 育成就労、「航空」分野を追加へ 政府、有識者会議に提示 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EMlJMTzNlXzd6cVl2d0N4NmZjQU9JY21UYjB1cFIxTnFDOWN1SU9JZTdkdXlfU3YzSmtLTFRDUncwSUc4bUZsa1dxNUYyNEp1aWN1LTNXbw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-09 19:44",
-   "published_iso": "2026-09-09T10:44:54+00:00"
+   "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BLWlIRTR4cE1ZeS1QR2ZZMmRtVjhkZVZDZTVwUGJpQ1RMYU1fZHppMkpZaVo3MHpLNExMMkNfS094clRXTXlWSWJOUUhzd05EdlB3MEg2V2NPQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-10 04:00",
+   "published_iso": "2026-09-09T19:00:00+00:00"
   },
   {
    "title": "外食業の特定技能、受け入れ再開未定 現場では「ギリギリ」の声",
@@ -384,9 +392,9 @@
    "published_iso": "2026-09-09T09:33:00+00:00"
   },
   {
-   "title": "「育成就労」に関する有識者会議の会合",
+   "title": "「育成就労」に関する有識者会議の会合：時事ドットコム",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XeDZMS2VSVTk4NlQ5cVkzcE1pdEQ1eWVNR3pwQl9uSzR3MmM1VzQ0a0dVd3kyQS1WNW11RmU3Wk1uUTJVeUFjVmx0eWJlbGUtMWsyTUhHVGxLa3dfV05yQVd0YkY?oc=5",
-   "source": "時事ドットコム",
+   "source": "jiji.com",
    "source_domain": "jiji.com",
    "published": "2026-09-09 18:00",
    "published_iso": "2026-09-09T09:00:59+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-09-09 17:54",
    "published_iso": "2026-09-09T08:54:31+00:00"
-  },
-  {
-   "title": "育成就労、「航空」分野を追加へ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNU9KOHJHeDRjUlhHQXJhVlYxZXJKV3NneTNLdW9ac01LS1BwU0luNDB2Y0VTMlZ1Y1kzU2tOTmtZcGR0VjVqYi1tcG9PdHk4Y19QbFg3RDE?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-09 17:46",
-   "published_iso": "2026-09-09T08:46:43+00:00"
   }
  ]
 }
