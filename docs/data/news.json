@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T11:46:29+00:00",
+ "generated_at": "2026-09-14T17:40:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,36 @@
  ],
  "items": [
   {
-   "title": "外国人が“日本国旗売りつけ” 「私は聴覚障害者です」など訴え 全国各地で相次ぐ",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaQ1dEQmZRM0JOVFVjVFYwQUhlRm5RWUtKZ2g1N3N2SU9rRjNrMlc3djBPRVJfTmxqMlI2ekNnTlJMdXhYVGtER0RaYldTZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-14 20:25",
-   "published_iso": "2026-09-14T11:25:26+00:00"
+   "title": "英語で強気の外国人、試合で泣いた錦織圭 異国で強くなるマインドは",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3a0toSlJIWlhTRHBsY3FIa1czMEdVLTUtSDlXdW5iVEVzMERNVmZqekVDNm9rNFJ5VUdtenFWUm1uQklLc3lVcWwzaXFhMnZNNjVHWkNRQ0pIemdzYlZXTWQ1bkQ0VlE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-15 00:03",
+   "published_iso": "2026-09-14T15:03:00+00:00"
   },
   {
-   "title": "【10年前の教訓】被災した外国人を支える取り組み広がる 熊本県内の外国人は10年前の約3倍に",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ19uSFg1bExOb0NkWTR5TFBSMlB0ZURtQjEzZGM4dENmcTBIS0ZoQzZtenhCN1B1QkY5TGpvMzhqN0dOMG9iT3lsWmQ0cGdraUEyN29ScEUyZnZxMlhLSmZ1NDgxWGhzVFJoZE1yRHlmZEw3am9vRkIxcHFJSmFiSHczSjFfM0k?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-09-14 19:14",
-   "published_iso": "2026-09-14T10:14:00+00:00"
+   "title": "豪極右ワンネーション、移民 「3年で75万人削減」案公表 産業界は懸念",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80TDNicmZwMEFwaDk4ZmZTTUF5UUQ4VThxYk93TE5FZ1JRa1FJUTdLUGZKYkxQZWtTMkNRRWI5Q2hmbExkTWR0VTdRMl9ZcjVTZlR4elpoc1lBT0pQNkhaa1hkaWU4eU5WdnNsWQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-14 22:11",
+   "published_iso": "2026-09-14T13:11:05+00:00"
+  },
+  {
+   "title": "広島県府中町で外国人スピーチ大会 日本語教室で学ぶ10人が発表",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1OWpxSHRMUzZOOUlnSXN3ZzdRTTRJSTZsU3ExeFV5blZqRlFwbUdSS3ZwYUxFVEZGMEhCa0dBV285a3l0cmN6dGFMSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-14 21:17",
+   "published_iso": "2026-09-14T12:17:29+00:00"
+  },
+  {
+   "title": "トルコ地震で支援受けた「恩返しがしたい」 豪雨被害受けた氷見市で外国人も復旧作業のボランティア",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMYU1ZTTVlRzViRHhNNHNRSFBTbGlLV0ZSd2ZudllURGI5ZHhmZEJwMDdoaXlFNjRnQVlqc2ZVZEZvbmNLTVV6XzNOellUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-14 21:00",
+   "published_iso": "2026-09-14T12:00:00+00:00"
   },
   {
    "title": "福山通運、外国人材想定し小型トラック36台導入 普通免許で運転が可能、人手不足に対応",
@@ -38,14 +54,6 @@
    "source_domain": "47news.jp",
    "published": "2026-09-14 19:09",
    "published_iso": "2026-09-14T10:09:30+00:00"
-  },
-  {
-   "title": "ZOZO、国連UNHCR協会と難民支援に向けたパートナーシップを締結",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxM1RLdmRzRUhxLVpidmMwYUZpWVp0dFdhQXhudG8tWC13THFieVNPM1RjRndGQ0pXX1VQb3ZSSTFLX19jM3BrbEl3ZGF0Z0dpWjMtZG1LQXc2Y1huYl91anZqNVFvMFlGWExZ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-14 15:26",
-   "published_iso": "2026-09-14T06:26:56+00:00"
   },
   {
    "title": "欧州の移民、何が問題？ 住民の不安解消が重要に",
@@ -74,7 +82,7 @@
   {
    "title": "トランプ氏が言えば正しい？ 移民めぐる虚偽情報を垂れ流す政権にアメリカ市民は慣れてしまい",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5SnZrOWp4d2Vxb0MxcUhLTW1ieWpwcE9kWkVCMy1ITW5ZUHkyS1ljcGlrVm91YUlUc2h6QjNqd3hrZkNKaWoyNFczM1pfTjRvZG5J?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-14 12:00",
    "published_iso": "2026-09-14T03:00:00+00:00"
@@ -122,26 +130,10 @@
   {
    "title": "支援するのは「トランプ氏が優先する文化」だけ 移民、黒人、LGBTは削減…「アート生き残れない」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zN3dkSzRrdGlnbjVncVhVTFFoMm5pb3JFRGlsUG5kbjFvMkNjQ0hXSlpSQ3AzOXNfaG93bDVvYnNlNV9aUXFuYVZ3QVZ4SWRzZ05n?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-14 05:00",
    "published_iso": "2026-09-13T20:00:00+00:00"
-  },
-  {
-   "title": "外国人にも人気の鮮魚スーパー「角上魚類」 なぜこれほど新鮮で安い？驚きの舞台裏をあばれる君と魚好きブラジル人親子が調べてきました！【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kTmRiVWlfNmpsdzZIZmZCZTZyTHppWnoyT0kzT05zU2VLRFFXYjlkWWF4X2JDZ002bDBqUWhueWE2ZGZkVUxXSnFTWnQyaTVZMzUzNlFTSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-13 17:01",
-   "published_iso": "2026-09-13T08:01:03+00:00"
-  },
-  {
-   "title": "京都府北部の外国人相談強化 新戦力は「アニメで日本語を独学」した米国人",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rS0dEZS1YMmZnYWJZWnZ2RXZwTFpOSVJ4WGV6ai1hc1VOVFlWQWdMWXJFQ2lLbEhicldrSlVuZTJwQkRBc1RPQmJuVXZ4QlpSSzJkcVRPaHc?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-09-13 16:00",
-   "published_iso": "2026-09-13T07:00:00+00:00"
   },
   {
    "title": "外国人絶賛「今日本で買って帰りたい」 味覚の秋へ「かっぱ橋」最新＆驚き便利グッズ",
@@ -150,6 +142,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-13 11:00",
    "published_iso": "2026-09-13T02:00:00+00:00"
+  },
+  {
+   "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-13 08:00",
+   "published_iso": "2026-09-12T23:00:00+00:00"
   },
   {
    "title": "人権侵害の一方で…外国人労働者の獲得競争が加熱 迫る“受け入れ上限”日本が「選ばれない国」の懸念も【報道特集】",
@@ -176,18 +176,18 @@
    "published_iso": "2026-09-11T23:15:00+00:00"
   },
   {
-   "title": "北海道：函館ＰＲ外国人目線で フィリピンからインフルエンサー 「ぜひ訪れて」：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtLVZTQ1lHaDJWYmZkZ3NKZFQ2aG1oLWVhLV82cFF0dnJPSG9NZWhLRXZlM25JckQycnhuYzNwTnhPTEIwdUM1RmRjRER6TF9NSFV1TTlBa1c5X1RUSW5QaDFuSEhOQUJKTHRrNGdkNUtUWVJD?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
+   "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
+   "source": "tokyo-np.co.jp",
+   "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
   },
   {
-   "title": "急にルール変更、運転免許の更新が不可能に…「生活の足奪わないで」非正規滞在の外国人が提訴",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YT1lFYWRyS2F2R0JQdXBXUkdVX2pOSE9RMEhEeFhGYjJ4UFdaMVFGdTI4NDQxNXYzOENPaHFKTmtRb0FqYzJNUHFjd1Fab3EwWjlV?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
+   "title": "北海道：函館ＰＲ外国人目線で フィリピンからインフルエンサー 「ぜひ訪れて」：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtLVZTQ1lHaDJWYmZkZ3NKZFQ2aG1oLWVhLV82cFF0dnJPSG9NZWhLRXZlM25JckQycnhuYzNwTnhPTEIwdUM1RmRjRER6TF9NSFV1TTlBa1c5X1RUSW5QaDFuSEhOQUJKTHRrNGdkNUtUWVJD?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-09-12 05:00",
    "published_iso": "2026-09-11T20:00:00+00:00"
   },
@@ -250,7 +250,7 @@
   {
    "title": "モロッコ、セウタ不法移民殺到への関与否定「なぜ送還しないのか」",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pdHlwVHRDaU5MTm4wYk9wd0Rzd1d2OXVFeDZRUDRtc1hhSlN6QjVtdDJRMkdHb0h1LVg0a2VnNnB5THc4eTV4RFRpZ3RHQ0lISTBBVA?oc=5",
-   "source": "sp.m.jiji.com",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-09-11 17:02",
    "published_iso": "2026-09-11T08:02:00+00:00"
@@ -360,12 +360,12 @@
    "published_iso": "2026-09-09T21:50:00+00:00"
   },
   {
-   "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BLWlIRTR4cE1ZeS1QR2ZZMmRtVjhkZVZDZTVwUGJpQ1RMYU1fZHppMkpZaVo3MHpLNExMMkNfS094clRXTXlWSWJOUUhzd05EdlB3MEg2V2NPQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-10 04:00",
-   "published_iso": "2026-09-09T19:00:00+00:00"
+   "title": "外国人材の受け入れ制度「育成就労」の運用などを話し合う政府の有識者会議＝9日午後、法務省 - 育成就労、「航空」分野を追加へ 政府、有識者会議に提示 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EMlJMTzNlXzd6cVl2d0N4NmZjQU9JY21UYjB1cFIxTnFDOWN1SU9JZTdkdXlfU3YzSmtLTFRDUncwSUc4bUZsa1dxNUYyNEp1aWN1LTNXbw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-09 19:44",
+   "published_iso": "2026-09-09T10:44:54+00:00"
   },
   {
    "title": "外食業の特定技能、受け入れ再開未定 現場では「ギリギリ」の声",
@@ -392,20 +392,20 @@
    "published_iso": "2026-09-09T09:00:59+00:00"
   },
   {
-   "title": "育成就労、「航空」分野を追加へ 政府、有識者会議に提示",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pN1NockdESFVQUUpOQlB2U2NmeHdhN0NGa0hqdjVCbkFBWXVEV254bmZvQ3pSbFBIU2dDUERXOHBxTWlTb3lVYlZrSVRtNFV4RnVzQVVnNE5rQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-09 17:55",
-   "published_iso": "2026-09-09T08:55:34+00:00"
-  },
-  {
    "title": "農場関係者のセクハラ否定 特定技能ミャンマー人訴え",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1La1N6c2ZpUEtQVUk2b1hTWURjamVERm1nOXViUERDb1huS1A2M0VUaWFzX3JLbERZQUFtZUkzZFJkYUd4NXJTd3FDVQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-09 17:54",
    "published_iso": "2026-09-09T08:54:31+00:00"
+  },
+  {
+   "title": "育成就労、「航空」分野を追加へ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNU9KOHJHeDRjUlhHQXJhVlYxZXJKV3NneTNLdW9ac01LS1BwU0luNDB2Y0VTMlZ1Y1kzU2tOTmtZcGR0VjVqYi1tcG9PdHk4Y19QbFg3RDE?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-09-09 17:46",
+   "published_iso": "2026-09-09T08:46:43+00:00"
   }
  ]
 }
