@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T22:51:31+00:00",
+ "generated_at": "2026-09-14T00:42:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,15 @@
  ],
  "items": [
   {
-   "title": "在留資格ない埼玉の外国人男女１３人、運転免許更新できないのはおかしいと提訴…昨年１０月に法改正",
+   "title": "スウェーデン議会選、中道左派が４年ぶり政権奪還か…首相は「勝利なら反移民右派に閣僚ポスト」公約",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9waXd2c3hIbGNMSmZCU3ZpcHdZcFZmdFJUalNTZzdrU3FpMGItX0lRVDdaZ1VVWlM3cUNTRThvcUNtaW5ITUNzR05Ba2RGS3RXMkZEanBoQVI3aWNxbW9uZTJ3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-14 08:24",
+   "published_iso": "2026-09-13T23:24:00+00:00"
+  },
+  {
+   "title": "在留資格ない埼玉の外国人男女１３人、運転免許更新できないのはおかしいと提訴…昨年１０月に改正",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ENmZkTmw4OGRKZ21XM0l2MERIZEdXbGQ4aGMxRmp1QXRiSU9GQ0tvbkVDTHdVcmlQSUl1b1VXUlljT3FHR0NHMXp1OXNtUzhSYTljNmhSanlVcG9CYUpYV3h2ek5vZw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
@@ -50,7 +58,7 @@
   {
    "title": "「できない人がいても、できる人がいる。それで支え合うのが共生社会」 元パラ陸上選手、辻沙絵さん講演",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OTGVEdVI3TTFRT2VxczFwemtoQUpvWUNqRmUzYjFJdU10Y0FvTlJKV0lWS2dlSmpQaW5zQ2ducVhyWmtGY1FjeTlpQU5LSndXak5YZjY3OG93UQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-13 16:19",
    "published_iso": "2026-09-13T07:19:28+00:00"
@@ -74,7 +82,7 @@
   {
    "title": "「安全な日本でなぜ…」人助けで事故死の留学生 その日も母に電話 [兵庫県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rSEhyRlVXMFRPNnlRaUIyemlyVmhDMjlnamg4UGk0QXNvUmcxYjBGT3M1Z0hKYkZBbG0zODk1dll4eWh0alYxZS1IWDFYUWNSUWo0dEduY1dxUWZYTUhVSDBwVnZDaWc?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-13 08:00",
    "published_iso": "2026-09-12T23:00:00+00:00"
@@ -98,7 +106,7 @@
   {
    "title": "介護の仕事、良いヒントもらう 境港総合技術高校福祉科の生徒が技能実習生と交流",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13SFA5WlA3QjRPODN0aUxUSnh2TjV5YXFUMDlrR0ZpN0R6TjlsUVBkdjUtNGlXNXdva0UxdmU0X08yc21pM2p5UU8tZw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-13 04:00",
    "published_iso": "2026-09-12T19:00:00+00:00"
@@ -176,9 +184,17 @@
    "published_iso": "2026-09-11T11:16:00+00:00"
   },
   {
+   "title": "ベルトコンベアに巻き込まれ死亡 モンゴル国籍の男性技能実習生 死因は脳挫傷 広島・呉",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YQzd6dEg3VDB3WVpDOFdEMjJPSGdXNEx5dnA4ZGhudlJjdTlsSGxob0w5MzNoUUhaQzJPV3B1YlJKUTlCWGpNRkg5M3hud2JQbTJhNzYxVm9MNTNnZUNhT2NuQVFvbHc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-11 19:13",
+   "published_iso": "2026-09-11T10:13:00+00:00"
+  },
+  {
    "title": "外国人の生活保護認めず、最高裁で原告敗訴 判事1人「排除は違憲」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ud21tY0ZSTWV6eG9nbGVEQlo0ejhKcDllbnVXYThyU0pkb1R6V1JLOWZpOXB5STFNbmZjR2dZaG16NHlrZktYZEN1UnhrNDFxcXFDSnVBTTVrOHREdlVia2o5dWVQY00?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-11 19:04",
    "published_iso": "2026-09-11T10:04:05+00:00"
@@ -186,7 +202,7 @@
   {
    "title": "特定技能の受け入れ費、勝手に天引き「違法」 100万円の賠償命令",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNXFWenJVMF91Z1k3SFRtdkhJNjA4T1pkZHJOczVVbU9iLUJiQ21fejVBWTFEbUo5SW5mTDNSTmRRcXVhLVZIMUNmZVlpV2E0SXNjUkI4bXJ1czRWV1hpbjJ2dG5sVlk?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-11 18:53",
    "published_iso": "2026-09-11T09:53:53+00:00"
@@ -226,7 +242,7 @@
   {
    "title": "入管庁、他省庁と合同で調査へ 外国人の不法就労対策",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTWDhYbjNVUDU0bjBseVE0NkRBdWlDUHB0a2g0TUpOby1heVAxSFl3SFNsb1JQZVRfeFZIZFllSXljS1hzWm9vX0lIbC1zZDZyOU1NUXJNczR5QQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-11 15:09",
    "published_iso": "2026-09-11T06:09:47+00:00"
@@ -248,9 +264,17 @@
    "published_iso": "2026-09-11T02:43:00+00:00"
   },
   {
+   "title": "外国人にも人気の「宿坊」で申告漏れか…計1億円超 宗教法人、なにが課税？（2026年9月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kbFFHRWIzMXNRSkRjRDc3RnZxYUdSd2dyRFFGY0tOU2ZHdERLLXZsZjNHZlVyOFdsQUlpUEROVnI0WEVERlFGRExSemdQRmVJMzlmT0xkaXJVTmlSUVR3cjM4QlE3ZGJpaU9nVFVrcDU5UkJSNDRoZ3ZUUFI?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-11 06:22",
+   "published_iso": "2026-09-10T21:22:00+00:00"
+  },
+  {
    "title": "「移民は脅威」米国で消えぬイスラムへの敵意 トランプ政権下で深まる分断 イスラム教徒の市長誕生も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xLXRwVkhSM2cwUTNqbklPYzEyY0U1UHcxZFU3VDN5eTFEdVN2Y2VjMnp2ZjBsSHpINi1yMjFKTTZyeWx1NGx4VnRiVENSMkpEWmxQMnZR?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-11 06:00",
    "published_iso": "2026-09-10T21:00:00+00:00"
@@ -258,7 +282,7 @@
   {
    "title": "使わなくなった服、世界の難民の子どもたちに 高森町の中学生が募る",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pTnVORGozRjhOUTZDd1V0UjVlY0tiTHBPblN1YklaSnBXT2pvOXotamFWNWFCM0hrMWdmMHo2NkFXTGhUYllSWkFBZw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-10 18:58",
    "published_iso": "2026-09-10T09:58:00+00:00"
@@ -274,7 +298,7 @@
   {
    "title": "取材に応じたイエメン暫定政権のズーバ外務・移民担当相＝8日、エジプト・カイロ近郊（共同） - 「航行自由のため支援を」 イエメン外相、対フーシ派 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MnlPcTBLcEQybjJxYkpxTGJELWVwN0tlRmRyUHI4VmxfOV93OERvaFZMSzhJd1BOMmNSMkFWbTFWRkdiaDF1TVRIZmgxdjd6Zms4SDNsZw?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-10 18:42",
    "published_iso": "2026-09-10T09:42:40+00:00"
@@ -322,7 +346,7 @@
   {
    "title": "「警備業」人手不足深刻 特定技能外国人ら受け入れ議論の検討会設置",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51S3FGS0VCcE5qN2wwb2VmaGsxTTkzUExzaGxWLVpEQ3VkS2hFTlVkZXRZbDFYckRKR0c4U2F0YTlid2o5VEhHck5KRWRIQmR3SzFPdzNtYnUxVzhMaW5ZeV9wSm45T2c?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-10 11:30",
    "published_iso": "2026-09-10T02:30:00+00:00"
@@ -360,17 +384,9 @@
    "published_iso": "2026-09-09T23:03:31+00:00"
   },
   {
-   "title": "オーストラリアが留学生のビザ拒否、過去10年で最高水準 移民規制",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTEI1aFJrMUlMOE5JQ2xBM1c4NmE5dWNJeU1sc0xJQkZmSkFvSk5sTVpZcFQ5dGhOaWU4YjdmYkdmbE03dEwtWGVZNjlDSmsxOE1TUUxYYXNXVEtYeS1yWlV5aWRpS3FPZFplTg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-10 06:50",
-   "published_iso": "2026-09-09T21:50:00+00:00"
-  },
-  {
    "title": "育成就労「航空」追加へ 政府、有識者会議に提示",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BLWlIRTR4cE1ZeS1QR2ZZMmRtVjhkZVZDZTVwUGJpQ1RMYU1fZHppMkpZaVo3MHpLNExMMkNfS094clRXTXlWSWJOUUhzd05EdlB3MEg2V2NPQQ?oc=5",
-   "source": "北海道新聞デジタル",
+   "source": "hokkaido-np.co.jp",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-10 04:00",
    "published_iso": "2026-09-09T19:00:00+00:00"
@@ -378,7 +394,7 @@
   {
    "title": "外国人材の受け入れ制度「育成就労」の運用などを話し合う政府の有識者会議＝9日午後、法務省 - 育成就労、「航空」分野を追加へ 政府、有識者会議に提示 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EMlJMTzNlXzd6cVl2d0N4NmZjQU9JY21UYjB1cFIxTnFDOWN1SU9JZTdkdXlfU3YzSmtLTFRDUncwSUc4bUZsa1dxNUYyNEp1aWN1LTNXbw?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-09 19:44",
    "published_iso": "2026-09-09T10:44:54+00:00"
@@ -390,22 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-09-09 19:28",
    "published_iso": "2026-09-09T10:28:26+00:00"
-  },
-  {
-   "title": "暴行被害など訴える特定技能ミャンマー人6人が初の団体交渉「顔を見るのが怖い」農業法人側は未払い賃金に応じるもセクハラは否定",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QT2NIcWhXVWVhM2h5UVZZRzRXSnZjdW9LUUNlSDJJdTdhbnFSN3RCNTRNSzMxdm1UcERwU1ZIeWlJbTZEZFhMTzhoV1BQTUthbjBlcGNsVDZFbHVSS0FTbFZXZE03UWc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-09 18:33",
-   "published_iso": "2026-09-09T09:33:00+00:00"
-  },
-  {
-   "title": "「育成就労」に関する有識者会議の会合",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XeDZMS2VSVTk4NlQ5cVkzcE1pdEQ1eWVNR3pwQl9uSzR3MmM1VzQ0a0dVd3kyQS1WNW11RmU3Wk1uUTJVeUFjVmx0eWJlbGUtMWsyTUhHVGxLa3dfV05yQVd0YkY?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-09 18:00",
-   "published_iso": "2026-09-09T09:00:59+00:00"
   }
  ]
 }
