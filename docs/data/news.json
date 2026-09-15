@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T16:13:43+00:00",
+ "generated_at": "2026-09-15T19:58:28+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "現場と現地を結ぶ「MIRAI専任講師・サポートスタッフ」の育成にかける想い｜外国人材の長期活躍を支える人と仕組み",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hekQ3eHFIWlNUTGFjcGlYYXpNTjkyNk9CNUh0RGdzU3FsRkFnRkZTZEh6di14bldsXzlRLUs2dVlYaUg0MmZ4bTc0c2hKTnhob0g2enV1NTRXbHBWbndIb093MlpaaXhHcGpz?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-16 02:40",
+   "published_iso": "2026-09-15T17:40:00+00:00"
+  },
+  {
+   "title": "ベトナム人を現地店長に さえき、技能実習生に着目 100店展開へ10年計画",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qb2I0YlhpWmVnVUtRQkFHR0l6WkhlYWlBeEdhZzFLTUdxTGxMZjBjdDZJWW5zY2gtOTdjQlQ1cFM0RDNjMXR3elowVEJWUnZNQ0R4WEdYUWVqX0FPeXF1SDVuYWhrUDNKRWdvNg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-16 02:00",
+   "published_iso": "2026-09-15T17:00:00+00:00"
+  },
   {
    "title": "外国人土地取得0.7％ 中国が最多 都道府県別では北海道が最多",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uTXA5R05DVE5SUThxaHVFekU1S2tyLUY3VzlpdWtVeHlYdmtUNEh4eW9jQjJiUk42WVJOZlE3TnVSWUNLQmxKd1RVZFRmZw?oc=5",
@@ -38,14 +54,6 @@
    "source_domain": "sankei.com",
    "published": "2026-09-15 20:57",
    "published_iso": "2026-09-15T11:57:14+00:00"
-  },
-  {
-   "title": "現場と現地を結ぶ「MIRAI専任講師・サポートスタッフ」の育成にかける想い｜外国人材の長期活躍を支える人と仕組み",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hekQ3eHFIWlNUTGFjcGlYYXpNTjkyNk9CNUh0RGdzU3FsRkFnRkZTZEh6di14bldsXzlRLUs2dVlYaUg0MmZ4bTc0c2hKTnhob0g2enV1NTRXbHBWbndIb093MlpaaXhHcGpz?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-15 20:40",
-   "published_iso": "2026-09-15T11:40:00+00:00"
   },
   {
    "title": "国土交通省 - 外国人の大規模土地取得0・7％ 21道府県で68件、中国が最多 - 写真・画像(1/1)",
@@ -80,6 +88,14 @@
    "published_iso": "2026-09-15T09:00:00+00:00"
   },
   {
+   "title": "「できない人がいても、できる人がいる。それで支え合うのが共生社会」 元パラ陸上選手、辻沙絵さん講演",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OTGVEdVI3TTFRT2VxczFwemtoQUpvWUNqRmUzYjFJdU10Y0FvTlJKV0lWS2dlSmpQaW5zQ2ducVhyWmtGY1FjeTlpQU5LSndXak5YZjY3OG93UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-09-15 17:50",
+   "published_iso": "2026-09-15T08:50:00+00:00"
+  },
+  {
    "title": "外国人留学生、羅臼コンブ学ぶ ヒレ刈りや漁具体験",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISk5fRlk2d1Fqck40U3B3dHBmcEdnUnBVdVNCRGlkRDZTRWMxVXdibExhUHE0LXVyZVNZS2lkREhDdG1OaGVuc1YzajZhSEl3NTM2Z2JJd1JjUQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -98,7 +114,7 @@
   {
    "title": "【速報】国交省、外国人の土地取得状況を初公表",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IOTk5YkpSV3RfNDdWeVBwbjFwbEF0QzY5WnpRX3BmTjVtN1FpNDl4aVlsVzdmWl9XM1hVZXpFS25qbXJkOVJPNTRsbw?oc=5",
-   "source": "47NEWS",
+   "source": "47news.jp",
    "source_domain": "47news.jp",
    "published": "2026-09-15 17:11",
    "published_iso": "2026-09-15T08:11:43+00:00"
@@ -154,18 +170,10 @@
   {
    "title": "ブラジル行きの移民船で出会った曽祖父母は「タイタニックみたい」",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VRVFFblJYWW9mZnlPT0laOG5LSmJ3c25PWWRCa1JtS0w3SGlWc0wzQi1VWVhsRG5lak1qemtFSkVib1BtdW9CM1BjazNab0FqRDM3Mw?oc=5",
-   "source": "中日新聞Web",
+   "source": "chunichi.co.jp",
    "source_domain": "chunichi.co.jp",
    "published": "2026-09-15 05:10",
    "published_iso": "2026-09-14T20:10:00+00:00"
-  },
-  {
-   "title": "障害者と健常者 支え合いが共生社会 元パラ陸上・辻さん講演 函館",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WTERDY0lIYWhnTGtnYzRnWU12TktGblRwcFh6TlpxeWxZNTRzcE9rbVFvNlpEd1BQb2l1cTl0YkZFOFBCQXFrWHozRmhxR1dOV3VIbFBaMHFEZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-15 04:00",
-   "published_iso": "2026-09-14T19:00:00+00:00"
   },
   {
    "title": "〈外国人「共生」の行方〉雇用、上がるハードル 「高度人材」偽装問題、政府が対策 在留者も資格更新に不安",
@@ -200,22 +208,6 @@
    "published_iso": "2026-09-14T10:12:59+00:00"
   },
   {
-   "title": "オーストラリアの極右党、移民削減案を先鋭化 「３年間で７５万人」",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDNwVGxMYmYzMmhVREJocHNBRi0zUGlqSnBXYVdoYnAxZmtHbExRNWd1Vl9PS1dRMXZIbno3czNrTDdYMXFqRlc3eXZqNlVYNDBlOWJaWnBVb1ZkNEVkNXJsampoSXE3MW13d3RNUzNJNllqWW41aGNlcEVXaGpUdQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-14 15:42",
-   "published_iso": "2026-09-14T06:42:00+00:00"
-  },
-  {
-   "title": "欧州の移民、何が問題？ 住民の不安解消が重要に",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53ZzcxTUxVSzhIMEFueEwxZWV3eGZzUXJlMENzM01IQlRKeFpTcVNZdE1RZ25jWkhWSVNTMlBIdUhRQV9tOUZrcVFIcXZkZzctRjR2bktfdlFTWUZBS1pjSFA0ZUhSLTZZUXZLdA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-14 14:30",
-   "published_iso": "2026-09-14T05:30:00+00:00"
-  },
-  {
    "title": "【2026年9月最新版】衝撃 ！特定技能1号「受入れ上限」予測。2028年に介護・建設・農業など5分野が軒並み受入れ制限か？ 日本の労働力不足はどうなる！？（独自試算）",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oOFpJRG9qQUVnd1o0YTJOYV9nbGdKaUxXNEFuNVZmS3pBUnRtanlmZUVkX2dvUXdDV1lXX3lOMW1zc1ZES1ZmZFFWUkd3UjZQSG9yUW9uQ1ZQenduOEk0Zm5kSmF3dTZpQXlV?oc=5",
    "source": "時事ドットコム",
@@ -230,14 +222,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-14 12:00",
    "published_iso": "2026-09-14T03:00:00+00:00"
-  },
-  {
-   "title": "【外国人材の早期離職を防ぐ】母国語で受検可能なオンライン適性検査「PandaTest（パンダテスト）」を、中小企業向けに少人数分から提供開始",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qOXZhOEZjM25PdWE5a1dxc2pRbk5qbENmM25Nd19IYXMxV0M1YjUzeldGcDVXeW5KOFZQS0U5NjhUTFV5NklyTWZxX0pBTXRtNThnak5iWElyZkR3UzI3QkNQNW53WFJHZ1V0M2xXZnhDZjR1by1SWnBHYw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-14 11:56",
-   "published_iso": "2026-09-14T02:56:37+00:00"
   },
   {
    "title": "スウェーデン議会選、中道左派が４年ぶり政権奪還か…首相は「勝利なら反移民右派に閣僚ポスト」公約",
@@ -278,6 +262,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-12 20:40",
    "published_iso": "2026-09-12T11:40:00+00:00"
+  },
+  {
+   "title": "欧州の移民、何が問題？ 住民の不安解消が重要に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XcGFQb25ZTlAwOFVHTG41ZHJ6R2JmZGxIR0daWWRnNFdtTl81TV9rYUkxcXV4UHJKVHlCMkwyQkR1YTFtM1pXa1NLb1MwRWYwLVpFUThFc3RBLU5mRlEwTXlFNzkyUzdQOFpuOA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-12 05:00",
+   "published_iso": "2026-09-11T20:00:00+00:00"
   },
   {
    "title": "特定技能のミャンマー人女性給与から違法天引き、ラーメン店側に１００万円超支払い命令",
@@ -400,12 +392,20 @@
    "published_iso": "2026-09-09T09:33:00+00:00"
   },
   {
-   "title": "「育成就労」に関する有識者会議の会合",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XeDZMS2VSVTk4NlQ5cVkzcE1pdEQ1eWVNR3pwQl9uSzR3MmM1VzQ0a0dVd3kyQS1WNW11RmU3Wk1uUTJVeUFjVmx0eWJlbGUtMWsyTUhHVGxLa3dfV05yQVd0YkY?oc=5",
+   "title": "農場関係者のセクハラ否定 特定技能ミャンマー人訴え",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JQmJRN2ZuaHprNGtUSVpqLU5qd3ZPTlhoRTlBd0NvQzhzUVlLbkN0ZmN0QWVySXcwNHhMVXJ4VnQ0Q0J4MjRVMDY0TTE2MHEzcFV1TGVzb1RacXlOYUJwMUN4Zw?oc=5",
+   "source": "nippon.com",
+   "source_domain": "nippon.com",
+   "published": "2026-09-09 17:55",
+   "published_iso": "2026-09-09T08:55:03+00:00"
+  },
+  {
+   "title": "外国人新資格「育成就労」に航空分野を追加 受け入れ上限は変わらず―政府",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Eb0dZdWdONmpUX2x6RF8tSG51V1F4VmFVamhhZUJSWXVILWF2aVZjWUhYSU9VSWlzazczU0ZjRlVqUUx4andKWktQTGNTR2hBXzI4MTd6UklucE5QZzctOUFEQQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-09-09 18:00",
-   "published_iso": "2026-09-09T09:00:59+00:00"
+   "published": "2026-09-09 17:32",
+   "published_iso": "2026-09-09T08:32:00+00:00"
   }
  ]
 }
