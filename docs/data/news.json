@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T22:48:46+00:00",
+ "generated_at": "2026-09-16T01:04:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「警備業」人手不足が深刻に… 外国人活用への議論を開始 警察庁",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02cjF1X2tFZ2I2UUNkdzJQaE1KbU9wclIyWjc4b09tdlBvSGdod0Z5X01tcXZFZ1hsQlFWRVhOUlU0cE5tRmxxclcxZ3UyRGpRNjA4d1lFX2VkTnZST3VHVkQ3ZmdMelFtQi1GcjRYZFU5dw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-16 10:00",
+   "published_iso": "2026-09-16T01:00:24+00:00"
+  },
+  {
+   "title": "「私の言う通りにすれば必ずもうかる」SNSで外国人の女かたる人物に投資勧誘され暗号資産3450万円詐取被害＝静岡・裾野市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85UlV3ZGp2S3BYUklqaVp4U1FNSHczM0U4NHhwNHNyNm4zR2hHR1JIbDUwWWVLZUNKQjIyTnJrUDlLREh2cUxxV0Z5cURCanNqdFJ4czM5Y0Ixdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-16 08:32",
+   "published_iso": "2026-09-15T23:32:00+00:00"
+  },
   {
    "title": "〈社説〉外国人の生存権 制度のひずみ正す立法を",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tUFJVcW5QV3ZKSVlXZlV2YmJwVjJ2MEtzNWN6M19nZzU5R0J5Q0FZQkhTRTJ2Y2VVblZRYkxUWWpmNUVzTkJReFRZcUZTSEtVdVVJQXNCOGJEZ0Z6UHZTVm1IYVpudE9TZXFjcU02RDU?oc=5",
@@ -54,14 +70,6 @@
    "source_domain": "jiji.com",
    "published": "2026-09-16 02:40",
    "published_iso": "2026-09-15T17:40:00+00:00"
-  },
-  {
-   "title": "みんなの広場：外国人によるコメディー堪能＝会社員・松本健介・57",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDdWVpOV9VWXA5V3VhMnhBc01sNmxfLVZhUXhhRnVIN0pmTXB4MWlKaE1KSnFQdE5NTlhwTUt3ZXBQOHZDdVFqQmZ1ZS15VWFPTEJTcF9WRVBzajRFTzNfRlVtZ3ZXYTAw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-16 02:01",
-   "published_iso": "2026-09-15T17:01:25+00:00"
   },
   {
    "title": "ベトナム人を現地店長に さえき、技能実習生に着目 100店展開へ10年計画",
@@ -185,7 +193,7 @@
   },
   {
    "title": "広がる地域日本語教室 長崎県内で14自治体、住民との交流の場に [長崎県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZHZaVzJCWWNjLUtLQ0J1QkVXWmozX1NNQzF4Z1F4QjRvX0RkTWxpV0plUXpnUnhmZnpfbTNRQlJ4NnZRbDJ3Ny1SbFFJdmlNR0xSNUR1Nk5XclE0XzEyb1NpYzNIelhiMDVmV3lHeDBxZW14ZkJwOGs1azB1OVNnRExEYU8xQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zV0VtMEMzRnUzeGhlaVcxcWx2M3g5NlpfbjRqOTR1YXhVTzM0a3psbkhDT2taaGQ5MHBVMnhqN0F6cTZwQnota0JES2ZiTGdvSk5rQ3kxWlIxS2lpNXZhMS1WeXpid1k?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-09-15 11:30",
@@ -382,14 +390,6 @@
    "source_domain": "sankei.com",
    "published": "2026-09-10 12:08",
    "published_iso": "2026-09-10T03:08:02+00:00"
-  },
-  {
-   "title": "アクセスグループ・ホールディングス[7042]：高度外国人材採用を目指す企業154社参加 10月13日より「ジェトロ オンライン合同企業説明会2026秋」開催 ～外国人留学生向けでは国内最大級～ 2026年9月10日(適時開示) ：日経会社情報DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ucVY2MDhMWVhRM1ZBRzJXc0JJWXJBUDZtSm1rMThkSUV3WTRyUmVnemxmbXZnT2R1M0FZRnJ4akZZd2lIZlU3em9zOE5zVy1qQ0E4WEhrdGFTN29wb09PQXd4bmVIT2dldXc?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-10 12:00",
-   "published_iso": "2026-09-10T03:00:00+00:00"
   },
   {
    "title": "“警備業”人材不足深刻化の中…在留資格「特定技能」などを持つ外国人の受け入れ議論 有識者検討会設置へ 警察庁",
