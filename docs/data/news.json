@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T18:03:35+00:00",
+ "generated_at": "2026-09-18T21:24:36+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "災害で繰り返される「外国人差別デマ」、平時からどう取り組む？ 「暴力」誘発しないための提言",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uekFpVHFzTkl1SEFiMTIwREpSWVZTdFpQb2xNX3RhQzQwclJBN2lCZm9Pb0pYdjhzWFBJcEFHVElndG5fWVdkU3pwenlYc2tMN0p3?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-19 05:00",
+   "published_iso": "2026-09-18T20:00:00+00:00"
+  },
+  {
+   "title": "ミャンマー人に“暴行疑惑”の町議 2回目の団体交渉に姿見せず 農業法人から謝罪なし 過去には技能実習生“受け入れ停止”処分も【news23】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vNTdoQngxYWNOaV8wVFRvLUQ5WFRzcFFkSGs5T0JhT3FiRFB6UTRvWVV3M3MxS1d3RzU3YVpjS2xKWHh4Uk1KSWdRb3Qza0V3ckpzaHhYZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-19 03:27",
+   "published_iso": "2026-09-18T18:27:23+00:00"
+  },
   {
    "title": "セウタの不法移民に移送の動き 現場は一時混乱 相次ぐ火災で治安悪化問題も",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uLWZ6SDZrTW5uTjB0MS1JbWlBR2lGOUEzS056LWlhMU1ReUpDVTlZcko3RVNUeDI3a0xXWW9JMmtMcmZGTDlLZ1ZNajdGOFkxYnowMXVzdnBMd2ZZSlotVi10S2NYN1h3RTNlU0JrazVxa2NuYmZTUVVn?oc=5",
@@ -24,12 +40,28 @@
    "published_iso": "2026-09-18T11:23:10+00:00"
   },
   {
+   "title": "検察官出身の山下新法相、不祥事に「残念」 外国人の不法滞在対策強化も 就任会見で表明",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPT1l6Zlc5aU5KLXdVTG82R19QSGNfLXRyalRraDkxRDdlckw0OHJIeGZicGkybnpCUFlKLVZ3b0JLUDFEckJlTG5laHBFbGphQVhtZ0d4em11TVp4WVlWOTFXM2NRU2VfWHU1Y05seTFkWVNPRFE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-18 20:22",
+   "published_iso": "2026-09-18T11:22:39+00:00"
+  },
+  {
    "title": "福岡市南区で小学生が外国人風の男から「家どこ」などと声かけられる 清水3丁目付近の路上",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqT0NoZXdaQmpyQ1dhMTRqSjFFSkROb29JQVJmR1NSV0gtbXRtTExzOWpTSkFjQzFvLTVsRmNoUGkyUmtwRUVES3FxY1pIQ0RyczEtS1pB?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-18 19:00",
    "published_iso": "2026-09-18T10:00:00+00:00"
+  },
+  {
+   "title": "災害時の流言、重要課題に 根拠なき「外国人が犯罪」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aT213TVdvQ0Q3THhNX255MzVXekdJME93TlNOT19TalIyT1UxNkw2UlVGTFVSRGVKamhCVHctaUFpaC0zTWpMSmlRNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-18 18:54",
+   "published_iso": "2026-09-18T09:54:00+00:00"
   },
   {
    "title": "法人側が町議の暴行一部認める 「特定技能」外国人への暴力疑惑",
@@ -54,14 +86,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-09-18 18:22",
    "published_iso": "2026-09-18T09:22:53+00:00"
-  },
-  {
-   "title": "災害時の流言、重要課題に 根拠なき「外国人が犯罪」",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFTVlpNjdwZjRlRTUyTENBT3pWSF8xMDc0aHFkVFVBSkhOcTY4alBPOGRKMG1Ld0R5cjY1ZGpWaHJWVTNwdmZwNXVhNEFtNktGczByLXl6LTRWN1U1UDZMazNJQ3BHR3BkNXY4?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-09-18 17:58",
-   "published_iso": "2026-09-18T08:58:26+00:00"
   },
   {
    "title": "スウェーデン極右政党議席減、政権交代へ 「移民」野党も厳格化主張で争点にならず",
@@ -382,30 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-14 05:00",
    "published_iso": "2026-09-13T20:00:00+00:00"
-  },
-  {
-   "title": "人権侵害の一方で…外国人労働者の獲得競争が過熱 迫る“受け入れ上限”日本が「選ばれない国」の懸念も【報道特集】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91eHppVEtUaVQ0ZmFZSFZtNmtLTWlXSktmVDhkZlF6elBhQTlQQVVDZUxWRkdRRWNkZ0lidGNnTHJhTTRFS3RSbUhOeVVkVFJiR09hdE5QTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-12 20:40",
-   "published_iso": "2026-09-12T11:40:00+00:00"
-  },
-  {
-   "title": "つけめん店運営会社に賠償命令 「特定技能」外国人の就労巡り―東京地裁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qRFBNdVJhejJIMk9pa0pEdENENmltU1NmTXVpaHFRMjJtRGtIVVg1WGRmb1E0d0tFcFBwUzc5cl9iME1TUEhOMkdnZjBTVGJzcVBRVllvVGJ3OERxWUZXVjdXTQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-11 18:49",
-   "published_iso": "2026-09-11T09:49:00+00:00"
-  },
-  {
-   "title": "警備業で育成就労と特定技能で受け入れ議論 警察庁が有識者検討会設置",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wVlJmbk4tOGw5U0Vpd19zYkRGZGFVRFBwYW1INDdVNU1Fcm1DcXJUZWdGTS1KaC1OWTlYLU1kWnlhY0hYNDJtbVJnVTRwWTNUazhvc2dOcktjOWkxSWRHblJPM2VrUWN3WkNtWldJVnpOT2U4TFE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-10 12:08",
-   "published_iso": "2026-09-10T03:08:02+00:00"
   }
  ]
 }
