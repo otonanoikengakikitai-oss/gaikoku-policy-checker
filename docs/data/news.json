@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T22:26:02+00:00",
+ "generated_at": "2026-09-22T01:25:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -26,7 +26,7 @@
   {
    "title": "難民選手団の男女２人会見「多くの人々に感謝」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWFcyVC14SXR5aFJjOEdTWlFtTHdXa2ROTmFXaWtlNzFUbE4yX0plNENSeEdMZ0ZDaEZfZmJ6eENwd293UGNqeWYzV1FOZmRtVmJUUmZXaWRTQlRNcmpSZVdvdzk4WE1C?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-22 05:00",
    "published_iso": "2026-09-21T20:00:00+00:00"
@@ -138,7 +138,7 @@
   {
    "title": "移民３世代の葛藤描くブラジル映画「ニホンジン」 静岡県内上映に共感広がる SPACも舞台上演へ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UMkRfM3FLTUFiV3lwcUtvQ1VvVTNnMEtYMVh6Z1FwZHRsak9yVkd4bnVSTGZjd1Rwc0x4bm1ub0dfSjRKQlRDM1luVQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-21 10:50",
    "published_iso": "2026-09-21T01:50:00+00:00"
@@ -146,7 +146,7 @@
   {
    "title": "イタリア、学校でブルカ禁止方針 首相、外国人生徒数に制限も",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KeS1zcTRpb3Y3M0xPZEMxRHFrU21qdjVYaDh2cXNvUV9rY082bE8wNXBBdEY4dS02V1B0Tjh1TkNDV1Y5SWdHalNDcw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-21 08:45",
    "published_iso": "2026-09-20T23:45:00+00:00"
@@ -170,7 +170,7 @@
   {
    "title": "大阪 ヘイト デモの訴え「憎悪」一変、「抗議」を前面…外国人集住地では先鋭化も",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05THgtdkpmdjRqUXcza1VkZlUwMEl5T19VTTE3TEtmYVdGcEVGOWtVWXVSbkRsaFNHT09pSjh0Yk5Jc3dBbVJFYjgyQU15SFg3Y1RkeDljNTVNUWtoYzNXVHRQc3ZycjhPQzlndXRrR0dIdw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-21 05:00",
    "published_iso": "2026-09-20T20:00:00+00:00"
@@ -186,7 +186,7 @@
   {
    "title": "難民選手団がアジア大会に初出場…シリア出身の男女２人、ヨルダンの難民キャンプから参加",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNjZ4S1Bqckh2c2ttSWxJWnUzcmdIM21kdVN2YVZqZ0Q5VTA3TWVQZWlTd3lzZ3NUQ201cXhRTlBjY2h4bXBjYkJMSGZvUFlkM1hBVzdQSVZlelVBNjVvMU5ncDY1R3Z2?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-20 10:02",
    "published_iso": "2026-09-20T01:02:00+00:00"
@@ -210,7 +210,7 @@
   {
    "title": "大阪・堺市の人口８０万人割る…コロナ禍後は外国人流入増も、減少傾向続く",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EQkZNRUxiRERoa3dmUjJ6MVJ2cnZwQkdiN24xMzJBVFRMODR5bVdnUVR2M1NFOWdRam02eVl2SzBmQXZDLUlqNS0xcXVkRS0xamdjVkFoSURYZEFlV2xFVDlaQ1pzcnVZQVZaaS1FaURmZw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-19 18:40",
    "published_iso": "2026-09-19T09:40:00+00:00"
@@ -290,7 +290,7 @@
   {
    "title": "災害時の流言、重要課題に 根拠なき「外国人が犯罪」",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aT213TVdvQ0Q3THhNX255MzVXekdJME93TlNOT19TalIyT1UxNkw2UlVGTFVSRGVKamhCVHctaUFpaC0zTWpMSmlRNA?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-18 18:54",
    "published_iso": "2026-09-18T09:54:00+00:00"
@@ -352,28 +352,12 @@
    "published_iso": "2026-09-18T00:51:28+00:00"
   },
   {
-   "title": "没後８０年でオバマ大統領から称賛された日本人移民の半生が映画に…米国で国立公園の設立に尽力",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15THZLbm5qQi1sTkdNMmVMemVkNDZXSDVaUDBra1JKRzBEUWJ4X3dhVFZ6UWNYVlpHUXI5a2VpY21hVVZFNFd3aV81UldTeDNJU093T2JDc0dwYlByU1FkcUg4dkZXdw?oc=5",
-   "source": "yomiuri.co.jp",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-18 07:45",
-   "published_iso": "2026-09-17T22:45:00+00:00"
-  },
-  {
    "title": "強い経済を実現・力強い外交を展開・秩序ある共生社会…高市首相が全閣僚に出した指示書全容",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41RUhGalNESWx1Z1dZUU1yZkNMVkRmNFc3SXhCWUs0RmJmUjItME53cDNJOFRSbG9xcXIwTXY0SExDQ1JnSGZ1MEtxTHVrNkFjWGtJY1ZlS2N2cC1oR3hHbzA2a3dVZw?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-18 05:00",
    "published_iso": "2026-09-17T20:00:00+00:00"
-  },
-  {
-   "title": "川口バイク19歳死亡事故、トルコ国籍男に実刑1年6月判決 さいたま地裁「危険な運転」 「移民」と日本人",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVTlZOEplSGxOV25IUFZLZG03X1BRRHFWczJLaV9OV254TmtULXVOc0FGa3NoTVRlem9wWV9VbkEyaTQ2MWJMb25MemNtSXRYNzF1OTNvQVBNVjNNSW03bTJ6cE1oYTY0NmowYlExZ3pheG9Yc2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-17 18:24",
-   "published_iso": "2026-09-17T09:24:26+00:00"
   },
   {
    "title": "「在留カード」つくる配備プリンター、103台が使われないまま 入管庁に会計検査院が指摘",
@@ -382,14 +366,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-17 17:00",
    "published_iso": "2026-09-17T08:00:00+00:00"
-  },
-  {
-   "title": "オーストラリア「ワーホリ」更新を抽選に 移民抑制策、留学は原則単身",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMGt5aFQxYzNJb3RXMDVVbGpJdUE0NmVOWHJTb2xFWEZZelV2eV9PRHdBbVRRZTJ1eWxGQklFak9OMThLc213bXhLZ1B3QjktZndqZmRJaDh5a2x2Qm1hdGhsRQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-17 16:38",
-   "published_iso": "2026-09-17T07:38:00+00:00"
   },
   {
    "title": "「農場関係者から暴言や暴行」 特定技能のミャンマー人男女が証言",
@@ -406,6 +382,30 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-17 13:56",
    "published_iso": "2026-09-17T04:56:09+00:00"
+  },
+  {
+   "title": "富士山周辺で外国人レンタカー事故急増 背景に何が 1年で4回被害の家も",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQTNjNFNnMlhMSERzejNnelJMWV9CRENQczJYUnhRdWFxR3UtY1Z6QTJya25rNWtXa1dIcDhzdS1NRkRFRUFpUWJJbzRIZkxkS0xraDk5eEc2dmVtSWdxZ0wwNXlUWTItbnl1NmxxOE44Zw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-17 13:32",
+   "published_iso": "2026-09-17T04:32:00+00:00"
+  },
+  {
+   "title": "ほっとニュース北海道 「特定技能制度」活用 運送業界で活躍期待 外国人ドライバーに密着 NHK ONE 配信中 9/23まで",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVa2lwMEhKNElhNy1UcHFmVDB5MWFITkZhM3gtaEt0c2UyenBZNXVQRnBJT1FhVHcxRl9vcmw5bnpkSmVPelZ5Z0JiUnVOUEFxTXBmTW5oOVR4a3lhcnU1X0VwMnhwamc?oc=5",
+   "source": "nhk.or.jp",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-09-16 19:22",
+   "published_iso": "2026-09-16T10:22:43+00:00"
+  },
+  {
+   "title": "警備業界で外国人材の受け入れ拡大 有識者検討会を初開催 「人手不足が特に深刻な状況」警察庁が来年1月にも報告書",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2cFIwb3BkMlVWWjFsWHlqczNqUllrN0M4dXRxVU1RUW5CZWRtak1ZcUFhUmU0TDN1RVZaRnlKaVJ6Y0Mtd3FTQm5nLXgwZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-16 19:07",
+   "published_iso": "2026-09-16T10:07:00+00:00"
   }
  ]
 }
