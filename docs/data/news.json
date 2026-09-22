@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T13:04:53+00:00",
+ "generated_at": "2026-09-22T17:55:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,14 +24,6 @@
    "published_iso": "2026-09-22T10:26:00+00:00"
   },
   {
-   "title": "【講演レポート】「外国人採用の新常識：特定技能と在留外国人採用の失敗しない選び方」に船井総研サプライチェーンコンサルティングのコンサルタントがゲスト登壇しました（主催：Guidable株式会社）",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDSlRlYkF1Tk44RFVHS1JET0luTGxSVEFZbU1fNDJvVHMtZXB5X3RpSE1qOVhhZ2s3X20teG8xUU1mUGg0TGoxSTNMczhxN0VkT1loTmpXdUlyeEMtMjRhWHotTTh5OFduTkJ0NDlvOThha2lXaEM4RUUtMA?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-22 17:00",
-   "published_iso": "2026-09-22T08:00:00+00:00"
-  },
-  {
    "title": "トランプ米大統領（ゲッティ＝共同） - 米、移民2万5千人を第三国に 25年以降、資金提供で移送推進 - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxTHlpb3RaZTVDOXdkS3U1OS1PZ042Mm85c2M5Z1RoSkQtYlpDUUJOb1ZQMU0ya202UUg0RndyOW85THFsZmJ3c2hrSWliS2VRTjFud1lQUQ?oc=5",
    "source": "西日本新聞me",
@@ -50,7 +42,7 @@
   {
    "title": "ドイツ首都で移民2世の市長が初誕生か 「ベルリンのマムダニ」議会選で左派党が躍進",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dW5QRnhGbzBlWFNDZlQ4NGNYZk11Z1ROR21YVXhXbDBGS01CVDRuM0FOWG05bDM3V2FGXzJpa1daQ05ybUJUVEVyQjRzSmFGUmRQa2REWmNjLVNra0VIaGtvRndyallXSVpGekVkQ0lRXzZoMHJfcTRn?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-22 14:11",
    "published_iso": "2026-09-22T05:11:23+00:00"
@@ -74,7 +66,7 @@
   {
    "title": "旧東独地域の州議会選挙で極右AfDまたも第1党 与党大敗 反移民・自国第一主義広がる",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vdHpKU2NDaFVVMjRGRm9UTl9DVXBfZUZuNU02cDNoSWhJOVpXOGltNTFRcml5U0poM1NRWjR5djBBc1dNeWVlQXRlcFNWdWdIWW4tWGsyUnd1MVdkRkJqMVZvLW56dEFiRmx3QW91OU5heXVzRmg2MU9n?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-22 12:08",
    "published_iso": "2026-09-22T03:08:00+00:00"
@@ -82,7 +74,7 @@
   {
    "title": "イタリア・メローニ首相 外国人学生の数を制限へ イスラム教徒のブルカ着用禁止も",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sQm5BSW0xTHJpV1lfQzRyOHFHZDktdVZJYTM4MkRsdm9aWHYwUS00ekh4VE55QnZOQ2NUMEc3d3NnSGhCWnFXNkRvWUJ5Tnc5aFppN01DVzB3aTdra1dtYTNvdkQyM0xwUXVwWkxqcmV4YzJKbG5LR2Nn?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-22 10:54",
    "published_iso": "2026-09-22T01:54:31+00:00"
@@ -248,6 +240,14 @@
    "published_iso": "2026-09-20T20:00:00+00:00"
   },
   {
+   "title": "「外国人が避難小屋にいる」利尻山でオランダ国籍の男性が負傷、警察ヘリコプターに救助され病院搬送 左足ねんざと診断 北海道利尻富士町",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50Ql9aRjd1cUQ1Wk1ldEJJSl80M3RjLWFFb24wd1B1MEQ0T3cwV1dXOTFSWDlXaGhUT0s0bjFEN1I5ZWxaZzdSLS0yLUpiWnVjOHNHMkJ4RQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-20 11:45",
+   "published_iso": "2026-09-20T02:45:00+00:00"
+  },
+  {
    "title": "難民選手団がアジア大会に初出場…シリア出身の男女２人、ヨルダンの難民キャンプから参加",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNjZ4S1Bqckh2c2ttSWxJWnUzcmdIM21kdVN2YVZqZ0Q5VTA3TWVQZWlTd3lzZ3NUQ201cXhRTlBjY2h4bXBjYkJMSGZvUFlkM1hBVzdQSVZlelVBNjVvMU5ncDY1R3Z2?oc=5",
    "source": "読売新聞",
@@ -270,14 +270,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-20 04:36",
    "published_iso": "2026-09-19T19:36:37+00:00"
-  },
-  {
-   "title": "外国人犯罪のデマは「暴力を喚起しやすい」 研究者らが対策を提言",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zYzVVdzViM1JpZDVzOVMxOUdTUmR1LWVZUlotRjdydGNDN2xGTk9zMUNmT05JR1UtMFdpQ0tIeXZBd3FFVFgteDRUdER3Vjc4VUJidFhPS0haejBleFoyVWpMdFhiTEE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-19 14:00",
-   "published_iso": "2026-09-19T05:00:00+00:00"
   },
   {
    "title": "増える海外ルーツの児童生徒 国が主導し日本語教育の体制整備を [外国人]",
@@ -314,7 +306,7 @@
   {
    "title": "セウタの不法移民に移送の動き 現場は一時混乱 相次ぐ火災で治安悪化問題も",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uLWZ6SDZrTW5uTjB0MS1JbWlBR2lGOUEzS056LWlhMU1ReUpDVTlZcko3RVNUeDI3a0xXWW9JMmtMcmZGTDlLZ1ZNajdGOFkxYnowMXVzdnBMd2ZZSlotVi10S2NYN1h3RTNlU0JrazVxa2NuYmZTUVVn?oc=5",
-   "source": "テレ朝NEWS",
+   "source": "news.tv-asahi.co.jp",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-09-18 23:15",
    "published_iso": "2026-09-18T14:15:17+00:00"
@@ -344,20 +336,12 @@
    "published_iso": "2026-09-18T09:32:19+00:00"
   },
   {
-   "title": "災害時の流言、重要課題に 根拠なき「外国人が犯罪」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yR3F3dldrSHB3VDhraVpWcFl1S0RqZzBCS052SndtWnkwNTh3aUVCVi1RVWhJWUt0bnFkanY3MlRTX3FaaFZvX2hoWjM0Z0JIbW9J?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-18 18:24",
-   "published_iso": "2026-09-18T09:24:00+00:00"
-  },
-  {
-   "title": "特定技能ミャンマー人への暴行問題 過去の処分について農業法人は回答拒否 労働組合との団体交渉2回目 未払いの賃金などは支払う | 北海道のニュース｜HBC北海道放送 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZUlBNE5zUGQ5cUc1OC1DOUdMbFpvV3kwemZ1QldjOGZxSGR1NkJwODdBbWREbGVva2xkc09JYlZ6d3lKajFPeHRmaUFpSEV6Q1dwREFWWXpId2w2SkdGeFdFLUhBU0U?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-18 18:20",
-   "published_iso": "2026-09-18T09:20:00+00:00"
+   "title": "スウェーデン極右、議席減 移民政策、争点にならず",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jci0tYkk4M0ltQVRLX25TTFRkWjJyMDFfajN6TExCaVZyWmVFOVpZOGhMVGlJLWFHRWxwVTFQM0tndkpqOUp6WktZbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-18 16:40",
+   "published_iso": "2026-09-18T07:40:00+00:00"
   },
   {
    "title": "スウェーデン極右政党議席減、政権交代へ 「移民」野党も厳格化主張で争点にならず",
@@ -376,6 +360,14 @@
    "published_iso": "2026-09-17T20:00:00+00:00"
   },
   {
+   "title": "川口バイク19歳死亡事故、トルコ国籍男に実刑1年6月判決 さいたま地裁「危険な運転」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVTlZOEplSGxOV25IUFZLZG03X1BRRHFWczJLaV9OV254TmtULXVOc0FGa3NoTVRlem9wWV9VbkEyaTQ2MWJMb25MemNtSXRYNzF1OTNvQVBNVjNNSW03bTJ6cE1oYTY0NmowYlExZ3pheG9Yc2c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-17 18:24",
+   "published_iso": "2026-09-17T09:24:26+00:00"
+  },
+  {
    "title": "オーストラリア「ワーホリ」更新を抽選に 移民抑制策、留学は原則単身",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MMGt5aFQxYzNJb3RXMDVVbGpJdUE0NmVOWHJTb2xFWEZZelV2eV9PRHdBbVRRZTJ1eWxGQklFak9OMThLc213bXhLZ1B3QjktZndqZmRJaDh5a2x2Qm1hdGhsRQ?oc=5",
    "source": "時事ドットコム",
@@ -390,6 +382,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-17 13:56",
    "published_iso": "2026-09-17T04:56:09+00:00"
+  },
+  {
+   "title": "富士山周辺で外国人レンタカー事故急増 背景に何が 1年で4回被害の家も",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iQTNjNFNnMlhMSERzejNnelJMWV9CRENQczJYUnhRdWFxR3UtY1Z6QTJya25rNWtXa1dIcDhzdS1NRkRFRUFpUWJJbzRIZkxkS0xraDk5eEc2dmVtSWdxZ0wwNXlUWTItbnl1NmxxOE44Zw?oc=5",
+   "source": "news.tv-asahi.co.jp",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-09-17 13:32",
+   "published_iso": "2026-09-17T04:32:00+00:00"
   },
   {
    "title": "ほっとニュース北海道 「特定技能制度」活用 運送業界で活躍期待 外国人ドライバーに密着 NHK ONE 配信中 9/23まで",
