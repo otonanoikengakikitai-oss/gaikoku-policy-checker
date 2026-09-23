@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T03:17:12+00:00",
+ "generated_at": "2026-09-23T09:03:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,49 +8,41 @@
  ],
  "items": [
   {
+   "title": "特定技能「2号」500人超す 広島など中国地方 高度なスキルで永住可能な外国人材、急増の背景は?",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZNWZCN25UVWZPLXV1aVMzdFBKX1I5Q0RHakluM3N2QTZoN1ZBSGpRRDBubVRVR0V4OU1UNVBhVU9BTnF0dEEyTVN0Yw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-23 17:41",
+   "published_iso": "2026-09-23T08:41:07+00:00"
+  },
+  {
    "title": "渋谷からパリへ 難民の少年が「身を守る手段」だったファッションを希望に変える",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uM1BRWWdpd2NaZy1nUmFaZGhlTGdkQWVWZGRTcEpQY1JiUWpMLTZRSTBVcmJqSV83X2xMbllxbU1Kdi01eG1RSVEzUE9nTjBncHc?oc=5",
-   "source": "朝日新聞GLOBE＋",
+   "source": "globe.asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-23 12:04",
-   "published_iso": "2026-09-23T03:04:06+00:00"
+   "published_iso": "2026-09-23T03:04:19+00:00"
+  },
+  {
+   "title": "外国人技能実習生が交通マナーや防災を警察署で学ぶ【熊本発】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00em5OM2Y1elVKTWtzVGxaY1BvaFQ2QXh6UFl6dnRwRXFVaEx6NzdhZzB1a0dGOTNhUlNHajJGY0ZBbFBFdGV5R3VZamhlQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-23 11:55",
+   "published_iso": "2026-09-23T02:55:00+00:00"
   },
   {
    "title": "バス運転士不足の宮崎交通 フィリピン人男性3人を初めて受け入れ [宮崎県] [外国人][外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFbTRIUTNodGktSmEwb1pSWkRjakVTczhxRDZvcDJ1eHJUbC1ZM0ZpNktpQUxENnM5d0FDNVNNUGlaWC1SR1I5Q0dSbFVfZXhsUTdFMXBRdUVaR1BkWFNkTTgtbVc0LXc?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-23 11:30",
    "published_iso": "2026-09-23T02:30:01+00:00"
   },
   {
-   "title": "「ベルリンのマムダニ」市長の可能性 “移民ルーツ”初 市議会選で左派党が第1党に",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OLXhtQ3RzY1dfZmJqWlp5cXdYY3ZKcEsxeDZ0OHQxRXFUSTYwNTU5a2tKWDJwcmZPUnV6Y1ZRMmVUaXJzOEZvc1NKREFJTnpPWGpnbnctSEppb3dJVUk2SVpHTFZPTnFfX21hVENPY05fQzhnRGdWOUF3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-09-23 09:53",
-   "published_iso": "2026-09-23T00:53:50+00:00"
-  },
-  {
-   "title": "アフターコロナの「留学」大学ランキング 外国人留学生数は回復も、日本から海外への留学は足踏み状態",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FMGlqdzUwODl0NE1KNXJuR2dFYkNmMFZvU0ZkaW9nRUllcjdhWTdLUGtVNjA1LWRGOWJBUFkxa1FLT1RvTk5xVFBTQUdycHZf?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-09-23 09:00",
-   "published_iso": "2026-09-23T00:00:00+00:00"
-  },
-  {
-   "title": "工事現場で３ｍ以上の高さから転落し死亡 インドネシア国籍の技能実習生の男性（２２） 広島・福山市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVDY0UklrZ29SdDVFci1wRXZwbDNnclZXTTlsZGo5ZGRsTGR1dmRlQS12NUJDbndjWllJM0NnZ2pUYWpzTTJHUWVGdXBBQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-09-23 08:07",
-   "published_iso": "2026-09-22T23:07:00+00:00"
-  },
-  {
    "title": "在留カード発行プリンター、入管庁100台使用せず 会計検査院指摘",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EZWVJRjRpUUZ2RzdrUHNwWXBud1lWNlRRbWItOXh1N2V0Vm1vcWlKT19wM0ViTUF0QVA4X2xuREozYTVrOUhPMW5IaWFmSGtwTXIzczlZSk5VU1RSSXU2T3pFUmNzeXkzMGc?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-23 07:06",
    "published_iso": "2026-09-22T22:06:29+00:00"
@@ -96,9 +88,9 @@
    "published_iso": "2026-09-22T20:00:00+00:00"
   },
   {
-   "title": "【夢中】外国人が絶賛！日本の食べ放題、カニ・黒毛和牛＆マグロ解体ショー 初挑戦に苦戦も…コスパに大満足でインバウンド客を虜に【気になる！】（2026年9月22日掲載）",
+   "title": "【夢中】外国人が絶賛！日本の食べ放題、カニ・黒毛和牛＆マグロ解体ショー 初挑戦に苦戦も…コスパに大満足でインバウンド客を虜に【気になる！】（2026年9月22日掲載）｜日テレNEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DYjkzLUVtQl9OWDN4Z2pzN0RxeWRHaVpVUDltaGlENWJTaDJ5S1ZsUDJnY1hqU0Q1eUxmdXRLbEZyLVpKamt3WUNlTVNuWkdnWDIteFBtTnNQSkE3OFVjRHlVcnViVjdjU19taW1hVVNtVWM2WEh6aA?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-22 21:00",
    "published_iso": "2026-09-22T12:00:00+00:00"
@@ -202,7 +194,7 @@
   {
    "title": "アジア大会は「夢」 難民選手団の2選手が会見、テコンドーに出場",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUW4yVm1LV21VQ2JtX1p3NGUxdG9TMFJtVkNmdTQ0R2RwYnJwTXdsd2ZYY0dmMTBuRGFDZWNfYkxBQ3FJeTNocTVKZ3Z5ZFdxTnNDRVRGaHN2Qi1QUHRTUFQzOUpjeXM?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-21 20:34",
    "published_iso": "2026-09-21T11:34:35+00:00"
@@ -216,9 +208,9 @@
    "published_iso": "2026-09-21T10:01:00+00:00"
   },
   {
-   "title": "「人が海で行方不明になった」と通報 20代の男性外国人か 東広島市（2026年9月21日掲載）",
+   "title": "「人が海で行方不明になった」と通報 20代の男性外国人か 東広島市（2026年9月21日掲載）｜日テレNEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pZEhCekJvWENLbUJzRnNsbHY0UC1YU1daM0dnbW5ETmw1TW1wdG9CdkctdjV4T2FmUWJPbUZuMURKcnZCSHlXN1l5NWh0OHNTaHNNNEhaUTJMM3RTZFkwRUI3U3JwUVhUZjFzTndMWFVXZXpFSmFqTmxhVGY?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-21 17:56",
    "published_iso": "2026-09-21T08:56:00+00:00"
@@ -234,7 +226,7 @@
   {
    "title": "【速報】東広島市安芸津町 海で外国人男性が行方不明か（2026年9月21日掲載）｜広テレ！NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd2lEVjcyTW1kdDRjb0pKdlpKXzZTdXQ3MnZrZDVYc180RU5xRnktcENPRG82TFhjdTFFNmtkUWNqUTE5Mnc4NWRWOHBvY1JWSV9LYjh6Y013S2t4ZktFWWs1OWltVDBVOW1CWEJLSFRndFFRYlRLSXVuVmppQ1d0WHNyTU1DX0U?oc=5",
-   "source": "日テレNEWS NNN",
+   "source": "news.ntv.co.jp",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-21 17:37",
    "published_iso": "2026-09-21T08:37:00+00:00"
@@ -250,7 +242,7 @@
   {
    "title": "生活の不満が出稼ぎ移民への憎悪に 融和うたう虹の国、南アの異変",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1taXMybkZ1bnJ1M0J5UndHaF94QmlobFdfNU5IQV9OWDBvUWVxXzctQ2FLenVoU1Y4WmJMem9kSFhlZXRVWDYwLVRZVFNwR004S05WbjZuY0dpZTJRVzIyUmY3YjZGZms?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-21 13:00",
    "published_iso": "2026-09-21T04:00:00+00:00"
@@ -272,6 +264,14 @@
    "published_iso": "2026-09-20T22:18:49+00:00"
   },
   {
+   "title": "育成就労送出機関リストにミャンマー・ユニティが追加されました！",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5STFYyMkpZUngwSnAzbnhVV2tLMmRuQ1NZdG1OZUFDYXd0LXozbFY4VEthUDBUS1Q4YklCSEVHenZkSDFyWnJvUFVubElWMVZ5MjZnZFVGNUNNX2V2dFlpOGJaYmdadkhRMklV?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-21 05:40",
+   "published_iso": "2026-09-20T20:40:00+00:00"
+  },
+  {
    "title": "大阪 ヘイト デモの訴え「憎悪」一変、「抗議」を前面…外国人集住地では先鋭化も",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05THgtdkpmdjRqUXcza1VkZlUwMEl5T19VTTE3TEtmYVdGcEVGOWtVWXVSbkRsaFNHT09pSjh0Yk5Jc3dBbVJFYjgyQU15SFg3Y1RkeDljNTVNUWtoYzNXVHRQc3ZycjhPQzlndXRrR0dIdw?oc=5",
    "source": "読売新聞",
@@ -282,7 +282,7 @@
   {
    "title": "（記者解説）８．５万人の日本語教育 海外ルーツの子急増、自治体任せ限界 社会部・山本知佳",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94cklEVEVZbXBSMm1FTnZ2YkJRWEYtdWNpalhHOUk1Rk96Snk3Z0tsZTFiMVVFVFM5Q0hzV0NBYW5zTG5XSS1XVmlfckdYbF9sQzNCZmZKYzU3TWlt?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-21 05:00",
    "published_iso": "2026-09-20T20:00:00+00:00"
@@ -298,7 +298,7 @@
   {
    "title": "増える海外ルーツの児童生徒 国が主導し日本語教育の体制整備を [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rN1NXNmhjZHVTa3BkZ0tHSnBCZVlnUld0NUxLWGFtSEhiMmtWVTR6aFpocG9ULW9EZVVYck9EWUVwQ0kxZkJIaVYwQVpNUTZJWDhZUW9idEx5d1NkVVZaNjUtV2NONm8?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-19 09:00",
    "published_iso": "2026-09-19T00:00:00+00:00"
@@ -310,6 +310,14 @@
    "source_domain": "sankei.com",
    "published": "2026-09-19 08:04",
    "published_iso": "2026-09-18T23:04:13+00:00"
+  },
+  {
+   "title": "ミャンマー人に“暴行疑惑”の町議 2回目の団体交渉に姿見せず 農業法人から謝罪なし 過去には技能実習生“受け入れ停止”処分も【news23】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vNTdoQngxYWNOaV8wVFRvLUQ5WFRzcFFkSGs5T0JhT3FiRFB6UTRvWVV3M3MxS1d3RzU3YVpjS2xKWHh4Uk1KSWdRb3Qza0V3ckpzaHhYZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-19 03:27",
+   "published_iso": "2026-09-18T18:27:00+00:00"
   },
   {
    "title": "セウタの不法移民に移送の動き 現場は一時混乱 相次ぐ火災で治安悪化問題も",
@@ -328,6 +336,14 @@
    "published_iso": "2026-09-18T09:53:55+00:00"
   },
   {
+   "title": "特定技能ミャンマー人への暴行問題 過去の処分について農業法人は回答拒否 労働組合との団体交渉2回目 未払いの賃金などは支払う | 北海道のニュース｜HBC北海道放送 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2ZUlBNE5zUGQ5cUc1OC1DOUdMbFpvV3kwemZ1QldjOGZxSGR1NkJwODdBbWREbGVva2xkc09JYlZ6d3lKajFPeHRmaUFpSEV6Q1dwREFWWXpId2w2SkdGeFdFLUhBU0U?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-18 18:20",
+   "published_iso": "2026-09-18T09:20:00+00:00"
+  },
+  {
    "title": "スウェーデン極右、議席減 移民政策、争点にならず",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jci0tYkk4M0ltQVRLX25TTFRkWjJyMDFfajN6TExCaVZyWmVFOVpZOGhMVGlJLWFHRWxwVTFQM0tndkpqOUp6WktZbw?oc=5",
    "source": "47NEWS",
@@ -342,6 +358,14 @@
    "source_domain": "sankei.com",
    "published": "2026-09-18 16:02",
    "published_iso": "2026-09-18T07:02:17+00:00"
+  },
+  {
+   "title": "移民・税関捜査局「ICE」局長人事取り下げ トランプ米政権、上院承認見通せず",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWR2U0U045amlLNDdYV1o1MWF3WUsxa2hhdlpXZzM2WUJTQzZSM0w4UlZxYTQzY1E5bm13dXVKcDgzYlZ6TWRIeWJ2NWdXYzRkXzJzWDdZX1VWM01jRWpHUFpVR3piM2hxWkJteXlwSWFoaGRQdWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-09-18 09:51",
+   "published_iso": "2026-09-18T00:51:28+00:00"
   },
   {
    "title": "強い経済を実現・力強い外交を展開・秩序ある共生社会…高市首相が全閣僚に出した指示書全容",
@@ -368,44 +392,20 @@
    "published_iso": "2026-09-17T07:38:00+00:00"
   },
   {
+   "title": "「農場関係者から暴言や暴行」 特定技能のミャンマー人男女が証言",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xVWgwOF8xektHVXJkeFZWa2NFZ2xMOElfbXprX3Zld3lEQXJRdUJ5NFNldzZZTi1WdUJSWFZmVVZyYno2Wmt4OVhMbzZJRVNGQVRQdQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-09-17 16:00",
+   "published_iso": "2026-09-17T07:00:00+00:00"
+  },
+  {
    "title": "オーストラリア、ワーホリ受け入れ縮小 極右台頭で移民制度改革",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WVkydGwtMkFZdlhEUDJuTloxTFJPWGFZenQyMDd3Q01VSFNCc3dyQVJYV0FwajZIU3VkRWFQczY0cjY5MjRhV3V5b2I2QUlVQlJ4cm5RdzIzNDYtMHI1dy13RnA3SlFLUVVWaw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-09-17 13:56",
    "published_iso": "2026-09-17T04:56:09+00:00"
-  },
-  {
-   "title": "ほっとニュース北海道 「特定技能制度」活用 運送業界で活躍期待 外国人ドライバーに密着 NHK ONE 配信中 9/23まで",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVa2lwMEhKNElhNy1UcHFmVDB5MWFITkZhM3gtaEt0c2UyenBZNXVQRnBJT1FhVHcxRl9vcmw5bnpkSmVPelZ5Z0JiUnVOUEFxTXBmTW5oOVR4a3lhcnU1X0VwMnhwamc?oc=5",
-   "source": "nhk.or.jp",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-09-16 19:22",
-   "published_iso": "2026-09-16T10:22:43+00:00"
-  },
-  {
-   "title": "企業7割 外国人材の受入困難で「事業に支障」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PanRfZW5mbzBTWE5hMEZxSG9MN0NEelhGNjFYU0dVY0F6cFR0X3JiQXVwU21oRDhlQ05MMjZiUmRZbjlEN2N3RnI5b0tnT3dxenZROE1pOS1NN0hLd2hpQVRvS2lIdHpDLTNENElNTlVBdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-09-15 16:44",
-   "published_iso": "2026-09-15T07:44:05+00:00"
-  },
-  {
-   "title": "高度外国人材の来日が2025年秋から減少 AI普及で求人減、審査厳しく",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xYlpNb2UzTi0zYl9ua2txVEVocXF0dk02UnJWSWg4NkdHa3lwZlFwZ2tZMWFTUnhkNmktaXZGVFA2a3gyVzJZdWs5SjhEVzBTS2JWX3NQQXhpdUs5X1lWNzlkZTNVVDNqT2NDUg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-09-14 16:00",
-   "published_iso": "2026-09-14T07:00:00+00:00"
-  },
-  {
-   "title": "「特定技能」に警備員追加検討 警察庁が有識者検討会",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wa3JYa3l0Qkx4dXJwU1RhZkxhQ1hjeXExVWwxNVVnV1FXdWhza1pMLUp5QU9CRWl0SWtCVkZqaHRiRGtNbC1vdVo1VzRjRGRnRkVSOXBWWWhCeW1jdElHR3BQbw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-10 16:00",
-   "published_iso": "2026-09-10T07:00:00+00:00"
   }
  ]
 }
