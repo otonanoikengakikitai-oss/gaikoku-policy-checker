@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T16:30:41+00:00",
+ "generated_at": "2026-09-25T20:14:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "WSJ日本版：有権者確認に移民データ活用へ 米最高裁、政権に認める",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Bc1VuRkVQLTcxQkpDLV9tSEJaR0NvaHNQNV9SUzZHNzVFZG03bHlEVEJkLWpDNzNobWUyeHJaakd0U2Q4Q1dFbnRUc0x0QlNqSlBsaTlrbTIwQWQ3WUlUU2dMWHd0aWVf?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-26 03:46",
+   "published_iso": "2026-09-25T18:46:00+00:00"
+  },
   {
    "title": "医療通訳で外国人支え25年 札幌のNPO法人「エスニコ」 26日フォーラム",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZWs5dnRuYnlkZkwycWM1Y2x6elJqQjN5MDlDem5yYXZFSjBUaF91V3poX0ZseEloZGEtcXNUWE54RG1BUWdrX1BCYzNmWDg3MjA1Q1k5bWY2UQ?oc=5",
@@ -38,6 +46,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-25 16:44",
    "published_iso": "2026-09-25T07:44:28+00:00"
+  },
+  {
+   "title": "イタリア、学校でのブルカ禁止を閣議決定 １クラスの外国人上限を３０％に",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvUmZEcENJc0V0bm5MVXp5YzRaSXpIbzR6T0I1MFZfUHB4WURnSl95NTFZdjF1U0xHZGFSMkVsend2eWxHWlpPeHczSmVnOTR0Y2FObzZHXzQyZUZoM1pzWnQxOUxmdw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-25 16:40",
+   "published_iso": "2026-09-25T07:40:00+00:00"
   },
   {
    "title": "【西武】4選手を1軍登録 ラミレスが昇格で1軍外国人は3選手・ウィンゲンターと林安可は2軍調整中",
@@ -200,14 +216,6 @@
    "published_iso": "2026-09-24T21:00:00+00:00"
   },
   {
-   "title": "神輿の魅力知って 飯坂ＲＣ外国人参加者募る 来月３日 国際交流フェス",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZMExOY2hDQ2NsTmkybnpKNDZiUVdhWEZoQWxYWWNLRUpEUzN3Z3JWYWRPQTRYclJQbHBEaGx1cVVwVUF1Z0N6NGJybw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-25 05:38",
-   "published_iso": "2026-09-24T20:38:00+00:00"
-  },
-  {
    "title": "「外国人を安く雇う時代は終わった」特定技能1号の新規受け入れストップで外食業界に荒波",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0TXU4TUp1NDFJeENTVDk2dDIxZS0xaWM4STVJSlVjTUZxUXNMeEFNU1BsV2pTX0l0SEFRdkJKNDRVQ2tOcGw0MFNNUmk3SnRuY19N?oc=5",
    "source": "東京新聞",
@@ -242,10 +250,18 @@
   {
    "title": "「子ども服を難民へ」出張授業、キャリアイノベーション同好会が参加…埼玉栄",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa24wVkYtTEFRczlrb1pMVFhEYWd4S001cElKTS1CcjRKbkd2T2FpbkQ3S0syVExrNldsMExJUnVjcU9CbHVKWlJIdWNKT0ctM2dkd0lpTDVYaGhzd2hkUFVSbDg2Y2ppM05UdzhMYVE1cnFwYkhWZmpxbll6LXZQN05xRGtHSDFLcnc?oc=5",
-   "source": "yomiuri.co.jp",
+   "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-24 16:00",
    "published_iso": "2026-09-24T07:00:00+00:00"
+  },
+  {
+   "title": "「長崎の鐘」被爆者や外国人観光客ら５０人が平和を願い打ち鳴らす…９月２１日「国際平和デー」：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PN2pQRmxDRHJna2VSQXpsSzEzS3VCOEVGMl92QXJPR3RxeERRSi16b21LV0hMMW01UHE2M01Jcl83cWFMVGtpeV9IcXJOV0RnRUJTSzR2X29haEw4R1dkZWN3azRQRlZSMTRPbkprTXQtQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-24 15:29",
+   "published_iso": "2026-09-24T06:29:00+00:00"
   },
   {
    "title": "外国人政策本部が提言案 重要施設周辺の土地取得に「許可制」導入を要求 自民 マンション「投機目的の取得」も言及",
@@ -390,22 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-09-21 13:00",
    "published_iso": "2026-09-21T04:00:00+00:00"
-  },
-  {
-   "title": "難民の現実 理解深めて 11月、NPOが専門講座 「偏見や誤解解き 新たな視点で」 受講者募集",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BX2p4Q2h5cjJrTGV6c3FNSFJLcmlEWVFpZHk2QWhHMnFoQmtRLWdKWTM3ZkhhdEo1YVFjT2ZwbElZYnEzMV9UMkpGNHNvLTdaMEU4?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-21 07:18",
-   "published_iso": "2026-09-20T22:18:49+00:00"
-  },
-  {
-   "title": "（記者解説）８．５万人の日本語教育 海外ルーツの子急増、自治体任せ限界 社会部・山本知佳",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94cklEVEVZbXBSMm1FTnZ2YkJRWEYtdWNpalhHOUk1Rk96Snk3Z0tsZTFiMVVFVFM5Q0hzV0NBYW5zTG5XSS1XVmlfckdYbF9sQzNCZmZKYzU3TWlt?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-21 05:00",
-   "published_iso": "2026-09-20T20:00:00+00:00"
   }
  ]
 }
