@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T09:05:56+00:00",
+ "generated_at": "2026-09-26T14:04:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -28,13 +28,13 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nR3NKc3ZDU2ZJeFBtWUJRTEhiQ1ZaOFZJZ3dWYkFJVmJVSTNmdWhNd2JPaFlQZlV6c1duekpIY0ZQWDFnYWF3dTBENGxYWGlGMjVSQmFScEUwOVZRRXFIQmp3?oc=5",
    "source": "朝日放送",
    "source_domain": "asahi.co.jp",
-   "published": "2026-09-26 13:00",
-   "published_iso": "2026-09-26T04:00:58+00:00"
+   "published": "2026-09-26 12:18",
+   "published_iso": "2026-09-26T03:18:00+00:00"
   },
   {
    "title": "佐渡の武道館で「メン！」外国人旅行客が剣道体験、中学生と竹刀交え「武道の心」学ぶ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfTzg0Zm5wc25kR3kxeGt2OUlJTVBWaHlXQlBKRjRodllmbjI2UGxnNHQ4RUwzb29DSVpMa3N2cmdzb2NRekxWZGg4QQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-26 11:55",
    "published_iso": "2026-09-26T02:55:00+00:00"
@@ -58,7 +58,7 @@
   {
    "title": "共生社会の研究・福祉活動に助成 橋本財団、１０月末まで募集",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BbW1GenY0Tm5hMUxINHNMN0J0UHZNalVOMEpkNndoMlBsTldNUE5Ka1kzMjVLQUV5M2NkNUVaeFY0WXNVNVdhRk5LQQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-26 07:02",
    "published_iso": "2026-09-25T22:02:33+00:00"
@@ -74,7 +74,7 @@
   {
    "title": "「戦禍二度と」平和誓う 長崎市で外国人捕虜犠牲者追悼",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kam5nb2RPWDJpamJ3WDJXMUlOUzhGRU0taXpQYWFTdWtHVVJaNmpBUzB4YzdCN3NpejFhWlJiV1NZckcyaW9HMUs0dw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-26 06:00",
    "published_iso": "2026-09-25T21:00:00+00:00"
@@ -106,7 +106,7 @@
   {
    "title": "医療通訳で外国人支え25年 札幌のNPO法人「エスニコ」 26日フォーラム",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZWs5dnRuYnlkZkwycWM1Y2x6elJqQjN5MDlDem5yYXZFSjBUaF91V3poX0ZseEloZGEtcXNUWE54RG1BUWdrX1BCYzNmWDg3MjA1Q1k5bWY2UQ?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-25 22:11",
    "published_iso": "2026-09-25T13:11:53+00:00"
@@ -120,16 +120,8 @@
    "published_iso": "2026-09-25T09:20:05+00:00"
   },
   {
-   "title": "外国人と見られる20代男性が溺れて意識不明に 宮崎市加江田川",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhaVFscGFNYlpZY0xrMEVzUnFlcjFFZW95TU1VYmlnUjFZMVk2NWw4LVV6SUhvejhGWmZzZFIwencwM1hoam5HUWhTd2pLbjZFSkxSU0VrRVU4YUI2elFpUmJkeWo?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-09-25 16:45",
-   "published_iso": "2026-09-25T07:45:00+00:00"
-  },
-  {
    "title": "大阪市内で「結核」集団感染 日本語教育機関の関係者ら12人が感染・発病 咳や倦怠感などある場合は早期受診を呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uLTNKTWJzWXE5NFplQ0w4MDA4VlpvWWtNZzF6RUVOUll2dGtxMUFFUnMzTksxOXpXVlM5NUxTcVdOZ2FyQjlGVVcxdWhpSmw4T2cwdGhjc2RFajFRZmN1Q0s1enpicFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vRkVDNF9VZDF3ZmtrV0Q2VG5DUFZsM1U4R29fVE9STjkzUzVtdkVwUFN0TFpCOGpDa0ZsQ3NnbXhUaHhnN0lneHZzdm1Vb0VNZlM4OXhhcko4UQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-25 16:44",
@@ -144,9 +136,17 @@
    "published_iso": "2026-09-25T07:40:00+00:00"
   },
   {
+   "title": "ともに・共生社会へ：マータイさん生家修復クラファン 延べ109個人・団体が支援",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRmNFV3pmamdKNEJWdm9KRnN1NHhRcWlNcGRTS0ZuOG8tNmhKUExkeTl2ZkJTQ2g5LVJSOUdJZjlyckNmcmxIbnNQLTZYbUJiTjhHMmJESzZCT183dWEzM2lYc1ZEeWtO?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-25 16:30",
+   "published_iso": "2026-09-25T07:30:00+00:00"
+  },
+  {
    "title": "労働者不足解消へ「外国人材を意欲的に受け入れ」中垣内隆久・新潟県副知事が展望語る 就任2カ月インタビュー",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KRkFjZmdmLWc3VGxJY29fWmZXdkZTOERUb2UzOUstMk1idGN6Q3RveEQwNHVGbFdMSFFobGgxY1JqYXNGbWZNY1VyRQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-25 14:40",
    "published_iso": "2026-09-25T05:40:00+00:00"
@@ -258,7 +258,7 @@
   {
    "title": "共生社会 学び深める 宮崎市で県内高校生が探究発表",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sVkZtOE1yak9YOXVnN3JXR1R6SjVQbE9iZFcyU2lqQXE2M1NjcDBvd2Vzd3dobGgwanpOM0dROVFDWnZZX2xqel9fRQ?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-25 06:00",
    "published_iso": "2026-09-24T21:00:00+00:00"
@@ -272,9 +272,9 @@
    "published_iso": "2026-09-24T20:00:00+00:00"
   },
   {
-   "title": "自民・外国人政策本部 重要施設周辺などでの土地取得を事前許可制とする提言案（2026年9月24日掲載）｜日テレNEWS NNN",
+   "title": "自民・外国人政策本部 重要施設周辺などでの土地取得を事前許可制とする提言案（2026年9月24日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40eUpmR1VGc0V6X0FCV0JEMHFtek5zLWFrSDhwbGRhVmhkMzAtd1FDSk4zLWdjR3RZaUdiWUpXLXJrSE10SEVnaEJXNUx3SW42TEJWQm5wSUtQSVY0NGM2X3BOWmk1R1BUa1NuLUpLdVV1TDJXTGpUa1JsakZ1UQ?oc=5",
-   "source": "news.ntv.co.jp",
+   "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-09-24 17:21",
    "published_iso": "2026-09-24T08:21:00+00:00"
@@ -290,7 +290,7 @@
   {
    "title": "「子ども服を難民へ」出張授業、キャリアイノベーション同好会が参加…埼玉栄",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa24wVkYtTEFRczlrb1pMVFhEYWd4S001cElKTS1CcjRKbkd2T2FpbkQ3S0syVExrNldsMExJUnVjcU9CbHVKWlJIdWNKT0ctM2dkd0lpTDVYaGhzd2hkUFVSbDg2Y2ppM05UdzhMYVE1cnFwYkhWZmpxbll6LXZQN05xRGtHSDFLcnc?oc=5",
-   "source": "読売新聞",
+   "source": "yomiuri.co.jp",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-24 16:00",
    "published_iso": "2026-09-24T07:00:00+00:00"
@@ -298,7 +298,7 @@
   {
    "title": "出産ツーリズム防止へビザ制限 米国務省「移民制度を悪用」",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tMjhKZVUxU1lBanlLaDFkS1JRLVdaVWNHYmRyZEo3alNyRi1IYmowaGdibXByZ2g2S2lfRUFtWGxGTGtPYWpudlNQaw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-24 09:48",
    "published_iso": "2026-09-24T00:48:49+00:00"
@@ -322,7 +322,7 @@
   {
    "title": "特定技能「2号」500人超す 広島など中国地方 高度なスキルで永住可能な外国人材、急増の背景は?",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZNWZCN25UVWZPLXV1aVMzdFBKX1I5Q0RHakluM3N2QTZoN1ZBSGpRRDBubVRVR0V4OU1UNVBhVU9BTnF0dEEyTVN0Yw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-23 17:41",
    "published_iso": "2026-09-23T08:41:00+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "シリア難民から考えるSDGs 記者が講演「誰にでも普通の未来を」 [兵庫県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdVdHMWZ6OHBaVk9VVE1sMnZoR3J4eGZGVlpDWm52WVAtWTBsNUNyWGdsRlg3QjJJV1drVTBhRHNMNEh1NHZUbFV6bzRZUEswc2VtUWtGSTFvcmgxZk1GLTFlZkp1OWs?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-09-23 17:00",
    "published_iso": "2026-09-23T08:00:00+00:00"
@@ -370,7 +370,7 @@
   {
    "title": "米、移民2万5千人を第三国に 25年以降、資金提供で移送推進",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IekJwVFVoV2hucE0zaGhTajJ4V3hRTVhPb1dGSVd6OXBfS0h4WDdxMWs5MVpuRHQyV2JndC1DX20yckRxMmtwSS0xbw?oc=5",
-   "source": "47news.jp",
+   "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-09-22 14:40",
    "published_iso": "2026-09-22T05:40:00+00:00"
@@ -402,7 +402,7 @@
   {
    "title": "アメリカ・テキサス州で20日、ICE＝移民・税関捜査局の職員が男性に向けて発砲 抗議活動が拡大",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTTNFR1pSc3NtMDFIVGNsc0Z6V2xvWkVBeEhSV3VHd253UVJibGNjQkFobk8yUDktME0yaktvYnhEUU01OUNIdmoyX0w1Zw?oc=5",
-   "source": "fnn.jp",
+   "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-09-22 07:55",
    "published_iso": "2026-09-21T22:55:00+00:00"
