@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T21:49:23+00:00",
+ "generated_at": "2026-09-27T00:12:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -72,14 +72,6 @@
    "published_iso": "2026-09-26T02:28:09+00:00"
   },
   {
-   "title": "外国人が窃盗をしたとする偽情報のSNSでの表示・再生回数 - 「外国人窃盗」の偽情報が拡散 SNSで、過去の動画流用 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EamN6VGdSbC1yRGxyOUU5aEJaZEF6aTFrZ3dHNWRNc2haNlg3a3pwWG40aGFvNERZRHpuQmtmeDhmeWN1dFE4dkhuS245eGN1aGFoWjdqVQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-09-26 11:13",
-   "published_iso": "2026-09-26T02:13:42+00:00"
-  },
-  {
    "title": "「外国人窃盗」の偽情報が拡散 SNSで、過去の動画流用",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YUE4tbEE1Sm1zbkZCNHFHWlpkdGU3aGxjWk52Z0pKTFhVZ1FkNGYxZG52Z2FCUGN6eFdmelNRa1VyVFQ2Znh1U1YzTQ?oc=5",
    "source": "47NEWS",
@@ -113,11 +105,11 @@
   },
   {
    "title": "医療通訳で外国人支え25年 札幌のNPO法人「エスニコ」 26日フォーラム",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHZWs5dnRuYnlkZkwycWM1Y2x6elJqQjN5MDlDem5yYXZFSjBUaF91V3poX0ZseEloZGEtcXNUWE54RG1BUWdrX1BCYzNmWDg3MjA1Q1k5bWY2UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-25 22:11",
-   "published_iso": "2026-09-25T13:11:53+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HQ1B5blNTaFI1WHpnYm51WXdxMERzWFQ0ckhjYWF5OXZXcDc1UXVoZUFCWmNlRDQ4SURyanBINGVBUlpJUkNEYXFxaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-09-25 23:15",
+   "published_iso": "2026-09-25T14:15:50+00:00"
   },
   {
    "title": "覚醒剤所持クルド人デニス被告に有罪判決 懲役2年執行猶予4年、東京地裁「悪質な犯行」 「移民」と日本人",
@@ -142,14 +134,6 @@
    "source_domain": "jiji.com",
    "published": "2026-09-25 16:40",
    "published_iso": "2026-09-25T07:40:00+00:00"
-  },
-  {
-   "title": "【建設業分野】建設特定技能コンソ（CONSSO）に加入、正しい制度理解の一翼を担う",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2QTJTYzR4LUo1WnBBZTAzQU5FT1NhYUNQLTMzT3FPUUtHQ3EyX0duSVg4RmZ1Vko2elZ1N0hpc1VOUEF5bXllS1NLeGhyM0tVZVl0RUkwVVRZWnMwU2ZVNl8wd0JhVEdkU25Zb3N3Y25pdWl2TnItSE9Qcw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-25 14:10",
-   "published_iso": "2026-09-25T05:10:00+00:00"
   },
   {
    "title": "アジア大会をきっかけに外国人らに日本の伝統文化をPR 生け花45点展示 日本舞踊やからくり人形の演技も 名古屋･瑞穂区の東山荘 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
@@ -182,14 +166,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-25 11:01",
    "published_iso": "2026-09-25T02:01:00+00:00"
-  },
-  {
-   "title": "熊本地震で外国人向け相談会 慣れない土地で言語や移動に悩み 「初めての地震」の声も",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54U19xSXpiQjBfd3h4NmRKU3BBeEJGNThPcDVNVUp3WjEtS0E1TU1PVUFuX0dPR1JNbHNLVXFoS3ZYU0ljUzI2N3RxMzBMMVB2aUIyQ0s4WVprVDBtU3FRWjB2c0xORGZjY3lFbkN3UTBJQzBjY1E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-09-25 11:00",
-   "published_iso": "2026-09-25T02:00:35+00:00"
   },
   {
    "title": "福岡の民間団体がフリースクール 自治体と両輪で外国人の子育て支援",
@@ -240,6 +216,14 @@
    "published_iso": "2026-09-25T02:00:00+00:00"
   },
   {
+   "title": "仙台のNPO法人、外国人児童に日本語講座 市は生活支援拠点を整備",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NVEtIYUpzRy1OeGh6eHhTZFJITTdRUjhZWk05bDFJbFNfNTUxVHZrdXFHMFpMNWFaVm5JeHpyY3Z5NWtZcHpnSVUzRW94eVNuUEJPeW5LWWdXZC12MHRGUEtqZ1dBbndLMVlIYw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-09-25 11:00",
+   "published_iso": "2026-09-25T02:00:00+00:00"
+  },
+  {
    "title": "【外国ルーツの生徒指導】言葉の壁、各校手探り 多文化共生を共通認識に",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qWFFiRmdJczhIZFJ3NjlxWXQydzB6QXlWc0VRRk82YUtscDRvV25wU2R1SlNya2FqcldwTjhEMXV5bEFvQksxZWpfQlIzXzdRSHRiWGxB?oc=5",
    "source": "西日本新聞me",
@@ -248,26 +232,10 @@
    "published_iso": "2026-09-25T01:33:38+00:00"
   },
   {
-   "title": "共生社会 学び深める 宮崎市で県内高校生が探究発表",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sVkZtOE1yak9YOXVnN3JXR1R6SjVQbE9iZFcyU2lqQXE2M1NjcDBvd2Vzd3dobGgwanpOM0dROVFDWnZZX2xqel9fRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-25 06:00",
-   "published_iso": "2026-09-24T21:00:00+00:00"
-  },
-  {
    "title": "「外国人を安く雇う時代は終わった」特定技能1号の新規受け入れストップで外食業界に荒波",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0TXU4TUp1NDFJeENTVDk2dDIxZS0xaWM4STVJSlVjTUZxUXNMeEFNU1BsV2pTX0l0SEFRdkJKNDRVQ2tOcGw0MFNNUmk3SnRuY19N?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-25 05:00",
-   "published_iso": "2026-09-24T20:00:00+00:00"
-  },
-  {
-   "title": "投機目的のマンション取得に早期の税制措置、基地周辺の土地取得を許可制に…自民党外国人ＰＴ提言案",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1LXRqSnBJT0phMENpNXlUY3BRSXNNaVNhcDdIVVVWZXo0T1hpWlo1MnBFbjVzalp1elJHeW1IUDYwR2Rrb25uMjNkLXBMVXlEV3A1cDhhQWpINTUxN196UklrSjlWUQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-09-25 05:00",
    "published_iso": "2026-09-24T20:00:00+00:00"
   },
@@ -336,14 +304,6 @@
    "published_iso": "2026-09-23T08:41:00+00:00"
   },
   {
-   "title": "シリア難民から考えるSDGs 記者が講演「誰にでも普通の未来を」 [兵庫県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdVdHMWZ6OHBaVk9VVE1sMnZoR3J4eGZGVlpDWm52WVAtWTBsNUNyWGdsRlg3QjJJV1drVTBhRHNMNEh1NHZUbFV6bzRZUEswc2VtUWtGSTFvcmgxZk1GLTFlZkp1OWs?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-23 17:00",
-   "published_iso": "2026-09-23T08:00:00+00:00"
-  },
-  {
    "title": "「ベルリンのマムダニ」市長の可能性 “移民ルーツ”初 市議会選で左派党が第1党に",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OLXhtQ3RzY1dfZmJqWlp5cXdYY3ZKcEsxeDZ0OHQxRXFUSTYwNTU5a2tKWDJwcmZPUnV6Y1ZRMmVUaXJzOEZvc1NKREFJTnpPWGpnbnctSEppb3dJVUk2SVpHTFZPTnFfX21hVENPY05fQzhnRGdWOUF3?oc=5",
    "source": "テレ朝NEWS",
@@ -358,6 +318,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-09-23 08:00",
    "published_iso": "2026-09-22T23:00:00+00:00"
+  },
+  {
+   "title": "技能実習生が日本社会に溶け込むには不可欠なのに…講習施設の存続ピンチ 新制度では採算厳しく",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XWEZDSWNxQmFfcDkyVjkyZTlUdlNzQUdydXFBcGFTQ1JkN0I2c0U3anJuY0tvNVVUMHkxV2I2cDFtMzd5TGk1WnQ1X0R5UjhmVERN?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-23 06:00",
+   "published_iso": "2026-09-22T21:00:00+00:00"
   },
   {
    "title": "【社説】LGBT支援策 共生社会の実現はどこへ",
@@ -400,12 +368,44 @@
    "published_iso": "2026-09-22T03:08:00+00:00"
   },
   {
+   "title": "アメリカ・テキサス州で20日、ICE＝移民・税関捜査局の職員が男性に向けて発砲 抗議活動が拡大",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZTTNFR1pSc3NtMDFIVGNsc0Z6V2xvWkVBeEhSV3VHd253UVJibGNjQkFobk8yUDktME0yaktvYnhEUU01OUNIdmoyX0w1Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-22 07:55",
+   "published_iso": "2026-09-21T22:55:00+00:00"
+  },
+  {
    "title": "外国人技能実習生の受け入れを仲介する「監理団体」が売買されている なぜ活発化？ 法の想定外で規制なし",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xS3VCeXBpUmw1c1NjbXlxaTdZUDVvSXhNS0VUMEFqa3NQQTZSUmNDNGFaWE1jT2llZ0xoS0FqVS1lZFhQVm11THlqdTB3X3V5YlBv?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-22 05:00",
    "published_iso": "2026-09-21T20:00:00+00:00"
+  },
+  {
+   "title": "アジア大会は「夢」 難民選手団の2選手が会見、テコンドーに出場",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUW4yVm1LV21VQ2JtX1p3NGUxdG9TMFJtVkNmdTQ0R2RwYnJwTXdsd2ZYY0dmMTBuRGFDZWNfYkxBQ3FJeTNocTVKZ3Z5ZFdxTnNDRVRGaHN2Qi1QUHRTUFQzOUpjeXM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-21 20:34",
+   "published_iso": "2026-09-21T11:34:35+00:00"
+  },
+  {
+   "title": "米テキサス州で移民当局が発砲 男性が重傷",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hZnpsNzV6UERpRjhwN18xajJzTGhUZnBPQVVmbkx5dl8xSUJjV0hEOTVzd1BVZnhZajVlN2xwVnR3c2RuSDE5aFVNc0tyZG8tckJTLWM0WQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-21 14:08",
+   "published_iso": "2026-09-21T05:08:21+00:00"
+  },
+  {
+   "title": "生活の不満が出稼ぎ移民への憎悪に 融和うたう虹の国、南アの異変",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1taXMybkZ1bnJ1M0J5UndHaF94QmlobFdfNU5IQV9OWDBvUWVxXzctQ2FLenVoU1Y4WmJMem9kSFhlZXRVWDYwLVRZVFNwR004S05WbjZuY0dpZTJRVzIyUmY3YjZGZms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-21 13:00",
+   "published_iso": "2026-09-21T04:00:00+00:00"
   }
  ]
 }
