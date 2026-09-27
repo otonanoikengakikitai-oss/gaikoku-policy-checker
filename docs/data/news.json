@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T00:12:55+00:00",
+ "generated_at": "2026-09-27T06:11:31+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "なぜ外国人観光客は「日本の包丁」に熱狂するのか “潰さずに切れる”技術 包丁メーカーは過去最高の業績 自国に持ち帰りは大丈夫？〈世界観光デー〉",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oT2xoVkZLSnhBTzdybkJ6d3J1cU53ZU5JLWJLakZRd1BMVVU2OV9KUGV5Ri1IRjJUUUtVUWg3ZGtRMWYwWTRhN085M0JzYlhBUXJCY3kzOTFwUQ?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-09-27 11:00",
+   "published_iso": "2026-09-27T02:00:00+00:00"
+  },
   {
    "title": "若者「車免許いらない」 教習所は50年に3割減、通うは高齢者と外国人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fb0NiNHcwRi1XbnE5OV8tSDdReFc2Z1c1VU8wcUhSbGx4RFJTblVHMTR0UjZKV2x4aGl0MEtKbnVwbmpfalVKaERwVHgxLThZRXZvRENoMkpSWG1IeFNTdHhTcjBYbmRkZHZQdQ?oc=5",
@@ -40,17 +48,9 @@
    "published_iso": "2026-09-26T07:34:01+00:00"
   },
   {
-   "title": "外国人犯罪流言に抑止を「政府は毅然とした態度示して」 災害時の差別流言研究会が提言",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdUYxZTVQdDliNjQ2aHhpZ0dkdnhJMUcxMmQtNWkzdEt6UGQ3VHRNdTBtNzE2aWhuRExTOTd0THdJYjNYX01sNXFod1RDTHhBbXI4eUlidkk1OHdlZGJ4X3FQb1A?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-09-26 16:00",
-   "published_iso": "2026-09-26T07:00:00+00:00"
-  },
-  {
    "title": "熊野の魅力を発信 外国人観光客に日本酒文化を伝える施設 和歌山・新宮市に来月オープン",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nR3NKc3ZDU2ZJeFBtWUJRTEhiQ1ZaOFZJZ3dWYkFJVmJVSTNmdWhNd2JPaFlQZlV6c1duekpIY0ZQWDFnYWF3dTBENGxYWGlGMjVSQmFScEUwOVZRRXFIQmp3?oc=5",
-   "source": "朝日放送",
+   "source": "asahi.co.jp",
    "source_domain": "asahi.co.jp",
    "published": "2026-09-26 12:18",
    "published_iso": "2026-09-26T03:18:00+00:00"
@@ -122,7 +122,7 @@
   {
    "title": "大阪市内で「結核」集団感染 日本語教育機関の関係者ら12人が感染・発病 咳や倦怠感などある場合は早期受診を呼びかけ",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vRkVDNF9VZDF3ZmtrV0Q2VG5DUFZsM1U4R29fVE9STjkzUzVtdkVwUFN0TFpCOGpDa0ZsQ3NnbXhUaHhnN0lneHZzdm1Vb0VNZlM4OXhhcko4UQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-25 16:44",
    "published_iso": "2026-09-25T07:44:28+00:00"
@@ -136,20 +136,20 @@
    "published_iso": "2026-09-25T07:40:00+00:00"
   },
   {
+   "title": "【西武】4選手を1軍登録 ラミレスが昇格で1軍外国人は3選手・ウィンゲンターと林安可は2軍調整中",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjNUhjOHRhcWJBY2llR3pLZC1qRExHZFdWRE9ZRlJ6aWtEcHZ2U1NfVHpGcTZXMXVZUVRDdi16MTV6dnlhNFpqYUR0Vkg2RTU4OURndTRTSGw0QWppYVotQzN6aWNDTnd2MWJyQW1vUFlvSzFuNGI0MkVVMA?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-09-25 16:33",
+   "published_iso": "2026-09-25T07:33:00+00:00"
+  },
+  {
    "title": "アジア大会をきっかけに外国人らに日本の伝統文化をPR 生け花45点展示 日本舞踊やからくり人形の演技も 名古屋･瑞穂区の東山荘 | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRExjRjVFelF1eUpnUmxsM1pDY0ZsbXA5TDFZb29aOV80MmJsN3A1cTNhY2V1U0UxQTBuOWc1X3lxX0ZITkpQbDdibnlGem83V3RpY1lyOEQ2dw?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-25 12:41",
    "published_iso": "2026-09-25T03:41:00+00:00"
-  },
-  {
-   "title": "ともに・共生社会へ：マータイさんからの伝言 「1人ができること、過小評価しない」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51c2hPWm1GaU9XR0RIN29PVDJkRXZGLXJoNXRyUnFtUjd4eWNlaGxkeU5RUlFzNXhqNmU2c1dubVdaV25qWWI2R1lhUmVOWFppMHVYWG9RUjFOcTRYMTVGNWtBWENSbXZI?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-09-25 12:00",
-   "published_iso": "2026-09-25T03:00:00+00:00"
   },
   {
    "title": "高校生対象の「多文化共生プレゼンコンテスト」、11月28日に本選 明治大学国際日本学部が参加チームを募集",
@@ -240,6 +240,14 @@
    "published_iso": "2026-09-24T20:00:00+00:00"
   },
   {
+   "title": "特定技能業界をリードするONODERA USER RUN 熊本県「令和8年度外国人材受入企業支援事業」外国人材雇用相談開設＆受入れセミナーを開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFRjdtT3RJOFo5ZzZTaGRENE1QcTI4bWFHanBKbDZVeW14SWZkQ042Y25LQUZWV2JFWEZ5UnpFT09MT1F4cHgwLTU2TEFycVE3RnpLS25qTlpRU1FSUC1BZjhXbnZsY0xyU09z?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-25 04:10",
+   "published_iso": "2026-09-24T19:10:00+00:00"
+  },
+  {
    "title": "自民・外国人政策本部 重要施設周辺などでの土地取得を事前許可制とする提言案（2026年9月24日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40eUpmR1VGc0V6X0FCV0JEMHFtek5zLWFrSDhwbGRhVmhkMzAtd1FDSk4zLWdjR3RZaUdiWUpXLXJrSE10SEVnaEJXNUx3SW42TEJWQm5wSUtQSVY0NGM2X3BOWmk1R1BUa1NuLUpLdVV1TDJXTGpUa1JsakZ1UQ?oc=5",
    "source": "日テレNEWS NNN",
@@ -250,7 +258,7 @@
   {
    "title": "アジア大会で名古屋の街は…大須商店街に外国人観光客 ｢サッカー見に来た｣｢寺や神社が美しい｣ 高級品売れた帽子店も",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PaV90anpRTFZEUmFYaG5aSjBHTXVKNWhfbXM1b1dlTU9nYUJSNWF1SHZRMFBnQ1p6SHU0aVA0c2wxVUUwUTlmOW92aktCelFPUWRZSWl2ZjNMOGpCajk0Y2hWdVlpTkU?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-24 17:11",
    "published_iso": "2026-09-24T08:11:00+00:00"
@@ -262,14 +270,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-09-24 16:00",
    "published_iso": "2026-09-24T07:00:00+00:00"
-  },
-  {
-   "title": "「長崎の鐘」被爆者や外国人観光客ら５０人が平和を願い打ち鳴らす…９月２１日「国際平和デー」：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PN2pQRmxDRHJna2VSQXpsSzEzS3VCOEVGMl92QXJPR3RxeERRSi16b21LV0hMMW01UHE2M01Jcl83cWFMVGtpeV9IcXJOV0RnRUJTSzR2X29haEw4R1dkZWN3azRQRlZSMTRPbkprTXQtQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-24 15:29",
-   "published_iso": "2026-09-24T06:29:00+00:00"
   },
   {
    "title": "外国人政策本部が提言案 重要施設周辺の土地取得に「許可制」導入を要求 自民 マンション「投機目的の取得」も言及",
@@ -314,7 +314,7 @@
   {
    "title": "大阪IRで人手不足が深刻に？ 外国人労働者の獲得が激化",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ESFBrb1Y1MHVOSlp0SmpMa1M4VThMWlBNNnI0Ym9TRV9zLVMwM1g1UlB1Uy1EUWl0QnlzNndpYVRxcVVlOVV2alhOM2sySlgzUDJ3elNXdEFyTjNzNl9XZjFuaDZKTGs?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-23 08:00",
    "published_iso": "2026-09-22T23:00:00+00:00"
@@ -336,14 +336,6 @@
    "published_iso": "2026-09-22T21:00:00+00:00"
   },
   {
-   "title": "米、移民2万5千人を第三国に 25年以降、資金提供で移送推進",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IekJwVFVoV2hucE0zaGhTajJ4V3hRTVhPb1dGSVd6OXBfS0h4WDdxMWs5MVpuRHQyV2JndC1DX20yckRxMmtwSS0xbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-22 14:40",
-   "published_iso": "2026-09-22T05:40:00+00:00"
-  },
-  {
    "title": "ドイツ首都で移民2世の市長が初誕生か 「ベルリンのマムダニ」議会選で左派党が躍進",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dW5QRnhGbzBlWFNDZlQ4NGNYZk11Z1ROR21YVXhXbDBGS01CVDRuM0FOWG05bDM3V2FGXzJpa1daQ05ybUJUVEVyQjRzSmFGUmRQa2REWmNjLVNra0VIaGtvRndyallXSVpGekVkQ0lRXzZoMHJfcTRn?oc=5",
    "source": "テレ朝NEWS",
@@ -354,7 +346,7 @@
   {
    "title": "「男性が転落した」新築工事現場でインドネシア国籍の技能実習生(22)が死亡する労災事故 足場から転落し鉄骨が突き刺さったか 広島県福山市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZSDFBVnZZeWt5WTR5WGhDRUFxLXRVYnhOT2hoZmlOVTRvNDl1YVUtREpjY1NBQTR1N2RET2ZZUDJtTUtJWUhNc0VzS2xib2p5MDh1T0tKQQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-22 12:34",
    "published_iso": "2026-09-22T03:34:00+00:00"
@@ -384,17 +376,9 @@
    "published_iso": "2026-09-21T20:00:00+00:00"
   },
   {
-   "title": "アジア大会は「夢」 難民選手団の2選手が会見、テコンドーに出場",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mUW4yVm1LV21VQ2JtX1p3NGUxdG9TMFJtVkNmdTQ0R2RwYnJwTXdsd2ZYY0dmMTBuRGFDZWNfYkxBQ3FJeTNocTVKZ3Z5ZFdxTnNDRVRGaHN2Qi1QUHRTUFQzOUpjeXM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-21 20:34",
-   "published_iso": "2026-09-21T11:34:35+00:00"
-  },
-  {
    "title": "米テキサス州で移民当局が発砲 男性が重傷",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hZnpsNzV6UERpRjhwN18xajJzTGhUZnBPQVVmbkx5dl8xSUJjV0hEOTVzd1BVZnhZajVlN2xwVnR3c2RuSDE5aFVNc0tyZG8tckJTLWM0WQ?oc=5",
-   "source": "TBS NEWS DIG",
+   "source": "newsdig.tbs.co.jp",
    "source_domain": "tbs.co.jp",
    "published": "2026-09-21 14:08",
    "published_iso": "2026-09-21T05:08:21+00:00"
@@ -402,10 +386,26 @@
   {
    "title": "生活の不満が出稼ぎ移民への憎悪に 融和うたう虹の国、南アの異変",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1taXMybkZ1bnJ1M0J5UndHaF94QmlobFdfNU5IQV9OWDBvUWVxXzctQ2FLenVoU1Y4WmJMem9kSFhlZXRVWDYwLVRZVFNwR004S05WbjZuY0dpZTJRVzIyUmY3YjZGZms?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-21 13:00",
    "published_iso": "2026-09-21T04:00:00+00:00"
+  },
+  {
+   "title": "難民の現実 理解深めて 11月、NPOが専門講座 「偏見や誤解解き 新たな視点で」 受講者募集",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BX2p4Q2h5cjJrTGV6c3FNSFJLcmlEWVFpZHk2QWhHMnFoQmtRLWdKWTM3ZkhhdEo1YVFjT2ZwbElZYnEzMV9UMkpGNHNvLTdaMEU4?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-21 07:18",
+   "published_iso": "2026-09-20T22:18:49+00:00"
+  },
+  {
+   "title": "ＳＮＳで集まり外国人労働者に反対するデモ隊、かつての差別発言は影を潜めたが…向けられた「やめろ」のどなり声に「あの人たちは外国勢力に日当で雇われているらしい」とうわさ信じ…ヘイトスピーチは今",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05THgtdkpmdjRqUXcza1VkZlUwMEl5T19VTTE3TEtmYVdGcEVGOWtVWXVSbkRsaFNHT09pSjh0Yk5Jc3dBbVJFYjgyQU15SFg3Y1RkeDljNTVNUWtoYzNXVHRQc3ZycjhPQzlndXRrR0dIdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-09-21 05:00",
+   "published_iso": "2026-09-20T20:00:00+00:00"
   }
  ]
 }
