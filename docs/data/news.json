@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T11:20:59+00:00",
+ "generated_at": "2026-10-01T18:00:00+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ハイチ、10年ぶり総選挙に黄信号 米国の移民大量送還で混乱に拍車",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpLXZUSS1fa1ZmZi1oVy1SQVdFcU95c21YMWJMeDZGVnNUVnR5aDN2RzFiQnNSN2xFb09zME9UdUpZWlpHanIwWXF0Tkdlclg4NHJOMEU0VkxIUjVXOG1jMmRZdEJjTmtRM1NSTQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-02 01:00",
+   "published_iso": "2026-10-01T16:00:49+00:00"
+  },
+  {
+   "title": "安保上重要な土地の取得に「許可制」を、自民党外国人政策本部ＰＴが提言…高市首相「しっかりと措置したい」",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92Und1Xy1rd2pydFQ3aHhVWk5TSk5RdHZ2WXF4d1NUcU1pZ29LakMzckZ3LUoxVE4tNlUydjAxTi1hamFtZzlWTFVMLVpmSURqYmhlM0tDUWJLa09qUkpRWTcwakp4QQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-01 20:45",
+   "published_iso": "2026-10-01T11:45:00+00:00"
+  },
   {
    "title": "＜多文化共生の現場から＞習慣と異文化適応",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YT0F0aHBmQklMdUZtV3pseXY4a1VDaHZYYmVTRVpRdS1FbEJ4NEdwRkhmTzE3Tm1JVWVINXpiWHpFNjBfbmxsWGt0aw?oc=5",
@@ -26,26 +42,26 @@
   {
    "title": "自民党の外国人政策本部の新藤義孝本部長（中央左）から提言書を受け取る高市首相（同右）＝1日午後、首相官邸 - 首相、重要土地規制に意欲 許可制導入、自民提言受け - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wS2JiU3hkVFhBTER4bDRZM3gxaDRuUGIxTXFhMFZ5U0hMdHdRc0xIQkZteWRnVkQ3VHZSd19udXozWi1UM0xlU25UY19RZUFoUzBwUGc2VQ?oc=5",
-   "source": "nishinippon.co.jp",
+   "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-01 19:11",
    "published_iso": "2026-10-01T10:11:08+00:00"
   },
   {
-   "title": "「お医者さんにいくのが怖い」日本語が話せない外国人を救う17言語対応の受診アプリを開発 生成AIで簡単に問診表作成 札幌市",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10bFNYQ0NfN1AyWFRNVUNmTkdWMFFvcXVmZjFqV0NEVVVOVXpGdktLWkdSYUhtRHlOQnN5bTlsOEVDdU9hOUVnbjdONEJxM21nclJkd3R1T0FLcTQ3dy14cFVwdTFtMlk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-01 18:48",
-   "published_iso": "2026-10-01T09:48:00+00:00"
+   "title": "マンション投機に規制 自民、高市首相に提言―外国人政策",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fTUhhMDZBMTNHQ2xSNWJwelhKcWVORC15TkctTlFReF9taEdvTnAwZHJFbnZsVGxtVVpUQWVaS3R5eHNjc1AyV0RLeGZ2eENoQ1hza3I5ekMyQ3JLYXhtM24wOA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-01 18:54",
+   "published_iso": "2026-10-01T09:54:00+00:00"
   },
   {
-   "title": "安全保障上重要な施設周辺の土地取得を「許可制」に 自民・外国人政策本部が政府に提言",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PVFhCTmhDLUEtVU9RRkFPODZacjRBX0dBdnFrWFlXaHNZZk14YUFmdVFmMDVndWV2dTRPVW1MYjVxRDQxUEhRWHVyaGNHMHZMRnRpUHNYMA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-01 18:24",
-   "published_iso": "2026-10-01T09:24:25+00:00"
+   "title": "川越の無許可モスク、市が撤去命令 建物使用者のパキスタン系男性「市が壊せばお金払う」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDUFJoSHk1N0hLd25QQ2lzamh0akFhVjlqODhOaHhKNUhuaG4xc1ZlNVR4WEV4djBSc05oaXNNSjFYemRjMk9vTUVvSl9aOE9lejBiaWc4LVlmTUI4a0JPa2FiUGNPREdQT0FYSjZ6WUpmYVAtQUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-01 18:41",
+   "published_iso": "2026-10-01T09:41:01+00:00"
   },
   {
    "title": "三重県名張市の英心高校桔梗が丘校、不用な服で難民支援へ 生徒お手製の回収ボックス、市役所に設置",
@@ -56,28 +72,12 @@
    "published_iso": "2026-10-01T09:22:46+00:00"
   },
   {
-   "title": "横浜市保土ケ谷区の“外国人”殺害事件 被害者はベトナム国籍の男性（30）と判明 何らかのトラブルに巻き込まれたか 神奈川県警",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ySlRYYzFQdG1McjBtdVZZOEhLekpVM1pnakVONXQ1Wmdnb0x3aDVKOEFrZS1NWWsxYWZVaHAydFBvdzhNSTNZaGZMei1rZWFOWkxlNklfbGZCLVQzc2diQlprNmtSUHJSQ1FCLWF6YXBXaVdfVU1jZUVCY2c?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-01 16:01",
-   "published_iso": "2026-10-01T07:01:00+00:00"
-  },
-  {
    "title": "九州への外国人入国者数が５年ぶりマイナス…１～６月、日中関係の悪化による中国人客の減少が響く",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmWXpfSHp1UTRoNV9iR3VSTTJGRExBRE5oSndHc3NSanM0b0kxXy1ucmJKMmxVYm5jenpEREZxWV8yWlhfRGZpOXNoc0F4NW9yY1NrZGVTWGRXODVRQ3RKbG1fcmdMTlNHNFZsYkx3c2EwUQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-01 15:52",
    "published_iso": "2026-10-01T06:52:00+00:00"
-  },
-  {
-   "title": "日光市の女性、マチアプで出会った「外国人」に暗号資産494万円だまし取られる",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNTXRjaW9GODhOVHdMY1B6S3ZXWFlFZkRZOGFkQjc1dU5ibnFTS1VQd21YbXp2NUpxZ2NZZDNyWFhHdVMwSzZCYjFFQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-01 15:05",
-   "published_iso": "2026-10-01T06:05:00+00:00"
   },
   {
    "title": "2026年上半期に青森県内に宿泊した外国人は初の30万人超 過去最多を更新",
@@ -176,6 +176,14 @@
    "published_iso": "2026-09-30T19:13:33+00:00"
   },
   {
+   "title": "きょうから外国人の永住許可審査が厳格化…「日本人世帯の平均年収継続して上回る」条件追加",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxbHRySEd0aHZNcHRXdDIwRmRfWE1VQmVJYXlBZEhlRzlSSjl3Nlc0Q2JXZXZoVXFaSXBXUXpnUGVuZ3lxeEZIV3NvVTFRdw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-01 04:04",
+   "published_iso": "2026-09-30T19:04:00+00:00"
+  },
+  {
    "title": "クローズアップ：外国人永住許可きょうから厳格化 鈴木江理子・国士舘大教授（移民政策）の話",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYXE2bU9ybHNEcU5ueWNMYWJ2cldSTTVwdEU1YktkTmlFbi1oWFh4Wk9XR3pKa1lQOTZnSTJDZUhXOU1FcTdmZ3dNaVdtZHI0b0RlTkljbW9zUmlwR3hfVkUxdTZucU8y?oc=5",
    "source": "毎日新聞",
@@ -220,6 +228,14 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYVl5TDVCc2ZPTkJsMjNOeEFaR3ZUS1A0MGlFR3NkZi02bnFiU0RRVW5fS0JvZXBYcU5hZDhvRlg2bjh6V2RWNFR5bTBRYUR6NEpz?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-01 00:15",
+   "published_iso": "2026-09-30T15:15:00+00:00"
+  },
+  {
+   "title": "外国人の永住許可、きょうから厳格化…「日本人世帯の平均収入を上回る水準の額」要件に",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1md3REd1F1eFRYRHlhbW9BN2loS1pFY0R1aFNqNk4xVlBtc24zNUVubDNKUi13WDJmTUlCNDF2M1RRREdKM2REemo2T0d5bVZ2UkdqZHpLZmpocUVsRzg3NTBTVUhnUQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:00+00:00"
   },
@@ -304,20 +320,20 @@
    "published_iso": "2026-09-30T09:31:31+00:00"
   },
   {
-   "title": "「入管施設に不当に収容」訴えた外国人２人、逆転敗訴…国に計１２０万円の賠償命じた東京地裁判決を高裁が取り消し",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iVjZla05NVUZBZFZ1dTBwd0dCOVZSQXFjMG8zZGtFTk96STNLT1BHbk55N1FUR3g3QUlCQndNemVoMXpGUzBrX2lDSkdPMWsyclhpelo0dUVKdTRuQzNvQTJaZjA2UQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-30 18:16",
-   "published_iso": "2026-09-30T09:16:00+00:00"
-  },
-  {
    "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿【けいざい百景】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RQURlS09VLTJFZ1VrQTlzcEluUHJHZzNoYjNfV1B1RWFyY19HZVhoVkRoOERVVWhGWDBpSmFpcmlzeEhKdFoyQmExVnNiRkNxR3RWOUlESQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-09-30 15:00",
    "published_iso": "2026-09-30T06:00:00+00:00"
+  },
+  {
+   "title": "エースグレベア：柳田将洋、外国人選手枠3人に「認識を変えなければ」開幕前試合",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOY1dYZnV3UEJuMWpkWjh4bVJXY3pJU0xHWkFRUGFNeW1fLWU5b1ZPYUxuWVVkWkhSVHdNWXd4STF2UWQ5T1dobjFRR2tVRkE3czJia1dUOE0xTi1vX0hpQ2gxNHdWekhn?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-09-30 11:47",
+   "published_iso": "2026-09-30T02:47:16+00:00"
   },
   {
    "title": "第三国への移民移送再開を容認 米最高裁",
@@ -368,14 +384,6 @@
    "published_iso": "2026-09-29T22:01:16+00:00"
   },
   {
-   "title": "イベント情報 猪苗代 ■講演会「福島と移民」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5aDdqS3I5UV9nbU9fd3B4OUJuWkZpX19aRHI1bVd0UWM0em50cGtkLTBVNmxVdjhxb2NRNGpmU2g3cWthRDRVQ0pFSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-09-30 05:14",
-   "published_iso": "2026-09-29T20:14:00+00:00"
-  },
-  {
    "title": "日本の総人口１億２２９７万人に減少、外国人は過去最多の３８４万人…国勢調査の確定値",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxaXdSR3JGc2wxQ1c3OGljRmdjNDFocWxTa3o3R2FjZnlDT1hUUC1Oamc5YThHbmJNQ3VvVEpVcmtoaFBHZ1BzOWZud2U3dXBLUGlVaHRIMlU5UTlja2tyQ3l1V2x4UQ?oc=5",
    "source": "読売新聞",
@@ -384,28 +392,20 @@
    "published_iso": "2026-09-29T20:00:00+00:00"
   },
   {
-   "title": "ロボタクシー日本版は力不足 「移動難民」解消へライドシェア解禁を",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaU5lTU41VEd0VG5Qejl3OGF6cVgwb2I0MmZ6c2VRUElkVHZQVU1nQTBVcGI0bFJDdzZHekk0OXlNUFdqVTdnUUVubDVEQmV3aGJkLWxRUzJoalBjanVOUlZvMUxNdjBQYV9Oag?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
+   "title": "ミャンマー出身者の送還加速 マレーシア、難民・移民への不満解消狙いか",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mUkttdC1sbXZPMkFtbm85R1NtTE1wUFA4NlFUSGdnMy1rLUNJRnJZVzlKNkdHaURIckVwU2hpa09ac2k0U3RqVW55T19JbWZJc3RYQnlxdFJuZFJp?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-09-30 05:00",
    "published_iso": "2026-09-29T20:00:00+00:00"
   },
   {
-   "title": "安心して暮らせる環境求め 働く場整備、共生社会実現へ ＜やまゆり殺傷事件から10年第2部 障害者たちの思い 下",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZVWdYZmVCM2RqUzRoUldWX3ZBYU1LVWtpc01XemJHVUZia2YzT05LVjhvWl9XTXVkWjFJaUItSFNOWTRDVTNZRGFpS04yVHE1bjRUNnJEbTNNUQ?oc=5",
-   "source": "hokkaido-np.co.jp",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-30 00:00",
-   "published_iso": "2026-09-29T15:00:00+00:00"
-  },
-  {
-   "title": "ミャンマーから逃れてきた難民の送還、マレーシア政府が着手…国際人権団体は非難「送還計画は撤回すべきだ」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QN2ZtSWx0enNndDFCV253SEZ6M0w1Rm9DUUdiOGhnUzh6VjlXaGpRbXpwMlVfdTk5X0EwdmlUa24zUjVGQ1RkSlBrX1Y2aDZLREoyQlc2MldQbU9BMjN5WWlB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-09-29 19:56",
-   "published_iso": "2026-09-29T10:56:00+00:00"
+   "title": "ミャンマー人の送還、マレーシアで加速 移民・難民への反感が背景に",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRSFFuWURHMjdjbmhDbUNYZUtGYTI3NTJtRFMxWnFiSEg4SjdmaV9OUk52SlQyaU1pcjExaFNQVFJRdWpLb1lBb0NPbzQxVk5xZ0FFc3lHd3NjcDI0Q1lwRlkwSVRScFE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-29 18:00",
+   "published_iso": "2026-09-29T09:00:00+00:00"
   }
  ]
 }
