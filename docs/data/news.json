@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T06:00:59+00:00",
+ "generated_at": "2026-10-03T12:12:38+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,60 @@
  ],
  "items": [
   {
-   "title": "池袋で相次ぐスーツケース不法投棄、民泊・ホテル利用の外国人観光客が放置か…「中身わからず怖い」通報も",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rOTE2QnFsYXZ2S2xyNkNaX0QzeWkwQ1pMamw0eUZOcVY5U19OYk5PbWI2VnY4WkJZYk5LRDI1Q3hYVTl4cllTZlQ0YTlVeTYwMU9lQlZGU3kwbVdmTXUtaFBQc3VGdw?oc=5",
+   "title": "日本語、外国人に教える 根室で学習支援者養成講座の受講生募集",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOX25TWEZTTy1IQ1JoYzU5S2NJem00SjBDbUlvcVJMNE1tdTlLLUZNdEVZRlpqQUpnX3lTX2ZCOU5WTGpCMU5yWk9sYk85VTNKYTJzQkcyWDE?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-03 20:39",
+   "published_iso": "2026-10-03T11:39:04+00:00"
+  },
+  {
+   "title": "【続報】那覇市若狭の強盗殺人 外国人風の男性が関与か 県警が行方を追う",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XdjJUWXFOVVY1ak5jVTJaaGJmNDFGREFmWWV5VGswN0JtSFVJNUZrSFR4eC1KMG5ZZllfT0lDd3JwaGdFQUV2aFdLdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-03 18:51",
+   "published_iso": "2026-10-03T09:51:00+00:00"
+  },
+  {
+   "title": "那覇市若狭の事件は強盗殺人事件 外国人風の男とみられる人物を容疑者として捜査",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xaTQxRGIzVzZvVnVCSmlRd1N3MnNQSTduazhYOTVoNGlJYjBUMGhoWVBmSGxCNjRiUGVoVUVJa0l4dXJIeDFxNFZVUzdqUG9LYWxKS2tYUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-03 18:17",
+   "published_iso": "2026-10-03T09:17:00+00:00"
+  },
+  {
+   "title": "スペイン本土行き望み海岸で野宿 北アフリカの飛び地セウタに移民",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LeGc1THlORW1wMS1UQTlLNGhuQzkyUUZ5c3F2SmhGUFJQSGl6NGpiallDbjZ0QUIzZXJ0TnpVOUltZXZrMnZaaHFraw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-03 17:59",
+   "published_iso": "2026-10-03T08:59:17+00:00"
+  },
+  {
+   "title": "【続報】容疑者は外国人風の男、那覇のホテル強盗殺人事件 沖縄県警",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qTlhNMzR1NGxVbzNVTFhVelgyc1JNRElRc2I0Y1lvdTlCajY3MjBTYklBbUtqZ29xdGdyOVhhTTlMcW8xMHc3REdjRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-03 17:47",
+   "published_iso": "2026-10-03T08:47:42+00:00"
+  },
+  {
+   "title": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TE5PYXJHRWhBLTJSQktkSHJGLUpuLVVTNGZLbDFMNHM3MXBCbWdaajVhWXROMzBHbFMtQzdjUVJlRUpMajNiMzFRaTVsTFlSRFVWOTdKVlZ4X2hKcG9QMU05OWJuUms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-03 16:00",
+   "published_iso": "2026-10-03T07:00:00+00:00"
+  },
+  {
+   "title": "大分県内の在留外国人が年々増加、６月末２万３８７８人で過去最多…大分市と別府市でほぼ半数占める",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uVmNLM1d1RTBXTWtoNEpHZVpvSFZEWE1laGRlbkswaG9HdWczSWlBN0lKQ2U4Q3dfcDFUeWozdWJLS09fbkR0bF9zSlRKVllwSzZNUHN0bEp4WVhNQnVTd0xubFNTR0xUVWFMNDBVdE5SUQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-03 14:40",
-   "published_iso": "2026-10-03T05:40:44+00:00"
+   "published": "2026-10-03 14:51",
+   "published_iso": "2026-10-03T05:51:00+00:00"
   },
   {
    "title": "トランプ氏に与党の反乱「イラン」「移民」「習氏訪米」批判、中間選控えた生き残り戦術か",
@@ -30,6 +78,22 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-03 12:00",
    "published_iso": "2026-10-03T03:00:00+00:00"
+  },
+  {
+   "title": "池袋で相次ぐスーツケース不法投棄、民泊・ホテル利用の外国人観光客が放置か…「中身わからず怖い」通報も",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rOTE2QnFsYXZ2S2xyNkNaX0QzeWkwQ1pMamw0eUZOcVY5U19OYk5PbWI2VnY4WkJZYk5LRDI1Q3hYVTl4cllTZlQ0YTlVeTYwMU9lQlZGU3kwbVdmTXUtaFBQc3VGdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-03 11:30",
+   "published_iso": "2026-10-03T02:30:00+00:00"
+  },
+  {
+   "title": "プレスリリース：シリーズウェビナー『みらいにつながる日本語教育』最終回〔申し込み受付中〕（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YOEFmLTZQbnNRUE1ndVJVajNtUjhheGJIc2plNGt5U2w2VnZnOFg1WjlGcUdlUVR4eFNqTldjcHROa2JCZndHcmNnQVFFVzRaWm03VkVvMDJianQtLTdNaHpmQ3FTaHdJ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-03 10:52",
+   "published_iso": "2026-10-03T01:52:44+00:00"
   },
   {
    "title": "「ワッ!」「どんな顔だったっけ…」74歳になった外国人タレント〝激レア〟最新ショット「世界まるごとHOWマッチ!」「いや、ケント・ギルバートやないかい!」",
@@ -54,14 +118,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-10-03 09:20",
    "published_iso": "2026-10-03T00:20:00+00:00"
-  },
-  {
-   "title": "シリーズウェビナー『みらいにつながる日本語教育』最終回〔申し込み受付中〕",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtX3NGUjktSk9TdUdfTXVOTjBseWZKSzlPbWtzTHhYbzNQTUM5MElFSnBnVkdSZEktd2oxLUNIMHh4UnU5VjdtSmIyTU5RTHZiWkI3bm1MZjFEcnBXRXMtV3NXak4wSmFvZWlxdXJ2VVlQaXl6ZGJCd0VOaw?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-03 06:00",
-   "published_iso": "2026-10-02T21:00:00+00:00"
   },
   {
    "title": "福井：大雨１か月 現場の課題＜下＞高齢者・外国人どう守る ：地域ニュース",
@@ -94,14 +150,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-02 19:13",
    "published_iso": "2026-10-02T10:13:08+00:00"
-  },
-  {
-   "title": "外国人の土地取得に「許可制」提言 安保重要施設周辺で 有識者",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hU2kzOUpGXzhUbWFFMlJja0Z3NDl0OWJZMnNJOHhVV1Y2SE1wdXhOWjRHN0NCMU1NMVF5SDZsS2Zyc25oRFhJYWt0d2hubHFFMmpJZm9JNVoxNGpHNVE1MGxWU0dmdUsy?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-02 18:49",
-   "published_iso": "2026-10-02T09:49:40+00:00"
   },
   {
    "title": "外国人のマンション購入規制見送り 有識者会議 無人国境離島などは取得許可制に",
@@ -152,28 +200,12 @@
    "published_iso": "2026-10-01T23:50:22+00:00"
   },
   {
-   "title": "姫路商業高で企業6社が出前授業 社会課題解決に商機あり 買い物難民など解決案を発表|姫路",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RUkxbG80el9mTzJUTEU0NDN3RjBUVy1YYk1sTHJENU9MY1FNNTQtdmxzdm5jWV93NzlGQWFldy1RWHoxQ1piVzY3SHhPRG9WeERLNzNheXhnYW9YMk5mZFJUNlkzSjd3cXk1cA?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-10-02 05:10",
-   "published_iso": "2026-10-01T20:10:00+00:00"
-  },
-  {
    "title": "多国籍5人、初任用 共生コーディネーター 県内外国人支援 ／大分",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93b1pNaUp1Znd0R1BRdGtEVm83NEJjTUdJVGt1OGtVWWFzZmpxMjNKQmRyZUdrRFVtdlU5Y0FZSi1ndi1wUVRGd1FNQlU5T05EXzBFSERhYzdOZ0xRWnUwbk50allUTUV2?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-02 05:05",
    "published_iso": "2026-10-01T20:05:32+00:00"
-  },
-  {
-   "title": "外国人向け就労相談窓口 石川県がマッチング、定着促進へ",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uWnBZMlJjazJNcWIwU0I0ZGg4T0dnZlVPU1JqNlR0aDFYdm5pdUlqX3ZvUDFBNGNqM2lnYWR4a3NhZUY5MFM5cjMxSWRhV1NnUUxPRWlRbm9mTHc?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-02 05:05",
-   "published_iso": "2026-10-01T20:05:00+00:00"
   },
   {
    "title": "担い手不足に外国人技術者の採用拡大、定着には柔軟な環境整備が必要",
@@ -192,14 +224,6 @@
    "published_iso": "2026-10-01T20:00:00+00:00"
   },
   {
-   "title": "技能実習生 避難円滑に 稚内署、津波災害想定し訓練",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DX2E3WFd4TGhKWWpoZG9idTZBcHQ0bHlYSHdDd2todnJEaEk4UUhrcTRyWEt1aGhkR0pyUl9wU0ZFb3k0d3R1X3pHWmdsZjV4Q0JPV0ZaVmVpdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-02 04:00",
-   "published_iso": "2026-10-01T19:00:00+00:00"
-  },
-  {
    "title": "移民の強制送還、米最高裁審理へ 政権「犯罪者を追放」 人権団体「難民への攻撃」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZlpNUi13b2pBZU1wT2hndmRjS2s0NEltMTE4bDgwZEJjWmtMQTQ5U3dVZWh6Nnl4dS02ZUpfcFRuT3VqQ01RVFo3Zlk4TW1Gd3FBVXJlZHZ1TVBiWE1QTG5Kb1FsWHpNM0cwcA?oc=5",
    "source": "日本経済新聞",
@@ -214,22 +238,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-02 01:00",
    "published_iso": "2026-10-01T16:00:49+00:00"
-  },
-  {
-   "title": "安保上重要な土地の取得に「許可制」を、自民党外国人政策本部ＰＴが提言…高市首相「しっかりと措置したい」",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92Und1Xy1rd2pydFQ3aHhVWk5TSk5RdHZ2WXF4d1NUcU1pZ29LakMzckZ3LUoxVE4tNlUydjAxTi1hamFtZzlWTFVMLVpmSURqYmhlM0tDUWJLa09qUkpRWTcwakp4QQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-01 20:45",
-   "published_iso": "2026-10-01T11:45:00+00:00"
-  },
-  {
-   "title": "「ともともフェスタ2026」共生社会目指し10月9～10日開催",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ub3JwQU01a1ZiNUFtekpqRi03b1FTUUkzdGRCc29pMU4yTGxBRVlsYVVSYWRBaHhEeDE4bEV0X2liOFFwWmNZekdMTWNXQXBsV0hNdEtZbldGbHdpMkhFeXFCcTJ1R0l5?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-01 19:28",
-   "published_iso": "2026-10-01T10:28:55+00:00"
   },
   {
    "title": "マンション投機に規制 自民、高市首相に提言―外国人政策",
@@ -258,7 +266,7 @@
   {
    "title": "「日本で頑張ってきたのに一つも優しくない」…急激な厳格化が奪う在留外国人の居場所",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80bnI1b1pFaDQzdG5qSlJncDJrQUgtdjR0c0ZNT0lGOHhSQzZBVEtUZ29jWGo5OGJxa0hBWnVxY1FHczFUN2dLdkhCMHBjSGFoaExZ?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-01 11:00",
    "published_iso": "2026-10-01T02:00:00+00:00"
@@ -266,7 +274,7 @@
   {
    "title": "命がけで日本大使館守ったアフガン人 難民となり今はケバブ売る生活 [栃木県] [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qMjBNS3hOekZVcXlJZ2xTR2d6dkhqVTBIRlpXMDhNelZXRFU3UEhkRVJKN0dRendMTEJTMFVVZ2FENWtlc3hMYkN4OUVvek0yck9obTBQSjMzMF9pYVI4OGZmTnVTY3M?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-01 09:00",
    "published_iso": "2026-10-01T00:00:00+00:00"
@@ -274,7 +282,7 @@
   {
    "title": "外国人 5割増の24万人 25年国勢調査確報値 全人口の3.3％占める",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tMHFsMHpJdk1oeE9VRlJSeWlyZGp6SlB5ZkZJMEk2c2xzbDhPWmZKUjNhdDJ1bzRmc0NITXNEcDNYU244YXdFVEc4ME0xamJab2pv?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-01 07:54",
    "published_iso": "2026-09-30T22:54:38+00:00"
@@ -296,17 +304,9 @@
    "published_iso": "2026-09-30T19:13:33+00:00"
   },
   {
-   "title": "永住許可、きょう要件厳格化 平均年収「日本人超」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zOVpwUVVjN011djBxRlpmeFIxTHl0S00tS085RFlpZFh4LWtud0I5dE5Rb0ZwMTE4c2FRTGVXMm02MXZVNnpTTzJmVGlMalJBeFFYT0VSVXFoaEE2aFFrNS1mYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-01 00:23",
-   "published_iso": "2026-09-30T15:23:00+00:00"
-  },
-  {
    "title": "外国人永住許可「事実上抑止」のガイドライン改定 収入要件など厳格化、2027年4月から適用",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSC05djR3YTh1eWhkanhtTFc1Z2ZJM0t5TUlGVF9LTWRUTmpxSFdMT05nWGVVQUtVZDcwTGVFaEVaTHFfc0hjNnd4R3o3b0IxUlo4?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:15+00:00"
@@ -322,7 +322,7 @@
   {
    "title": "在留審査の手数料値上げスタート 永住許可の厳格化ガイドラインも [外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ERjRsQmxwYVVfdXZldE9GNzJYWjFwRGRDRTY1S0FoaFNsaFVaVWo0UHU0ZXRhekZ6QmRkWTFMXzdBMFFQVGFZX0tmSHAzUzBuMVZSQ29CdjBHY19oWlliaGdYc05MalE?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:00+00:00"
@@ -330,7 +330,7 @@
   {
    "title": "外国人の「永住許可要件」大幅厳格化は「従来方針と矛盾」…専門家・是川夕氏が警鐘を鳴らす",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EYVl5TDVCc2ZPTkJsMjNOeEFaR3ZUS1A0MGlFR3NkZi02bnFiU0RRVW5fS0JvZXBYcU5hZDhvRlg2bjh6V2RWNFR5bTBRYUR6NEpz?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:00+00:00"
@@ -370,7 +370,7 @@
   {
    "title": "うつ病発症後の入管収容も「裁量権」 難民申請者の長期収容で逆転敗訴 東京高裁が請求棄却",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1VWxjemEtaURpbnpJTE9mUlN6dlZ4dFRkTHNuSVNQaEpfYkV5ZV9vX3pXdXdXWXZGRzNmVlltN05TaFpCakY5eHBucDBQdl9Ub0Iw?oc=5",
-   "source": "東京新聞",
+   "source": "tokyo-np.co.jp",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-09-30 21:06",
    "published_iso": "2026-09-30T12:06:45+00:00"
@@ -386,7 +386,7 @@
   {
    "title": "入管による収容を国際法違反と認めず、原告側が逆転敗訴 東京高裁",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WUhpOXJjVDFpa1lGOUNyQXU2cXl2MFY1U2NiUnNVZzFDVnNYbWpUdVBsNmNYZ3BNY2pESGtfR1NsdU1OWWYwVHhDMTJfVmF3OGlVWHd2SUlKQ09ITTJSUUsxUmhpV1U?oc=5",
-   "source": "asahi.com",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-09-30 20:26",
    "published_iso": "2026-09-30T11:26:03+00:00"
@@ -400,12 +400,12 @@
    "published_iso": "2026-09-30T09:31:31+00:00"
   },
   {
-   "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿【けいざい百景】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RQURlS09VLTJFZ1VrQTlzcEluUHJHZzNoYjNfV1B1RWFyY19HZVhoVkRoOERVVWhGWDBpSmFpcmlzeEhKdFoyQmExVnNiRkNxR3RWOUlESQ?oc=5",
+   "title": "第三国への移民移送再開を容認 米最高裁",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSjRXYnZhWTlXUVhERE5QdUxJMWxrdHVGZll0LVNWWjZZSkhsTkV3Q2ZzbWs3b08tZVJKWU9IZklEWTRmSzFpM0FMSFQzWTBjZnZMb3pJdWd4MHFweUlEUTl4WQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-09-30 15:00",
-   "published_iso": "2026-09-30T06:00:00+00:00"
+   "published": "2026-09-30 10:17",
+   "published_iso": "2026-09-30T01:17:00+00:00"
   }
  ]
 }
