@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T20:20:43+00:00",
+ "generated_at": "2026-10-03T00:09:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -18,7 +18,7 @@
   {
    "title": "ＥＵ、移民送還拠点を許可 第三国設置 人権団体が批判",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUY1BUY0JYLU5IYUk1dFFZRmNXOFp3ekx2RmRFZk1zUUI0aHliaDlEZUlTOU05UGFfZkJmTVlsOS1XMXJmQ3R6dlpuVmc2X1gtSEM1M2RGY3BYdw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-03 04:00",
    "published_iso": "2026-10-02T19:00:00+00:00"
@@ -42,7 +42,7 @@
   {
    "title": "外国人の土地取得に「許可制」提言 安保重要施設周辺で 有識者",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hU2kzOUpGXzhUbWFFMlJja0Z3NDl0OWJZMnNJOHhVV1Y2SE1wdXhOWjRHN0NCMU1NMVF5SDZsS2Zyc25oRFhJYWt0d2hubHFFMmpJZm9JNVoxNGpHNVE1MGxWU0dmdUsy?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-02 18:49",
    "published_iso": "2026-10-02T09:49:40+00:00"
@@ -50,7 +50,7 @@
   {
    "title": "外国人のマンション購入規制見送り 有識者会議 無人国境離島などは取得許可制に",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVFA2RWNoaWI3SHQxLXdnR3BDeFVvQ04xTzRTUmVzWmxQNWJ3blFuS1BsRUJwWXB2TzRLSDdYbENGRlhDTm1SaFBSZU1KSGdBYmdyUjloWVI3Zw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-02 18:42",
    "published_iso": "2026-10-02T09:42:01+00:00"
@@ -62,14 +62,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-02 18:19",
    "published_iso": "2026-10-02T09:19:10+00:00"
-  },
-  {
-   "title": "通報は“フランス語”で…北海道東部の「武華山」で山岳遭難 外国人2人が体調不良訴える 北見市",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbzJuMTBrNkVOalBnMFVheU5BazJqZlpvZ1FoWEVCeWdGM1ZaY3JkOXkyUDFSdW04NEJXZ3lCLUE1RVBDWUk3Y01SUkd5dHBmbXdHakJLUlVrYk5TQU5CaXRkSm4tVzlETFhpdmxrTEZyRXFZcTVFRzMxNzlHTFo4bkJESzg0WDQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-02 18:10",
-   "published_iso": "2026-10-02T09:10:00+00:00"
   },
   {
    "title": "外国人向け就労相談窓口 石川県がマッチング、定着促進へ",
@@ -96,30 +88,6 @@
    "published_iso": "2026-10-02T06:00:00+00:00"
   },
   {
-   "title": "獅子舞の稽古に熱 秋祭りに向け外国人も参加、和歌山すさみの王子神社",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81OHFXc1VodUhTRXR3Rjk4dGFBNGh6c2tfRjIwc21zdHhiR210YVQtdmpXVFBvdWlneXpTS0pTei12SjFQZmx2d3JTYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-02 14:30",
-   "published_iso": "2026-10-02T05:30:00+00:00"
-  },
-  {
-   "title": "【動画】日替わりシェフは外国人 地域住民との交流広がるカフェで「誰もが挑戦できる社会に」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JeGNzZklXRS1XcndiQ3VlbjZKY1llRG5qX1phOEc0VVdjTWdBaFNNOGJibjlxOGRGZWtpWGZRMGtXWkNCcUtxVTl0OThpOTRBV1J5SHZWV1d1R0hRbXE1cjFLVWFCalJTUkhqbV9HLWxqeklyM0E?oc=5",
-   "source": "sankei.com",
-   "source_domain": "sankei.com",
-   "published": "2026-10-02 11:30",
-   "published_iso": "2026-10-02T02:30:00+00:00"
-  },
-  {
-   "title": "技能実習生派遣機関など視察 インドネシアで東北ニュービジネス協 日本の人手不足解消に期待",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wbm02UTVodGFkS3ZtTUFNUzV1X2JuYVhCMDI3TW1KVnlWbVoxWllaSnM1Sm9xS1N0YkhHQnVwNjlHQWFScjNzcW5zZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-02 11:21",
-   "published_iso": "2026-10-02T02:21:23+00:00"
-  },
-  {
    "title": "EU、不法移民の送還拠点を許可 域外第三国に設置、批判も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xQVhJOC1sRjN5Vmswd0FlanBVRGo2Q2JfRTlGOW5rWGg1QXhEYXZrQjVEcXlTaXdWMTU5X0VDb1hqbU1kRGxLM0hqUlVhRXJqZ240ZDdB?oc=5",
    "source": "西日本新聞me",
@@ -130,7 +98,7 @@
   {
    "title": "姫路商業高で企業6社が出前授業 社会課題解決に商機あり 買い物難民など解決案を発表|姫路",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RUkxbG80el9mTzJUTEU0NDN3RjBUVy1YYk1sTHJENU9MY1FNNTQtdmxzdm5jWV93NzlGQWFldy1RWHoxQ1piVzY3SHhPRG9WeERLNzNheXhnYW9YMk5mZFJUNlkzSjd3cXk1cA?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-10-02 05:10",
    "published_iso": "2026-10-01T20:10:00+00:00"
@@ -138,7 +106,7 @@
   {
    "title": "多国籍5人、初任用 共生コーディネーター 県内外国人支援 ／大分",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93b1pNaUp1Znd0R1BRdGtEVm83NEJjTUdJVGt1OGtVWWFzZmpxMjNKQmRyZUdrRFVtdlU5Y0FZSi1ndi1wUVRGd1FNQlU5T05EXzBFSERhYzdOZ0xRWnUwbk50allUTUV2?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-02 05:05",
    "published_iso": "2026-10-01T20:05:32+00:00"
@@ -146,7 +114,7 @@
   {
    "title": "担い手不足に外国人技術者の採用拡大、定着には柔軟な環境整備が必要",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aV3NDbmhvVkRzdkljVUFvMzR5RG5DVVlQdnFCRXlRc3lsT09ncDhvcTYxWmpiLXNlYklCT3JBc3lyUXJNVkZGaHRQTktHSjRaRkpfdHBkel9tS2hNa2JIV3NrRzJvSDFlTGo0LQ?oc=5",
-   "source": "日経クロステック（xTECH）",
+   "source": "xtech.nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 05:00",
    "published_iso": "2026-10-01T20:00:00+00:00"
@@ -162,7 +130,7 @@
   {
    "title": "技能実習生 避難円滑に 稚内署、津波災害想定し訓練",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DX2E3WFd4TGhKWWpoZG9idTZBcHQ0bHlYSHdDd2todnJEaEk4UUhrcTRyWEt1aGhkR0pyUl9wU0ZFb3k0d3R1X3pHWmdsZjV4Q0JPV0ZaVmVpdw?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-02 04:00",
    "published_iso": "2026-10-01T19:00:00+00:00"
@@ -186,7 +154,7 @@
   {
    "title": "「ともともフェスタ2026」共生社会目指し10月9～10日開催",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ub3JwQU01a1ZiNUFtekpqRi03b1FTUUkzdGRCc29pMU4yTGxBRVlsYVVSYWRBaHhEeDE4bEV0X2liOFFwWmNZekdMTWNXQXBsV0hNdEtZbldGbHdpMkhFeXFCcTJ1R0l5?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-01 19:28",
    "published_iso": "2026-10-01T10:28:55+00:00"
@@ -198,6 +166,14 @@
    "source_domain": "jiji.com",
    "published": "2026-10-01 18:54",
    "published_iso": "2026-10-01T09:54:00+00:00"
+  },
+  {
+   "title": "横浜市保土ケ谷区の“外国人”殺害事件 被害者はベトナム国籍の男性（30）と判明 何らかのトラブルに巻き込まれたか 神奈川県警",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ySlRYYzFQdG1McjBtdVZZOEhLekpVM1pnakVONXQ1Wmdnb0x3aDVKOEFrZS1NWWsxYWZVaHAydFBvdzhNSTNZaGZMei1rZWFOWkxlNklfbGZCLVQzc2diQlprNmtSUHJSQ1FCLWF6YXBXaVdfVU1jZUVCY2c?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-01 16:01",
+   "published_iso": "2026-10-01T07:01:00+00:00"
   },
   {
    "title": "大分県、外国人共生コーディネーター5人任用 地域や企業の橋渡し役",
@@ -234,7 +210,7 @@
   {
    "title": "「共生」掲げ永住「狭き門」に 外国人政策厳格化、政府の狙いは",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SWZ4cXZjUFBkNFdBZGN0TkxtVmpqMzRvTDBMZjI4b2lfWV9OcDZRUEZSRWh5eENqRXZIVVlBWVkxTHhZd1B3azFDaldBNEpoUUQ1UHlYY19ONFI2LWFsVVBUSExsZV9y?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-01 07:00",
    "published_iso": "2026-09-30T22:00:00+00:00"
@@ -298,15 +274,23 @@
   {
    "title": "10月から外国人永住許可が厳格化 「日本人平均年収」が新基準",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rMnNKdXNfN3RzZU80NVRnOXJzWXJOTl9GX1h4dk9XbnZMRHBFQmlwa3YzbWtoWEZsa1NzN0xNaFpILXNFbGtUbkdETWpfQTM5OVBoRkhpMWVvWF80cTVOYXBXNnp3TWJD?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:00+00:00"
   },
   {
+   "title": "「在留資格」手数料引き上げ 地域経済や社会への影響は 永住資格の申請手数料は1万円が20万円に",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBV2h0UkFKa0xvd21sODU2WkVCSVpyc0JqMUo5MnFjaExkeERjWVNMNEc3eVVUdEt3eHBWcllnZGJOeVY3dzVjNmZabndyUQ?oc=5",
+   "source": "fnn.jp",
+   "source_domain": "fnn.jp",
+   "published": "2026-09-30 22:40",
+   "published_iso": "2026-09-30T13:40:00+00:00"
+  },
+  {
    "title": "外国人政策「ここからが本番だ」 個別是正から量的マネジメント…国の将来像描く議論に",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUMWpqcTRsajJaYjhyMmMzNVB6VGtXRDJuOEVtZzJDVW1ia2V2cFJvb1hXVHVaVXZMS3NISkE4TFMxS2VlSURlYjBWSTlneWFxeFBFazVTTmhxOFJUdE9qS28yWXN3QUZOak93ZkN0dEI3cUoxcEE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-30 21:15",
    "published_iso": "2026-09-30T12:15:05+00:00"
@@ -370,7 +354,7 @@
   {
    "title": "第三国への不法移民追放を容認 米最高裁、合法性の最終判断まで",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZE9aY2Fxc1FSS1prb2Jia2x2QjMyVG9NZjVyRjQ3clM0bm9VaTdsbkJxSThCSk9oTlNkMnhRNG1LX1AtUGhQb1h2SG91UEg2SGdVbnVfU2hJQQ?oc=5",
-   "source": "hokkaido-np.co.jp",
+   "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-09-30 07:42",
    "published_iso": "2026-09-29T22:42:22+00:00"
@@ -378,7 +362,7 @@
   {
    "title": "トランプ政権の移民追放 米最高裁は最終判断まで容認の姿勢、これまでに2万5000人以上",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTXAxU09heUZJbkVrd1lKRTdFQ29FOUxuaUU0bUVrWDR0QmxSamhUYVhqNmZucVgwOXJmdl9iMXpzSy1HWDAwWW42ZkdGcWhfTy1jWm45OW1xWlNXSDJNc3VMWDItUHNHRTJoTVlpeG45WFBVaVE?oc=5",
-   "source": "sankei.com",
+   "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-09-30 07:41",
    "published_iso": "2026-09-29T22:41:17+00:00"
@@ -406,6 +390,22 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-30 05:00",
    "published_iso": "2026-09-29T20:00:00+00:00"
+  },
+  {
+   "title": "総人口２．５％減、１億２２９７万人 外国人３８４万人で過去最多―２５年国勢調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CYkp4eHYzVUIzYno0MWtqQnBuc3AyajJfSDZfVUFodEk5SWZVWlhYRDhuNG9BYjFRUlpLRm11TlRfWWRKcUoxbXlwTlVZYUQzQ0pWSVNtZDJRS0pyVkdZQk9DVQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-29 17:20",
+   "published_iso": "2026-09-29T08:20:00+00:00"
+  },
+  {
+   "title": "取材に応じる東アフリカ出身で難民認定申請中の男性＝東京都内 - 難民申請者、道が狭まり募る不安 「日本で生活できるのか」 - 写真・画像(1/2)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zQkVqY2IzUTVXWm9EYzd2X1NXN2pUc3llbEJ0OTZteDhWZ05DYWxKRjMwdy1zVXZyLW94LTZxSElyaFJqamMwNFZIQUI5T0RFZW9IRGJhNA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-09-29 16:50",
+   "published_iso": "2026-09-29T07:50:42+00:00"
   }
  ]
 }
