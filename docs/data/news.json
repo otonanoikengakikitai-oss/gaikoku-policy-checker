@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T17:51:38+00:00",
+ "generated_at": "2026-10-05T23:43:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人サポートのGTN、24億円調達 地銀と連携し特定技能支援へ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56UHdxZzJTR1FoZjVCNzZYV1RWSk5PV3NqZHRiMktjUjlqSE0wY0pKWkJidUpOR2hrWG1RdVZrWmVQeFZsWFhsbFRxTXhJTmRSUk80V2FuNlMyeC11QWprbnAycC1GaGtwWUw4eA?oc=5",
+   "source": "nikkei.com",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-06 05:00",
+   "published_iso": "2026-10-05T20:00:00+00:00"
+  },
+  {
+   "title": "イエメン、暗闇しか見えない 戦闘激化、空爆で奪われた家族、母国に逃げ場はない",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBdHRtaUtxYXhvN1QtZGNlSWgyekx2d0tNOERjQ0YxbXlvSDZJUzcyX2RMc2luVUpQa05HOFY0eF9URzZiUWp2ajlIS18zaVlDSUhMWUJBMVItVVlZ?oc=5",
+   "source": "asahi.com",
+   "source_domain": "asahi.com",
+   "published": "2026-10-06 05:00",
+   "published_iso": "2026-10-05T20:00:00+00:00"
+  },
   {
    "title": "“不動産登記” 所有者の「国籍」申し出を義務化 「外国人による不動産保有の実態を把握することが必要」法務省",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SaTdPU1JIVE16RC1xQW5heVNBZldtOTFNdF9pNG00eXFiaGtWT1dOejU3RWk0OElZaGJZOEpVTVVYSkJ5cTVieDlLLTlieHRCQXoxemdPRQ?oc=5",
@@ -66,7 +82,7 @@
   {
    "title": "神姫バス、「特定技能」の中国籍運転士がデビュー 人材不足打開へ [兵庫県]",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvcHFkX1NOVG1RTVlhekJjbWZGNy1jcjVlOFF5aWxQYkdGcENvUjgweWZTUHl3dGNOOF9ua19WZ2llRlF4aVdadnhuWkdydEdKUnI3WFhBMEJFNWJudE9ZT3JFLWw1Q215U2c?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-10-05 07:39",
    "published_iso": "2026-10-04T22:39:51+00:00"
@@ -74,7 +90,7 @@
   {
    "title": "ロシア外務省、キーウからの退避呼びかけ 外国人や外交官に",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FbHlSVDE4Z044NnQ3bzhPMkV1bU1FdFJFQjFNNzlCdGlEQ0J4ZzhmTjNMdVJSRGRRdkNDaFY2MTZldU02SmJvZTJ3Y0dfalNOYUJrdzMxY3JEeHJKWThqQTdLWTVzRGkzeTJ6MA?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-05 06:53",
    "published_iso": "2026-10-04T21:53:29+00:00"
@@ -82,7 +98,7 @@
   {
    "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-05 05:00",
    "published_iso": "2026-10-04T20:00:00+00:00"
@@ -90,7 +106,7 @@
   {
    "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-05 05:00",
    "published_iso": "2026-10-04T20:00:00+00:00"
@@ -144,14 +160,6 @@
    "published_iso": "2026-10-04T09:08:00+00:00"
   },
   {
-   "title": "松田元太が超密着ダンス＆キス！酒を片手に外国人美女との妖しい一幕＜はだかんぼうたち＞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CemJ2NWcwMzFaeDBoUUhSM0s2VFEwNU5Vb0xDVTFlMEVTbWZmcEt1cVpPWEpPY2wzdVlYLTd3cGNTaDlfeXUzYWZYV1psRXZkWHfSAVdBVV95cUxQaDJrclEzVHdiSUUxVXdhbVc2S3NBcGNHaWVIVzFlTFVMWlRUM0pnbWt6aGpMMEdTejV6bW5PV2dDOVdJbUJ3MDJhS1pXNWRZR0U5M2dRSlk?oc=5",
-   "source": "テレ朝POST",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-04 17:34",
-   "published_iso": "2026-10-04T08:34:59+00:00"
-  },
-  {
    "title": "路線バス...「外国人運転士」が注目 人手不足の“切り札”に？ 外国人バス運転士デビューのウラ側【追跡取材 news LOG】",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXVDdZNFFVMlpabjl6SElMM3d1OGhWcTNIYms1bkhkSzFBNzliR0ItSHM0eDkwVTBPc200aTZoMDQ4Y0dXMFZjS2pxbkN6NVhQR1dNLVlod2pBVzdZb3BkZzZZSkR1elU1MDNyREZaQUg4T2FlMTlFR2d6Y04?oc=5",
    "source": "日テレNEWS NNN",
@@ -160,25 +168,25 @@
    "published_iso": "2026-10-04T03:55:00+00:00"
   },
   {
-   "title": "外国人観光客が4億円求め提訴 函館の撮影スポットで転落し脊髄損傷 国の基準より低い橋の手すり「市の管理に問題」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kTW5RNHZDalZxSXQwUTY4WTJrbzFkVHp0Sl9Dbk5iUldvNDA2WDFEeVNVN3hOM1IxempPQjJNTWpOUUpucFdiY0k0cUw0Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-04 11:00",
-   "published_iso": "2026-10-04T02:00:00+00:00"
+   "title": "かながわ多才多彩・この人に聞く：共生社会目指す音楽家 後藤勇さん（59） 即興演奏 音での「対話」 ／神奈川",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLNkQ5ZjJNclM4dUZwenNZZVF0NWdySG5nWWxvVi0yblZWRmpPV1JpNW5GN01VcDlwWnRub0VfcmppYjE4LTNTNTBSRGNnZEszblJjZTVlTjZwSXlsQVdfNkxwM3EzSFhX?oc=5",
+   "source": "mainichi.jp",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-04 05:04",
+   "published_iso": "2026-10-03T20:04:39+00:00"
   },
   {
-   "title": "ウィシュマさん問題を考える 遺族弁護団が千代田で集会 12月判決 「入管変える機会に」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vdjVVOVQ2WHZINUxid2lGTzRUQ2RlcUw2UTFYbFQ5NUZFaDZKbTBxMmxzdzBNRzFaWERvSTkwYnFucm40eERMa1gwdFdJaGRrRW4w?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-04 07:10",
-   "published_iso": "2026-10-03T22:10:15+00:00"
+   "title": "那覇市のホテル女性遺体 強盗殺人事件と断定 外国人風の男とみられる人物を容疑者とみて行方追う",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHQ2hOV0pxQUFRMy1TZXNNTzhWSkRCYkY1ZE5JSVRJLUJrWDc1cEF0eXJQZjk0V1hyN0U3cDY2Vm8wQ1FheWVNVXlralJ5UXNzTWFpbzlTdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-04 04:45",
+   "published_iso": "2026-10-03T19:45:39+00:00"
   },
   {
    "title": "外国人受け入れ厳格化 根拠乏しく日本離れも",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lZDhZdFlHOTBiZ05ES085TjBQb0IzWlpHRzNLdkM0WDVkRHg1NnZfQWJFdzJaM2F5RHY2TkN3VjFkYkJQa0Yzc2Z3aVlCdXBIcEQ5aE14R0JCMFJhczZjdkNpOW9GUklHMGp4NA?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-04 02:00",
    "published_iso": "2026-10-03T17:00:00+00:00"
@@ -210,7 +218,7 @@
   {
    "title": "共益費徴収にトラブル対応 多国籍化進む県営住宅、自治会任せの限界 [愛知県] [外国人政策 高市早苗総理 自民党][外国人]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6TE5PYXJHRWhBLTJSQktkSHJGLUpuLVVTNGZLbDFMNHM3MXBCbWdaajVhWXROMzBHbFMtQzdjUVJlRUpMajNiMzFRaTVsTFlSRFVWOTdKVlZ4X2hKcG9QMU05OWJuUms?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-10-03 16:00",
    "published_iso": "2026-10-03T07:00:00+00:00"
@@ -234,10 +242,18 @@
   {
    "title": "プレスリリース：シリーズウェビナー『みらいにつながる日本語教育』最終回〔申し込み受付中〕（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YOEFmLTZQbnNRUE1ndVJVajNtUjhheGJIc2plNGt5U2w2VnZnOFg1WjlGcUdlUVR4eFNqTldjcHROa2JCZndHcmNnQVFFVzRaWm03VkVvMDJianQtLTdNaHpmQ3FTaHdJ?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-03 10:52",
    "published_iso": "2026-10-03T01:52:44+00:00"
+  },
+  {
+   "title": "ＥＵ、移民送還拠点を許可 第三国設置 人権団体が批判",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUY1BUY0JYLU5IYUk1dFFZRmNXOFp3ekx2RmRFZk1zUUI0aHliaDlEZUlTOU05UGFfZkJmTVlsOS1XMXJmQ3R6dlpuVmc2X1gtSEM1M2RGY3BYdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-03 04:00",
+   "published_iso": "2026-10-02T19:00:00+00:00"
   },
   {
    "title": "北海道京極町・ミャンマー人労働者暴行疑惑の農業法人に入管が調査 労組、新たに外国人労働者3人を保護",
@@ -250,7 +266,7 @@
   {
    "title": "技能実習生の受け入れ認定取り消し、26年度は100社ペース",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 19:13",
    "published_iso": "2026-10-02T10:13:08+00:00"
@@ -258,7 +274,7 @@
   {
    "title": "居住地で外国人増「いいと思わない」、41%に急増 交流は減少",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOHBYekcwdERjUWd6Z21WSXhUVWFoNEZfLTBjMHN3bC1ZWXhwN3RmVlJpRHB2Wk5ESTBaS2hrYVBKdVR0QkZpWU5WV2dUdnExMVdoV1Rlc012ZGdnSmxNTkExSkNsUFkwTC1PZg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 15:10",
    "published_iso": "2026-10-02T06:10:09+00:00"
@@ -274,7 +290,7 @@
   {
    "title": "EU、不法移民の送還拠点を許可 域外第三国に設置、批判も",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xQVhJOC1sRjN5Vmswd0FlanBVRGo2Q2JfRTlGOW5rWGg1QXhEYXZrQjVEcXlTaXdWMTU5X0VDb1hqbU1kRGxLM0hqUlVhRXJqZ240ZDdB?oc=5",
-   "source": "西日本新聞me",
+   "source": "nishinippon.co.jp",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-02 08:50",
    "published_iso": "2026-10-01T23:50:22+00:00"
@@ -282,7 +298,7 @@
   {
    "title": "姫路商業高で企業6社が出前授業 社会課題解決に商機あり 買い物難民など解決案を発表|姫路",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RUkxbG80el9mTzJUTEU0NDN3RjBUVy1YYk1sTHJENU9MY1FNNTQtdmxzdm5jWV93NzlGQWFldy1RWHoxQ1piVzY3SHhPRG9WeERLNzNheXhnYW9YMk5mZFJUNlkzSjd3cXk1cA?oc=5",
-   "source": "神戸新聞",
+   "source": "神戸新聞NEXT",
    "source_domain": "kobe-np.co.jp",
    "published": "2026-10-02 05:10",
    "published_iso": "2026-10-01T20:10:00+00:00"
@@ -290,7 +306,7 @@
   {
    "title": "外国人政策、エビデンス乏しき厳格化 「経営」資格は日本離れの兆し",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fcGpCME1qWUtmWHBkSkpaN3F1VnA5cExLNGlUTnZBRUlibkI4QVVGWGlvVXlvRGhhSkJUN1MwaXMwdFpMUVMzcHF6T1duOG5XckhZdlU5cFRXS1BVLTZmanFtMXhwdmRfYS1BVw?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 05:00",
    "published_iso": "2026-10-01T20:00:00+00:00"
@@ -298,7 +314,7 @@
   {
    "title": "移民の強制送還、米最高裁審理へ 政権「犯罪者を追放」 人権団体「難民への攻撃」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZlpNUi13b2pBZU1wT2hndmRjS2s0NEltMTE4bDgwZEJjWmtMQTQ5U3dVZWh6Nnl4dS02ZUpfcFRuT3VqQ01RVFo3Zlk4TW1Gd3FBVXJlZHZ1TVBiWE1QTG5Kb1FsWHpNM0cwcA?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 02:00",
    "published_iso": "2026-10-01T17:00:00+00:00"
@@ -306,7 +322,7 @@
   {
    "title": "ハイチ、10年ぶり大統領選に黄信号 米国の移民大量送還で混乱に拍車",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpLXZUSS1fa1ZmZi1oVy1SQVdFcU95c21YMWJMeDZGVnNUVnR5aDN2RzFiQnNSN2xFb09zME9UdUpZWlpHanIwWXF0Tkdlclg4NHJOMEU0VkxIUjVXOG1jMmRZdEJjTmtRM1NSTQ?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-02 01:00",
    "published_iso": "2026-10-01T16:00:49+00:00"
@@ -314,26 +330,10 @@
   {
    "title": "「ともともフェスタ2026」共生社会目指し10月9～10日開催",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ub3JwQU01a1ZiNUFtekpqRi03b1FTUUkzdGRCc29pMU4yTGxBRVlsYVVSYWRBaHhEeDE4bEV0X2liOFFwWmNZekdMTWNXQXBsV0hNdEtZbldGbHdpMkhFeXFCcTJ1R0l5?oc=5",
-   "source": "毎日新聞",
+   "source": "mainichi.jp",
    "source_domain": "mainichi.jp",
    "published": "2026-10-01 19:28",
    "published_iso": "2026-10-01T10:28:55+00:00"
-  },
-  {
-   "title": "東京国税局と東京入管で内定式 来春の新社会人に内定通知書（2026年10月1日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VUllUbG5iOGVJWHZ3Vy1sbU91NW9ReVc2Z3BXdVRwNVg0cU14UFNDQjFOcFhDZ3h4dUVrU0RPUmtqZTJ1Q2Z3UXp0TGZqZF82TFpOeV9fQm1BRTRkZDhSNGhEUWFmY3JpbnlBV211ZDJfTFpOenhIX3RjcnI?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-01 18:40",
-   "published_iso": "2026-10-01T09:40:00+00:00"
-  },
-  {
-   "title": "三重県名張市の英心高校桔梗が丘校、不用な服で難民支援へ 生徒お手製の回収ボックス、市役所に設置",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPalJIbjFkRG9FM2VjakJmSHZfTUFjWDZvOFpkVXo3ODBJVEc1WnpjcFIxNUg1VUZWeXlSUEg0YXM1RW5RRWVlR0xKUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-01 18:22",
-   "published_iso": "2026-10-01T09:22:00+00:00"
   },
   {
    "title": "買い物難民を防げ 小国町の商業施設「アスモ」存続へ 高校生のにぎわいづくりと町の活性化策",
@@ -346,7 +346,7 @@
   {
    "title": "トランプ政権、移民2.5万人を第三国へ強制送還 最高裁が合憲性審理",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxaWIxY3FudG5mWFB0UTlXTm1oN28wSUJIR0hpWlRTVjBjdC01d1U1dGZqeXhiOGVfcUxCdGlVZ1FWS1kyNTBNVHZ6T2t0eGNxTGUtelJJRmFRNk01czIwZ2NPdnZYS0lFSjBTUg?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-01 04:13",
    "published_iso": "2026-09-30T19:13:33+00:00"
@@ -362,7 +362,7 @@
   {
    "title": "外国人の永住許可ガイドライン、収入要件など厳格化 1日に改定",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcDdtSVJ2LW1EbU9CWWQ2ZnZwbmVFb2lEX0hGU3FwZnFRUmx4OHpjcXVycWJWanY2NkpPN3BHTDVRaG1nWTZoblFWV01OUE9QcmV2cFlFU19GSWdjRUprSlNIV2FVM1VZaWNhaQ?oc=5",
-   "source": "日本経済新聞",
+   "source": "nikkei.com",
    "source_domain": "nikkei.com",
    "published": "2026-10-01 00:15",
    "published_iso": "2026-09-30T15:15:00+00:00"
@@ -394,18 +394,18 @@
   {
    "title": "入管による収容を国際法違反と認めず、原告側が逆転敗訴 東京高裁",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WUhpOXJjVDFpa1lGOUNyQXU2cXl2MFY1U2NiUnNVZzFDVnNYbWpUdVBsNmNYZ3BNY2pESGtfR1NsdU1OWWYwVHhDMTJfVmF3OGlVWHd2SUlKQ09ITTJSUUsxUmhpV1U?oc=5",
-   "source": "朝日新聞",
+   "source": "asahi.com",
    "source_domain": "asahi.com",
    "published": "2026-09-30 20:26",
    "published_iso": "2026-09-30T11:26:03+00:00"
   },
   {
-   "title": "第三国への不法移民追放を容認 米最高裁、合法性の最終判断まで",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZE9aY2Fxc1FSS1prb2Jia2x2QjMyVG9NZjVyRjQ3clM0bm9VaTdsbkJxSThCSk9oTlNkMnhRNG1LX1AtUGhQb1h2SG91UEg2SGdVbnVfU2hJQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-09-30 07:42",
-   "published_iso": "2026-09-29T22:42:22+00:00"
+   "title": "「すごく大変」入管難民法改正で在留手続き大幅値上げ 永住許可は20倍に 駆け込みの外国人で窓口混み合う＝静岡・浜松市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VckpSSDRkSTg4eWN4QXhSUThBOGhneFVsT3dNSnRnYjV2YU9BSkFvQThJWHlUbmpCVzRnX2o0WUw5WVdrS0xoTmE0UUxHVHQ4dTRydWJMbjY4UQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-09-30 19:07",
+   "published_iso": "2026-09-30T10:07:00+00:00"
   }
  ]
 }
