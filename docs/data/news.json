@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T02:04:03+00:00",
+ "generated_at": "2026-10-07T09:47:07+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
-   "title": "インドネシアってどんな国？ 介護は大変？ 高校生と交流 [鳥取県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNjRLMXlOSkdSVHhOc1ljZXdCSThSNXV4di1Ub1MtZG1ZNzVpR3hBal96UVZpamxxTW94NTdVNFY3TENhRnhJR3o1MWdTRHZXSU5LYWJBMWUwWFA2a29XcWNaeExVTkE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-07 10:15",
-   "published_iso": "2026-10-07T01:15:00+00:00"
+   "title": "外国人も住みやすいまちについて話し合いました｜「やさしい日本語」ニュース(河北新報)",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UHhmYlNqS3VSOHN6bEpzajhhZWg0WmhudlFSd3FKcEsyY09PelUzN1NPSXlxajVOUDZlVDhUQl9hdU9ja3liMnVsbFRwYVBoR3NQaFVrUkFua0lCYUNldkVrRkt2WGh0VzNXdXVHVE5IMEtWemdYWnpPczZVUQ?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-10-07 18:43",
+   "published_iso": "2026-10-07T09:43:06+00:00"
+  },
+  {
+   "title": "NHK名古屋 多文化共生キャンペーン",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdzBmVVZMZGRvT2lQSUtnWDRtSFhBSjB4YjM0S3dpakpjd3lEcjVienl3UUhxSHdleHB2QlpoaHFWMGVvMThTSElwczVvbXl5M0tTVlAzc29fMTBua2FLT0YzLVI?oc=5",
+   "source": "NHK",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-10-07 17:00",
+   "published_iso": "2026-10-07T08:00:22+00:00"
+  },
+  {
+   "title": "手数料20倍や「国益要件」 外国人への官製差別では〈社会時評〉安田菜津紀",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQWVl6dk5IY3hNV01pXzdVZkhsbXRSNUs5YXBqMzRhZV9vNUtza1J1NktDY1ptVzFKdFhDdnVLVHhDWDJlQm1hbFNkZHl5ZDZCWFZ3?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-07 17:00",
+   "published_iso": "2026-10-07T08:00:00+00:00"
+  },
+  {
+   "title": "中朝国境に税関複合施設 人モノ往来へ入管も",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LaHJCc2tYbFQ4bDljbUQyQWg5VTlxbnBsdmk4cmRJbWx2MWE1cjgyaFB1ejhyMVdLRXlBUTk1TWdNZTBONjRjSUs3UkNUMWpiMDBEaUhB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-07 15:49",
+   "published_iso": "2026-10-07T06:49:36+00:00"
+  },
+  {
+   "title": "「拒絶されている」、演劇で明かした胸の内 多文化共生の街、岐阜県可児市で続く地道な努力",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1TVk2QXZ6WWhueV9KNGgySDhscVdYNVV0WmU4Y0xVZGcyVEc5WjdTN09rNlk0RFJQTndSS1B3SG50OW1rdTRiU0lWNk1JSVhMZHN4Yw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-07 12:00",
+   "published_iso": "2026-10-07T03:00:00+00:00"
   },
   {
    "title": "ノンスタ石田がミナミの外国人観光客にお願い コメディーフェス開催 [大阪府]",
@@ -56,14 +88,6 @@
    "published_iso": "2026-10-06T21:00:01+00:00"
   },
   {
-   "title": "フランス高校生デモ「移民問題」 トランプ米大統領が持論",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ucFQ1VVRlc3NtWGpVWFlWYlN2RXF4M0QzcFNsXzhJTVVQUVFmRVBRSVBIZjhzTlM5cDdVUWo0VGVpTk1VUWlRa0Q4RQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-07 05:42",
-   "published_iso": "2026-10-06T20:42:55+00:00"
-  },
-  {
    "title": "減りゆく法廷通訳人、外国人被告は10年で倍増 採用や報酬の基準曖昧",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVjFqT3BSSmJ1NVBPMDlERVdBR1dIQmhmQ1pQa2VmMFg2OGVZVDROUWZqdXgwcjVzTkNJdTVmMGdmV1V0YVlUdDA5eFA5Z3hScTl4SEUzbjdfZ05oTV9fblV3c25JNFM3UmdOcA?oc=5",
    "source": "日本経済新聞",
@@ -97,14 +121,14 @@
   },
   {
    "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHNkJGOC0yc3N6VkpmTDJMNXBoUzNtaVVYSW5lZ25zdmhhdVlFZHVUbXZBTU5NamNfWDQ4ZmFDTGNidEVqdno3dUZweFNNNlJkWkVCOGFJY285d2F4aUotY3dScTBNWmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IOHFJZFUyalhWazZpNU4xeFBVYTFFTkRubnB1TXNEdEpwaE5HRjduUVdhMmlzVHllc05ZMGktd3RRNEV6bFZSMWZibFhlUW1PclFNTFVNdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-06 21:42",
    "published_iso": "2026-10-06T12:42:00+00:00"
   },
   {
-   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は来年末に受け入れ停止可能性",
+   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は令和9年末に受け入れ停止か",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
@@ -112,12 +136,12 @@
    "published_iso": "2026-10-06T12:00:00+00:00"
   },
   {
-   "title": "ミャンマー「親軍」大統領、マレーシア訪問 難民問題巡り首脳会談へ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMkkwd2JfZGNWRVFIWGRYVi1TQTh3Z2h1U2V0dm5reG93RVdvX1cyZFNSVk1TRzRsU3dGdFFJZFlpWnlfSTUtMzNCdmVldnhqdXhNdi1KRHB4bXMtZVpkVkx6MA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-06 19:32",
-   "published_iso": "2026-10-06T10:32:00+00:00"
+   "title": "ドイツ戦後初の極右議長選出 東部州議会、反移民の政党",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpd1BWUjBMb3I1NnpBSjRickxGR2xTOHE1V2Fkc0twOWlyaGJUUkNKOXdaSjQzei0wRTlNb2lNQVl0bkhTZV9Ocm83SnhocW5Na25LTW0tZEVBQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-06 20:18",
+   "published_iso": "2026-10-06T11:18:19+00:00"
   },
   {
    "title": "トランプ大統領の“強硬”移民政策で異変も 建設現場で人手不足、“人生一変”も…米中間選挙で大きな争点に",
@@ -150,14 +174,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-06 14:30",
    "published_iso": "2026-10-06T05:30:00+00:00"
-  },
-  {
-   "title": "古書店で相次ぐ“謎の大量注文” 外国人？ 専門家は意外な理由を指摘 ｢文化の種を殺していくことになるかもしれない｣ 【福岡発】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NX0kzX0Q2MkJjbThabTRhOHlBcGdKbGltdlV2VXpGdTBXMm9EX21la3cyTHdjSU44VmRhNzl5M1c2TE5FLXo2ZjVLVFRrQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-06 12:16",
-   "published_iso": "2026-10-06T03:16:00+00:00"
   },
   {
    "title": "外国人の子の日本語学習、愛知県が応援 新基金に5000万円拠出、個人の寄付も募る",
@@ -344,14 +360,6 @@
    "published_iso": "2026-10-03T20:04:39+00:00"
   },
   {
-   "title": "那覇市のホテル女性遺体 強盗殺人事件と断定 外国人風の男とみられる人物を容疑者とみて行方追う",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHQ2hOV0pxQUFRMy1TZXNNTzhWSkRCYkY1ZE5JSVRJLUJrWDc1cEF0eXJQZjk0V1hyN0U3cDY2Vm8wQ1FheWVNVXlralJ5UXNzTWFpbzlTdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-04 04:45",
-   "published_iso": "2026-10-03T19:45:39+00:00"
-  },
-  {
    "title": "トランプ大統領の移民政策めぐり 拘束・失業…危機感募らす人々の「不安」、国境を変えた“トランプの壁”に「感謝」 それぞれの思いは（2026年10月3日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWV6YkYzUHE4bU1MbkctbXZzek96Y0k0aVlPTGdCaHkzZTQ0YWVBNUxBSWFkUklFTU9fUkhVd2tGaXJEWXhEdndXRWpDU1UybXl5b3pKNFA4U3NLQUVYS2dBa2VyQjRlZ2ZHMGo1NWRnbk9WMmxaNDNsN3UtZ053bXZXSGg?oc=5",
    "source": "日テレNEWS NNN",
@@ -366,6 +374,14 @@
    "source_domain": "sankei.com",
    "published": "2026-10-03 13:26",
    "published_iso": "2026-10-03T04:26:10+00:00"
+  },
+  {
+   "title": "技能実習生の受け入れ認定取り消し、26年度は100社ペース",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-02 19:13",
+   "published_iso": "2026-10-02T10:13:08+00:00"
   },
   {
    "title": "技能実習生 避難円滑に 稚内署、津波災害想定し訓練",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-29 13:00",
    "published_iso": "2026-09-29T04:00:00+00:00"
-  },
-  {
-   "title": "神姫バス、「特定技能」の中国籍運転士がデビュー 人材不足打開へ [兵庫県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSYWtjbXJON3RwWExsRHJ0N3dpNEp5eFN0dVRncEd0LUJTTmg4MHZBZkRxZ3l1dnFZcHBYbXBlbzllNktBeHhlMk0tWDhPa1g1UTRvR3E2d3FkR0puRFljQ09wS2dEVms?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-09-28 16:00",
-   "published_iso": "2026-09-28T07:00:00+00:00"
-  },
-  {
-   "title": "ローマ教皇、欧州は「移民受け入れを」 ウクライナ和平に譲歩必要",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YLXpKakRzV19xZ1JNcW9OdUhWQ2pMbWtyNmpNR01jWmFOdmF5cHJiMVgtT3JGY0FvSGhTc3hXY3dvWFFRM0dlRE9ackxtWm92TW1xRHRZODI3M0VPcHFURWZ2TQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-28 16:00",
-   "published_iso": "2026-09-28T07:00:00+00:00"
   }
  ]
 }
