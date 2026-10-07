@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T09:47:07+00:00",
+ "generated_at": "2026-10-07T17:13:55+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「来てもらって助かる」地震の影響で“買い物難民”に…スーパー閉店の地域で出張販売【令和８年熊本地震】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaQ1pRR3hKNGtlOC1zS29XZExFemNPQmlsOGlZVEhtaVlNWnJtMVdzalJ6YjAzWkRUT0hwb0gtWWpuV3BEck0weUlieFFqZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-07 20:20",
+   "published_iso": "2026-10-07T11:20:59+00:00"
+  },
   {
    "title": "外国人も住みやすいまちについて話し合いました｜「やさしい日本語」ニュース(河北新報)",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40UHhmYlNqS3VSOHN6bEpzajhhZWg0WmhudlFSd3FKcEsyY09PelUzN1NPSXlxajVOUDZlVDhUQl9hdU9ja3liMnVsbFRwYVBoR3NQaFVrUkFua0lCYUNldkVrRkt2WGh0VzNXdXVHVE5IMEtWemdYWnpPczZVUQ?oc=5",
@@ -40,12 +48,28 @@
    "published_iso": "2026-10-07T06:49:36+00:00"
   },
   {
+   "title": "日本人11人含む外国人の男女17人拘束 マレーシア南部で“特殊詐欺拠点”摘発（2026年10月6日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3Z5aU9KTkxhMkppRWZ1blN5aTlVNVZIejNHempsQmtqRUtWeUNDYUM4UmVmazJTbldaMkMxRGpGOGduNkhBZldSczZxUlk1M2doaTVyLWktV2hfX0ViN3BmMGxpRmZYYTdMUk9IRW5HcWNaMk0tYndKbVlGQ3o4eW41NG0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-07 13:52",
+   "published_iso": "2026-10-07T04:52:00+00:00"
+  },
+  {
    "title": "「拒絶されている」、演劇で明かした胸の内 多文化共生の街、岐阜県可児市で続く地道な努力",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1TVk2QXZ6WWhueV9KNGgySDhscVdYNVV0WmU4Y0xVZGcyVEc5WjdTN09rNlk0RFJQTndSS1B3SG50OW1rdTRiU0lWNk1JSVhMZHN4Yw?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-07 12:00",
    "published_iso": "2026-10-07T03:00:00+00:00"
+  },
+  {
+   "title": "1円からできる国際協力 AAR Japanが「1人1円キャンペーン」開始",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nUktnYUg3aHYxRGRMR0xHZGVxSkdnX1dMNXhJVzRkSWJ0TnNxTWdyNV9RckxOeXJBMWFhVnlGblMzYV9pMy1mSkwxZmptQ0E?oc=5",
+   "source": "OVO [オーヴォ]",
+   "source_domain": "kyodo.co.jp",
+   "published": "2026-10-07 11:30",
+   "published_iso": "2026-10-07T02:30:00+00:00"
   },
   {
    "title": "ノンスタ石田がミナミの外国人観光客にお願い コメディーフェス開催 [大阪府]",
@@ -70,14 +94,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-07 07:39",
    "published_iso": "2026-10-06T22:39:07+00:00"
-  },
-  {
-   "title": "移民・銃規制の判断焦点 中間選挙も対象か、新会期入り―米最高裁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JdkstTlc5RWVEOWFvdHRaVGVyT3FNaVVYV3JKbEVoaHJuV2Qtd0gzOFdHUWlDaGFOcktuVUpfaG9uUXpkel9KY3NHSHRadHlQN2NmYVNlemh6empXc3Q0UHhlNA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-07 07:06",
-   "published_iso": "2026-10-06T22:06:00+00:00"
   },
   {
    "title": "深刻な関西の労働力不足、2050年に336万人 外国人材頼みも限界 育成と定着がカギ",
@@ -110,14 +126,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-07 00:00",
    "published_iso": "2026-10-06T15:00:00+00:00"
-  },
-  {
-   "title": "「毛が抜けても利用」糖尿病薬・マンジャロ“痩せるために”…不適正利用 若者や外国人観光客に拡大",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRUphV0x4UmZCMnZtVkpJOEc3VERUMmtYR3NnRG1qY21ZY25IYjBBR2gwMG9SX2FZUXdUVjJQaGIzcjM3V3FkbHp2Wi1fQXk2R1FCUkZVbS1GSlNEd0hVNzcwaE5UZ1k4TGdDeXRKUC1ZRzM0allZcF9hcWo?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 23:39",
-   "published_iso": "2026-10-06T14:39:00+00:00"
   },
   {
    "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
@@ -360,28 +368,12 @@
    "published_iso": "2026-10-03T20:04:39+00:00"
   },
   {
-   "title": "トランプ大統領の移民政策めぐり 拘束・失業…危機感募らす人々の「不安」、国境を変えた“トランプの壁”に「感謝」 それぞれの思いは（2026年10月3日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWV6YkYzUHE4bU1MbkctbXZzek96Y0k0aVlPTGdCaHkzZTQ0YWVBNUxBSWFkUklFTU9fUkhVd2tGaXJEWXhEdndXRWpDU1UybXl5b3pKNFA4U3NLQUVYS2dBa2VyQjRlZ2ZHMGo1NWRnbk9WMmxaNDNsN3UtZ053bXZXSGg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-03 21:24",
-   "published_iso": "2026-10-03T12:24:00+00:00"
-  },
-  {
    "title": "トランプ氏に与党の反乱「イラン」「移民」「習氏訪米」批判、中間選控えた生き残り戦術か",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xYkZxMlJROGxNR3BxQ3p5NER5bklpc3FrZVczUUVjUFlLYW9sUUh2RzdPaC1tR2xHcjlFaFI1dHRPYmh3Wm9NbUZhZWd6Nmhrc3VreF9MVUMxblZLOFV0X1U3XzFJd1lKeVR3THNNS1hkQzBrNkE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-10-03 13:26",
    "published_iso": "2026-10-03T04:26:10+00:00"
-  },
-  {
-   "title": "技能実習生の受け入れ認定取り消し、26年度は100社ペース",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9reGVVemYtLWlZOXFaZFJ5U0xpQVhSM004Q181MGdwTTMwc0p6dGZacnp6dk1HdWtWbDhHcWxfRVZTRTY0UlFoZEEtcV9hTWJKTC1lT2JYejJDbHk2dGE2bVdxREtMcmNTVVpURg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-02 19:13",
-   "published_iso": "2026-10-02T10:13:08+00:00"
   },
   {
    "title": "技能実習生 避難円滑に 稚内署、津波災害想定し訓練",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-09-29 13:00",
    "published_iso": "2026-09-29T04:00:00+00:00"
+  },
+  {
+   "title": "神姫バス、「特定技能」の中国籍運転士がデビュー 人材不足打開へ [兵庫県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSYWtjbXJON3RwWExsRHJ0N3dpNEp5eFN0dVRncEd0LUJTTmg4MHZBZkRxZ3l1dnFZcHBYbXBlbzllNktBeHhlMk0tWDhPa1g1UTRvR3E2d3FkR0puRFljQ09wS2dEVms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-09-28 16:00",
+   "published_iso": "2026-09-28T07:00:00+00:00"
   }
  ]
 }
