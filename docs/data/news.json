@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T02:29:23+00:00",
+ "generated_at": "2026-10-08T09:57:43+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,63 @@
  ],
  "items": [
   {
-   "title": "外国人が総人口の3.1%、384万人に ベトナム人が「韓国・朝鮮」超え",
+   "title": "岡山県警本部 - 電線ケーブル、広域窃盗か 外国人グループ、捜査終結 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02X1R4LXV4UmFRVUdISV9jLW1YTDRKN3BQaU93OUR1ZEUxenlPNzJjdzdWSGZpZllZLWs3QzlPbE0zVU4yVnJVUmloRU90S29tQ2xDRnZnOA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-08 18:14",
+   "published_iso": "2026-10-08T09:14:39+00:00"
+  },
+  {
+   "title": "電線ケーブル、広域窃盗か 外国人グループ、捜査終結",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPb2puQWo1M2wzUllLM3hFNWl2bGZVcWkwU3JmUFYzOGlwWXZCQUxPaGJ2VWQyOG1ncXNFT2ppSFNNVTJ6QkJoUklBbm9MWFRfNVRZakQ1SGppUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-08 17:33",
+   "published_iso": "2026-10-08T08:33:48+00:00"
+  },
+  {
+   "title": "移民政策の進む道、心の片鱗に 難民キャンプ舞台にした戯曲「ジャングル」演出の長塚圭史",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CcGZlQldUV0hOVUxVdFFUdkZPc3lWSnl6alc2X2cxRWRSZnBYVk42cEkwbUt1NVNJWldzSUVQMV9IUW1xbm1oZWdzT1gzWG5xaDh6bDlNdEczRkNs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-08 16:30",
+   "published_iso": "2026-10-08T07:30:00+00:00"
+  },
+  {
+   "title": "難民支援活動を行う世界的ギタリスト・MIYAVI、ヨルダンではギターを通して現地の人々と交流",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRTAtZURYTTRqX0ZPVVkzeXdqVnh3Sk9Md3l2ZS1pWEtORGFNZHM4cWlxNXcxWHZicGVZR3FsUmVFVmZzWmVQMUY0T1hkNWxIVHfSAVdBVV95cUxPV0ZKcFdqNjF2TVRuVnNQakRsOEwzbUpkNUprdnZrb0VQUXgwTnRDQ040MVdHT2lORGF4Yy0yc0h3XzU1TlU5c0pSWWpJQlFIaDhpNFUwLUU?oc=5",
+   "source": "テレ朝POST",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-08 16:04",
+   "published_iso": "2026-10-08T07:04:59+00:00"
+  },
+  {
+   "title": "劇場、共に考える場に 仏の難民キャンプ描く舞台「ジャングル」上演",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwQmFNVXZHRmhVWlJfSGpqSUc0UW9oVFZDMG5HUXpqSFVRZnJOby1Ma2lQQ0hjd2VhczV2bXQxTEgxc3BPTHBXenFLdmNVWGN0bUZMTEhOSDM4WU50N0ZWQXlnMElsbEU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-08 14:00",
+   "published_iso": "2026-10-08T05:00:00+00:00"
+  },
+  {
+   "title": "英語圏へ動画で八戸PR 「ジャパン・トラベル」外国人スタッフら、市内名所を撮影",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nV0g1WTgybTJBQ2t2ajB4VWlTMk9OcXB6ZG9nU2l2dXRiQUtVWmpzUUtBenhiQ3VfcmVZanZ3UE9ZSmlfcUs3c1B6Yw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-08 13:49",
+   "published_iso": "2026-10-08T04:49:00+00:00"
+  },
+  {
+   "title": "移民3000人が野宿「耐えていればスペイン本土に行く機会も」 セウタへの流入長期化",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSmJfVEdtVDlVNTlHNjVCaEo2U25UcExZRWxoOHN4QTFIQWNIVUZkbkJlYURaX09HcE1OTnNjbllfUE5NX3RybllsVGd5ZEpoWldPT1VLT0txMUFPNF9QZ001UDlTNTZfYVZ4ZWxfSHJGQmVVV1E?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-08 13:30",
+   "published_iso": "2026-10-08T04:30:00+00:00"
+  },
+  {
+   "title": "外国人が総人口の3.1%、384万人に ベトナムが「韓国・朝鮮」超え",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVHBkQ3I1VVo2MzNQd3V6RWpXUjQ3My1IRTNtV3dkLXZkT1F0RVFhUkQwSG1ZYUQtSHNVdUkzcmtQcEhfUFplYWZuRTNFVDdkTTJFQ3NRbnNsYmg2UUQxWHBmYmxjcThZaThLTQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -24,14 +80,6 @@
    "published_iso": "2026-10-08T02:00:00+00:00"
   },
   {
-   "title": "太陽光発電施設から銅線ケーブルを盗むなどした疑いでカンボジア国籍とベトナム国籍の男らからなる外国人グループ計14人を逮捕し最終送致【岡山県警】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pLUxnTEhqQzZCYnFIdGNhNGlrM2gtbjVNOE1DT0ZhbUs4Z1Vsd0NfTWljU0xHV25HTmxnb09aWlFDd01YdDA2SlBxUms4VjBIbUROWF9FRzNqZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-08 10:18",
-   "published_iso": "2026-10-08T01:18:00+00:00"
-  },
-  {
    "title": "日本語教育の本がずらり！ 教師が始めた大谷書店を直撃【企業探訪ログ】",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sNUJEeDk0U0hQUFJKallaSWg4bzV2ZkVmSDFOWmlzay1LMFJfZllyd2NDUGU4REtXcnFCSnFBS0ZVMHpwMnFyS3hlZXlLZzhBVmU2Y3RB?oc=5",
    "source": "西日本新聞me",
@@ -41,7 +89,7 @@
   },
   {
    "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUdVQjJIQU1XcGV5M0Jlb3BQLVhnX3dfbWRMQnNDWm10TmFneWREV3R6VEpYN051eGZtZWRGVFFSZ1hWUGdqOEpsWWFmTzV3bDFxU3EzLV9EQXFzR2VvZjNBd0JHS0IyV1RPZGs5ZWtvQlQxNFZ0RXIwSGljSU9lem1B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mMFpZcWJnQkF4Zm5BVmlCdWpXQklzaTg3SldwZHFVQW55VXloaDU2c25XUW5INXNqRW5zdkJ3VVpDTk0wR2Q0Z1FKb3JveXU5R0xyWjNKQ1YzNllIZG1RTjNGUQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-10-08 07:04",
@@ -185,7 +233,7 @@
   },
   {
    "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHNkJGOC0yc3N6VkpmTDJMNXBoUzNtaVVYSW5lZ25zdmhhdVlFZHVUbXZBTU5NamNfWDQ4ZmFDTGNidEVqdno3dUZweFNNNlJkWkVCOGFJY285d2F4aUotY3dScTBNWmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IOHFJZFUyalhWazZpNU4xeFBVYTFFTkRubnB1TXNEdEpwaE5HRjduUVdhMmlzVHllc05ZMGktd3RRNEV6bFZSMWZibFhlUW1PclFNTFVNdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-06 21:42",
@@ -320,12 +368,12 @@
    "published_iso": "2026-10-05T03:06:54+00:00"
   },
   {
-   "title": "〈視点〉ハンセン病療養所の「外国人」 少数派の視点から学ぶ 論説委員・佐藤直子",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uOE11VnlUU1NKdS1SMWRnZmgySkVQTzNiSUhOLURDSHhLekZIbEhQVmxROXFxa1MtRXIwQmJqRUM0R2c0dmVscXR5TjZyQ0ZMYkNJ?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-05 07:48",
-   "published_iso": "2026-10-04T22:48:18+00:00"
+   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-05 05:00",
+   "published_iso": "2026-10-04T20:00:00+00:00"
   },
   {
    "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
@@ -336,38 +384,6 @@
    "published_iso": "2026-10-04T20:00:00+00:00"
   },
   {
-   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 05:00",
-   "published_iso": "2026-10-04T20:00:00+00:00"
-  },
-  {
-   "title": "ドイツ首相がウクライナ訪問 ロシア外務省は外国人に「ウクライナ退去」を警告",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXUW1XbVh4M1RsY0V6R2R5RFVVUlpsZWdyODZIMkY1LXZXOEdJNEh4TmFQRVEzRll3X2hnV3hYajZIUWNIajNGRGVDTTRGaF9oUkRyelRab3VFYll0TVNGSmdqZ2lHdlZZbloyY1E0dXpTTHZrWWRkYzJ3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-04 19:53",
-   "published_iso": "2026-10-04T10:53:36+00:00"
-  },
-  {
-   "title": "ロシア外務省 外国人や外交官にキーウからの退避求める声明発表 今年5月にも同様の警告",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iQzhuaDFRaElpNlV2M09xb01hR0owRXUza01BNF9kVVplaDd4cXh5aERxQUd5VmlGNjhONHdrYzk1emUtOXJTaDZlcy1qc0pzeWJMQWJGYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-04 18:39",
-   "published_iso": "2026-10-04T09:39:26+00:00"
-  },
-  {
-   "title": "【物議】伏見稲荷大社での外国人ダンス動画が波紋！福岡の神社は自ら投稿も…神社仏閣でのダンス撮影は『アリ』？『ナシ』",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnBmcGhPU0RrcWt5WXBzTHdiR3o3dmdlWXA2MHA3LTJEWnNmN1VVc1hmcE8tTDZWTDNzYjVqTVFQTDRJaHRMbi1ZSzdzRlp3TE15X0p2MkxNZE5QY2JvRDNOUkVsdy00Y2pIN2xMVU1fOU1rejZTbkVnYWZNWk9WUlFHVDBFb2FLUHNEaEFjMA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-04 10:00",
-   "published_iso": "2026-10-04T01:00:00+00:00"
-  },
-  {
    "title": "トランプ大統領の移民政策めぐり 拘束・失業…危機感募らす人々の「不安」、国境を変えた“トランプの壁”に「感謝」 それぞれの思いは（2026年10月3日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWV6YkYzUHE4bU1MbkctbXZzek96Y0k0aVlPTGdCaHkzZTQ0YWVBNUxBSWFkUklFTU9fUkhVd2tGaXJEWXhEdndXRWpDU1UybXl5b3pKNFA4U3NLQUVYS2dBa2VyQjRlZ2ZHMGo1NWRnbk9WMmxaNDNsN3UtZ053bXZXSGg?oc=5",
    "source": "日テレNEWS NNN",
@@ -376,28 +392,12 @@
    "published_iso": "2026-10-03T12:24:00+00:00"
   },
   {
-   "title": "トランプ氏に与党の反乱「イラン」「移民」「習氏訪米」批判、中間選控えた生き残り戦術か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xYkZxMlJROGxNR3BxQ3p5NER5bklpc3FrZVczUUVjUFlLYW9sUUh2RzdPaC1tR2xHcjlFaFI1dHRPYmh3Wm9NbUZhZWd6Nmhrc3VreF9MVUMxblZLOFV0X1U3XzFJd1lKeVR3THNNS1hkQzBrNkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-03 13:26",
-   "published_iso": "2026-10-03T04:26:10+00:00"
-  },
-  {
-   "title": "北海道京極町・ミャンマー人労働者暴行疑惑の農業法人に入管が調査 労組、新たに外国人労働者3人を保護",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DMnZWeHpjUVFURERmUGVBbi1hZF9mdUlfcEl4bEoxb2diQ0VNQWtwb0F3eG5GVEN2dmtVbG5OLXpRUWROSDR2SFNmSVhxMW9GZGRkeG55aDdIQQ?oc=5",
-   "source": "HTB 北海道テレビ",
-   "source_domain": "htb.co.jp",
-   "published": "2026-10-02 19:16",
-   "published_iso": "2026-10-02T10:16:00+00:00"
-  },
-  {
-   "title": "技能実習生 避難円滑に 稚内署、津波災害想定し訓練",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DX2E3WFd4TGhKWWpoZG9idTZBcHQ0bHlYSHdDd2todnJEaEk4UUhrcTRyWEt1aGhkR0pyUl9wU0ZFb3k0d3R1X3pHWmdsZjV4Q0JPV0ZaVmVpdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-02 04:00",
-   "published_iso": "2026-10-01T19:00:00+00:00"
+   "title": "「特定技能」外国人、過去最多の４４万人 半年前から１３．８％増―６月末時点",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUnVoemhDNnhtenFld1ZmSF9zVVJRZzVGMlUwZXZOcFc3eFY0T3R3dENtUGpTY2JHdTVjUU85by1NV3Z2czlRZGVfMmszNzZ6NklSZzNQTzZLenlDR3RwNnNYOA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-29 16:00",
+   "published_iso": "2026-09-29T07:00:00+00:00"
   },
   {
    "title": "外国人の育成就労、空港グラハン業務追加へ 政府が有識者会議で議論",
