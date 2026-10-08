@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T17:17:22+00:00",
+ "generated_at": "2026-10-08T22:52:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,52 @@
  ],
  "items": [
   {
+   "title": "児童、生徒が英語で交流 喜多方ＲＣ 外国人とカレー作り",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJTU1qVGtrcG1Wd1FEb09wLTNWR1J5LTRtZW1GSzE2a081dVEwUFRYb3JQektDUHlnVXo3QmVtMFA3NXJiSFJkWW1mYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-09 05:14",
+   "published_iso": "2026-10-08T20:14:00+00:00"
+  },
+  {
+   "title": "外国人技術者の永住権取得制度 マイクロソフトの利用を停止 バンス副大統領「米国人を解雇し、代わりに外国人を雇うことは許されない」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXdBQVB6V1FBQmRhLW5xVnc4cVVhRW96ZkdCckxxNmFCTEpRTVRXeGphS1ZyLVFYYmxvNk5XM0JWUktEMVJTRzVGcnNpWDhSZFNpaVBENA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-09 03:42",
+   "published_iso": "2026-10-08T18:42:24+00:00"
+  },
+  {
+   "title": "特定技能「給食」 再開検討 新規受け入れ 「外食」から別分野に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-09 02:01",
+   "published_iso": "2026-10-08T17:01:11+00:00"
+  },
+  {
    "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sa19URVpNU1BXZGxWeXJHdUM1VFEzSzZJQy1rOU01VXJJMjlNME5jMF9NNGtLemxJX0RmQjFxVEMtcFhwbU9KQlBEdENvRWFBdWRtdHNQcW9mVURJS21VU29DWUVzWktUMTNMbQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-09 01:24",
    "published_iso": "2026-10-08T16:24:07+00:00"
+  },
+  {
+   "title": "日本語教育の本がずらり！ 教師が始めた大谷書店を直撃【企業探訪ログ】 - 写真・画像(7/8)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlT2V5ZXRBeDFCU05PSE5CcW9LczNSTndJalRueVhFanhyXzRqWXhRVTFmRU5JY1F1SnNXMDhLWFRqSFNNYTluQjhrQUZSdnNFUWM4WTVZRQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-08 19:46",
+   "published_iso": "2026-10-08T10:46:58+00:00"
+  },
+  {
+   "title": "日本語教育の本がずらり！ 教師が始めた大谷書店を直撃【企業探訪ログ】 - 写真・画像(8/8)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WalRZN21hSkUzS1BuZ1U0emNnV2dCak9OcVFhamdmS3RUU0d1UXN6T3Q5Y2czQmwwR1lwRlhHRUk5RHo2S3VfWUViN1ZfRUZtV3BsTFl0UQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-08 19:46",
+   "published_iso": "2026-10-08T10:46:57+00:00"
   },
   {
    "title": "山本一太・群馬県知事、外国人「秩序ある共生」へ業界11団体と意見交換",
@@ -86,6 +126,14 @@
    "source_domain": "sankei.com",
    "published": "2026-10-08 13:30",
    "published_iso": "2026-10-08T04:30:00+00:00"
+  },
+  {
+   "title": "大阪府の人口２０２０年国勢調査から減少、外国人人口は前回比３３・１％増…大阪・吹田・箕面・豊中・交野・泉佐野・島本町は人口増える",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiU3BibkJMYXRwZW44SWJnNVM2ajF0aDhYWE5WeDZBb0pXZTBNd1RMNFlVaXFyVERsbElYckxWS3hpSHlDVURieEh6STRkS3RIMi1faTVoUkt2UmpqM1ExNExSRDNqdWVPTFUyMktKbzZSdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-08 12:26",
+   "published_iso": "2026-10-08T03:26:00+00:00"
   },
   {
    "title": "外国人が総人口の3.1%、384万人に ベトナムが「韓国・朝鮮」超え",
@@ -320,6 +368,14 @@
    "published_iso": "2026-10-06T01:58:00+00:00"
   },
   {
+   "title": "「彼女たちを忘れない」アフガン難民女性が少女らの絵画展で訴え",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVkY3M1k3Zi15Mmx6VllUMUFTcGZwQkM1U0NtRy03T2lqNnAyc1FseWNlOUhnR2VfN0JDMktFS0otTnhubUZNMEtNV2FVYmpLVkFRR0dHTnVHLVBROFZmRl95WE9jb0lG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-06 09:00",
+   "published_iso": "2026-10-06T00:00:00+00:00"
+  },
+  {
    "title": "イエメン、暗闇しか見えない 戦闘激化、空爆で奪われた家族、母国に逃げ場はない",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBdHRtaUtxYXhvN1QtZGNlSWgyekx2d0tNOERjQ0YxbXlvSDZJUzcyX2RMc2luVUpQa05HOFY0eF9URzZiUWp2ajlIS18zaVlDSUhMWUJBMVItVVlZ?oc=5",
    "source": "朝日新聞",
@@ -350,62 +406,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-10-05 15:34",
    "published_iso": "2026-10-05T06:34:42+00:00"
-  },
-  {
-   "title": "手話普及、共生社会実現へ 大館で東北ろうあ者大会、１２年ぶり秋田県内で開催",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05VlppWl9LVHpTdjlfUURXQ1hrSFZmRXZQd0YtamZkSXFlWWZCQ19xTl9ORy1GVHQzcEp4d1FHYlBubzJrMzNxd2xUbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-05 14:30",
-   "published_iso": "2026-10-05T05:30:00+00:00"
-  },
-  {
-   "title": "トランプ氏の移民政策でテキサスに激震 ヒスパニックの支持急落し中間選挙は異例の接戦",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Y1BOQjBxdERwU0dLRUY2T0pMbGs2aTJodUxsbDUzZEI4Xy1oN0pPQWdOTmJOeF9UQmxkdC1MSld3MTlKMUpDa2hEc3h6dFVLSmxGT1RrZzVBUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-05 12:06",
-   "published_iso": "2026-10-05T03:06:54+00:00"
-  },
-  {
-   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 05:00",
-   "published_iso": "2026-10-04T20:00:00+00:00"
-  },
-  {
-   "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 05:00",
-   "published_iso": "2026-10-04T20:00:00+00:00"
-  },
-  {
-   "title": "トランプ大統領の移民政策めぐり 拘束・失業…危機感募らす人々の「不安」、国境を変えた“トランプの壁”に「感謝」 それぞれの思いは（2026年10月3日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWV6YkYzUHE4bU1MbkctbXZzek96Y0k0aVlPTGdCaHkzZTQ0YWVBNUxBSWFkUklFTU9fUkhVd2tGaXJEWXhEdndXRWpDU1UybXl5b3pKNFA4U3NLQUVYS2dBa2VyQjRlZ2ZHMGo1NWRnbk9WMmxaNDNsN3UtZ053bXZXSGg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-03 21:24",
-   "published_iso": "2026-10-03T12:24:00+00:00"
-  },
-  {
-   "title": "トランプ氏に与党の反乱「イラン」「移民」「習氏訪米」批判、中間選控えた生き残り戦術か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xYkZxMlJROGxNR3BxQ3p5NER5bklpc3FrZVczUUVjUFlLYW9sUUh2RzdPaC1tR2xHcjlFaFI1dHRPYmh3Wm9NbUZhZWd6Nmhrc3VreF9MVUMxblZLOFV0X1U3XzFJd1lKeVR3THNNS1hkQzBrNkE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-03 13:26",
-   "published_iso": "2026-10-03T04:26:10+00:00"
-  },
-  {
-   "title": "「特定技能」外国人、過去最多の４４万人 半年前から１３．８％増―６月末時点",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUnVoemhDNnhtenFld1ZmSF9zVVJRZzVGMlUwZXZOcFc3eFY0T3R3dENtUGpTY2JHdTVjUU85by1NV3Z2czlRZGVfMmszNzZ6NklSZzNQTzZLenlDR3RwNnNYOA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-29 16:00",
-   "published_iso": "2026-09-29T07:00:00+00:00"
   }
  ]
 }
