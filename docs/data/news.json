@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T22:52:14+00:00",
+ "generated_at": "2026-10-09T02:45:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人受け入れ規制、人口予測踏まえ政府判断へ 参政党は導入要求",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcHBCY09jRkFkV2pUWExuTXRoanBGeXZEZEFLRUptY2lsNi1wc1JXejVnWXBHalpYVFJFV1ZNeWl6VUpzd0Ewd3dydlFDVldiU2pLYVVjdGZGTVJYeGtYRWIzSjhZMy1oWUR1Xw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-09 11:00",
+   "published_iso": "2026-10-09T02:00:31+00:00"
+  },
+  {
+   "title": "国際結婚6%増の41万組、外国人夫婦は41%増の38万組 家族も多様に",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85YlRVWlcyU0RXazRSaDhNYUdXdE1QVnBQMVMyc19Vczd3VTdEZUFrbVBSQnN4UXB6SWxjWFpfYjFOWlVjVTEta2k5RDZIbnEzRTUtSWo3MUxOdEktM2t1dWZYWExDOFNpeHc4Tw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-09 11:00",
+   "published_iso": "2026-10-09T02:00:00+00:00"
+  },
+  {
+   "title": "特定技能「給食」再開検討 新規受け入れ 「外食」から別分野に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-09 10:37",
+   "published_iso": "2026-10-09T01:37:20+00:00"
+  },
+  {
+   "title": "米NYで移民当局が発砲し男性けが 車内には子どもも 周辺では抗議デモ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kUWx4V3J1TEFQT2xWQmVRWkRFTk9LN25fNnMzdlQyMVo4SVpxZjFEXzRpdGJYZ3R4ZHpiUnlyRDJ1NHJweXZCdUhnUE04R09SUkxIckdNUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-09 10:29",
+   "published_iso": "2026-10-09T01:29:21+00:00"
+  },
+  {
+   "title": "働く女性や外国人が暮らしやすい仙山圏とは 山形・高畠で11月14日に「仙山カレッジ」開催",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZXdfcm44TU1NcFYzdUhiSHlraWF0Nl8waVJ5Wlk0aXdSQU13Vk1MenFfeV9HWXNjQXlzazRKd0dCaU44RWpaSV9zOFZNd1JrR243V29Ea3RMT2M?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-10-09 10:00",
+   "published_iso": "2026-10-09T01:00:00+00:00"
+  },
   {
    "title": "児童、生徒が英語で交流 喜多方ＲＣ 外国人とカレー作り",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJTU1qVGtrcG1Wd1FEb09wLTNWR1J5LTRtZW1GSzE2a081dVEwUFRYb3JQektDUHlnVXo3QmVtMFA3NXJiSFJkWW1mYw?oc=5",
@@ -16,20 +56,20 @@
    "published_iso": "2026-10-08T20:14:00+00:00"
   },
   {
+   "title": "「おいしさ広めたい」新潟県産米の“輸出”拡大へ！外国人が稲刈りやおにぎり作りを体験「コメへの感謝深くなった」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ya2FkaHNTSXVMOE8wWmY0UWxqTlZGQ0ZYZDAwMWROMVBIc0VUZjg3Zm1uUWNiLTRHUTRYcWl2SEhvVEFaQkxHZjlJdllTUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-09 05:00",
+   "published_iso": "2026-10-08T20:00:00+00:00"
+  },
+  {
    "title": "外国人技術者の永住権取得制度 マイクロソフトの利用を停止 バンス副大統領「米国人を解雇し、代わりに外国人を雇うことは許されない」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXdBQVB6V1FBQmRhLW5xVnc4cVVhRW96ZkdCckxxNmFCTEpRTVRXeGphS1ZyLVFYYmxvNk5XM0JWUktEMVJTRzVGcnNpWDhSZFNpaVBENA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 03:42",
    "published_iso": "2026-10-08T18:42:24+00:00"
-  },
-  {
-   "title": "特定技能「給食」 再開検討 新規受け入れ 「外食」から別分野に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-09 02:01",
-   "published_iso": "2026-10-08T17:01:11+00:00"
   },
   {
    "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明",
@@ -126,14 +166,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-08 13:30",
    "published_iso": "2026-10-08T04:30:00+00:00"
-  },
-  {
-   "title": "大阪府の人口２０２０年国勢調査から減少、外国人人口は前回比３３・１％増…大阪・吹田・箕面・豊中・交野・泉佐野・島本町は人口増える",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiU3BibkJMYXRwZW44SWJnNVM2ajF0aDhYWE5WeDZBb0pXZTBNd1RMNFlVaXFyVERsbElYckxWS3hpSHlDVURieEh6STRkS3RIMi1faTVoUkt2UmpqM1ExNExSRDNqdWVPTFUyMktKbzZSdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-08 12:26",
-   "published_iso": "2026-10-08T03:26:00+00:00"
   },
   {
    "title": "外国人が総人口の3.1%、384万人に ベトナムが「韓国・朝鮮」超え",
@@ -264,14 +296,6 @@
    "published_iso": "2026-10-07T03:00:00+00:00"
   },
   {
-   "title": "ノンスタ石田がミナミの外国人観光客にお願い コメディーフェス開催 [大阪府]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RMDB3M3FKNXdqcGZMbWdKcXUxYnRtMDdNNjdUOS1iVDhndDdWNXNTMEJhMHY5Y2tKWkRkZFlvc1IwQkV0Q3dtbU5MaWQtQVZjcGh1YWx1OVllbXdaLUFScmxCNllnbU0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-07 10:00",
-   "published_iso": "2026-10-07T01:00:00+00:00"
-  },
-  {
    "title": "アジアパラ パワーリフティング 夢舞台へ挑戦、山本活躍誓う…共生社会考える出前授業 ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11eTVwbFV3VG1XWDJUOGw1VGZJeS1VT2lNcWpCLXFfLXcyQmM5aDZmSTQ0TEVHZHpUZEpfRlkzRHdJTjJrcmtTYnM0ZEtuSUN0WGk1c1ZHMThhR281MDIyMk1oV1VwRXI1WUlwZXBpTV8?oc=5",
    "source": "読売新聞",
@@ -321,11 +345,11 @@
   },
   {
    "title": "ドイツ戦後初の極右議長選出 東部州議会、反移民の政党",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KMjZhaGlBblpaNVV6bDBuYVVTYV90Rnlpbkp2QkMzQTk1VmRJaGRyTlhCUEh2bU9PVmEwbEdkYW5uVlVIelFfYUpyTjZlc1NuRk5Ja3dR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-06 20:11",
-   "published_iso": "2026-10-06T11:11:49+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iZWNPM3N2ODFvcHBEcDlTelNDZXhxQTJLeGVYcTVQUU8tUWhhWjJTcDZjeXlrZE9OR3VBWUhNVFR5RUlyNXBrc2Y5Yw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-06 20:59",
+   "published_iso": "2026-10-06T11:59:00+00:00"
   },
   {
    "title": "トランプ大統領の“強硬”移民政策で異変も 建設現場で人手不足、“人生一変”も…米中間選挙で大きな争点に",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-06 05:00",
    "published_iso": "2026-10-05T20:00:00+00:00"
-  },
-  {
-   "title": "バブルマンデブ渡るイエメン難民ルポ 戦闘激化「暗闇しか見えない」",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oOVludlU4emxsakZDSFdSNzN5NmhLbEpXUTBRbVMzeFZUcm42ZEllejZGamZPS3Y4Mi1rc1NERTg2a1Z1QnVtWHFpSm05WlJnSUw0eTVYQmtzYzJ1UGR6RWhvS2k2Qm8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-05 17:54",
-   "published_iso": "2026-10-05T08:54:44+00:00"
-  },
-  {
-   "title": "外国人労働者600人超が働く京都府木津川市の製造・配送拠点で防犯教室 「ルールもっと確認」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGY2hOZ2FOR1dSSVBpbzNJdGhDcG5ZRVRwU3FmcVR5LUpxWnhoUHBLdTQzRENlQ0tNMzdZeDllcnU1SmcxdDQyQkFFd2FnUFVDUTZEZC1kVHM?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-05 16:00",
-   "published_iso": "2026-10-05T07:00:00+00:00"
-  },
-  {
-   "title": "災害時 外国人観光客は何に戸惑う 避難や安全確保をどうするか",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsNDdVODlwNWpsT2JtVklaVERIYTBIVG1FRTRQdlpEVEt2UTluVER4XzRkcHVwOUU3UnBIZ3IteUdTNGx1c1BNRUZZV0lxM25qcWU0bm5PcU11MWx0RHVodlVLVEtEVmM?oc=5",
-   "source": "NHK",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-10-05 15:34",
-   "published_iso": "2026-10-05T06:34:42+00:00"
   }
  ]
 }
