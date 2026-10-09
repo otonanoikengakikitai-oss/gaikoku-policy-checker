@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:17:45+00:00",
+ "generated_at": "2026-10-09T22:13:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "宮崎：ユダヤ難民救った外交官 佐土原出身・根井三郎 資料展示室完成、功績を紹介：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZXA4dVI0eWFHY3JYZUZjc05XbmxkOFVvdVcyYzRyTHFBMkJkWVFsdHZ4aEZRVU8zUlNDNFVHcmIybUkzbWFQVk5jR3d6VV9iNmhzXzM4dDVxOXM3cnlsU0piNkRYWVdTd0xHRnlzWWQ1T3gw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-10 05:00",
+   "published_iso": "2026-10-09T20:00:00+00:00"
+  },
   {
    "title": "タクシードライバー“上質なおもてなし”学ぶ 富裕層の外国人観光客へ《新潟》（2026年10月9日掲載）｜TeNY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlZdFdDVW9CQ3hIRUpNSXFia3JER1cwNWdrcVlKaFpJZWlqc0JLS1dvRmtWWmF5bUp3YXFrUEozZGhBdTNXcDR2NWpXa0F5M0JDYzBfTmZldkJMenR6MThaaU1WSnRZUmZ1c0ZYRTVNbFlfX2UyT1h3blhNMTFyeXBnc2kxN1RR?oc=5",
@@ -41,7 +49,7 @@
   },
   {
    "title": "「右折が難」外国人観光客のレンタカー事故が急増 福岡・糸島の人気観光地で物損事故が5割増 ルール違いに現場の苦悩と対策は",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoLXBIZUgta2lfVTBHQmo5alRNanJaOWVqcl8wUlhHOGNBNFp1dFVYS2FzZ3NZQ3AzZ3VVZlRHUUxLVVhJVk9xbjhiQk5URzR5UUVmLVV4aThIbFpsTWo2ZHVBLXE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZUUoxSVh3MGhNem54NVdFVXNTTFd5X3RoeG9mckN2YzFfci1jeFlaY1dNbVNORXRpYzVGQVRuYVBjTTUySXpiLVpBMjBLbXNpRTNoQUxHNA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 18:20",
@@ -59,14 +67,6 @@
    "title": "南アフリカで移民を巡る緊張再燃、反不法移民のデモ隊と外国人グループが衝突",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ta2NLdFhybXQ4cEs4Z2pmN21WSkpDNXVsZXI5SmZLbzVFblJ0Sm85T0pZRlE2cGtxT2RyQUhjQ3V0LWFEUGotU2F0cHotUzU0NEx0V19JeUpwQXpxcGVFX202UXdhZw?oc=5",
    "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-09 17:14",
-   "published_iso": "2026-10-09T08:14:00+00:00"
-  },
-  {
-   "title": "Protests, clashes as S. African anti-migrant tensions reignite",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kU29NUWw2V3cxbVVpLXpuYTJTb1hlUG9pZDNnMDRHcGlrU0JuaU1jc1A3LXY5eTA2TVhBM0dHVW85QUstS01GUkRpcnd6NUhtUVE?oc=5",
-   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-10-09 17:14",
    "published_iso": "2026-10-09T08:14:00+00:00"
@@ -150,22 +150,6 @@
    "source_domain": "kahoku.news",
    "published": "2026-10-09 10:00",
    "published_iso": "2026-10-09T01:00:00+00:00"
-  },
-  {
-   "title": "児童、生徒が英語で交流 喜多方ＲＣ 外国人とカレー作り",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJTU1qVGtrcG1Wd1FEb09wLTNWR1J5LTRtZW1GSzE2a081dVEwUFRYb3JQektDUHlnVXo3QmVtMFA3NXJiSFJkWW1mYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-09 05:14",
-   "published_iso": "2026-10-08T20:14:00+00:00"
-  },
-  {
-   "title": "「おいしさ広めたい」新潟県産米の“輸出”拡大へ！外国人が稲刈りやおにぎり作りを体験「コメへの感謝深くなった」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ya2FkaHNTSXVMOE8wWmY0UWxqTlZGQ0ZYZDAwMWROMVBIc0VUZjg3Zm1uUWNiLTRHUTRYcWl2SEhvVEFaQkxHZjlJdllTUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-09 05:00",
-   "published_iso": "2026-10-08T20:00:00+00:00"
   },
   {
    "title": "外国人技術者の永住権取得制度 マイクロソフトの利用を停止 バンス副大統領「米国人を解雇し、代わりに外国人を雇うことは許されない」",
@@ -256,6 +240,14 @@
    "published_iso": "2026-10-08T01:00:00+00:00"
   },
   {
+   "title": "富山の公害「イタイイタイ病」記憶を世界へ 清流会館が30年ぶりに展示リニューアル、地元出身の24歳大学院生が外国人向けQR解説を担当 | 富山のニュース｜天気・防災｜チューリップテレビ (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVElZVkRfbGIwNllybWQzMFVoUEdha3E5azBud0Q4aUFHSWM2UDhoRkF6N3BXWnZMZWMtdWVOYmpWRUVWVmM0RFN0NTJHcW5adF8yeEFrTzJUMWpBSFY2WEVYU25YcmM?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-08 07:30",
+   "published_iso": "2026-10-07T22:30:00+00:00"
+  },
+  {
    "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mMFpZcWJnQkF4Zm5BVmlCdWpXQklzaTg3SldwZHFVQW55VXloaDU2c25XUW5INXNqRW5zdkJ3VVpDTk0wR2Q0Z1FKb3JveXU5R0xyWjNKQ1YzNllIZG1RTjNGUQ?oc=5",
    "source": "時事ドットコム",
@@ -286,14 +278,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-08 06:00",
    "published_iso": "2026-10-07T21:00:00+00:00"
-  },
-  {
-   "title": "広島初の「外国人バス運転手」 デビューに向けて奮闘中 インドネシア国籍の2人 人手不足のバス業界に救世主",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LQS1FVF9CMDA1WWF2SVU4RUJ5aGtLX0xxckpPaDFfVTRPUEV5Mi1kNjVOaU1wREVvWnFVY2xrV0hkTnVXZzI1NkRvTnZEalVuaHdEcEN5QQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-08 05:30",
-   "published_iso": "2026-10-07T20:30:00+00:00"
   },
   {
    "title": "京都市の飲食業者が困惑「貴重な人材」供給絶たれ配置計画に狂い 「特定技能1号」 外食受け入れ停止から半年",
@@ -360,6 +344,14 @@
    "published_iso": "2026-10-06T21:00:01+00:00"
   },
   {
+   "title": "[PR] 熱帯雨林の自然と多文化共生社会を体感しよう マレーシアで学ぶ親子旅モニターツアー参加者募集中",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRnU2anRzeEV4NFNnUl9LZFVSa3EzcUNYN3h0d2xuUDJSNElBLTladWcxNDZpREg5R0FqY1lpRDBVODVMNDN5ZEZjb0ljOTR2RnJqRVk2Q1MwbF9MSDZMZzdUN2xNZTRF?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-07 00:00",
+   "published_iso": "2026-10-06T15:00:00+00:00"
+  },
+  {
    "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IOHFJZFUyalhWazZpNU4xeFBVYTFFTkRubnB1TXNEdEpwaE5HRjduUVdhMmlzVHllc05ZMGktd3RRNEV6bFZSMWZibFhlUW1PclFNTFVNdw?oc=5",
    "source": "TBS NEWS DIG",
@@ -406,6 +398,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-06 12:00",
    "published_iso": "2026-10-06T03:00:00+00:00"
+  },
+  {
+   "title": "「彼女たちを忘れない」アフガン難民女性が少女らの絵画展で訴え",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVkY3M1k3Zi15Mmx6VllUMUFTcGZwQkM1U0NtRy03T2lqNnAyc1FseWNlOUhnR2VfN0JDMktFS0otTnhubUZNMEtNV2FVYmpLVkFRR0dHTnVHLVBROFZmRl95WE9jb0lG?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-06 09:00",
+   "published_iso": "2026-10-06T00:00:00+00:00"
   }
  ]
 }
