@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T02:45:39+00:00",
+ "generated_at": "2026-10-09T10:01:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,95 @@
  ],
  "items": [
   {
-   "title": "外国人受け入れ規制、人口予測踏まえ政府判断へ 参政党は導入要求",
+   "title": "江ノ電でどこへ？外国人おもしろ漫遊記『every.特集』（2026年10月9日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mQ2F2MXBVZ01JSWxMdmU2U1RQRThWTmNuTzlBVGN2TW9KVWNwNzRiNHVxNFpMWUZlMG9aMXFMYTBEa1d5cTVNa3gxelB6VEQ2eC1xcHNqZzIyUi11UEZxMVpLWmtZbE5ZTU96eTN1YmFlQ0djbTRYYg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-09 18:40",
+   "published_iso": "2026-10-09T09:40:00+00:00"
+  },
+  {
+   "title": "永住権取得制度を停止 マイクロソフトやアドビなど一部企業に―米政権",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxM0VjUHZKa3U5eTVIME05STFTOFhXa1BHZndwVS1tMmRZS0lTSzFwN2taZlJybS1RRFZGeVZnUjV5SExvQnFDcXU0LVlsOUxTT3N1TmdrUkZSazhSTWR4MnMxZw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-09 18:03",
+   "published_iso": "2026-10-09T09:03:00+00:00"
+  },
+  {
+   "title": "独仏「極右恐怖症」が生んだ鬼 極左が移民層と若者吸収 中道結集から10年後の政治危機",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EZWF0clRHcVBObjZFYXRMRHU0NzYxMUV3NUd1NTRwZGxEamdDeEZkemxGeVpoQzNLZTJfdEs5MXpVWGJjZDdMNEhUY1E0Rl9NUzNlWFktbVdVUnRTSG1WS1ZCQ085TFlQdm9nZzI0cFg5aXdPR3c?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-09 18:00",
+   "published_iso": "2026-10-09T09:00:00+00:00"
+  },
+  {
+   "title": "Protests, clashes as S. African anti-migrant tensions reignite",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kU29NUWw2V3cxbVVpLXpuYTJTb1hlUG9pZDNnMDRHcGlrU0JuaU1jc1A3LXY5eTA2TVhBM0dHVW85QUstS01GUkRpcnd6NUhtUVE?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-10-09 17:14",
+   "published_iso": "2026-10-09T08:14:00+00:00"
+  },
+  {
+   "title": "【関西外国語大学】外国人材の受け入れが急速に進むビジネス現場の課題を探る「日韓異文化ビジネスコミュニケーション実践フォーラム」が開かれました",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ORlotbm95eHBlQnBDNXRtTnFGRk1KSWM5dGhIMmtXejBPdzZSSkl6ZXFwb05KUmVqcGp1cXRsaTNTUUxZak9yVDVPRzZOY1FydFV0cnZiRmpDTmc4eUM2aS02S0Zyc3JwTXFF?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-09 16:46",
+   "published_iso": "2026-10-09T07:46:00+00:00"
+  },
+  {
+   "title": "外国人旅行者に過剰な量の医薬品処方は「適切ではない」～糖尿病治療薬「マンジャロ」めぐり厚労相がコメント",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WdWRtc2loaW10eTNRZHVhRk5qZ0duUGNXOF9yTUFYbTYyQk5TSWZuSjhKVkkzazdJcTVsczNHNGJ0UjdlX2lDUG5zZDdSNnpId1NDLVRzTGRPelRKNENFLXNvOElPdGdiMXhXVTdRRk9kODl3bEVyWWhnUmU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-09 15:41",
+   "published_iso": "2026-10-09T06:41:00+00:00"
+  },
+  {
+   "title": "『世界難民危機』小俣直彦著（岩波書店）",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWUlMWjJnTFdyTU94QVpSWmhHdkQ0VDdwamc0MnB4aHd1OTAyOGF2M2o3OEpWWFB6N05yVVU0dWpkSlJBYm90SjlBLVZjMjcxWHBrMGkwRkZsSXFfNWxGMHRya3dZemdFTXFIMVZBMTgtR2E0YVE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-09 15:20",
+   "published_iso": "2026-10-09T06:20:00+00:00"
+  },
+  {
+   "title": "Stepjob、物流企業向け外国人人材採用ウェビナーを10月21日開催",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90TjI1Mmd6LVcxS3doZXN0N2oxS2puczZ3V0xIUGN1QmlNbV9fbW1jcFV6VE5UYWhUajZOS0RUOVVoekRmY0xOd2IwSTdHNmxQZm16S24ybDNwaWpkZnFLeXNELXJSM1RlZ0Rz?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-09 15:16",
+   "published_iso": "2026-10-09T06:16:00+00:00"
+  },
+  {
+   "title": "倉敷美観地区で外国人のフォトウエディング インバウンドを呼び込む新たな事業展開を【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fQnIzVm54UlZmcy1uc2l3aXc2ZGpyaUgxbVZCdkV4NmlYRDZHaHRBRVctbFpFSng3OG1LWVJjU285ZXRZM2dIeGVoV1BJbExEVVZLay1ZOUhjMU1rQkY5akRVRHQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-09 14:40",
+   "published_iso": "2026-10-09T05:40:00+00:00"
+  },
+  {
+   "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9laGx0cTdQNElEZTBwd1FNdlFxbWpUbjBTWVVNcG5DY01WOFVjT1I4NVJ1N0ZKdmFnU0s5OGhfb3ZCWHNfdGw0Y1BaUFJYSzJwaVVNODA2SFVZZGNOSm8tag?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-09 14:31",
+   "published_iso": "2026-10-09T05:31:25+00:00"
+  },
+  {
+   "title": "県内の外国人労働者数、ネパール人が中国人を抜いて２番目の多さに…１０年前３８４人→９５９４人",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12NlNLT1hiZVpaWllEUHVYQVJHS0UteGYyeWJiNVNJWW54dkJJb3M2akVoVUQxcDl5V3BHRGluOUdQc185YnhUeFZTRmx1aVQySXBSMk1mSngxVzVQbUVNZUx1M1NydTRzY1RISkFWR2FVQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-09 11:48",
+   "published_iso": "2026-10-09T02:48:00+00:00"
+  },
+  {
+   "title": "高市首相、人口予測踏まえ外国人受け入れ規制 参政は上限導入要求",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcHBCY09jRkFkV2pUWExuTXRoanBGeXZEZEFLRUptY2lsNi1wc1JXejVnWXBHalpYVFJFV1ZNeWl6VUpzd0Ewd3dydlFDVldiU2pLYVVjdGZGTVJYeGtYRWIzSjhZMy1oWUR1Xw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -22,14 +110,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-09 11:00",
    "published_iso": "2026-10-09T02:00:00+00:00"
-  },
-  {
-   "title": "特定技能「給食」再開検討 新規受け入れ 「外食」から別分野に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-09 10:37",
-   "published_iso": "2026-10-09T01:37:20+00:00"
   },
   {
    "title": "米NYで移民当局が発砲し男性けが 車内には子どもも 周辺では抗議デモ",
@@ -65,11 +145,19 @@
   },
   {
    "title": "外国人技術者の永住権取得制度 マイクロソフトの利用を停止 バンス副大統領「米国人を解雇し、代わりに外国人を雇うことは許されない」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXdBQVB6V1FBQmRhLW5xVnc4cVVhRW96ZkdCckxxNmFCTEpRTVRXeGphS1ZyLVFYYmxvNk5XM0JWUktEMVJTRzVGcnNpWDhSZFNpaVBENA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4LUdnMXc5TVFQanMtcVZqVmY0QXVEZUYweHMyMFJ0TW5yRUdpRm1LSWgwa0ZWUnFlc3NiTGl0YXl0am9XSzV2aUx0T1hWZDFkVzBkOE1ucU1RRkFMNGMzZEZFSkpuc0J5R3FZczhmM0lqOElh?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 03:42",
    "published_iso": "2026-10-08T18:42:24+00:00"
+  },
+  {
+   "title": "特定技能「給食」再開検討 新規受け入れ 「外食」から別分野に",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-09 02:01",
+   "published_iso": "2026-10-08T17:01:11+00:00"
   },
   {
    "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明",
@@ -78,22 +166,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-09 01:24",
    "published_iso": "2026-10-08T16:24:07+00:00"
-  },
-  {
-   "title": "日本語教育の本がずらり！ 教師が始めた大谷書店を直撃【企業探訪ログ】 - 写真・画像(7/8)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlT2V5ZXRBeDFCU05PSE5CcW9LczNSTndJalRueVhFanhyXzRqWXhRVTFmRU5JY1F1SnNXMDhLWFRqSFNNYTluQjhrQUZSdnNFUWM4WTVZRQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-08 19:46",
-   "published_iso": "2026-10-08T10:46:58+00:00"
-  },
-  {
-   "title": "日本語教育の本がずらり！ 教師が始めた大谷書店を直撃【企業探訪ログ】 - 写真・画像(8/8)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WalRZN21hSkUzS1BuZ1U0emNnV2dCak9OcVFhamdmS3RUU0d1UXN6T3Q5Y2czQmwwR1lwRlhHRUk5RHo2S3VfWUViN1ZfRUZtV3BsTFl0UQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-08 19:46",
-   "published_iso": "2026-10-08T10:46:57+00:00"
   },
   {
    "title": "山本一太・群馬県知事、外国人「秩序ある共生」へ業界11団体と意見交換",
@@ -120,14 +192,6 @@
    "published_iso": "2026-10-08T09:41:20+00:00"
   },
   {
-   "title": "電線ケーブル、広域窃盗か 外国人グループ、捜査終結",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPb2puQWo1M2wzUllLM3hFNWl2bGZVcWkwU3JmUFYzOGlwWXZCQUxPaGJ2VWQyOG1ncXNFT2ppSFNNVTJ6QkJoUklBbm9MWFRfNVRZakQ1SGppUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-08 17:33",
-   "published_iso": "2026-10-08T08:33:48+00:00"
-  },
-  {
    "title": "移民政策の進む道、心の片鱗に 難民キャンプ舞台にした戯曲「ジャングル」演出の長塚圭史",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CcGZlQldUV0hOVUxVdFFUdkZPc3lWSnl6alc2X2cxRWRSZnBYVk42cEkwbUt1NVNJWldzSUVQMV9IUW1xbm1oZWdzT1gzWG5xaDh6bDlNdEczRkNs?oc=5",
    "source": "朝日新聞",
@@ -136,28 +200,12 @@
    "published_iso": "2026-10-08T07:30:00+00:00"
   },
   {
-   "title": "難民支援活動を行う世界的ギタリスト・MIYAVI、ヨルダンではギターを通して現地の人々と交流",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NRTAtZURYTTRqX0ZPVVkzeXdqVnh3Sk9Md3l2ZS1pWEtORGFNZHM4cWlxNXcxWHZicGVZR3FsUmVFVmZzWmVQMUY0T1hkNWxIVHfSAVdBVV95cUxPV0ZKcFdqNjF2TVRuVnNQakRsOEwzbUpkNUprdnZrb0VQUXgwTnRDQ040MVdHT2lORGF4Yy0yc0h3XzU1TlU5c0pSWWpJQlFIaDhpNFUwLUU?oc=5",
-   "source": "テレ朝POST",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-08 16:04",
-   "published_iso": "2026-10-08T07:04:59+00:00"
-  },
-  {
    "title": "劇場、共に考える場に 仏の難民キャンプ描く舞台「ジャングル」上演",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwQmFNVXZHRmhVWlJfSGpqSUc0UW9oVFZDMG5HUXpqSFVRZnJOby1Ma2lQQ0hjd2VhczV2bXQxTEgxc3BPTHBXenFLdmNVWGN0bUZMTEhOSDM4WU50N0ZWQXlnMElsbEU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-08 14:00",
    "published_iso": "2026-10-08T05:00:00+00:00"
-  },
-  {
-   "title": "英語圏へ動画で八戸PR 「ジャパン・トラベル」外国人スタッフら、市内名所を撮影",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nV0g1WTgybTJBQ2t2ajB4VWlTMk9OcXB6ZG9nU2l2dXRiQUtVWmpzUUtBenhiQ3VfcmVZanZ3UE9ZSmlfcUs3c1B6Yw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-08 13:49",
-   "published_iso": "2026-10-08T04:49:00+00:00"
   },
   {
    "title": "移民3000人が野宿「耐えていればスペイン本土に行く機会も」 セウタへの流入長期化",
@@ -190,14 +238,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-08 10:00",
    "published_iso": "2026-10-08T01:00:00+00:00"
-  },
-  {
-   "title": "富山の公害「イタイイタイ病」記憶を世界へ 清流会館が30年ぶりに展示リニューアル、地元出身の24歳大学院生が外国人向けQR解説を担当 | 富山のニュース｜天気・防災｜チューリップテレビ (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVElZVkRfbGIwNllybWQzMFVoUEdha3E5azBud0Q4aUFHSWM2UDhoRkF6N3BXWnZMZWMtdWVOYmpWRUVWVmM0RFN0NTJHcW5adF8yeEFrTzJUMWpBSFY2WEVYU25YcmM?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-08 07:30",
-   "published_iso": "2026-10-07T22:30:00+00:00"
   },
   {
    "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
@@ -366,46 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-06 16:50",
    "published_iso": "2026-10-06T07:50:00+00:00"
-  },
-  {
-   "title": "外国人住民にも伝えたい 「やさしい日本語」研修会、和歌山・白浜",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ld1hBN3dmMXI4bnVETm8teDJkSElWWnZ4dmt4N1phcUtEeFpVZ0JuR1VseTlNY0piSDZUOGJBZFZpS3prdlMyWVlCOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-06 14:30",
-   "published_iso": "2026-10-06T05:30:00+00:00"
-  },
-  {
-   "title": "外国人の子の日本語学習、愛知県が応援 新基金に5000万円拠出、個人の寄付も募る",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XZS1tVV9IR2diaHNfcEtMY09NUmphei1mYnFBaG4xbGUtbWNuZUlneWNVbU5rUnREMlNSNXBvSUVvaGItRWFCS1pTcE5zcEV2WTNUTw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-06 12:00",
-   "published_iso": "2026-10-06T03:00:00+00:00"
-  },
-  {
-   "title": "【警察官の職務質問で発覚】旅券不携帯の疑い ベトナム国籍の男 入管難民法違反の容疑で現行犯逮捕",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUR2QVVjOFhlaEs5R21ybXVTQUVBRHZ3X1dmODlGamFjMDh1VXJOY0hZRkJaaEtMRzBHUjJwNTM4aDc4SFNVWmhncVZyQVdWT3hkLXVhbVp4WE40TDN2R2tYNEhXdjlRVXhYUUtrX2RUN1RXdmlYOHc0a1JBanpUOUJTOXJwdms?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 10:58",
-   "published_iso": "2026-10-06T01:58:00+00:00"
-  },
-  {
-   "title": "「彼女たちを忘れない」アフガン難民女性が少女らの絵画展で訴え",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVkY3M1k3Zi15Mmx6VllUMUFTcGZwQkM1U0NtRy03T2lqNnAyc1FseWNlOUhnR2VfN0JDMktFS0otTnhubUZNMEtNV2FVYmpLVkFRR0dHTnVHLVBROFZmRl95WE9jb0lG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-06 09:00",
-   "published_iso": "2026-10-06T00:00:00+00:00"
-  },
-  {
-   "title": "イエメン、暗闇しか見えない 戦闘激化、空爆で奪われた家族、母国に逃げ場はない",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBdHRtaUtxYXhvN1QtZGNlSWgyekx2d0tNOERjQ0YxbXlvSDZJUzcyX2RMc2luVUpQa05HOFY0eF9URzZiUWp2ajlIS18zaVlDSUhMWUJBMVItVVlZ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-06 05:00",
-   "published_iso": "2026-10-05T20:00:00+00:00"
   }
  ]
 }
