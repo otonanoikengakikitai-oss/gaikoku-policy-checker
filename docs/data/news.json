@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:13:59+00:00",
+ "generated_at": "2026-10-10T02:03:33+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利用凍結",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUHRpd0UyQ3ByWWh2eUZlWC1ycHRBMFRiOGs1Y1pSbXJpRFBFVHlndURMM0Itdk8xNl9vRHgtQi1ENkdoM0EtdWYzRjRUM19DRVhVeUR4VWRDNFpoaU1tVW5GVW5TWTdmdHFoNU4yNVRoanZ5RHBlSUJn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-10 09:15",
+   "published_iso": "2026-10-10T00:15:10+00:00"
+  },
   {
    "title": "宮崎：ユダヤ難民救った外交官 佐土原出身・根井三郎 資料展示室完成、功績を紹介：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZXA4dVI0eWFHY3JYZUZjc05XbmxkOFVvdVcyYzRyTHFBMkJkWVFsdHZ4aEZRVU8zUlNDNFVHcmIybUkzbWFQVk5jR3d6VV9iNmhzXzM4dDVxOXM3cnlsU0piNkRYWVdTd0xHRnlzWWQ1T3gw?oc=5",
@@ -64,9 +72,9 @@
    "published_iso": "2026-10-09T09:00:00+00:00"
   },
   {
-   "title": "南アフリカで移民を巡る緊張再燃、反不法移民のデモ隊と外国人グループが衝突",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ta2NLdFhybXQ4cEs4Z2pmN21WSkpDNXVsZXI5SmZLbzVFblJ0Sm85T0pZRlE2cGtxT2RyQUhjQ3V0LWFEUGotU2F0cHotUzU0NEx0V19JeUpwQXpxcGVFX202UXdhZw?oc=5",
-   "source": "時事ドットコム",
+   "title": "Protests, clashes as S. African anti-migrant tensions reignite",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kU29NUWw2V3cxbVVpLXpuYTJTb1hlUG9pZDNnMDRHcGlrU0JuaU1jc1A3LXY5eTA2TVhBM0dHVW85QUstS01GUkRpcnd6NUhtUVE?oc=5",
+   "source": "時事通信ニュース",
    "source_domain": "jiji.com",
    "published": "2026-10-09 17:14",
    "published_iso": "2026-10-09T08:14:00+00:00"
@@ -398,14 +406,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-06 12:00",
    "published_iso": "2026-10-06T03:00:00+00:00"
-  },
-  {
-   "title": "「彼女たちを忘れない」アフガン難民女性が少女らの絵画展で訴え",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVkY3M1k3Zi15Mmx6VllUMUFTcGZwQkM1U0NtRy03T2lqNnAyc1FseWNlOUhnR2VfN0JDMktFS0otTnhubUZNMEtNV2FVYmpLVkFRR0dHTnVHLVBROFZmRl95WE9jb0lG?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-06 09:00",
-   "published_iso": "2026-10-06T00:00:00+00:00"
   }
  ]
 }
