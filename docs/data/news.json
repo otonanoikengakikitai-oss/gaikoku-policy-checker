@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T02:03:33+00:00",
+ "generated_at": "2026-10-10T09:22:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,52 @@
  ],
  "items": [
   {
-   "title": "アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利用凍結",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUHRpd0UyQ3ByWWh2eUZlWC1ycHRBMFRiOGs1Y1pSbXJpRFBFVHlndURMM0Itdk8xNl9vRHgtQi1ENkdoM0EtdWYzRjRUM19DRVhVeUR4VWRDNFpoaU1tVW5GVW5TWTdmdHFoNU4yNVRoanZ5RHBlSUJn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-10 09:15",
-   "published_iso": "2026-10-10T00:15:10+00:00"
-  },
-  {
-   "title": "宮崎：ユダヤ難民救った外交官 佐土原出身・根井三郎 資料展示室完成、功績を紹介：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZXA4dVI0eWFHY3JYZUZjc05XbmxkOFVvdVcyYzRyTHFBMkJkWVFsdHZ4aEZRVU8zUlNDNFVHcmIybUkzbWFQVk5jR3d6VV9iNmhzXzM4dDVxOXM3cnlsU0piNkRYWVdTd0xHRnlzWWQ1T3gw?oc=5",
+   "title": "「日本のシンドラー」と共にユダヤ人難民を救ったとされる外交官・根井三郎を顕彰…出身地・宮崎市に展示室",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11Zk1pZjNMRDl5cWNlU2pKdjViVXhGY1c3WVhEaFFVTVBTb0llMHl5YmttR01YVWVZNFUyRW9KT1RDR25mRVMtR2Q3QXpGZUhsLTdyUWx4N0dVWDBVV2xzbEs5Y0tVSDhROHZzaC05LTFFZw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-10 05:00",
-   "published_iso": "2026-10-09T20:00:00+00:00"
+   "published": "2026-10-10 13:10",
+   "published_iso": "2026-10-10T04:10:00+00:00"
+  },
+  {
+   "title": "〈本音のコラム〉国益要件の二重基準 師岡カリーマ（文筆家）",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FNHRFYlk4WnVWMDFPcndFMllWRk1Jb0VCcDRYaVZ6Tnp0dnBEWlBLUjJjNmpUWEE2VHZRdWRPekhwYk53QmI3ZjVqV0l3cEZOcGh3?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-10 12:00",
+   "published_iso": "2026-10-10T03:00:00+00:00"
+  },
+  {
+   "title": "“弁当難民”の助けに 佐世保市船越町「ＳＡＳＥＢＯ グルメ街道はな一」 イートインスペースも",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VnlYa3VOdzlEQ1NPZTMzR2pLQTNTZWZ6NUtnTl8ybnZ6eDBkSk1UMHEwQmtXemItdHV5NkhVWWYzMHFpRldVNm4zQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-10 11:30",
+   "published_iso": "2026-10-10T02:30:00+00:00"
+  },
+  {
+   "title": "日本人と外国人 交流深めて 四日市市の事業「企業内モデル日本語教室」紹介",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03Vm9fTndHS0lfWE1hb0RiN3h2VVZqUWVwTkpxd3c4ME82bkNYOVFwekJyY25CMUxKMGVxcl9lckc0WW9va1ppZXZ3aVF1TzR1SmJsYU1VSGJKSWhHbGww?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-10 05:05",
+   "published_iso": "2026-10-09T20:05:00+00:00"
+  },
+  {
+   "title": "外国人研究者が見た「吉田神道」の広まりとは 京都市左京区の施設が支える「海外の視点」",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yUUNDRHpJazdnSXMzTEpsWWJTd2N3U0xGZEZNOXo3ZGtINDRUZmRBVVF4a2RWSDM0aFh1RTI0M1RRN1M4QnhwUFZkem5yUFNTZW5nRFpQQzY?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-10-10 05:05",
+   "published_iso": "2026-10-09T20:05:00+00:00"
+  },
+  {
+   "title": "「おもてなし」の心を上越の児童体感 金沢駅で棒茶振る舞い「外国人にも伝わった」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSXVCcHR1N1gxLVJUNmwxQTFyeUcwR0pqREhhZmRBeWtXLTVuWnlYa014ZmI3ODlpMko2cEo0aVhXZnB3ZUtRLXdZaE8xTVZNbm1rTHZndnB3aGRIcFlyNE1jMTJxcXZf?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-10 05:05",
+   "published_iso": "2026-10-09T20:05:00+00:00"
   },
   {
    "title": "タクシードライバー“上質なおもてなし”学ぶ 富裕層の外国人観光客へ《新潟》（2026年10月9日掲載）｜TeNY NEWS NNN",
@@ -72,14 +104,6 @@
    "published_iso": "2026-10-09T09:00:00+00:00"
   },
   {
-   "title": "Protests, clashes as S. African anti-migrant tensions reignite",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kU29NUWw2V3cxbVVpLXpuYTJTb1hlUG9pZDNnMDRHcGlrU0JuaU1jc1A3LXY5eTA2TVhBM0dHVW85QUstS01GUkRpcnd6NUhtUVE?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-10-09 17:14",
-   "published_iso": "2026-10-09T08:14:00+00:00"
-  },
-  {
    "title": "外国人旅行者に過剰な量の医薬品処方は「適切ではない」～糖尿病治療薬「マンジャロ」めぐり厚労相がコメント",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WdWRtc2loaW10eTNRZHVhRk5qZ0duUGNXOF9yTUFYbTYyQk5TSWZuSjhKVkkzazdJcTVsczNHNGJ0UjdlX2lDUG5zZDdSNnpId1NDLVRzTGRPelRKNENFLXNvOElPdGdiMXhXVTdRRk9kODl3bEVyWWhnUmU?oc=5",
    "source": "日テレNEWS NNN",
@@ -102,6 +126,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-09 15:20",
    "published_iso": "2026-10-09T06:20:00+00:00"
+  },
+  {
+   "title": "倉敷美観地区で外国人のフォトウエディング インバウンドを呼び込む新たな事業展開を【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LcVZTTWRLWHVJZHVJazctTVctc2tjTFJTNndlTnl4SFhLdG5ad3Q3bzVBTkxNWThJLTk1MHVJeGZUSm4tOVNmRUtCRjA3Rm9RQmJvcHRIaHktQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-09 14:40",
+   "published_iso": "2026-10-09T05:40:00+00:00"
   },
   {
    "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
@@ -264,14 +296,6 @@
    "published_iso": "2026-10-07T22:04:00+00:00"
   },
   {
-   "title": "入管による収容を国際法違反と認めず、原告側が逆転敗訴 東京高裁",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kUnZBWVB6YXJmUlhsdG8xdEpYTHNwdnlTcW1aY0lvMGlmVXk0UUNfdW5NVFpiQWN0NXNfSkZQWGFiLTVzSWVwMDNjNmJNemdmWXprUEZDSEZkRmFHaFNDZU9TcHVrRHVYc1E?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-08 06:01",
-   "published_iso": "2026-10-07T21:01:49+00:00"
-  },
-  {
    "title": "ミャンマー・ミンアウンフライン氏がマレーシア訪問 両国接近をつなぐ「難民問題」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WEEwRFFsYlcwa0UyaDdWS1JLMF9xdGozVktQdUstbVg4cjVCeE5PdWZfcGVxVjcxZGNfXzJqM1dtbDRmUXNPckg4RENnaTlIVUJJ?oc=5",
    "source": "東京新聞",
@@ -302,6 +326,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-08 05:00",
    "published_iso": "2026-10-07T20:00:00+00:00"
+  },
+  {
+   "title": "NTTデータ経営研究所など、「外国人介護スタッフによる訪問系介護サービスに対する生活者の意識調査」の結果を発表",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SDcyOC04Ni1OeWtNVmpkblBySVFyaUcwSmFQOWtZZEFlNTZfazY0NXVpQ2pxbl9pYU9wejB5UlMyRTluUlFjc3d4N3ZXdmpmdEtlRGREVGc5VVhFdERLMDFGYWI1WVltVlNCQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-07 17:13",
+   "published_iso": "2026-10-07T08:13:00+00:00"
   },
   {
    "title": "NHK名古屋 多文化共生キャンペーン",
@@ -374,38 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-06 21:00",
    "published_iso": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "title": "ドイツ戦後初の極右議長選出 東部州議会、反移民の政党",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iZWNPM3N2ODFvcHBEcDlTelNDZXhxQTJLeGVYcTVQUU8tUWhhWjJTcDZjeXlrZE9OR3VBWUhNVFR5RUlyNXBrc2Y5Yw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-06 20:59",
-   "published_iso": "2026-10-06T11:59:00+00:00"
-  },
-  {
-   "title": "トランプ大統領の“強硬”移民政策で異変も 建設現場で人手不足、“人生一変”も…米中間選挙で大きな争点に",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVPZkVuVUhKUmdzVy1KMVlOZDNGaGxDVGhha0wtS1hzRjI1bjF5Y1lEMkJMdHluY3pQVm5BT3VrbVVXQUo5bURSblMwTGdYZ0Z4UUJnV1dEa1lrYWJyMEE3VHVrV3U0ZGQtdklSNUJmQ1YyTlBaNW01cHQ1cnprOEcxem0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 19:03",
-   "published_iso": "2026-10-06T10:03:00+00:00"
-  },
-  {
-   "title": "【中継】移民政策で“トランプ離れ”も… 来月に迫る中間選挙への影響は（2026年10月6日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2p3TFVlWHdXNExCY19mZjM5bm8yYkZuR1NBLTN0MGhVQjlGRWpmdWtXb21tdDBSZjZOck9ZMXNqU1ZxTVNuYU9kdE51WTlkcTNuRV9hd0hRMnVWcjNIZGdaRVNmNndwQjAzd0UwaWhuem5vUkpnSzc0Tzc4aHlIak9LWk4?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 16:50",
-   "published_iso": "2026-10-06T07:50:00+00:00"
-  },
-  {
-   "title": "外国人の子の日本語学習、愛知県が応援 新基金に5000万円拠出、個人の寄付も募る",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XZS1tVV9IR2diaHNfcEtMY09NUmphei1mYnFBaG4xbGUtbWNuZUlneWNVbU5rUnREMlNSNXBvSUVvaGItRWFCS1pTcE5zcEV2WTNUTw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-06 12:00",
-   "published_iso": "2026-10-06T03:00:00+00:00"
   }
  ]
 }
