@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T09:22:32+00:00",
+ "generated_at": "2026-10-10T15:41:10+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,44 @@
  ],
  "items": [
   {
+   "title": "日朝国交正常化へ全国集会、長野 「多文化共生社会を目指す」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNDNYUkFrTjh2NUtFN2FBdktMdU9NTkEzY1N5YmNtNmh2TmFlcFlJbkU0TENTVkQzT3hoVi1RcUFYM3ZHR2xqbUFXSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-10 20:09",
+   "published_iso": "2026-10-10T11:09:00+00:00"
+  },
+  {
+   "title": "秋の高山祭の「からくり奉納」 巧みな技術で動く人形の動きに多くの人々を魅了 「伝統的でとても美しかった」と語る外国人観光客 ことしは2日間で約21万6000人が訪れる | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DMVJQR3NOR0ZVSXhHRmdFbUNwZ1kwcVk0aUoyb25GQ1UxX2wyUGEwalJKM1pxdXczNUJCS2gzRWw5UFpaSzdLSURnQ0JBYTNPdDNiSW02Z3AxUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-10 19:55",
+   "published_iso": "2026-10-10T10:55:00+00:00"
+  },
+  {
+   "title": "福岡市で保守党の百田氏が街頭演説「外国人問題解決を」",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yekh0V29vTFNiZWEwYjd3Zk5OZVV2dFRHalJFc1RLWXJza2gzeS0xdTcyQjFGcnJaVzdHYktqQ1FkdmdkelJ3bk16RUVXQkEzT3luYzhB?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-10 19:39",
+   "published_iso": "2026-10-10T10:39:00+00:00"
+  },
+  {
+   "title": "日本人と外国人 交流深めて 四日市市の事業「企業内モデル日本語教室」紹介",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yczNoMkhDZFlzeFU0anhqeUp0OER6Vkw1aVo4WHZvYTlqdkFoem5RN0NLZnpWc3JySG10QjhHdXZFQnhxUm1jWlB1MA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-10 13:45",
+   "published_iso": "2026-10-10T04:45:18+00:00"
+  },
+  {
    "title": "「日本のシンドラー」と共にユダヤ人難民を救ったとされる外交官・根井三郎を顕彰…出身地・宮崎市に展示室",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11Zk1pZjNMRDl5cWNlU2pKdjViVXhGY1c3WVhEaFFVTVBTb0llMHl5YmttR01YVWVZNFUyRW9KT1RDR25mRVMtR2Q3QXpGZUhsLTdyUWx4N0dVWDBVV2xzbEs5Y0tVSDhROHZzaC05LTFFZw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-10 13:10",
    "published_iso": "2026-10-10T04:10:00+00:00"
-  },
-  {
-   "title": "〈本音のコラム〉国益要件の二重基準 師岡カリーマ（文筆家）",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FNHRFYlk4WnVWMDFPcndFMllWRk1Jb0VCcDRYaVZ6Tnp0dnBEWlBLUjJjNmpUWEE2VHZRdWRPekhwYk53QmI3ZjVqV0l3cEZOcGh3?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-10 12:00",
-   "published_iso": "2026-10-10T03:00:00+00:00"
   },
   {
    "title": "“弁当難民”の助けに 佐世保市船越町「ＳＡＳＥＢＯ グルメ街道はな一」 イートインスペースも",
@@ -32,12 +56,12 @@
    "published_iso": "2026-10-10T02:30:00+00:00"
   },
   {
-   "title": "日本人と外国人 交流深めて 四日市市の事業「企業内モデル日本語教室」紹介",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03Vm9fTndHS0lfWE1hb0RiN3h2VVZqUWVwTkpxd3c4ME82bkNYOVFwekJyY25CMUxKMGVxcl9lckc0WW9va1ppZXZ3aVF1TzR1SmJsYU1VSGJKSWhHbGww?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-10 05:05",
-   "published_iso": "2026-10-09T20:05:00+00:00"
+   "title": "アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利用凍結",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUHRpd0UyQ3ByWWh2eUZlWC1ycHRBMFRiOGs1Y1pSbXJpRFBFVHlndURMM0Itdk8xNl9vRHgtQi1ENkdoM0EtdWYzRjRUM19DRVhVeUR4VWRDNFpoaU1tVW5GVW5TWTdmdHFoNU4yNVRoanZ5RHBlSUJn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-10 09:15",
+   "published_iso": "2026-10-10T00:15:10+00:00"
   },
   {
    "title": "外国人研究者が見た「吉田神道」の広まりとは 京都市左京区の施設が支える「海外の視点」",
@@ -89,7 +113,7 @@
   },
   {
    "title": "「右折が難」外国人観光客のレンタカー事故が急増 福岡・糸島の人気観光地で物損事故が5割増 ルール違いに現場の苦悩と対策は",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZUUoxSVh3MGhNem54NVdFVXNTTFd5X3RoeG9mckN2YzFfci1jeFlaY1dNbVNORXRpYzVGQVRuYVBjTTUySXpiLVpBMjBLbXNpRTNoQUxHNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoLXBIZUgta2lfVTBHQmo5alRNanJaOWVqcl8wUlhHOGNBNFp1dFVYS2FzZ3NZQ3AzZ3VVZlRHUUxLVVhJVk9xbjhiQk5URzR5UUVmLVV4aThIbFpsTWo2ZHVBLXE?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 18:20",
@@ -137,7 +161,7 @@
   },
   {
    "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9laGx0cTdQNElEZTBwd1FNdlFxbWpUbjBTWVVNcG5DY01WOFVjT1I4NVJ1N0ZKdmFnU0s5OGhfb3ZCWHNfdGw0Y1BaUFJYSzJwaVVNODA2SFVZZGNOSm8tag?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXNMdXAtOVczTi1TVnNPQUdaa2x0UkdlMVdzbmlvSUc5UEFKX1JxdG1pRUsyRFNpNDJhMjZkNW55WlFLbzZqSnEzNkVWeWMtdkJPTA?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-09 14:31",
@@ -240,22 +264,6 @@
    "published_iso": "2026-10-08T09:41:20+00:00"
   },
   {
-   "title": "移民政策の進む道、心の片鱗に 難民キャンプ舞台にした戯曲「ジャングル」演出の長塚圭史",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CcGZlQldUV0hOVUxVdFFUdkZPc3lWSnl6alc2X2cxRWRSZnBYVk42cEkwbUt1NVNJWldzSUVQMV9IUW1xbm1oZWdzT1gzWG5xaDh6bDlNdEczRkNs?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-08 16:30",
-   "published_iso": "2026-10-08T07:30:00+00:00"
-  },
-  {
-   "title": "劇場、共に考える場に 仏の難民キャンプ描く舞台「ジャングル」上演",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwQmFNVXZHRmhVWlJfSGpqSUc0UW9oVFZDMG5HUXpqSFVRZnJOby1Ma2lQQ0hjd2VhczV2bXQxTEgxc3BPTHBXenFLdmNVWGN0bUZMTEhOSDM4WU50N0ZWQXlnMElsbEU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-08 14:00",
-   "published_iso": "2026-10-08T05:00:00+00:00"
-  },
-  {
    "title": "移民3000人が野宿「耐えていればスペイン本土に行く機会も」 セウタへの流入長期化",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSmJfVEdtVDlVNTlHNjVCaEo2U25UcExZRWxoOHN4QTFIQWNIVUZkbkJlYURaX09HcE1OTnNjbllfUE5NX3RybllsVGd5ZEpoWldPT1VLT0txMUFPNF9QZ001UDlTNTZfYVZ4ZWxfSHJGQmVVV1E?oc=5",
    "source": "産経ニュース",
@@ -326,14 +334,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-08 05:00",
    "published_iso": "2026-10-07T20:00:00+00:00"
-  },
-  {
-   "title": "NTTデータ経営研究所など、「外国人介護スタッフによる訪問系介護サービスに対する生活者の意識調査」の結果を発表",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SDcyOC04Ni1OeWtNVmpkblBySVFyaUcwSmFQOWtZZEFlNTZfazY0NXVpQ2pxbl9pYU9wejB5UlMyRTluUlFjc3d4N3ZXdmpmdEtlRGREVGc5VVhFdERLMDFGYWI1WVltVlNCQw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-07 17:13",
-   "published_iso": "2026-10-07T08:13:00+00:00"
   },
   {
    "title": "NHK名古屋 多文化共生キャンペーン",
