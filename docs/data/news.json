@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T15:41:10+00:00",
+ "generated_at": "2026-10-10T19:44:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,12 @@
  ],
  "items": [
   {
-   "title": "日朝国交正常化へ全国集会、長野 「多文化共生社会を目指す」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pNDNYUkFrTjh2NUtFN2FBdktMdU9NTkEzY1N5YmNtNmh2TmFlcFlJbkU0TENTVkQzT3hoVi1RcUFYM3ZHR2xqbUFXSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-10 20:09",
-   "published_iso": "2026-10-10T11:09:00+00:00"
+   "title": "「金がなく泊るところがない」不法残留した入管法違反容疑でアメリカ国籍の男（36）現行犯逮捕 鹿児島",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TNzBRRzEwUnpUelJKSVpmazFkTkhxcExwQWUzRmFmeXhFNHM5X1RXSUZXd1NqTXYwLTNxUDNsVm9iNkRxVlI5dkpOZUVmc2puVHJCVlAwMHJwUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-11 01:05",
+   "published_iso": "2026-10-10T16:05:00+00:00"
   },
   {
    "title": "秋の高山祭の「からくり奉納」 巧みな技術で動く人形の動きに多くの人々を魅了 「伝統的でとても美しかった」と語る外国人観光客 ことしは2日間で約21万6000人が訪れる | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
@@ -72,14 +72,6 @@
    "published_iso": "2026-10-09T20:05:00+00:00"
   },
   {
-   "title": "「おもてなし」の心を上越の児童体感 金沢駅で棒茶振る舞い「外国人にも伝わった」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vSXVCcHR1N1gxLVJUNmwxQTFyeUcwR0pqREhhZmRBeWtXLTVuWnlYa014ZmI3ODlpMko2cEo0aVhXZnB3ZUtRLXdZaE8xTVZNbm1rTHZndnB3aGRIcFlyNE1jMTJxcXZf?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-10 05:05",
-   "published_iso": "2026-10-09T20:05:00+00:00"
-  },
-  {
    "title": "タクシードライバー“上質なおもてなし”学ぶ 富裕層の外国人観光客へ《新潟》（2026年10月9日掲載）｜TeNY NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlZdFdDVW9CQ3hIRUpNSXFia3JER1cwNWdrcVlKaFpJZWlqc0JLS1dvRmtWWmF5bUp3YXFrUEozZGhBdTNXcDR2NWpXa0F5M0JDYzBfTmZldkJMenR6MThaaU1WSnRZUmZ1c0ZYRTVNbFlfX2UyT1h3blhNMTFyeXBnc2kxN1RR?oc=5",
    "source": "日テレNEWS NNN",
@@ -112,28 +104,12 @@
    "published_iso": "2026-10-09T09:40:00+00:00"
   },
   {
-   "title": "「右折が難」外国人観光客のレンタカー事故が急増 福岡・糸島の人気観光地で物損事故が5割増 ルール違いに現場の苦悩と対策は",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoLXBIZUgta2lfVTBHQmo5alRNanJaOWVqcl8wUlhHOGNBNFp1dFVYS2FzZ3NZQ3AzZ3VVZlRHUUxLVVhJVk9xbjhiQk5URzR5UUVmLVV4aThIbFpsTWo2ZHVBLXE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-09 18:20",
-   "published_iso": "2026-10-09T09:20:00+00:00"
-  },
-  {
    "title": "独仏「極右恐怖症」が生んだ鬼 極左が移民層と若者吸収 中道結集から10年後の政治危機",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EZWF0clRHcVBObjZFYXRMRHU0NzYxMUV3NUd1NTRwZGxEamdDeEZkemxGeVpoQzNLZTJfdEs5MXpVWGJjZDdMNEhUY1E0Rl9NUzNlWFktbVdVUnRTSG1WS1ZCQ085TFlQdm9nZzI0cFg5aXdPR3c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-10-09 18:00",
    "published_iso": "2026-10-09T09:00:00+00:00"
-  },
-  {
-   "title": "外国人旅行者に過剰な量の医薬品処方は「適切ではない」～糖尿病治療薬「マンジャロ」めぐり厚労相がコメント",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WdWRtc2loaW10eTNRZHVhRk5qZ0duUGNXOF9yTUFYbTYyQk5TSWZuSjhKVkkzazdJcTVsczNHNGJ0UjdlX2lDUG5zZDdSNnpId1NDLVRzTGRPelRKNENFLXNvOElPdGdiMXhXVTdRRk9kODl3bEVyWWhnUmU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-09 15:41",
-   "published_iso": "2026-10-09T06:41:00+00:00"
   },
   {
    "title": "高度技能外国人労働者の永住権、マイクロソフトとアドビからの申請受け付けを停止 米・バンス副大統領が発表",
@@ -320,6 +296,14 @@
    "published_iso": "2026-10-07T21:00:00+00:00"
   },
   {
+   "title": "広島初の「外国人バス運転手」 デビューに向けて奮闘中 インドネシア国籍の2人 人手不足のバス業界に救世主",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LQS1FVF9CMDA1WWF2SVU4RUJ5aGtLX0xxckpPaDFfVTRPUEV5Mi1kNjVOaU1wREVvWnFVY2xrV0hkTnVXZzI1NkRvTnZEalVuaHdEcEN5QQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-08 05:30",
+   "published_iso": "2026-10-07T20:30:00+00:00"
+  },
+  {
    "title": "京都市の飲食業者が困惑「貴重な人材」供給絶たれ配置計画に狂い 「特定技能1号」 外食受け入れ停止から半年",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tRnZlcVVueWtrckZtNGZyMlhHMEdiN0tKbnZnek01Z2xqY2VJeW00ZXhXZ2RXYzJtcXFONFRKanlaS21iR0ZSTjdPbG1YZUJRSkFHUFVJQTQ?oc=5",
    "source": "京都新聞デジタル",
@@ -376,14 +360,6 @@
    "published_iso": "2026-10-07T00:45:00+00:00"
   },
   {
-   "title": "深刻な関西の労働力不足、2050年に336万人 外国人材頼みも限界 育成と定着がカギ",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSGs2UmIwcHBEbHE2VGJweWVjV05sZEYzY3hXOENjcXBvU0xnUGxZQl8tc0ZkS3B1N1A5NFN0V0o3VTVhdV9MMTd3MURDSm4wLUFlcVBwR3JidkxoMENjNWRPdHlVa21mWVZvVGt3Nl9QQWtJeWc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-07 06:00",
-   "published_iso": "2026-10-06T21:00:01+00:00"
-  },
-  {
    "title": "[PR] 熱帯雨林の自然と多文化共生社会を体感しよう マレーシアで学ぶ親子旅モニターツアー参加者募集中",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRnU2anRzeEV4NFNnUl9LZFVSa3EzcUNYN3h0d2xuUDJSNElBLTladWcxNDZpREg5R0FqY1lpRDBVODVMNDN5ZEZjb0ljOTR2RnJqRVk2Q1MwbF9MSDZMZzdUN2xNZTRF?oc=5",
    "source": "朝日新聞",
@@ -406,6 +382,30 @@
    "source_domain": "sankei.com",
    "published": "2026-10-06 21:00",
    "published_iso": "2026-10-06T12:00:00+00:00"
+  },
+  {
+   "title": "ドイツ戦後初の極右議長選出 東部州議会、反移民の政党",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iZWNPM3N2ODFvcHBEcDlTelNDZXhxQTJLeGVYcTVQUU8tUWhhWjJTcDZjeXlrZE9OR3VBWUhNVFR5RUlyNXBrc2Y5Yw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-06 20:59",
+   "published_iso": "2026-10-06T11:59:00+00:00"
+  },
+  {
+   "title": "トランプ大統領の“強硬”移民政策で異変も 建設現場で人手不足、“人生一変”も…米中間選挙で大きな争点に",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVPZkVuVUhKUmdzVy1KMVlOZDNGaGxDVGhha0wtS1hzRjI1bjF5Y1lEMkJMdHluY3pQVm5BT3VrbVVXQUo5bURSblMwTGdYZ0Z4UUJnV1dEa1lrYWJyMEE3VHVrV3U0ZGQtdklSNUJmQ1YyTlBaNW01cHQ1cnprOEcxem0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-06 19:03",
+   "published_iso": "2026-10-06T10:03:00+00:00"
+  },
+  {
+   "title": "【中継】移民政策で“トランプ離れ”も… 来月に迫る中間選挙への影響は（2026年10月6日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2p3TFVlWHdXNExCY19mZjM5bm8yYkZuR1NBLTN0MGhVQjlGRWpmdWtXb21tdDBSZjZOck9ZMXNqU1ZxTVNuYU9kdE51WTlkcTNuRV9hd0hRMnVWcjNIZGdaRVNmNndwQjAzd0UwaWhuem5vUkpnSzc0Tzc4aHlIak9LWk4?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-06 16:50",
+   "published_iso": "2026-10-06T07:50:00+00:00"
   }
  ]
 }
