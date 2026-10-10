@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T19:44:12+00:00",
+ "generated_at": "2026-10-10T23:12:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,28 @@
  ],
  "items": [
   {
+   "title": "外国人運転手 物流で拡大 「特定技能１号」６０００人超合格 人手不足解消策 交通安全課題",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSb0oydTg5dlRxNExKZU1hM1dtZHhnV2RKNmg2aXZSR0hic2R3cGxySUpCaG5xbDBlVHREdXdqazB1V1Bua3lLNzdjLVR1aXhyLVloSlJhZVRobFZkenVIdUNGdw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-11 05:00",
+   "published_iso": "2026-10-10T20:00:00+00:00"
+  },
+  {
    "title": "「金がなく泊るところがない」不法残留した入管法違反容疑でアメリカ国籍の男（36）現行犯逮捕 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TNzBRRzEwUnpUelJKSVpmazFkTkhxcExwQWUzRmFmeXhFNHM5X1RXSUZXd1NqTXYwLTNxUDNsVm9iNkRxVlI5dkpOZUVmc2puVHJCVlAwMHJwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDWTBjYVZUdXZ3LWlaUXlJdTQyUDAya2pOUV9EVHJyOWJMLUE4d05lSTZkOUVZMENuaFNncDdIX3B0UElHN3pkV1lMYW1BZjJOV3kwVG5yMjJxZjBteVFnLVcxcFdLcUE?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-11 01:05",
    "published_iso": "2026-10-10T16:05:00+00:00"
+  },
+  {
+   "title": "外国人日本語スピーチコンテスト 佐賀での暮らし、夢や感謝を胸に 7カ国22人が熱弁 青少年部門は中国出身の鄭さん（旭小6年）金賞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZ2hwczF0dUd3MVUtT0ZLNE42OFV5elpleWZfeVhlY3lOY0FLSm1ZQnZReFc0VW43NzRKQUpKT2JMQUIyYm5LNjlCOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-10 21:15",
+   "published_iso": "2026-10-10T12:15:23+00:00"
   },
   {
    "title": "秋の高山祭の「からくり奉納」 巧みな技術で動く人形の動きに多くの人々を魅了 「伝統的でとても美しかった」と語る外国人観光客 ことしは2日間で約21万6000人が訪れる | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
@@ -46,14 +62,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-10 13:10",
    "published_iso": "2026-10-10T04:10:00+00:00"
-  },
-  {
-   "title": "“弁当難民”の助けに 佐世保市船越町「ＳＡＳＥＢＯ グルメ街道はな一」 イートインスペースも",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VnlYa3VOdzlEQ1NPZTMzR2pLQTNTZWZ6NUtnTl8ybnZ6eDBkSk1UMHEwQmtXemItdHV5NkhVWWYzMHFpRldVNm4zQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-10 11:30",
-   "published_iso": "2026-10-10T02:30:00+00:00"
   },
   {
    "title": "アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利用凍結",
@@ -134,14 +142,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 14:40",
    "published_iso": "2026-10-09T05:40:00+00:00"
-  },
-  {
-   "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXNMdXAtOVczTi1TVnNPQUdaa2x0UkdlMVdzbmlvSUc5UEFKX1JxdG1pRUsyRFNpNDJhMjZkNW55WlFLbzZqSnEzNkVWeWMtdkJPTA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-09 14:31",
-   "published_iso": "2026-10-09T05:31:25+00:00"
   },
   {
    "title": "県内の外国人労働者数、ネパール人が中国人を抜いて２番目の多さに…１０年前３８４人→９５９４人",
@@ -264,14 +264,6 @@
    "published_iso": "2026-10-08T01:00:00+00:00"
   },
   {
-   "title": "富山の公害「イタイイタイ病」記憶を世界へ 清流会館が30年ぶりに展示リニューアル、地元出身の24歳大学院生が外国人向けQR解説を担当 | 富山のニュース｜天気・防災｜チューリップテレビ (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVElZVkRfbGIwNllybWQzMFVoUEdha3E5azBud0Q4aUFHSWM2UDhoRkF6N3BXWnZMZWMtdWVOYmpWRUVWVmM0RFN0NTJHcW5adF8yeEFrTzJUMWpBSFY2WEVYU25YcmM?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-08 07:30",
-   "published_iso": "2026-10-07T22:30:00+00:00"
-  },
-  {
    "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mMFpZcWJnQkF4Zm5BVmlCdWpXQklzaTg3SldwZHFVQW55VXloaDU2c25XUW5INXNqRW5zdkJ3VVpDTk0wR2Q0Z1FKb3JveXU5R0xyWjNKQ1YzNllIZG1RTjNGUQ?oc=5",
    "source": "時事ドットコム",
@@ -328,14 +320,6 @@
    "published_iso": "2026-10-07T08:00:22+00:00"
   },
   {
-   "title": "手数料20倍や「国益要件」 外国人への官製差別では〈社会時評〉安田菜津紀",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQWVl6dk5IY3hNV01pXzdVZkhsbXRSNUs5YXBqMzRhZV9vNUtza1J1NktDY1ptVzFKdFhDdnVLVHhDWDJlQm1hbFNkZHl5ZDZCWFZ3?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-07 17:00",
-   "published_iso": "2026-10-07T08:00:00+00:00"
-  },
-  {
    "title": "日本人11人含む外国人の男女17人拘束 マレーシア南部で“特殊詐欺拠点”摘発（2026年10月6日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3Z5aU9KTkxhMkppRWZ1blN5aTlVNVZIejNHempsQmtqRUtWeUNDYUM4UmVmazJTbldaMkMxRGpGOGduNkhBZldSczZxUlk1M2doaTVyLWktV2hfX0ViN3BmMGxpRmZYYTdMUk9IRW5HcWNaMk0tYndKbVlGQ3o4eW41NG0?oc=5",
    "source": "日テレNEWS NNN",
@@ -358,6 +342,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-07 09:45",
    "published_iso": "2026-10-07T00:45:00+00:00"
+  },
+  {
+   "title": "減りゆく法廷通訳人、外国人被告は10年で倍増 採用や報酬の基準曖昧",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVjFqT3BSSmJ1NVBPMDlERVdBR1dIQmhmQ1pQa2VmMFg2OGVZVDROUWZqdXgwcjVzTkNJdTVmMGdmV1V0YVlUdDA5eFA5Z3hScTl4SEUzbjdfZ05oTV9fblV3c25JNFM3UmdOcA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-07 05:00",
+   "published_iso": "2026-10-06T20:00:00+00:00"
   },
   {
    "title": "[PR] 熱帯雨林の自然と多文化共生社会を体感しよう マレーシアで学ぶ親子旅モニターツアー参加者募集中",
@@ -406,6 +398,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-06 16:50",
    "published_iso": "2026-10-06T07:50:00+00:00"
+  },
+  {
+   "title": "【警察官の職務質問で発覚】旅券不携帯の疑い ベトナム国籍の男 入管難民法違反の容疑で現行犯逮捕",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUR2QVVjOFhlaEs5R21ybXVTQUVBRHZ3X1dmODlGamFjMDh1VXJOY0hZRkJaaEtMRzBHUjJwNTM4aDc4SFNVWmhncVZyQVdWT3hkLXVhbVp4WE40TDN2R2tYNEhXdjlRVXhYUUtrX2RUN1RXdmlYOHc0a1JBanpUOUJTOXJwdms?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-06 10:58",
+   "published_iso": "2026-10-06T01:58:00+00:00"
   }
  ]
 }
