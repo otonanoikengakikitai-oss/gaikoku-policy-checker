@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:12:34+00:00",
+ "generated_at": "2026-10-11T03:57:15+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "サウジ首都の空港に攻撃 外国人含む320人超死傷 フーシ派か",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FOXUwZGpMNmppbzJtVUh5UVNPYzEwZG9TMnFjbDRzbUxjLTctSkIwWFRtNVU3QlotZFREZS0yel8tLUZjcE5LOUZZWXF2UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-11 12:06",
+   "published_iso": "2026-10-11T03:06:00+00:00"
+  },
+  {
+   "title": "外国人の労災事故なぜ多い？ 技能実習生の指切断訴訟から見える現実 [千葉県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZVo5QUdwNlJ0WVJPbHhUYjg0WEx1X0hQMVZVcmtZdlJEckg1ZnJEMHJlc0hQNUhTUGlYZ05wVmpyek1PNDB3WkIyYlBodEl5NHlUTHFrM1JRdGR2eVRhejBlb1FHNk0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-11 12:00",
+   "published_iso": "2026-10-11T03:00:00+00:00"
+  },
   {
    "title": "外国人運転手 物流で拡大 「特定技能１号」６０００人超合格 人手不足解消策 交通安全課題",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSb0oydTg5dlRxNExKZU1hM1dtZHhnV2RKNmg2aXZSR0hic2R3cGxySUpCaG5xbDBlVHREdXdqazB1V1Bua3lLNzdjLVR1aXhyLVloSlJhZVRobFZkenVIdUNGdw?oc=5",
@@ -32,8 +48,8 @@
    "published_iso": "2026-10-10T12:15:23+00:00"
   },
   {
-   "title": "秋の高山祭の「からくり奉納」 巧みな技術で動く人形の動きに多くの人々を魅了 「伝統的でとても美しかった」と語る外国人観光客 ことしは2日間で約21万6000人が訪れる | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DMVJQR3NOR0ZVSXhHRmdFbUNwZ1kwcVk0aUoyb25GQ1UxX2wyUGEwalJKM1pxdXczNUJCS2gzRWw5UFpaSzdLSURnQ0JBYTNPdDNiSW02Z3AxUQ?oc=5",
+   "title": "秋の高山祭の「からくり奉納」 巧みな技術で動く人形の動きに多くの人々を魅了 「伝統的でとても美しかった」と語る外国人観光客 ことしは2日間で約21万6000人が訪れる | 名古屋・愛知・岐阜・三重のニュース【CBC news】 | CBC web (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52ckVnMTJIZElNZkYtLWZNdkxuMXhHc1VKZ25WdFVZUFIyVHdMYTJ1MC1MUm9Oa2daOXdFay1hMlIwdUd2Y3Y1Q2ZYRnNlNC0yTU10cFJUUm9hWGczczRFR0lXWjZkdWc?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-10 19:55",
@@ -144,6 +160,14 @@
    "published_iso": "2026-10-09T05:40:00+00:00"
   },
   {
+   "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXNMdXAtOVczTi1TVnNPQUdaa2x0UkdlMVdzbmlvSUc5UEFKX1JxdG1pRUsyRFNpNDJhMjZkNW55WlFLbzZqSnEzNkVWeWMtdkJPTA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-09 14:31",
+   "published_iso": "2026-10-09T05:31:25+00:00"
+  },
+  {
    "title": "県内の外国人労働者数、ネパール人が中国人を抜いて２番目の多さに…１０年前３８４人→９５９４人",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12NlNLT1hiZVpaWllEUHVYQVJHS0UteGYyeWJiNVNJWW54dkJJb3M2akVoVUQxcDl5V3BHRGluOUdQc185YnhUeFZTRmx1aVQySXBSMk1mSngxVzVQbUVNZUx1M1NydTRzY1RISkFWR2FVQQ?oc=5",
    "source": "読売新聞",
@@ -198,14 +222,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 03:42",
    "published_iso": "2026-10-08T18:42:00+00:00"
-  },
-  {
-   "title": "特定技能「給食」再開検討 新規受け入れ 「外食」から別分野に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-09 02:01",
-   "published_iso": "2026-10-08T17:01:11+00:00"
   },
   {
    "title": "外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明",
@@ -265,7 +281,7 @@
   },
   {
    "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mMFpZcWJnQkF4Zm5BVmlCdWpXQklzaTg3SldwZHFVQW55VXloaDU2c25XUW5INXNqRW5zdkJ3VVpDTk0wR2Q0Z1FKb3JveXU5R0xyWjNKQ1YzNllIZG1RTjNGUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUdVQjJIQU1XcGV5M0Jlb3BQLVhnX3dfbWRMQnNDWm10TmFneWREV3R6VEpYN051eGZtZWRGVFFSZ1hWUGdqOEpsWWFmTzV3bDFxU3EzLV9EQXFzR2VvZjNBd0JHS0IyV1RPZGs5ZWtvQlQxNFZ0RXIwSGljSU9lem1B?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-10-08 07:04",
@@ -320,20 +336,20 @@
    "published_iso": "2026-10-07T08:00:22+00:00"
   },
   {
+   "title": "手数料20倍や「国益要件」 外国人への官製差別では〈社会時評〉安田菜津紀",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQWVl6dk5IY3hNV01pXzdVZkhsbXRSNUs5YXBqMzRhZV9vNUtza1J1NktDY1ptVzFKdFhDdnVLVHhDWDJlQm1hbFNkZHl5ZDZCWFZ3?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-07 17:00",
+   "published_iso": "2026-10-07T08:00:00+00:00"
+  },
+  {
    "title": "日本人11人含む外国人の男女17人拘束 マレーシア南部で“特殊詐欺拠点”摘発（2026年10月6日掲載）",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3Z5aU9KTkxhMkppRWZ1blN5aTlVNVZIejNHempsQmtqRUtWeUNDYUM4UmVmazJTbldaMkMxRGpGOGduNkhBZldSczZxUlk1M2doaTVyLWktV2hfX0ViN3BmMGxpRmZYYTdMUk9IRW5HcWNaMk0tYndKbVlGQ3o4eW41NG0?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-10-07 13:52",
    "published_iso": "2026-10-07T04:52:00+00:00"
-  },
-  {
-   "title": "「拒絶されている」、演劇で明かした胸の内 多文化共生の街、岐阜県可児市で続く地道な努力",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1TVk2QXZ6WWhueV9KNGgySDhscVdYNVV0WmU4Y0xVZGcyVEc5WjdTN09rNlk0RFJQTndSS1B3SG50OW1rdTRiU0lWNk1JSVhMZHN4Yw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-07 12:00",
-   "published_iso": "2026-10-07T03:00:00+00:00"
   },
   {
    "title": "アジアパラ パワーリフティング 夢舞台へ挑戦、山本活躍誓う…共生社会考える出前授業 ：地域ニュース",
@@ -344,20 +360,20 @@
    "published_iso": "2026-10-07T00:45:00+00:00"
   },
   {
+   "title": "深刻な関西の労働力不足、2050年に336万人 外国人材頼みも限界 育成と定着がカギ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSGs2UmIwcHBEbHE2VGJweWVjV05sZEYzY3hXOENjcXBvU0xnUGxZQl8tc0ZkS3B1N1A5NFN0V0o3VTVhdV9MMTd3MURDSm4wLUFlcVBwR3JidkxoMENjNWRPdHlVa21mWVZvVGt3Nl9QQWtJeWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-07 06:00",
+   "published_iso": "2026-10-06T21:00:01+00:00"
+  },
+  {
    "title": "減りゆく法廷通訳人、外国人被告は10年で倍増 採用や報酬の基準曖昧",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNVjFqT3BSSmJ1NVBPMDlERVdBR1dIQmhmQ1pQa2VmMFg2OGVZVDROUWZqdXgwcjVzTkNJdTVmMGdmV1V0YVlUdDA5eFA5Z3hScTl4SEUzbjdfZ05oTV9fblV3c25JNFM3UmdOcA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-07 05:00",
    "published_iso": "2026-10-06T20:00:00+00:00"
-  },
-  {
-   "title": "[PR] 熱帯雨林の自然と多文化共生社会を体感しよう マレーシアで学ぶ親子旅モニターツアー参加者募集中",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRnU2anRzeEV4NFNnUl9LZFVSa3EzcUNYN3h0d2xuUDJSNElBLTladWcxNDZpREg5R0FqY1lpRDBVODVMNDN5ZEZjb0ljOTR2RnJqRVk2Q1MwbF9MSDZMZzdUN2xNZTRF?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-07 00:00",
-   "published_iso": "2026-10-06T15:00:00+00:00"
   },
   {
    "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
@@ -390,22 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-06 19:03",
    "published_iso": "2026-10-06T10:03:00+00:00"
-  },
-  {
-   "title": "【中継】移民政策で“トランプ離れ”も… 来月に迫る中間選挙への影響は（2026年10月6日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2p3TFVlWHdXNExCY19mZjM5bm8yYkZuR1NBLTN0MGhVQjlGRWpmdWtXb21tdDBSZjZOck9ZMXNqU1ZxTVNuYU9kdE51WTlkcTNuRV9hd0hRMnVWcjNIZGdaRVNmNndwQjAzd0UwaWhuem5vUkpnSzc0Tzc4aHlIak9LWk4?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 16:50",
-   "published_iso": "2026-10-06T07:50:00+00:00"
-  },
-  {
-   "title": "【警察官の職務質問で発覚】旅券不携帯の疑い ベトナム国籍の男 入管難民法違反の容疑で現行犯逮捕",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUR2QVVjOFhlaEs5R21ybXVTQUVBRHZ3X1dmODlGamFjMDh1VXJOY0hZRkJaaEtMRzBHUjJwNTM4aDc4SFNVWmhncVZyQVdWT3hkLXVhbVp4WE40TDN2R2tYNEhXdjlRVXhYUUtrX2RUN1RXdmlYOHc0a1JBanpUOUJTOXJwdms?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 10:58",
-   "published_iso": "2026-10-06T01:58:00+00:00"
   }
  ]
 }
