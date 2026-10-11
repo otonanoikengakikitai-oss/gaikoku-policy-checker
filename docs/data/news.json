@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T10:40:22+00:00",
+ "generated_at": "2026-10-11T16:32:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,60 @@
  ],
  "items": [
   {
+   "title": "移民船転覆、109人死亡 アフリカ東部ジブチ沖 行方不明も多数 300人以上乗船か",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zOHVrcU14ZHV3ZVhDTTFDZjdObHZaRTMzRF8tNE5qOVNpRGJ1UmJxb3ZQV1BhMWdXTXA0ZHZHS2UxekljTnpFWHJuNm9tbEdWNkE0cGhSYm1kVkFsaXV0MmhOVzBNQkJVXzlQLXVQcXpMYjdybXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-11 22:25",
+   "published_iso": "2026-10-11T13:25:21+00:00"
+  },
+  {
+   "title": "移民船転覆、109人死亡 ジブチ沖、行方不明も多数",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Kcy1pUXYxT0pRbmgzTW51TzZkZzVuY3BWSVZ2YlZhNC1fbjFFUE5qajU1WExmcUJJREpXLXpMLTBDUDlWMVhJQjJOOFhhWFd0NXRwV2tWQTRadw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-11 21:21",
+   "published_iso": "2026-10-11T12:21:19+00:00"
+  },
+  {
+   "title": "移民船転覆、１０９人死亡＝１１６人以上が不明―ジブチ沖",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ay1GanZJX3g2OUZSekdQbmRqblU3NnRhUHpuc0J5MC1kYkkxN0xWdVRlalN0blcwbC03YjhwUzFvMTBmQmxMUWg1YWtrcjZwNTZiTg?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-10-11 20:54",
+   "published_iso": "2026-10-11T11:54:00+00:00"
+  },
+  {
+   "title": "ジブチ沖で移民船転覆、１０９人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EY1B5aDFJQ1JCZm1YdU1jN0sxSUx6aWs5cUlLWDN4YWFJS0tfM2EwM2hUTm1aS2xqU0pRM1NWTDVnaU90RXN2c3otSHRsQnNVdFg1bmJSNGY?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-10-11 20:38",
+   "published_iso": "2026-10-11T11:38:40+00:00"
+  },
+  {
+   "title": "【速報】ジブチ沖で移民船転覆、109人死亡",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBINVN5dnlsSjBZSGhuZDMxcU5vNU4wTUNENHRHa2pYMkpyLXVKRGdNRU9IajFaQWREYlVhNG5lUUZDNy1WUDNfWmVaVQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-11 20:38",
+   "published_iso": "2026-10-11T11:38:40+00:00"
+  },
+  {
+   "title": "ジブチ沖で移民船が転覆109人死亡 対岸のイエメンへ不法移民の主要ルートも事故頻発",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSV2FtNWpBN291bnhpR1dxX3Nqa1h3SHNuM05RZ1IyS0NXb3htYVV3dldBZWdVZmZLVGZrem4zekNKXy1lTTZyTkRxNVM1aFF1U2paN1dZRlIzbXVTWHlIczF4TXg4RFV4RzJIbkMyaElzVUpwT1laUUln?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-11 20:23",
+   "published_iso": "2026-10-11T11:23:08+00:00"
+  },
+  {
    "title": "VIVANTコラボSP4日目 外国人×ニッポンのスゴイところ 日本のマクドナルドに感動 ヴィジュアル系バンドや相撲に熱狂【それスタ】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oeGZqN1hoQTNXMmtYNzdoelRLNVRfem9BTzg2cDF0QlpxeEd4MVQ2bjY4bmh5RTA2VWh0VS15d1R3c3p3XzJCbFdDZmZxaXZITVp6ZklFaw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-11 18:00",
    "published_iso": "2026-10-11T09:00:51+00:00"
-  },
-  {
-   "title": "サウジ首都の空港に攻撃 外国人含む320人超死傷 フーシ派か",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FOXUwZGpMNmppbzJtVUh5UVNPYzEwZG9TMnFjbDRzbUxjLTctSkIwWFRtNVU3QlotZFREZS0yel8tLUZjcE5LOUZZWXF2UQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-11 12:06",
-   "published_iso": "2026-10-11T03:06:00+00:00"
   },
   {
    "title": "外国人の労災事故なぜ多い？ 技能実習生の指切断訴訟から見える現実 [千葉県] [外国人]",
@@ -49,19 +89,11 @@
   },
   {
    "title": "「金がなく泊るところがない」不法残留した入管法違反容疑でアメリカ国籍の男（36）現行犯逮捕 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TNzBRRzEwUnpUelJKSVpmazFkTkhxcExwQWUzRmFmeXhFNHM5X1RXSUZXd1NqTXYwLTNxUDNsVm9iNkRxVlI5dkpOZUVmc2puVHJCVlAwMHJwUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jU2ZxcGtldmJIR0l5MnNaMXF4aXAwX2hEUk83LWhwYUd3TVZ0YWRQaXhJMWFSTzZfSUxxekt0SDFCMmlhVFdKRl9yTGdDX2NVX3VRVDhjMA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-11 01:05",
    "published_iso": "2026-10-10T16:05:00+00:00"
-  },
-  {
-   "title": "外国人日本語スピーチコンテスト 佐賀での暮らし、夢や感謝を胸に 7カ国22人が熱弁 青少年部門は中国出身の鄭さん（旭小6年）金賞",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mZ2hwczF0dUd3MVUtT0ZLNE42OFV5elpleWZfeVhlY3lOY0FLSm1ZQnZReFc0VW43NzRKQUpKT2JMQUIyYm5LNjlCOA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-10 21:15",
-   "published_iso": "2026-10-10T12:15:23+00:00"
   },
   {
    "title": "福岡市で保守党の百田氏が街頭演説「外国人問題解決を」",
@@ -70,6 +102,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-10 19:39",
    "published_iso": "2026-10-10T10:39:00+00:00"
+  },
+  {
+   "title": "日本人と外国人 交流深めて 四日市市の事業「企業内モデル日本語教室」紹介",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yczNoMkhDZFlzeFU0anhqeUp0OER6Vkw1aVo4WHZvYTlqdkFoem5RN0NLZnpWc3JySG10QjhHdXZFQnhxUm1jWlB1MA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-10 13:45",
+   "published_iso": "2026-10-10T04:45:18+00:00"
   },
   {
    "title": "「日本のシンドラー」と共にユダヤ人難民を救ったとされる外交官・根井三郎を顕彰…出身地・宮崎市に展示室",
@@ -142,6 +182,22 @@
    "source_domain": "sankei.com",
    "published": "2026-10-09 18:00",
    "published_iso": "2026-10-09T09:00:00+00:00"
+  },
+  {
+   "title": "南アフリカで移民を巡る緊張再燃、反不法移民のデモ隊と外国人グループが衝突",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ta2NLdFhybXQ4cEs4Z2pmN21WSkpDNXVsZXI5SmZLbzVFblJ0Sm85T0pZRlE2cGtxT2RyQUhjQ3V0LWFEUGotU2F0cHotUzU0NEx0V19JeUpwQXpxcGVFX202UXdhZw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-09 17:14",
+   "published_iso": "2026-10-09T08:14:00+00:00"
+  },
+  {
+   "title": "米NYでICE職員が男性に発砲 「断じて許されない」マムダニ市長が批判",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ejdtMUlpMlFjZVlkbWlxWmJPOUJUTzVXTWJyZ0h1bGg4Mkt2c3ZqNGJKVDE1QzBTMVpLUDJ1SUNQUEZ1MDEyelFORmNseHgwZXp0Z2NhaVBGLVlOZGtVMFc0c0FEUW1aVHVFV0QwWHUwbHFK?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-09 15:49",
+   "published_iso": "2026-10-09T06:49:22+00:00"
   },
   {
    "title": "『世界難民危機』小俣直彦著（岩波書店）",
@@ -288,14 +344,6 @@
    "published_iso": "2026-10-08T01:00:00+00:00"
   },
   {
-   "title": "外国人材、都市部への転職急増 外食業、地方で人手不足拍車―特定１号、受け入れ停止半年",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mMFpZcWJnQkF4Zm5BVmlCdWpXQklzaTg3SldwZHFVQW55VXloaDU2c25XUW5INXNqRW5zdkJ3VVpDTk0wR2Q0Z1FKb3JveXU5R0xyWjNKQ1YzNllIZG1RTjNGUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-08 07:04",
-   "published_iso": "2026-10-07T22:04:00+00:00"
-  },
-  {
    "title": "ミャンマー・ミンアウンフライン氏がマレーシア訪問 両国接近をつなぐ「難民問題」",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WEEwRFFsYlcwa0UyaDdWS1JLMF9xdGozVktQdUstbVg4cjVCeE5PdWZfcGVxVjcxZGNfXzJqM1dtbDRmUXNPckg4RENnaTlIVUJJ?oc=5",
    "source": "東京新聞",
@@ -358,54 +406,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-07 13:52",
    "published_iso": "2026-10-07T04:52:00+00:00"
-  },
-  {
-   "title": "アジアパラ パワーリフティング 夢舞台へ挑戦、山本活躍誓う…共生社会考える出前授業 ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11eTVwbFV3VG1XWDJUOGw1VGZJeS1VT2lNcWpCLXFfLXcyQmM5aDZmSTQ0TEVHZHpUZEpfRlkzRHdJTjJrcmtTYnM0ZEtuSUN0WGk1c1ZHMThhR281MDIyMk1oV1VwRXI1WUlwZXBpTV8?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-07 09:45",
-   "published_iso": "2026-10-07T00:45:00+00:00"
-  },
-  {
-   "title": "深刻な関西の労働力不足、2050年に336万人 外国人材頼みも限界 育成と定着がカギ",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSGs2UmIwcHBEbHE2VGJweWVjV05sZEYzY3hXOENjcXBvU0xnUGxZQl8tc0ZkS3B1N1A5NFN0V0o3VTVhdV9MMTd3MURDSm4wLUFlcVBwR3JidkxoMENjNWRPdHlVa21mWVZvVGt3Nl9QQWtJeWc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-07 06:00",
-   "published_iso": "2026-10-06T21:00:01+00:00"
-  },
-  {
-   "title": "多文化共生の条例案に反発と不安の声「分断が広がっている印象」パブリックコメント7日締切 富山県",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHNkJGOC0yc3N6VkpmTDJMNXBoUzNtaVVYSW5lZ25zdmhhdVlFZHVUbXZBTU5NamNfWDQ4ZmFDTGNidEVqdno3dUZweFNNNlJkWkVCOGFJY285d2F4aUotY3dScTBNWmc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-06 21:42",
-   "published_iso": "2026-10-06T12:42:00+00:00"
-  },
-  {
-   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は令和9年末に受け入れ停止か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-06 21:00",
-   "published_iso": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "title": "ドイツ戦後初の極右議長選出 東部州議会、反移民の政党",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iZWNPM3N2ODFvcHBEcDlTelNDZXhxQTJLeGVYcTVQUU8tUWhhWjJTcDZjeXlrZE9OR3VBWUhNVFR5RUlyNXBrc2Y5Yw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-06 20:59",
-   "published_iso": "2026-10-06T11:59:00+00:00"
-  },
-  {
-   "title": "トランプ大統領の“強硬”移民政策で異変も 建設現場で人手不足、“人生一変”も…米中間選挙で大きな争点に",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzVPZkVuVUhKUmdzVy1KMVlOZDNGaGxDVGhha0wtS1hzRjI1bjF5Y1lEMkJMdHluY3pQVm5BT3VrbVVXQUo5bURSblMwTGdYZ0Z4UUJnV1dEa1lrYWJyMEE3VHVrV3U0ZGQtdklSNUJmQ1YyTlBaNW01cHQ1cnprOEcxem0?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-06 19:03",
-   "published_iso": "2026-10-06T10:03:00+00:00"
   }
  ]
 }
