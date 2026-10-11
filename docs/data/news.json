@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T16:32:37+00:00",
+ "generated_at": "2026-10-11T20:47:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人の人権考えて 在日2世が来月講演",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVEFEYjFxaXNJdW92LVh3aDJ0ZDJGZGdXMG9QaDc3U0hUZTc4dmlYWEJ5NDhQdi1QTzJmV0QxalBlR3pQZV9UMmNTTkdHenRmbUZ4VVhGWWg?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-12 04:00",
+   "published_iso": "2026-10-11T19:00:00+00:00"
+  },
   {
    "title": "移民船転覆、109人死亡 アフリカ東部ジブチ沖 行方不明も多数 300人以上乗船か",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zOHVrcU14ZHV3ZVhDTTFDZjdObHZaRTMzRF8tNE5qOVNpRGJ1UmJxb3ZQV1BhMWdXTXA0ZHZHS2UxekljTnpFWHJuNm9tbEdWNkE0cGhSYm1kVkFsaXV0MmhOVzBNQkJVXzlQLXVQcXpMYjdybXc?oc=5",
@@ -36,14 +44,6 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EY1B5aDFJQ1JCZm1YdU1jN0sxSUx6aWs5cUlLWDN4YWFJS0tfM2EwM2hUTm1aS2xqU0pRM1NWTDVnaU90RXN2c3otSHRsQnNVdFg1bmJSNGY?oc=5",
    "source": "京都新聞デジタル",
    "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-11 20:38",
-   "published_iso": "2026-10-11T11:38:40+00:00"
-  },
-  {
-   "title": "【速報】ジブチ沖で移民船転覆、109人死亡",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBINVN5dnlsSjBZSGhuZDMxcU5vNU4wTUNENHRHa2pYMkpyLXVKRGdNRU9IajFaQWREYlVhNG5lUUZDNy1WUDNfWmVaVQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-10-11 20:38",
    "published_iso": "2026-10-11T11:38:40+00:00"
   },
@@ -120,28 +120,12 @@
    "published_iso": "2026-10-10T04:10:00+00:00"
   },
   {
-   "title": "“弁当難民”の助けに 佐世保市船越町「ＳＡＳＥＢＯ グルメ街道はな一」 イートインスペースも",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VnlYa3VOdzlEQ1NPZTMzR2pLQTNTZWZ6NUtnTl8ybnZ6eDBkSk1UMHEwQmtXemItdHV5NkhVWWYzMHFpRldVNm4zQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-10 11:30",
-   "published_iso": "2026-10-10T02:30:00+00:00"
-  },
-  {
    "title": "アメリカ政府、外国人労働者の永住権取得制度 マイクロソフトなどの利用凍結",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wUHRpd0UyQ3ByWWh2eUZlWC1ycHRBMFRiOGs1Y1pSbXJpRFBFVHlndURMM0Itdk8xNl9vRHgtQi1ENkdoM0EtdWYzRjRUM19DRVhVeUR4VWRDNFpoaU1tVW5GVW5TWTdmdHFoNU4yNVRoanZ5RHBlSUJn?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-10 09:15",
    "published_iso": "2026-10-10T00:15:10+00:00"
-  },
-  {
-   "title": "外国人研究者が見た「吉田神道」の広まりとは 京都市左京区の施設が支える「海外の視点」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yUUNDRHpJazdnSXMzTEpsWWJTd2N3U0xGZEZNOXo3ZGtINDRUZmRBVVF4a2RWSDM0aFh1RTI0M1RRN1M4QnhwUFZkem5yUFNTZW5nRFpQQzY?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-10 05:05",
-   "published_iso": "2026-10-09T20:05:00+00:00"
   },
   {
    "title": "タクシードライバー“上質なおもてなし”学ぶ 富裕層の外国人観光客へ《新潟》（2026年10月9日掲載）｜TeNY NEWS NNN",
@@ -168,6 +152,14 @@
    "published_iso": "2026-10-09T10:30:47+00:00"
   },
   {
+   "title": "江ノ電でどこへ？外国人おもしろ漫遊記『every.特集』（2026年10月9日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mQ2F2MXBVZ01JSWxMdmU2U1RQRThWTmNuTzlBVGN2TW9KVWNwNzRiNHVxNFpMWUZlMG9aMXFMYTBEa1d5cTVNa3gxelB6VEQ2eC1xcHNqZzIyUi11UEZxMVpLWmtZbE5ZTU96eTN1YmFlQ0djbTRYYg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-09 18:40",
+   "published_iso": "2026-10-09T09:40:00+00:00"
+  },
+  {
    "title": "「右折が難」外国人観光客のレンタカー事故が急増 福岡・糸島の人気観光地で物損事故が5割増 ルール違いに現場の苦悩と対策は",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZUUoxSVh3MGhNem54NVdFVXNTTFd5X3RoeG9mckN2YzFfci1jeFlaY1dNbVNORXRpYzVGQVRuYVBjTTUySXpiLVpBMjBLbXNpRTNoQUxHNA?oc=5",
    "source": "TBS NEWS DIG",
@@ -192,12 +184,12 @@
    "published_iso": "2026-10-09T08:14:00+00:00"
   },
   {
-   "title": "米NYでICE職員が男性に発砲 「断じて許されない」マムダニ市長が批判",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ejdtMUlpMlFjZVlkbWlxWmJPOUJUTzVXTWJyZ0h1bGg4Mkt2c3ZqNGJKVDE1QzBTMVpLUDJ1SUNQUEZ1MDEyelFORmNseHgwZXp0Z2NhaVBGLVlOZGtVMFc0c0FEUW1aVHVFV0QwWHUwbHFK?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-09 15:49",
-   "published_iso": "2026-10-09T06:49:22+00:00"
+   "title": "外国人旅行者に過剰な量の医薬品処方は「適切ではない」～糖尿病治療薬「マンジャロ」めぐり厚労相がコメント",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WdWRtc2loaW10eTNRZHVhRk5qZ0duUGNXOF9yTUFYbTYyQk5TSWZuSjhKVkkzazdJcTVsczNHNGJ0UjdlX2lDUG5zZDdSNnpId1NDLVRzTGRPelRKNENFLXNvOElPdGdiMXhXVTdRRk9kODl3bEVyWWhnUmU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-09 15:41",
+   "published_iso": "2026-10-09T06:41:00+00:00"
   },
   {
    "title": "『世界難民危機』小俣直彦著（岩波書店）",
@@ -254,6 +246,14 @@
    "source_domain": "jiji.com",
    "published": "2026-10-09 10:55",
    "published_iso": "2026-10-09T01:55:00+00:00"
+  },
+  {
+   "title": "激流にもまれる外国人労働者受け入れ業界 来年4月スタートの新育成就労制度、「嵐の前夜」の実像に迫る",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzOFp6Rk1kclAwY011aW1nYzFORUFENEkxOHl0NVVGSnBWMnVNWHo4Nk9sVHMwMHhIZzRLaTVjaG84amlPSVd4T1VxZWNIdEFkRDNWLQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-09 10:50",
+   "published_iso": "2026-10-09T01:50:00+00:00"
   },
   {
    "title": "米NYで移民当局が発砲し男性けが 車内には子どもも 周辺では抗議デモ",
@@ -368,14 +368,6 @@
    "published_iso": "2026-10-07T20:30:00+00:00"
   },
   {
-   "title": "京都市の飲食業者が困惑「貴重な人材」供給絶たれ配置計画に狂い 「特定技能1号」 外食受け入れ停止から半年",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tRnZlcVVueWtrckZtNGZyMlhHMEdiN0tKbnZnek01Z2xqY2VJeW00ZXhXZ2RXYzJtcXFONFRKanlaS21iR0ZSTjdPbG1YZUJRSkFHUFVJQTQ?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-08 05:17",
-   "published_iso": "2026-10-07T20:17:00+00:00"
-  },
-  {
    "title": "災害時、外国人らをどう支援？ 千葉県流山市で中学生が共助学ぶ 福島第1原発事故で避難経験の消防士ら講演",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFSGJ2bjZPUFlPbUxOLTE5TDJkY3B0YUZyc2F2OERsUUlQQVhHNS1Db3lQSFZZcnl5MkZsOWRTZ3hxT0dMalBMM2VTM2U0cTR0dnBR?oc=5",
    "source": "東京新聞",
@@ -406,6 +398,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-07 13:52",
    "published_iso": "2026-10-07T04:52:00+00:00"
+  },
+  {
+   "title": "深刻な関西の労働力不足、2050年に336万人 外国人材頼みも限界 育成と定着がカギ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSGs2UmIwcHBEbHE2VGJweWVjV05sZEYzY3hXOENjcXBvU0xnUGxZQl8tc0ZkS3B1N1A5NFN0V0o3VTVhdV9MMTd3MURDSm4wLUFlcVBwR3JidkxoMENjNWRPdHlVa21mWVZvVGt3Nl9QQWtJeWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-07 06:00",
+   "published_iso": "2026-10-06T21:00:01+00:00"
   }
  ]
 }
