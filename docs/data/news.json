@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T06:57:17+00:00",
+ "generated_at": "2026-10-12T16:34:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "移民船転覆、死者１３９人に",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6TjhjUlVVVWFQVmhQLS1JbmJYbjdZYVNKWmhDVWNEa25pd0dkc2NmYlNEU1FZaERNdXlGX1Nqd1ZjTG9ValZ6QjJkc0hEZzNtTzQyNVh4UFJjdTdEYW5IR0FiY2k?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-13 01:02",
+   "published_iso": "2026-10-12T16:02:41+00:00"
+  },
   {
    "title": "◎移民船転覆、死者１３９人に",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55X0FhX2dWMG55clZacDVOSm9IOTV2S1J0NDlVeU1sNDBlc0JZWHpYbDB3czFvUjN1Y0RRWjYwdEgyU1pqRFpDM1c3Qjhxck5UUnh0Vg?oc=5",
@@ -40,12 +48,12 @@
    "published_iso": "2026-10-12T03:49:23+00:00"
   },
   {
-   "title": "〈本音のコラム〉票のためなら 大矢英代（カリフォルニア州立大助教授）",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2aHJ3NjZpS3NKcnZOaERuMXNLcXV4YVpweWFGTm41WFowUUFSVngxdXZfa1NsNG9LalhoY0xpVEN3bmJrUHVIWlNrTzltZUxiRWNj?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-12 12:00",
-   "published_iso": "2026-10-12T03:00:00+00:00"
+   "title": "移民船転覆、139人死亡 ジブチ沖、定員超過か 職を求めてアフリカから脱出相次ぐ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sOV9KUmo2b2VJQkQ4Vko5ZmtfLTE2OWZLdk5ZRkwwNWJZdC1lV2RWa0dISm5LbXg2TWlDMHZZNlhfLWoxT1FTeHZCSVRPU1ZMSkVCendOMkFEalBnN2NtZllNOU9fOVhndjZjdG55OGR3eGhhSXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-12 10:52",
+   "published_iso": "2026-10-12T01:52:37+00:00"
   },
   {
    "title": "ジブチ沖移民船転覆 死者139人に 事故頻発も対岸イエメン経由の不法移民の主要ルート",
@@ -81,7 +89,7 @@
   },
   {
    "title": "外国人の人権考えて 在日2世が来月講演",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVEFEYjFxaXNJdW92LVh3aDJ0ZDJGZGdXMG9QaDc3U0hUZTc4dmlYWEJ5NDhQdi1QTzJmV0QxalBlR3pQZV9UMmNTTkdHenRmbUZ4VVhGWWg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvSlNLa1dKYmxZV0VLWFhPV1V2djdHejBaMTZVdlV4N0FVdHZMbmd1M0JWNGxJQXd6MDF5RmJkeGlBT0ZtTVpfVjEzcnRWeHNneHFpLWRoSUFEQQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-12 04:00",
@@ -102,14 +110,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-11 21:21",
    "published_iso": "2026-10-11T12:21:19+00:00"
-  },
-  {
-   "title": "移民船転覆、１０９人死亡＝１１６人以上が不明―ジブチ沖",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ay1GanZJX3g2OUZSekdQbmRqblU3NnRhUHpuc0J5MC1kYkkxN0xWdVRlalN0blcwbC03YjhwUzFvMTBmQmxMUWg1YWtrcjZwNTZiTg?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-10-11 20:54",
-   "published_iso": "2026-10-11T11:54:00+00:00"
   },
   {
    "title": "【速報】ジブチ沖で移民船転覆、109人死亡",
@@ -176,6 +176,14 @@
    "published_iso": "2026-10-10T16:05:00+00:00"
   },
   {
+   "title": "日朝国交正常化へ全国集会、長野 「多文化共生社会を目指す」",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9odHRvSU0yb05xaXVkS1NvT1lxVUFGbGpWRmpwaTdqbjBkQU9iWGZKU2VQUS1hZXlUSFcyNlpJLWZIU2tqQ3BWa2F1TVFpdk5CQVN2RGY0cTJvZw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-10 20:09",
+   "published_iso": "2026-10-10T11:09:17+00:00"
+  },
+  {
    "title": "福岡市で保守党の百田氏が街頭演説「外国人問題解決を」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yekh0V29vTFNiZWEwYjd3Zk5OZVV2dFRHalJFc1RLWXJza2gzeS0xdTcyQjFGcnJaVzdHYktqQ1FkdmdkelJ3bk16RUVXQkEzT3luYzhB?oc=5",
    "source": "西日本新聞me",
@@ -200,28 +208,12 @@
    "published_iso": "2026-10-09T20:00:00+00:00"
   },
   {
-   "title": "タクシードライバー“上質なおもてなし”学ぶ 富裕層の外国人観光客へ《新潟》（2026年10月9日掲載）｜TeNY NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRGlZdFdDVW9CQ3hIRUpNSXFia3JER1cwNWdrcVlKaFpJZWlqc0JLS1dvRmtWWmF5bUp3YXFrUEozZGhBdTNXcDR2NWpXa0F5M0JDYzBfTmZldkJMenR6MThaaU1WSnRZUmZ1c0ZYRTVNbFlfX2UyT1h3blhNMTFyeXBnc2kxN1RR?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-09 20:35",
-   "published_iso": "2026-10-09T11:35:00+00:00"
-  },
-  {
    "title": "不法就労240人あっせんか ベトナム人の女逮捕、入管法違反疑い",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWDBSWmR1UlhmX1lWZ1dTcUtWcEt5dy1xb1JHT0hoY2ZEbGEwT2o1SnV4RURVZzl5cjl2RkFXazFlYWk3Q0hQajhyek1IRlZMSGVsRndMdkdCYTcxWUlnNTZWemdHSDBCcFE3dA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-09 19:59",
    "published_iso": "2026-10-09T10:59:19+00:00"
-  },
-  {
-   "title": "パラスポーツで共生社会づくり アシックスが体験型講座 誰もが履きやすいスニーカー共同開発|経済ニュース",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93MlZMSTZKM2I4WDlyVHBhOHdaU0MxcHB2QnVKNm9NOFJpb2dsX0xaLWo5WHVCNk1TX3pzXy1QY0xlSE9aMjczeXpWdVhvYlhXU0RtRGRsUWhiWjhQa1lDY25NRVF4eE1RZUdUQ1B3?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-10-09 19:30",
-   "published_iso": "2026-10-09T10:30:47+00:00"
   },
   {
    "title": "江ノ電でどこへ？外国人おもしろ漫遊記『every.特集』（2026年10月9日掲載）",
@@ -233,7 +225,7 @@
   },
   {
    "title": "「右折が難」外国人観光客のレンタカー事故が急増 福岡・糸島の人気観光地で物損事故が5割増 ルール違いに現場の苦悩と対策は",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZUUoxSVh3MGhNem54NVdFVXNTTFd5X3RoeG9mckN2YzFfci1jeFlaY1dNbVNORXRpYzVGQVRuYVBjTTUySXpiLVpBMjBLbXNpRTNoQUxHNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwR082alN6dkFqY2xYSjlIZE5zMmstQ0g0YzVLbUpNSWlUcW1aZUdSRWNVZXRMUzU1ajVwblZfTC03dmNOVGw0ejh2S2hENVlpdWFTV2J4NTVmQWNWcDgySA?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-09 18:20",
@@ -272,30 +264,6 @@
    "published_iso": "2026-10-09T05:40:00+00:00"
   },
   {
-   "title": "インクルーシブ教育研究者野口晃菜さん 共生社会をつくるために",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRXNMdXAtOVczTi1TVnNPQUdaa2x0UkdlMVdzbmlvSUc5UEFKX1JxdG1pRUsyRFNpNDJhMjZkNW55WlFLbzZqSnEzNkVWeWMtdkJPTA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-09 14:31",
-   "published_iso": "2026-10-09T05:31:25+00:00"
-  },
-  {
-   "title": "移民捜査局発砲で１人負傷 米ＮＹ",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkVBdzBEZHdHODRUbjZuNGgtLUNSelRlZEdYMENvRWFqYTEyUHNpZVdVSFJwNXdockJVVUVXenpZV0YtWHFOcXFKajlRYk8yaHU5S2NGS2JJOEVpVHM5Z0g2YThBREdMN2FIemJKaG9CMnZwV05TeU5nZE5iQTZqbg?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-09 12:25",
-   "published_iso": "2026-10-09T03:25:00+00:00"
-  },
-  {
-   "title": "県内の外国人労働者数、ネパール人が中国人を抜いて２番目の多さに…１０年前３８４人→９５９４人",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12NlNLT1hiZVpaWllEUHVYQVJHS0UteGYyeWJiNVNJWW54dkJJb3M2akVoVUQxcDl5V3BHRGluOUdQc185YnhUeFZTRmx1aVQySXBSMk1mSngxVzVQbUVNZUx1M1NydTRzY1RISkFWR2FVQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-09 11:48",
-   "published_iso": "2026-10-09T02:48:00+00:00"
-  },
-  {
    "title": "高市首相、人口予測踏まえ外国人受け入れ規制 参政は上限導入要求",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcHBCY09jRkFkV2pUWExuTXRoanBGeXZEZEFLRUptY2lsNi1wc1JXejVnWXBHalpYVFJFV1ZNeWl6VUpzd0Ewd3dydlFDVldiU2pLYVVjdGZGTVJYeGtYRWIzSjhZMy1oWUR1Xw?oc=5",
    "source": "日本経済新聞",
@@ -310,14 +278,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-09 11:00",
    "published_iso": "2026-10-09T02:00:00+00:00"
-  },
-  {
-   "title": "永住権取得制度を停止 マイクロソフトやアドビなど一部企業に―米政権",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxM0VjUHZKa3U5eTVIME05STFTOFhXa1BHZndwVS1tMmRZS0lTSzFwN2taZlJybS1RRFZGeVZnUjV5SExvQnFDcXU0LVlsOUxTT3N1TmdrUkZSazhSTWR4MnMxZw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-09 10:55",
-   "published_iso": "2026-10-09T01:55:00+00:00"
   },
   {
    "title": "激流にもまれる外国人労働者受け入れ業界 来年4月スタートの新育成就労制度、「嵐の前夜」の実像に迫る",
@@ -368,14 +328,6 @@
    "published_iso": "2026-10-08T15:00:00+00:00"
   },
   {
-   "title": "対ＡＳＥＡＮ改善へ協力 ミャンマー難民送還も―マレーシア",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTFOWnRWNkJ5YlB1MUVPTV9qOTc2ZF8wd0taMUZZSEFCWDdoR25raVRVYzMydjVxNkxVVGk1dUstbVRYc19yNlotS3BlbjVyRWhGWHBfekhJVjhkdE9OeV8taW5SNlBXSTlPRGlOX1p2UURMOEpDeG9KaUNXaWVpMEZB?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-08 18:51",
-   "published_iso": "2026-10-08T09:51:00+00:00"
-  },
-  {
    "title": "特定技能外食受け入れ停止 人手不足の「給食」は別分野で再開へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wWXhLdkhjVjRGSFpuUC1MLXFqeXVmMGoyaXlIaGY0UXEzc3dNTzhZWDBXa0lzMXJDSnktSll6VEc1V1VNSURHRUctSDZFS21Eam9od1J2V2Rpdy1PRW9DSDdDVXczVlU5?oc=5",
    "source": "毎日新聞",
@@ -384,28 +336,76 @@
    "published_iso": "2026-10-08T09:41:20+00:00"
   },
   {
-   "title": "劇場、共に考える場に 仏の難民キャンプ描く舞台「ジャングル」上演",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwQmFNVXZHRmhVWlJfSGpqSUc0UW9oVFZDMG5HUXpqSFVRZnJOby1Ma2lQQ0hjd2VhczV2bXQxTEgxc3BPTHBXenFLdmNVWGN0bUZMTEhOSDM4WU50N0ZWQXlnMElsbEU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-08 14:00",
-   "published_iso": "2026-10-08T05:00:00+00:00"
-  },
-  {
-   "title": "移民3000人が野宿「耐えていればスペイン本土に行く機会も」 セウタへの流入長期化",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSmJfVEdtVDlVNTlHNjVCaEo2U25UcExZRWxoOHN4QTFIQWNIVUZkbkJlYURaX09HcE1OTnNjbllfUE5NX3RybllsVGd5ZEpoWldPT1VLT0txMUFPNF9QZ001UDlTNTZfYVZ4ZWxfSHJGQmVVV1E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-08 13:30",
-   "published_iso": "2026-10-08T04:30:00+00:00"
-  },
-  {
    "title": "外国人が総人口の3.1%、384万人に ベトナムが「韓国・朝鮮」超え",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YVHBkQ3I1VVo2MzNQd3V6RWpXUjQ3My1IRTNtV3dkLXZkT1F0RVFhUkQwSG1ZYUQtSHNVdUkzcmtQcEhfUFplYWZuRTNFVDdkTTJFQ3NRbnNsYmg2UUQxWHBmYmxjcThZaThLTQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-08 11:00",
    "published_iso": "2026-10-08T02:00:00+00:00"
+  },
+  {
+   "title": "NHK名古屋 多文化共生キャンペーン",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdzBmVVZMZGRvT2lQSUtnWDRtSFhBSjB4YjM0S3dpakpjd3lEcjVienl3UUhxSHdleHB2QlpoaHFWMGVvMThTSElwczVvbXl5M0tTVlAzc29fMTBua2FLT0YzLVI?oc=5",
+   "source": "NHK",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-10-07 17:00",
+   "published_iso": "2026-10-07T08:00:22+00:00"
+  },
+  {
+   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は令和9年末に受け入れ停止か",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-06 21:00",
+   "published_iso": "2026-10-06T12:00:00+00:00"
+  },
+  {
+   "title": "ミャンマー「親軍」大統領、マレーシア訪問 難民問題巡り首脳会談へ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMkkwd2JfZGNWRVFIWGRYVi1TQTh3Z2h1U2V0dm5reG93RVdvX1cyZFNSVk1TRzRsU3dGdFFJZFlpWnlfSTUtMzNCdmVldnhqdXhNdi1KRHB4bXMtZVpkVkx6MA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-06 19:32",
+   "published_iso": "2026-10-06T10:32:00+00:00"
+  },
+  {
+   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-05 05:00",
+   "published_iso": "2026-10-04T20:00:00+00:00"
+  },
+  {
+   "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-05 05:00",
+   "published_iso": "2026-10-04T20:00:00+00:00"
+  },
+  {
+   "title": "「特定技能」外国人、過去最多の４４万人 半年前から１３．８％増―６月末時点",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUnVoemhDNnhtenFld1ZmSF9zVVJRZzVGMlUwZXZOcFc3eFY0T3R3dENtUGpTY2JHdTVjUU85by1NV3Z2czlRZGVfMmszNzZ6NklSZzNQTzZLenlDR3RwNnNYOA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-09-29 16:00",
+   "published_iso": "2026-09-29T07:00:00+00:00"
+  },
+  {
+   "title": "「外国人を安く雇う時代は終わった」特定技能1号の新規受け入れストップで外食業界に荒波",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0TXU4TUp1NDFJeENTVDk2dDIxZS0xaWM4STVJSlVjTUZxUXNMeEFNU1BsV2pTX0l0SEFRdkJKNDRVQ2tOcGw0MFNNUmk3SnRuY19N?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-25 16:00",
+   "published_iso": "2026-09-25T07:00:00+00:00"
+  },
+  {
+   "title": "技能実習生が日本社会に溶け込むには不可欠なのに…講習施設の存続ピンチ 新制度では採算厳しく",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XWEZDSWNxQmFfcDkyVjkyZTlUdlNzQUdydXFBcGFTQ1JkN0I2c0U3anJuY0tvNVVUMHkxV2I2cDFtMzd5TGk1WnQ1X0R5UjhmVERN?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-09-23 16:00",
+   "published_iso": "2026-09-23T07:00:00+00:00"
   }
  ]
 }
