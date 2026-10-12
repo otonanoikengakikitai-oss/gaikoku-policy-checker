@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T16:34:59+00:00",
+ "generated_at": "2026-10-12T23:28:57+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,68 @@
  ],
  "items": [
   {
+   "title": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISDgwWXN4OW1vejMtVGlObzA4bWtOMnV5ZG9vM1FFSWJEYmwzNDVlaWNQUk1vNDRENS13ck5Qdnd4OUtFOGpBX1A3djdhejB3bG51STJkYVQ4S3JnQy1RQno5MWstMXJKMzRxVw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-13 07:38",
+   "published_iso": "2026-10-12T22:38:41+00:00"
+  },
+  {
+   "title": "米当局、民主党議員宅を捜索 中間選挙控え、政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kd3dFMUg4azdPeFFxbDQxdDlneTltSlFLYVg4TnkzaHJMVDAxbVlDVWlrRzcxOXc5MThBMUlBS2ZTTzlnYTgyUmRYMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-13 07:36",
+   "published_iso": "2026-10-12T22:36:00+00:00"
+  },
+  {
+   "title": "「どこが痛いですか」翻訳アプリ活用、外国人傷病者想定し救助訓練 姫路・飾磨消防署|姫路",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZEtpczRCaElLV2dQWTBUZ3JpOUgtR0NKNTdTYnMzTE02ZFJ0U0FHU29GN2FUQXFHLW91UDREMUNyYWVYRWlJWnFxdUpvQ2tuM2JZdlpoYWluTzNTR21HdVFoY2xRMmhWOVJwWg?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-10-13 05:10",
+   "published_iso": "2026-10-12T20:10:00+00:00"
+  },
+  {
+   "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-13 05:00",
+   "published_iso": "2026-10-12T20:00:00+00:00"
+  },
+  {
    "title": "移民船転覆、死者１３９人に",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6TjhjUlVVVWFQVmhQLS1JbmJYbjdZYVNKWmhDVWNEa25pd0dkc2NmYlNEU1FZaERNdXlGX1Nqd1ZjTG9ValZ6QjJkc0hEZzNtTzQyNVh4UFJjdTdEYW5IR0FiY2k?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-10-13 01:02",
-   "published_iso": "2026-10-12T16:02:41+00:00"
+   "published": "2026-10-13 02:32",
+   "published_iso": "2026-10-12T17:32:41+00:00"
+  },
+  {
+   "title": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeVVpbXNnNGJ2azFDdUtYV1pfZ05xdGI5ejhsckV2OVhCSjVuQlJvX0FybnNIY2xjeXhUZ1EtWEZ0YkVVWG9KaXpYcXRad0Jhd09XN2xURGpFZUJjX3l2OXdjRHRZZm1xMGVaMHczYUJVYjN1Vmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-12 23:57",
+   "published_iso": "2026-10-12T14:57:22+00:00"
+  },
+  {
+   "title": "米民主議員宅を捜索と報道 移民対策批判で政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TMjZMRTFVVjFJUXExZ1dzV0dIOVJIeE92YkJERHBOeVd0UmFXRVpZbTRPSVVoLWVpa1BMbUVLR25JZFdVTmZKYlRQSUsxU1FYT2NSRDF3NlEtQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-12 23:18",
+   "published_iso": "2026-10-12T14:18:28+00:00"
+  },
+  {
+   "title": "米、民主党議員宅捜索 中間選挙控え、政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLU3NYZXVIRmZITnNXQlg5dzVoaDhWc0lOb2J1ZE9GWUc3dUdWTDBMcUhZYjVTeGtBbnRMckhBRHdEaTBHVkYwRlBsOEE3dUxiS0lnYzBR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-12 23:09",
+   "published_iso": "2026-10-12T14:09:02+00:00"
   },
   {
    "title": "◎移民船転覆、死者１３９人に",
@@ -80,14 +136,6 @@
    "published_iso": "2026-10-11T21:21:26+00:00"
   },
   {
-   "title": "住民数 初めて2万人超え 10年間で倍増＜データde福島 2026知事選挙 外国人＞",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByQ0dSZEtMQkI4WVJjRFRCZjJzczAzaHNPUU94UlpySlpsUW9PUDBJNWlkUV96UmItM09hYlR0RDRVeW5uemZ0cW1tTG9yVGpSVUVpTHZhNVZraTA?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-10-12 06:00",
-   "published_iso": "2026-10-11T21:00:00+00:00"
-  },
-  {
    "title": "外国人の人権考えて 在日2世が来月講演",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvSlNLa1dKYmxZV0VLWFhPV1V2djdHejBaMTZVdlV4N0FVdHZMbmd1M0JWNGxJQXd6MDF5RmJkeGlBT0ZtTVpfVjEzcnRWeHNneHFpLWRoSUFEQQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -134,14 +182,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-11 20:23",
    "published_iso": "2026-10-11T11:23:08+00:00"
-  },
-  {
-   "title": "VIVANTコラボSP4日目 外国人×ニッポンのスゴイところ 日本のマクドナルドに感動 ヴィジュアル系バンドや相撲に熱狂【それスタ】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oeGZqN1hoQTNXMmtYNzdoelRLNVRfem9BTzg2cDF0QlpxeEd4MVQ2bjY4bmh5RTA2VWh0VS15d1R3c3p3XzJCbFdDZmZxaXZITVp6ZklFaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-11 18:00",
-   "published_iso": "2026-10-11T09:00:51+00:00"
   },
   {
    "title": "外国人の労災事故なぜ多い？ 技能実習生の指切断訴訟から見える現実 [千葉県] [外国人]",
@@ -198,6 +238,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-10 09:15",
    "published_iso": "2026-10-10T00:15:10+00:00"
+  },
+  {
+   "title": "「歴史ある京都で研究できてよかった」 外国人研究者が見た「吉田神道」の広まりとは",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yUUNDRHpJazdnSXMzTEpsWWJTd2N3U0xGZEZNOXo3ZGtINDRUZmRBVVF4a2RWSDM0aFh1RTI0M1RRN1M4QnhwUFZkem5yUFNTZW5nRFpQQzY?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-10-10 05:05",
+   "published_iso": "2026-10-09T20:05:00+00:00"
   },
   {
    "title": "宮崎：ユダヤ難民救った外交官 佐土原出身・根井三郎 資料展示室完成、功績を紹介：地域ニュース",
@@ -288,14 +336,6 @@
    "published_iso": "2026-10-09T01:50:00+00:00"
   },
   {
-   "title": "米NYで移民当局が発砲し男性けが 車内には子どもも 周辺では抗議デモ",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kUWx4V3J1TEFQT2xWQmVRWkRFTk9LN25fNnMzdlQyMVo4SVpxZjFEXzRpdGJYZ3R4ZHpiUnlyRDJ1NHJweXZCdUhnUE04R09SUkxIckdNUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-09 10:29",
-   "published_iso": "2026-10-09T01:29:21+00:00"
-  },
-  {
    "title": "外国人技術者の永住権取得制度 マイクロソフトの利用を停止 バンス副大統領「米国人を解雇し、代わりに外国人を雇うことは許されない」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQXdBQVB6V1FBQmRhLW5xVnc4cVVhRW96ZkdCckxxNmFCTEpRTVRXeGphS1ZyLVFYYmxvNk5XM0JWUktEMVJTRzVGcnNpWDhSZFNpaVBENA?oc=5",
    "source": "TBS NEWS DIG",
@@ -320,12 +360,12 @@
    "published_iso": "2026-10-08T16:24:07+00:00"
   },
   {
-   "title": "就労資格のない外国人を働かせたか 海の家経営のトルコ国籍の男逮捕 愛知・南知多町（2026年10月8日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ01QUWlmMGhwcWdVTzc4aW1kRVJmM3dTaGVIa1FaaHFmVVhfWV9YWG9kU19ockJyVjkwNVFEcndxT0gxUVd0OXNPaE5zaFo1THR6b3pSdXFWaWd1U1ZDUGNsWmM3ZURUcXdBT1pMQUR6eE16aUFENjZnS1hRQWFNNVo3eU11Y2c?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-09 00:00",
-   "published_iso": "2026-10-08T15:00:00+00:00"
+   "title": "対ＡＳＥＡＮ改善へ協力 ミャンマー難民送還も―マレーシア",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTFOWnRWNkJ5YlB1MUVPTV9qOTc2ZF8wd0taMUZZSEFCWDdoR25raVRVYzMydjVxNkxVVGk1dUstbVRYc19yNlotS3BlbjVyRWhGWHBfekhJVjhkdE9OeV8taW5SNlBXSTlPRGlOX1p2UURMOEpDeG9KaUNXaWVpMEZB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-08 18:51",
+   "published_iso": "2026-10-08T09:51:00+00:00"
   },
   {
    "title": "特定技能外食受け入れ停止 人手不足の「給食」は別分野で再開へ",
@@ -344,6 +384,14 @@
    "published_iso": "2026-10-08T02:00:00+00:00"
   },
   {
+   "title": "京都市の飲食業者が困惑「貴重な人材」供給絶たれ配置計画に狂い 「特定技能1号」 外食受け入れ停止から半年",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tRnZlcVVueWtrckZtNGZyMlhHMEdiN0tKbnZnek01Z2xqY2VJeW00ZXhXZ2RXYzJtcXFONFRKanlaS21iR0ZSTjdPbG1YZUJRSkFHUFVJQTQ?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-10-08 05:17",
+   "published_iso": "2026-10-07T20:17:00+00:00"
+  },
+  {
    "title": "NHK名古屋 多文化共生キャンペーン",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdzBmVVZMZGRvT2lQSUtnWDRtSFhBSjB4YjM0S3dpakpjd3lEcjVienl3UUhxSHdleHB2QlpoaHFWMGVvMThTSElwczVvbXl5M0tTVlAzc29fMTBua2FLT0YzLVI?oc=5",
    "source": "NHK",
@@ -358,54 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-06 21:00",
    "published_iso": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "title": "ミャンマー「親軍」大統領、マレーシア訪問 難民問題巡り首脳会談へ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMkkwd2JfZGNWRVFIWGRYVi1TQTh3Z2h1U2V0dm5reG93RVdvX1cyZFNSVk1TRzRsU3dGdFFJZFlpWnlfSTUtMzNCdmVldnhqdXhNdi1KRHB4bXMtZVpkVkx6MA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-06 19:32",
-   "published_iso": "2026-10-06T10:32:00+00:00"
-  },
-  {
-   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 05:00",
-   "published_iso": "2026-10-04T20:00:00+00:00"
-  },
-  {
-   "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 05:00",
-   "published_iso": "2026-10-04T20:00:00+00:00"
-  },
-  {
-   "title": "「特定技能」外国人、過去最多の４４万人 半年前から１３．８％増―６月末時点",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUnVoemhDNnhtenFld1ZmSF9zVVJRZzVGMlUwZXZOcFc3eFY0T3R3dENtUGpTY2JHdTVjUU85by1NV3Z2czlRZGVfMmszNzZ6NklSZzNQTzZLenlDR3RwNnNYOA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-29 16:00",
-   "published_iso": "2026-09-29T07:00:00+00:00"
-  },
-  {
-   "title": "「外国人を安く雇う時代は終わった」特定技能1号の新規受け入れストップで外食業界に荒波",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0TXU4TUp1NDFJeENTVDk2dDIxZS0xaWM4STVJSlVjTUZxUXNMeEFNU1BsV2pTX0l0SEFRdkJKNDRVQ2tOcGw0MFNNUmk3SnRuY19N?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-25 16:00",
-   "published_iso": "2026-09-25T07:00:00+00:00"
-  },
-  {
-   "title": "技能実習生が日本社会に溶け込むには不可欠なのに…講習施設の存続ピンチ 新制度では採算厳しく",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XWEZDSWNxQmFfcDkyVjkyZTlUdlNzQUdydXFBcGFTQ1JkN0I2c0U3anJuY0tvNVVUMHkxV2I2cDFtMzd5TGk1WnQ1X0R5UjhmVERN?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-23 16:00",
-   "published_iso": "2026-09-23T07:00:00+00:00"
   }
  ]
 }
