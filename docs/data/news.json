@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T11:09:48+00:00",
+ "generated_at": "2026-10-14T16:30:54+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,16 +8,16 @@
  ],
  "items": [
   {
-   "title": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uT2hNV3A2dF9RWHJvRWxxT3RLYnN3X3NXdEw1ZFB1LS0teV9sbDZEa0ZOZ25Ea3kxb1d2Ml9rcnRzYm1aamRxTklkNmxYUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-14 19:51",
-   "published_iso": "2026-10-14T10:51:21+00:00"
+   "title": "【やさしい日本語】外国人(がいこくじん)の 生活(せいかつ)を 手伝(てつだ)う「共生(きょうせい)コーディネーター」",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nRUJkZTc5WmNDazZhdlhuQkJOMkxkZm5mTnRxWk5JZUk3dHkzMHkwZVF2amYtQ1dMRU82WWRkZV9kTHVDMl9Yc2ppcjNKeE1URVlodVp3?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-14 22:00",
+   "published_iso": "2026-10-14T13:00:00+00:00"
   },
   {
-   "title": "外国人留学生対象の就職イベント 「より多くの優秀な外国人材を」香川県が企画（2026年10月14日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Nam44X1FQWmRTRTVyQ2hXRG1jaVhfUzd5dlE0SlpFd3BJdGdVb0JvYWRLMHdmT1VRdzZvZ2tCRkRQeUdiRk5JU2Fld3dWLVptbGRtS2t1XzdvWHpsbDRaQkFtLTdoNjViVjFjNnZjQ2I0ZU9Dams5Z3c3RjZkRG8?oc=5",
+   "title": "外国人留学生対象の就職イベント 「より多くの優秀な外国人材を」香川県が企画（2026年10月14日掲載）｜RNC NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa01JTDRVMEFweDJoel95S2RiaDZIU2VUZ00yLVdfM29LLTFGTnVZZ1FLODlmYjlNd0xsaVZsOVFwS09RRkhyelVWM2JvbUROUnpsM2hMemhDWE9ZVGxRYUNEa0xwR29RZjB1NmlhZ2p1SUE5bUtJUjBFOFNPV1pzNkNpZkFMczA?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-10-14 18:53",
@@ -72,12 +72,28 @@
    "published_iso": "2026-10-14T03:55:00+00:00"
   },
   {
+   "title": "転換期迎える日本語教育の現場、課題やハードルは？ 栃木県唯一の文科省認定校に迫る",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YUmxvQ2c2MnM4NjVsVHBkam9oUFpCQ2MyeFBtYnpqdHZpVVV5bnFqZUZhNjQtQjBTWkFfSWlEMGxVN2FjT21fZjRPdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-14 11:32",
+   "published_iso": "2026-10-14T02:32:30+00:00"
+  },
+  {
    "title": "スペイン国王、移民危機のセウタ初訪問 不法入国は「EUの脅威」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSDBmUU5UZ1Z1YUc5c2tDTzlqQjllMzRCOGFhUDdZal9TMHYzYVZzTzhnallBTkRxcmF2Yml1bTJrTVV6YkdQLWVEbnhwT2dTM1UxMERqQVNIZTRBMHc0S3JaalJVM0dVc05qQQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-14 11:00",
    "published_iso": "2026-10-14T02:00:00+00:00"
+  },
+  {
+   "title": "プレスリリース：［東京・年末特別セミナー］「育成就労の監理支援機関」と「新要件の登録支援機関」、4月1日までの抜け漏れを防ぐ最終整理セミナー、12月15日開催（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBMVhYQno1YXQ5WTZPdkd3SlVHcFVscUFVQXdHamhFM1BlNTVnd1dfR3VvNEJXeFhWUWMtRUZPLXNEQXptcHpRVThmQUNZWnNRN1BIWDRXYWdBVl9DNU1leWZHV2tJbWdl?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-14 10:53",
+   "published_iso": "2026-10-14T01:53:22+00:00"
   },
   {
    "title": "NEC、川崎区の外国人住民に多言語でアンケート 共生社会へ実証実験",
@@ -88,20 +104,20 @@
    "published_iso": "2026-10-14T01:45:30+00:00"
   },
   {
-   "title": "在留外国人の増加を背景に、企業や学校の現場から「やさしい日本語」を考える",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TLWRJdnR3dnZYcGhtRmQ1VHYwa014MHdGb2o3bkZkdWN4dVVYNkdua2hhXzFCcTZycDhuNV93VjJvczdmOXVZdE52ekJyQlBOX1hUZDF1Rl9aQ01YRVBxN2dfUHZrY2VQRy1ySG1NTlU0OUxMZUNIMG8tQQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-14 08:00",
-   "published_iso": "2026-10-13T23:00:00+00:00"
-  },
-  {
    "title": "［大分県］外国人共生の架け橋に 5振興局にコーディネーター",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZ3NFWWR0NEJ4d1NqU1FYUU9YNkR3anlNeDlaeWtJM1Y1TmliQlBnWVNLTzMtQWlQQUlsZm00ZjN3UVJhRERLbmQwUTVkX0dqd2ZtdVdn?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-14 06:00",
    "published_iso": "2026-10-13T21:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権の不法移民「史上最大の強制送還」、建設現場から消えた労働力…看板政策が招いた「逆風」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abVFLWW5VM0FKQjVTalRUUzRmaU5vS3FHeThEZVNlYUxvN3lycmhWR0ZnUmNTUTBFLXY4ZnlIYUlOb1FBZDktNUE1cjRYX3BfeW42bjlQQi1UTUpzQ2R2YkhR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-14 05:00",
+   "published_iso": "2026-10-13T20:00:00+00:00"
   },
   {
    "title": "「米国が大事にしてきた『多様性』が台無し」トランプ政権の移民政策に嘆き…移民頼みだった介護の費用が高騰",
@@ -166,6 +182,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-13 19:09",
    "published_iso": "2026-10-13T10:09:01+00:00"
+  },
+  {
+   "title": "PGT HOLDINGSグループ企業「JAVICO」、育成就労のベトナム暫定送出機関リストに掲載",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuV0lpODBZNlF3UGR1WlhZUzdXdk9kN05aMHlidk9hOUFLMFo4WHFjcGJSSDR6OWhLR2Vhc2JTSVZiSGlIY18xLU9xeVJtVWRnWHZKYVZFYWFEcjU1TTdyNm5xeXhHcnJ3dmJB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-13 18:40",
+   "published_iso": "2026-10-13T09:40:00+00:00"
   },
   {
    "title": "川崎区役所・NEC・ダイバーシティ研究所、外国人住民向けニーズ・アセスメントに関する実証実験を開始",
@@ -372,8 +396,8 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
-   "published": "2026-10-06 21:00",
-   "published_iso": "2026-10-06T12:00:00+00:00"
+   "published": "2026-10-06 16:00",
+   "published_iso": "2026-10-06T07:00:00+00:00"
   },
   {
    "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
@@ -382,30 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-05 16:00",
    "published_iso": "2026-10-05T07:00:00+00:00"
-  },
-  {
-   "title": "育成就労とは 外国人を育成・確保、技能実習に代わり2027年創設",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MXzNoY0MxSXMtTDNzOW9NbHNDa2I4VFl4ZEpHbUR5VU5KODNWLUg4WE1DWmJxQi01cnRlOF8zVkxEMXY5aEhQdllUd2xzQ0lGZXVpTHg2WkloaHY2ejdUaDNQVjlVUDFNOHhHNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 16:00",
-   "published_iso": "2026-10-05T07:00:00+00:00"
-  },
-  {
-   "title": "「特定技能」外国人、過去最多の４４万人 半年前から１３．８％増―６月末時点",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUnVoemhDNnhtenFld1ZmSF9zVVJRZzVGMlUwZXZOcFc3eFY0T3R3dENtUGpTY2JHdTVjUU85by1NV3Z2czlRZGVfMmszNzZ6NklSZzNQTzZLenlDR3RwNnNYOA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-09-29 16:00",
-   "published_iso": "2026-09-29T07:00:00+00:00"
-  },
-  {
-   "title": "「外国人を安く雇う時代は終わった」特定技能1号の新規受け入れストップで外食業界に荒波",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0TXU4TUp1NDFJeENTVDk2dDIxZS0xaWM4STVJSlVjTUZxUXNMeEFNU1BsV2pTX0l0SEFRdkJKNDRVQ2tOcGw0MFNNUmk3SnRuY19N?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-09-25 16:00",
-   "published_iso": "2026-09-25T07:00:00+00:00"
   }
  ]
 }
