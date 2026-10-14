@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T20:26:19+00:00",
+ "generated_at": "2026-10-14T23:39:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "病院にかかる外国人 映像通訳で予約・受診が円滑 札幌市の通訳支援システム",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByMWVUbGdHRUhZR0wzTTdSN0NlYnhmQWRvbEtPU3dLRkFjN0RBNjRIQVhTNUYzMTRnLVVTTjRuRVRIS3hMdHNIUC1QVVJVTkhYeHJMVFR6cFd6QjVjd2NHbThFMlk?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-15 08:00",
+   "published_iso": "2026-10-14T23:00:00+00:00"
+  },
+  {
+   "title": "福岡地裁 - 「外国人差別へ抗議で暴行」 福岡の男性がデモ参加者に賠償求め提訴 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16R1dhWkl2MG0wZkVWWDBNYzlLODNfZlB3eHBDWjZCM3VraXNGRno2VXlmUHZHeFk3YU1OeG9DYTNjQ2QzNnVjUkFCOU0wY0lGVXRaeUhGOA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-15 06:05",
+   "published_iso": "2026-10-14T21:05:58+00:00"
+  },
+  {
+   "title": "「外国人差別へ抗議で暴行」 福岡の男性がデモ参加者に賠償求め提訴",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5WTV5d3EtV21LcUFnNVNFVXJMeVlGSE5zVnJLYmZRdGJ6Z2lKSi1mRlM5LUxxdWFOc01JeDBWUlNZSXV3czdXeEdlVzByQ0xlcjlXSHpR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-15 06:00",
+   "published_iso": "2026-10-14T21:00:00+00:00"
+  },
   {
    "title": "増える外国人遍路、四国に宿30軒整備へ 京都新興が旅アプリも開発",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lQjY2QU1sa0xWOFRZXzBjZVhmMmpUNFdiZVV2MF85LUpqanEwLXpKTC1mZWtXaW1CNlI0UWdHVkNlSTBtN2V5T1drRUZVVkZJSnoxTzVJeFl2SF9zSS05MFNPQlVIeDQyallnMw?oc=5",
@@ -184,14 +208,6 @@
    "published_iso": "2026-10-13T10:09:01+00:00"
   },
   {
-   "title": "池田ワイン城で在留外国人向け見学会 輸出拡大へSNS発信期待",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rZENvVGFDUkpUY0pQcXpXSGc3dXYwSVJUNlVwOVFab3o4b1c3dnRlNmNhR0NnbF83M2otT2ZEZ1AyY0xzWS01UzgzMA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-13 16:23",
-   "published_iso": "2026-10-13T07:23:16+00:00"
-  },
-  {
    "title": "川崎区役所・NEC・ダイバーシティ研究所、外国人住民向けニーズ・アセスメントに関する実証実験を開始",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QaDJDdmhwc0MwOVlfQ1hqOTJ6R1FTYnFqa0g5RV9UR3RUaHVjaVBUc19sNHVRaWF2WmJYYXhMSWRjT1dWMUpDTk13RTN2S3BtSDRkdmgxaEJpVzFJcmdiY0JtNG5kVzlIMDMyTw?oc=5",
    "source": "日本経済新聞",
@@ -240,20 +256,20 @@
    "published_iso": "2026-10-13T02:47:00+00:00"
   },
   {
-   "title": "民主党イスラム系女性下院議員の自宅を捜索 “移民手続きに関わる不正” アメリカ当局 中間選挙直前で民主党側は強く反発",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMT2dJcklnSDhxOFVTOTJLWWRrNHU3X0J5UnpUVHZXUy1zdFVhMGw5eTZhQlhDWEttdjVicnBnVi1Sc1hkRnhuejA2cFU1Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-13 10:39",
-   "published_iso": "2026-10-13T01:39:00+00:00"
-  },
-  {
    "title": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISDgwWXN4OW1vejMtVGlObzA4bWtOMnV5ZG9vM1FFSWJEYmwzNDVlaWNQUk1vNDRENS13ck5Qdnd4OUtFOGpBX1A3djdhejB3bG51STJkYVQ4S3JnQy1RQno5MWstMXJKMzRxVw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-13 07:38",
    "published_iso": "2026-10-12T22:38:41+00:00"
+  },
+  {
+   "title": "米当局、民主党議員宅を捜索 中間選挙控え、政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04MFkzd21jZ1pyMzNHUmdzRDhOQlRLVy1GbGpFbnhYZHBERFJBNnhWd2UyZlNJd0ZZNl9rVk4zWVF0NVo1M0RKOGgzUDRmSjhLa09J?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-13 07:06",
+   "published_iso": "2026-10-12T22:06:00+00:00"
   },
   {
    "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
@@ -390,22 +406,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-10-07 17:00",
    "published_iso": "2026-10-07T08:00:22+00:00"
-  },
-  {
-   "title": "特定技能、外食業以外もリミット迫る 約60％の介護と航空は令和9年末に受け入れ停止か",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51UUFncTd3dUhPRkExR1VUbXVveFZfQVNnXzBGa2t0ZW5FRHo4Ul9IcXRhek5HSVROejMzU0U2YVNLU0tPdVRQbjhiUF8xNENQVVhPaTZXMWhWbktjX090Vjk4TGI0Z0FFS2ZqNERmMV9UWVZfelE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-06 21:00",
-   "published_iso": "2026-10-06T12:00:00+00:00"
-  },
-  {
-   "title": "27年春開始の育成就労、日本語教育の受け皿7500人分 来日は年15万人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWmJRU0dUclotMHRnby1MWG1IWVVCSjJ3dkVlOHVobFlZYVVSZ0c4Vk9YY0NTbUVlNkZqNk9VSTlneFpBUjFpTllpWTRGSHNNczN1dnF5QWR3MzVVaUloM1pWNm1LRzJBZmNMVg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-05 16:00",
-   "published_iso": "2026-10-05T07:00:00+00:00"
   }
  ]
 }
