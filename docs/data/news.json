@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T23:39:50+00:00",
+ "generated_at": "2026-10-15T03:10:03+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "“卒級者”500人、27カ国に 外国人児童生徒の日本語など学び支える小山市の「かけはし」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqd0VOdXBBeHBteXlJVzRXYlZzRDI4Y0dJQ2g5QTBTOFNBOWZ3dmZSbFE2U2hRNFAwWWQxZnIyTjhmMzZub2R6WUxKOA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-15 11:30",
+   "published_iso": "2026-10-15T02:30:00+00:00"
+  },
+  {
+   "title": "「外国人材育成システム」が2026年度グッドデザイン賞を受賞",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fYXp4RHNQbjY5eDM1bXlMNVNFUnFDZ0RJOW1XREZqZklxWF9MUGgyZ05yM3QwaDJianY2S1ZJZ2kyaG5hazBveWdxRU40UkZTbFRITW8wbldKd09zZnBfUXlSZ0gxdDgzYVRr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-15 11:16",
+   "published_iso": "2026-10-15T02:16:00+00:00"
+  },
+  {
+   "title": "外食で外国人材5万人争奪戦 新規の「特定技能」停止、半年で求人3倍",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MYmVXcWUyU2hGZ3JodHNjYUljQVFoR3c5VktmdHFFZWJwUjQyWG53c2RqcndlQ1Z1TWdSNEhSWFkyS3BhdXJHNTMyTjl0dmhQVTk0dDY1ZXdfNDRsMERGM0lJS2syYTZIUUI1aA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-15 11:00",
+   "published_iso": "2026-10-15T02:00:00+00:00"
+  },
+  {
+   "title": "子ども服、難民の「力」に 英心高桔梗が丘校生が活動 名張市役所などに回収箱、持ち込み呼びかけ ／三重",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zOUpCaGJhelBxdnFhMjlNNjRxQlZGU1FENVlXSkN2WGZDUmpDNk9TTDdGb0tBdkVmTzFMT1NCU1ZYaXlKWWtmM2ZoaVd0SjZtTWkySUlWazN1a0R4QS1BcmJER2FldWdu?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-15 10:48",
+   "published_iso": "2026-10-15T01:48:11+00:00"
+  },
+  {
+   "title": "京都市認定通訳ガイドの認定式 研修終えた新たなガイドが外国人観光客を案内へ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TbC1MMGJkYVloR0VkYVk5d1p0V2hrT3NjZW5YVXRZb0dpTkpZbXd4RzMxbVg4RERUeWNPVlFlbkZRM2JIdENETlZYNUZLdmxwX0VFZXNKbEl6RENvR2lvVlB0MFdHcGtlMFFVOGxQcEJmdF85OEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-15 10:26",
+   "published_iso": "2026-10-15T01:26:59+00:00"
+  },
   {
    "title": "病院にかかる外国人 映像通訳で予約・受診が円滑 札幌市の通訳支援システム",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByMWVUbGdHRUhZR0wzTTdSN0NlYnhmQWRvbEtPU3dLRkFjN0RBNjRIQVhTNUYzMTRnLVVTTjRuRVRIS3hMdHNIUC1QVVJVTkhYeHJMVFR6cFd6QjVjd2NHbThFMlk?oc=5",
@@ -88,20 +128,20 @@
    "published_iso": "2026-10-14T06:39:12+00:00"
   },
   {
+   "title": "外国人が楽しく学ぶ 地震で中断していた日本語教室が再開【令和８年熊本地震】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uT2hNV3A2dF9RWHJvRWxxT3RLYnN3X3NXdEw1ZFB1LS0teV9sbDZEa0ZOZ25Ea3kxb1d2Ml9rcnRzYm1aamRxTklkNmxYUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-14 15:00",
+   "published_iso": "2026-10-14T06:00:00+00:00"
+  },
+  {
    "title": "鹿児島県が2億円超かけた外国人向け新幹線助成、出足鈍く 「かごしま観光応援割」9割超と明暗",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHMTNzZmhrNHBqYlFMdEMwOXVLMVhEc3dPVGdGT2xONmd4UnZaaVYwY3hYeGtlQW5LWk9UQW9aYnJBOTZrS3ZONlNWYnowUQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-10-14 14:12",
    "published_iso": "2026-10-14T05:12:00+00:00"
-  },
-  {
-   "title": "岐阜・関の刃物まつりに19万人 日本刀鍛錬に外国人観光客ら歓声：ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hc01IekRtTmIyNUkyXzBVaTFmRUN2dWNYU1UtWUdrZ0M4aDFkeDhEUnc2Mm1mUzBncWUyTmhZczJKZTJWSEVLdjk2bFE1RU80djN4dksxeWJULVdBbks4?oc=5",
-   "source": "中日BIZナビ",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-14 12:55",
-   "published_iso": "2026-10-14T03:55:00+00:00"
   },
   {
    "title": "転換期迎える日本語教育の現場、課題やハードルは？ 栃木県唯一の文科省認定校に迫る",
@@ -142,6 +182,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-14 06:00",
    "published_iso": "2026-10-13T21:00:00+00:00"
+  },
+  {
+   "title": "トランプ政権の不法移民「史上最大の強制送還」、建設現場から消えた労働力…看板政策が招いた「逆風」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1abVFLWW5VM0FKQjVTalRUUzRmaU5vS3FHeThEZVNlYUxvN3lycmhWR0ZnUmNTUTBFLXY4ZnlIYUlOb1FBZDktNUE1cjRYX3BfeW42bjlQQi1UTUpzQ2R2YkhR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-14 05:00",
+   "published_iso": "2026-10-13T20:00:00+00:00"
   },
   {
    "title": "「米国が大事にしてきた『多様性』が台無し」トランプ政権の移民政策に嘆き…移民頼みだった介護の費用が高騰",
@@ -225,7 +273,7 @@
   },
   {
    "title": "外国人５％超は１３２市区町村 ５年で２．５倍、地方にも拡大―国勢調査",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHU0WnR1RjdzNGZPd1FiUmJwbGx5Nl9VREZMRjNzcndNZzBpSlBTWVVDMS04MmVrS1ktRC1FcUpzcWE4MU9GcHd3SkFjbTdlZm9obXlCRTdhQWktSWs5bFQ1WHNMeWJyRF9ydnJjZEVQZUpLdGZhT3lVTVRESUszMTd3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvQUp3Q3pvT1NSdXB4bWlIVTZPUExJZldlU2R0el9USjZ2eXVMR2dvTElCakoxSkQtRXN6RVh4c3NmaUd0NWpxZTVGanM0NHlxODhJaTNpclhjUWlwVi02SVVhZw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-10-13 14:28",
@@ -286,6 +334,14 @@
    "source_domain": "jiji.com",
    "published": "2026-10-13 02:32",
    "published_iso": "2026-10-12T17:32:41+00:00"
+  },
+  {
+   "title": "【ニュースto】富士山周辺で“レンタカー事故”急増 ｢もう数えきれない｣住宅の塀は補修跡だらけ…背景に外国人ドライバーと民泊",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGQ4bk1aVVdzYkZCWHpmRHRYRmFvYno3b0pzWDdSNjZKZWlDeXlDbGphalN4Z0Q1TDFxMGJIblJETDNKMlYySzNvTjRDMXA0TlVyQXdXRDZxcEdBNWJiTmpONWRuQmtQMGM4UzdhZktsNlIzYmpuMldjV193MjhZQV9sMVluRkk?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-12 23:57",
+   "published_iso": "2026-10-12T14:57:00+00:00"
   },
   {
    "title": "米民主議員宅を捜索と報道 移民対策批判で政権と対立",
@@ -350,62 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-11 20:23",
    "published_iso": "2026-10-11T11:23:08+00:00"
-  },
-  {
-   "title": "外国人の労災事故なぜ多い？ 技能実習生の指切断訴訟から見える現実 [千葉県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFZVo5QUdwNlJ0WVJPbHhUYjg0WEx1X0hQMVZVcmtZdlJEckg1ZnJEMHJlc0hQNUhTUGlYZ05wVmpyek1PNDB3WkIyYlBodEl5NHlUTHFrM1JRdGR2eVRhejBlb1FHNk0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-11 12:00",
-   "published_iso": "2026-10-11T03:00:00+00:00"
-  },
-  {
-   "title": "物流業界で外国人運転手の採用拡大、「特定技能１号」認定契機…「日本の交通ルールへの十分な理解必要」",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00c2VvTFctSUY5SXpETkRXNUNvcllkdjlDaHFLUTUzLUVBM1NTR1hWa3R4cG54aHVxcjNETER5aUE5eDltYWhmNTN6ZmdlMFVLeGkwc1RxWXp6N2ZRaU9uN1VrWTI?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-11 05:00",
-   "published_iso": "2026-10-10T20:00:00+00:00"
-  },
-  {
-   "title": "外国人運転手 物流で拡大 「特定技能１号」６０００人超合格 人手不足解消策 交通安全課題",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSb0oydTg5dlRxNExKZU1hM1dtZHhnV2RKNmg2aXZSR0hic2R3cGxySUpCaG5xbDBlVHREdXdqazB1V1Bua3lLNzdjLVR1aXhyLVloSlJhZVRobFZkenVIdUNGdw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-11 05:00",
-   "published_iso": "2026-10-10T20:00:00+00:00"
-  },
-  {
-   "title": "高市首相、人口予測踏まえ外国人受け入れ規制 参政は上限導入要求",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hcHBCY09jRkFkV2pUWExuTXRoanBGeXZEZEFLRUptY2lsNi1wc1JXejVnWXBHalpYVFJFV1ZNeWl6VUpzd0Ewd3dydlFDVldiU2pLYVVjdGZGTVJYeGtYRWIzSjhZMy1oWUR1Xw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-09 11:00",
-   "published_iso": "2026-10-09T02:00:31+00:00"
-  },
-  {
-   "title": "激流にもまれる外国人労働者受け入れ業界 来年4月スタートの新育成就労制度、「嵐の前夜」の実像に迫る",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzOFp6Rk1kclAwY011aW1nYzFORUFENEkxOHl0NVVGSnBWMnVNWHo4Nk9sVHMwMHhIZzRLaTVjaG84amlPSVd4T1VxZWNIdEFkRDNWLQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-09 10:50",
-   "published_iso": "2026-10-09T01:50:00+00:00"
-  },
-  {
-   "title": "特定技能「給食」再開検討 新規受け入れ 「外食」から別分野に",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRW5Ba0swY2MxU1Uyd29pOFJrNkN3SEdZVVg3eThaSHAySmRVX2JQbkZwcjk1TkoxWWEzVFgwSE45V2tHZ3M5UVBfR2t2M1AzNW52V0Jzb2tDMG96aHZCTXNEb1JMd1pD?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-09 02:01",
-   "published_iso": "2026-10-08T17:01:11+00:00"
-  },
-  {
-   "title": "NHK名古屋 多文化共生キャンペーン",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdzBmVVZMZGRvT2lQSUtnWDRtSFhBSjB4YjM0S3dpakpjd3lEcjVienl3UUhxSHdleHB2QlpoaHFWMGVvMThTSElwczVvbXl5M0tTVlAzc29fMTBua2FLT0YzLVI?oc=5",
-   "source": "NHK",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-10-07 17:00",
-   "published_iso": "2026-10-07T08:00:22+00:00"
   }
  ]
 }
