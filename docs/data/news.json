@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T15:11:05+00:00",
+ "generated_at": "2026-10-16T19:17:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人学生らが語る 日本の教育との違い 知内で交流会",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nN3dmRE1HSGI0RUNJR3dSMmxYck8yT2ZtYVFweTh3SWd5WWo2ZWFBdzJOT3JwNW5DamZKYklzSjlGM3hacWZUUlJ1eUxsdTl1Ty1YcHBMNDd4QQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-17 04:00",
+   "published_iso": "2026-10-16T19:00:00+00:00"
+  },
   {
    "title": "【新たなアプローチ】外国人客の心つかむ“すし新戦略” 食べるだけじゃない楽しみ インバウンド消費が多様化",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdzh0Rk1LVDRKOHlrSGNvWnllUThyUWtURTJaeUJxNXJTTlFrUzJNUUo3cnFLVHBzUXcwanF2Sl95VmQ0eGRQZTBXSnpXTVhkZXFKX1E3VnFKN0htd3FOaWw2d1U4ZjZ0VHUycWxReDUtdEtvUWpOdEdfa2c?oc=5",
@@ -30,14 +38,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-16 19:11",
    "published_iso": "2026-10-16T10:11:15+00:00"
-  },
-  {
-   "title": "住民の16％が外国人の大阪市西成区 “共生”掲げ西成警察署と日本語学校が連携協定 ルールの順守など学ぶ講習会実施",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkE3WjlUZ3pLXy1oNXIxZ0V0QzdMUEZ0VlYtRUdOdUEzZGN4TlJ1Skl2dDJJMEZsMko0b19tSkRoTFNlVzJLQ3lHcWN5ODNBVk00clk2RVlabXlidExfd0dMbGhDa0Q4cklzdDZhRDVqUllJdThib0dLaEtZMkxhcVFSVlZrdFE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-16 18:51",
-   "published_iso": "2026-10-16T09:51:01+00:00"
   },
   {
    "title": "日本で暮らす外国人428万人と過去最多 中国がトップ 次いでベトナム、韓国",
@@ -102,6 +102,14 @@
    "source_domain": "sankei.com",
    "published": "2026-10-16 10:13",
    "published_iso": "2026-10-16T01:13:13+00:00"
+  },
+  {
+   "title": "群馬県知事「外国人の受け入れペース早すぎる」 県独自で許容規模調査へ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhRTdpMnd4UlVYSE9fS1lKTmxqd0x3MElrcGItc2lXQTJ2ZHNkV0hGcmpmNHl0aXRCZGdDN2hyS0NkRjZKMm1Uekg0aDRiVjU2TEVUT3J3Z0tvTm5UdzR6Z0lnVzVGQUxLbW9IRnZtYlRaZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-16 10:04",
+   "published_iso": "2026-10-16T01:04:12+00:00"
   },
   {
    "title": "在留外国人増、6月末428万人 最多更新、厳格化で「経営」激減",
@@ -184,14 +192,6 @@
    "published_iso": "2026-10-15T23:35:42+00:00"
   },
   {
-   "title": "増える外国人所有の放置物件…混乱と活気が併存の斑尾高原 スピード感ある対応求められる飯山市",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84RGtrTzFqY3ZfaUl6ZWtucFF4Rk9Cb25RS3RDVUQ5R3NaQUdHLV95bFpLdXhhLUtlOUJIUXF6MGh6QkFfYktKc1pKcGN0OF9kT05pSm5XbXNEd1J2Wjc4SEFjMVhTckd4OGlvOXIzWkE?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-16 06:01",
-   "published_iso": "2026-10-15T21:01:00+00:00"
-  },
-  {
    "title": "「走らない鬼ごっこ」から見える共生社会と人理解 パワーリフティング日本代表・山本恵理選手の思いとは",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZGlqWWhNZTZrdWpKcFlOcXdZSndzSUxENFp0c1RHVVA0aEFCMmZkYUZFSmxoNkYyVk1NN2liek1FaGp2OHpKSjJ2a19oM1hkTHF6Rw?oc=5",
    "source": "中日新聞Web",
@@ -260,8 +260,8 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGQ4bk1aVVdzYkZCWHpmRHRYRmFvYno3b0pzWDdSNjZKZWlDeXlDbGphalN4Z0Q1TDFxMGJIblJETDNKMlYySzNvTjRDMXA0TlVyQXdXRDZxcEdBNWJiTmpONWRuQmtQMGM4UzdhZktsNlIzYmpuMldjV193MjhZQV9sMVluRkk?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
-   "published": "2026-10-14 08:28",
-   "published_iso": "2026-10-13T23:28:22+00:00"
+   "published": "2026-10-14 08:00",
+   "published_iso": "2026-10-13T23:00:00+00:00"
   },
   {
    "title": "「米国が大事にしてきた『多様性』が台無し」トランプ政権の移民政策に嘆き…移民頼みだった介護の費用が高騰",
@@ -400,12 +400,12 @@
    "published_iso": "2026-10-12T05:20:59+00:00"
   },
   {
-   "title": "移民船転覆、死者１３９人に 紛争続くエチオピアから退避か―ジブチ沖",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mTGRtSUpERnNFWXBweHhQWnM0TWlRUENqbTNkTTY1NmdwY0Ryc1BPbDZJd0lVei1qSHBwQ2VKR3FXU3NUcjZDZlprSGR2QnM2SWpwOTdQSDFEdGdPSHU5QmRzNA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-12 14:13",
-   "published_iso": "2026-10-12T05:13:00+00:00"
+   "title": "移民船転覆、139人死亡 ジブチ沖、定員超過か",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRbFVqX3lnZVBqald4QzB1MlZvZnFHelZyNHFPVklBSU8wUUMtVF9Jb3pjeExBY1BpMFVfc241YmZ2TDBzTUJsTVNBTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-12 09:14",
+   "published_iso": "2026-10-12T00:14:00+00:00"
   }
  ]
 }
