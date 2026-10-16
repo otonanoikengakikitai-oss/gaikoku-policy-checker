@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T10:40:44+00:00",
+ "generated_at": "2026-10-16T15:11:05+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【新たなアプローチ】外国人客の心つかむ“すし新戦略” 食べるだけじゃない楽しみ インバウンド消費が多様化",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdzh0Rk1LVDRKOHlrSGNvWnllUThyUWtURTJaeUJxNXJTTlFrUzJNUUo3cnFLVHBzUXcwanF2Sl95VmQ0eGRQZTBXSnpXTVhkZXFKX1E3VnFKN0htd3FOaWw2d1U4ZjZ0VHUycWxReDUtdEtvUWpOdEdfa2c?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-16 21:04",
+   "published_iso": "2026-10-16T12:04:01+00:00"
+  },
+  {
+   "title": "「杉原ビザ」原本を八百津町に寄贈 米在住のユダヤ難民子孫",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1waXRmQVZvR05UZG1La0RZbmFIODRLNzdJcEtfOUtQUS1rOG9XbGZqRmQtSUNSSnJJRGdzWU15MlpEbFVlYWpqODgwOEFFdHZSWEtjNw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-16 20:59",
+   "published_iso": "2026-10-16T11:59:58+00:00"
+  },
   {
    "title": "住民も技能実習生も水神様へ感謝こめて「登り口奴踊り」奉納 川南町",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IalMyQUVTbW5rX1VqSXZiZ1IzY2l6SmdfZjd6NDYxOVI0Ni1VU1FBUVhrM1RMR1ZtM2ZhUi1vRVNJc2F1MEc5WVV0QQ?oc=5",
@@ -40,14 +56,6 @@
    "published_iso": "2026-10-16T05:14:00+00:00"
   },
   {
-   "title": "【自動車運送業分野】日本衛生株式会社 初の外国籍人財雇用へ、ウズベキスタンから10名の特定技能ドライバーが内定",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMbzZ5Z25tb3hyTml4cEk5RHV2aXk2bDRkVDdfbERyQWJPUjVxNTBHWmRxeVpsTDdpUUwxREZodi1IaGdvVHVWdmRTVEo5Y0xRU0xVd0V0eWc5OTIzVXhhNnRRNVFRSjlHQTVF?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-16 13:46",
-   "published_iso": "2026-10-16T04:46:00+00:00"
-  },
-  {
    "title": "「スマホ見ながら運転しない」 外国人労働者に交通安全講習 浜中",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hOHlHeFdYX3JOV0pJSE9xdDNJb3ZKQXIyWGNBTk9NTko1UE5BRDlZMXprOEx5WXBZMnBjTEdoUDNMUnNFR1ZiaGZ2a21WcXRUbXBBRkoyTkVKeHo4UkRwLW1nRks?oc=5",
    "source": "北海道新聞デジタル",
@@ -57,11 +65,11 @@
   },
   {
    "title": "外国人学生やALTらが、日本と海外の教育について知内で討論",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuWE8tQ2xyTzhVWXd0R1M2al9WbGYxUHAtYVFRZzJaY0lma2d4YUpkbEZzeTktMFdSY1hvVG5YcHVISGFydGVuVFhZUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-16 12:46",
-   "published_iso": "2026-10-16T03:46:42+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HalBXWkxIZW85Xy1UODdhV29pbF9sYXBjNGxNNXJmMnU4MmpnbzRsZ1JONV8ydjV3WW9OQzJ5dE5kTFVGTTQ5SUdxbmVMTndJTGthV1lJUEVoUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-16 11:38",
+   "published_iso": "2026-10-16T02:38:28+00:00"
   },
   {
    "title": "在留外国人数の推移 - 在留外国人増、6月末428万人 最多更新、厳格化で「経営」激減 - 写真・画像(1/1)",
@@ -88,14 +96,6 @@
    "published_iso": "2026-10-16T01:28:25+00:00"
   },
   {
-   "title": "厳格化された「経営・管理」の新規入国者や不法残留者数は減少 日本に在留する外国人数は過去最多を更新 今年の上半期で 出入国在留管理庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6YUdCVzAwcFVwejVWR01XNlhVYXBGLWFFbWhPQXREN2VHU00tWWFPcGFnSXllbi1qNE9vYXQtMXEzUFdLd1JYVWJkYy11RWFiSHVjaEozYw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-16 10:19",
-   "published_iso": "2026-10-16T01:19:29+00:00"
-  },
-  {
    "title": "在留外国人428万人で最多更新 不法残留者は半年で4.8％減 上半期の入管統計",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54MWhqZ1Q1ZjRBdExWR1d6WG55YzVZTERkeEhSRFM4bHBwb0Uyb0lTX24xNUFtU3BRZmFIaWV3Uml0RDZubmc1cU8xbVpwZm9MOUhDalhsYVE4Y2ZzeDRkMzNINTlZQzgtYUc0b2NJVmdOekNpd1E?oc=5",
    "source": "産経ニュース",
@@ -104,12 +104,12 @@
    "published_iso": "2026-10-16T01:13:13+00:00"
   },
   {
-   "title": "群馬県知事「外国人の受け入れペース早すぎる」 県独自で許容規模調査へ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhRTdpMnd4UlVYSE9fS1lKTmxqd0x3MElrcGItc2lXQTJ2ZHNkV0hGcmpmNHl0aXRCZGdDN2hyS0NkRjZKMm1Uekg0aDRiVjU2TEVUT3J3Z0tvTm5UdzR6Z0lnVzVGQUxLbW9IRnZtYlRaZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-16 10:04",
-   "published_iso": "2026-10-16T01:04:12+00:00"
+   "title": "在留外国人増、6月末428万人 最多更新、厳格化で「経営」激減",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ndE5EUV9ZT2VoMUxzT2otWHdGTGlwdS0yWTBncjZIVlp2OWxjMk5lenVQTHZJS1k5NlkxbzVjUWRxSnZvV1RTamc1cw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-16 09:54",
+   "published_iso": "2026-10-16T00:54:00+00:00"
   },
   {
    "title": "在留外国人増、６月末４２８万人 最多更新、厳格化で「経営」激減",
@@ -168,7 +168,7 @@
    "published_iso": "2026-10-16T00:07:00+00:00"
   },
   {
-   "title": "「経営・管理」の外国人、新規入国８割減 新要件は適正？厳しすぎ？",
+   "title": "「経営・管理」の外国人、新規入国8割減 新要件は適正？厳しすぎ？",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yUC1QclRyNDJtemwyVk83VjY2U05KLWFKRlZfOEpOMDRUNE9YVEtlX0JmUjB3Z1RfeTVianp0dG1JcFpxUVYwal9idWtPXzUxemc1YTg0eU42N2gtT19LNmdNUzFJMXM?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
@@ -200,22 +200,6 @@
    "published_iso": "2026-10-15T20:10:00+00:00"
   },
   {
-   "title": "道初採用 胆振に外国人協力隊 ミャンマー出身 チッ・ウーさん 留学生らの生活や交流支援",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZZVgtOC1rUjU4c3o2dDVweHc2LS1wZ3dNSVdRQS15ZDY0dnZlOC1TaU5rVVNTTWc0Mmo1SDRlLUlEMHVDcFpYZUFJZUM5UV9majVoVDJGUTZaQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-16 04:00",
-   "published_iso": "2026-10-15T19:00:00+00:00"
-  },
-  {
-   "title": "日本の自転車ルール学ぶ 市内で技能実習生に講習会",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IYXJiUDF1cmhMaTFsUlFaMTIzcENkd2NhNEFNdUZXbDVqMV8wWUZDSVUydDZVZkdLTVNzWXpaYXFremZ5cFZwVnVHbTMwM01yTXYxOURDMTJyZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-16 04:00",
-   "published_iso": "2026-10-15T19:00:00+00:00"
-  },
-  {
    "title": "櫻井翔さん、国連UNHCR協会の「国連難民報道ディレクター」に就任 難民や支援に携わる人々が抱える困難・現状伝える",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUJ2YnZFRm44bVpEWUJmZTlDZlBqQUQ1eDBJTllicjJYWm02MUVFZFJEZkowbEZmejBxa2paS01nLWJGZEthYjMzdzdESkxqY0pTZkM2Y25QY2ZYYWJIam5FZE5wS253UlBhYmFzTFNoaVhMYlYyX1dYbzlMd1JTbW8yc1Q?oc=5",
    "source": "日テレNEWS NNN",
@@ -232,20 +216,20 @@
    "published_iso": "2026-10-15T09:56:40+00:00"
   },
   {
-   "title": "外国人「経営者」出国3.9倍に 26年上半期前年比、厳格化影響",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05MnpzOUFJNUFKNjEzeE5rR01aMFVsTFYxZHRhd285Qko3M0pSckhMaW9nM2hIZ1lHdnNJRFJ0MGY1aU5XT2J1YjVwQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-15 16:25",
-   "published_iso": "2026-10-15T07:25:00+00:00"
-  },
-  {
    "title": "【速報】在留資格「経営」の出国外国人が3.9倍に",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JWHB5aDA4UTZiQ1dKRmFPTDNHWjd1a1NMTFI1Z1FLWVRrN2h1YzBjYUgta2RTa2NaX2pzTTNVM2FMN0x3RkdtdDdlbw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-10-15 14:51",
    "published_iso": "2026-10-15T05:51:22+00:00"
+  },
+  {
+   "title": "山陰初 島根県立大学が「登録日本語教員」養成機関に認定 日本語教育担う人材育成を加速（島根）",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6WUZ0N0VzenFBUzU1ZWNEeHFWM1JKcHpfVWdlU0puSmZMWGI0N3NVNUJ6cGV5Q285emFMSzROMXh3Yi1zbVlTY0VFS2JzUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-15 14:40",
+   "published_iso": "2026-10-15T05:40:00+00:00"
   },
   {
    "title": "外食で外国人材5万人争奪戦 新規の「特定技能」停止、半年で求人3倍",
@@ -262,14 +246,6 @@
    "source_domain": "jiji.com",
    "published": "2026-10-14 16:16",
    "published_iso": "2026-10-14T07:16:00+00:00"
-  },
-  {
-   "title": "宮城・村井知事「優秀な外国人増やす施策も必要」 仙台市が国勢調査初の人口減受け",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yTG81QUxRa3JJV3NTRnlyNGRKT3NTT2J5MURiUGxSSzJHM25qbU5EZURVd3NHNlVNUEpHSUE3bmc3c1gxcG03cHp5c1AyZ1JmNXg4aTNnMWVUN05XcS1UNF8xdFlXZVhWSERpTXJKTGZSMEx5SUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-14 15:39",
-   "published_iso": "2026-10-14T06:39:12+00:00"
   },
   {
    "title": "NEC、川崎区の外国人住民に多言語でアンケート 共生社会へ実証実験",
@@ -406,6 +382,30 @@
    "source_domain": "jiji.com",
    "published": "2026-10-13 02:32",
    "published_iso": "2026-10-12T17:32:41+00:00"
+  },
+  {
+   "title": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeVVpbXNnNGJ2azFDdUtYV1pfZ05xdGI5ejhsckV2OVhCSjVuQlJvX0FybnNIY2xjeXhUZ1EtWEZ0YkVVWG9KaXpYcXRad0Jhd09XN2xURGpFZUJjX3l2OXdjRHRZZm1xMGVaMHczYUJVYjN1Vmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-12 23:57",
+   "published_iso": "2026-10-12T14:57:22+00:00"
+  },
+  {
+   "title": "「多文化共生社会」本を通じて考える 17日、神保町でフォーラム",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UZVFJOHk1cjQ1RGJSUkNLZkE0eVgtLWJ0eElJMTJfWFJuVGdjZnZFTzNpMnNLdGpzR01aa0gyajhQOEtJanJlOUVyYkxEb0hPVmxJ?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-12 14:20",
+   "published_iso": "2026-10-12T05:20:59+00:00"
+  },
+  {
+   "title": "移民船転覆、死者１３９人に 紛争続くエチオピアから退避か―ジブチ沖",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mTGRtSUpERnNFWXBweHhQWnM0TWlRUENqbTNkTTY1NmdwY0Ryc1BPbDZJd0lVei1qSHBwQ2VKR3FXU3NUcjZDZlprSGR2QnM2SWpwOTdQSDFEdGdPSHU5QmRzNA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-12 14:13",
+   "published_iso": "2026-10-12T05:13:00+00:00"
   }
  ]
 }
