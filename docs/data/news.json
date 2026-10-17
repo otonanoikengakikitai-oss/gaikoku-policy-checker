@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T01:02:04+00:00",
+ "generated_at": "2026-10-17T06:32:16+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,76 @@
  ],
  "items": [
   {
+   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnanRvY0hvck8yTDRjRWFtTS1uZFBnTi1qMUJPaUxESmpYUTdCNFlLMTRHWG9GUnFhLWxnWTJrS3lmLVlFZmVCUjg2OA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-17 14:15",
+   "published_iso": "2026-10-17T05:15:21+00:00"
+  },
+  {
+   "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZEs2U2xEY3VwYTdhMGxCdkEzajRmVzBnblRfc1J1N29fOW1LZlBZLVZtMEwzcUZSQkE0OUZHcElhaXpSenpmV1BubWVJTEthQ2N2aHNvSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-17 12:32",
+   "published_iso": "2026-10-17T03:32:21+00:00"
+  },
+  {
+   "title": "福井の「農園たや」が農林水産祭で天皇杯 DXと外国人材育成評価",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OMll1NndGcy0xb0JNNTRKWkw0cERWbzg1WFdyV2RIUHNlamRJdWE4T0ljNk16NE81SE4wVG9IeFk5QW9YeDZJTGdfOUFuQnpFWGh6Vl9oOVU0Uzh2LTNRU2RBdUtnTWZu?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-17 12:15",
+   "published_iso": "2026-10-17T03:15:00+00:00"
+  },
+  {
+   "title": "大阪・西成区は「約6人に1人が外国人」留学生の暮らし守るため…警察署と語学学校などが協定結ぶ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHRUMtMXFLRGRkdXJkRE94czNCM2dmbU5CWEJhWk5FaGJMODVWZzhrajZnODVBbzRlZnVzaW9YSW5HdlB5S0I0OExGY3VmMGhXMF9JY1oxSGF1QQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-17 11:00",
+   "published_iso": "2026-10-17T02:00:53+00:00"
+  },
+  {
+   "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTjhFTFNxTmJCTXF2M3kwWmJQUktzU05oU3ljRVR5Z0pBLWtXOW9FelNTN1c4MGc2X0l4bkRzWEVkU2pRT0VWZGJPUm1WN2JaRGRNM01SaWZ2dw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-17 11:00",
+   "published_iso": "2026-10-17T02:00:00+00:00"
+  },
+  {
+   "title": "和歌山県の外国人雇用ホームページ、不正アクセスで2000件以上の情報漏洩か",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQkI4TFR4OVFXTlRoeEtZdU5rcjMyS3JSZ1dySXE0UkctLWE4NTF0aTNvWW5xUWtqOVVJZUgzS21PSTJzWXhzVTV4UXk1bUM5U1MySjRCbjRfVUlybWFqbjQwZmtacTAyYkZ5NnljWlVWbVRtNnc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-17 09:26",
+   "published_iso": "2026-10-17T00:26:52+00:00"
+  },
+  {
    "title": "「外国人材雇用サポートデスク」利用の団体・個人情報が漏えいか…イベント参加でフォーム入力の氏名や企業名、在留資格の分類",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQ2RJV1ZzTGtlWGFVTXd6d2hHdzJsc1JHVnM0dERkN3A3bldkN3R4UzlJbGFScTJtQ3VSeWlDcVBmZzJxMnc4QjVQS2MtY2Y0ZVFhZ0oxWjY4cUU4WXZZR2FQTGtoZw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-17 08:36",
    "published_iso": "2026-10-16T23:36:00+00:00"
+  },
+  {
+   "title": "「外国人擁護」「国賊」…街宣に川口市議が接近禁止の仮処分求める [埼玉県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sNW9ZOHVqeExCU2ozdTZHSHFwVEl0LVZWVFBFM21obk1wMTZ6SmlEUTdyZEh4MXFzRV9iVTZNMXZJZjhGZE83c1ZFLU5qV3BleFVVajl0SGdqaEo4SXpTdVo1VXJhZkE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-17 07:00",
+   "published_iso": "2026-10-16T22:00:00+00:00"
+  },
+  {
+   "title": "英語、中国語、韓国語…「宮城県民公式アプリ」多言語化して在住外国人の8割の言語カバーへ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzbWJsR1hMemVOckdnRHI4ekplSlFYcWZ1WWNfNEhkcWhnOXYxbUluazFoWjN6YlVkOHhYbFZXOXd6QXNVT1JWVVRKNG9TUVlKdU9HZElldUg2YXM?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-10-17 06:00",
+   "published_iso": "2026-10-16T21:00:00+00:00"
   },
   {
    "title": "宮崎県の世帯数初の減少 外国人大幅増 国勢調査概要",
@@ -144,14 +208,6 @@
    "published_iso": "2026-10-16T01:04:12+00:00"
   },
   {
-   "title": "在留外国人増、６月末４２８万人 最多更新、厳格化で「経営」激減",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14MU1OYXJvWmE1MGJvd3ZvMC1qWWVMWDVlMkhCd3lSU3VidnQ2WXRHaERNd3NBZ050ZXBybDRhMUhOSkQzem5jdEljTzRIMkVtZVVTUXVtcldqM2JLQkRqNE52TQ?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-10-16 09:45",
-   "published_iso": "2026-10-16T00:45:52+00:00"
-  },
-  {
    "title": "在留外国人、過去最多４２８万人 新規入国減少、中国自粛影響",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1TGxTY25fclJsN0RUMmhaZGQtMzJSQjJsR1ExTHFjajRNUExUdDV4V3RMQ25fMnZVTmRkVnl6bU1ZdFZRVjU5UG5OMWYtc056WWVGXzMwcEZWYmY2NExiMGVKSQ?oc=5",
    "source": "時事ドットコム",
@@ -272,22 +328,6 @@
    "published_iso": "2026-10-14T01:53:22+00:00"
   },
   {
-   "title": "NEC、川崎区の外国人住民に多言語でアンケート 共生社会へ実証実験",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NZXNyLVBLT2daX2FDQVh0WFNiVGxid0pFcVFVX1ctajFSNTk0UE5yZnlGdUNkVU1wdnFkdGhna0xpWWR2c190SUV1NkY1T1p3WEk2a1VEOFh0TjVoWFhGdlFRMEpUXzVDLV9Sdw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-14 10:45",
-   "published_iso": "2026-10-14T01:45:30+00:00"
-  },
-  {
-   "title": "【ニュースto】富士山周辺で“レンタカー事故”急増 ｢もう数えきれない｣住宅の塀は補修跡だらけ…背景に外国人ドライバーと民泊",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGQ4bk1aVVdzYkZCWHpmRHRYRmFvYno3b0pzWDdSNjZKZWlDeXlDbGphalN4Z0Q1TDFxMGJIblJETDNKMlYySzNvTjRDMXA0TlVyQXdXRDZxcEdBNWJiTmpONWRuQmtQMGM4UzdhZktsNlIzYmpuMldjV193MjhZQV9sMVluRkk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-14 08:28",
-   "published_iso": "2026-10-13T23:28:22+00:00"
-  },
-  {
    "title": "「米国が大事にしてきた『多様性』が台無し」トランプ政権の移民政策に嘆き…移民頼みだった介護の費用が高騰",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10OHBFaTBIYlJtSEFzOHIxUTdmUlhzbnB5WktyYzZvbmV0cDE0eHk1Q1Y5NnAwYkljV21xc0Q1N1ROV0w3SmplbVhwMzhIdThLSFREY1lTMXAzbVU1S3ItcVhn?oc=5",
    "source": "読売新聞",
@@ -296,44 +336,12 @@
    "published_iso": "2026-10-13T20:00:00+00:00"
   },
   {
-   "title": "富山県の多文化共生条例 異例のパブリックコメント１万１５００件 知事、素案修正も視野 不安抱く県民多く",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xZDdOSUdHUjlnbWhzYU1NV0U1RlFna3BvTUdHT1M3cWNFWHdjMjYteVpfbDlaMGFWbUtPWDhfbUVPSmZ0RnZRTHIzQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-14 05:00",
-   "published_iso": "2026-10-13T20:00:00+00:00"
-  },
-  {
-   "title": "エジプトで中高生の日本語教育導入 授業公開「将来架け橋に」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DZ3NYbFZGRHJ2R1kxeHM4VWNabHN3ZjdtUVFGcGFFLTRXYmtMVzI3R09ndkRJUWd3ZUI5b1ZodkJ3bmpucFZ6VGxXOTFpUmdHcDdobDZjclM4SG9ETU5QRkVWMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-13 21:11",
-   "published_iso": "2026-10-13T12:11:00+00:00"
-  },
-  {
    "title": "米移民当局、ソマリア生まれの民主党議員宅を捜索 トランプ大統領を度々批判 中間選挙前…候補者を異例の捜査",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWm5tLUYzcmFHVGJQaHMwV2Z5MDVYU1hRbE5rUUhMZExaSWJYWlNsRFJpLUZBcXE5czdCZzZHYThoUlRBSUJqMXVLcjVQTlZGaWVvcWNPRFVvM3FmUE1EUzZ0R0RjVFZZTkNWeGdLazFtVUk0R1A3d2JTLXlIZE12N2lVRFU?oc=5",
    "source": "日テレNEWS NNN",
    "source_domain": "ntv.co.jp",
    "published": "2026-10-13 20:33",
    "published_iso": "2026-10-13T11:33:01+00:00"
-  },
-  {
-   "title": "富山県の多文化共生条例策定への意見 県内外から1万1500件",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWW55V2xyZG5TWWlvRWZCcGJkOS1FUEdKZ1NVWFlVZWZUa1VpZGFGMkM2cUN2c2dsTUZfTVRNV2QxTV80cGtITmxlTzVXZXY0ZFhTc01CN1FVMUJfdUpVVXdvQUE1ZmNleXlMMA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-13 20:00",
-   "published_iso": "2026-10-13T11:00:00+00:00"
-  },
-  {
-   "title": "富山県への多文化共生パブコメが1万1500件超 新田知事「わかりやすくもっと説明を」 条例や素案に関する不安も 富山",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DSHI4NzJ3TmZqekRMYUd3MlB4elM1Q1J2aXdXTjdEWkNJY3k1bVhWM3c1RjQ1QzlPVm5oUmdYSWFmdktLdFRlMU5ncnZBMEh0ekc0Z0NNNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-13 19:44",
-   "published_iso": "2026-10-13T10:44:00+00:00"
   },
   {
    "title": "富山県の多文化共生条例案にパブコメ1万1000件 異例の多さ（2026年10月13日掲載）｜KNB NEWS NNN",
@@ -398,14 +406,6 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-13 07:06",
    "published_iso": "2026-10-12T22:06:00+00:00"
-  },
-  {
-   "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-13 05:00",
-   "published_iso": "2026-10-12T20:00:00+00:00"
   }
  ]
 }
