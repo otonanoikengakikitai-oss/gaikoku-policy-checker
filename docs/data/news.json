@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T06:32:16+00:00",
+ "generated_at": "2026-10-17T11:21:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnanRvY0hvck8yTDRjRWFtTS1uZFBnTi1qMUJPaUxESmpYUTdCNFlLMTRHWG9GUnFhLWxnWTJrS3lmLVlFZmVCUjg2OA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-17 14:15",
-   "published_iso": "2026-10-17T05:15:21+00:00"
-  },
   {
    "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZEs2U2xEY3VwYTdhMGxCdkEzajRmVzBnblRfc1J1N29fOW1LZlBZLVZtMEwzcUZSQkE0OUZHcElhaXpSenpmV1BubWVJTEthQ2N2aHNvSQ?oc=5",
@@ -104,6 +96,14 @@
    "published_iso": "2026-10-16T20:34:00+00:00"
   },
   {
+   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odmk3NWY4Y1JhY3U3UFAzdGlweFhSYXB2WFBRbTF6RThFT05JRUJxb0E2SUM0dURRT1F4VGhQM09PSkNuZmNIUWh6V25ORGdUSkxURFI2cmJUaGdnWENuY0ZB?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-17 05:05",
+   "published_iso": "2026-10-16T20:05:00+00:00"
+  },
+  {
    "title": "「経営・管理」新規入国８割減 前年比 在留資格要件の厳格化で",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZUpiblZPb09ObjJ3dnI5N1MyZENtQndHMTh6OW5RZFlCMXpScGdmclNyWWtrbEJaOEw4WU1USDhvbUZpSUxCZE52VTNfTE0zbFJtVFZyaFJDbHJX?oc=5",
    "source": "朝日新聞",
@@ -120,16 +120,16 @@
    "published_iso": "2026-10-16T20:00:00+00:00"
   },
   {
-   "title": "外国人学生らが語る 日本の教育との違い 知内で交流会",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nN3dmRE1HSGI0RUNJR3dSMmxYck8yT2ZtYVFweTh3SWd5WWo2ZWFBdzJOT3JwNW5DamZKYklzSjlGM3hacWZUUlJ1eUxsdTl1Ty1YcHBMNDd4QQ?oc=5",
+   "title": "在留外国人 最多428万人 6月末 厳格化「経営」は入国激減",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTmJBVnc5LUZvQ0tWd2I0anFYZzdsSEkwb0RwNjd1c0J1THVEZ3pOSHJzQlhodnN1RUF6WU5QVXpiTkprcUJOemN2UnhiT09RTFdSbnRIUERvdw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-17 04:00",
    "published_iso": "2026-10-16T19:00:00+00:00"
   },
   {
-   "title": "在留外国人 最多428万人 6月末 厳格化「経営」は入国激減",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTmJBVnc5LUZvQ0tWd2I0anFYZzdsSEkwb0RwNjd1c0J1THVEZ3pOSHJzQlhodnN1RUF6WU5QVXpiTkprcUJOemN2UnhiT09RTFdSbnRIUERvdw?oc=5",
+   "title": "外国人学生らが語る 日本の教育との違い 知内で交流会",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nN3dmRE1HSGI0RUNJR3dSMmxYck8yT2ZtYVFweTh3SWd5WWo2ZWFBdzJOT3JwNW5DamZKYklzSjlGM3hacWZUUlJ1eUxsdTl1Ty1YcHBMNDd4QQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-17 04:00",
@@ -280,6 +280,14 @@
    "published_iso": "2026-10-15T09:56:40+00:00"
   },
   {
+   "title": "外国人「経営者」出国3.9倍に 26年上半期前年比、厳格化影響",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05MnpzOUFJNUFKNjEzeE5rR01aMFVsTFYxZHRhd285Qko3M0pSckhMaW9nM2hIZ1lHdnNJRFJ0MGY1aU5XT2J1YjVwQQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-15 16:25",
+   "published_iso": "2026-10-15T07:25:00+00:00"
+  },
+  {
    "title": "【速報】在留資格「経営」の出国外国人が3.9倍に",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JWHB5aDA4UTZiQ1dKRmFPTDNHWjd1a1NMTFI1Z1FLWVRrN2h1YzBjYUgta2RTa2NaX2pzTTNVM2FMN0x3RkdtdDdlbw?oc=5",
    "source": "47NEWS",
@@ -368,22 +376,6 @@
    "published_iso": "2026-10-13T05:28:00+00:00"
   },
   {
-   "title": "「包摂と排除を考える－フランスの移民政策を事例として－」講演要旨（中央大学×大手町アカデミア）",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyY0NBcGw5WXdXN2pCVnBWWl9NQnFjM1o4VWpReFc2ZW84dVFTcVQ0MEgwUW5vVXBCM1ZSYlVQdjAtWEVOeEJSMk9ncHNwMGw0U0dGV0VlNGlWN19rLXpmUDhRNy1tMkdPY1NncDlYWmZzMGZFamttYm9B?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-13 13:07",
-   "published_iso": "2026-10-13T04:07:00+00:00"
-  },
-  {
-   "title": "「包摂と排除を考える－フランスの移民政策を事例として－」トークセッション要旨（中央大学×大手町アカデミア）",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ySy1BTVN2S3lRUTZycUUtdEw0eWxVUEdwOEdGaDBOSGtaRlhDZzFaTzNLX1g0aEFhX0xiM3JSckNSNkZJUlhYUHpTX0drVWVoaXBiQS1UeXBCZFNkYmxHMHVDbkJ2Y0ZJSC0zaDFYajZsZHZoWGNHUVRR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-13 13:06",
-   "published_iso": "2026-10-13T04:06:00+00:00"
-  },
-  {
    "title": "イスラエル人材流出、戦闘長引き2年連続 「建国来初めて」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRHdnTVBfMGlsakpPdlg5SzZhZ2pMV3lKNlBBS2Z0aHBKWXI3X1NjN3hERTVVOXFmM3VyQTl6Zzc1cGlHWGYxQTNGSjcxNUlJa09JZ0FGTWVYSGJmMHgyVXdlNXFhOGxKaW5LMg?oc=5",
    "source": "日本経済新聞",
@@ -400,12 +392,20 @@
    "published_iso": "2026-10-12T22:38:41+00:00"
   },
   {
-   "title": "米当局、民主党議員宅を捜索 中間選挙控え、政権と対立",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04MFkzd21jZ1pyMzNHUmdzRDhOQlRLVy1GbGpFbnhYZHBERFJBNnhWd2UyZlNJd0ZZNl9rVk4zWVF0NVo1M0RKOGgzUDRmSjhLa09J?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-13 07:06",
-   "published_iso": "2026-10-12T22:06:00+00:00"
+   "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-13 05:00",
+   "published_iso": "2026-10-12T20:00:00+00:00"
+  },
+  {
+   "title": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeVVpbXNnNGJ2azFDdUtYV1pfZ05xdGI5ejhsckV2OVhCSjVuQlJvX0FybnNIY2xjeXhUZ1EtWEZ0YkVVWG9KaXpYcXRad0Jhd09XN2xURGpFZUJjX3l2OXdjRHRZZm1xMGVaMHczYUJVYjN1Vmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-12 23:57",
+   "published_iso": "2026-10-12T14:57:22+00:00"
   }
  ]
 }
