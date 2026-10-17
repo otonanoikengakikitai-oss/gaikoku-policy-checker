@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T17:46:48+00:00",
+ "generated_at": "2026-10-17T20:05:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "三重県立飯野高校、外国ルーツの子の進路開く 日本語教育きめ細かく",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xQkM1S0NvYTlVNTBUb3QwSGNmZ2JQWV9zc2xCNDR5XzN4eUI4MjljcnVhd2RnSVl3SXI4UUJ6S3h5dFRXeDRKNzNWM1pRZ2hrU1FSLVBUZVRWRks4NExyM3NiYVdUVXRYR1dqbQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-18 05:00",
+   "published_iso": "2026-10-17T20:00:00+00:00"
+  },
   {
    "title": "外国人と中学生、車座で交流 東脊振中で「しゃべり場」 吉野ヶ里町",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92RXRWRV9Jc0ZTSzg2UGdvc0hKT3QzaGdTcXhYbGFRa2V5Z1pUenZTRVNva3BEbXR3M1NmTkNPQ1VSeWFzc3l2YXM2WQ?oc=5",
@@ -22,6 +30,14 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-17 20:04",
    "published_iso": "2026-10-17T11:04:56+00:00"
+  },
+  {
+   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnanRvY0hvck8yTDRjRWFtTS1uZFBnTi1qMUJPaUxESmpYUTdCNFlLMTRHWG9GUnFhLWxnWTJrS3lmLVlFZmVCUjg2OA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-17 14:15",
+   "published_iso": "2026-10-17T05:15:21+00:00"
   },
   {
    "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も",
@@ -104,22 +120,6 @@
    "published_iso": "2026-10-16T21:00:00+00:00"
   },
   {
-   "title": "外国人介護職 初の受け入れ 南東北グループ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VS2RoNl9PMVZYT1hsQTRZSjFjN1VuTWdPYUgwSWNmMmt3VVBxLUlmVHdwT2NKVXhxMmNXOTJOWDdNa0FvNS0yVGpKRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-17 05:34",
-   "published_iso": "2026-10-16T20:34:00+00:00"
-  },
-  {
-   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odmk3NWY4Y1JhY3U3UFAzdGlweFhSYXB2WFBRbTF6RThFT05JRUJxb0E2SUM0dURRT1F4VGhQM09PSkNuZmNIUWh6V25ORGdUSkxURFI2cmJUaGdnWENuY0ZB?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-17 05:05",
-   "published_iso": "2026-10-16T20:05:00+00:00"
-  },
-  {
    "title": "「経営・管理」新規入国８割減 前年比 在留資格要件の厳格化で",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZUpiblZPb09ObjJ3dnI5N1MyZENtQndHMTh6OW5RZFlCMXpScGdmclNyWWtrbEJaOEw4WU1USDhvbUZpSUxCZE52VTNfTE0zbFJtVFZyaFJDbHJX?oc=5",
    "source": "朝日新聞",
@@ -166,14 +166,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-16 14:14",
    "published_iso": "2026-10-16T05:14:00+00:00"
-  },
-  {
-   "title": "「スマホ見ながら運転しない」 外国人労働者に交通安全講習 浜中",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRck9kWUNsaEdkOTlOWjdSei1NeG1xcEVZeGltU3ZxM0VXYnlwWVhpV09KV09sMlJfQ2VYeTFSdmJRbzJ3RkJzeGF0REFOeXRLR0xuaXFVTHJkUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-16 13:11",
-   "published_iso": "2026-10-16T04:11:21+00:00"
   },
   {
    "title": "パラスポーツがつくる共生社会 障害の有無超え、共に孤立防ぐ",
@@ -249,11 +241,11 @@
   },
   {
    "title": "「走らない鬼ごっこ」から見える共生社会と人理解 パワーリフティング日本代表・山本恵理選手の思いとは",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LZGlqWWhNZTZrdWpKcFlOcXdZSndzSUxENFp0c1RHVVA0aEFCMmZkYUZFSmxoNkYyVk1NN2liek1FaGp2OHpKSjJ2a19oM1hkTHF6Rw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-16 05:10",
-   "published_iso": "2026-10-15T20:10:00+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ME5FMDdYbkQwZkNBMkNzVFRxd1RKOUpheGZhTG9lUUpxYU9PNGN2LVpOYzkwZDJhSFJRVU1QNHRqeXNYd0lHSkNsNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-16 06:15",
+   "published_iso": "2026-10-15T21:15:45+00:00"
   },
   {
    "title": "櫻井翔さん、国連UNHCR協会の「国連難民報道ディレクター」に就任 難民や支援に携わる人々が抱える困難・現状伝える",
@@ -398,6 +390,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-13 07:38",
    "published_iso": "2026-10-12T22:38:41+00:00"
+  },
+  {
+   "title": "米当局、民主党議員宅を捜索 中間選挙控え、政権と対立",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04MFkzd21jZ1pyMzNHUmdzRDhOQlRLVy1GbGpFbnhYZHBERFJBNnhWd2UyZlNJd0ZZNl9rVk4zWVF0NVo1M0RKOGgzUDRmSjhLa09J?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-13 07:06",
+   "published_iso": "2026-10-12T22:06:00+00:00"
   },
   {
    "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
