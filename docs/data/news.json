@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T14:56:29+00:00",
+ "generated_at": "2026-10-17T17:46:48+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -29,7 +29,7 @@
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-17 12:32",
-   "published_iso": "2026-10-17T03:32:21+00:00"
+   "published_iso": "2026-10-17T03:32:00+00:00"
   },
   {
    "title": "福井の「農園たや」が農林水産祭で天皇杯 DXと外国人材育成評価",
@@ -126,14 +126,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-17 05:00",
    "published_iso": "2026-10-16T20:00:00+00:00"
-  },
-  {
-   "title": "外国人学生らが語る 日本の教育との違い 知内で交流会",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nN3dmRE1HSGI0RUNJR3dSMmxYck8yT2ZtYVFweTh3SWd5WWo2ZWFBdzJOT3JwNW5DamZKYklzSjlGM3hacWZUUlJ1eUxsdTl1Ty1YcHBMNDd4QQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-17 04:00",
-   "published_iso": "2026-10-16T19:00:00+00:00"
   },
   {
    "title": "【新たなアプローチ】外国人客の心つかむ“すし新戦略” 食べるだけじゃない楽しみ インバウンド消費が多様化",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-13 07:38",
    "published_iso": "2026-10-12T22:38:41+00:00"
+  },
+  {
+   "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-13 05:00",
+   "published_iso": "2026-10-12T20:00:00+00:00"
   }
  ]
 }
