@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T11:21:17+00:00",
+ "generated_at": "2026-10-17T14:56:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "外国人と中学生、車座で交流 東脊振中で「しゃべり場」 吉野ヶ里町",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92RXRWRV9Jc0ZTSzg2UGdvc0hKT3QzaGdTcXhYbGFRa2V5Z1pUenZTRVNva3BEbXR3M1NmTkNPQ1VSeWFzc3l2YXM2WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-17 22:15",
+   "published_iso": "2026-10-17T13:15:44+00:00"
+  },
+  {
+   "title": "「アジアパラ大会を起爆剤として共生社会をつくっていきたい」 愛知県知事らが会見",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nM1VzVGlvUlZ2U3NMTjZSbW5xTEdXWFdrY09YVVg2ZHVkdG1KZHZnVHZTZVFHNjZTcE9ocUlpbi1BanVfLWNOeVpldHlHMmRJQzdYSQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-17 20:04",
+   "published_iso": "2026-10-17T11:04:56+00:00"
+  },
   {
    "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZEs2U2xEY3VwYTdhMGxCdkEzajRmVzBnblRfc1J1N29fOW1LZlBZLVZtMEwzcUZSQkE0OUZHcElhaXpSenpmV1BubWVJTEthQ2N2aHNvSQ?oc=5",
@@ -110,22 +126,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-17 05:00",
    "published_iso": "2026-10-16T20:00:00+00:00"
-  },
-  {
-   "title": "人口政策 来月末提言へ 自民戦略本部 外国人や少子化",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WOENDUUNScW1lYUF0Z1gtUFN5MkdLaktaNzBKdnZWOXJHUjJFTUtJNmtDX1pDVzB6TG9GX3g1ZkNyZ2dxemhGNG5WY3BSZjhmWGYzQXRIT3plbWh4OHU2Z2NQVQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-17 05:00",
-   "published_iso": "2026-10-16T20:00:00+00:00"
-  },
-  {
-   "title": "在留外国人 最多428万人 6月末 厳格化「経営」は入国激減",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NTmJBVnc5LUZvQ0tWd2I0anFYZzdsSEkwb0RwNjd1c0J1THVEZ3pOSHJzQlhodnN1RUF6WU5QVXpiTkprcUJOemN2UnhiT09RTFdSbnRIUERvdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-17 04:00",
-   "published_iso": "2026-10-16T19:00:00+00:00"
   },
   {
    "title": "外国人学生らが語る 日本の教育との違い 知内で交流会",
@@ -328,6 +328,14 @@
    "published_iso": "2026-10-14T07:16:00+00:00"
   },
   {
+   "title": "スペイン国王、移民危機のセウタ初訪問 不法入国は「EUの脅威」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSDBmUU5UZ1Z1YUc5c2tDTzlqQjllMzRCOGFhUDdZal9TMHYzYVZzTzhnallBTkRxcmF2Yml1bTJrTVV6YkdQLWVEbnhwT2dTM1UxMERqQVNIZTRBMHc0S3JaalJVM0dVc05qQQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-14 11:00",
+   "published_iso": "2026-10-14T02:00:00+00:00"
+  },
+  {
    "title": "プレスリリース：［東京・年末特別セミナー］「育成就労の監理支援機関」と「新要件の登録支援機関」、4月1日までの抜け漏れを防ぐ最終整理セミナー、12月15日開催（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBMVhYQno1YXQ5WTZPdkd3SlVHcFVscUFVQXdHamhFM1BlNTVnd1dfR3VvNEJXeFhWUWMtRUZPLXNEQXptcHpRVThmQUNZWnNRN1BIWDRXYWdBVl9DNU1leWZHV2tJbWdl?oc=5",
    "source": "毎日新聞",
@@ -342,6 +350,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-14 05:00",
    "published_iso": "2026-10-13T20:00:00+00:00"
+  },
+  {
+   "title": "エジプトで中高生の日本語教育導入 授業公開「将来架け橋に」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DZ3NYbFZGRHJ2R1kxeHM4VWNabHN3ZjdtUVFGcGFFLTRXYmtMVzI3R09ndkRJUWd3ZUI5b1ZodkJ3bmpucFZ6VGxXOTFpUmdHcDdobDZjclM4SG9ETU5QRkVWMA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-13 21:11",
+   "published_iso": "2026-10-13T12:11:00+00:00"
   },
   {
    "title": "米移民当局、ソマリア生まれの民主党議員宅を捜索 トランプ大統領を度々批判 中間選挙前…候補者を異例の捜査",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-13 07:38",
    "published_iso": "2026-10-12T22:38:41+00:00"
-  },
-  {
-   "title": "特定技能「給食｣｢介護」の採用継続へ 政府が区分変更案、制度に綻び",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yd2c0R0lQejhFRG1MWF9oU2JXLXhienBhY3dPQlBucjBDY0MzUHJycmNlRjFXOU5TM256Rjd2NXhaVU9yMHB2N0NzT3dEc1RzMnowTE1UOVFtZ2t0ZlhmNXVTTDA1ejh5anpKQw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-13 05:00",
-   "published_iso": "2026-10-12T20:00:00+00:00"
-  },
-  {
-   "title": "元ソマリア難民の米民主議員宅捜索と報道 移民対策批判でトランプ政権と対立",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YeVVpbXNnNGJ2azFDdUtYV1pfZ05xdGI5ejhsckV2OVhCSjVuQlJvX0FybnNIY2xjeXhUZ1EtWEZ0YkVVWG9KaXpYcXRad0Jhd09XN2xURGpFZUJjX3l2OXdjRHRZZm1xMGVaMHczYUJVYjN1Vmc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-12 23:57",
-   "published_iso": "2026-10-12T14:57:22+00:00"
   }
  ]
 }
