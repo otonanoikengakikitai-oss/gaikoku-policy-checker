@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T05:42:28+00:00",
+ "generated_at": "2026-10-19T12:05:59+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,108 @@
  ],
  "items": [
   {
+   "title": "自転車で松本市内を巡る外国人、実は多かった 地元中学生が交通ルール啓発の英語ポスター作成",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81aUJYTTV2V2tObTRkQThZVEZoX1pMbzg2a1VuZDlvRGVPUnp1NURYLUE0NVhaQ19uTHpwZ05oU1FpQlRCSG14WkJDd0FiSFZwRjBKWGJKQjNtdDdaS0JTcXpLaVJZN0I3bzlBbk5teVI?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-10-19 20:43",
+   "published_iso": "2026-10-19T11:43:00+00:00"
+  },
+  {
+   "title": "外国人ドライバーの採用強化へ 物流業界の課題解決に向け協議 業務の効率化図る取り組みなど紹介 秋田市",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXS0VPaWFWTXI1OHZfcG1kY1JCeFNwSmtCdnAzN2xyeHI5ZjBTa25EZ0ZBR3I1cWtWSHFnc01YbnpQcUs1UWt0NURTZktGZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-19 19:00",
+   "published_iso": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "外国人材受け入れに関する政府の有識者会議＝19日午後、法務省 - 外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zdHYtZTk4UlBmRlB0MlpfSzZGY1pLRkxoZmlXeGVrTGtleFlYNUplU3V5Y0djekt2RXFRbEVoTXdDRG1wTW5XMWhFbTZ2Z2cxUS1DSkYwQQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-19 18:53",
+   "published_iso": "2026-10-19T09:53:32+00:00"
+  },
+  {
+   "title": "桂かい枝さん、やさしい日本語で外国人に落語を披露…笑いの輪ひろがる：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2tLRFRqSFlmWF9FZ0hQSm4zd09HTWNRTDZaNnlBVWVib3gyMWZLa3pnNUFHM3BwWFlpcmJGY24ydDhLTGRiaGE5b2VtR3ZiVW1NSVBwbldPMXVJNTFIQTJJcnV3U3NROFp5REhJbFZiRi13bkNqS2NyWjMwbTlheldn?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-19 18:00",
+   "published_iso": "2026-10-19T09:00:00+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ＝来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92R3BXTUM4bXhZd1lyTmdaMWtlR3hmSk1xOGQ3R2kyeHhXTTBPNFpLV2ExZWVYc19wRXFrd0RoZ2dkUlVKVEtoOXR0VQ?oc=5",
+   "source": "時事メディカル",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:32",
+   "published_iso": "2026-10-19T08:32:00+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
+  },
+  {
+   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:00+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VWNJeS1OVkNGTmJDTHNrdWFpNWxoOUw5REJtUlpVR1h2Y3NtRkRpRTRmVm4tbnNlQUFlYndqdzBWbWVZdWZRX2YwVlRMY2Q5VGk4WjlBaHFtNG9kWkJvQUZPbmZSZk0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-19 17:24",
+   "published_iso": "2026-10-19T08:24:28+00:00"
+  },
+  {
+   "title": "愛知・名古屋アジアパラ大会が開幕、24日まで熱戦 共生社会の実現目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fdm0zTHg2WjY2UFNYSjdlUVdnc0c3dWZwbUpFb0FxSUZhYWZ5V1lwWFM3X0VLeGI5eEFSbXZrdVdIUEZ0Q1RFVVIyRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-19 17:16",
+   "published_iso": "2026-10-19T08:16:03+00:00"
+  },
+  {
+   "title": "宮城県、在住外国人向けニュースアプリ新設 多言語AIチャットも",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01eW1fNFZmTFpqQWxLc3ltSHZwYnQ4UWFqVFc2VVZQaFFfRlkzUHpYZHprRWp1LUwzUHJmdUZwQTQzbEo3THhhX2dwNFNyQUY1NWY4ZG1BV2dnV3p5empmMTNVX3BmVC1kS0s3aw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-19 16:30",
+   "published_iso": "2026-10-19T07:30:00+00:00"
+  },
+  {
+   "title": "宮城・村井知事、外国人施策「定住人口増やすとは言っていない」 労働力不足への対応重視",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVFNOdVZCRi1rUXBiZG00ZXc3WkVWbVhOMlZ5cnF4MDcyRlMwMjFkWU5XR0FVMUp2UmtkcnJmeGQ0ZnI1QVJfTU5CY2ZiWnRTemFYWFdUdHpkRmdhaVpGN1BsTkgxd04yX3RDS3BmQXUyNnBscGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-19 16:22",
+   "published_iso": "2026-10-19T07:22:50+00:00"
+  },
+  {
    "title": "【メイクワン】碧海信用金庫とビジネスマッチング提携を締結。78店舗の地域金融網を通じ、三河のものづくり企業へ特定技能人材を供給",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15NU1ybnhXNzRId3JVbFUtaHE0WjFJUkJTOUZsbVVHRW5LcUd1LXpiRmFVeEdudmItTFA0LVVscFZVT3dkQ2JWTEVZSW9FSm16c3dBcGthYk9GTUhiM0JndjVreVp2c0g2TmFF?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-10-19 13:45",
-   "published_iso": "2026-10-19T04:45:00+00:00"
-  },
-  {
-   "title": "デマと差別「許さない」 有楽町で集会 弁護士や学生らアピール",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxcko0RF9USjNlZklyd1dUS3RCbFA3QTk0NGNTNnM5bjE0OWw0N3pKcGowZHZ0UTI1MEtyX3AtOVRwYzJFdExZZm5PbEV4akRtdUFz?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-19 07:11",
-   "published_iso": "2026-10-18T22:11:55+00:00"
+   "published": "2026-10-19 13:46",
+   "published_iso": "2026-10-19T04:46:00+00:00"
   },
   {
    "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
@@ -120,28 +208,12 @@
    "published_iso": "2026-10-18T12:50:00+00:00"
   },
   {
-   "title": "【動画】愛知・名古屋アジアパラ大会が開幕、24日まで熱戦 共生社会の実現目指す",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52UU90bXUwSnJndGJvMEE3dXpnVkFWRHhqaWI4SVB0ZFFweF9sNzNOQXRKNzFOZDRUdkFsLUNHMXhYelUzb0VVOV84ODZGU0dycG91Uw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-18 20:48",
-   "published_iso": "2026-10-18T11:48:46+00:00"
-  },
-  {
    "title": "一緒に「上を向いて歩こう」 北見合唱祭に外国人ら混声合唱団 [北海道]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoUEZPNFFtUXVZVThkb3RpN1hDaVNKVllEWl9VWDE4bzU0UGsxcTVsWW9iVDI1cnMwU3RlTmVuSWlDWWNIS0NPZzczX0NwZHhadFl2Vks5Y3VmR0VqQWlGNnB2dmZ6eEU?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-18 20:00",
    "published_iso": "2026-10-18T11:00:00+00:00"
-  },
-  {
-   "title": "県内在住の外国人に日本文化を そば打ち体験会開催【佐賀県】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92aU1LVmFVNXRKODh3enhmMXVQWktLSlhickVYOEZVZEpBODROMk9QaE9YckczbVdYLXpnVlJ2NnR5RTB6SEcxQ3pjMFUtQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-18 17:44",
-   "published_iso": "2026-10-18T08:44:00+00:00"
   },
   {
    "title": "日の丸託せる者を選ぶために 「対外国人選手」を直視すれば課題は山積 鈴木桂治 スポーツ一刀両断",
@@ -200,36 +272,12 @@
    "published_iso": "2026-10-17T11:04:56+00:00"
   },
   {
-   "title": "地域を支える力に「インドネシア技能実習生」長崎で技術を学び成長する若者たち《長崎》",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnFzOUh1NW5qbG9PRHV1OXdKN2NqVVhaRml4QXp1a2w0ZFo2MVZYYVRmNFpiTEdkU21MNzNLSmNrNVBEc3B1UHlaMnZQX1dHOXhPcmxqWWJfUTVsUFFTRFJ1bXdGSlRacDF3N3FvX3oySGR5ZlR5cjc3UkY1QUNZOGJiaEE1RTg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-17 19:00",
-   "published_iso": "2026-10-17T10:00:00+00:00"
-  },
-  {
    "title": "ビザ厳格化で外国人経営者が悲鳴 必要な資本金500万→3000万円引き上げ 静岡のインドカレー店「売上4倍必要」廃業の可能性も",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZEs2U2xEY3VwYTdhMGxCdkEzajRmVzBnblRfc1J1N29fOW1LZlBZLVZtMEwzcUZSQkE0OUZHcElhaXpSenpmV1BubWVJTEthQ2N2aHNvSQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-17 12:32",
    "published_iso": "2026-10-17T03:32:00+00:00"
-  },
-  {
-   "title": "福井の「農園たや」が農林水産祭で天皇杯 DXと外国人材育成評価",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OMll1NndGcy0xb0JNNTRKWkw0cERWbzg1WFdyV2RIUHNlamRJdWE4T0ljNk16NE81SE4wVG9IeFk5QW9YeDZJTGdfOUFuQnpFWGh6Vl9oOVU0Uzh2LTNRU2RBdUtnTWZu?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-17 12:15",
-   "published_iso": "2026-10-17T03:15:00+00:00"
-  },
-  {
-   "title": "大阪・西成区は「約6人に1人が外国人」留学生の暮らし守るため…警察署と語学学校などが協定結ぶ",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fWXNLZmVDbFdjdk1vdjI1LUF6SG5IaWI3dHk5aEJKU2NzS1VpblF0dFdxUUlfNWJ2YmJXWlVKd240Q2tUSkthU2M3TUthVjdxLUZXdV92NA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-17 11:00",
-   "published_iso": "2026-10-17T02:00:53+00:00"
   },
   {
    "title": "和歌山県の外国人雇用ホームページ、不正アクセスで2000件以上の情報漏洩か",
@@ -264,14 +312,6 @@
    "published_iso": "2026-10-16T21:00:00+00:00"
   },
   {
-   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nZDMwcFktQXFUZFItYWh0bFNrYTV3ZmswWk9sQ3Q1cnVnMTE1VE1aSzc4ZzNaa2dJNnRhTm9wTHVfTk9idjkyYllLRFM2RDA3VFp0bA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-17 05:05",
-   "published_iso": "2026-10-16T20:05:00+00:00"
-  },
-  {
    "title": "「経営・管理」新規入国８割減 前年比 在留資格要件の厳格化で",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZUpiblZPb09ObjJ3dnI5N1MyZENtQndHMTh6OW5RZFlCMXpScGdmclNyWWtrbEJaOEw4WU1USDhvbUZpSUxCZE52VTNfTE0zbFJtVFZyaFJDbHJX?oc=5",
    "source": "朝日新聞",
@@ -294,14 +334,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-16 19:11",
    "published_iso": "2026-10-16T10:11:15+00:00"
-  },
-  {
-   "title": "日本で暮らす外国人428万人と過去最多 中国がトップ 次いでベトナム、韓国",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5na2V0SXRzN3FPaGU3aG4xTmgtUXAxcnZMaXN3azZlWmpwa255S0NSOU1UREpWVUk2NWFhQ0ZETG9Oc0lWTlJHN20tZlhpQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-16 17:45",
-   "published_iso": "2026-10-16T08:45:00+00:00"
   },
   {
    "title": "「在留外国人」４２８万人、過去最多…対策強化の「不法残留者」は４・８％減",
@@ -334,14 +366,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-16 10:04",
    "published_iso": "2026-10-16T01:04:12+00:00"
-  },
-  {
-   "title": "在留外国人増、6月末428万人 最多更新、厳格化で「経営」激減",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1UnVSdFBEVjdmLVZZNnh0TktRclc4U29iUm84Wlk2Ty1xRGh1NmxzSzNRNC01VEZCdVV1WGQxQmt4ZVlRbzJyNk5GWEJlMElESTJHSFhoX1NJZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-16 09:51",
-   "published_iso": "2026-10-16T00:51:29+00:00"
   },
   {
    "title": "在留外国人、過去最多４２８万人 新規入国減少、中国自粛影響",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-16 08:38",
    "published_iso": "2026-10-15T23:38:37+00:00"
-  },
-  {
-   "title": "在留資格「経営・管理」新規入国が8割減 要件厳格化の影響顕著",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4M0kxUF92TWJRZjlXVVVibkM1ay04bmV2bzNVQ09QdkpyVFpMLXFRUjFUVjUxbUFYRnlIOEJMVktya29DQ3oyWTlOX3o4WVVxeDFlbVo4Nm1MeHcxQ3ROWjBROU9SRUxl?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-16 08:35",
-   "published_iso": "2026-10-15T23:35:42+00:00"
-  },
-  {
-   "title": "「走らない鬼ごっこ」から見える共生社会と人理解 パワーリフティング日本代表・山本恵理選手の思いとは",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ME5FMDdYbkQwZkNBMkNzVFRxd1RKOUpheGZhTG9lUUpxYU9PNGN2LVpOYzkwZDJhSFJRVU1QNHRqeXNYd0lHSkNsNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-16 06:15",
-   "published_iso": "2026-10-15T21:15:45+00:00"
-  },
-  {
-   "title": "群馬県、外国人受け入れで「適正規模」調査 山本知事「ペース速すぎ県民の不安広がる」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmTnNfV29OMGZhUThuQktaQWlUczF0SHh6RDNzQ0pURmZna0VGM1ljXzVIVko4OTdNQW83cW1rdy1JQW0zOEIweTJ3LXlCSnlMLXZSdDNxbXk4RXlzN3IzMFR4a1FzNWw2M3EyZGYtOFVXdWpkUUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-15 18:56",
-   "published_iso": "2026-10-15T09:56:40+00:00"
   }
  ]
 }
