@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T12:05:59+00:00",
+ "generated_at": "2026-10-19T18:59:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,36 @@
  ],
  "items": [
   {
-   "title": "自転車で松本市内を巡る外国人、実は多かった 地元中学生が交通ルール啓発の英語ポスター作成",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81aUJYTTV2V2tObTRkQThZVEZoX1pMbzg2a1VuZDlvRGVPUnp1NURYLUE0NVhaQ19uTHpwZ05oU1FpQlRCSG14WkJDd0FiSFZwRjBKWGJKQjNtdDdaS0JTcXpLaVJZN0I3bzlBbk5teVI?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-19 20:43",
-   "published_iso": "2026-10-19T11:43:00+00:00"
+   "title": "特定技能1号 給食調理員 受け入れ再開 外食から付け替え 来年4月見込む",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VSUQ0MmpMVWVzVnNNVFhnRGNxajQ1NWZSTHl4d2txU0NNR0IyY0p6dlZGSnVoVjlJYmk3ZHdka0U1WDdyejdOM29FVlNPRWZieVJJWDZ1ZGxTMXNjcklZamI2Q29tWE5v?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 03:28",
+   "published_iso": "2026-10-19T18:28:26+00:00"
   },
   {
-   "title": "外国人ドライバーの採用強化へ 物流業界の課題解決に向け協議 業務の効率化図る取り組みなど紹介 秋田市",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXS0VPaWFWTXI1OHZfcG1kY1JCeFNwSmtCdnAzN2xyeHI5ZjBTa25EZ0ZBR3I1cWtWSHFnc01YbnpQcUs1UWt0NURTZktGZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-19 19:00",
-   "published_iso": "2026-10-19T10:00:00+00:00"
+   "title": "特定技能「給食」の受け入れ再開へ 受け入れ停止の外食業から区分変更案を政府提示",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TTDh5MzJHWk5rdlpteFZHbmR6SzBWVlBHNUYtQm5KM01pMkVIVjl0ZnNxWkhBLXcwTmtZanIyUmlYdGV2ZV8xZXBNd0RzOUtMeEJCY1otRDctYVJ0d0l3MzF6ZVQ4UFVaakRBVExhQ3VOUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-19 21:42",
+   "published_iso": "2026-10-19T12:42:15+00:00"
+  },
+  {
+   "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdGZab3FJOEV2NTJRMzhPc0hpc1NyT1h1YXh0MV9peXpNSU15a0RPOWFpck5WWE83UTVudVh4Znk2VmsxZTVWOW5sOEYwamRZbzlLTUdld3NtUm9zTVJocnRsQW1jZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-19 20:52",
+   "published_iso": "2026-10-19T11:52:00+00:00"
+  },
+  {
+   "title": "【奮闘に密着】人手不足の切り札になるか⁉外国人路線バス運転手もうすぐデビュー（2026年10月19日掲載）｜KKT NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWR0REVaMUozcTUyOUR2VUVHX0F0N0ZFNjFkMUt4TXBaSG82bWlBQUlLVHRtU3FzWDVyV3ZWYzBYRlNjREwtUEc1UWJ5dmNvT01SVENacmRtOFFZb3lYcFdFT29NY200UGFzdk9sR2lkTmJVVXM0c09JR2ktSks0LWlNaVJrYVE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-19 19:34",
+   "published_iso": "2026-10-19T10:34:00+00:00"
   },
   {
    "title": "外国人材受け入れに関する政府の有識者会議＝19日午後、法務省 - 外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設 - 写真・画像(1/1)",
@@ -30,6 +46,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-19 18:53",
    "published_iso": "2026-10-19T09:53:32+00:00"
+  },
+  {
+   "title": "外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LRktzSG1YQzF6ZEItNUVENWN4eHpYUXZQSTNpV1kyM3RJU2lNM2x1TUdKdmZUQWZxVEV3ZUI5d1J4X0lXcjd6dy1FMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-19 18:07",
+   "published_iso": "2026-10-19T09:07:00+00:00"
   },
   {
    "title": "桂かい枝さん、やさしい日本語で外国人に落語を披露…笑いの輪ひろがる：地域ニュース",
@@ -72,7 +96,7 @@
    "published_iso": "2026-10-19T08:30:00+00:00"
   },
   {
-   "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案",
+   "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案 [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VWNJeS1OVkNGTmJDTHNrdWFpNWxoOUw5REJtUlpVR1h2Y3NtRkRpRTRmVm4tbnNlQUFlYndqdzBWbWVZdWZRX2YwVlRMY2Q5VGk4WjlBaHFtNG9kWkJvQUZPbmZSZk0?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
@@ -128,14 +152,6 @@
    "published_iso": "2026-10-18T21:30:00+00:00"
   },
   {
-   "title": "〈社説〉在留要件厳格化 排外主義が社会ゆがめる",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TYzB5NEQ1bTQ2NDVMMDlNZEJpT0RzaDJReFpxVlAxX2Y5ZEw1VmVVUThwT0lpUHJEM1V2TWR3YVRlY2QzTjZjUkJJbjI0cGhyRzJfSEZnem5obHY2OGpldEd3OUlISG9uWENUdGFiM28?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-19 06:00",
-   "published_iso": "2026-10-18T21:00:00+00:00"
-  },
-  {
    "title": "ブルーサンダー開幕へ 外国人トリオ融合なるか",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LVktKaTRkdUV1X1ptM1hLSlgxZWMtYWxjNlhWbU0wQWtjTFRGN0hoaUZQYlRQRDVhM3lQSnAxUW10RXZoWWpWYVJCZjBrWnVMWENsdWZmclJNRFU?oc=5",
    "source": "中日新聞Web",
@@ -150,6 +166,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-19 05:00",
    "published_iso": "2026-10-18T20:00:00+00:00"
+  },
+  {
+   "title": "【パラダイム・ラボ】が特定技能人材の採用課題を解決する新プラットフォーム「アズリーチ(R)」を10月15日より提供開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fb2RIbm9ORmxnVVdYejJZRzU0a1NTQzd6SDRXUXZYdXo4eHFkZjJjd3FJWWtubXpSWUVreV9KQ0F6QlF4NHJjbmVvUDk5SnFLREtqODJNUTRnUnBpemIzNGI0Z3FhNEZNcFRj?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 03:10",
+   "published_iso": "2026-10-18T18:10:00+00:00"
   },
   {
    "title": "「高度外国人材」年収要件上げ",
@@ -240,14 +264,6 @@
    "published_iso": "2026-10-18T03:58:21+00:00"
   },
   {
-   "title": "児童書＞「難民となった子供の苦悩と強さ『ぼくの名前はサミーム』 フィダン・ミークル作 もりうちすみこ訳",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMjNrazR3bWQ2SGNhRnZGelFKYmZOc0RfMVFXY2Y0S1h5ZEo5a056UUJhOXI1cHNNa2cwSlBXZ2NQRF80X2F4YjB2LVFLNmMzdVRfMGtRZVAyMmNIdDRsR2hIMVo1c29taEFlTjhlT0x6Vlo4TGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-18 07:30",
-   "published_iso": "2026-10-17T22:30:00+00:00"
-  },
-  {
    "title": "スーパーに行けない“買い物難民”を救え 富士見町で始まった支援策",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZlFaZGVXZS0wdTViUTZHal9SS25fLWM1eVZ4enN0QTFkdTNLOUN0eHJNaFF6cnJBZ2pFaGRLQ3ZFX2l5X2VYb0xGQ0Vsdkdud29NazZieDhJdUh5QlI1Q1JYbUt4cDVoZl9MQVdPdTk?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -278,6 +294,30 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-10-17 12:32",
    "published_iso": "2026-10-17T03:32:00+00:00"
+  },
+  {
+   "title": "福井の「農園たや」が農林水産祭で天皇杯 DXと外国人材育成評価",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OMll1NndGcy0xb0JNNTRKWkw0cERWbzg1WFdyV2RIUHNlamRJdWE4T0ljNk16NE81SE4wVG9IeFk5QW9YeDZJTGdfOUFuQnpFWGh6Vl9oOVU0Uzh2LTNRU2RBdUtnTWZu?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-17 12:15",
+   "published_iso": "2026-10-17T03:15:00+00:00"
+  },
+  {
+   "title": "大阪・西成区は「約6人に1人が外国人」留学生の暮らし守るため…警察署と語学学校などが協定結ぶ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fWXNLZmVDbFdjdk1vdjI1LUF6SG5IaWI3dHk5aEJKU2NzS1VpblF0dFdxUUlfNWJ2YmJXWlVKd240Q2tUSkthU2M3TUthVjdxLUZXdV92NA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-17 11:00",
+   "published_iso": "2026-10-17T02:00:53+00:00"
+  },
+  {
+   "title": "熊本地震「情報もらえず不安だった」外国人の『くらし安心セミナー』",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BN2wwVU94Tm5HemRCeE03NTJtRDM1aVR4UnpVbUxVbm9pVTlqUlVaNUxhTkgydGxxS1g2WTdDZHZkRTAzWTJYRXQ4SWphLWpleEtham0zbnlqMF9nN0xXeHFnWWtLcVk?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-17 11:00",
+   "published_iso": "2026-10-17T02:00:00+00:00"
   },
   {
    "title": "和歌山県の外国人雇用ホームページ、不正アクセスで2000件以上の情報漏洩か",
@@ -312,6 +352,14 @@
    "published_iso": "2026-10-16T21:00:00+00:00"
   },
   {
+   "title": "「古着を、難民の子のチカラに。」 知多市の岡田小学校児童が地域住民に協力呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nZDMwcFktQXFUZFItYWh0bFNrYTV3ZmswWk9sQ3Q1cnVnMTE1VE1aSzc4ZzNaa2dJNnRhTm9wTHVfTk9idjkyYllLRFM2RDA3VFp0bA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-17 05:05",
+   "published_iso": "2026-10-16T20:05:00+00:00"
+  },
+  {
    "title": "「経営・管理」新規入国８割減 前年比 在留資格要件の厳格化で",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZUpiblZPb09ObjJ3dnI5N1MyZENtQndHMTh6OW5RZFlCMXpScGdmclNyWWtrbEJaOEw4WU1USDhvbUZpSUxCZE52VTNfTE0zbFJtVFZyaFJDbHJX?oc=5",
    "source": "朝日新聞",
@@ -326,14 +374,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-16 21:04",
    "published_iso": "2026-10-16T12:04:01+00:00"
-  },
-  {
-   "title": "住民も技能実習生も水神様へ感謝こめて「登り口奴踊り」奉納 川南町",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5IalMyQUVTbW5rX1VqSXZiZ1IzY2l6SmdfZjd6NDYxOVI0Ni1VU1FBUVhrM1RMR1ZtM2ZhUi1vRVNJc2F1MEc5WVV0QQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-16 19:11",
-   "published_iso": "2026-10-16T10:11:15+00:00"
   },
   {
    "title": "「在留外国人」４２８万人、過去最多…対策強化の「不法残留者」は４・８％減",
@@ -366,46 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-16 10:04",
    "published_iso": "2026-10-16T01:04:12+00:00"
-  },
-  {
-   "title": "在留外国人、過去最多４２８万人 新規入国減少、中国自粛影響",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1TGxTY25fclJsN0RUMmhaZGQtMzJSQjJsR1ExTHFjajRNUExUdDV4V3RMQ25fMnZVTmRkVnl6bU1ZdFZRVjU5UG5OMWYtc056WWVGXzMwcEZWYmY2NExiMGVKSQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-16 09:42",
-   "published_iso": "2026-10-16T00:42:00+00:00"
-  },
-  {
-   "title": "包摂と排除を考える －フランスの移民政策を事例として－",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiWTNFOXY4c0R6cThERVVIbWNWaXFyMHVnM3dVT21ZdDhIbTdIOFgxUURJMkFKT0dCZ1Nma05la25UYXRGREJyRTBBWWZ5REN5bXk5OGhGX3lLYlFUWWdHYlNhbW9YQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-16 09:24",
-   "published_iso": "2026-10-16T00:24:51+00:00"
-  },
-  {
-   "title": "不法残留者5%減、在留外国人は過去最多428万人 入管庁公表",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwX3JZREpHQWJKZ2tXOEZ6UlJlRm5WZW1ISDJLcHZTS2NiTXU0a1VMTUdSVkNVRW1YTDJfVDUtWnBuT1JiZDN2TlRCdmVXRXhkMzdyTWxHT0psQ1pJNHNPeFA0X2l0akRoVDB2VA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-16 09:15",
-   "published_iso": "2026-10-16T00:15:43+00:00"
-  },
-  {
-   "title": "2026年上半期の外国人新規入国者数が「減少」 コロナ禍以降はじめて 中国の大幅減が影響か（2026年10月15日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UQ0NoNTd0amtEWXRUZHhLS2R4ekZSQXhPTHhhaDJ2eGx5TDJFSGoySVZOcDBOcUl2MzgtWGpQc3o5LVdjOGFkcXpVNnV6N0dlTHZKdDFkZDVGVTRhQjR2N2FhM0U0dFJXX095OTB0YkdwNzYwQ1Z2MkMyU1E?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-16 08:53",
-   "published_iso": "2026-10-15T23:53:01+00:00"
-  },
-  {
-   "title": "「経営・管理」の外国人、新規入国8割減 新要件は適正？厳しすぎ？",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yUC1QclRyNDJtemwyVk83VjY2U05KLWFKRlZfOEpOMDRUNE9YVEtlX0JmUjB3Z1RfeTVianp0dG1JcFpxUVYwal9idWtPXzUxemc1YTg0eU42N2gtT19LNmdNUzFJMXM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-16 08:38",
-   "published_iso": "2026-10-15T23:38:37+00:00"
   }
  ]
 }
