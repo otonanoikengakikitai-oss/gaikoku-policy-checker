@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T13:19:12+00:00",
+ "generated_at": "2026-10-20T18:19:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "難民支援へ緊密連携",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWjRBVEhhWjY4X3hTR3pUQURhUUFIT3VxaVAxNC1VWXNyVUY3XzJBSklCZmRNVkdFeDlrYkZLSm54VDBuaVV6YXJoVUhpU01wZXJlUldCamwxT01xUGNtT3lIUkU?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-21 01:52",
+   "published_iso": "2026-10-20T16:52:06+00:00"
+  },
   {
    "title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5",
@@ -16,12 +24,12 @@
    "published_iso": "2026-10-20T12:26:00+00:00"
   },
   {
-   "title": "難民支援へ緊密連携",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWjRBVEhhWjY4X3hTR3pUQURhUUFIT3VxaVAxNC1VWXNyVUY3XzJBSklCZmRNVkdFeDlrYkZLSm54VDBuaVV6YXJoVUhpU01wZXJlUldCamwxT01xUGNtT3lIUkU?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-20 21:22",
-   "published_iso": "2026-10-20T12:22:05+00:00"
+   "title": "特定技能・育成就労の上限123万人 山下法相「見直し考えず」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RY0M0emF0TkNWMlZaUEw4QWh2R3VIM0hfdXRvUS11ZmpzVHhHamxXWDY3TUlvdmVtSGNBYXZhcS1YaDMtRmJ3a0NqeDZpQlVkY3VESGo5TjVGSVB3TXJqRXkycVBwTGZu?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 20:08",
+   "published_iso": "2026-10-20T11:08:29+00:00"
   },
   {
    "title": "難民支援へ緊密連携 高市首相、国連高等弁務官と一致",
@@ -136,14 +144,6 @@
    "published_iso": "2026-10-19T20:00:00+00:00"
   },
   {
-   "title": "特定技能の給食業 来春受け入れ再開 政府案 医療・福祉施設対象に",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRER3QnZFSnRFdXpoN1lUR2hnTXNGc3JleGw2bzA4b2ZzQmFEVndCNGFzMU16YmR1MEs0cU4zaWFCNTBZOVYzdEQ0R0VXYXQzYTVERGJOYXhVUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-20 04:00",
-   "published_iso": "2026-10-19T19:00:00+00:00"
-  },
-  {
    "title": "変容するアメリカ：2026 中間選挙 注目区ルポ テキサス、38年ぶり民主議席か（その1） 移民排除、ヒスパニック失望",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MFRZUGlFZnU4XzJNblFxMzlxR2tvMklUelp5OXg1dkxSTGdDaWRTc3NQRUNIZjRDa2RRU2I2Z0VrTFYzajRLQjVqbTJTMTBncDdlamtUbjgyeUQ2QUJ3MEo2V20tX19J?oc=5",
    "source": "毎日新聞",
@@ -208,14 +208,6 @@
    "published_iso": "2026-10-19T09:07:00+00:00"
   },
   {
-   "title": "桂かい枝さん、やさしい日本語で外国人に落語を披露…笑いの輪ひろがる：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2tLRFRqSFlmWF9FZ0hQSm4zd09HTWNRTDZaNnlBVWVib3gyMWZLa3pnNUFHM3BwWFlpcmJGY24ydDhLTGRiaGE5b2VtR3ZiVW1NSVBwbldPMXVJNTFIQTJJcnV3U3NROFp5REhJbFZiRi13bkNqS2NyWjMwbTlheldn?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-19 18:00",
-   "published_iso": "2026-10-19T09:00:00+00:00"
-  },
-  {
    "title": "特定技能「給食」受け入れ再開へ＝来年４月、食品製造に分野移行",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92R3BXTUM4bXhZd1lyTmdaMWtlR3hmSk1xOGQ3R2kyeHhXTTBPNFpLV2ExZWVYc19wRXFrd0RoZ2dkUlVKVEtoOXR0VQ?oc=5",
    "source": "時事メディカル",
@@ -244,6 +236,14 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "title": "医療・福祉の給食業、特定技能「外食業」から区分変更へ 政府が議論",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dGZ6cW5OaThzT0R2UmZLRW5DRXRrQlZOZEVITnJaenpzeHZDVWViYkp2QjlqNGwyR0tpRjBkZklhaTNjWFlNd0tpdDNXcEEzVVhxWFZ1MzA0Nk5JLWNiVVVnbzk0MzZVUUhaZg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-10-19 17:30",
    "published_iso": "2026-10-19T08:30:00+00:00"
   },
@@ -288,12 +288,12 @@
    "published_iso": "2026-10-18T20:06:00+00:00"
   },
   {
-   "title": "【パラダイム・ラボ】が特定技能人材の採用課題を解決する新プラットフォーム「アズリーチ(R)」を10月15日より提供開始",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fb2RIbm9ORmxnVVdYejJZRzU0a1NTQzd6SDRXUXZYdXo4eHFkZjJjd3FJWWtubXpSWUVreV9KQ0F6QlF4NHJjbmVvUDk5SnFLREtqODJNUTRnUnBpemIzNGI0Z3FhNEZNcFRj?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-19 03:10",
-   "published_iso": "2026-10-18T18:10:00+00:00"
+   "title": "愛知・名古屋アジアパラ大会 地元の声援、追い風に 祭典開幕 「共生社会」発信",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSHl6eWE2cFJWVHlfOHVYNXpmb3MzLS1WalB4Yk9LMHJ5SnBsek1YLXVkREVvSGtkNEtGSXZIdFBJdS0yVm9NbkVEVF9YdG41MDQtTUMxZzZhMlBnV2tBTnlNMFdmM01a?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 02:01",
+   "published_iso": "2026-10-18T17:01:57+00:00"
   },
   {
    "title": "模索する欧州：露関与？ 秘密の移民トンネル（その2止） 露の脅威、NATO側恐々",
