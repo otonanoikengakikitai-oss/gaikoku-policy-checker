@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T22:51:50+00:00",
+ "generated_at": "2026-10-20T01:33:45+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "医療再編、外国人との共生…花角知事が上越地域3市長と懇談、課題解決へ連携確認",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jbTY0ZnZfQlJRZzFBZl9ob3dhekNuZUtrZEV2YkFxaXJsNFRPd2JnYnFEREFLVGpzcVF3TkxlSUlYTjRGOGVMeXprMA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-20 10:25",
+   "published_iso": "2026-10-20T01:25:00+00:00"
+  },
+  {
+   "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 06:30",
+   "published_iso": "2026-10-19T21:30:00+00:00"
+  },
   {
    "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZSF9vOW01Z2hYUVVEd3hmNk8wcW14ZlhWcnJkVFZqQWRzZklnQVlaa3RRS3ZLa09ySkFIZVo1alV0YlBMZXVvRHJ6OC11UDc3dGM5WGtCWmF4UFVQbUF3eEg4TEdTQUxGaFpUX1hISQ?oc=5",
@@ -86,6 +102,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-19 18:53",
    "published_iso": "2026-10-19T09:53:32+00:00"
+  },
+  {
+   "title": "ライブで宿泊難民相次ぐ札幌 シェアオフィスで受け入れも「ホテル料金より安く」商機見出す新たな動き",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQmNhWkUyLURENklsVWVLdm9aaEhOcnY0N0syT1NxRjBtRkR5dlFHS2Mtb3plaHV0QW9QMkpGaUZELXM3cUJVOEFlSkVxMFpKai14blNjbHpUbkhneVJCMDZ4UkwwQ3pyMnJWVVNRMWZESmRybV8way11ZEJGTEM1OXJ6QmpTQzQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-19 18:43",
+   "published_iso": "2026-10-19T09:43:00+00:00"
   },
   {
    "title": "外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設",
@@ -382,30 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-16 11:01",
    "published_iso": "2026-10-16T02:01:00+00:00"
-  },
-  {
-   "title": "在留外国人428万人で最多更新 不法残留者は半年で4.8％減 上半期の入管統計",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54MWhqZ1Q1ZjRBdExWR1d6WG55YzVZTERkeEhSRFM4bHBwb0Uyb0lTX24xNUFtU3BRZmFIaWV3Uml0RDZubmc1cU8xbVpwZm9MOUhDalhsYVE4Y2ZzeDRkMzNINTlZQzgtYUc0b2NJVmdOekNpd1E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-16 10:13",
-   "published_iso": "2026-10-16T01:13:13+00:00"
-  },
-  {
-   "title": "群馬県知事「外国人の受け入れペース早すぎる」 県独自で許容規模調査へ",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhRTdpMnd4UlVYSE9fS1lKTmxqd0x3MElrcGItc2lXQTJ2ZHNkV0hGcmpmNHl0aXRCZGdDN2hyS0NkRjZKMm1Uekg0aDRiVjU2TEVUT3J3Z0tvTm5UdzR6Z0lnVzVGQUxLbW9IRnZtYlRaZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-16 10:04",
-   "published_iso": "2026-10-16T01:04:12+00:00"
-  },
-  {
-   "title": "在留外国人、過去最多４２８万人 新規入国減少、中国自粛影響",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1TGxTY25fclJsN0RUMmhaZGQtMzJSQjJsR1ExTHFjajRNUExUdDV4V3RMQ25fMnZVTmRkVnl6bU1ZdFZRVjU5UG5OMWYtc056WWVGXzMwcEZWYmY2NExiMGVKSQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-16 09:42",
-   "published_iso": "2026-10-16T00:42:00+00:00"
   }
  ]
 }
