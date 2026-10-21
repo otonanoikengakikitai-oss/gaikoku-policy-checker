@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T13:24:45+00:00",
+ "generated_at": "2026-10-21T18:21:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -38,14 +38,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-10-21 18:33",
    "published_iso": "2026-10-21T09:33:35+00:00"
-  },
-  {
-   "title": "プレスリリース：［独自調査］2026年最新：外国人に人気のホテル・旅館ランキング［新橋編］1位は「コンラッド東京」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URjVXX1ViUGRQcnBpd2gzaUhZRE11TUZxdmZqczNjTENZWGU4ZHl1ZHJYUVFUM0t2UTUwMHUwOGRNMVNHYmZ0Nl9rbkxZai1DMmJYNUdkQ09QWk1WVlI2Ry1yblh1WGJo?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-21 17:23",
-   "published_iso": "2026-10-21T08:23:43+00:00"
   },
   {
    "title": "９月の訪日外国人５．０％減 航空券の高騰、台風で欠航が影響 韓国・台湾は過去最多",
@@ -96,20 +88,20 @@
    "published_iso": "2026-10-21T06:00:00+00:00"
   },
   {
+   "title": "【独自調査】台湾の製造業における外国人労働者が52万人へ急増。「出稼ぎ」から「定住」へと移行する現場の実態と、日系企業における次なる人材戦略を紐解く最新レポートを公開",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Vnl1b0cySElKNktpb2FNZURjNGhfOEo2eFhQTEJ3U1paY2ttQmNlaFhBcFFPNnRMTU44U2JUVGh5SWVGRGZBMzNNcHQyMlhhOUxHcmRxXzk3YVdfb2FmbTlxN0tLSU1sN2h3cXRoMl9CUjhIRjFpZ1BKVQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-21 12:23",
+   "published_iso": "2026-10-21T03:23:28+00:00"
+  },
+  {
    "title": "【シニアの意識調査】「買い物難民」は地方だけの問題ではない？ 免許返納時代におけるシニアの移動手段と生活圏縮小のリアル",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WXV2V0hRZ2d0dDV1OVo2Tm5KUDdQVng3VEU5S0ktY0FpRmNGZGo2clgyMnZPRER3REpGVGVPMVdyN1A2MHc2eXZXVGh2SWQtTDFWengzU3hZZW9IUnUtZ3N4NmthWFNpSmtR?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-10-21 12:16",
    "published_iso": "2026-10-21T03:16:00+00:00"
-  },
-  {
-   "title": "「採用できるか」から「安全に配属できるか」へ 外国人ドライバーの安全教育を伝える連載コラムを開始 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14SlBYbzlmRXl0czd4cExHYVdwS1F0OGo4S2o4dVJmNWlsNEc0TndKTFJMY0llcGhhaXlvRVc5dFI4M3ZVamRmX0lPRzdUUUNPWDc2R2RfNA?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-21 11:36",
-   "published_iso": "2026-10-21T02:36:41+00:00"
   },
   {
    "title": "外国人の妊娠・出産・子育て支援 橋本財団、８言語でサイト開設",
@@ -158,14 +150,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 05:00",
    "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "ホテル従業員、客室清掃の技競う 留寿都 技能実習生らコンテスト",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQk1xM0FROGI3N01MU21jeEJzN01HS3BkejR2bDZzSF95RXB5dVk2SEEwS2w3RG1YZUdoYnAtNDhqUmQ5OFpqdzRlLWpQZVZmckJDRzltN1Q?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-21 04:00",
-   "published_iso": "2026-10-20T19:00:00+00:00"
   },
   {
    "title": "多文化共生社会を考える 11月21日、板橋で講演・シンポ ／東京",
@@ -400,12 +384,28 @@
    "published_iso": "2026-10-19T08:24:28+00:00"
   },
   {
-   "title": "宮城県、在住外国人向けニュースアプリ新設 多言語AIチャットも",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01eW1fNFZmTFpqQWxLc3ltSHZwYnQ4UWFqVFc2VVZQaFFfRlkzUHpYZHprRWp1LUwzUHJmdUZwQTQzbEo3THhhX2dwNFNyQUY1NWY4ZG1BV2dnV3p5empmMTNVX3BmVC1kS0s3aw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-19 16:30",
-   "published_iso": "2026-10-19T07:30:00+00:00"
+   "title": "宮城・村井知事、外国人施策「定住人口増やすとは言っていない」 労働力不足への対応重視",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVFNOdVZCRi1rUXBiZG00ZXc3WkVWbVhOMlZ5cnF4MDcyRlMwMjFkWU5XR0FVMUp2UmtkcnJmeGQ0ZnI1QVJfTU5CY2ZiWnRTemFYWFdUdHpkRmdhaVpGN1BsTkgxd04yX3RDS3BmQXUyNnBscGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-19 16:22",
+   "published_iso": "2026-10-19T07:22:50+00:00"
+  },
+  {
+   "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ySTQwQUp6TUlsRXJEMGdmUW1rS0k3X3I5azhFNEhXSTREYmVqUm5WYUhiVjB6WE04SGtyRnNJRnljMVZrM3lhWnVrSnhPQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-19 06:44",
+   "published_iso": "2026-10-18T21:44:00+00:00"
+  },
+  {
+   "title": "愛知・名古屋アジアパラ大会 地元の声援、追い風に 祭典開幕 「共生社会」発信",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSHl6eWE2cFJWVHlfOHVYNXpmb3MzLS1WalB4Yk9LMHJ5SnBsek1YLXVkREVvSGtkNEtGSXZIdFBJdS0yVm9NbkVEVF9YdG41MDQtTUMxZzZhMlBnV2tBTnlNMFdmM01a?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 02:01",
+   "published_iso": "2026-10-18T17:01:57+00:00"
   }
  ]
 }
