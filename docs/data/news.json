@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T01:15:53+00:00",
+ "generated_at": "2026-10-21T07:01:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,52 @@
  ],
  "items": [
   {
+   "title": "日本空港ビルデングとグローリー、訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」を運用開始",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DVk8waXI1aUg1RmlRa1c0NmN6dC1WV0dUc281Qnl2ME11VXZlUGVWMmdtOHllMWlRVHl3TmJOLWs5Mmw2R25Kck0ySF80UEpzWTBJbDZrRkFiNU1NOWxqSjkxandaOWdvc1VOdw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-21 15:05",
+   "published_iso": "2026-10-21T06:05:31+00:00"
+  },
+  {
+   "title": "広島だけで7万4613人 中国地方に住む外国人が過去最多の16万人超え",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WWl3eC1HQVY3UVZGNUZOUUhHdHFfUEhtM3ZjQ0hnMk9jWUVkQWdWYTVwQU9hak5lQ3NIYWg1SDVubi1Ua1JWTnJjUQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-21 15:00",
+   "published_iso": "2026-10-21T06:00:00+00:00"
+  },
+  {
+   "title": "【独自調査】台湾の製造業における外国人労働者が52万人へ急増。「出稼ぎ」から「定住」へと移行する現場の実態と、日系企業における次なる人材戦略を紐解く最新レポートを公開",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Vnl1b0cySElKNktpb2FNZURjNGhfOEo2eFhQTEJ3U1paY2ttQmNlaFhBcFFPNnRMTU44U2JUVGh5SWVGRGZBMzNNcHQyMlhhOUxHcmRxXzk3YVdfb2FmbTlxN0tLSU1sN2h3cXRoMl9CUjhIRjFpZ1BKVQ?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-21 12:23",
+   "published_iso": "2026-10-21T03:23:28+00:00"
+  },
+  {
+   "title": "【シニアの意識調査】「買い物難民」は地方だけの問題ではない？ 免許返納時代におけるシニアの移動手段と生活圏縮小のリアル",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WXV2V0hRZ2d0dDV1OVo2Tm5KUDdQVng3VEU5S0ktY0FpRmNGZGo2clgyMnZPRER3REpGVGVPMVdyN1A2MHc2eXZXVGh2SWQtTDFWengzU3hZZW9IUnUtZ3N4NmthWFNpSmtR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-21 12:16",
+   "published_iso": "2026-10-21T03:16:00+00:00"
+  },
+  {
+   "title": "「採用できるか」から「安全に配属できるか」へ 外国人ドライバーの安全教育を伝える連載コラムを開始 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14SlBYbzlmRXl0czd4cExHYVdwS1F0OGo4S2o4dVJmNWlsNEc0TndKTFJMY0llcGhhaXlvRVc5dFI4M3ZVamRmX0lPRzdUUUNPWDc2R2RfNA?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-21 11:36",
+   "published_iso": "2026-10-21T02:36:41+00:00"
+  },
+  {
    "title": "外国人の妊娠・出産・子育て支援 橋本財団、８言語でサイト開設",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNeWRDMlZzN1JfX3dCX2hnYl92OWdCdU1qTVJSb0JyWmNqNkRZeldINmg2dXY3S0tBcFpZbUkyajdiN0FvbTN3RWZmcw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-10-21 07:20",
-   "published_iso": "2026-10-20T22:20:36+00:00"
+   "published": "2026-10-21 07:23",
+   "published_iso": "2026-10-20T22:23:55+00:00"
   },
   {
    "title": "重労働も…ハンセン病療養所で在日外国人入所者に対する「二重の差別」が存在した事実【岡山】",
@@ -22,14 +62,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-10-21 07:00",
    "published_iso": "2026-10-20T22:00:00+00:00"
-  },
-  {
-   "title": "難民支援へ緊密連携",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWjRBVEhhWjY4X3hTR3pUQURhUUFIT3VxaVAxNC1VWXNyVUY3XzJBSklCZmRNVkdFeDlrYkZLSm54VDBuaVV6YXJoVUhpU01wZXJlUldCamwxT01xUGNtT3lIUkU?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-21 06:22",
-   "published_iso": "2026-10-20T21:22:10+00:00"
   },
   {
    "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
@@ -56,6 +88,14 @@
    "published_iso": "2026-10-20T20:00:00+00:00"
   },
   {
+   "title": "［欧州の新常態］移民に「同化」要求 拡大 強硬政策が票に 各党「右傾化」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13M2ZqUWp0SnphQW5OV2ZGUmRJa1BHSkx0U2pPRm5kOEFoRnl1TXgtYUVBdlF5ZmQwSWJ0WDdaZXJBWXJwdkVJMzN4Z0JhNlU5SnUzckIyYXg2SHZETld2N3V0VQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-21 05:00",
+   "published_iso": "2026-10-20T20:00:00+00:00"
+  },
+  {
    "title": "ホテル従業員、客室清掃の技競う 留寿都 技能実習生らコンテスト",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hQk1xM0FROGI3N01MU21jeEJzN01HS3BkejR2bDZzSF95RXB5dVk2SEEwS2w3RG1YZUdoYnAtNDhqUmQ5OFpqdzRlLWpQZVZmckJDRzltN1Q?oc=5",
    "source": "北海道新聞デジタル",
@@ -64,7 +104,7 @@
    "published_iso": "2026-10-20T19:00:00+00:00"
   },
   {
-   "title": "多文化共生社会を考える 11月21日 板橋で講演・シンポ ／東京",
+   "title": "多文化共生社会を考える 11月21日、板橋で講演・シンポ ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQThMcXFMcDJ0aUQ1ZEtPd05uUVpBQ1U2Y1otSkNxeUY2ZWJYTEd5RmYzNGU5V0lqTC05aUZ6cVRIOThoeUpCeVY0S1BMUFk2OHVMWFJWQ1NnbnRnQXdiZU8zbzFGeGZ4?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
@@ -112,14 +152,6 @@
    "published_iso": "2026-10-20T09:12:00+00:00"
   },
   {
-   "title": "9月の宿泊者数は43万人超 外国人客は8か月連続で前年上回る 台湾・韓国客が好調",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GRzJlY1NrZXRaS2NYbVBKNzBXUW02ZXctcnNNS1pJNUo0RnZzMGhkdUxzak1MVkkwVnBaMTE1QmJCT2hZT0NOMFE2dGY2NHlRenNMdllqTk51dw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-20 17:19",
-   "published_iso": "2026-10-20T08:19:00+00:00"
-  },
-  {
    "title": "＜QAで解説＞特定技能、医療・福祉の給食調理員受け入れ再開へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDR4eUdIc0ZET00xUXNvYTdJazNiOWxTYWNGbTNsUDNVY21mUmlCQ3h3OWtDLTBJVkRCa2xkcVdzLWhZZU41OTJ1NG4tLWZ6TlBsYnVINTV2ajRrQzVrUGpqSVFJZVBQ?oc=5",
    "source": "毎日新聞",
@@ -152,6 +184,14 @@
    "published_iso": "2026-10-20T04:00:00+00:00"
   },
   {
+   "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-20 12:46",
+   "published_iso": "2026-10-20T03:46:00+00:00"
+  },
+  {
    "title": "多文化共生へ取り組み共有 後志振興局がシンポ 自治体職員ら100人参加",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS282QnFpNWhQR2U0NUQ1dnZ2eUVVUmwxMTQ5aDNiSmRoQXhSdU5VNnlXVTNKdjRwUWM0V3VQRVhLNzh1d2NrUWJaamZncU85Q0tkR3E4REh5UQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -174,14 +214,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 06:30",
    "published_iso": "2026-10-19T21:30:00+00:00"
-  },
-  {
-   "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTVRvS05ZQTI1TVB3dnBUT0IwUnB3ZC03ZmQyb1NJdlJtcFJsVk9ERjhDSjVrby1ibUZrTDBVMlFjQXVLbU54RjRmU0pxdUN0UWV1MmFRUm53RVFyVk12TU5McERqZlZVSThWNG9R?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-10-20 05:10",
-   "published_iso": "2026-10-19T20:10:00+00:00"
   },
   {
    "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
@@ -238,14 +270,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-19 20:52",
    "published_iso": "2026-10-19T11:52:00+00:00"
-  },
-  {
-   "title": "自転車で松本市内を巡る外国人、実は多かった 地元中学生が交通ルール啓発の英語ポスター作成",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81aUJYTTV2V2tObTRkQThZVEZoX1pMbzg2a1VuZDlvRGVPUnp1NURYLUE0NVhaQ19uTHpwZ05oU1FpQlRCSG14WkJDd0FiSFZwRjBKWGJKQjNtdDdaS0JTcXpLaVJZN0I3bzlBbk5teVI?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-19 20:43",
-   "published_iso": "2026-10-19T11:43:00+00:00"
   },
   {
    "title": "【奮闘に密着】人手不足の切り札になるか⁉外国人路線バス運転手もうすぐデビュー（2026年10月19日掲載）｜KKT NEWS NNN",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-18 21:50",
    "published_iso": "2026-10-18T12:50:00+00:00"
-  },
-  {
-   "title": "愛知・名古屋アジアパラ大会が開幕、24日まで熱戦 共生社会の実現目指す",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52UU90bXUwSnJndGJvMEE3dXpnVkFWRHhqaWI4SVB0ZFFweF9sNzNOQXRKNzFOZDRUdkFsLUNHMXhYelUzb0VVOV84ODZGU0dycG91Uw?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-18 20:48",
-   "published_iso": "2026-10-18T11:48:46+00:00"
-  },
-  {
-   "title": "一緒に「上を向いて歩こう」 北見合唱祭に外国人ら混声合唱団 [北海道]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoUEZPNFFtUXVZVThkb3RpN1hDaVNKVllEWl9VWDE4bzU0UGsxcTVsWW9iVDI1cnMwU3RlTmVuSWlDWWNIS0NPZzczX0NwZHhadFl2Vks5Y3VmR0VqQWlGNnB2dmZ6eEU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-18 20:00",
-   "published_iso": "2026-10-18T11:00:00+00:00"
-  },
-  {
-   "title": "日の丸託せる者を選ぶために 「対外国人選手」を直視すれば課題は山積 鈴木桂治 スポーツ一刀両断",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFM4d2ZYcFpTV1hGVW5TVXM4Z2xBd3lUMjY1Nm0yN3lINHBLcmhRc2V1VEllTlJRTVkxUjJyNFhmWGl2TTdhN1ptYUdkVHd4dkw0ZG9nMjlTb0lFTEt5eHB6TmlKTVFDcjh6OURtSThZdndEQTZkbjdPWnRPd2dlUDVhRlQtUldvdEFRZQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-18 15:00",
-   "published_iso": "2026-10-18T06:00:00+00:00"
   }
  ]
 }
