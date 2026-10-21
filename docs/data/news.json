@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T07:01:47+00:00",
+ "generated_at": "2026-10-21T13:24:45+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,78 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ゴミのポイ捨て 過料の効果は？――外国人旅行客の困りごと「ゴミ箱の少なさ」…手間なく“減らす”各地の対策【なるほどッ！】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbEItRkJUNjhycmRoYk1BTkFjWGVvNGVzZDEzWDBnMDEwS3N4c1l3TUJrWkRkU1BHbHJqSXlWbWZPWVNNVDctbXJTQlZzREFGZUdvcmY5c2I5UnJ4NzRDb0NPZkc0SFpTb3FNamZXYS1STXZpekw3ajNVWEc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-21 21:24",
+   "published_iso": "2026-10-21T12:24:00+00:00"
+  },
+  {
+   "title": "クルーズ船の外国人にレクチャーも 小学生が「よさこい」で観光客をおもてなし",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SeTUzc05MUl85cWpNQW4wcF9XeEx0eVVMcmd3Mk5Ya2pPR2VlMjhteTZ3cEVPM2ZHd1c4T1hzUXNlT19QaUdWZHpncFJjY05GVlczdG5EelFqbUE?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-21 19:23",
+   "published_iso": "2026-10-21T10:23:00+00:00"
+  },
+  {
+   "title": "「家族に誇れる運転手に」インドネシアから来日 “外国人バス運転手”が入社 広島県内では2社目 特定技能の制度活用 芸陽バス",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZFZEeGVwaWpHOVI1eUVtdmRXekFzWkh1cUpfYUFPd3VyVVk1ekJOLXh5N0FGaVF4a1gzUlEteFg1ZFpMcEVMWkdjeUhlM0EtQzVKaG5vdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-21 18:43",
+   "published_iso": "2026-10-21T09:43:00+00:00"
+  },
+  {
+   "title": "9月の訪日外国人旅行者数は前年同月比で減少傾向続く 一方で7～9月の旅行者全体の消費額は同時期比で過去最高に",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdS1YdmVNTVdsNXpwRERsWVNOYWtjcmdxSHh0VV9UbXBPd1lreHhhdHBzU3pwbUJvcm1oYjRDMGw0OGxFZmMxYjVIcFRmVmRKUHc5SXItaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-21 18:33",
+   "published_iso": "2026-10-21T09:33:35+00:00"
+  },
+  {
+   "title": "プレスリリース：［独自調査］2026年最新：外国人に人気のホテル・旅館ランキング［新橋編］1位は「コンラッド東京」！| インバウンド人気ホテル・旅館ランキング #インバウンド #MEO（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1URjVXX1ViUGRQcnBpd2gzaUhZRE11TUZxdmZqczNjTENZWGU4ZHl1ZHJYUVFUM0t2UTUwMHUwOGRNMVNHYmZ0Nl9rbkxZai1DMmJYNUdkQ09QWk1WVlI2Ry1yblh1WGJo?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-21 17:23",
+   "published_iso": "2026-10-21T08:23:43+00:00"
+  },
+  {
+   "title": "９月の訪日外国人５．０％減 航空券の高騰、台風で欠航が影響 韓国・台湾は過去最多",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2amtPd2J3Tm42LUxZOEVHUVYwQ3E3WDR3WjRNQzNVc3JvYzBSaEVtZHp1a0RQTlhmbmo2bXVYb2FfWUtFd2VPYmtaMW9FYmxtYmd1VVg0UVRtSFFEU2l0SjZhVQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-21 17:14",
+   "published_iso": "2026-10-21T08:14:00+00:00"
+  },
+  {
+   "title": "東京・浅草で人力車を楽しむ外国人観光客。周辺では多くの訪日客が行き交っていた＝7月 - 1～9月の訪日客数、前年割れ 2・9％減、3073万人 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVE8xM1NTVXU1d3VVRmxPLWZaRzlKSGFrQzREQzVJRmNIbTFaWmNjSXNzb0dVbGU2RHFXYXBGNUQ2LXhBSkJpbUF2d29YemRINGR0MVNQbw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-21 17:04",
+   "published_iso": "2026-10-21T08:04:37+00:00"
+  },
+  {
+   "title": "9月の訪日外国人は5％減の約310万人 今年の累計は3000万人突破も去年を2.9％下回る 中国除く東アジアからの旅行者は増加",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVk1nYkNCU0JLSmZ3UXR0bllDV0hKN3Qwa3J1bXNxR1dvam9UTm9wS29rcXFib2h4UVBral8taDRHTDRwbkdYaXMxZWlUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-21 16:16",
+   "published_iso": "2026-10-21T07:16:00+00:00"
+  },
+  {
+   "title": "９月の訪日外国人客３１０万３７００人、前年同月比５％減…台風による欠航・航空便の価格上昇響く",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BLVExelF4bW1rYzZQaV92bms2TmNkalhNMGpDYnpFcHVQbHVwTFozcURCLTRGemZtTTNNQ1RqNlROTHpySWhtY1Iwem5JRHBKUkFzbHRrMzczS2I2NDNVMFVlS0w?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-21 16:15",
+   "published_iso": "2026-10-21T07:15:00+00:00"
+  },
   {
    "title": "日本空港ビルデングとグローリー、訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」を運用開始",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DVk8waXI1aUg1RmlRa1c0NmN6dC1WV0dUc281Qnl2ME11VXZlUGVWMmdtOHllMWlRVHl3TmJOLWs5Mmw2R25Kck0ySF80UEpzWTBJbDZrRkFiNU1NOWxqSjkxandaOWdvc1VOdw?oc=5",
@@ -22,14 +94,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-21 15:00",
    "published_iso": "2026-10-21T06:00:00+00:00"
-  },
-  {
-   "title": "【独自調査】台湾の製造業における外国人労働者が52万人へ急増。「出稼ぎ」から「定住」へと移行する現場の実態と、日系企業における次なる人材戦略を紐解く最新レポートを公開",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Vnl1b0cySElKNktpb2FNZURjNGhfOEo2eFhQTEJ3U1paY2ttQmNlaFhBcFFPNnRMTU44U2JUVGh5SWVGRGZBMzNNcHQyMlhhOUxHcmRxXzk3YVdfb2FmbTlxN0tLSU1sN2h3cXRoMl9CUjhIRjFpZ1BKVQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-21 12:23",
-   "published_iso": "2026-10-21T03:23:28+00:00"
   },
   {
    "title": "【シニアの意識調査】「買い物難民」は地方だけの問題ではない？ 免許返納時代におけるシニアの移動手段と生活圏縮小のリアル",
@@ -184,14 +248,6 @@
    "published_iso": "2026-10-20T04:00:00+00:00"
   },
   {
-   "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-20 12:46",
-   "published_iso": "2026-10-20T03:46:00+00:00"
-  },
-  {
    "title": "多文化共生へ取り組み共有 後志振興局がシンポ 自治体職員ら100人参加",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS282QnFpNWhQR2U0NUQ1dnZ2eUVVUmwxMTQ5aDNiSmRoQXhSdU5VNnlXVTNKdjRwUWM0V3VQRVhLNzh1d2NrUWJaamZncU85Q0tkR3E4REh5UQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -200,20 +256,20 @@
    "published_iso": "2026-10-20T03:10:54+00:00"
   },
   {
-   "title": "外国人採用のパイオニアG.A.グループは、『自動車部品で特定技能外国人が解禁！採用から即戦力化・不法就労防止までを徹底解説』セミナーのアーカイブ配信の実施を決定。",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zVlJkR0tIUnpjalo2azBFOGNLakFVOUlCeHMzMFphSlJQS3FtSjcxaVRpRlQ5cWppVjZqLXR6Wkx2VGFmd2NTOHlaSmxENmpYbHo3Rk9KbTE3SjdRdTFKTEZzQlgwVnRRd1pB?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-20 11:16",
-   "published_iso": "2026-10-20T02:16:00+00:00"
-  },
-  {
    "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 06:30",
    "published_iso": "2026-10-19T21:30:00+00:00"
+  },
+  {
+   "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTVRvS05ZQTI1TVB3dnBUT0IwUnB3ZC03ZmQyb1NJdlJtcFJsVk9ERjhDSjVrby1ibUZrTDBVMlFjQXVLbU54RjRmU0pxdUN0UWV1MmFRUm53RVFyVk12TU5McERqZlZVSThWNG9R?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-10-20 05:10",
+   "published_iso": "2026-10-19T20:10:00+00:00"
   },
   {
    "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
@@ -350,62 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-19 16:30",
    "published_iso": "2026-10-19T07:30:00+00:00"
-  },
-  {
-   "title": "宮城・村井知事、外国人施策「定住人口増やすとは言っていない」 労働力不足への対応重視",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pVFNOdVZCRi1rUXBiZG00ZXc3WkVWbVhOMlZ5cnF4MDcyRlMwMjFkWU5XR0FVMUp2UmtkcnJmeGQ0ZnI1QVJfTU5CY2ZiWnRTemFYWFdUdHpkRmdhaVpGN1BsTkgxd04yX3RDS3BmQXUyNnBscGc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-19 16:22",
-   "published_iso": "2026-10-19T07:22:50+00:00"
-  },
-  {
-   "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ySTQwQUp6TUlsRXJEMGdmUW1rS0k3X3I5azhFNEhXSTREYmVqUm5WYUhiVjB6WE04SGtyRnNJRnljMVZrM3lhWnVrSnhPQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-19 06:44",
-   "published_iso": "2026-10-18T21:44:00+00:00"
-  },
-  {
-   "title": "ブルーサンダー開幕へ 外国人トリオ融合なるか",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weUJYVE13NU9YWldRTVZvVWVaaFdSenZ6R1lnREc0SWtCX3pmeklCa1lGY0NZQXZOVlVsYlpxT1JrdHpDTlBiTGx1NUdEYUNyM0dsWA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-19 05:06",
-   "published_iso": "2026-10-18T20:06:00+00:00"
-  },
-  {
-   "title": "愛知・名古屋アジアパラ大会 地元の声援、追い風に 祭典開幕 「共生社会」発信",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSHl6eWE2cFJWVHlfOHVYNXpmb3MzLS1WalB4Yk9LMHJ5SnBsek1YLXVkREVvSGtkNEtGSXZIdFBJdS0yVm9NbkVEVF9YdG41MDQtTUMxZzZhMlBnV2tBTnlNMFdmM01a?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 02:01",
-   "published_iso": "2026-10-18T17:01:57+00:00"
-  },
-  {
-   "title": "模索する欧州：露関与？ 秘密の移民トンネル（その2止） 露の脅威、NATO側恐々",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FbHBGUFlYVFdwU0l1WmlEMW1BemxSdW1VbEtfSm9aU2hwSFd2SlYxeGJkS2w4MDc3UzBDRmJ5UUVSVC1WT0QzZk9FekVveEVRamlaUjU2NkEycEhvZk9JM0FQRUZ6YkQy?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 02:00",
-   "published_iso": "2026-10-18T17:00:17+00:00"
-  },
-  {
-   "title": "「フランスが燃えている！」 トランプ氏、仏政府抗議デモは「移民の暴動」と国境閉鎖主張",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82WVR2b2FxT2V2TlpLc3BFcDRBam03TXEzckxpLXAtTzVUZmxLQWFLVFlmLVZpRjFJd21wNjJ2OUM2NXY5VHFCck1mWUQyaWtpZW0xR0IwR1g2bHFfdGZFdzMtMkl5UU00ajBUZ28zcEhQZWsxSlE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-18 23:04",
-   "published_iso": "2026-10-18T14:04:24+00:00"
-  },
-  {
-   "title": "パラ競技がもたらす「変化の力」 共生社会の実現へ名古屋で祭典開幕 [アジア大会・アジアパラ2026]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1veko2TnZ0UllaV0NpeGNoQ2tmbmRTcUE3cWlyTE53RU5Ld2t1TDd0MGZjLXZTRDFxVzN4c1V5WURsUlJOejM4YkdlOG5PMmxhbWFJNE1BdUVMZXNaLUt6TmRSREVPdVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-18 21:50",
-   "published_iso": "2026-10-18T12:50:00+00:00"
   }
  ]
 }
