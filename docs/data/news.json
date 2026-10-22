@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T18:16:02+00:00",
+ "generated_at": "2026-10-22T22:04:20+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 06:36",
+   "published_iso": "2026-10-22T21:36:17+00:00"
+  },
+  {
+   "title": "（私の視点）在留手数料の引き上げ 外国人政策に、整合性あるか 柴思原",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42X3FyekRCWGJ5V2pvTkkyZm5KSTFKRVhDOHZSc05sMkJLMkoxVXR3N0lvUW9iMnc1anZFRmF4SUZ0R3ozU3BuSEowZFZ1Zk9fRjJDZGI1enJndkJa?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-23 05:00",
+   "published_iso": "2026-10-22T20:00:00+00:00"
+  },
+  {
+   "title": "市立小中高で多国籍化 日本語教育支援 20年で20倍 市民団体 指導員の待遇改善を",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iQ245T0NUb1AzQl9jZm8tYlFuMHNWRGtQbjZVLTJqMDh1enlOSk5ZSW13SUVLa25qSmVRcWZZNjhMNEYySnZWRE1oRms3TURZT3k0dWZhdUNMdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 04:00",
+   "published_iso": "2026-10-22T19:00:00+00:00"
+  },
   {
    "title": "フランスの大規模暴動、世界中の右派は移民が原因と非難 マクロン氏は極左過激派の責任主張",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sRlNGOE5KdDRFa2ItUVhhMTFSMUhMUjNoRU5Ral9pQlJRanR6eTZUSEw4TXlEV2t1eFYxN1c4cW5IYkFCNFFVVndOb3QySEU2VERlOWpvMFp0TG16ZWdVSHQyZm1xUQ?oc=5",
@@ -32,28 +56,20 @@
    "published_iso": "2026-10-22T08:54:00+00:00"
   },
   {
+   "title": "「こういう外国人なら歓迎」喉元〝漢字タトゥー〟最多勝右腕エスピノーザに「すごい。センスある」「かわいすぎない？」妻との帰国中最新ショットが話題",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUWtfT0xoblY2RTI0dDBmbHgtT21FMnNzdy1RRjJSbXZGcWdzMFVKdUFNWDBqQloxcnRVS2M1Y1o2dXF3SG5fVjFkVkNsR2Nlb2IyVnNRODNWeUdQS0Jn?oc=5",
+   "source": "西スポWEB OTTO!",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-22 17:50",
+   "published_iso": "2026-10-22T08:50:00+00:00"
+  },
+  {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odHE4XzhLSy10SmhTc0JOVWRlSW5CNWpNcjhYdi1mNTBRRU51b0c4bzVBV1h4WDdnaXk0ZnJxWlhoTzdObXN6bnY4dDJJYmp1TXVfWUk5RnlyMlV1VGIwOVFnbGQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-22 16:20",
    "published_iso": "2026-10-22T07:20:00+00:00"
-  },
-  {
-   "title": "ごみ分別 外国人に易しく 帯広市、イラスト多用しポスター 来月1日 ゲームで学ぶセミナーも",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iR21yQ01EMnJON3hkOXNtMjJtY3BCMEZMZURSR2tueElpai1xLVljcEgtemRrRUtSZjZrNjVFUC1ITmdXZmpRTl9pQmh2eFNxa3hMb3pNalQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-22 12:00",
-   "published_iso": "2026-10-22T03:00:00+00:00"
-  },
-  {
-   "title": "プレスリリース：在留外国人の約3人に2人が銀行口座開設で困難を経験 8割超がローン・分割払いの利用を希望、金融サービスへのニーズが浮き彫りに（Digital PR Platform）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53WF9EVTZkRlBUOTJYdDJfTFAza1VRYjFDemdUWDF5czZ2ZE9BeUZCWE4tTm4yU0xCN1JxRUN6V0FPWFZiX3NpRmNjUW1RX0xyNzNiSUhYUTc5LUthMUFWSTZTMUYyaFJC?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-22 11:00",
-   "published_iso": "2026-10-22T02:00:00+00:00"
   },
   {
    "title": "播磨屋橋「がっかり名所」の汚名返上へ児童が挽回 外国人観光客とよさこい踊り、クイズ披露 高知市",
@@ -272,6 +288,14 @@
    "published_iso": "2026-10-20T06:30:00+00:00"
   },
   {
+   "title": "広島銀行、100万円以下の海外送金24時間以内に実施 外国人労働者の需要開拓へ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yRGt6M2hBWHNPd1UwQjFCbkdFNWdLTXNvOTNuVk1pWlZZSml5UEVLMkt5amoxMG5zYThqaWlxamxCS3I3cmpqWGt0WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-20 13:03",
+   "published_iso": "2026-10-20T04:03:39+00:00"
+  },
+  {
    "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUE9YNm5yeDlOU2UzVHJFblhJOUlSMEZEWmtraDJzV0FUeS1NQy0zTnluYTNSQmc0VU9XTk1oM3h2VlNkMlBSVU1IVGxyQm5CUWFqTmc2cDZMY2F2R0ZOby1n?oc=5",
    "source": "読売新聞",
@@ -286,6 +310,14 @@
    "source_domain": "jiji.com",
    "published": "2026-10-20 12:46",
    "published_iso": "2026-10-20T03:46:00+00:00"
+  },
+  {
+   "title": "多文化共生へ取り組み共有 後志振興局がシンポ 自治体職員ら100人参加",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS282QnFpNWhQR2U0NUQ1dnZ2eUVVUmwxMTQ5aDNiSmRoQXhSdU5VNnlXVTNKdjRwUWM0V3VQRVhLNzh1d2NrUWJaamZncU85Q0tkR3E4REh5UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-20 12:10",
+   "published_iso": "2026-10-20T03:10:54+00:00"
   },
   {
    "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
@@ -310,14 +342,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-20 05:00",
    "published_iso": "2026-10-19T20:00:00+00:00"
-  },
-  {
-   "title": "変容するアメリカ：2026 中間選挙 注目区ルポ テキサス、38年ぶり民主議席か（その1） 移民排除、ヒスパニック失望",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52MFRZUGlFZnU4XzJNblFxMzlxR2tvMklUelp5OXg1dkxSTGdDaWRTc3NQRUNIZjRDa2RRU2I2Z0VrTFYzajRLQjVqbTJTMTBncDdlamtUbjgyeUQ2QUJ3MEo2V20tX19J?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-20 02:02",
-   "published_iso": "2026-10-19T17:02:36+00:00"
   },
   {
    "title": "変容するアメリカ：2026 中間選挙 注目区ルポ テキサス、38年ぶり民主議席か（その2止） 強硬策 移民、共和離れ",
@@ -368,44 +392,20 @@
    "published_iso": "2026-10-19T09:53:32+00:00"
   },
   {
+   "title": "外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xUlJXQUVWdzlCMEhla0hvSnNVek1Ic1JfYjVObEhMdXhCbXIxOGNBcGVhdlctdkNRZllUTW9JbURLVkpWLXR3NWx4dm1RRDVFdGU4?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-19 18:07",
+   "published_iso": "2026-10-19T09:07:06+00:00"
+  },
+  {
    "title": "特定技能「給食」受け入れ再開へ＝来年４月、食品製造に分野移行",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92R3BXTUM4bXhZd1lyTmdaMWtlR3hmSk1xOGQ3R2kyeHhXTTBPNFpLV2ExZWVYc19wRXFrd0RoZ2dkUlVKVEtoOXR0VQ?oc=5",
    "source": "時事メディカル",
    "source_domain": "jiji.com",
    "published": "2026-10-19 17:32",
    "published_iso": "2026-10-19T08:32:00+00:00"
-  },
-  {
-   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 17:31",
-   "published_iso": "2026-10-19T08:31:56+00:00"
-  },
-  {
-   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 17:31",
-   "published_iso": "2026-10-19T08:31:00+00:00"
-  },
-  {
-   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-19 17:30",
-   "published_iso": "2026-10-19T08:30:00+00:00"
-  },
-  {
-   "title": "医療・福祉の給食業、特定技能「外食業」から区分変更へ 政府が議論",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dGZ6cW5OaThzT0R2UmZLRW5DRXRrQlZOZEVITnJaenpzeHZDVWViYkp2QjlqNGwyR0tpRjBkZklhaTNjWFlNd0tpdDNXcEEzVVhxWFZ1MzA0Nk5JLWNiVVVnbzk0MzZVUUhaZg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-19 17:30",
-   "published_iso": "2026-10-19T08:30:00+00:00"
   }
  ]
 }
