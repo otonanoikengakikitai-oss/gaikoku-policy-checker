@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T13:25:52+00:00",
+ "generated_at": "2026-10-22T18:16:02+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "フランスの大規模暴動、世界中の右派は移民が原因と非難 マクロン氏は極左過激派の責任主張",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sRlNGOE5KdDRFa2ItUVhhMTFSMUhMUjNoRU5Ral9pQlJRanR6eTZUSEw4TXlEV2t1eFYxN1c4cW5IYkFCNFFVVndOb3QySEU2VERlOWpvMFp0TG16ZWdVSHQyZm1xUQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-22 20:48",
+   "published_iso": "2026-10-22T11:48:00+00:00"
+  },
   {
    "title": "富士山噴火のおそれを想定 外国人観光客の避難を図上訓練 通信環境の確保や言語対応など課題に 山梨・富士河口湖町",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPc09Ec20yOWpaaF9YTllxVWxHcWYzWlhBUzNDMWlJWTV3OHFLUEFsVm5RQ3NXd0loR0dneGhYOW1RRERJVXpwcWlWV1dGTGJHdHZPd2pUdjdyYXltNldpOW43TGZWTkk?oc=5",
@@ -160,14 +168,6 @@
    "published_iso": "2026-10-21T06:00:00+00:00"
   },
   {
-   "title": "【独自調査】台湾の製造業における外国人労働者が52万人へ急増。「出稼ぎ」から「定住」へと移行する現場の実態と、日系企業における次なる人材戦略を紐解く最新レポートを公開",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10Vnl1b0cySElKNktpb2FNZURjNGhfOEo2eFhQTEJ3U1paY2ttQmNlaFhBcFFPNnRMTU44U2JUVGh5SWVGRGZBMzNNcHQyMlhhOUxHcmRxXzk3YVdfb2FmbTlxN0tLSU1sN2h3cXRoMl9CUjhIRjFpZ1BKVQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-21 12:23",
-   "published_iso": "2026-10-21T03:23:28+00:00"
-  },
-  {
    "title": "難民支援へ緊密連携",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWjRBVEhhWjY4X3hTR3pUQURhUUFIT3VxaVAxNC1VWXNyVUY3XzJBSklCZmRNVkdFeDlrYkZLSm54VDBuaVV6YXJoVUhpU01wZXJlUldCamwxT01xUGNtT3lIUkU?oc=5",
    "source": "時事ドットコム",
@@ -304,14 +304,6 @@
    "published_iso": "2026-10-19T20:10:00+00:00"
   },
   {
-   "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HM2YtSTZLWUxsSUxibHBGU1EydnFubVNra3BjeGpLR0V6dnB4TFFFYVlZeVByMm1sY3JfeEM5YnIxQW5PY0V3c2c0OFNKeFR6YTV0TTRNc1pEQVdmQXdob2RIU2xtb3BxbV9FR2tNMktWSjA4?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 05:00",
-   "published_iso": "2026-10-19T20:00:00+00:00"
-  },
-  {
    "title": "特定技能 「給食」人材 受け入れ再開へ 分野変更 「外食」停止は維持",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMm1zTEl3WGpiVEpkU21wVVNYS0hNT1ROVWVPVDd3OVZvX2x6R1owVXZtbDg2SV8yMFhqV1Q1VjR6YjJEWjE1azdObXJSRHRkOEdOUzV1WkRobUVBRFBJNkY2bw?oc=5",
    "source": "読売新聞",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "title": "医療・福祉の給食業、特定技能「外食業」から区分変更へ 政府が議論",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dGZ6cW5OaThzT0R2UmZLRW5DRXRrQlZOZEVITnJaenpzeHZDVWViYkp2QjlqNGwyR0tpRjBkZklhaTNjWFlNd0tpdDNXcEEzVVhxWFZ1MzA0Nk5JLWNiVVVnbzk0MzZVUUhaZg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-10-19 17:30",
    "published_iso": "2026-10-19T08:30:00+00:00"
   }
