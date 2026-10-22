@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T22:04:46+00:00",
+ "generated_at": "2026-10-22T01:11:40+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "鉄道の整備保守に外国人材、３年で３倍以上…都市部との賃金差・転職可能な就労制度で地方鉄道は定着に課題",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZlA4U3N6Z1NnOFhKb2tac3ZPR2hMM1ZrNFJGMzFGcmNuMVd5LV9nMFVvVlRNUmhnVndvMjQzWlRiazlmUnZFVDIxMkpyc2VVSkhxWEJfX1NBQ1JPYndicU1rSmFncWpjR0pIRG5HVlREZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-22 09:54",
+   "published_iso": "2026-10-22T00:54:00+00:00"
+  },
+  {
+   "title": "「がっかり名所」の汚名返上へ児童が挽回 外国人観光客とよさこい踊り、クイズ披露 高知市のはりまや橋",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PdHVmTFFvd2k3MmZMcVVGOUw0dTlHelJlNVd2alVpWThWaWJHVDlONnZQYldqTTBBZXgzMGZJbVZvTThnSS1IZzZERQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-22 08:36",
+   "published_iso": "2026-10-21T23:36:00+00:00"
+  },
+  {
+   "title": "マクロン仏大統領、暴動巡りトランプ氏批判 移民発言「容認できず」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUzlfS3E5dFdpQjJ1S2ZLTGlkMXlpN0duNmRlb2dEWkVWX0tPZm5QMUY2T1dfcEtCcTloQjRjZFVEdnQxSDlZVzVaTnMxVnhNSDVPWWFGRnZranVHLUZlNC1tNXpvNk94b1ptUA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-22 08:09",
+   "published_iso": "2026-10-21T23:09:37+00:00"
+  },
   {
    "title": "宇奈月温泉、「昼食難民」なくせ 空き店舗貸し活性化 キャニオンルート契機に",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZV9seWhWOW5ackU4bE1uVG9nZWs1cUJnV0ZaMXZnTTVTYnVYSXFoUk5SeXlSWU5XT2xFZUxYN2pmMEZIN2JoekV1VQ?oc=5",
@@ -80,14 +104,6 @@
    "published_iso": "2026-10-21T07:15:00+00:00"
   },
   {
-   "title": "日本空港ビルデングとグローリー、訪日外国人旅行者向け消費税セルフ還付サービス「Self Tax Refund」を運用開始",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DVk8waXI1aUg1RmlRa1c0NmN6dC1WV0dUc281Qnl2ME11VXZlUGVWMmdtOHllMWlRVHl3TmJOLWs5Mmw2R25Kck0ySF80UEpzWTBJbDZrRkFiNU1NOWxqSjkxandaOWdvc1VOdw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-21 15:05",
-   "published_iso": "2026-10-21T06:05:31+00:00"
-  },
-  {
    "title": "広島だけで7万4613人 中国地方に住む外国人が過去最多の16万人超え",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WWl3eC1HQVY3UVZGNUZOUUhHdHFfUEhtM3ZjQ0hnMk9jWUVkQWdWYTVwQU9hak5lQ3NIYWg1SDVubi1Ua1JWTnJjUQ?oc=5",
    "source": "47NEWS",
@@ -104,14 +120,6 @@
    "published_iso": "2026-10-21T03:23:28+00:00"
   },
   {
-   "title": "【シニアの意識調査】「買い物難民」は地方だけの問題ではない？ 免許返納時代におけるシニアの移動手段と生活圏縮小のリアル",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13WXV2V0hRZ2d0dDV1OVo2Tm5KUDdQVng3VEU5S0ktY0FpRmNGZGo2clgyMnZPRER3REpGVGVPMVdyN1A2MHc2eXZXVGh2SWQtTDFWengzU3hZZW9IUnUtZ3N4NmthWFNpSmtR?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-21 12:16",
-   "published_iso": "2026-10-21T03:16:00+00:00"
-  },
-  {
    "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RmFqcFJ0MmhmeS1CMmFoQnp1bU8ydml3SzZfVHVyZjlaSmZ5MzIxMDl6bFhxalhPZndlcXJHdFFVSEVBRUVkdUdORklRU2lnd3dRRGlLVGZkdFhZWFJhSG9ZV1ltaEt3NlU5WURwc3ZGUQ?oc=5",
    "source": "毎日新聞",
@@ -122,22 +130,6 @@
   {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBeV9Gck90cVJJVVg4eklDN2JOOXpjVU9XWmdFZ29LV1o0UThiX2FhdlRMYUJ1U0RtRmR3UkQwa1VLNWVENFk0blNWbTdYQThwMVNNVWlTWWh2d0JyZXREUjhR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 05:00",
-   "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "［米中間選挙２０２６］仏デモで移民対策正当化 トランプ氏 接戦の共和地盤で演説",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ta1lzMU5Vc3NhV1JIcHhDeG1wUVloTjBHanJ4ay1vTllhNHo2NFBGdU9oUjBMakJUSXJTcnlBc1VlLWV0dTBaSW5GRXFUVUhWZDhnb2pWOEVQR283Um5mR29Jcw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 05:00",
-   "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "［欧州の新常態］移民に「同化」要求 拡大 強硬政策が票に 各党「右傾化」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13M2ZqUWp0SnphQW5OV2ZGUmRJa1BHSkx0U2pPRm5kOEFoRnl1TXgtYUVBdlF5ZmQwSWJ0WDdaZXJBWXJwdkVJMzN4Z0JhNlU5SnUzckIyYXg2SHZETld2N3V0VQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 05:00",
@@ -192,12 +184,28 @@
    "published_iso": "2026-10-20T09:12:00+00:00"
   },
   {
+   "title": "「夢広がっている」 澤田智洋さん、盲重複障害の息子思いひらめき",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41V1g2WHVtWVJEWjFOTFlEQS05RGlNc2VKQlJwRTNjY3VCLXFKTjJxel9RLXpObHpMZWRYd3RqWUU4RUltN3hWUUt1WnpuWHRHWUtuaHg5SGNabEkwN2dRRUhpM3NiOGxf?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 17:19",
+   "published_iso": "2026-10-20T08:19:00+00:00"
+  },
+  {
    "title": "＜QAで解説＞特定技能、医療・福祉の給食調理員受け入れ再開へ",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDR4eUdIc0ZET00xUXNvYTdJazNiOWxTYWNGbTNsUDNVY21mUmlCQ3h3OWtDLTBJVkRCa2xkcVdzLWhZZU41OTJ1NG4tLWZ6TlBsYnVINTV2ajRrQzVrUGpqSVFJZVBQ?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 16:08",
    "published_iso": "2026-10-20T07:08:40+00:00"
+  },
+  {
+   "title": "「外国人は自己中心的」に嫌気がさす32歳男性へ、鴻上尚史が示す“同じ人間”として向き合う方法",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ocGNuWnVILUtZT1lQeUI0ZUdnRjAweHpfYzVXT3hBQnFXTWFGMHVrU3JIR3EyWTh2V1h3ZVA3YVZHOU52ZkJQcG9IdHV3dk45ZFFTOTVkN1VpQQ?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-10-20 16:00",
+   "published_iso": "2026-10-20T07:00:00+00:00"
   },
   {
    "title": "和歌山県で研修会、外国人との対応は＜英語＞＜多言語＞よりも＜やさしい日本語＞で…非英語圏の在留者が増加",
@@ -242,6 +250,14 @@
   {
    "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HM2YtSTZLWUxsSUxibHBGU1EydnFubVNra3BjeGpLR0V6dnB4TFFFYVlZeVByMm1sY3JfeEM5YnIxQW5PY0V3c2c0OFNKeFR6YTV0TTRNc1pEQVdmQXdob2RIU2xtb3BxbV9FR2tNMktWSjA4?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-20 05:00",
+   "published_iso": "2026-10-19T20:00:00+00:00"
+  },
+  {
+   "title": "特定技能 「給食」人材 受け入れ再開へ 分野変更 「外食」停止は維持",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMm1zTEl3WGpiVEpkU21wVVNYS0hNT1ROVWVPVDd3OVZvX2x6R1owVXZtbDg2SV8yMFhqV1Q1VjR6YjJEWjE1azdObXJSRHRkOEdOUzV1WkRobUVBRFBJNkY2bw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-20 05:00",
@@ -376,14 +392,6 @@
    "published_iso": "2026-10-19T07:22:50+00:00"
   },
   {
-   "title": "株式会社明光キャリアパートナーズ 令和8年度島根県「外国人材向けオンライン日本語学習支援業務」を受託",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IUkM0OXN2ZXdiWUtkWVM4cWVuNUVyeHZHWm5Zd2lFOTRJNTBOby1NRmoxRXcyR1hvNVRuQ2Z5ZWtLZWhjNmJfaGprSXFvdEZIRWQxWm9NRkRlRkd6UDJxT0w2T09kLVljNXc0?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-19 10:46",
-   "published_iso": "2026-10-19T01:46:00+00:00"
-  },
-  {
    "title": "トランプ大統領はフランスのデモ・暴動に「国境閉ざすべき」移民問題が原因と指摘 仏当局は移民と暴動の関連は示さず",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8ySTQwQUp6TUlsRXJEMGdmUW1rS0k3X3I5azhFNEhXSTREYmVqUm5WYUhiVjB6WE04SGtyRnNJRnljMVZrM3lhWnVrSnhPQQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -392,20 +400,12 @@
    "published_iso": "2026-10-18T21:44:00+00:00"
   },
   {
-   "title": "「フランスが燃えている！」 トランプ氏、仏政府抗議デモは「移民の暴動」と国境閉鎖主張",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82WVR2b2FxT2V2TlpLc3BFcDRBam03TXEzckxpLXAtTzVUZmxLQWFLVFlmLVZpRjFJd21wNjJ2OUM2NXY5VHFCck1mWUQyaWtpZW0xR0IwR1g2bHFfdGZFdzMtMkl5UU00ajBUZ28zcEhQZWsxSlE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-18 23:04",
-   "published_iso": "2026-10-18T14:04:24+00:00"
-  },
-  {
-   "title": "パラ競技がもたらす「変化の力」 共生社会の実現へ名古屋で祭典開幕 [アジア大会・アジアパラ2026]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1veko2TnZ0UllaV0NpeGNoQ2tmbmRTcUE3cWlyTE53RU5Ld2t1TDd0MGZjLXZTRDFxVzN4c1V5WURsUlJOejM4YkdlOG5PMmxhbWFJNE1BdUVMZXNaLUt6TmRSREVPdVE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-18 21:50",
-   "published_iso": "2026-10-18T12:50:00+00:00"
+   "title": "愛知・名古屋アジアパラ大会 地元の声援、追い風に 祭典開幕 「共生社会」発信",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqSHl6eWE2cFJWVHlfOHVYNXpmb3MzLS1WalB4Yk9LMHJ5SnBsek1YLXVkREVvSGtkNEtGSXZIdFBJdS0yVm9NbkVEVF9YdG41MDQtTUMxZzZhMlBnV2tBTnlNMFdmM01a?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 02:01",
+   "published_iso": "2026-10-18T17:01:57+00:00"
   }
  ]
 }
