@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T22:04:20+00:00",
+ "generated_at": "2026-10-23T01:11:00+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -30,14 +30,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-23 04:00",
    "published_iso": "2026-10-22T19:00:00+00:00"
-  },
-  {
-   "title": "フランスの大規模暴動、世界中の右派は移民が原因と非難 マクロン氏は極左過激派の責任主張",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sRlNGOE5KdDRFa2ItUVhhMTFSMUhMUjNoRU5Ral9pQlJRanR6eTZUSEw4TXlEV2t1eFYxN1c4cW5IYkFCNFFVVndOb3QySEU2VERlOWpvMFp0TG16ZWdVSHQyZm1xUQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-22 20:48",
-   "published_iso": "2026-10-22T11:48:00+00:00"
   },
   {
    "title": "富士山噴火のおそれを想定 外国人観光客の避難を図上訓練 通信環境の確保や言語対応など課題に 山梨・富士河口湖町",
@@ -72,12 +64,12 @@
    "published_iso": "2026-10-22T07:20:00+00:00"
   },
   {
-   "title": "播磨屋橋「がっかり名所」の汚名返上へ児童が挽回 外国人観光客とよさこい踊り、クイズ披露 高知市",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lU0NwMldXQ1dBYjI3bjVfQ1EtS09ybkpRR1FaRF9STGkwS3pxRXUwUDRnRFhnM1JxTHlBRkRjWGZBWUhzTm9ORktDSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-22 10:22",
-   "published_iso": "2026-10-22T01:22:34+00:00"
+   "title": "外国人も安全に避難所へ 受け入れ対応学ぶ 倶知安で訓練 防災用語理解に課題も",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13REpsU21sWlVlYTNmVGpVUnc1QzBBRXY2STA0Q3RQWlp3ZnlMM0dfLVdTNGVETjZkUXNMa3EyMF9HOFBxWjF0VkxQRDJzWUxBUUtOT1o4aHhJUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-22 13:23",
+   "published_iso": "2026-10-22T04:23:45+00:00"
   },
   {
    "title": "外国人材の悩み集約 スマホで毎月アンケ、担当者に通知 定着支援へ対応促す ファーストペンギン 茨城",
@@ -288,14 +280,6 @@
    "published_iso": "2026-10-20T06:30:00+00:00"
   },
   {
-   "title": "広島銀行、100万円以下の海外送金24時間以内に実施 外国人労働者の需要開拓へ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yRGt6M2hBWHNPd1UwQjFCbkdFNWdLTXNvOTNuVk1pWlZZSml5UEVLMkt5amoxMG5zYThqaWlxamxCS3I3cmpqWGt0WQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-20 13:03",
-   "published_iso": "2026-10-20T04:03:39+00:00"
-  },
-  {
    "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUE9YNm5yeDlOU2UzVHJFblhJOUlSMEZEWmtraDJzV0FUeS1NQy0zTnluYTNSQmc0VU9XTk1oM3h2VlNkMlBSVU1IVGxyQm5CUWFqTmc2cDZMY2F2R0ZOby1n?oc=5",
    "source": "読売新聞",
@@ -392,20 +376,36 @@
    "published_iso": "2026-10-19T09:53:32+00:00"
   },
   {
-   "title": "外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xUlJXQUVWdzlCMEhla0hvSnNVek1Ic1JfYjVObEhMdXhCbXIxOGNBcGVhdlctdkNRZllUTW9JbURLVkpWLXR3NWx4dm1RRDVFdGU4?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-19 18:07",
-   "published_iso": "2026-10-19T09:07:06+00:00"
-  },
-  {
    "title": "特定技能「給食」受け入れ再開へ＝来年４月、食品製造に分野移行",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92R3BXTUM4bXhZd1lyTmdaMWtlR3hmSk1xOGQ3R2kyeHhXTTBPNFpLV2ExZWVYc19wRXFrd0RoZ2dkUlVKVEtoOXR0VQ?oc=5",
    "source": "時事メディカル",
    "source_domain": "jiji.com",
    "published": "2026-10-19 17:32",
    "published_iso": "2026-10-19T08:32:00+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
+  },
+  {
+   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:00+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
   }
  ]
 }
