@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T20:58:17+00:00",
+ "generated_at": "2026-10-23T23:47:46+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -46,6 +46,14 @@
    "source_domain": "sankei.com",
    "published": "2026-10-23 23:23",
    "published_iso": "2026-10-23T14:23:20+00:00"
+  },
+  {
+   "title": "“コンビニ富士山”でも…外国人の交通事故防止へ道路標識に「英語表記」導入進む 山梨",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNellENWF4SGNpNWJzQ1J1bTl2cllCR1U3ajlndWdVckxxWF9WVXlfempYcVdyTWltOFF1V2EzOTh1Q3BjeE5DcC1SUEFKX0N4RWFsX0Nsall6QjZKdzRJaDZvMWRxTndsSV8tcjRtQzY3al9IRmpPcTJVM3J5Qmk4Q2V6dU9RZkE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-23 20:07",
+   "published_iso": "2026-10-23T11:07:00+00:00"
   },
   {
    "title": "関空に免税手続きの専用端末設置 購入時は税込で支払い、出国時に消費税返金 訪日外国人の不正転売防ぐ",
@@ -144,14 +152,6 @@
    "published_iso": "2026-10-22T09:40:00+00:00"
   },
   {
-   "title": "ドイツ出身新監督と強力外国人選手を補強 信州松本トライデンツ、24日に松本市で今季開幕戦",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SR3NrVGMtNG9vd2JrZVkzZFkxcHZ6NDcxY0toYkk0ZGNuNlZ3NVVUQUZVTWNtaVZETk5IV3lVX3M2ZC1vek15TEFSWUR1TGlPd3VhQTY5Z3phMjI1Y3FCQ1hsUkVkWENHNVNWaU5pZG4?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-22 17:54",
-   "published_iso": "2026-10-22T08:54:00+00:00"
-  },
-  {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odHE4XzhLSy10SmhTc0JOVWRlSW5CNWpNcjhYdi1mNTBRRU51b0c4bzVBV1h4WDdnaXk0ZnJxWlhoTzdObXN6bnY4dDJJYmp1TXVfWUk5RnlyMlV1VGIwOVFnbGQ?oc=5",
    "source": "読売新聞",
@@ -166,6 +166,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-22 13:23",
    "published_iso": "2026-10-22T04:23:45+00:00"
+  },
+  {
+   "title": "外国人材の悩み集約 スマホで毎月アンケ、担当者に通知 定着支援へ対応促す ファーストペンギン 茨城",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWWhHU1B6M1N5MWhqUzlZbWY0d3hJZUdJVjNXYzVObmhPS2t0bXl2b284b1VJUDVfNkZWMlhzNC1tY0xHN01JMlNKdw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-22 10:00",
+   "published_iso": "2026-10-22T01:00:00+00:00"
   },
   {
    "title": "鉄道の整備保守に外国人材、３年で３倍以上…都市部との賃金差・転職可能な就労制度で地方鉄道は定着に課題",
@@ -208,14 +216,6 @@
    "published_iso": "2026-10-21T12:24:00+00:00"
   },
   {
-   "title": "「家族に誇れる運転手に」インドネシアから来日 “外国人バス運転手”が入社 広島県内では2社目 特定技能の制度活用 芸陽バス",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55ZFZEeGVwaWpHOVI1eUVtdmRXekFzWkh1cUpfYUFPd3VyVVk1ekJOLXh5N0FGaVF4a1gzUlEteFg1ZFpMcEVMWkdjeUhlM0EtQzVKaG5vdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-21 18:43",
-   "published_iso": "2026-10-21T09:43:00+00:00"
-  },
-  {
    "title": "9月の訪日外国人旅行者数は前年同月比で減少傾向続く 一方で7～9月の旅行者全体の消費額は同時期比で過去最高に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdS1YdmVNTVdsNXpwRERsWVNOYWtjcmdxSHh0VV9UbXBPd1lreHhhdHBzU3pwbUJvcm1oYjRDMGw0OGxFZmMxYjVIcFRmVmRKUHc5SXItaw?oc=5",
    "source": "TBS NEWS DIG",
@@ -240,28 +240,12 @@
    "published_iso": "2026-10-21T08:03:14+00:00"
   },
   {
-   "title": "9月の訪日外国人は5％減の約310万人 今年の累計は3000万人突破も去年を2.9％下回る 中国除く東アジアからの旅行者は増加",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVk1nYkNCU0JLSmZ3UXR0bllDV0hKN3Qwa3J1bXNxR1dvam9UTm9wS29rcXFib2h4UVBral8taDRHTDRwbkdYaXMxZWlUZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-21 16:16",
-   "published_iso": "2026-10-21T07:16:00+00:00"
-  },
-  {
    "title": "９月の訪日外国人客３１０万３７００人、前年同月比５％減…台風による欠航・航空便の価格上昇響く",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BLVExelF4bW1rYzZQaV92bms2TmNkalhNMGpDYnpFcHVQbHVwTFozcURCLTRGemZtTTNNQ1RqNlROTHpySWhtY1Iwem5JRHBKUkFzbHRrMzczS2I2NDNVMFVlS0w?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 16:15",
    "published_iso": "2026-10-21T07:15:00+00:00"
-  },
-  {
-   "title": "難民支援へ緊密連携",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BWjRBVEhhWjY4X3hTR3pUQURhUUFIT3VxaVAxNC1VWXNyVUY3XzJBSklCZmRNVkdFeDlrYkZLSm54VDBuaVV6YXJoVUhpU01wZXJlUldCamwxT01xUGNtT3lIUkU?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-21 06:22",
-   "published_iso": "2026-10-20T21:22:10+00:00"
   },
   {
    "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
@@ -352,14 +336,6 @@
    "published_iso": "2026-10-20T04:00:00+00:00"
   },
   {
-   "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-20 12:46",
-   "published_iso": "2026-10-20T03:46:00+00:00"
-  },
-  {
    "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
    "source": "毎日新聞",
@@ -374,14 +350,6 @@
    "source_domain": "kobe-np.co.jp",
    "published": "2026-10-20 05:10",
    "published_iso": "2026-10-19T20:10:00+00:00"
-  },
-  {
-   "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HM2YtSTZLWUxsSUxibHBGU1EydnFubVNra3BjeGpLR0V6dnB4TFFFYVlZeVByMm1sY3JfeEM5YnIxQW5PY0V3c2c0OFNKeFR6YTV0TTRNc1pEQVdmQXdob2RIU2xtb3BxbV9FR2tNMktWSjA4?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 05:00",
-   "published_iso": "2026-10-19T20:00:00+00:00"
   },
   {
    "title": "特定技能1号 給食調理員、受け入れ再開 外食から付け替え 来年4月見込む",
@@ -406,6 +374,38 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-19 20:52",
    "published_iso": "2026-10-19T11:52:00+00:00"
+  },
+  {
+   "title": "外国人材受け入れに関する政府の有識者会議＝19日午後、法務省 - 外国人「給食」で受け入れ再開へ 特定技能、医療・福祉施設 - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zdHYtZTk4UlBmRlB0MlpfSzZGY1pLRkxoZmlXeGVrTGtleFlYNUplU3V5Y0djekt2RXFRbEVoTXdDRG1wTW5XMWhFbTZ2Z2cxUS1DSkYwQQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-19 18:53",
+   "published_iso": "2026-10-19T09:53:32+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ＝来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92R3BXTUM4bXhZd1lyTmdaMWtlR3hmSk1xOGQ3R2kyeHhXTTBPNFpLV2ExZWVYc19wRXFrd0RoZ2dkUlVKVEtoOXR0VQ?oc=5",
+   "source": "時事メディカル",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:32",
+   "published_iso": "2026-10-19T08:32:00+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
+  },
+  {
+   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:00+00:00"
   }
  ]
 }
