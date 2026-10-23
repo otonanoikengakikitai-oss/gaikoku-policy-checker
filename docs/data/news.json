@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T06:56:15+00:00",
+ "generated_at": "2026-10-23T12:26:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "関空に免税手続きの専用端末設置 購入時は税込で支払い、出国時に消費税返金 訪日外国人の不正転売防ぐ",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcjRvV2ZWY1VPMHdCM1BNTTR4Z1lxNUExM2N5YzhzSWZtTlI2UGxJQlozcHFVRUFXeGUwblVaWnZLd0lNX2VQRFJVcV9NSGNmcTRFcFMwUUkwVXFRQ191UG80cWdib1J0bVZSNms4ZzVCU24ycnV6YXBZMkJtaG8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-23 19:00",
+   "published_iso": "2026-10-23T10:00:00+00:00"
+  },
+  {
+   "title": "外国人殺到の交差点で新対策 “絶景スポット”今どうなった？",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMHJMVXFNMEE0eWdNMEpUZ0lwRDlrQ2ZOLVU2aTJTLXFGbXJ3cGdoN3ZMYmdoMkpaZmEyTjhNZmJ4YmJ3bm1DQVlUZ1NfejhYN1hZb2xrM3d1MThDRWFzOXRjNllMZWVuM2ZwZ1kwMldCQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-23 18:16",
+   "published_iso": "2026-10-23T09:16:02+00:00"
+  },
+  {
+   "title": "外国人旅行者の｢免税｣11月から手続き変更 出国時に税金払い戻しへ 不正転売が相次ぎ… ｢撲滅されるものと期待｣",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01U3kzS3lsVWdhdHFlTURTYjRPTlpZWUpKN3BadUU4aDQyWHV1T1Zrd3VLN3JXMjdfdk1DTXBoNzBwaGtqa0VzTlFIbmM5S2RObWZlNkhGLXk4a3JLekZwWExCZ3dNN2c?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-23 18:15",
+   "published_iso": "2026-10-23T09:15:00+00:00"
+  },
+  {
+   "title": "群馬県、外国人適正雇用へ企業など認証 2段階で不法就労防止",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vLUp1U29saXZuTFhfYTlxbEFQOTZxajJfRDNZR1Z3b2RpREswM1RLRnZyOGI1elpRZ3hBMENRMFZWZHMwV1E3bG9JTGFvZ2FRVWZJZVZtUmFRVGhLZXFFZlVjaTBMeEljYnkxQQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 17:15",
+   "published_iso": "2026-10-23T08:15:00+00:00"
+  },
   {
    "title": "育成就労、日本語教員確保に遅れ 「候補も未定」が36%",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZnFUOFVqcGE1dzdYaUpXcUFlZUZzUXlEZ05wQ1Y0eUhzVkVudURRMWNsWlV6X1FoRnUzd0ljRDlza2tyU1VZMjRUTDhLcVBIcnJVSVlKWGdRQnA2Y09EbWV3R3pOOHFxaTA1bw?oc=5",
@@ -16,7 +48,7 @@
    "published_iso": "2026-10-23T06:54:20+00:00"
   },
   {
-   "title": "介護にスポットワーク、1.9万拠点でタイミー 特定技能は2万人拡大案",
+   "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
@@ -49,11 +81,11 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-23 06:27",
-   "published_iso": "2026-10-22T21:27:37+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 06:36",
+   "published_iso": "2026-10-22T21:36:17+00:00"
   },
   {
    "title": "（私の視点）在留手数料の引き上げ 外国人政策に、整合性あるか 柴思原",
@@ -96,14 +128,6 @@
    "published_iso": "2026-10-22T08:54:00+00:00"
   },
   {
-   "title": "「こういう外国人なら歓迎」喉元〝漢字タトゥー〟最多勝右腕エスピノーザに「すごい。センスある」「かわいすぎない？」妻との帰国中最新ショットが話題",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EUWtfT0xoblY2RTI0dDBmbHgtT21FMnNzdy1RRjJSbXZGcWdzMFVKdUFNWDBqQloxcnRVS2M1Y1o2dXF3SG5fVjFkVkNsR2Nlb2IyVnNRODNWeUdQS0Jn?oc=5",
-   "source": "西スポWEB OTTO!",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-22 17:50",
-   "published_iso": "2026-10-22T08:50:00+00:00"
-  },
-  {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odHE4XzhLSy10SmhTc0JOVWRlSW5CNWpNcjhYdi1mNTBRRU51b0c4bzVBV1h4WDdnaXk0ZnJxWlhoTzdObXN6bnY4dDJJYmp1TXVfWUk5RnlyMlV1VGIwOVFnbGQ?oc=5",
    "source": "読売新聞",
@@ -118,14 +142,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-22 13:23",
    "published_iso": "2026-10-22T04:23:45+00:00"
-  },
-  {
-   "title": "外国人材の悩み集約 スマホで毎月アンケ、担当者に通知 定着支援へ対応促す ファーストペンギン 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWWhHU1B6M1N5MWhqUzlZbWY0d3hJZUdJVjNXYzVObmhPS2t0bXl2b284b1VJUDVfNkZWMlhzNC1tY0xHN01JMlNKdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-22 10:00",
-   "published_iso": "2026-10-22T01:00:00+00:00"
   },
   {
    "title": "鉄道の整備保守に外国人材、３年で３倍以上…都市部との賃金差・転職可能な就労制度で地方鉄道は定着に課題",
@@ -200,20 +216,20 @@
    "published_iso": "2026-10-21T08:03:14+00:00"
   },
   {
+   "title": "9月の訪日外国人は5％減の約310万人 今年の累計は3000万人突破も去年を2.9％下回る 中国除く東アジアからの旅行者は増加",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzVk1nYkNCU0JLSmZ3UXR0bllDV0hKN3Qwa3J1bXNxR1dvam9UTm9wS29rcXFib2h4UVBral8taDRHTDRwbkdYaXMxZWlUZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-21 16:16",
+   "published_iso": "2026-10-21T07:16:00+00:00"
+  },
+  {
    "title": "９月の訪日外国人客３１０万３７００人、前年同月比５％減…台風による欠航・航空便の価格上昇響く",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BLVExelF4bW1rYzZQaV92bms2TmNkalhNMGpDYnpFcHVQbHVwTFozcURCLTRGemZtTTNNQ1RqNlROTHpySWhtY1Iwem5JRHBKUkFzbHRrMzczS2I2NDNVMFVlS0w?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 16:15",
    "published_iso": "2026-10-21T07:15:00+00:00"
-  },
-  {
-   "title": "広島だけで7万4613人 中国地方に住む外国人が過去最多の16万人超え",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56WWl3eC1HQVY3UVZGNUZOUUhHdHFfUEhtM3ZjQ0hnMk9jWUVkQWdWYTVwQU9hak5lQ3NIYWg1SDVubi1Ua1JWTnJjUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-21 15:00",
-   "published_iso": "2026-10-21T06:00:00+00:00"
   },
   {
    "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
@@ -226,14 +242,6 @@
   {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBeV9Gck90cVJJVVg4eklDN2JOOXpjVU9XWmdFZ29LV1o0UThiX2FhdlRMYUJ1U0RtRmR3UkQwa1VLNWVENFk0blNWbTdYQThwMVNNVWlTWWh2d0JyZXREUjhR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 05:00",
-   "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "［米中間選挙２０２６］仏デモで移民対策正当化 トランプ氏 接戦の共和地盤で演説",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ta1lzMU5Vc3NhV1JIcHhDeG1wUVloTjBHanJ4ay1vTllhNHo2NFBGdU9oUjBMakJUSXJTcnlBc1VlLWV0dTBaSW5GRXFUVUhWZDhnb2pWOEVQR283Um5mR29Jcw?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 05:00",
@@ -296,20 +304,20 @@
    "published_iso": "2026-10-20T07:08:40+00:00"
   },
   {
+   "title": "「外国人は自己中心的」に嫌気がさす32歳男性へ、鴻上尚史が示す“同じ人間”として向き合う方法",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ocGNuWnVILUtZT1lQeUI0ZUdnRjAweHpfYzVXT3hBQnFXTWFGMHVrU3JIR3EyWTh2V1h3ZVA3YVZHOU52ZkJQcG9IdHV3dk45ZFFTOTVkN1VpQQ?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-10-20 16:00",
+   "published_iso": "2026-10-20T07:00:00+00:00"
+  },
+  {
    "title": "和歌山県で研修会、外国人との対応は＜英語＞＜多言語＞よりも＜やさしい日本語＞で…非英語圏の在留者が増加",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VdnZLWTJvQzJtd3Q0OTlMZW8tN0RJTndZTlhqRWpWYUxNcm1IaG85TWY0bDUyOWxVM25PdU9pQjYwdDdaRXhaSmRoUmpfVUtjWVRrTTZBaU1TTjY5U05iVkhJemI1R1hINHNkMDByVHgwUQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-20 15:30",
    "published_iso": "2026-10-20T06:30:00+00:00"
-  },
-  {
-   "title": "広島銀行、100万円以下の海外送金24時間以内に実施 外国人労働者の需要開拓へ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yRGt6M2hBWHNPd1UwQjFCbkdFNWdLTXNvOTNuVk1pWlZZSml5UEVLMkt5amoxMG5zYThqaWlxamxCS3I3cmpqWGt0WQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-20 13:03",
-   "published_iso": "2026-10-20T04:03:39+00:00"
   },
   {
    "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
@@ -342,22 +350,6 @@
    "source_domain": "kobe-np.co.jp",
    "published": "2026-10-20 05:10",
    "published_iso": "2026-10-19T20:10:00+00:00"
-  },
-  {
-   "title": "在留外国人の増加で注目される「やさしい日本語」の特徴はＳから始まる３要素。和歌山県の研修会",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HM2YtSTZLWUxsSUxibHBGU1EydnFubVNra3BjeGpLR0V6dnB4TFFFYVlZeVByMm1sY3JfeEM5YnIxQW5PY0V3c2c0OFNKeFR6YTV0TTRNc1pEQVdmQXdob2RIU2xtb3BxbV9FR2tNMktWSjA4?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 05:00",
-   "published_iso": "2026-10-19T20:00:00+00:00"
-  },
-  {
-   "title": "特定技能 「給食」人材 受け入れ再開へ 分野変更 「外食」停止は維持",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xMm1zTEl3WGpiVEpkU21wVVNYS0hNT1ROVWVPVDd3OVZvX2x6R1owVXZtbDg2SV8yMFhqV1Q1VjR6YjJEWjE1azdObXJSRHRkOEdOUzV1WkRobUVBRFBJNkY2bw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 05:00",
-   "published_iso": "2026-10-19T20:00:00+00:00"
   },
   {
    "title": "特定技能1号 給食調理員、受け入れ再開 外食から付け替え 来年4月見込む",
@@ -406,6 +398,14 @@
    "source_domain": "jiji.com",
    "published": "2026-10-19 17:32",
    "published_iso": "2026-10-19T08:32:00+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
   }
  ]
 }
