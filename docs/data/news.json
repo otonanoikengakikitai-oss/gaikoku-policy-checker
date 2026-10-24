@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T17:11:14+00:00",
+ "generated_at": "2026-10-24T20:11:49+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-25 05:00",
+   "published_iso": "2026-10-24T20:00:00+00:00"
+  },
   {
    "title": "隣の農家は外国人 広島で就農広がる 農地取得の動きも",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXM3dLQWtSbVNwdnpTbHh0ekpiZ2p2eXl0WVZfd0xCWHBWMWo0WUg4ZkRxRmVVX05aMDZZNnFPVlRycGZITGdyYWhLTQ?oc=5",
@@ -32,12 +40,12 @@
    "published_iso": "2026-10-24T05:58:00+00:00"
   },
   {
-   "title": "転売外国人に免税販売か 不正還付でブランド品販売会社に約5億円の追徴課税",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BekN6WDRtdHhvZGNoR3VTUWJjcWRia0F4dlVyaDNCVzZOTHRIRkN6dVkzUkhuUTJJQk5IMnZtLVhwUmRtYXFYeldnZkF2TUVHbFlpbHFtS3hncjF2T2JEcXVBREVIR1Fkc2tYc0NBeXVsdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 14:16",
-   "published_iso": "2026-10-24T05:16:00+00:00"
+   "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2d3FOMGJVNVhKR0cyVF93bk9jQ0hBYUtzcXVVQjlKQkZMVWpXN1JfWUh6ZGU1bk9NUFhMejZaNlltaWJ0eXBiak9yX2FVTFpqN0J1bUJibFpGaFNDM3ctOHk3OA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-24 14:33",
+   "published_iso": "2026-10-24T05:33:00+00:00"
   },
   {
    "title": "【動画】トランプ氏、イランの後で「キューバ片づける」 フロリダの集会で表明 移民にアピール",
@@ -54,6 +62,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-24 11:00",
    "published_iso": "2026-10-24T02:00:00+00:00"
+  },
+  {
+   "title": "外国人観光客殺到の交差点で接触事故防止へ新たな対策 山梨・富士吉田市",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PSUg5MnFHblBQTUVpV0I2TG9XbkdEZ1pXcEJXcFg2Z25RbEo5LWNUX2tXVU1IRF85UkhVOS0zSVNvVEtoZFhwNHIzNHZBc21UNFVQT3k2dzZXanN4ODluYUxsZXd5R1FvTHlMSFlGcGF3dw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-24 10:28",
+   "published_iso": "2026-10-24T01:28:56+00:00"
   },
   {
    "title": "今治市“早朝の市道で重傷ひき逃げ”自転車の外国人に大けがをさせた会社員を逮捕【愛媛】",
@@ -184,14 +200,6 @@
    "published_iso": "2026-10-23T06:25:00+00:00"
   },
   {
-   "title": "手錠と足かせで強制送還、「非人間化」される移民 ある一家を訪ねた [トランプ再来]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamotcUF6dnRYaDA4ajBGb0ROSmVsWExlR1BodTlWSS1jTWZOdFJkd2lOb3hnQVIzUXhSRklocEtnblgxaEM5enphd3pMNV9nS1dPTVFsbFRyZlBhUU1ROFA1aVZuNzQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-23 15:00",
-   "published_iso": "2026-10-23T06:00:00+00:00"
-  },
-  {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
    "source": "西日本新聞me",
@@ -264,22 +272,6 @@
    "published_iso": "2026-10-21T22:00:00+00:00"
   },
   {
-   "title": "宇奈月温泉、「昼食難民」なくせ 空き店舗貸し活性化 キャニオンルート契機に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZV9seWhWOW5ackU4bE1uVG9nZWs1cUJnV0ZaMXZnTTVTYnVYSXFoUk5SeXlSWU5XT2xFZUxYN2pmMEZIN2JoekV1VQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-22 05:00",
-   "published_iso": "2026-10-21T20:00:00+00:00"
-  },
-  {
-   "title": "ゴミのポイ捨て 過料の効果は？――外国人旅行客の困りごと「ゴミ箱の少なさ」…手間なく“減らす”各地の対策【なるほどッ！】",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbEItRkJUNjhycmRoYk1BTkFjWGVvNGVzZDEzWDBnMDEwS3N4c1l3TUJrWkRkU1BHbHJqSXlWbWZPWVNNVDctbXJTQlZzREFGZUdvcmY5c2I5UnJ4NzRDb0NPZkc0SFpTb3FNamZXYS1STXZpekw3ajNVWEc?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-21 21:24",
-   "published_iso": "2026-10-21T12:24:00+00:00"
-  },
-  {
    "title": "9月の訪日外国人旅行者数は前年同月比で減少傾向続く 一方で7～9月の旅行者全体の消費額は同時期比で過去最高に",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdS1YdmVNTVdsNXpwRERsWVNOYWtjcmdxSHh0VV9UbXBPd1lreHhhdHBzU3pwbUJvcm1oYjRDMGw0OGxFZmMxYjVIcFRmVmRKUHc5SXItaw?oc=5",
    "source": "TBS NEWS DIG",
@@ -344,6 +336,22 @@
    "published_iso": "2026-10-20T20:00:00+00:00"
   },
   {
+   "title": "［米中間選挙２０２６］仏デモで移民対策正当化 トランプ氏 接戦の共和地盤で演説",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ta1lzMU5Vc3NhV1JIcHhDeG1wUVloTjBHanJ4ay1vTllhNHo2NFBGdU9oUjBMakJUSXJTcnlBc1VlLWV0dTBaSW5GRXFUVUhWZDhnb2pWOEVQR283Um5mR29Jcw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-21 05:00",
+   "published_iso": "2026-10-20T20:00:00+00:00"
+  },
+  {
+   "title": "［欧州の新常態］移民に「同化」要求 拡大 強硬政策が票に 各党「右傾化」",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13M2ZqUWp0SnphQW5OV2ZGUmRJa1BHSkx0U2pPRm5kOEFoRnl1TXgtYUVBdlF5ZmQwSWJ0WDdaZXJBWXJwdkVJMzN4Z0JhNlU5SnUzckIyYXg2SHZETld2N3V0VQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-21 05:00",
+   "published_iso": "2026-10-20T20:00:00+00:00"
+  },
+  {
    "title": "多文化共生社会を考える 11月21日、板橋で講演・シンポ ／東京",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQThMcXFMcDJ0aUQ1ZEtPd05uUVpBQ1U2Y1otSkNxeUY2ZWJYTEd5RmYzNGU5V0lqTC05aUZ6cVRIOThoeUpCeVY0S1BMUFk2OHVMWFJWQ1NnbnRnQXdiZU8zbzFGeGZ4?oc=5",
    "source": "毎日新聞",
@@ -390,14 +398,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 16:08",
    "published_iso": "2026-10-20T07:08:40+00:00"
-  },
-  {
-   "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-20 12:46",
-   "published_iso": "2026-10-20T03:46:00+00:00"
   },
   {
    "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
