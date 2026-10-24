@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:11:49+00:00",
+ "generated_at": "2026-10-24T22:52:34+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,10 +8,34 @@
  ],
  "items": [
   {
+   "title": "「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-25 05:10",
+   "published_iso": "2026-10-24T20:10:00+00:00"
+  },
+  {
    "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-10-25 05:00",
+   "published_iso": "2026-10-24T20:00:00+00:00"
+  },
+  {
+   "title": "入管庁 電子鑑識を導入 来年度から 不法就労の摘発強化",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11d21XYXVZeDhVbks1aVVwQmpKQU4xbVpydUU3VWJlNzFBcFJwX0NDWE5TTDhQUVFUc0NCUmV4UlBxdHNxS1ZSM3BOQmJNWXJURFFmdVJ4aVlERzJGc1JpaUtMZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-25 05:00",
+   "published_iso": "2026-10-24T20:00:00+00:00"
+  },
+  {
+   "title": "［地球を読む］（１面の続き）関税、移民政策 国民とずれ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlemJLYVg3eDhIVHMyMFF0Q3pROUZiVnJIQnllSmZRNHF4cDlLUTNnUHJGTGNoczVFSVB3Sm5nQ3RMVFBQdXdMMTRFeVRyLVRGeG5UdDRUQmdrdVQ4eHJudGZsNA?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-10-25 05:00",
    "published_iso": "2026-10-24T20:00:00+00:00"
   },
@@ -48,6 +72,14 @@
    "published_iso": "2026-10-24T05:33:00+00:00"
   },
   {
+   "title": "転売外国人に免税販売か 不正還付でブランド品販売会社に約5億円の追徴課税",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BekN6WDRtdHhvZGNoR3VTUWJjcWRia0F4dlVyaDNCVzZOTHRIRkN6dVkzUkhuUTJJQk5IMnZtLVhwUmRtYXFYeldnZkF2TUVHbFlpbHFtS3hncjF2T2JEcXVBREVIR1Fkc2tYc0NBeXVsdw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-24 14:16",
+   "published_iso": "2026-10-24T05:16:00+00:00"
+  },
+  {
    "title": "【動画】トランプ氏、イランの後で「キューバ片づける」 フロリダの集会で表明 移民にアピール",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83c3VFR2xSVTlCZ21iNEhtMThsMFB2VkJpcF80V0xIMzk1NFpyUE9vRkppOXhRZVZxQUxiUFM2bUdpTi02TnNOVWRCZ3dHd0REYmI2MzBYUUEwTWNMSkNuRFIteUtDZFhDSHZNUGV1RE51Vlc3WUE?oc=5",
    "source": "産経ニュース",
@@ -70,14 +102,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-24 10:28",
    "published_iso": "2026-10-24T01:28:56+00:00"
-  },
-  {
-   "title": "今治市“早朝の市道で重傷ひき逃げ”自転車の外国人に大けがをさせた会社員を逮捕【愛媛】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mMlVUdlNKVjhNMDNrRGd3LTRxMEpQN0hOTXdXWGlHZ3pGSXBlTGNDU21YY3VkcFUzUVFRSi1TTlRKUnRVbkRlU2d4a194QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-24 10:00",
-   "published_iso": "2026-10-24T01:00:00+00:00"
   },
   {
    "title": "社説：認知症支援チーム 共生社会実現の一歩に",
@@ -200,20 +224,20 @@
    "published_iso": "2026-10-23T06:25:00+00:00"
   },
   {
-   "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-23 06:27",
-   "published_iso": "2026-10-22T21:27:37+00:00"
-  },
-  {
-   "title": "（私の視点）在留手数料の引き上げ 外国人政策に、整合性あるか 柴思原",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42X3FyekRCWGJ5V2pvTkkyZm5KSTFKRVhDOHZSc05sMkJLMkoxVXR3N0lvUW9iMnc1anZFRmF4SUZ0R3ozU3BuSEowZFZ1Zk9fRjJDZGI1enJndkJa?oc=5",
+   "title": "手錠と足かせで強制送還、「非人間化」される移民 ある一家を訪ねた [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamotcUF6dnRYaDA4ajBGb0ROSmVsWExlR1BodTlWSS1jTWZOdFJkd2lOb3hnQVIzUXhSRklocEtnblgxaEM5enphd3pMNV9nS1dPTVFsbFRyZlBhUU1ROFA1aVZuNzQ?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-10-23 05:00",
-   "published_iso": "2026-10-22T20:00:00+00:00"
+   "published": "2026-10-23 15:00",
+   "published_iso": "2026-10-23T06:00:00+00:00"
+  },
+  {
+   "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xcjJiZUxtRlNONkRjaXNTZWtWZFdmclk1ZTlMdkp6TE5tdVFqT1oxSXR0cHRJTmVIR0NWcU43NXRwY0N0UVlta2VZeHdHZ3pvTUhDSHhuamRxRTAxSHNDYVhuaw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-10-23 06:27",
+   "published_iso": "2026-10-22T21:27:37+00:00"
   },
   {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
@@ -320,32 +344,8 @@
    "published_iso": "2026-10-20T21:05:35+00:00"
   },
   {
-   "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RmFqcFJ0MmhmeS1CMmFoQnp1bU8ydml3SzZfVHVyZjlaSmZ5MzIxMDl6bFhxalhPZndlcXJHdFFVSEVBRUVkdUdORklRU2lnd3dRRGlLVGZkdFhZWFJhSG9ZV1ltaEt3NlU5WURwc3ZGUQ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-21 06:03",
-   "published_iso": "2026-10-20T21:03:21+00:00"
-  },
-  {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBeV9Gck90cVJJVVg4eklDN2JOOXpjVU9XWmdFZ29LV1o0UThiX2FhdlRMYUJ1U0RtRmR3UkQwa1VLNWVENFk0blNWbTdYQThwMVNNVWlTWWh2d0JyZXREUjhR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 05:00",
-   "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "［米中間選挙２０２６］仏デモで移民対策正当化 トランプ氏 接戦の共和地盤で演説",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ta1lzMU5Vc3NhV1JIcHhDeG1wUVloTjBHanJ4ay1vTllhNHo2NFBGdU9oUjBMakJUSXJTcnlBc1VlLWV0dTBaSW5GRXFUVUhWZDhnb2pWOEVQR283Um5mR29Jcw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 05:00",
-   "published_iso": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "［欧州の新常態］移民に「同化」要求 拡大 強硬政策が票に 各党「右傾化」",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13M2ZqUWp0SnphQW5OV2ZGUmRJa1BHSkx0U2pPRm5kOEFoRnl1TXgtYUVBdlF5ZmQwSWJ0WDdaZXJBWXJwdkVJMzN4Z0JhNlU5SnUzckIyYXg2SHZETld2N3V0VQ?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-21 05:00",
@@ -368,14 +368,6 @@
    "published_iso": "2026-10-20T17:00:00+00:00"
   },
   {
-   "title": "政府は、学校や福祉施設の給食を作る仕事で特定技能の外国人受け入れを再開します",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RUDNYRmM5Z2VXSmxycU4xdy0tNFhBWFJlTk0tRVVzMmxWU3RsaHV4SGFJZ3VwUWlwdkZQOGxxSS1wbXhCaUlrYkJwOFdocE9NZDhqUXBmMVAtWUpBNVp0aWs4QWYtZjQ?oc=5",
-   "source": "やさしい朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-20 22:06",
-   "published_iso": "2026-10-20T13:06:10+00:00"
-  },
-  {
    "title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5",
    "source": "読売新聞",
@@ -392,20 +384,28 @@
    "published_iso": "2026-10-20T11:08:29+00:00"
   },
   {
-   "title": "＜QAで解説＞特定技能、医療・福祉の給食調理員受け入れ再開へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDR4eUdIc0ZET00xUXNvYTdJazNiOWxTYWNGbTNsUDNVY21mUmlCQ3h3OWtDLTBJVkRCa2xkcVdzLWhZZU41OTJ1NG4tLWZ6TlBsYnVINTV2ajRrQzVrUGpqSVFJZVBQ?oc=5",
+   "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
-   "published": "2026-10-20 16:08",
-   "published_iso": "2026-10-20T07:08:40+00:00"
+   "published": "2026-10-20 06:30",
+   "published_iso": "2026-10-19T21:30:00+00:00"
   },
   {
-   "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTVRvS05ZQTI1TVB3dnBUT0IwUnB3ZC03ZmQyb1NJdlJtcFJsVk9ERjhDSjVrby1ibUZrTDBVMlFjQXVLbU54RjRmU0pxdUN0UWV1MmFRUm53RVFyVk12TU5McERqZlZVSThWNG9R?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-10-20 05:10",
-   "published_iso": "2026-10-19T20:10:00+00:00"
+   "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdGZab3FJOEV2NTJRMzhPc0hpc1NyT1h1YXh0MV9peXpNSU15a0RPOWFpck5WWE83UTVudVh4Znk2VmsxZTVWOW5sOEYwamRZbzlLTUdld3NtUm9zTVJocnRsQW1jZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-19 20:52",
+   "published_iso": "2026-10-19T11:52:00+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
   }
  ]
 }
