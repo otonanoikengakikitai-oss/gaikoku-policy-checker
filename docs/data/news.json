@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T13:05:17+00:00",
+ "generated_at": "2026-10-24T17:11:14+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "隣の農家は外国人 広島で就農広がる 農地取得の動きも",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXM3dLQWtSbVNwdnpTbHh0ekpiZ2p2eXl0WVZfd0xCWHBWMWo0WUg4ZkRxRmVVX05aMDZZNnFPVlRycGZITGdyYWhLTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-24 16:38",
+   "published_iso": "2026-10-24T07:38:00+00:00"
+  },
   {
    "title": "不法就労の外国人から押収したスマホやＰＣ、「電子鑑識」で解析へ…雇用主らの摘発強化で入管庁",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Y29KUTlMSFNPWVJUYXhHZGUxZzR6TkMwamNkb1FHaklLYUE4R19DMDlOd19keEZMa1R6ZW8yaHo4UGtScDN1U2E2VUJNMlVjRHFsTS1ib1hRNjBqajl4WU1USkRlQQ?oc=5",
@@ -24,12 +32,12 @@
    "published_iso": "2026-10-24T05:58:00+00:00"
   },
   {
-   "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2d3FOMGJVNVhKR0cyVF93bk9jQ0hBYUtzcXVVQjlKQkZMVWpXN1JfWUh6ZGU1bk9NUFhMejZaNlltaWJ0eXBiak9yX2FVTFpqN0J1bUJibFpGaFNDM3ctOHk3OA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-24 14:33",
-   "published_iso": "2026-10-24T05:33:00+00:00"
+   "title": "転売外国人に免税販売か 不正還付でブランド品販売会社に約5億円の追徴課税",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BekN6WDRtdHhvZGNoR3VTUWJjcWRia0F4dlVyaDNCVzZOTHRIRkN6dVkzUkhuUTJJQk5IMnZtLVhwUmRtYXFYeldnZkF2TUVHbFlpbHFtS3hncjF2T2JEcXVBREVIR1Fkc2tYc0NBeXVsdw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-24 14:16",
+   "published_iso": "2026-10-24T05:16:00+00:00"
   },
   {
    "title": "【動画】トランプ氏、イランの後で「キューバ片づける」 フロリダの集会で表明 移民にアピール",
@@ -136,14 +144,6 @@
    "published_iso": "2026-10-23T10:00:00+00:00"
   },
   {
-   "title": "外国人殺到の交差点で新対策 “絶景スポット”今どうなった？",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMHJMVXFNMEE0eWdNMEpUZ0lwRDlrQ2ZOLVU2aTJTLXFGbXJ3cGdoN3ZMYmdoMkpaZmEyTjhNZmJ4YmJ3bm1DQVlUZ1NfejhYN1hZb2xrM3d1MThDRWFzOXRjNllMZWVuM2ZwZ1kwMldCQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-23 18:16",
-   "published_iso": "2026-10-23T09:16:02+00:00"
-  },
-  {
    "title": "外国人旅行者の｢免税｣11月から手続き変更 出国時に税金払い戻しへ 不正転売が相次ぎ… ｢撲滅されるものと期待｣",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01U3kzS3lsVWdhdHFlTURTYjRPTlpZWUpKN3BadUU4aDQyWHV1T1Zrd3VLN3JXMjdfdk1DTXBoNzBwaGtqa0VzTlFIbmM5S2RObWZlNkhGLXk4a3JLekZwWExCZ3dNN2c?oc=5",
    "source": "TBS NEWS DIG",
@@ -208,22 +208,6 @@
    "published_iso": "2026-10-22T20:00:00+00:00"
   },
   {
-   "title": "「今のままではとんでもないことに」富士山噴火時の外国人避難で関係者が課題共有 山梨",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUhpRlJpQUZVbmdqLTAzZTAwaVpjVE9XeVVkRWhZbnMzamZxdXVPQ0pHSzE0WDBUZlYxQm82M3pzY2RORGZIcl9yM3ZJYVpWLVc2QzVzb0Vzc0N3cmFwMlhGUE54amxQd3hfazJHQ3RYOV9jZlN1Slk3N3RINmxmYmszX3VtMWc0WlNRX3VJMA?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-22 19:17",
-   "published_iso": "2026-10-22T10:17:00+00:00"
-  },
-  {
-   "title": "富士山噴火のおそれを想定 外国人観光客の避難を図上訓練 通信環境の確保や言語対応など課題に 山梨・富士河口湖町",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPc09Ec20yOWpaaF9YTllxVWxHcWYzWlhBUzNDMWlJWTV3OHFLUEFsVm5RQ3NXd0loR0dneGhYOW1RRERJVXpwcWlWV1dGTGJHdHZPd2pUdjdyYXltNldpOW43TGZWTkk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-22 18:40",
-   "published_iso": "2026-10-22T09:40:00+00:00"
-  },
-  {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1odHE4XzhLSy10SmhTc0JOVWRlSW5CNWpNcjhYdi1mNTBRRU51b0c4bzVBV1h4WDdnaXk0ZnJxWlhoTzdObXN6bnY4dDJJYmp1TXVfWUk5RnlyMlV1VGIwOVFnbGQ?oc=5",
    "source": "読売新聞",
@@ -286,6 +270,14 @@
    "source_domain": "47news.jp",
    "published": "2026-10-22 05:00",
    "published_iso": "2026-10-21T20:00:00+00:00"
+  },
+  {
+   "title": "ゴミのポイ捨て 過料の効果は？――外国人旅行客の困りごと「ゴミ箱の少なさ」…手間なく“減らす”各地の対策【なるほどッ！】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbEItRkJUNjhycmRoYk1BTkFjWGVvNGVzZDEzWDBnMDEwS3N4c1l3TUJrWkRkU1BHbHJqSXlWbWZPWVNNVDctbXJTQlZzREFGZUdvcmY5c2I5UnJ4NzRDb0NPZkc0SFpTb3FNamZXYS1STXZpekw3ajNVWEc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-21 21:24",
+   "published_iso": "2026-10-21T12:24:00+00:00"
   },
   {
    "title": "9月の訪日外国人旅行者数は前年同月比で減少傾向続く 一方で7～9月の旅行者全体の消費額は同時期比で過去最高に",
@@ -400,12 +392,20 @@
    "published_iso": "2026-10-20T07:08:40+00:00"
   },
   {
-   "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUE9YNm5yeDlOU2UzVHJFblhJOUlSMEZEWmtraDJzV0FUeS1NQy0zTnluYTNSQmc0VU9XTk1oM3h2VlNkMlBSVU1IVGxyQm5CUWFqTmc2cDZMY2F2R0ZOby1n?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 13:00",
-   "published_iso": "2026-10-20T04:00:00+00:00"
+   "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-20 12:46",
+   "published_iso": "2026-10-20T03:46:00+00:00"
+  },
+  {
+   "title": "話題の人＞神姫バス・徐凱さん 県内初、技能実習の外国人運転手に|経済ニュース",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTVRvS05ZQTI1TVB3dnBUT0IwUnB3ZC03ZmQyb1NJdlJtcFJsVk9ERjhDSjVrby1ibUZrTDBVMlFjQXVLbU54RjRmU0pxdUN0UWV1MmFRUm53RVFyVk12TU5McERqZlZVSThWNG9R?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-10-20 05:10",
+   "published_iso": "2026-10-19T20:10:00+00:00"
   }
  ]
 }
