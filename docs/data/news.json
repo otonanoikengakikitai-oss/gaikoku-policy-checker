@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:37:41+00:00",
+ "generated_at": "2026-10-24T13:05:17+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,14 +7,6 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
-  {
-   "title": "隣の農家は外国人 広島で就農広がる 農地取得の動きも",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXM3dLQWtSbVNwdnpTbHh0ekpiZ2p2eXl0WVZfd0xCWHBWMWo0WUg4ZkRxRmVVX05aMDZZNnFPVlRycGZITGdyYWhLTQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-24 16:38",
-   "published_iso": "2026-10-24T07:38:23+00:00"
-  },
   {
    "title": "不法就労の外国人から押収したスマホやＰＣ、「電子鑑識」で解析へ…雇用主らの摘発強化で入管庁",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Y29KUTlMSFNPWVJUYXhHZGUxZzR6TkMwamNkb1FHaklLYUE4R19DMDlOd19keEZMa1R6ZW8yaHo4UGtScDN1U2E2VUJNMlVjRHFsTS1ib1hRNjBqajl4WU1USkRlQQ?oc=5",
@@ -40,15 +32,7 @@
    "published_iso": "2026-10-24T05:33:00+00:00"
   },
   {
-   "title": "転売外国人に免税販売か 不正還付でブランド品販売会社に約5億円の追徴課税",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BekN6WDRtdHhvZGNoR3VTUWJjcWRia0F4dlVyaDNCVzZOTHRIRkN6dVkzUkhuUTJJQk5IMnZtLVhwUmRtYXFYeldnZkF2TUVHbFlpbHFtS3hncjF2T2JEcXVBREVIR1Fkc2tYc0NBeXVsdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 14:16",
-   "published_iso": "2026-10-24T05:16:00+00:00"
-  },
-  {
-   "title": "トランプ氏、イランの後で「キューバ片づける」 フロリダの集会で表明 移民にアピール",
+   "title": "【動画】トランプ氏、イランの後で「キューバ片づける」 フロリダの集会で表明 移民にアピール",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83c3VFR2xSVTlCZ21iNEhtMThsMFB2VkJpcF80V0xIMzk1NFpyUE9vRkppOXhRZVZxQUxiUFM2bUdpTi02TnNOVWRCZ3dHd0REYmI2MzBYUUEwTWNMSkNuRFIteUtDZFhDSHZNUGV1RE51Vlc3WUE?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
@@ -97,9 +81,9 @@
   },
   {
    "title": "外国人への差別的投稿が昨年同期比3倍増 三重県のモニタリング調査、4～6月",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwckFyXzNCYk1aTTZOeXVCd200UWwyaHQ2aXBFQkJLaHVyV3FkaVJ3YlJsNW1iR3hhTmU2N0FkazVIejVwT3BvQi16MV9faDhhbjZxcXhnT2N1YWE2eDdN?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zN242NHA4OGdCeGUwbEVpZ0VSNjRaMXJCZXpRYzAwLXBaeGxTRnF5Z19kTmxvaG9raWp2NGxQUU9VYm54NENQSjlaaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-10-24 05:10",
    "published_iso": "2026-10-23T20:10:00+00:00"
   },
@@ -136,14 +120,6 @@
    "published_iso": "2026-10-23T14:23:20+00:00"
   },
   {
-   "title": "多くの外国人観光客が訪れる交差点 オーバーツーリズム対策で「歩車分離式信号」に 山梨・富士吉田市",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YVUVrUlNTcm4yX3hNaW56RGw5VzIzS1BpYmYyYWFYRlFXMmYxOHBYaHIwZkxCSFBJbGlRNFhzVFVHNlZ6SnVMMmxOZGFYM193S2lFcGRybV9TSVlvS1VzX1BSWUt6bmc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-23 20:40",
-   "published_iso": "2026-10-23T11:40:00+00:00"
-  },
-  {
    "title": "“コンビニ富士山”でも…外国人の交通事故防止へ道路標識に「英語表記」導入進む 山梨",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNellENWF4SGNpNWJzQ1J1bTl2cllCR1U3ajlndWdVckxxWF9WVXlfempYcVdyTWltOFF1V2EzOTh1Q3BjeE5DcC1SUEFKX0N4RWFsX0Nsall6QjZKdzRJaDZvMWRxTndsSV8tcjRtQzY3al9IRmpPcTJVM3J5Qmk4Q2V6dU9RZkE?oc=5",
    "source": "日テレNEWS NNN",
@@ -158,6 +134,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-23 19:00",
    "published_iso": "2026-10-23T10:00:00+00:00"
+  },
+  {
+   "title": "外国人殺到の交差点で新対策 “絶景スポット”今どうなった？",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMHJMVXFNMEE0eWdNMEpUZ0lwRDlrQ2ZOLVU2aTJTLXFGbXJ3cGdoN3ZMYmdoMkpaZmEyTjhNZmJ4YmJ3bm1DQVlUZ1NfejhYN1hZb2xrM3d1MThDRWFzOXRjNllMZWVuM2ZwZ1kwMldCQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-23 18:16",
+   "published_iso": "2026-10-23T09:16:02+00:00"
   },
   {
    "title": "外国人旅行者の｢免税｣11月から手続き変更 出国時に税金払い戻しへ 不正転売が相次ぎ… ｢撲滅されるものと期待｣",
@@ -209,11 +193,11 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-23 06:36",
-   "published_iso": "2026-10-22T21:36:17+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-23 06:27",
+   "published_iso": "2026-10-22T21:27:37+00:00"
   },
   {
    "title": "（私の視点）在留手数料の引き上げ 外国人政策に、整合性あるか 柴思原",
@@ -302,14 +286,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-22 05:00",
    "published_iso": "2026-10-21T20:00:00+00:00"
-  },
-  {
-   "title": "ゴミのポイ捨て 過料の効果は？――外国人旅行客の困りごと「ゴミ箱の少なさ」…手間なく“減らす”各地の対策【なるほどッ！】",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nbEItRkJUNjhycmRoYk1BTkFjWGVvNGVzZDEzWDBnMDEwS3N4c1l3TUJrWkRkU1BHbHJqSXlWbWZPWVNNVDctbXJTQlZzREFGZUdvcmY5c2I5UnJ4NzRDb0NPZkc0SFpTb3FNamZXYS1STXZpekw3ajNVWEc?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-21 21:24",
-   "published_iso": "2026-10-21T12:24:00+00:00"
   },
   {
    "title": "9月の訪日外国人旅行者数は前年同月比で減少傾向続く 一方で7～9月の旅行者全体の消費額は同時期比で過去最高に",
@@ -406,6 +382,30 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-20 21:26",
    "published_iso": "2026-10-20T12:26:00+00:00"
+  },
+  {
+   "title": "特定技能・育成就労の上限123万人 山下法相「見直し考えず」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RY0M0emF0TkNWMlZaUEw4QWh2R3VIM0hfdXRvUS11ZmpzVHhHamxXWDY3TUlvdmVtSGNBYXZhcS1YaDMtRmJ3a0NqeDZpQlVkY3VESGo5TjVGSVB3TXJqRXkycVBwTGZu?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 20:08",
+   "published_iso": "2026-10-20T11:08:29+00:00"
+  },
+  {
+   "title": "＜QAで解説＞特定技能、医療・福祉の給食調理員受け入れ再開へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDR4eUdIc0ZET00xUXNvYTdJazNiOWxTYWNGbTNsUDNVY21mUmlCQ3h3OWtDLTBJVkRCa2xkcVdzLWhZZU41OTJ1NG4tLWZ6TlBsYnVINTV2ajRrQzVrUGpqSVFJZVBQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 16:08",
+   "published_iso": "2026-10-20T07:08:40+00:00"
+  },
+  {
+   "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUE9YNm5yeDlOU2UzVHJFblhJOUlSMEZEWmtraDJzV0FUeS1NQy0zTnluYTNSQmc0VU9XTk1oM3h2VlNkMlBSVU1IVGxyQm5CUWFqTmc2cDZMY2F2R0ZOby1n?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-20 13:00",
+   "published_iso": "2026-10-20T04:00:00+00:00"
   }
  ]
 }
