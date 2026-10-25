@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T00:48:16+00:00",
+ "generated_at": "2026-10-25T05:39:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -88,6 +88,14 @@
    "published_iso": "2026-10-24T02:00:00+00:00"
   },
   {
+   "title": "外国人観光客殺到の交差点で接触事故防止へ新たな対策 山梨・富士吉田市",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PSUg5MnFHblBQTUVpV0I2TG9XbkdEZ1pXcEJXcFg2Z25RbEo5LWNUX2tXVU1IRF85UkhVOS0zSVNvVEtoZFhwNHIzNHZBc21UNFVQT3k2dzZXanN4ODluYUxsZXd5R1FvTHlMSFlGcGF3dw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-24 10:28",
+   "published_iso": "2026-10-24T01:28:56+00:00"
+  },
+  {
    "title": "社説：認知症支援チーム 共生社会実現の一歩に",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9URFJrVG1VakJsS3NKTDJ4WkhUNGhnck5RUWZtQWhrTUJvNDJnOFpkcXZLTGVTMmlETUpOTnZpSzZJSDVyNDBjc1k0aw?oc=5",
    "source": "47NEWS",
@@ -113,9 +121,9 @@
   },
   {
    "title": "外国人への差別的投稿が昨年同期比3倍増 三重県のモニタリング調査、4～6月",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQalJ3RHRSX0M4TWxEOUYxeXN1ZU9Ia01pQms5WkhoR3FReUhwcHBmRVFaWFkyQnFtejlsRHVhX1lxRTVhd184R2RjZ0NRM1FTUWdPNA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zN242NHA4OGdCeGUwbEVpZ0VSNjRaMXJCZXpRYzAwLXBaeGxTRnF5Z19kTmxvaG9raWp2NGxQUU9VYm54NENQSjlaaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-10-24 05:10",
    "published_iso": "2026-10-23T20:10:00+00:00"
   },
@@ -168,14 +176,6 @@
    "published_iso": "2026-10-23T10:00:00+00:00"
   },
   {
-   "title": "外国人殺到の交差点で新対策 “絶景スポット”今どうなった？",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rMHJMVXFNMEE0eWdNMEpUZ0lwRDlrQ2ZOLVU2aTJTLXFGbXJ3cGdoN3ZMYmdoMkpaZmEyTjhNZmJ4YmJ3bm1DQVlUZ1NfejhYN1hZb2xrM3d1MThDRWFzOXRjNllMZWVuM2ZwZ1kwMldCQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-23 18:16",
-   "published_iso": "2026-10-23T09:16:02+00:00"
-  },
-  {
    "title": "外国人旅行者の｢免税｣11月から手続き変更 出国時に税金払い戻しへ 不正転売が相次ぎ… ｢撲滅されるものと期待｣",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01U3kzS3lsVWdhdHFlTURTYjRPTlpZWUpKN3BadUU4aDQyWHV1T1Zrd3VLN3JXMjdfdk1DTXBoNzBwaGtqa0VzTlFIbmM5S2RObWZlNkhGLXk4a3JLekZwWExCZ3dNN2c?oc=5",
    "source": "TBS NEWS DIG",
@@ -225,11 +225,11 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xcjJiZUxtRlNONkRjaXNTZWtWZFdmclk1ZTlMdkp6TE5tdVFqT1oxSXR0cHRJTmVIR0NWcU43NXRwY0N0UVlta2VZeHdHZ3pvTUhDSHhuamRxRTAxSHNDYVhuaw?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-10-23 06:27",
-   "published_iso": "2026-10-22T21:27:37+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBac24yQmRWdUVoZ3RxSDB4cS1GNTJzYXNwcklFQ0U4WUx4TGxaeW1KemVPMlBKM2VaMEk2enFlUE5IRWNtMzExLXhYZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-23 06:28",
+   "published_iso": "2026-10-22T21:28:32+00:00"
   },
   {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
@@ -248,28 +248,20 @@
    "published_iso": "2026-10-22T07:00:00+00:00"
   },
   {
+   "title": "外国人も安全に避難所へ 受け入れ対応学ぶ 倶知安で訓練 防災用語理解に課題も",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13REpsU21sWlVlYTNmVGpVUnc1QzBBRXY2STA0Q3RQWlp3ZnlMM0dfLVdTNGVETjZkUXNMa3EyMF9HOFBxWjF0VkxQRDJzWUxBUUtOT1o4aHhJUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-22 13:23",
+   "published_iso": "2026-10-22T04:23:45+00:00"
+  },
+  {
    "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EV0lkbHhpeHphYkRuaUgzSGJxUU9CdVlvM2VOdVhNLXRFbTBCUkdrZ3hqdVNBVzhrVnZQbXh6RExITDJZUFpjdEh6OVdibEhaNngxVzQzejl2dw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-22 10:03",
    "published_iso": "2026-10-22T01:03:28+00:00"
-  },
-  {
-   "title": "外国人材の悩み集約 スマホで毎月アンケ、担当者に通知 定着支援へ対応促す ファーストペンギン 茨城",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DWWhHU1B6M1N5MWhqUzlZbWY0d3hJZUdJVjNXYzVObmhPS2t0bXl2b284b1VJUDVfNkZWMlhzNC1tY0xHN01JMlNKdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-22 10:00",
-   "published_iso": "2026-10-22T01:00:00+00:00"
-  },
-  {
-   "title": "鉄道の整備保守に外国人材、３年で３倍以上…都市部との賃金差・転職可能な就労制度で地方鉄道は定着に課題",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZlA4U3N6Z1NnOFhKb2tac3ZPR2hMM1ZrNFJGMzFGcmNuMVd5LV9nMFVvVlRNUmhnVndvMjQzWlRiazlmUnZFVDIxMkpyc2VVSkhxWEJfX1NBQ1JPYndicU1rSmFncWpjR0pIRG5HVlREZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-22 09:54",
-   "published_iso": "2026-10-22T00:54:00+00:00"
   },
   {
    "title": "マクロン仏大統領、暴動巡りトランプ氏批判 移民発言「容認できず」",
@@ -368,20 +360,20 @@
    "published_iso": "2026-10-20T11:08:29+00:00"
   },
   {
-   "title": "トランプ氏、根拠示さず「パリはもうすぐイスラム教徒の街に」…フランスのデモ巡り「移民の問題」などと持論展開",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUE9YNm5yeDlOU2UzVHJFblhJOUlSMEZEWmtraDJzV0FUeS1NQy0zTnluYTNSQmc0VU9XTk1oM3h2VlNkMlBSVU1IVGxyQm5CUWFqTmc2cDZMY2F2R0ZOby1n?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 13:00",
-   "published_iso": "2026-10-20T04:00:00+00:00"
-  },
-  {
    "title": "茨城県水戸市へ介護特定技能人材を配属！MIRAI、ネパール現地からの「初入国」となる人材が着任",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YSWxMWVpoemZxLXdkQnk4OGhXSkVJaTlSVnNWTVZfamFBVkxIRjZZektwdXVfVTQ3VHpWczBLbVBseUlKcGFYZDZDZzNlTzdyU001TVBRb3RqU3pqYldxZHkySTVGM1JMdV9R?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-10-20 12:46",
    "published_iso": "2026-10-20T03:46:00+00:00"
+  },
+  {
+   "title": "多文化共生へ取り組み共有 後志振興局がシンポ 自治体職員ら100人参加",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS282QnFpNWhQR2U0NUQ1dnZ2eUVVUmwxMTQ5aDNiSmRoQXhSdU5VNnlXVTNKdjRwUWM0V3VQRVhLNzh1d2NrUWJaamZncU85Q0tkR3E4REh5UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-20 12:10",
+   "published_iso": "2026-10-20T03:10:54+00:00"
   },
   {
    "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-19 17:31",
    "published_iso": "2026-10-19T08:31:56+00:00"
+  },
+  {
+   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:00+00:00"
   }
  ]
 }
