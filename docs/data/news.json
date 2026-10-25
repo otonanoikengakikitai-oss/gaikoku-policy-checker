@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:47:30+00:00",
+ "generated_at": "2026-10-25T18:06:32+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -24,6 +24,14 @@
    "published_iso": "2026-10-25T07:00:00+00:00"
   },
   {
+   "title": "「変な動画に影響された」法廷で後悔 モスクなど宗教施設を含む連続放火の罪に問われた男に間もなく判決 SNS情報を鵜呑みに感情過熱 検察は拘禁刑9年求刑 札幌地裁 | 北海道のニュース｜HBC北海道放送 (2ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xSHFrQTVxM1EwMi05VFJudkFUNHR6Yk9YcmpTWE52WTlmdVZqaHVYbFpkWXdaVUFJRmQ1bnh2YzZEZ1BLd0ltRHQ4QXVxZVdUbUI4SzROTHliMXJtLWpIZEVIUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-25 07:00",
+   "published_iso": "2026-10-24T22:00:00+00:00"
+  },
+  {
    "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dHVXVHhWaHFLeUxhVXJMbHpKQlVCOWY5dUNRclpVMXVlOXItR0RpNXV5R2tSX0V5dlotOUFieHAxa040MXpxUnZGZVJhUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -44,14 +52,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-10-25 05:00",
-   "published_iso": "2026-10-24T20:00:00+00:00"
-  },
-  {
-   "title": "入管庁 電子鑑識を導入 来年度から 不法就労の摘発強化",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11d21XYXVZeDhVbks1aVVwQmpKQU4xbVpydUU3VWJlNzFBcFJwX0NDWE5TTDhQUVFUc0NCUmV4UlBxdHNxS1ZSM3BOQmJNWXJURFFmdVJ4aVlERzJGc1JpaUtMZw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-10-25 05:00",
    "published_iso": "2026-10-24T20:00:00+00:00"
   },
@@ -118,14 +118,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-24 10:28",
    "published_iso": "2026-10-24T01:28:56+00:00"
-  },
-  {
-   "title": "社説：認知症支援チーム 共生社会実現の一歩に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9URFJrVG1VakJsS3NKTDJ4WkhUNGhnck5RUWZtQWhrTUJvNDJnOFpkcXZLTGVTMmlETUpOTnZpSzZJSDVyNDBjc1k0aw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-24 09:34",
-   "published_iso": "2026-10-24T00:34:00+00:00"
   },
   {
    "title": "パリ郊外で発砲、イスラム移民標的か 人種差別テロ容疑で捜査 デモの緊張高まるさなか",
@@ -264,14 +256,6 @@
    "published_iso": "2026-10-22T07:00:00+00:00"
   },
   {
-   "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EV0lkbHhpeHphYkRuaUgzSGJxUU9CdVlvM2VOdVhNLXRFbTBCUkdrZ3hqdVNBVzhrVnZQbXh6RExITDJZUFpjdEh6OVdibEhaNngxVzQzejl2dw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-22 10:03",
-   "published_iso": "2026-10-22T01:03:28+00:00"
-  },
-  {
    "title": "マクロン仏大統領、暴動巡りトランプ氏批判 移民発言「容認できず」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUzlfS3E5dFdpQjJ1S2ZLTGlkMXlpN0duNmRlb2dEWkVWX0tPZm5QMUY2T1dfcEtCcTloQjRjZFVEdnQxSDlZVzVaTnMxVnhNSDVPWWFGRnZranVHLUZlNC1tNXpvNk94b1ptUA?oc=5",
    "source": "日本経済新聞",
@@ -376,6 +360,14 @@
    "published_iso": "2026-10-20T03:10:54+00:00"
   },
   {
+   "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 06:30",
+   "published_iso": "2026-10-19T21:30:00+00:00"
+  },
+  {
    "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdGZab3FJOEV2NTJRMzhPc0hpc1NyT1h1YXh0MV9peXpNSU15a0RPOWFpck5WWE83UTVudVh4Znk2VmsxZTVWOW5sOEYwamRZbzlLTUdld3NtUm9zTVJocnRsQW1jZw?oc=5",
    "source": "読売新聞",
@@ -404,6 +396,14 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "title": "医療・福祉の給食業、特定技能「外食業」から区分変更へ 政府が議論",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53dGZ6cW5OaThzT0R2UmZLRW5DRXRrQlZOZEVITnJaenpzeHZDVWViYkp2QjlqNGwyR0tpRjBkZklhaTNjWFlNd0tpdDNXcEEzVVhxWFZ1MzA0Nk5JLWNiVVVnbzk0MzZVUUhaZg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
    "published": "2026-10-19 17:30",
    "published_iso": "2026-10-19T08:30:00+00:00"
   }
