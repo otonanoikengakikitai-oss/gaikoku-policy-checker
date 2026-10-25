@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T10:41:58+00:00",
+ "generated_at": "2026-10-25T14:47:30+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -22,6 +22,14 @@
    "source_domain": "asahi.com",
    "published": "2026-10-25 16:00",
    "published_iso": "2026-10-25T07:00:00+00:00"
+  },
+  {
+   "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dHVXVHhWaHFLeUxhVXJMbHpKQlVCOWY5dUNRclpVMXVlOXItR0RpNXV5R2tSX0V5dlotOUFieHAxa040MXpxUnZGZVJhUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-25 06:45",
+   "published_iso": "2026-10-24T21:45:44+00:00"
   },
   {
    "title": "「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会",
@@ -208,14 +216,6 @@
    "published_iso": "2026-10-23T08:15:00+00:00"
   },
   {
-   "title": "育成就労、日本語教員確保に遅れ 「候補も未定」が36%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZnFUOFVqcGE1dzdYaUpXcUFlZUZzUXlEZ05wQ1Y0eUhzVkVudURRMWNsWlV6X1FoRnUzd0ljRDlza2tyU1VZMjRUTDhLcVBIcnJVSVlKWGdRQnA2Y09EbWV3R3pOOHFxaTA1bw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 15:54",
-   "published_iso": "2026-10-23T06:54:20+00:00"
-  },
-  {
    "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
    "source": "日本経済新聞",
@@ -262,14 +262,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-10-22 16:00",
    "published_iso": "2026-10-22T07:00:00+00:00"
-  },
-  {
-   "title": "外国人も安全に避難所へ 受け入れ対応学ぶ 倶知安で訓練 防災用語理解に課題も",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13REpsU21sWlVlYTNmVGpVUnc1QzBBRXY2STA0Q3RQWlp3ZnlMM0dfLVdTNGVETjZkUXNMa3EyMF9HOFBxWjF0VkxQRDJzWUxBUUtOT1o4aHhJUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-22 13:23",
-   "published_iso": "2026-10-22T04:23:45+00:00"
   },
   {
    "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
@@ -406,6 +398,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-19 17:31",
    "published_iso": "2026-10-19T08:31:00+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
   }
  ]
 }
