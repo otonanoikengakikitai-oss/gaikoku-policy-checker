@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:24:45+00:00",
+ "generated_at": "2026-10-25T23:47:31+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-26 07:03",
+   "published_iso": "2026-10-25T22:03:00+00:00"
+  },
+  {
+   "title": "米中間選挙2026,トランプ政権：不法移民は減ったのに…トランプ氏の「公約」で弱った米国の足腰",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BNUJiSjNBLTF2dEV1TG8tbVJfbDBsaEd1UHkzM1lCbXhIUEFwZzU2dll3LVZ2VnZ2MVRacmtWQU4yYlM0YTdsRnZwYnRmTmVZQllUNkdCVkt0d2xodTBVVEM5MmRqeDBF?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-26 07:00",
+   "published_iso": "2026-10-25T22:00:00+00:00"
+  },
   {
    "title": "京都市上京区で相次ぐスーパー閉店「買い物難民」支援広がる一方で、利用継続に立ちはだかる「壁」",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBocnRmSWk1am85WUxyQnpZVzJ5NzRpeGJKTWpXbW9ESG1kZzJKTlJHdEJJZ241UzJMbDRyblV3N21WNmhsX2tGS041SzZzTHNvUkdSMHFGTEI?oc=5",
@@ -22,6 +38,14 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-25 16:11",
    "published_iso": "2026-10-25T07:11:44+00:00"
+  },
+  {
+   "title": "ベトナム国籍 技能実習生を逮捕 空き家から自転車盗んだ疑い 駅駐輪場で警察官張り込み 北海道北広島市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUENZV1JGb0wzVHNHU0FZaUlnaXAxc0hyN2tFOHN0YUc1YlJRWmJEcHBlVlJuODBNNDlaRzNQTHhibUJrWHF0OW51d1Z3ZU41dkxaa3BoNTlRQQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-25 16:03",
+   "published_iso": "2026-10-25T07:03:00+00:00"
   },
   {
    "title": "梨泰院事故から4年、外国人犠牲者の遺族ら現場で追悼 再発防止訴え",
@@ -118,14 +142,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-24 08:43",
    "published_iso": "2026-10-23T23:43:18+00:00"
-  },
-  {
-   "title": "外国人観光客に人気の「忍者体験」 本格修行からワイヤーアクションまで",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fVjVfS3JmX0NoQllxcFV0MEp4R0xkWnN1aEZrenlZR1hubjl3ZkU4QTFRUTdGWm5qalBXNWV6Wmh3OEFtZU5jUlp6M1lDelhYVEJBT1lrTWVVN2VuVHVwMVl6Tmc3c0NIb3dKSXVIN004dw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 08:19",
-   "published_iso": "2026-10-23T23:19:00+00:00"
   },
   {
    "title": "外国人への差別的投稿が昨年同期比3倍増 三重県のモニタリング調査、4～6月",
@@ -225,11 +241,19 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-23 06:36",
-   "published_iso": "2026-10-22T21:36:17+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-23 06:27",
+   "published_iso": "2026-10-22T21:27:37+00:00"
+  },
+  {
+   "title": "「今のままではとんでもないことに」富士山噴火時の外国人避難で関係者が課題共有 山梨",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUhpRlJpQUZVbmdqLTAzZTAwaVpjVE9XeVVkRWhZbnMzamZxdXVPQ0pHSzE0WDBUZlYxQm82M3pzY2RORGZIcl9yM3ZJYVpWLVc2QzVzb0Vzc0N3cmFwMlhGUE54amxQd3hfazJHQ3RYOV9jZlN1Slk3N3RINmxmYmszX3VtMWc0WlNRX3VJMA?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-22 19:17",
+   "published_iso": "2026-10-22T10:17:00+00:00"
   },
   {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
@@ -280,14 +304,6 @@
    "published_iso": "2026-10-21T20:00:00+00:00"
   },
   {
-   "title": "９月の訪日外国人５．０％減 航空券の高騰、台風で欠航が影響 韓国・台湾は過去最多",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2amtPd2J3Tm42LUxZOEVHUVYwQ3E3WDR3WjRNQzNVc3JvYzBSaEVtZHp1a0RQTlhmbmo2bXVYb2FfWUtFd2VPYmtaMW9FYmxtYmd1VVg0UVRtSFFEU2l0SjZhVQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-21 17:14",
-   "published_iso": "2026-10-21T08:14:00+00:00"
-  },
-  {
    "title": "９月の訪日外国人客３１０万３７００人、前年同月比５％減…台風による欠航・航空便の価格上昇響く",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BLVExelF4bW1rYzZQaV92bms2TmNkalhNMGpDYnpFcHVQbHVwTFozcURCLTRGemZtTTNNQ1RqNlROTHpySWhtY1Iwem5JRHBKUkFzbHRrMzczS2I2NDNVMFVlS0w?oc=5",
    "source": "読売新聞",
@@ -304,14 +320,6 @@
    "published_iso": "2026-10-20T21:05:35+00:00"
   },
   {
-   "title": "毎小ニュース：社会 特定技能1号「給食」 受け入れ再開",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10RmFqcFJ0MmhmeS1CMmFoQnp1bU8ydml3SzZfVHVyZjlaSmZ5MzIxMDl6bFhxalhPZndlcXJHdFFVSEVBRUVkdUdORklRU2lnd3dRRGlLVGZkdFhZWFJhSG9ZV1ltaEt3NlU5WURwc3ZGUQ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-21 06:03",
-   "published_iso": "2026-10-20T21:03:21+00:00"
-  },
-  {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBeV9Gck90cVJJVVg4eklDN2JOOXpjVU9XWmdFZ29LV1o0UThiX2FhdlRMYUJ1U0RtRmR3UkQwa1VLNWVENFk0blNWbTdYQThwMVNNVWlTWWh2d0JyZXREUjhR?oc=5",
    "source": "読売新聞",
@@ -320,20 +328,12 @@
    "published_iso": "2026-10-20T20:00:00+00:00"
   },
   {
-   "title": "多文化共生社会を考える 11月21日、板橋で講演・シンポ ／東京",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sQThMcXFMcDJ0aUQ1ZEtPd05uUVpBQ1U2Y1otSkNxeUY2ZWJYTEd5RmYzNGU5V0lqTC05aUZ6cVRIOThoeUpCeVY0S1BMUFk2OHVMWFJWQ1NnbnRnQXdiZU8zbzFGeGZ4?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-21 02:03",
-   "published_iso": "2026-10-20T17:03:31+00:00"
-  },
-  {
-   "title": "「物流難民」を生み出すな 秋川卓也氏",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zYXIyNHM4VjNFdjB1X0ZyOVc5eDBnTXVPOFNoMTZXZFlBSjFUUFpkWjhYVXI4NWluNzNGZHhGMU51VkZ0NXlFdm9iODNuRFZ2TjJ2VUVJZU41WHFUVG5IMmRsT09PV05RZ0IzZg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-21 02:00",
-   "published_iso": "2026-10-20T17:00:00+00:00"
+   "title": "政府は、学校や福祉施設の給食を作る仕事で特定技能の外国人受け入れを再開します",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RUDNYRmM5Z2VXSmxycU4xdy0tNFhBWFJlTk0tRVVzMmxWU3RsaHV4SGFJZ3VwUWlwdkZQOGxxSS1wbXhCaUlrYkJwOFdocE9NZDhqUXBmMVAtWUpBNVp0aWs4QWYtZjQ?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-20 22:06",
+   "published_iso": "2026-10-20T13:06:10+00:00"
   },
   {
    "title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判",
@@ -376,6 +376,14 @@
    "published_iso": "2026-10-20T03:10:54+00:00"
   },
   {
+   "title": "特定技能「給食」の受け入れ再開へ 受け入れ停止の外食業から区分変更案を政府提示",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TTDh5MzJHWk5rdlpteFZHbmR6SzBWVlBHNUYtQm5KM01pMkVIVjl0ZnNxWkhBLXcwTmtZanIyUmlYdGV2ZV8xZXBNd0RzOUtMeEJCY1otRDctYVJ0d0l3MzF6ZVQ4UFVaakRBVExhQ3VOUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-19 21:42",
+   "published_iso": "2026-10-19T12:42:15+00:00"
+  },
+  {
    "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdGZab3FJOEV2NTJRMzhPc0hpc1NyT1h1YXh0MV9peXpNSU15a0RPOWFpck5WWE83UTVudVh4Znk2VmsxZTVWOW5sOEYwamRZbzlLTUdld3NtUm9zTVJocnRsQW1jZw?oc=5",
    "source": "読売新聞",
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-19 17:31",
    "published_iso": "2026-10-19T08:31:56+00:00"
-  },
-  {
-   "title": "変容する米国：強硬な不法移民対策 建設現場の労働力不足 共和党離れ招く",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QakNCSExtSVdCcGNsU1g3Zi1GWExWd0dqdDh6cUxoSFRQeGpIdno4WGdKWmd2Mm5pVkJJZGlGc0pZeTVMX2IxRmlXRVZKUmVLUUNZRllNbnAydEM2UUNRSTY2aXlPOFJq?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 17:31",
-   "published_iso": "2026-10-19T08:31:00+00:00"
   }
  ]
 }
