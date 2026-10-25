@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T05:39:42+00:00",
+ "generated_at": "2026-10-25T10:41:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "76年五輪金メンバー5人が交流 バレー女子、難民や若者と",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tY1FIR1BSS1Q4akhVRGFTRFEteE0zS0t2RnlyQ1hnb1NrX0stR0xNTEo4UHNpb192OHd3UzlUTHdfZEhBVVBuRXFXaVo4ZFZJOWE5cUFn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-25 16:11",
+   "published_iso": "2026-10-25T07:11:44+00:00"
+  },
+  {
+   "title": "梨泰院事故から4年、外国人犠牲者の遺族ら現場で追悼 再発防止訴え",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JbUFOMS1Ibl9HbVdkM0N1SXJxckJyTWVvSHJhWEd2Q2tpU1FVcHpfLXNUOEFuNDV3aEdKMTV6ZkR2WG1McFRUenNRTV9LcTF0Vk1ZbjVSb0NOZnRoM1RWZk01al9GM3M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-25 16:00",
+   "published_iso": "2026-10-25T07:00:00+00:00"
+  },
   {
    "title": "「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5",
@@ -225,11 +241,11 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBac24yQmRWdUVoZ3RxSDB4cS1GNTJzYXNwcklFQ0U4WUx4TGxaeW1KemVPMlBKM2VaMEk2enFlUE5IRWNtMzExLXhYZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-23 06:28",
-   "published_iso": "2026-10-22T21:28:32+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 06:36",
+   "published_iso": "2026-10-22T21:36:17+00:00"
   },
   {
    "title": "鉄道を守る外国人「３年で３倍」、今や地方鉄道の維持に欠かせない存在に…課題は「長く働く職場づくり」",
@@ -304,14 +320,6 @@
    "published_iso": "2026-10-21T07:15:00+00:00"
   },
   {
-   "title": "【ホテル・宿泊業向け】人手不足にどう対応する？ 特定技能・技人国を活用した外国人材採用セミナーを開催",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtV2dHcWpuYnQyRHdmTFlta0pmMW5kVVloUGp3N0tPdEtlM2s1SjAwVlpDTmNwUGVqM3NteHQ3QWUwSkNYcEJNOC1jS3hkejRXQzZrWS15cE93VFVKUkFoZFZIMWEwLWZxZU9F?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-21 14:16",
-   "published_iso": "2026-10-21T05:16:00+00:00"
-  },
-  {
    "title": "フランス暴動、欧州各地に波及 イタリアやベルギーで若者の不満爆発",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TmI0dlRLaWgwYVdkMDU2MHN3dkJQb29jb3pUMkFhbXQ0bHNNckRlU29mOC02UEhhbjJPa3lpcUlGX2J2eDMtck1Eek5Mdkw0ck9tbFJtZThiZkFxNUUySWdYVXJ1TXBoa2YwdA?oc=5",
    "source": "日本経済新聞",
@@ -374,14 +382,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-20 12:10",
    "published_iso": "2026-10-20T03:10:54+00:00"
-  },
-  {
-   "title": "ともに・共生社会へ：セブン銀行、熊本地震の被災地に「移動ATM」を派遣",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13NlNCTENXOWZ3SUlzTU0tRkRTTzZIVGI2YlZTVnZnQU1NSVlmb19aUGhLS2dzMHoyaUdxYk5TUTdTeUw4LXJHSDgzZzNBZDF6UlJXdzhnWkhBVUt3RlRnWHZ1OWV3UmI2?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-20 06:30",
-   "published_iso": "2026-10-19T21:30:00+00:00"
   },
   {
    "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
