@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:28:24+00:00",
+ "generated_at": "2026-10-26T21:19:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
+   "title": "｢熱海｣検索されやすく 外国人照準、リクルートがAI支援",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHNyV2s0Q3NNSHBsZTJ0cUxucVNUWUhhZHhGMk83aFpqb3RBWlNqYmpoUTY4S0RCRWF1dHVPR3FfMWNhQUJ1YWlHSXdJOWR3M2dOdlNRbHc3TUcwZXFvU3NEWkNiRkQ4SWlGTGFpUVRNTGlRNjR5R0hIVmdTMW9tdGZCTkszRV9PTzZwcw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-27 05:00",
+   "published_iso": "2026-10-26T20:00:00+00:00"
+  },
+  {
    "title": "特定技能に新設の「物流倉庫」分野に特化 インドネシアの自社研修拠点で来日前から育成する外国人材紹介「特ロジWORKS」が本格始動",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaXkzNFZrLV9id1hqcWJDbENuc1NWbmQxSVlwU2Nab09aNEVQTTBEcFRMMGxHMnhmTGZiMGVOV3NLVnVZUTFaWkpyZVZVM1lBUjZDc3VuelZEcGhqWnVVanZ4a3k5U0JZaUdV?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-10-26 22:10",
-   "published_iso": "2026-10-26T13:10:00+00:00"
+   "published": "2026-10-27 04:10",
+   "published_iso": "2026-10-26T19:10:00+00:00"
   },
   {
    "title": "「緊張した」 県内初！特定技能１号の外国人路線バス運転士がデビュー 大勢の観光客が行きかう河口湖駅を出発！ 山梨",
@@ -30,6 +38,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-26 18:13",
    "published_iso": "2026-10-26T09:13:08+00:00"
+  },
+  {
+   "title": "愛知経協がシンポ 外国人材の育成体制必要：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBscjhJRHlFSnppSndLUzNUdHlhSkFXN2V0WlZKUk5YTEZDbEtmX0xlNXZLOEhlam9ULUJDbnVzVExhV3BrNjN6Rnlzc2N3N3lmc2Rsck02d0xYdXhneGFJ?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-26 18:08",
+   "published_iso": "2026-10-26T09:08:00+00:00"
   },
   {
    "title": "京都市の地下鉄ホームでモバイル電池が発煙、外国人乗客が置いて立ち去る 一時運転見合わせ",
@@ -88,14 +104,6 @@
    "published_iso": "2026-10-26T01:47:02+00:00"
   },
   {
-   "title": "数字が示すNPBの現状…安定した長打力は日本人中心の打線から 今季ソフトバンクのチーム本塁打162本中“外国人ゼロ”",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMXRnSjN2Q0JoVGhMNTRVZk05SFZVZEp3Zmx2dmIza1dGS0NIYnlvbXVnejJRSU1SYlU2RE4yLVdRUmlBUGtPNzdKdE10ZEhCR3NvMg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-26 09:28",
-   "published_iso": "2026-10-26T00:28:30+00:00"
-  },
-  {
    "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
    "source": "時事ドットコム",
@@ -121,11 +129,11 @@
   },
   {
    "title": "76年五輪金メンバー5人が交流 バレー女子、難民や若者と",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tY1FIR1BSS1Q4akhVRGFTRFEteE0zS0t2RnlyQ1hnb1NrX0stR0xNTEo4UHNpb192OHd3UzlUTHdfZEhBVVBuRXFXaVo4ZFZJOWE5cUFn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-25 16:11",
-   "published_iso": "2026-10-25T07:11:44+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xZU50Y1lEZkcxeTZDWHZwUmJPbG1MaDBFckZsRlVZWXRjdEc1eEZLOEpEaVpVODR6U1Z1NVlkMEhmUlRvMGd6U3ozbw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-25 16:23",
+   "published_iso": "2026-10-25T07:23:00+00:00"
   },
   {
    "title": "ベトナム国籍 技能実習生を逮捕 空き家から自転車盗んだ疑い 駅駐輪場で警察官張り込み 北海道北広島市",
@@ -168,14 +176,6 @@
    "published_iso": "2026-10-24T20:00:00+00:00"
   },
   {
-   "title": "［地球を読む］（１面の続き）関税、移民政策 国民とずれ",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlemJLYVg3eDhIVHMyMFF0Q3pROUZiVnJIQnllSmZRNHF4cDlLUTNnUHJGTGNoczVFSVB3Sm5nQ3RMVFBQdXdMMTRFeVRyLVRGeG5UdDRUQmdrdVQ4eHJudGZsNA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-25 05:00",
-   "published_iso": "2026-10-24T20:00:00+00:00"
-  },
-  {
    "title": "【独自】外国人資格外活動、パチンコ店も 風営法規制業種の一部解禁",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1bVZVcno4TkFYeVNNdmdxOE85MEh6M0p3TzYwQXVlZEtBWjc2aklTUWh5N0lTSW53SW9SZE1XdHFvMDJtMGREWnFVOA?oc=5",
    "source": "47NEWS",
@@ -206,14 +206,6 @@
    "source_domain": "sankei.com",
    "published": "2026-10-24 12:54",
    "published_iso": "2026-10-24T03:54:33+00:00"
-  },
-  {
-   "title": "外国人殺到！日本のフリーマーケット 購入品どう飾る？ 人気商品ランキングも",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DazBXWlFaSFZjM0RkQ1RFa1Y2a2FrUEc0UXlCbkZzZm9rNXB5TUFSZHJzTzlsSWs1bXc1SnV4ZUhtZS02ZG1ZVXlTSHl0MEVzMW1GcFFEOElMbkYwckhpQThDY2JXWnVScGFNbXMzNm5QQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 11:00",
-   "published_iso": "2026-10-24T02:00:00+00:00"
   },
   {
    "title": "外国人観光客殺到の交差点で接触事故防止へ新たな対策 山梨・富士吉田市",
@@ -328,12 +320,12 @@
    "published_iso": "2026-10-23T06:00:00+00:00"
   },
   {
-   "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTlVtaDJfUnJBbXVtVWl3bnh6TXd6S2p5Qk9SbGYtWkVycTlFTjI4Sk5OeE11SzRQbmdFT183WktkXzM5V3hyVWtQeUluMDZ3V3dEcDkzWkJNQQ?oc=5",
+   "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EV0lkbHhpeHphYkRuaUgzSGJxUU9CdVlvM2VOdVhNLXRFbTBCUkdrZ3hqdVNBVzhrVnZQbXh6RExITDJZUFpjdEh6OVdibEhaNngxVzQzejl2dw?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-23 06:36",
-   "published_iso": "2026-10-22T21:36:17+00:00"
+   "published": "2026-10-23 09:47",
+   "published_iso": "2026-10-23T00:47:00+00:00"
   },
   {
    "title": "多文化共生ウイーク「多文化が融合！～グルメバーガー」",
@@ -342,14 +334,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-10-22 16:00",
    "published_iso": "2026-10-22T07:00:00+00:00"
-  },
-  {
-   "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EV0lkbHhpeHphYkRuaUgzSGJxUU9CdVlvM2VOdVhNLXRFbTBCUkdrZ3hqdVNBVzhrVnZQbXh6RExITDJZUFpjdEh6OVdibEhaNngxVzQzejl2dw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-22 10:03",
-   "published_iso": "2026-10-22T01:03:28+00:00"
   },
   {
    "title": "マクロン仏大統領、暴動巡りトランプ氏批判 移民発言「容認できず」",
@@ -406,6 +390,22 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 20:08",
    "published_iso": "2026-10-20T11:08:29+00:00"
+  },
+  {
+   "title": "＜QAで解説＞特定技能、医療・福祉の給食調理員受け入れ再開へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDR4eUdIc0ZET00xUXNvYTdJazNiOWxTYWNGbTNsUDNVY21mUmlCQ3h3OWtDLTBJVkRCa2xkcVdzLWhZZU41OTJ1NG4tLWZ6TlBsYnVINTV2ajRrQzVrUGpqSVFJZVBQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-20 16:08",
+   "published_iso": "2026-10-20T07:08:40+00:00"
+  },
+  {
+   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-19 17:31",
+   "published_iso": "2026-10-19T08:31:56+00:00"
   }
  ]
 }
