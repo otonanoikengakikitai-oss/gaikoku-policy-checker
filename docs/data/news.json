@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T23:47:31+00:00",
+ "generated_at": "2026-10-26T03:10:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,44 @@
  ],
  "items": [
   {
+   "title": "「地域共生社会の実現に向けた包括的支援と地域づくり」がテーマ ASEAN・日本社会保障ハイレベル会合が高松市で始まる【香川】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZDRNZTBQODMtQ3ktQjlIb014SjJndEtHMk53aDRmWWRDMzlTczdZazhJdHpLV2FZLThHTFJzeFBBN1hJdXVEY3JZc2JtZEk0UG5VUU5xUTVKZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-26 11:39",
+   "published_iso": "2026-10-26T02:39:00+00:00"
+  },
+  {
+   "title": "プレスリリース：名古屋市中区、外国人住民向けの生活案内にスポットAI「ToyTalk」を活用（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SWTJYa2dfaFFWZUx1SWRjWDJ2NmdfMVlyTkQ0TW5haUNQUEpzWmpfMnAxWGctaTg5MFNIQXR2VW5IVHUzNlY1OGRuM3YyZjFUeWRrc1p4aTJjbUV2Vkt2ODJEZFJKS2Zw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-26 11:23",
+   "published_iso": "2026-10-26T02:23:05+00:00"
+  },
+  {
+   "title": "硫黄島記念碑の米兵の首をハンマーでたたき落とす バージニア州でメキシコ移民の子を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GVzBreHkxaW9sZGJ0NU5sQWpQLUh0dDRtY2VfbXhlY3J3a3JyZVFhNVhDQndERTk1UEZpakNybG81VmZ3X1VfcU9UaTgtTnp2TjlIZ0hQN0doMkRoVzVXc1hkcWZiT3F1RU5nVGhORFZjQnFaWUE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-26 10:47",
+   "published_iso": "2026-10-26T01:47:02+00:00"
+  },
+  {
+   "title": "数字が示すNPBの現状…安定した長打力は日本人中心の打線から 今季ソフトバンクのチーム本塁打162本中“外国人ゼロ”",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nMXRnSjN2Q0JoVGhMNTRVZk05SFZVZEp3Zmx2dmIza1dGS0NIYnlvbXVnejJRSU1SYlU2RE4yLVdRUmlBUGtPNzdKdE10ZEhCR3NvMg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-26 09:28",
+   "published_iso": "2026-10-26T00:28:30+00:00"
+  },
+  {
    "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-10-26 07:03",
-   "published_iso": "2026-10-25T22:03:00+00:00"
+   "published": "2026-10-26 08:55",
+   "published_iso": "2026-10-25T23:55:00+00:00"
   },
   {
    "title": "米中間選挙2026,トランプ政権：不法移民は減ったのに…トランプ氏の「公約」で弱った米国の足腰",
@@ -54,6 +86,14 @@
    "source_domain": "asahi.com",
    "published": "2026-10-25 16:00",
    "published_iso": "2026-10-25T07:00:00+00:00"
+  },
+  {
+   "title": "言葉や国籍の違いを超えて笑顔で触れ合う 日本人と外国人の親子が遊びを通して交流 | 山梨のニュース | ＵＴＹテレビ山梨",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oN2xhS3RHSGFSbllEWTN2bXpteEhCVWo1NFc5ejhtN19qaGFfUkI4TjdRRUhWbUV1WUVSdDJaRGpZR2V0QVlBaDFCWDRMdDZkc01TdU1DUFZfZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-25 12:59",
+   "published_iso": "2026-10-25T03:59:00+00:00"
   },
   {
    "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
@@ -128,14 +168,6 @@
    "published_iso": "2026-10-24T02:00:00+00:00"
   },
   {
-   "title": "外国人観光客殺到の交差点で接触事故防止へ新たな対策 山梨・富士吉田市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PSUg5MnFHblBQTUVpV0I2TG9XbkdEZ1pXcEJXcFg2Z25RbEo5LWNUX2tXVU1IRF85UkhVOS0zSVNvVEtoZFhwNHIzNHZBc21UNFVQT3k2dzZXanN4ODluYUxsZXd5R1FvTHlMSFlGcGF3dw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 10:28",
-   "published_iso": "2026-10-24T01:28:56+00:00"
-  },
-  {
    "title": "パリ郊外で発砲、イスラム移民標的か 人種差別テロ容疑で捜査 デモの緊張高まるさなか",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TUHZLWm9Jdlh2OG83bmFOV3lrMmRfQmx2ZDZnankyYTFHSW55VTI3M2g3d3dfNVdRY2NXVWh2Vnh0Slp5MWhjMVNGRkNEU1BKSS1QblVVa2djVy1kcVBtVTQ0c1BIT1hMTW5FNGxHUEM0MFhXbGc?oc=5",
    "source": "産経ニュース",
@@ -176,14 +208,6 @@
    "published_iso": "2026-10-23T14:23:20+00:00"
   },
   {
-   "title": "“コンビニ富士山”でも…外国人の交通事故防止へ道路標識に「英語表記」導入進む 山梨",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNellENWF4SGNpNWJzQ1J1bTl2cllCR1U3ajlndWdVckxxWF9WVXlfempYcVdyTWltOFF1V2EzOTh1Q3BjeE5DcC1SUEFKX0N4RWFsX0Nsall6QjZKdzRJaDZvMWRxTndsSV8tcjRtQzY3al9IRmpPcTJVM3J5Qmk4Q2V6dU9RZkE?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-23 20:07",
-   "published_iso": "2026-10-23T11:07:00+00:00"
-  },
-  {
    "title": "関空に免税手続きの専用端末設置 購入時は税込で支払い、出国時に消費税返金 訪日外国人の不正転売防ぐ",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjhBTGI5dWlXekQxR2dFd0tMMThNY1MzZUpwTFRXU3duMkxyYjFjLW5ZeGctOGhvUm1LQmxNbGlvc1JNZjNfUlotNHVYbkUwWDBLNERBdVA3NGc0U0lUNmpmeHdQWGVPcnhYMFpvb0pHcG0wTFdJYnBzVGNHZElzOGlXY2hFMVk?oc=5",
    "source": "日テレNEWS NNN",
@@ -198,6 +222,14 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-10-23 18:15",
    "published_iso": "2026-10-23T09:15:00+00:00"
+  },
+  {
+   "title": "日本語教員確保、35％未定 育成就労、受け入れ仲介機関調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YLXlITFNmVHRZb0VvMUY4QUVESVgtcEJubnItVmVYWGNrY3ROVEE0NlRtSlpjTHMwNFZka2dQaWVINFpxS0VfQmF1MzRLYVpmYThEdE1McGEtUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 18:13",
+   "published_iso": "2026-10-23T09:13:26+00:00"
   },
   {
    "title": "群馬県、外国人適正雇用へ企業など認証 2段階で不法就労防止",
@@ -241,11 +273,11 @@
   },
   {
    "title": "熊本地震で買い物難民に 地区唯一のスーパーが閉店",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTXdFODZkRXQ2REUzalUwa2twTGpvQTRsalNuM3R0NXBsVk9weFN3NHRkWldYeXlPUjZPdFd4T2NnVjZkYmw4XzcxdUpYSGw3cHJIYU9R?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-23 06:27",
-   "published_iso": "2026-10-22T21:27:37+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBac24yQmRWdUVoZ3RxSDB4cS1GNTJzYXNwcklFQ0U4WUx4TGxaeW1KemVPMlBKM2VaMEk2enFlUE5IRWNtMzExLXhYZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-23 06:28",
+   "published_iso": "2026-10-22T21:28:32+00:00"
   },
   {
    "title": "「今のままではとんでもないことに」富士山噴火時の外国人避難で関係者が課題共有 山梨",
@@ -304,22 +336,6 @@
    "published_iso": "2026-10-21T20:00:00+00:00"
   },
   {
-   "title": "９月の訪日外国人客３１０万３７００人、前年同月比５％減…台風による欠航・航空便の価格上昇響く",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BLVExelF4bW1rYzZQaV92bms2TmNkalhNMGpDYnpFcHVQbHVwTFozcURCLTRGemZtTTNNQ1RqNlROTHpySWhtY1Iwem5JRHBKUkFzbHRrMzczS2I2NDNVMFVlS0w?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-21 16:15",
-   "published_iso": "2026-10-21T07:15:00+00:00"
-  },
-  {
-   "title": "フランス暴動、欧州各地に波及 イタリアやベルギーで若者の不満爆発",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84TmI0dlRLaWgwYVdkMDU2MHN3dkJQb29jb3pUMkFhbXQ0bHNNckRlU29mOC02UEhhbjJPa3lpcUlGX2J2eDMtck1Eek5Mdkw0ck9tbFJtZThiZkFxNUUySWdYVXJ1TXBoa2YwdA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-21 06:05",
-   "published_iso": "2026-10-20T21:05:35+00:00"
-  },
-  {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBeV9Gck90cVJJVVg4eklDN2JOOXpjVU9XWmdFZ29LV1o0UThiX2FhdlRMYUJ1U0RtRmR3UkQwa1VLNWVENFk0blNWbTdYQThwMVNNVWlTWWh2d0JyZXREUjhR?oc=5",
    "source": "読売新聞",
@@ -368,14 +384,6 @@
    "published_iso": "2026-10-20T07:08:40+00:00"
   },
   {
-   "title": "多文化共生へ取り組み共有 後志振興局がシンポ 自治体職員ら100人参加",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS282QnFpNWhQR2U0NUQ1dnZ2eUVVUmwxMTQ5aDNiSmRoQXhSdU5VNnlXVTNKdjRwUWM0V3VQRVhLNzh1d2NrUWJaamZncU85Q0tkR3E4REh5UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-20 12:10",
-   "published_iso": "2026-10-20T03:10:54+00:00"
-  },
-  {
    "title": "特定技能「給食」の受け入れ再開へ 受け入れ停止の外食業から区分変更案を政府提示",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TTDh5MzJHWk5rdlpteFZHbmR6SzBWVlBHNUYtQm5KM01pMkVIVjl0ZnNxWkhBLXcwTmtZanIyUmlYdGV2ZV8xZXBNd0RzOUtMeEJCY1otRDctYVJ0d0l3MzF6ZVQ4UFVaakRBVExhQ3VOUQ?oc=5",
    "source": "テレ朝NEWS",
@@ -398,14 +406,6 @@
    "source_domain": "jiji.com",
    "published": "2026-10-19 17:32",
    "published_iso": "2026-10-19T08:32:00+00:00"
-  },
-  {
-   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 17:31",
-   "published_iso": "2026-10-19T08:31:56+00:00"
   }
  ]
 }
