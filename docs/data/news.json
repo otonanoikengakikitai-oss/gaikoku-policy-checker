@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T21:19:42+00:00",
+ "generated_at": "2026-10-27T01:08:02+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "フランス大規模デモ、大統領選で右派政党率いるルペン氏の追い風に…治安対策や移民問題が争点に急浮上",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81aUgxelpGMzhVU0d0RkJoUTl2MC1aYm56NXBfMm1Gd1BpLTdsaXBkQzl3NnAxei1vSFVfVTVpaUJfZm9zY0FhcFJJNjhIM2wxOWIyWEY5SjdwR3NwaVpjb2NR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-27 09:21",
+   "published_iso": "2026-10-27T00:21:24+00:00"
+  },
+  {
+   "title": "「最大の浮動票」中南米系に共和苦慮 候補、トランプ氏と対立しても「移民摘発行き過ぎ」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xQ012LVViSlQyYkM1ZVA2aDhoR2FwZkxfdlNCdG5QalJ2NUtRNnE5V2xleVZYRnpxVlFkMndrc1VuZzIxZTFNUmNELS1ZckJpZkphSTQ4SEVSYnF4Mi1VX3JfaUFXeENTb2VZei14RzBzMGtHenc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-27 08:30",
+   "published_iso": "2026-10-26T23:30:00+00:00"
+  },
   {
    "title": "｢熱海｣検索されやすく 外国人照準、リクルートがAI支援",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHNyV2s0Q3NNSHBsZTJ0cUxucVNUWUhhZHhGMk83aFpqb3RBWlNqYmpoUTY4S0RCRWF1dHVPR3FfMWNhQUJ1YWlHSXdJOWR3M2dOdlNRbHc3TUcwZXFvU3NEWkNiRkQ4SWlGTGFpUVRNTGlRNjR5R0hIVmdTMW9tdGZCTkszRV9PTzZwcw?oc=5",
@@ -25,7 +41,7 @@
   },
   {
    "title": "「緊張した」 県内初！特定技能１号の外国人路線バス運転士がデビュー 大勢の観光客が行きかう河口湖駅を出発！ 山梨",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZ0RNQW5CVTBlVHphQjlhaTNtVmU3ZnFNdUNmYlQ1Tkl5ZDhhdEEtbGRwT3libVM1amFLel9QUS0wNjJsbHBBTFhobkhvYkl0YXc5V1pBcGxxUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLXhZeVJENlphODNDYmpmUUdPbG9ONEZXZVZBa1pxRnNiS2w5dDdTYnA3VmRpNmN4Uk4zOTVNcU9yLUNxTEdvYjJ0dERjSDFmbkl6c0FRcDIzdHphdk4xOFlCUEx0TFk?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-10-26 20:36",
@@ -152,12 +168,12 @@
    "published_iso": "2026-10-25T07:00:00+00:00"
   },
   {
-   "title": "言葉や国籍の違いを超えて笑顔で触れ合う 日本人と外国人の親子が遊びを通して交流 | 山梨のニュース | ＵＴＹテレビ山梨",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oN2xhS3RHSGFSbllEWTN2bXpteEhCVWo1NFc5ejhtN19qaGFfUkI4TjdRRUhWbUV1WUVSdDJaRGpZR2V0QVlBaDFCWDRMdDZkc01TdU1DUFZfZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-25 12:59",
-   "published_iso": "2026-10-25T03:59:00+00:00"
+   "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dHVXVHhWaHFLeUxhVXJMbHpKQlVCOWY5dUNRclpVMXVlOXItR0RpNXV5R2tSX0V5dlotOUFieHAxa040MXpxUnZGZVJhUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-25 06:45",
+   "published_iso": "2026-10-24T21:45:44+00:00"
   },
   {
    "title": "「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会",
@@ -206,6 +222,14 @@
    "source_domain": "sankei.com",
    "published": "2026-10-24 12:54",
    "published_iso": "2026-10-24T03:54:33+00:00"
+  },
+  {
+   "title": "外国人殺到！日本のフリーマーケット 購入品どう飾る？ 人気商品ランキングも",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DazBXWlFaSFZjM0RkQ1RFa1Y2a2FrUEc0UXlCbkZzZm9rNXB5TUFSZHJzTzlsSWs1bXc1SnV4ZUhtZS02ZG1ZVXlTSHl0MEVzMW1GcFFEOElMbkYwckhpQThDY2JXWnVScGFNbXMzNm5QQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-24 11:00",
+   "published_iso": "2026-10-24T02:00:00+00:00"
   },
   {
    "title": "外国人観光客殺到の交差点で接触事故防止へ新たな対策 山梨・富士吉田市",
@@ -272,28 +296,12 @@
    "published_iso": "2026-10-23T11:07:00+00:00"
   },
   {
-   "title": "関空に免税手続きの専用端末設置 購入時は税込で支払い、出国時に消費税返金 訪日外国人の不正転売防ぐ",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSjhBTGI5dWlXekQxR2dFd0tMMThNY1MzZUpwTFRXU3duMkxyYjFjLW5ZeGctOGhvUm1LQmxNbGlvc1JNZjNfUlotNHVYbkUwWDBLNERBdVA3NGc0U0lUNmpmeHdQWGVPcnhYMFpvb0pHcG0wTFdJYnBzVGNHZElzOGlXY2hFMVk?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-23 19:00",
-   "published_iso": "2026-10-23T10:00:00+00:00"
-  },
-  {
    "title": "日本語教員確保、35％未定 育成就労、受け入れ仲介機関調査",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YLXlITFNmVHRZb0VvMUY4QUVESVgtcEJubnItVmVYWGNrY3ROVEE0NlRtSlpjTHMwNFZka2dQaWVINFpxS0VfQmF1MzRLYVpmYThEdE1McGEtUQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-23 18:13",
    "published_iso": "2026-10-23T09:13:26+00:00"
-  },
-  {
-   "title": "群馬県、外国人適正雇用へ企業など認証 2段階で不法就労防止",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vLUp1U29saXZuTFhfYTlxbEFQOTZxajJfRDNZR1Z3b2RpREswM1RLRnZyOGI1elpRZ3hBMENRMFZWZHMwV1E3bG9JTGFvZ2FRVWZJZVZtUmFRVGhLZXFFZlVjaTBMeEljYnkxQQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 17:15",
-   "published_iso": "2026-10-23T08:15:00+00:00"
   },
   {
    "title": "育成就労、日本語教員確保に遅れ 「候補も未定」が36%",
@@ -312,12 +320,12 @@
    "published_iso": "2026-10-23T06:34:33+00:00"
   },
   {
-   "title": "手錠と足かせで強制送還、「非人間化」される移民 ある一家を訪ねた [トランプ再来]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamotcUF6dnRYaDA4ajBGb0ROSmVsWExlR1BodTlWSS1jTWZOdFJkd2lOb3hnQVIzUXhSRklocEtnblgxaEM5enphd3pMNV9nS1dPTVFsbFRyZlBhUU1ROFA1aVZuNzQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-23 15:00",
-   "published_iso": "2026-10-23T06:00:00+00:00"
+   "title": "鴻池運輸、インドでドライバー育成採用 特定技能1号で受け入れ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1lXSUJrczhBbFg3bzlsNDhOUS0tczRvUEhSUWZGOTFTMUJTdXdtQXN6UWNuQm04dy1NRm43ckFMenZmLXdGQXhDQUJRV092Rm8xajVUanpiRTBaaGxCR2tDczZuSFBha1RWQg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:25",
+   "published_iso": "2026-10-23T06:25:00+00:00"
   },
   {
    "title": "子供の日本語教育支援、20年で20倍に 札幌の外国人増 指導員待遇改善急務",
@@ -328,36 +336,12 @@
    "published_iso": "2026-10-23T00:47:00+00:00"
   },
   {
-   "title": "多文化共生ウイーク「多文化が融合！～グルメバーガー」",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51V0JjMnpBQnQyaG54eUo0S2dYVUNJaDVzUHVwTi1Xd29BUTlDWE45Tnp5ZndlZG1mQkRiY0VvLTNNMHV0czZvTF9wcU1iUF9OVUhyWEtkdGI3ZV9RQVE5dFBkcDU?oc=5",
-   "source": "NHK",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-10-22 16:00",
-   "published_iso": "2026-10-22T07:00:00+00:00"
-  },
-  {
    "title": "マクロン仏大統領、暴動巡りトランプ氏批判 移民発言「容認できず」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUzlfS3E5dFdpQjJ1S2ZLTGlkMXlpN0duNmRlb2dEWkVWX0tPZm5QMUY2T1dfcEtCcTloQjRjZFVEdnQxSDlZVzVaTnMxVnhNSDVPWWFGRnZranVHLUZlNC1tNXpvNk94b1ptUA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-22 08:09",
    "published_iso": "2026-10-21T23:09:37+00:00"
-  },
-  {
-   "title": "新NISA「出口難民」こそ知っておきたい 投資ブロガーも実践する目からウロコの「取り崩し方」",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yRWZ5MWd3LWlyMXB1WDlDRURUR040NFVXam55MEw3S3NLT2V2Q21xaGdUN0Z5Vy1od0UzdVhOOHo1UGdwR3RhWmNuYWNfdTBiUUIwcGREaV9jZw?oc=5",
-   "source": "AERA DIGITAL",
-   "source_domain": "asahi.com",
-   "published": "2026-10-22 07:00",
-   "published_iso": "2026-10-21T22:00:00+00:00"
-  },
-  {
-   "title": "宇奈月温泉、「昼食難民」なくせ 空き店舗貸し活性化 キャニオンルート契機に",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oZV9seWhWOW5ackU4bE1uVG9nZWs1cUJnV0ZaMXZnTTVTYnVYSXFoUk5SeXlSWU5XT2xFZUxYN2pmMEZIN2JoekV1VQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-22 05:00",
-   "published_iso": "2026-10-21T20:00:00+00:00"
   },
   {
    "title": "パリのマルシェあふれる移民「まるでアラブの市場」、社会不安の矛先向かう…排斥論が右派政党を後押し",
@@ -376,14 +360,6 @@
    "published_iso": "2026-10-20T13:06:10+00:00"
   },
   {
-   "title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-20 21:26",
-   "published_iso": "2026-10-20T12:26:00+00:00"
-  },
-  {
    "title": "特定技能・育成就労の上限123万人 山下法相「見直し考えず」",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RY0M0emF0TkNWMlZaUEw4QWh2R3VIM0hfdXRvUS11ZmpzVHhHamxXWDY3TUlvdmVtSGNBYXZhcS1YaDMtRmJ3a0NqeDZpQlVkY3VESGo5TjVGSVB3TXJqRXkycVBwTGZu?oc=5",
    "source": "毎日新聞",
@@ -400,12 +376,36 @@
    "published_iso": "2026-10-20T07:08:40+00:00"
   },
   {
+   "title": "外国人労働者の特定技能１号、給食業務の受け入れ再開へ…「外食」分野から「飲食料品製造」に変更",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZdGZab3FJOEV2NTJRMzhPc0hpc1NyT1h1YXh0MV9peXpNSU15a0RPOWFpck5WWE83UTVudVh4Znk2VmsxZTVWOW5sOEYwamRZbzlLTUdld3NtUm9zTVJocnRsQW1jZw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-19 20:52",
+   "published_iso": "2026-10-19T11:52:00+00:00"
+  },
+  {
    "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-19 17:31",
    "published_iso": "2026-10-19T08:31:56+00:00"
+  },
+  {
+   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-19 17:30",
+   "published_iso": "2026-10-19T08:30:00+00:00"
+  },
+  {
+   "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案 [外国人政策 高市早苗総理 自民党]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VWNJeS1OVkNGTmJDTHNrdWFpNWxoOUw5REJtUlpVR1h2Y3NtRkRpRTRmVm4tbnNlQUFlYndqdzBWbWVZdWZRX2YwVlRMY2Q5VGk4WjlBaHFtNG9kWkJvQUZPbmZSZk0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-19 17:24",
+   "published_iso": "2026-10-19T08:24:28+00:00"
   }
  ]
 }
