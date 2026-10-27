@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T19:14:44+00:00",
+ "generated_at": "2026-10-27T23:28:02+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,20 +8,36 @@
  ],
  "items": [
   {
-   "title": "EUが移民即応部隊を新設へ 「セウタ危機」受け国境管理強化",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-28 03:25",
-   "published_iso": "2026-10-27T18:25:07+00:00"
+   "title": "牛肉産地で移民摘発、価格高騰の恐れ 選挙にらみ共和党内からも批判 [アメリカ中間選挙][トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42dzYyeWFXeVFIX1BJZ3dMN1JjR2t2aTB1TEtBbW9ZNzhwZmtaRGVoSFY1dHNxZk9ucUVGcTNwVlFuSGswLXF5U1FUVGFFUnRsSk5kWXFXWXZMOXVQR1d4a0pJdFhabWs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-28 08:00",
+   "published_iso": "2026-10-27T23:00:00+00:00"
   },
   {
    "title": "偽求人でロシアへ…29カ国の外国人をだまし戦闘に動員か 国連「人身取引」と非難",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6d21sWk1ZbC1heFEwVE56dlU5VjFBM3JtbXlsZk92NUtQZ3JreVp6eFhsQUxuZFFuY3I0c2pnQzZTdUY2Rjl0M2VienJvWlZJWlFNZVhhcF9IR1EzZ0c2WnVOMjNTd1N0TEZYM1pPbVNvX18xbjZySmp3?oc=5",
    "source": "テレ朝NEWS",
    "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-28 00:20",
-   "published_iso": "2026-10-27T15:20:06+00:00"
+   "published": "2026-10-28 07:16",
+   "published_iso": "2026-10-27T22:16:16+00:00"
+  },
+  {
+   "title": "［福岡県］日本の自転車ルール知ってね 博多署、外国人学生と啓発活動 ヘルメット、左側通行、信号遵守、飲酒禁止 アジア7カ国語で呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lcTdWeWotNFpCWFZQVjRVd1Y4ODdJbnU4Q2FNbVFkZ2lyUlU4MW45OTg4cE1MUEpCaU5VN3Y0eHpXdEgtc0hpRkZBTUFYUmNWNTVkTmNR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-28 06:00",
+   "published_iso": "2026-10-27T21:00:00+00:00"
+  },
+  {
+   "title": "EU、移民即応部隊の新設案 「セウタ危機」受け国境管理強化",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-28 03:25",
+   "published_iso": "2026-10-27T18:25:07+00:00"
   },
   {
    "title": "入管難民法違反容疑で勾留中のトルコ国籍のクルド人男性（48）が死亡…遺族が東京都などに賠償求め提訴 東京地裁",
@@ -96,28 +112,12 @@
    "published_iso": "2026-10-27T02:45:09+00:00"
   },
   {
-   "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-27 11:43",
-   "published_iso": "2026-10-27T02:43:59+00:00"
-  },
-  {
    "title": "【速報】仏銃撃で追悼集会 移民標的か、8人死傷",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPX1YzTTdwdWt6SzVvN3l6MEhyZXhfTENBZ0V5R3VEMXBBemZwdDZTR3VHRFhtY1RacVBSYnZkMHF3em1KR0gyZzlwcw?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-10-27 10:18",
    "published_iso": "2026-10-27T01:18:45+00:00"
-  },
-  {
-   "title": "京都市右京区で京都三大念仏狂言の一つ「嵯峨大念仏狂言」無言劇の妙に、外国人留学生も「おもしろい」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lSXYtaGNYcVlfZjJfOU5IMWF2LWJJY0xCN0FsbjAzYVJ4QnhfZXlsSF9UeTNmN2N6UzVZTUVfdmhZNTBQaDh4WW0yZ0dMYWxpTy1XQ3hBcVY?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-27 10:00",
-   "published_iso": "2026-10-27T01:00:00+00:00"
   },
   {
    "title": "仏内相、銃撃は「人種差別テロ」 移民標的か、8人死傷",
@@ -142,14 +142,6 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-27 05:05",
    "published_iso": "2026-10-26T20:05:00+00:00"
-  },
-  {
-   "title": "｢熱海｣検索されやすく 外国人照準、リクルートがAI支援",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHNyV2s0Q3NNSHBsZTJ0cUxucVNUWUhhZHhGMk83aFpqb3RBWlNqYmpoUTY4S0RCRWF1dHVPR3FfMWNhQUJ1YWlHSXdJOWR3M2dOdlNRbHc3TUcwZXFvU3NEWkNiRkQ4SWlGTGFpUVRNTGlRNjR5R0hIVmdTMW9tdGZCTkszRV9PTzZwcw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-27 05:00",
-   "published_iso": "2026-10-26T20:00:00+00:00"
   },
   {
    "title": "フランス大規模デモ、大統領選で右派政党率いるルペン氏の追い風に…治安対策や移民問題が争点に急浮上",
@@ -214,14 +206,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-26 13:50",
    "published_iso": "2026-10-26T04:50:57+00:00"
-  },
-  {
-   "title": "「地域共生社会の実現に向けた包括的支援と地域づくり」がテーマ ASEAN・日本社会保障ハイレベル会合が高松市で始まる【香川】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51ZDRNZTBQODMtQ3ktQjlIb014SjJndEtHMk53aDRmWWRDMzlTczdZazhJdHpLV2FZLThHTFJzeFBBN1hJdXVEY3JZc2JtZEk0UG5VUU5xUTVKZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-26 11:39",
-   "published_iso": "2026-10-26T02:39:00+00:00"
   },
   {
    "title": "硫黄島記念碑の米兵の首をハンマーでたたき落とす バージニア州でメキシコ移民の子を逮捕",
@@ -336,14 +320,6 @@
    "published_iso": "2026-10-24T03:54:33+00:00"
   },
   {
-   "title": "外国人殺到！日本のフリーマーケット 購入品どう飾る？ 人気商品ランキングも",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DazBXWlFaSFZjM0RkQ1RFa1Y2a2FrUEc0UXlCbkZzZm9rNXB5TUFSZHJzTzlsSWs1bXc1SnV4ZUhtZS02ZG1ZVXlTSHl0MEVzMW1GcFFEOElMbkYwckhpQThDY2JXWnVScGFNbXMzNm5QQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-24 11:00",
-   "published_iso": "2026-10-24T02:00:00+00:00"
-  },
-  {
    "title": "パリ郊外で発砲、イスラム移民標的か 人種差別テロ容疑で捜査 デモの緊張高まるさなか",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TUHZLWm9Jdlh2OG83bmFOV3lrMmRfQmx2ZDZnankyYTFHSW55VTI3M2g3d3dfNVdRY2NXVWh2Vnh0Slp5MWhjMVNGRkNEU1BKSS1QblVVa2djVy1kcVBtVTQ0c1BIT1hMTW5FNGxHUEM0MFhXbGc?oc=5",
    "source": "産経ニュース",
@@ -376,14 +352,6 @@
    "published_iso": "2026-10-23T20:00:00+00:00"
   },
   {
-   "title": "「困難を生き抜く難民の力強さに光を」第21回難民映画祭2026 日本初公開5作品を含む全8作品をオンラインと劇場で上映へ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XSldhaDRxOHdDd3U0QmtYUFB6Um5PaHRlRXY5Ni13VHZjWm9XUFhiSzZLbEVtVTFPeTdzZ200eU1ud2J4aGsyOTBVVmMyY2FVenNQRTFBTXVHVmVLR3I4WVRMRFlIckE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-24 05:00",
-   "published_iso": "2026-10-23T20:00:00+00:00"
-  },
-  {
    "title": "パリ郊外で発砲し1人死亡、テロ関連で捜査 死者はアフリカ出身者、移民系狙った可能性も",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NNFlpQnpYWDlEckNaSko0XzNfU0M1bHlIWXVyTGdSS2ZNTm1nNFcyTlVPU19nMndpZ05EVmdzSS15SzVTSnpxQ1Z1cW1UWGUxaDRuSmpzeDdZd0E0UjNnZm5qZS1nWmhtWWtmNlRfeThyTVpXb2c?oc=5",
    "source": "産経ニュース",
@@ -406,6 +374,38 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-23 15:54",
    "published_iso": "2026-10-23T06:54:20+00:00"
+  },
+  {
+   "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:34",
+   "published_iso": "2026-10-23T06:34:33+00:00"
+  },
+  {
+   "title": "鴻池運輸、インドでドライバー育成採用 特定技能1号で受け入れ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1lXSUJrczhBbFg3bzlsNDhOUS0tczRvUEhSUWZGOTFTMUJTdXdtQXN6UWNuQm04dy1NRm43ckFMenZmLXdGQXhDQUJRV092Rm8xajVUanpiRTBaaGxCR2tDczZuSFBha1RWQg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:25",
+   "published_iso": "2026-10-23T06:25:00+00:00"
+  },
+  {
+   "title": "手錠と足かせで強制送還、「非人間化」される移民 ある一家を訪ねた [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamotcUF6dnRYaDA4ajBGb0ROSmVsWExlR1BodTlWSS1jTWZOdFJkd2lOb3hnQVIzUXhSRklocEtnblgxaEM5enphd3pMNV9nS1dPTVFsbFRyZlBhUU1ROFA1aVZuNzQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-23 15:00",
+   "published_iso": "2026-10-23T06:00:00+00:00"
+  },
+  {
+   "title": "多文化共生ウイーク「多文化が融合！～グルメバーガー」",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51V0JjMnpBQnQyaG54eUo0S2dYVUNJaDVzUHVwTi1Xd29BUTlDWE45Tnp5ZndlZG1mQkRiY0VvLTNNMHV0czZvTF9wcU1iUF9OVUhyWEtkdGI3ZV9RQVE5dFBkcDU?oc=5",
+   "source": "NHK",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-10-22 16:00",
+   "published_iso": "2026-10-22T07:00:00+00:00"
   }
  ]
 }
