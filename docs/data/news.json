@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:56:20+00:00",
+ "generated_at": "2026-10-27T19:14:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "EUが移民即応部隊を新設へ 「セウタ危機」受け国境管理強化",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-28 03:25",
+   "published_iso": "2026-10-27T18:25:07+00:00"
+  },
+  {
+   "title": "偽求人でロシアへ…29カ国の外国人をだまし戦闘に動員か 国連「人身取引」と非難",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6d21sWk1ZbC1heFEwVE56dlU5VjFBM3JtbXlsZk92NUtQZ3JreVp6eFhsQUxuZFFuY3I0c2pnQzZTdUY2Rjl0M2VienJvWlZJWlFNZVhhcF9IR1EzZ0c2WnVOMjNTd1N0TEZYM1pPbVNvX18xbjZySmp3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-28 00:20",
+   "published_iso": "2026-10-27T15:20:06+00:00"
+  },
+  {
+   "title": "入管難民法違反容疑で勾留中のトルコ国籍のクルド人男性（48）が死亡…遺族が東京都などに賠償求め提訴 東京地裁",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6M3J3R1I1OGRaR3h3bndaMmM3aU8tWWc0ci1VQzYyTmo4ZkNRRUQtRW5GMGNBb0ozWDVsMW14SXljUjR5WThjOHJ2U1Q1NW1fbU1nb2t3OA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-27 22:51",
+   "published_iso": "2026-10-27T13:51:25+00:00"
+  },
+  {
+   "title": "香川県高松市で外国人と日本人が参加するカラオケ大会がありました",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMkpiRkpOc1g2RXJ4RWZsTjUxazNFaGotWnlLYU9rdVB6emZDUmJHb282ZHBrcjJndmdPVFN6OHB0QU5pWUplbzNyaHZ3TDZwczdnalowX3RYTFI2dHJmbXdDMHREanM?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-27 22:20",
+   "published_iso": "2026-10-27T13:20:09+00:00"
+  },
   {
    "title": "廿日市の住民と地域の外国人が料理で交流 四季が丘",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZV2ZWZ3pjazRtWUNpSEViVWVtZGdLOXNxa0lPZk1xTnMtY2dYMGlwenVhT0dVODd4bERVM0hVYnJHSlNUSkh1UHM3MA?oc=5",
@@ -22,14 +54,6 @@
    "source_domain": "shinmai.co.jp",
    "published": "2026-10-27 18:40",
    "published_iso": "2026-10-27T09:40:00+00:00"
-  },
-  {
-   "title": "勾留中にトルコ国籍男性が死亡、遺族が提訴 「警視庁の対応に問題」 [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUmgwSTA0UnM0Q1NTVFc3ZmJxMTlrU2dNQzhqNW85cmc1TnM0R0NiZ01mTDZuLTF5OVVwV1lzUU80bnhrd1dKanMxV3l6dTJyVzFzeWVJMkVFa3ZBMXZNWFRVdU5oSTg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-27 18:09",
-   "published_iso": "2026-10-27T09:09:28+00:00"
   },
   {
    "title": "箕輪町内で増える外国人へ、どう情報届ける 「多文化共生」掲げ4年、対応遅れ指摘の声も",
@@ -176,14 +200,6 @@
    "published_iso": "2026-10-26T09:08:00+00:00"
   },
   {
-   "title": "京都市の地下鉄ホームでモバイル電池が発煙、外国人乗客が置いて立ち去る 一時運転見合わせ",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jMnN3cmdoUXQ4UHY3ZFBxREJmNGd0X2dIOS1kb2VCVkVhRzRiRXMzdlJ4NUpwNS1jNmRMOTdRdVFNZ3dmVlJpb1JqY2dubnRVbHBMcU5QLWQ?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-26 17:33",
-   "published_iso": "2026-10-26T08:33:00+00:00"
-  },
-  {
    "title": "【UJグループの技術を未来へ】インドネシアから特定技能外国人5名を新たに受け入れ - 写真・画像(1/1)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aEEyZEpfUzlfV2xmTURweXMzNTJpR0s0NzF6RG4xdmtmXzFOZkoyeHI4LXFsMkM4MkFJSWlLN19SM1BsVjNwYmNtdTB0emZmLWRyMjdyTQ?oc=5",
    "source": "西日本新聞me",
@@ -264,6 +280,14 @@
    "published_iso": "2026-10-25T07:00:00+00:00"
   },
   {
+   "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dHVXVHhWaHFLeUxhVXJMbHpKQlVCOWY5dUNRclpVMXVlOXItR0RpNXV5R2tSX0V5dlotOUFieHAxa040MXpxUnZGZVJhUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-25 06:45",
+   "published_iso": "2026-10-24T21:45:44+00:00"
+  },
+  {
    "title": "「伊那のそばが食べたいのに店がない」そば難民を生まない取り組みが始動 開業と移住支援へ12月に相談会",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BTUxWRGF4aWhzNEIzX2FXaWhYXzNacHJuUUJZMG9HcllpWmNBVjNGMnZFUk1UMWppWVFUNkF3N21HMkhtbUJvWC1KVmxnSGhqTUNvcw?oc=5",
    "source": "中日新聞Web",
@@ -294,14 +318,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-24 15:00",
    "published_iso": "2026-10-24T06:00:00+00:00"
-  },
-  {
-   "title": "愛媛・今治で自転車の外国人女性をひき逃げ 30代男を逮捕（2026年10月23日掲載）｜南海放送NEWS NNN",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlVQc25mVURuS090bE5DWWg5azJCWW12aGxxbU4yaFhScjlHU2VOUVZEZ25scDhLUVZoc1czLWExOExXd0s1eVVxNGV4eG9HemMxS0x6WnlVQ0FOWVpBd1FVd3RxMnZXcHVqLWF0LVRhakZOX3JoUjVSQVRmaFF4MHJtS0NZWW8?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-24 14:58",
-   "published_iso": "2026-10-24T05:58:00+00:00"
   },
   {
    "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
@@ -390,22 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-23 15:54",
    "published_iso": "2026-10-23T06:54:20+00:00"
-  },
-  {
-   "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 15:34",
-   "published_iso": "2026-10-23T06:34:33+00:00"
-  },
-  {
-   "title": "鴻池運輸、インドでドライバー育成採用 特定技能1号で受け入れ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1lXSUJrczhBbFg3bzlsNDhOUS0tczRvUEhSUWZGOTFTMUJTdXdtQXN6UWNuQm04dy1NRm43ckFMenZmLXdGQXhDQUJRV092Rm8xajVUanpiRTBaaGxCR2tDczZuSFBha1RWQg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 15:25",
-   "published_iso": "2026-10-23T06:25:00+00:00"
   }
  ]
 }
