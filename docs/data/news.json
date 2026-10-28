@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:24:57+00:00",
+ "generated_at": "2026-10-28T16:58:29+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOR0RrQWZzb3hIZER4OWl6bzQtODdCemxjRDdVQ3NuREp3cnZNN3UtQlU0TVRvX20yenZrVzZkcjZlRC1yT3RHVzJtb24yeC1FQ202X1h1ZGNCT1ZPRUgxclpB?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-28 18:45",
+   "published_iso": "2026-10-28T09:45:00+00:00"
+  },
   {
    "title": "EUが国境警備を異例の3万人規模へ増強…移民送還やSNS監視の専用センターも新設",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWTTVDNk11SEFqTWYwMmlBdlJYV0RxRzZPZWczRWdsV0lOeDN5T1JYVWhuelNHaWlpRHZpREcyYTgxc2RFUFhYU0pGa3N3VktTd0JN?oc=5",
@@ -24,28 +32,12 @@
    "published_iso": "2026-10-28T08:30:00+00:00"
   },
   {
-   "title": "ミャンマーに送還した難民の状況、マレーシアが説明要求…戦闘続く中「軍が４００人以上拘留」報道で",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Qy12Ni0tR29SSlFVRnZHUlo5WVN0LWFsajFocG5aZVdnMHJ4VURYZUhpbHhDbzczWEV2R1Jwc0JiMm5ic0lDajJmSjF6Q0hsTGpiVW5TU2MxeU9qTWwyMENR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-28 17:30",
-   "published_iso": "2026-10-28T08:30:00+00:00"
-  },
-  {
    "title": "「高度専門職」在留資格を申請し中国人を不正入国、容疑の役員再逮捕 富裕層移住関与か",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WmxacHpDc1FEWXZNSGpwZkEzbnhwaWgwVUw5ZU9RZGM4cENVT1hGemFmUmxzWTg1OGlvOFB5Rm5CdFNXeHBaaF9yLUdwek8wcmxxLV9XZ0dxNzNZOVd1RFhiZnhaLXh5SnlEaW9EVGowa0tWa1E?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-10-28 16:52",
    "published_iso": "2026-10-28T07:52:33+00:00"
-  },
-  {
-   "title": "【イベント開催】ユース向け国際協力・多文化共生・SDGsイベント ワン・ワールド・フェスティバル for Youth 2026×チェンジメーカーミートアップ2026参加者募集中！",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1memMzN3ZGblg1V0FXa0V2WU1qczR1bG9iMG9QUS1nY2haeWE4OWJQcFZUaFJZbjM5eDBBeFh5cUY2Y01iV25fek5wYzhiallwV21RckxCTS1NNms3azhCU3YzczdlSVpUOEVJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-28 16:16",
-   "published_iso": "2026-10-28T07:16:00+00:00"
   },
   {
    "title": "訪韓の外国人観光客 過去最多に Kカルチャー人気がけん引 世界全地域から訪問増",
@@ -56,20 +48,12 @@
    "published_iso": "2026-10-28T06:56:34+00:00"
   },
   {
-   "title": "【製造業×外国人雇用】その業務、在留資格に適合していますか？ 製造業が今確認すべき「技人国」の実務対応 ～2026年の審査・運用見直しと、現場で押さえるポイント～［11/12（木）開催］",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PV2ZsN0xVSFhxNlE0endIemQ0OXYyLXpiTVViTW9xZ0JWUUxnaEdJVmU5X2xVRXduT1VYa3YySExMeG5KbjhCUXpmNVlyN2NTVWZyajFkeWh4Y00zY2piM3F5Y3F2WGdZWWxz?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-28 15:46",
-   "published_iso": "2026-10-28T06:46:00+00:00"
-  },
-  {
-   "title": "恵那市広報、AI音声で配信へ 委託業者を公募中 視覚障害者や外国人に配慮：ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aelRtVWdEdnlvaDZMY2hHU0pQLWVKZy1QQnM0N3NIMXd6MXZMV01uTlFpOWJUWXNucDJ1M1lOLUlKUURtZzg3S2dSSnNsZVNFTlJWRmpET1JSanVFMmZR?oc=5",
-   "source": "中日BIZナビ",
+   "title": "恵那市の広報誌、AI音声でポッドキャスト配信へ 視覚障害者、外国人に配慮",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aNHJfMnYwYmJHZXRURElUNHVWTDlYeVlRZFdDS3NqVzhWRG9wQi1PQmlGTmpaY3I3cVhPbkhjOXdUWkVXTDdZa3JzeVI3dmtkQi01eFZ4QTJnMW5DTjFr?oc=5",
+   "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
-   "published": "2026-10-28 15:00",
-   "published_iso": "2026-10-28T06:00:00+00:00"
+   "published": "2026-10-28 14:47",
+   "published_iso": "2026-10-28T05:47:13+00:00"
   },
   {
    "title": "外国人政策「犯罪率高ければ地域別に受け入れ停止も」保守党・北村氏提案 仏暴動にも言及",
@@ -80,24 +64,16 @@
    "published_iso": "2026-10-28T04:16:37+00:00"
   },
   {
-   "title": "DroR、在住外国人向け生活手続きナビ「official.tokyo.jp」をアップデート 在留期間の更新の手続きを5言語で追加、AI向けの無料API・MCPサーバーからも参照可能に",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoSWFuT0tsM2poWldJbXAtVEVLVDNsSE81bjFQdURzSnBPM3FVQjlnc2hiMUxVQVBsUF9OVDIzQ3FaVWVWTmExaHB4c1ZRbnE1X2kzT2djY2lTM2VOTkNvUE9KY094S3R6QmFJ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-28 13:16",
-   "published_iso": "2026-10-28T04:16:00+00:00"
-  },
-  {
-   "title": "狙われた「世界最速グリーンカード」 富裕層、性善説の制度を悪用か",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4c3RtN24zcmJ2YjhHTFRaRHNVV1JrWi1WTkVNTzh5UDcyWjB4LXRRSHFIeGNzX2V2RVhwdmdGakU1UjR2QTNLVUQwSEdscG9ZRGpmb2QwdzM3MlBBb2hrd19KNi1vS0k?oc=5",
+   "title": "「永住権取れる」7千万円報酬か 中国人を支援、虚偽申請容疑で逮捕 [東京都]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hVHJEcmEzVFVXbEh2czlJS1IyS3I1SDFMbTNXNTZ0b2VWSWIwZFRETUlWSHpNdjBJVjZEU1NhRXhwZGxXV1g5X0VTRXozeFliYTRtQXFTYXQ1VTJuY2k1dTkteDBLSWc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-28 12:45",
    "published_iso": "2026-10-28T03:45:00+00:00"
   },
   {
-   "title": "「永住権取れる」7千万円報酬か 中国人を支援、虚偽申請容疑で逮捕 [東京都]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hVHJEcmEzVFVXbEh2czlJS1IyS3I1SDFMbTNXNTZ0b2VWSWIwZFRETUlWSHpNdjBJVjZEU1NhRXhwZGxXV1g5X0VTRXozeFliYTRtQXFTYXQ1VTJuY2k1dTkteDBLSWc?oc=5",
+   "title": "狙われた「世界最速グリーンカード」 富裕層、性善説の制度を悪用か",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4c3RtN24zcmJ2YjhHTFRaRHNVV1JrWi1WTkVNTzh5UDcyWjB4LXRRSHFIeGNzX2V2RVhwdmdGakU1UjR2QTNLVUQwSEdscG9ZRGpmb2QwdzM3MlBBb2hrd19KNi1vS0k?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-10-28 12:45",
@@ -184,14 +160,6 @@
    "published_iso": "2026-10-27T13:20:09+00:00"
   },
   {
-   "title": "高森町が海外企業と初の協定 外国人旅行者向け情報提供や農産物販売へ",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nMTlDU1E5ZUdFeElobFg5bVFINWsxOWM5aF9NVlAtV25BT2h2ak1ybGlhMmFua2pXT2VkUkRWMEd2bkp5cENoekltQS0tUi16ZDVDTkxURnNRWnB0OG1nTHJaTjZhZzU1VkpEb1VuU2s?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-27 18:40",
-   "published_iso": "2026-10-27T09:40:00+00:00"
-  },
-  {
    "title": "箕輪町内で増える外国人へ、どう情報届ける 「多文化共生」掲げ4年、対応遅れ指摘の声も",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcHM5YXUzbVo0dU11aE9BdWtHNEd3d2ZHZFBqelVkdHJSdHlvb3ItSlZZc1ZWblhXaEh1ajhlR1k2c3Z5OTZpSjkxR3RjTVIyR2stblF6cjdTdmRBd19NWWlISml2ejlLb3hkUERaRXA?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -208,14 +176,6 @@
    "published_iso": "2026-10-27T07:00:00+00:00"
   },
   {
-   "title": "満州移民史、広島県世羅から語り継ぐ 広島大准教授が講演「歴史残す活動続けて」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6RGQxQ0NXdVYySEhGUTVKMU5kOTJ4WmdOZlJ4NWRjTkQ2b29yRWQ3VXBaS3dGdkxNQ3lIQzJFTkk2UjBRS3N4UGFIbw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-27 14:37",
-   "published_iso": "2026-10-27T05:37:45+00:00"
-  },
-  {
    "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
    "source": "日本経済新聞",
@@ -230,14 +190,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-27 11:45",
    "published_iso": "2026-10-27T02:45:09+00:00"
-  },
-  {
-   "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-27 11:43",
-   "published_iso": "2026-10-27T02:43:59+00:00"
   },
   {
    "title": "【速報】仏銃撃で追悼集会 移民標的か、8人死傷",
@@ -264,14 +216,6 @@
    "published_iso": "2026-10-26T23:30:00+00:00"
   },
   {
-   "title": "やさしい日本語で交流 穴水町で「楽しくにほんごではなす会」外国人と名所などおしゃべり",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lYWtXcG5rMU1HT2FFTEJlbFZBUC1iSnZjdG11NW5lcVc0Z3J5dkdZZHdfR01uUTQxa2JZTHFGWHlEcGVnRnhqZ3hyRjYyb2ozcmcyUg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-27 05:05",
-   "published_iso": "2026-10-26T20:05:00+00:00"
-  },
-  {
    "title": "｢熱海｣検索されやすく 外国人照準、リクルートがAI支援",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHNyV2s0Q3NNSHBsZTJ0cUxucVNUWUhhZHhGMk83aFpqb3RBWlNqYmpoUTY4S0RCRWF1dHVPR3FfMWNhQUJ1YWlHSXdJOWR3M2dOdlNRbHc3TUcwZXFvU3NEWkNiRkQ4SWlGTGFpUVRNTGlRNjR5R0hIVmdTMW9tdGZCTkszRV9PTzZwcw?oc=5",
    "source": "日本経済新聞",
@@ -286,14 +230,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-27 05:00",
    "published_iso": "2026-10-26T20:00:00+00:00"
-  },
-  {
-   "title": "特定技能に新設の「物流倉庫」分野に特化 インドネシアの自社研修拠点で来日前から育成する外国人材紹介「特ロジWORKS」が本格始動",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaXkzNFZrLV9id1hqcWJDbENuc1NWbmQxSVlwU2Nab09aNEVQTTBEcFRMMGxHMnhmTGZiMGVOV3NLVnVZUTFaWkpyZVZVM1lBUjZDc3VuelZEcGhqWnVVanZ4a3k5U0JZaUdV?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-27 04:10",
-   "published_iso": "2026-10-26T19:10:00+00:00"
   },
   {
    "title": "ほっとニュース北海道 【北のそなえ術】雄武町の高校生 外国人の防災力向上へ取り組む NHK ONE 配信中 11/2まで",
@@ -326,14 +262,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-26 16:55",
    "published_iso": "2026-10-26T07:55:15+00:00"
-  },
-  {
-   "title": "忍者、外国人のハート射抜く 三重･伊賀や滋賀･甲賀で探った魅惑の術:写真",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81Q3g3YkNFUGZtVzZBaEtycENsUWRwV2h5Y09iOWFpOC0wWG5ZMHJhVzNXNmFMWEN6WXJYMTNKUHZKamRPdFRXajZEVXBBRlRWUFoyNjVQVDlEZXZ2YnJWNGxKemhhdElPNDc0UmMzWHFoaWZvdVhqamNZczRGc2s?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-26 13:50",
-   "published_iso": "2026-10-26T04:50:57+00:00"
   },
   {
    "title": "「地域共生社会の実現に向けた包括的支援と地域づくり」がテーマ ASEAN・日本社会保障ハイレベル会合が高松市で始まる【香川】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
@@ -392,20 +320,92 @@
    "published_iso": "2026-10-25T07:00:00+00:00"
   },
   {
-   "title": "食堂でけんか…工場の社員寮で同僚の左胸をナイフで刺したか 殺人未遂容疑でフィリピン国籍の技能実習生逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45dHVXVHhWaHFLeUxhVXJMbHpKQlVCOWY5dUNRclpVMXVlOXItR0RpNXV5R2tSX0V5dlotOUFieHAxa040MXpxUnZGZVJhUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-25 06:45",
-   "published_iso": "2026-10-24T21:45:44+00:00"
-  },
-  {
    "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-25 05:00",
    "published_iso": "2026-10-24T20:00:00+00:00"
+  },
+  {
+   "title": "不法就労の外国人から押収したスマホやＰＣ、「電子鑑識」で解析へ…雇用主らの摘発強化で入管庁",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Y29KUTlMSFNPWVJUYXhHZGUxZzR6TkMwamNkb1FHaklLYUE4R19DMDlOd19keEZMa1R6ZW8yaHo4UGtScDN1U2E2VUJNMlVjRHFsTS1ib1hRNjBqajl4WU1USkRlQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-24 15:00",
+   "published_iso": "2026-10-24T06:00:00+00:00"
+  },
+  {
+   "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2d3FOMGJVNVhKR0cyVF93bk9jQ0hBYUtzcXVVQjlKQkZMVWpXN1JfWUh6ZGU1bk9NUFhMejZaNlltaWJ0eXBiak9yX2FVTFpqN0J1bUJibFpGaFNDM3ctOHk3OA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-24 14:33",
+   "published_iso": "2026-10-24T05:33:00+00:00"
+  },
+  {
+   "title": "障害者スポーツ大会開幕、秋篠宮さま「共生社会の推進に期待」 [青森県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WRUJPQ1FVV2tqWlZtb0pQdzNvc3UtdVRTYUpGbFE1Q2RUdE5BUkdNeTdXcFRYb2NfSzdWd2JrZmVUaXJMNk1lcFlONERaNGxrMm1qSjRoZm5sVzUyM3JrWk1Hc3ZJQzA?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-24 10:00",
+   "published_iso": "2026-10-24T01:00:00+00:00"
+  },
+  {
+   "title": "パリ郊外で発砲、イスラム移民標的か 人種差別テロ容疑で捜査 デモの緊張高まるさなか",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TUHZLWm9Jdlh2OG83bmFOV3lrMmRfQmx2ZDZnankyYTFHSW55VTI3M2g3d3dfNVdRY2NXVWh2Vnh0Slp5MWhjMVNGRkNEU1BKSS1QblVVa2djVy1kcVBtVTQ0c1BIT1hMTW5FNGxHUEM0MFhXbGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-24 08:43",
+   "published_iso": "2026-10-23T23:43:18+00:00"
+  },
+  {
+   "title": "外食企業「外国人材、日本で長く働いて」 特定技能2号への移行支援",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBROXlwRWpaY2RZR3NjYmdCNEozYlFHb0tlZUkxTWxtSVNHb3BLcWEtMmxDOUJFS2JQTHQ0QzZOcUxoV3pzMkZYYzhLUV9Tc3U4dFk1LTU5N29jY0tUMVhDMWY3Rk1Ec3JBTHRmSg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-24 05:00",
+   "published_iso": "2026-10-23T20:00:00+00:00"
+  },
+  {
+   "title": "日本語教員確保、35％未定 育成就労、受け入れ仲介機関調査",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YLXlITFNmVHRZb0VvMUY4QUVESVgtcEJubnItVmVYWGNrY3ROVEE0NlRtSlpjTHMwNFZka2dQaWVINFpxS0VfQmF1MzRLYVpmYThEdE1McGEtUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-23 18:13",
+   "published_iso": "2026-10-23T09:13:26+00:00"
+  },
+  {
+   "title": "育成就労、日本語教員確保に遅れ 「候補も未定」が36%",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZnFUOFVqcGE1dzdYaUpXcUFlZUZzUXlEZ05wQ1Y0eUhzVkVudURRMWNsWlV6X1FoRnUzd0ljRDlza2tyU1VZMjRUTDhLcVBIcnJVSVlKWGdRQnA2Y09EbWV3R3pOOHFxaTA1bw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:54",
+   "published_iso": "2026-10-23T06:54:20+00:00"
+  },
+  {
+   "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:34",
+   "published_iso": "2026-10-23T06:34:33+00:00"
+  },
+  {
+   "title": "鴻池運輸、インドでドライバー育成採用 特定技能1号で受け入れ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1lXSUJrczhBbFg3bzlsNDhOUS0tczRvUEhSUWZGOTFTMUJTdXdtQXN6UWNuQm04dy1NRm43ckFMenZmLXdGQXhDQUJRV092Rm8xajVUanpiRTBaaGxCR2tDczZuSFBha1RWQg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:25",
+   "published_iso": "2026-10-23T06:25:00+00:00"
+  },
+  {
+   "title": "手錠と足かせで強制送還、「非人間化」される移民 ある一家を訪ねた [トランプ再来]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aamotcUF6dnRYaDA4ajBGb0ROSmVsWExlR1BodTlWSS1jTWZOdFJkd2lOb3hnQVIzUXhSRklocEtnblgxaEM5enphd3pMNV9nS1dPTVFsbFRyZlBhUU1ROFA1aVZuNzQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-23 15:00",
+   "published_iso": "2026-10-23T06:00:00+00:00"
   }
  ]
 }
