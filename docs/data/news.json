@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:09:37+00:00",
+ "generated_at": "2026-10-29T20:51:23+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,62 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTXI3eGJPWHc1d3UzVnF0eVAyTVV4SlZ5cGdPZDdqbWpGLXlzQklSZ29WZGRJQ25aV2tSR0o3TExmR1RJOFFicE9acFcwdzBheXVHZ2pUNzltdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-30 05:45",
+   "published_iso": "2026-10-29T20:45:30+00:00"
+  },
+  {
+   "title": "命がけで日本大使館守り―難民に タリバンから逃れたアフガン人 就労支援乏しく自営で屋台",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52d21oN2NmM3hObnYycUdGQ1lSMUNRZElIYk96N0N0TUlXclhJODFnZ3M1a0RmeFhMSzctYk81eG1hSkdqaVBEb3JFbDZWWEhFY2FDWDZ6YS1xM3lK?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-30 05:00",
+   "published_iso": "2026-10-29T20:00:00+00:00"
+  },
+  {
+   "title": "外国人の労働者 受け入れ支援を 地区労連、市に要請",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IR20xUklhUi0xekJNNW1KZTY1Q1plYVF3UUlEdGZCZ01xS3FINlNBakZjLXBuak9ycUhhUldLR0I1aDBhbzJ1bTNaWEZKYUNUWnNieHJyNHh1UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-30 04:00",
+   "published_iso": "2026-10-29T19:00:00+00:00"
+  },
+  {
+   "title": "移民捜査官ら4．1万人流出 米国土安保省 ハッカー侵入報道",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYUhBLWtZVDBROFJ3YVZhTkM0cWRjaHI2bS1sMzg4Q1k0TWxOdFgweUs4aENvRm1qX1VfWWZNa1R6VENLUWFfY3Q3ZXlqQmtLNVA2MjlwZUJzdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-30 04:00",
+   "published_iso": "2026-10-29T19:00:00+00:00"
+  },
+  {
+   "title": "ともに・共生社会へ：視覚や知的 重複 障害ある長男に夢を 「ゆるスポーツ」考案 澤田智洋さん",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92MW1jSVgyS2JmR05ZbG9BeTFheTlKTW9HUXVLYS1TS0VSLXhmTVdyQkl5QjZIWWEwNHVub2ZIMTBrNkwyXzRxQzRzUGtjVXNzRFdxTG1Ua2M0UFNJdmh6RzF6cC1HTF9f?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 02:01",
+   "published_iso": "2026-10-29T17:01:07+00:00"
+  },
+  {
+   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 02:01",
+   "published_iso": "2026-10-29T17:01:05+00:00"
+  },
+  {
+   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 02:01",
+   "published_iso": "2026-10-29T17:01:05+00:00"
+  },
   {
    "title": "＜多文化共生の現場から＞ステレオタイプを越えて",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmNkJLNVBBekFJZWpoSi1OMXdnSVRLVHY5d1poclczNDduTm52eU1Xc1REU3JOMVM3SF9Bc0FwbXBVRUd6aGhRTUJ6MA?oc=5",
@@ -57,9 +113,9 @@
   },
   {
    "title": "多文化共生社会の実現や地域課題解決に取り組む「サラダボウル」が、応援者募集 11月22日に、事業説明や応援者が交流するカフェ開催",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMTBweWl3VUk5SHFPZXFGNzlzYXRkRTFYVlduZFFYcmhnM05TMHBYdXlRTUltUHVrU2hpRkRwRl9qRGxkV240QnU4cU4zdW9KRDc2NlJxMUItQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11cEpNY1B0QTRRUGdTeXBrX1pSRTJqdXpjVW1iMElzNWs2b2hra1RyR0pSLUdJMXpWa2hlSFRHdTZac2Rpc1VNYm9fZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-10-29 18:24",
    "published_iso": "2026-10-29T09:24:03+00:00"
   },
@@ -104,14 +160,6 @@
    "published_iso": "2026-10-29T07:00:00+00:00"
   },
   {
-   "title": "増える空爆、あふれる患者 タイの難民クリニックに「沖縄平和賞」来日の院長に聞く",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iYmJjZTd2d3B5czJ2NGNDR0ZySGdPNWFZTzlJc3B2SktrRzJ5ZjBVNjE4SFFhUkVHejZQYk5IZlF0bDhQMGhJRmFMTVNoRzc5aDdNUQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-29 16:00",
-   "published_iso": "2026-10-29T07:00:00+00:00"
-  },
-  {
    "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GSVFna2V2WEFjbkZROTlOanZLZ1ZXTzh5M185NS1xOFFfdUtRa2NlLV92eU05MEFJazBzaGJreElheWR2WC1SaTVjYw?oc=5",
    "source": "47NEWS",
@@ -152,36 +200,20 @@
    "published_iso": "2026-10-29T03:00:00+00:00"
   },
   {
-   "title": "災害時に外国人の力に 箕輪町、辰野町、南箕輪村がサポーター養成講座",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JQWZqVGlZVHBPMmRuVkZNTldBd0RwXzkxWDNaa3U0N3VKQ0Z6ZnUtdDN5TG1zOUpVSkU5N0w2NnF1bDM0QVNzMmZTZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 10:45",
-   "published_iso": "2026-10-29T01:45:22+00:00"
-  },
-  {
-   "title": "自転車のルール学ぶ 喜多方 外国人が交通安全教室",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDeFRfZDZuTjFKbmdiMUdCRWMtTEJrVW8tZWxGQVJnOFJyRGloOFJFYXZDcHVQV3VvdEVlWnI3VXRGN2xBeVpYRGRvQQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 05:19",
-   "published_iso": "2026-10-28T20:19:00+00:00"
-  },
-  {
-   "title": "多文化共生、朗読劇で訴え 宮城・大崎市民が発表会",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdkRYeGlncUpxNFp4ejAzYTdGOVNVOTVnMkNzZG1pdXVXM3Y5QUNDdHpXODVCT2w4VkdYWUxZOWdWR0tUZl8wb3Z6M053dThXOGhBZEVPS1NENE0?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-10-29 05:00",
-   "published_iso": "2026-10-28T20:00:00+00:00"
-  },
-  {
    "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-29 02:01",
    "published_iso": "2026-10-28T17:01:30+00:00"
+  },
+  {
+   "title": "少子化からの反転目指す 人口総合戦略を策定へ 外国人との共生など 方向性を年内提示",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ndFlzTE15SHcxWE50OUY4aUFPdGtGcTF2bVp1SmpnQ1pGXzBhbUNkM0RSa0YteVNqZVpQYmhHRGN3WDZlT1FIcnpKVXFYdzNpOHFLSXMxLTVuX1FnZThFTkJVU1dJdEI1ZTVoUzJnSm1TZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-28 20:35",
+   "published_iso": "2026-10-28T11:35:08+00:00"
   },
   {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
@@ -264,6 +296,14 @@
    "published_iso": "2026-10-27T23:00:00+00:00"
   },
   {
+   "title": "災害時に外国人の力に 箕輪町、辰野町、南箕輪村がサポーター養成講座",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQS1qcElzNkJxMW44MEZxeXlQRzFGWGRDU21tYnhQQmlRWXJOSGo5NWZnY1BUQ3JQNHJMaWwtR3F5Uy1oVVNIZDNhdDJUY3NqTDRxNWVDMU02cHBfVXkxeFlVMA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-28 05:05",
+   "published_iso": "2026-10-27T20:05:00+00:00"
+  },
+  {
    "title": "EU、移民即応部隊の新設案 セウタへの大量流入受け国境管理強化",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
    "source": "日本経済新聞",
@@ -278,6 +318,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-28 00:20",
    "published_iso": "2026-10-27T15:20:06+00:00"
+  },
+  {
+   "title": "香川県高松市で外国人と日本人が参加するカラオケ大会がありました",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMkpiRkpOc1g2RXJ4RWZsTjUxazNFaGotWnlLYU9rdVB6emZDUmJHb282ZHBrcjJndmdPVFN6OHB0QU5pWUplbzNyaHZ3TDZwczdnalowX3RYTFI2dHJmbXdDMHREanM?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-27 22:20",
+   "published_iso": "2026-10-27T13:20:09+00:00"
   },
   {
    "title": "【南山大＆中日新聞コラボ企画】アメリカはなぜ強いのか？ 移民問題からAI、日米安保まで大学生が国際部長に問う",
@@ -358,54 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-26 18:13",
    "published_iso": "2026-10-26T09:13:08+00:00"
-  },
-  {
-   "title": "杉原千畝の功績たたえ演奏会 NYでユダヤ難民の娘ら",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQUthU1VyOXFIcHJLSGxrSzYtX0Frc1ZRU1o2UTdVSGU3Um9LZEc3NDBUUlFOeHFVMXltZUVsVDhsRDFxNERmVW1ScmpjYnYyV1MwLXlybjV4Zw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-26 14:18",
-   "published_iso": "2026-10-26T05:18:15+00:00"
-  },
-  {
-   "title": "硫黄島記念碑の米兵の首をハンマーでたたき落とす バージニア州でメキシコ移民の子を逮捕",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GVzBreHkxaW9sZGJ0NU5sQWpQLUh0dDRtY2VfbXhlY3J3a3JyZVFhNVhDQndERTk1UEZpakNybG81VmZ3X1VfcU9UaTgtTnp2TjlIZ0hQN0doMkRoVzVXc1hkcWZiT3F1RU5nVGhORFZjQnFaWUE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-26 10:47",
-   "published_iso": "2026-10-26T01:47:02+00:00"
-  },
-  {
-   "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-26 08:55",
-   "published_iso": "2026-10-25T23:55:00+00:00"
-  },
-  {
-   "title": "米中間選挙2026,トランプ政権：不法移民は減ったのに…トランプ氏の「公約」で弱った米国の足腰",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BNUJiSjNBLTF2dEV1TG8tbVJfbDBsaEd1UHkzM1lCbXhIUEFwZzU2dll3LVZ2VnZ2MVRacmtWQU4yYlM0YTdsRnZwYnRmTmVZQllUNkdCVkt0d2xodTBVVEM5MmRqeDBF?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-26 07:00",
-   "published_iso": "2026-10-25T22:00:00+00:00"
-  },
-  {
-   "title": "京都市上京区で相次ぐスーパー閉店「買い物難民」支援広がる一方で、利用継続に立ちはだかる「壁」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBocnRmSWk1am85WUxyQnpZVzJ5NzRpeGJKTWpXbW9ESG1kZzJKTlJHdEJJZ241UzJMbDRyblV3N21WNmhsX2tGS041SzZzTHNvUkdSMHFGTEI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-26 05:00",
-   "published_iso": "2026-10-25T20:00:00+00:00"
-  },
-  {
-   "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-25 05:00",
-   "published_iso": "2026-10-24T20:00:00+00:00"
   }
  ]
 }
