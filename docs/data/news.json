@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:00:06+00:00",
+ "generated_at": "2026-10-29T15:09:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,86 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "＜多文化共生の現場から＞ステレオタイプを越えて",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmNkJLNVBBekFJZWpoSi1OMXdnSVRLVHY5d1poclczNDduTm52eU1Xc1REU3JOMVM3SF9Bc0FwbXBVRUd6aGhRTUJ6MA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-29 23:15",
+   "published_iso": "2026-10-29T14:15:41+00:00"
+  },
+  {
+   "title": "外国人観光客を対象とした新たな免税制度「リファンド方式」が11月から運用開始 仙台空港で導入準備が進む",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RcmFTaFhFTzBPSUlwTnJyT2FYS19oTXB2cGp1U0NFbG00MDZ3SnN6NVA0aV9sVWhqSHo2QnFjX1lWUU1TdXVocEpJUDlCZjktcWFPTFlpbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-29 20:23",
+   "published_iso": "2026-10-29T11:23:00+00:00"
+  },
+  {
+   "title": "外国人ヘイトを巡る鶴ケ島市議とフリージャーナリストの訴訟、東京地裁は名誉毀損も反訴も棄却",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91UTNOYzBKR0JuRzNfVkEtRW1FM080RzQ4bk5JWTBHaWVDUWtpNUg4OWdabmFXV09hZk5Yc05HLTJ0d1BBVWprYU8tT283VjhSQnh3?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-29 19:35",
+   "published_iso": "2026-10-29T10:35:00+00:00"
+  },
+  {
+   "title": "ほっとニュース北海道 【詳しく解説】外国人旅行者向け 新たな免税制度「リファンド方式」11月から導入 NHK ONE 配信中 11/5まで",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBSGowaEs4Sk1lY2s0QzdnWUpRRS1qQl9LaE04VFZQM3BYbUo3X2c1Tll6UlF3N29jUVhrZGFtZnJpdlNMTDUyNVpJRXRHNzNRSUQ4NXBhcWFLQXRPZjlvVWVlUWY2QWM?oc=5",
+   "source": "NHK",
+   "source_domain": "nhk.or.jp",
+   "published": "2026-10-29 19:18",
+   "published_iso": "2026-10-29T10:18:39+00:00"
+  },
+  {
+   "title": "操業中の底引き網漁船から、外国人作業員1人が海中に転落…行方不明に 巡視船による捜索続く 島根県松江市沖",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RN2tYZjVMbG5SRzU2UHYtRkw2M1dHcTllcjBOTTRvR3U5WmdhSXdQazlnV0hxQm9fQmFXT2RSMWsza0Q3Q25GdjhCQmt1OWxjTzJOekhKSml5YWxib0RBOTRwU19ncVk?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-29 19:18",
+   "published_iso": "2026-10-29T10:18:00+00:00"
+  },
+  {
+   "title": "宇都宮大学、ジェトロと協定へ 外国人材の栃木県内定着や起業を支援",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRmVfYm1QQkVCQnh4ZlFHaHZPeE9TS1Y3ZEw1emxhaVVPY1A2SHNfS19GYjd0SGdaMGNGdi1DUnk3d1JhZE5QYkRXdTVycjc5c20ybWlCUXcxbE05LTVCaWVSWFFoWFhsR1BqSA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-29 18:30",
+   "published_iso": "2026-10-29T09:30:00+00:00"
+  },
+  {
+   "title": "多文化共生社会の実現や地域課題解決に取り組む「サラダボウル」が、応援者募集 11月22日に、事業説明や応援者が交流するカフェ開催",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMTBweWl3VUk5SHFPZXFGNzlzYXRkRTFYVlduZFFYcmhnM05TMHBYdXlRTUltUHVrU2hpRkRwRl9qRGxkV240QnU4cU4zdW9KRDc2NlJxMUItQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-29 18:24",
+   "published_iso": "2026-10-29T09:24:03+00:00"
+  },
+  {
+   "title": "外国人労働者「経済寄与あまりない」 大統領発言が物議―韓国",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GdjlSdGMtRm9Oel9ZbDFNMlBGMllsOGxDeXJvT0FDN1lBSVRidHpmcmI0bk1xOUhYMFRZcC00bVFtZFBLREkxZXZUejFfTjY2NkZjWHZLelJfcWtkWmVDQUJXRQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-29 17:11",
+   "published_iso": "2026-10-29T08:11:00+00:00"
+  },
+  {
+   "title": "九州の外国人入国者数、9月10%増 韓国・台湾路線が充実",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2hfT3hrZTU1ZGpFNTgzZUdjYXhIVU5kYnJQUDR2SDdIUnVTQjRTUnBjVHV2aWY4Tmd6UGpEZWdYSlN2T3NfU2k1ZkV2SldoeTYwblljc20yTWNwZ2RCM3l2emRNcVhJS25yQw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-29 17:05",
+   "published_iso": "2026-10-29T08:05:36+00:00"
+  },
+  {
+   "title": "外国人絶賛!?ダイソー＆ドン・キホーテ【しらべてみたら】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xTGw2dFpXM3hFU2ZlVWdqUEdncHNKa0RFRml2bEF0a0ExQS1XUU5zZ25tYzRLbVpBaUtRcmlIdjJJNEs2MklEREp6anBEQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-29 17:00",
+   "published_iso": "2026-10-29T08:00:00+00:00"
+  },
   {
    "title": "歌で結ぶ日本と母国 外国人らの「ベトナム交流合唱団」 北見合唱祭で初のホール発表 月1回の練習会へ",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xWi1CQ0hxX2NCREg2TXhfT0NDbl8wWXV4V1dCZlJOQVBBMGZyZkJDMXZCQkJzYmtTckxuNVNSMEdFRm9aQTZyMHFxWTBmRnNnazVWcTI0c1FvdEhscVh2dUhkNmY?oc=5",
@@ -25,19 +105,19 @@
   },
   {
    "title": "増える空爆、あふれる患者 タイの難民クリニックに「沖縄平和賞」来日の院長に聞く",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sV2daMFAxdEpaTWt3ODY1N3NEMG5LYUV6WDBwUS1YSDBhbk54dGxuREVBekJwWU42aGZlR1psQktwOG53WkpLWVI3aGZQMmxZa1I3b1ZBUWFVRUp2N2x6eG9DX0Q?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iYmJjZTd2d3B5czJ2NGNDR0ZySGdPNWFZTzlJc3B2SktrRzJ5ZjBVNjE4SFFhUkVHejZQYk5IZlF0bDhQMGhJRmFMTVNoRzc5aDdNUQ?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-29 16:00",
    "published_iso": "2026-10-29T07:00:00+00:00"
   },
   {
-   "title": "【460名が視聴の大人気セミナー無料見逃し配信開始】【育成就労受入れの決定版！】JLPT N4（JFT Basic A2.2）での送り出しを100％確約。入国後の日本語教育負担を大幅軽減。詳細セミナー",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rcDZKNGdEcndsbk5iWVE2Sl9sajRnTG8tR0lmUDZvd1FhQTQxZnhicU9RMERKTTVCOE4wWVk5V1UxU0U0Nkd5ZUZKYkN0WF9MYmJzUlUwempubkdXa0VuNjBERVJndFFWQ25j?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-29 14:46",
-   "published_iso": "2026-10-29T05:46:00+00:00"
+   "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GSVFna2V2WEFjbkZROTlOanZLZ1ZXTzh5M185NS1xOFFfdUtRa2NlLV92eU05MEFJazBzaGJreElheWR2WC1SaTVjYw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-29 15:16",
+   "published_iso": "2026-10-29T06:16:08+00:00"
   },
   {
    "title": "清水町の町名変更 住民投票案を再提案へ 外国人除き投票率50％以上",
@@ -48,12 +128,12 @@
    "published_iso": "2026-10-29T05:00:00+00:00"
   },
   {
-   "title": "工藤会旧本部跡地に福祉施設、ＮＰＯ理事長「地域になんちゃって家族をつくる」…共生社会の拠点目指す",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QQUtRSFpXcDl3R3N0SEZiTElEMG5qcnlESXM3amNsa0l6dkFaOFhoRXNScTlobVpLc0ZWSmRwcDQ3UDdaejJjdTBuZWJlZHBya2wtOFFGSm11Vjd3dnpkQkdGcVR5OEM4VWdtQ3J1TmxEQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-29 13:55",
-   "published_iso": "2026-10-29T04:55:00+00:00"
+   "title": "送電用ケーブル1.84トン窃盗未遂の疑いでベトナム国籍の男4人逮捕 太陽光発電所を狙う外国人トクリュウか 運搬役の男含め逮捕者計5人に 富山・小矢部市",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PT3ViT09LbTJ1NjVaNFlvOElRbEgtQ3RFdnRUdTQ5RXJpTGQ4MjFMckRKU0txNndVTFVlTkxmT2VXVzB6WFNlQTVJQ1FCbG9xVkVlNG5vSnEyOWE4NXNqQWNZMFBFcnc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-29 13:40",
+   "published_iso": "2026-10-29T04:40:00+00:00"
   },
   {
    "title": "捜査官ら4万人超の情報流出 米国土安保省、移民摘発",
@@ -88,14 +168,6 @@
    "published_iso": "2026-10-28T20:19:00+00:00"
   },
   {
-   "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zYWh2VU8xUTByTk9UN1lkWUItZHVQMC1NTW9EeWh0Y2kyb1RhNUZialRYVmotQ3RpSlhyd2JiZHp3SDJ2YURWc3pHR29PbVFDSk4zYm9KXy1pTlRXRTd3?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-29 05:05",
-   "published_iso": "2026-10-28T20:05:00+00:00"
-  },
-  {
    "title": "多文化共生、朗読劇で訴え 宮城・大崎市民が発表会",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdkRYeGlncUpxNFp4ejAzYTdGOVNVOTVnMkNzZG1pdXVXM3Y5QUNDdHpXODVCT2w4VkdYWUxZOWdWR0tUZl8wb3Z6M053dThXOGhBZEVPS1NENE0?oc=5",
    "source": "河北新報オンライン",
@@ -110,14 +182,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-29 02:01",
    "published_iso": "2026-10-28T17:01:30+00:00"
-  },
-  {
-   "title": "少子化からの反転目指す 人口総合戦略を策定へ 外国人との共生など 方向性を年内提示",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ndFlzTE15SHcxWE50OUY4aUFPdGtGcTF2bVp1SmpnQ1pGXzBhbUNkM0RSa0YteVNqZVpQYmhHRGN3WDZlT1FIcnpKVXFYdzNpOHFLSXMxLTVuX1FnZThFTkJVU1dJdEI1ZTVoUzJnSm1TZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-28 20:35",
-   "published_iso": "2026-10-28T11:35:08+00:00"
   },
   {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
@@ -216,22 +280,6 @@
    "published_iso": "2026-10-27T15:20:06+00:00"
   },
   {
-   "title": "香川県高松市で外国人と日本人が参加するカラオケ大会がありました",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMkpiRkpOc1g2RXJ4RWZsTjUxazNFaGotWnlLYU9rdVB6emZDUmJHb282ZHBrcjJndmdPVFN6OHB0QU5pWUplbzNyaHZ3TDZwczdnalowX3RYTFI2dHJmbXdDMHREanM?oc=5",
-   "source": "やさしい朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-27 22:20",
-   "published_iso": "2026-10-27T13:20:09+00:00"
-  },
-  {
-   "title": "箕輪町内で増える外国人へ、どう情報届ける 「多文化共生」掲げ4年、対応遅れ指摘の声も",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcHM5YXUzbVo0dU11aE9BdWtHNEd3d2ZHZFBqelVkdHJSdHlvb3ItSlZZc1ZWblhXaEh1ajhlR1k2c3Z5OTZpSjkxR3RjTVIyR2stblF6cjdTdmRBd19NWWlISml2ejlLb3hkUERaRXA?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-27 18:00",
-   "published_iso": "2026-10-27T09:00:00+00:00"
-  },
-  {
    "title": "【南山大＆中日新聞コラボ企画】アメリカはなぜ強いのか？ 移民問題からAI、日米安保まで大学生が国際部長に問う",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWQmNRTl9PbEJMTFE0dVRxYnV5SS1OY3dtdDhDbmJZaTZsZ2laRXd1OHNkSkdjN0dHVFpfLWh0akRRREliYnlvTGptbnlXRVZFaURlOQ?oc=5",
    "source": "中日新聞Web",
@@ -280,6 +328,14 @@
    "published_iso": "2026-10-27T00:02:00+00:00"
   },
   {
+   "title": "「最大の浮動票」中南米系に共和苦慮 候補、トランプ氏と対立しても「移民摘発行き過ぎ」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xQ012LVViSlQyYkM1ZVA2aDhoR2FwZkxfdlNCdG5QalJ2NUtRNnE5V2xleVZYRnpxVlFkMndrc1VuZzIxZTFNUmNELS1ZckJpZkphSTQ4SEVSYnF4Mi1VX3JfaUFXeENTb2VZei14RzBzMGtHenc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-10-27 08:30",
+   "published_iso": "2026-10-26T23:30:00+00:00"
+  },
+  {
    "title": "フランス大規模デモ、大統領選で右派政党率いるルペン氏の追い風に…治安対策や移民問題が争点に急浮上",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81aUgxelpGMzhVU0d0RkJoUTl2MC1aYm56NXBfMm1Gd1BpLTdsaXBkQzl3NnAxei1vSFVfVTVpaUJfZm9zY0FhcFJJNjhIM2wxOWIyWEY5SjdwR3NwaVpjb2NR?oc=5",
    "source": "読売新聞",
@@ -296,28 +352,12 @@
    "published_iso": "2026-10-26T11:36:00+00:00"
   },
   {
-   "title": "ほっとニュース北海道 【北のそなえ術】雄武町の高校生 外国人の防災力向上へ取り組む NHK ONE 配信中 11/2まで",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02TE5GT0xDRjYzX3NCSUozNkdZZDZVdW1WTzBRTVRRZHdqZ1gzbXNMUVA1R1NXU2E1SDlTemNUS3NFcHMzZnhGUmVJZjQyaHdvUmdxajZaVzU1STNyVkFVMUZrcGVjSVU?oc=5",
-   "source": "NHK",
-   "source_domain": "nhk.or.jp",
-   "published": "2026-10-26 19:19",
-   "published_iso": "2026-10-26T10:19:55+00:00"
-  },
-  {
    "title": "山下法相、特定技能「総量は変えない」 外食業分野の受け入れ巡り",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqZzhQcTRTQzQ4MHJMZUVWTTdkd2dTMC1pamJ3MXRzaGc1VVlPT09wSUhnQTQ0bnJDR3lqN0c1MU5PVXNJQUFHcWNma0w4NG1WSVpNM2V3aGc1aXpuQXkzSkpnWTFoSldxNHNVNQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-10-26 18:13",
    "published_iso": "2026-10-26T09:13:08+00:00"
-  },
-  {
-   "title": "【UJグループの技術を未来へ】インドネシアから特定技能外国人5名を新たに受け入れ - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aEEyZEpfUzlfV2xmTURweXMzNTJpR0s0NzF6RG4xdmtmXzFOZkoyeHI4LXFsMkM4MkFJSWlLN19SM1BsVjNwYmNtdTB0emZmLWRyMjdyTQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-26 16:55",
-   "published_iso": "2026-10-26T07:55:15+00:00"
   },
   {
    "title": "杉原千畝の功績たたえ演奏会 NYでユダヤ難民の娘ら",
@@ -366,46 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-25 05:00",
    "published_iso": "2026-10-24T20:00:00+00:00"
-  },
-  {
-   "title": "不法就労の外国人から押収したスマホやＰＣ、「電子鑑識」で解析へ…雇用主らの摘発強化で入管庁",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Y29KUTlMSFNPWVJUYXhHZGUxZzR6TkMwamNkb1FHaklLYUE4R19DMDlOd19keEZMa1R6ZW8yaHo4UGtScDN1U2E2VUJNMlVjRHFsTS1ib1hRNjBqajl4WU1USkRlQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-24 15:00",
-   "published_iso": "2026-10-24T06:00:00+00:00"
-  },
-  {
-   "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2d3FOMGJVNVhKR0cyVF93bk9jQ0hBYUtzcXVVQjlKQkZMVWpXN1JfWUh6ZGU1bk9NUFhMejZaNlltaWJ0eXBiak9yX2FVTFpqN0J1bUJibFpGaFNDM3ctOHk3OA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-24 14:33",
-   "published_iso": "2026-10-24T05:33:00+00:00"
-  },
-  {
-   "title": "外食企業「外国人材、日本で長く働いて」 特定技能2号への移行支援",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBROXlwRWpaY2RZR3NjYmdCNEozYlFHb0tlZUkxTWxtSVNHb3BLcWEtMmxDOUJFS2JQTHQ0QzZOcUxoV3pzMkZYYzhLUV9Tc3U4dFk1LTU5N29jY0tUMVhDMWY3Rk1Ec3JBTHRmSg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-24 05:00",
-   "published_iso": "2026-10-23T20:00:00+00:00"
-  },
-  {
-   "title": "介護にスポットワーク、タイミー募集6割増 特定技能は2万人拡大案",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNEFNS092TDJvYS1KaHFJbUFMMnFYREFqM0dwR1dSNGxES1hyNFpabWlqeTFwYThweV9KbUkxSHZFRXRMYjlTdUMtSWZBZEF1Q0ZobnZERUxRVkRLMjlVVWo3NDNXWmFmaUp3bA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 15:34",
-   "published_iso": "2026-10-23T06:34:33+00:00"
-  },
-  {
-   "title": "鴻池運輸、インドでドライバー育成採用 特定技能1号で受け入れ",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBV1lXSUJrczhBbFg3bzlsNDhOUS0tczRvUEhSUWZGOTFTMUJTdXdtQXN6UWNuQm04dy1NRm43ckFMenZmLXdGQXhDQUJRV092Rm8xajVUanpiRTBaaGxCR2tDczZuSFBha1RWQg?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-23 15:25",
-   "published_iso": "2026-10-23T06:25:00+00:00"
   }
  ]
 }
