@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:35:44+00:00",
+ "generated_at": "2026-10-30T06:47:01+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,7 +8,71 @@
  ],
  "items": [
   {
-   "title": "長野県で訪日外国人の遭難が急増 東南アジアからの登山者増加が背景か〈山と人と信州と〉",
+   "title": "愛媛の魅力体感を Velo-city参加の外国人向けツアー開発へ【愛媛】（2026年10月29日掲載）｜南海放送NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODlRUUZ4NEV1Z3dIWGFxV2oxWVp3TnFMUW5tNUxEWjBVell1aFZ2Y1dlZXp4MFNGbDhJSkNSUEpjNS1xREFyb05uSnczZXN3Rl9jMVVHNG00YlFQN0otRU9fV0NKcWdxR1RnX2dMNkxVX1plenF4R2l4ZFJ2SWpxQWVrUFNDSFE?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-30 14:27",
+   "published_iso": "2026-10-30T05:27:00+00:00"
+  },
+  {
+   "title": "歩行者3人が次々襲われけが “刃物所持”で外国人の男逮捕 千葉・松戸市",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oS2xmandTMGszekRROXZDYmM2eWY3VU9rZTE5R1NlR0FFR2FyOGxGZE8zdmh3WlV0bmZhb05BdVdpTzVCekM3NUE4WW85UEkyRmlYSElNNVQ4elpGOU1IRkptZnVNUDB6SC1mVE5KcFFWQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-30 12:17",
+   "published_iso": "2026-10-30T03:17:19+00:00"
+  },
+  {
+   "title": "そば難民◇ゴジラ◇のぞみ 中日BIZナビ今週の3本：ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByV3VVZFpfZlIyZ0xVZkdzOWRqeXVWd185WnZMZTJpX0cwM1pfSHV6M0cxRXRudTRSaTBLUmdVaWdFWVdrRFVXaTk4V0VLZ2Q4SDROdFJpRnBpUU90WkFF?oc=5",
+   "source": "中日BIZナビ",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-30 12:00",
+   "published_iso": "2026-10-30T03:00:00+00:00"
+  },
+  {
+   "title": "スペイン列車事故 外国人23人が安否不明 日本人2人と依然連絡取れず",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zM0JvQTF6MzBFNkY2SVZEMEhvTmo2ZFVrbDViQmE5MTk1RkJaUzF5VUhROGFWczJNaEpKVWZzR1dieHhZeVk0WGhtR1BFNElheHVsVXdzYVVHdnQxQVlNNWpqRmdUVXkxLURCd1pNTVM2bElXYWVGQ2h3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-30 11:50",
+   "published_iso": "2026-10-30T02:50:25+00:00"
+  },
+  {
+   "title": "【好機】新潟県が選出 外国人観光客受け入れ拡大へ 米メディアの「2027年に行くべき世界の旅行先25選」《新潟》",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkp5TnVlR2dXeGxOX0cxTk1uVlp3dU4tUDV4bWN4RFVSdGJjMDJRdE51QXpBSVZ1U0p1UHNLdmFvMEN0eUNHZmNBa21zYkNFcHN6VzRsejhUN0k1U3FXREU0cWpKZmJleXRRY2NyZzE0dlA1TkY5WjhkS25YbUNDQzd5VWd1QjVl?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-30 11:45",
+   "published_iso": "2026-10-30T02:45:00+00:00"
+  },
+  {
+   "title": "JPT日本語能力試験が、法務省出入国在留管理庁が定める在留資格「技術・人文知識・国際業務」において、日本語能力を証明する試験として採用",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYRko4Sy0zeXloUGs2WTlaZ1FYUm53MU93NER3SnJkRGFCZzN1REttM3VtVWJzektqSVd1bkhMRzZQS3VpY2dTTTZndjlfaWNCRG1QZ1hQTnNhNzJhbVl4WkEwOWJic2pkdDNr?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-30 11:15",
+   "published_iso": "2026-10-30T02:15:00+00:00"
+  },
+  {
+   "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52TDBGbnQ3cFZyU1h5NUlKYm93RjdNYzZrbGluUFhsQVMyV3JmeWxVajVLRHR0cWFQMXhYSzR2M1N3a09XSGpWWEI0YlRzd1luOThmcEw2MHlmMExJQkhqZlJR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-30 10:20",
+   "published_iso": "2026-10-30T01:20:00+00:00"
+  },
+  {
+   "title": "外国人向け運転免許試験でミス 395人の合否に影響 群馬",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PdU5YZ3luQS1nWFljbWhlVEJXMndJVnZCU2p3RklwQ1JXQ1o4cFdpcFRSSVV5RWVORllPcXJJZW84WDZpTzJHS2xaMVg4V1ZZbDBpSDM2SVNPdTkyY1d5eUx2WGhJODhW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 09:52",
+   "published_iso": "2026-10-30T00:52:12+00:00"
+  },
+  {
+   "title": "長野県で訪日外国人の遭難が急増 6人中1人に 東南アジアからの登山者増加も背景か〈山と人と信州と〉",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTzU0N0JPNzVOVlE3YXRBejJWUHZVSVdjLTRLYWpEakVjMzh4Rm51ZTNoVFp0M0h1TzRrODJjVW0yT0E0LUNJNDRTbU1CRC11dXQwa1lmTVRid1dpUmxKQjd5dGpSY1VnSnBSNGUzeDc?oc=5",
    "source": "信濃毎日新聞デジタル",
    "source_domain": "shinmai.co.jp",
@@ -48,7 +112,7 @@
    "published_iso": "2026-10-29T19:00:00+00:00"
   },
   {
-   "title": "ともに・共生社会へ：視覚や知的 重複 障害ある長男に夢を 「ゆるスポーツ」考案 澤田智洋さん",
+   "title": "ともに・共生社会へ：視覚や知的、重複 障害ある長男に夢を 「ゆるスポーツ」考案 澤田智洋さん",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92MW1jSVgyS2JmR05ZbG9BeTFheTlKTW9HUXVLYS1TS0VSLXhmTVdyQkl5QjZIWWEwNHVub2ZIMTBrNkwyXzRxQzRzUGtjVXNzRFdxTG1Ua2M0UFNJdmh6RzF6cC1HTF9f?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
@@ -56,16 +120,16 @@
    "published_iso": "2026-10-29T17:01:07+00:00"
   },
   {
-   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
+   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
    "published_iso": "2026-10-29T17:01:05+00:00"
   },
   {
-   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
+   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
@@ -144,46 +208,6 @@
    "published_iso": "2026-10-29T08:05:36+00:00"
   },
   {
-   "title": "外国人絶賛!?ダイソー＆ドン・キホーテ【しらべてみたら】",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xTGw2dFpXM3hFU2ZlVWdqUEdncHNKa0RFRml2bEF0a0ExQS1XUU5zZ25tYzRLbVpBaUtRcmlIdjJJNEs2MklEREp6anBEQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-29 17:00",
-   "published_iso": "2026-10-29T08:00:00+00:00"
-  },
-  {
-   "title": "歌で結ぶ日本と母国 外国人らの「ベトナム交流合唱団」 北見合唱祭で初のホール発表 月1回の練習会へ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xWi1CQ0hxX2NCREg2TXhfT0NDbl8wWXV4V1dCZlJOQVBBMGZyZkJDMXZCQkJzYmtTckxuNVNSMEdFRm9aQTZyMHFxWTBmRnNnazVWcTI0c1FvdEhscVh2dUhkNmY?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-29 16:20",
-   "published_iso": "2026-10-29T07:20:15+00:00"
-  },
-  {
-   "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GSVFna2V2WEFjbkZROTlOanZLZ1ZXTzh5M185NS1xOFFfdUtRa2NlLV92eU05MEFJazBzaGJreElheWR2WC1SaTVjYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 15:16",
-   "published_iso": "2026-10-29T06:16:08+00:00"
-  },
-  {
-   "title": "清水町の町名変更 住民投票案を再提案へ 外国人除き投票率50％以上",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMm16WmRMUnFlbUtERWhwNEJ5XzV1ZkxJNDN1MlRBS3MzT3VIZTJkbzJlLVN3U2hjcUk4TWNWemN5UkVySkJ0XzB3SlE0T1NiLThSMDBpanJsZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-29 14:00",
-   "published_iso": "2026-10-29T05:00:00+00:00"
-  },
-  {
-   "title": "送電用ケーブル1.84トン窃盗未遂の疑いでベトナム国籍の男4人逮捕 太陽光発電所を狙う外国人トクリュウか 運搬役の男含め逮捕者計5人に 富山・小矢部市",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PT3ViT09LbTJ1NjVaNFlvOElRbEgtQ3RFdnRUdTQ5RXJpTGQ4MjFMckRKU0txNndVTFVlTkxmT2VXVzB6WFNlQTVJQ1FCbG9xVkVlNG5vSnEyOWE4NXNqQWNZMFBFcnc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-29 13:40",
-   "published_iso": "2026-10-29T04:40:00+00:00"
-  },
-  {
    "title": "捜査官ら4万人超の情報流出 米国土安保省、移民摘発",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Lc3V5TDBzc1ZJTWF4VVQxUjdCN29kZDh3bUFWTWlJQzA0MmJfN0VNQnNfVTUxYVlNb0g0RGY4elVSUHRpbGVBZWc2Zw?oc=5",
    "source": "47NEWS",
@@ -192,12 +216,12 @@
    "published_iso": "2026-10-29T03:38:00+00:00"
   },
   {
-   "title": "サッカーで国際交流 県内で働く外国人ら84人、フェス参加 石巻",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Ym9iY2xZczJ6RkM5bVc1MFN2b19VTnRTZmZ2cWtZcDZhSFc2bkt2WEg5bUpaU3RCR2tkdTN3NmVZX3NHTUN4WkNMVUduMDd5QXJxbjh1RGREY2s?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-10-29 12:00",
-   "published_iso": "2026-10-29T03:00:00+00:00"
+   "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRcVlFRnZvNUVPci1IWXNiQUphblgwbXBtVXFtcmowZmM3NWhvVng1cV8yeDZSeEJBU01sTjBRU1c4aXQ4Q0R2alcwQ1BWWkJwVThBeg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-29 05:05",
+   "published_iso": "2026-10-28T20:05:00+00:00"
   },
   {
    "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
@@ -208,28 +232,12 @@
    "published_iso": "2026-10-28T17:01:30+00:00"
   },
   {
-   "title": "少子化からの反転目指す 人口総合戦略を策定へ 外国人との共生など 方向性を年内提示",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ndFlzTE15SHcxWE50OUY4aUFPdGtGcTF2bVp1SmpnQ1pGXzBhbUNkM0RSa0YteVNqZVpQYmhHRGN3WDZlT1FIcnpKVXFYdzNpOHFLSXMxLTVuX1FnZThFTkJVU1dJdEI1ZTVoUzJnSm1TZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-28 20:35",
-   "published_iso": "2026-10-28T11:35:08+00:00"
-  },
-  {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOR0RrQWZzb3hIZER4OWl6bzQtODdCemxjRDdVQ3NuREp3cnZNN3UtQlU0TVRvX20yenZrVzZkcjZlRC1yT3RHVzJtb24yeC1FQ202X1h1ZGNCT1ZPRUgxclpB?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-28 18:45",
    "published_iso": "2026-10-28T09:45:00+00:00"
-  },
-  {
-   "title": "EUが国境警備を異例の3万人規模へ増強…移民送還やSNS監視の専用センターも新設",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWTTVDNk11SEFqTWYwMmlBdlJYV0RxRzZPZWczRWdsV0lOeDN5T1JYVWhuelNHaWlpRHZpREcyYTgxc2RFUFhYU0pGa3N3VktTd0JN?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-10-28 18:13",
-   "published_iso": "2026-10-28T09:13:50+00:00"
   },
   {
    "title": "虚偽内容で「高度専門職」取得容疑 中国人富裕層向け、報酬７千万円か―会社役員ら３人逮捕・警視庁",
@@ -262,6 +270,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-28 15:56",
    "published_iso": "2026-10-28T06:56:34+00:00"
+  },
+  {
+   "title": "“ウソの申請”で中国籍の女を不正入国させた疑い 会社役員の男ら逮捕 中国人富裕層中心に“移民ビジネス”か",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42VWV6aWJ0aUd4Y0IxTXljWjVNS1VRekliZF9NR19CTl8yTjBMcmQ0RVVTTTFYRTNDLXIxZkFETC00aUVhbVNQaWVJV0tSSm1sOGt0VVphX0RTek1YeGktN2l5d0NsUkxLM19xZi1QZWxMSDRSNUpjalVNQ2w?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-28 15:39",
+   "published_iso": "2026-10-28T06:39:00+00:00"
   },
   {
    "title": "「永住権取れる」7千万円報酬か 中国人を支援、虚偽申請容疑で逮捕 [東京都]",
@@ -320,14 +336,6 @@
    "published_iso": "2026-10-27T15:20:06+00:00"
   },
   {
-   "title": "香川県高松市で外国人と日本人が参加するカラオケ大会がありました",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMkpiRkpOc1g2RXJ4RWZsTjUxazNFaGotWnlLYU9rdVB6emZDUmJHb282ZHBrcjJndmdPVFN6OHB0QU5pWUplbzNyaHZ3TDZwczdnalowX3RYTFI2dHJmbXdDMHREanM?oc=5",
-   "source": "やさしい朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-27 22:20",
-   "published_iso": "2026-10-27T13:20:09+00:00"
-  },
-  {
    "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
    "source": "日本経済新聞",
@@ -358,14 +366,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-27 10:18",
    "published_iso": "2026-10-27T01:18:45+00:00"
-  },
-  {
-   "title": "仏内相、銃撃は「人種差別テロ」 移民標的か、8人死傷",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJa19nZXIzbXd0NlpxbGM0Y2pRQ3FzRU1MRFBmc1NMWFB4emtBWlhSMEV4dG8zckZZWUxTcm13cEJDVTltOTlsX3dkSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-27 09:02",
-   "published_iso": "2026-10-27T00:02:00+00:00"
   },
   {
    "title": "「最大の浮動票」中南米系に共和苦慮 候補、トランプ氏と対立しても「移民摘発行き過ぎ」",
