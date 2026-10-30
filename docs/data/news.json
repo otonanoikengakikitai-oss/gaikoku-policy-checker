@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T20:51:23+00:00",
+ "generated_at": "2026-10-30T00:35:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
+   "title": "長野県で訪日外国人の遭難が急増 東南アジアからの登山者増加が背景か〈山と人と信州と〉",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTzU0N0JPNzVOVlE3YXRBejJWUHZVSVdjLTRLYWpEakVjMzh4Rm51ZTNoVFp0M0h1TzRrODJjVW0yT0E0LUNJNDRTbU1CRC11dXQwa1lmTVRid1dpUmxKQjd5dGpSY1VnSnBSNGUzeDc?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-10-30 06:04",
+   "published_iso": "2026-10-29T21:04:00+00:00"
+  },
+  {
    "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTXI3eGJPWHc1d3UzVnF0eVAyTVV4SlZ5cGdPZDdqbWpGLXlzQklSZ29WZGRJQ25aV2tSR0o3TExmR1RJOFFicE9acFcwdzBheXVHZ2pUNzltdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-30 05:45",
-   "published_iso": "2026-10-29T20:45:30+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJNXlyRlpTYkFnM0RVTEpxYlJQSm9xd3FyM1lMQnVMTTZ6UUdHQy1qM1k0RmlsTXZzaHVTalpZNWctck9nQUU1VHFwaw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-30 05:39",
+   "published_iso": "2026-10-29T20:39:02+00:00"
   },
   {
    "title": "命がけで日本大使館守り―難民に タリバンから逃れたアフガン人 就労支援乏しく自営で屋台",
@@ -48,16 +56,16 @@
    "published_iso": "2026-10-29T17:01:07+00:00"
   },
   {
-   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
+   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
    "published_iso": "2026-10-29T17:01:05+00:00"
   },
   {
-   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
+   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
@@ -150,14 +158,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-29 16:20",
    "published_iso": "2026-10-29T07:20:15+00:00"
-  },
-  {
-   "title": "社説：在留要件厳格化 社会の支え損なわぬか",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZlpuVlNacWkydXhyZmR2VDY3eTZ6QWFVc3AtZlRCcmlSb1V2eDVDYThZekJIeDU5UFpiYTRmRDRRTGNTUU54WThvbW4tdWNQSF8tZjhNOV8?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-10-29 16:00",
-   "published_iso": "2026-10-29T07:00:00+00:00"
   },
   {
    "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
@@ -328,14 +328,6 @@
    "published_iso": "2026-10-27T13:20:09+00:00"
   },
   {
-   "title": "【南山大＆中日新聞コラボ企画】アメリカはなぜ強いのか？ 移民問題からAI、日米安保まで大学生が国際部長に問う",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWQmNRTl9PbEJMTFE0dVRxYnV5SS1OY3dtdDhDbmJZaTZsZ2laRXd1OHNkSkdjN0dHVFpfLWh0akRRREliYnlvTGptbnlXRVZFaURlOQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-27 16:00",
-   "published_iso": "2026-10-27T07:00:00+00:00"
-  },
-  {
    "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
    "source": "日本経済新聞",
@@ -406,6 +398,14 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-26 18:13",
    "published_iso": "2026-10-26T09:13:08+00:00"
+  },
+  {
+   "title": "【UJグループの技術を未来へ】インドネシアから特定技能外国人5名を新たに受け入れ - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aEEyZEpfUzlfV2xmTURweXMzNTJpR0s0NzF6RG4xdmtmXzFOZkoyeHI4LXFsMkM4MkFJSWlLN19SM1BsVjNwYmNtdTB0emZmLWRyMjdyTQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-26 16:55",
+   "published_iso": "2026-10-26T07:55:15+00:00"
   }
  ]
 }
