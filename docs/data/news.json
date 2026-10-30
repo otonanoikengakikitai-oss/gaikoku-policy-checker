@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:58:22+00:00",
+ "generated_at": "2026-10-30T22:53:41+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "割合増えた外国人児童生徒の受け入れ策強化 全体人数減る中 川口市 [埼玉県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oX29XUE10QWRJMlljSW9wdGQ0dFc1VzhhVFQ4MVVvcG1ZLTJtR0Mxd1FDOWlCaUFSNU5wbndDUnBXWGMwejhLTkwyeGgyMUR4V09QQUxEN0p3T1RaVFBaTXVFdmNpU2M?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-31 05:00",
+   "published_iso": "2026-10-30T20:00:00+00:00"
+  },
+  {
+   "title": "災害時に外国人住民らの避難手助けへ、英語・中国語・ベトナム語で情報発信…県が国際交流財団と連携して体制整備「心のよりどころになれば」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdVVlNk84QVoyem5tTDlzVzlFMWRLM0ktaGx4UkhJUEZUcTlzTW5Tb1ZaRXJKZHhjWjJSTGt4UWRDdlRDOWxxR29uUzg5blJJN0hGYkRpS0hsejBhUnpoMXoySnNVSC1kal9JbjVjRTN3dw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-31 05:00",
+   "published_iso": "2026-10-30T20:00:00+00:00"
+  },
   {
    "title": "時速200キロで衝突か スペイン列車 外国人51人 影響",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNklpUUt0eUdZUHR2OVlHcllMQkVYVUE1VzN2R1VGQXFRQm5WYzlieUxpTTlQaHZJRXpxby1DazY3a2lacmNCUGV3dl9kTkY2MGtFWDFqdksyeGN5VmV2bm9zd0EyRUFZ?oc=5",
@@ -22,14 +38,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-31 01:33",
    "published_iso": "2026-10-30T16:33:13+00:00"
-  },
-  {
-   "title": "“難民の経験”など描く短編映画 東京国際映画祭で日本初上映（2026年10月30日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aZzNtRUlZM1JXTXVXRjBEWGlnRnN6OEVHaXNOSjlwTjViZkF2VTN2VllzTk9acElYOFExNGVXR2RLWW1QM2d2NV9LV1U1N3hUb3lISG5TWFNkVDBzQWlpdGcxY1Jkc2phZmRlb0stYU5pYVBZUmNMZXdUM1A?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-10-31 01:26",
-   "published_iso": "2026-10-30T16:26:00+00:00"
   },
   {
    "title": "スペイン列車事故 巻き込まれた外国人51人のうち23人の安否不明",
@@ -70,14 +78,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-10-30 17:43",
    "published_iso": "2026-10-30T08:43:00+00:00"
-  },
-  {
-   "title": "プレスリリース：訪日外国人の『行く・体験する・買う』各接点の課題を可視化｜新サービス「インバウンド・ミステリーゲスト調査」を提供開始（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95V09fYjF0SF9OTWlVUVFGNEo3ajg2ems0ajBEQkFaSHhRVnNBXzlGUXlSSHJlaTlJR3RYNFBFSHFJXzk1bF9nejAxbzFETUphaVd6cVBYbEpmd20xYUJUZEhqdWJLNXdQ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-30 17:23",
-   "published_iso": "2026-10-30T08:23:41+00:00"
   },
   {
    "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
@@ -142,6 +142,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 11:22",
    "published_iso": "2026-10-30T02:22:49+00:00"
+  },
+  {
+   "title": "11月から訪日外国人向けの新たな免税方式 関西空港に端末設置 [大阪府]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fSms1X212WjlEb0pfYmtOb0xfQWR5bTBEWjdNNVZRSXljVlNKdWVBOU5tSTJDVWstdzVBeVFYYjR2c0lYa29YTzVGQnpIcHpCUkJVMnd4SnVpLWs2cExrYUZlM1BoTUk?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-30 10:45",
+   "published_iso": "2026-10-30T01:45:01+00:00"
   },
   {
    "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
@@ -280,12 +288,28 @@
    "published_iso": "2026-10-28T20:05:00+00:00"
   },
   {
+   "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-29 02:01",
+   "published_iso": "2026-10-28T17:01:30+00:00"
+  },
+  {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOR0RrQWZzb3hIZER4OWl6bzQtODdCemxjRDdVQ3NuREp3cnZNN3UtQlU0TVRvX20yenZrVzZkcjZlRC1yT3RHVzJtb24yeC1FQ202X1h1ZGNCT1ZPRUgxclpB?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-28 18:45",
    "published_iso": "2026-10-28T09:45:00+00:00"
+  },
+  {
+   "title": "人手不足の障害者福祉分野で福井県内“第一号” 越前町の施設にミャンマーから特定技能外国人材の女性3人 30日から第一線へ",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGLU0wQS1iZW1iTERWWEQ4RjQ1TVBxTHlLU19oanZaWFZqd3pEUGcwd0QzZWFIczlEN0gwcmo3UFFMcVUyWHl3TlZENFliQQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-28 18:35",
+   "published_iso": "2026-10-28T09:35:00+00:00"
   },
   {
    "title": "虚偽内容で「高度専門職」取得容疑 中国人富裕層向け、報酬７千万円か―会社役員ら３人逮捕・警視庁",
@@ -360,6 +384,14 @@
    "published_iso": "2026-10-27T23:00:00+00:00"
   },
   {
+   "title": "災害時に外国人の力に 箕輪町、辰野町、南箕輪村がサポーター養成講座",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQS1qcElzNkJxMW44MEZxeXlQRzFGWGRDU21tYnhQQmlRWXJOSGo5NWZnY1BUQ3JQNHJMaWwtR3F5Uy1oVVNIZDNhdDJUY3NqTDRxNWVDMU02cHBfVXkxeFlVMA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-28 05:05",
+   "published_iso": "2026-10-27T20:05:00+00:00"
+  },
+  {
    "title": "EU、移民即応部隊の新設案 セウタへの大量流入受け国境管理強化",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
    "source": "日本経済新聞",
@@ -374,38 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-28 00:20",
    "published_iso": "2026-10-27T15:20:06+00:00"
-  },
-  {
-   "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-27 12:47",
-   "published_iso": "2026-10-27T03:47:55+00:00"
-  },
-  {
-   "title": "ロシアが「人身取引」で29カ国の外国人を動員 国連独立委が認定",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0QXE1LTdkZ2hYaGp4ZkJlQ21sZDVzeXJzZnZzY0hiY0p2d2tQbTJITmduMWdkVy1OT3o1d0FRbXNWaHcxQmxGVGo2Y2daeXN2bmh4U2xHeURtRlhnM0JBVFl4UnVNalU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-27 11:45",
-   "published_iso": "2026-10-27T02:45:09+00:00"
-  },
-  {
-   "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-27 11:43",
-   "published_iso": "2026-10-27T02:43:59+00:00"
-  },
-  {
-   "title": "【速報】仏銃撃で追悼集会 移民標的か、8人死傷",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPX1YzTTdwdWt6SzVvN3l6MEhyZXhfTENBZ0V5R3VEMXBBemZwdDZTR3VHRFhtY1RacVBSYnZkMHF3em1KR0gyZzlwcw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-27 10:18",
-   "published_iso": "2026-10-27T01:18:45+00:00"
   }
  ]
 }
