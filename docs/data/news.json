@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:47:01+00:00",
+ "generated_at": "2026-10-30T13:49:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ケイト・ブランシェットが東京国際映画祭に来場 自身が設立した難民基金について「世界的なチャレンジ」",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VUhzc2lQMFpNN3RMNnhKVXQyMVBiakVVd3kxYjZNdndYa0JyN1Z4eUlfZ1BaVHBLUlYzbXYyNmRsRGNGd0lwbV9ncWJlTEFYaHVqR2VndTRwZzNENmZEZVVfdEtfZFZtOVpORVgwZ0c?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-30 19:15",
+   "published_iso": "2026-10-30T10:15:00+00:00"
+  },
+  {
+   "title": "冬山の山岳遭難救助訓練を実施 新潟県警が崖降り手順を確認 昨季は降雪期に52人遭難 外国人遭難者も増加 新潟・妙高市",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51bnFmX1JLcUY0T2N3SGZoQkplZFFRcmJwU184WGkybkZhWFZnV1FvTjBDYUZfcU5Sd1ZjWmEzSVlWd1B6bkQya0VwUGEwUWhRSFR3VGstRQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-30 18:53",
+   "published_iso": "2026-10-30T09:53:00+00:00"
+  },
+  {
+   "title": "ハロウィンは「ハチ公」に会えない…混乱に備えて渋谷区がシートで覆う すき間からのぞく外国人観光客も",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZEYycFY1RTFYMnh2ME9uLWVUeU9zLUlGREp4OGtnZXB2QmRORFJ4dmk2Tm44NzNja0FCTUFrNXRkakJiQTBVaGZaNW5xcnVlcVRF?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-10-30 17:47",
+   "published_iso": "2026-10-30T08:47:58+00:00"
+  },
+  {
+   "title": "プレスリリース：訪日外国人の『行く・体験する・買う』各接点の課題を可視化｜新サービス「インバウンド・ミステリーゲスト調査」を提供開始（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95V09fYjF0SF9OTWlVUVFGNEo3ajg2ems0ajBEQkFaSHhRVnNBXzlGUXlSSHJlaTlJR3RYNFBFSHFJXzk1bF9nejAxbzFETUphaVd6cVBYbEpmd20xYUJUZEhqdWJLNXdQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 17:23",
+   "published_iso": "2026-10-30T08:23:41+00:00"
+  },
+  {
+   "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PUWt3UjJ2V215c294eDRRQlE2SXF5U24tOXBuZnRSVkNBek5QSU9oZ0NBbktSbGpHN2ljR3dFd1ByZWlvUTFReTRGUnY3UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-30 16:17",
+   "published_iso": "2026-10-30T07:17:00+00:00"
+  },
+  {
+   "title": "「日本に来てチャンスが広がった」と思ってほしい 南米系外国人学校長・松本雅美さん",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNnJGNHFoRzV3eXVuUmJ1TUFjX2lod3RrMVhDbjF1OEl1TThKajREbEJuakpoR3ZlakVuQmFnMi1MR1lwWF9RNE1jYXlfS25EQWU0MnFKdGs4WWNVQVJJNm8xZzI?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-30 16:00",
+   "published_iso": "2026-10-30T07:00:00+00:00"
+  },
   {
    "title": "愛媛の魅力体感を Velo-city参加の外国人向けツアー開発へ【愛媛】（2026年10月29日掲載）｜南海放送NEWS NNN",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODlRUUZ4NEV1Z3dIWGFxV2oxWVp3TnFMUW5tNUxEWjBVell1aFZ2Y1dlZXp4MFNGbDhJSkNSUEpjNS1xREFyb05uSnczZXN3Rl9jMVVHNG00YlFQN0otRU9fV0NKcWdxR1RnX2dMNkxVX1plenF4R2l4ZFJ2SWpxQWVrUFNDSFE?oc=5",
@@ -16,12 +64,12 @@
    "published_iso": "2026-10-30T05:27:00+00:00"
   },
   {
-   "title": "歩行者3人が次々襲われけが “刃物所持”で外国人の男逮捕 千葉・松戸市",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oS2xmandTMGszekRROXZDYmM2eWY3VU9rZTE5R1NlR0FFR2FyOGxGZE8zdmh3WlV0bmZhb05BdVdpTzVCekM3NUE4WW85UEkyRmlYSElNNVQ4elpGOU1IRkptZnVNUDB6SC1mVE5KcFFWQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-30 12:17",
-   "published_iso": "2026-10-30T03:17:19+00:00"
+   "title": "“どこに行っても外国人扱い”日本で生まれ育ったスリランカ国籍の若者の葛藤 ルーツに悩む中ヒップホップにであい…「多様さに目を向けて」ラップで伝えるメッセージ | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ETFIyZmxISEJibUZwNHR3amdIeUtPVndEamdlV0lYNC1JN0pYWE9GUUVydEF0enNhWnFjN0VqUG5JZnAxNmRibXpaYUJRNk12bXJOUktFSk9WU0lxM1JLRVhvTFdjYXM?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-30 14:00",
+   "published_iso": "2026-10-30T05:00:00+00:00"
   },
   {
    "title": "そば難民◇ゴジラ◇のぞみ 中日BIZナビ今週の3本：ニュース",
@@ -48,12 +96,12 @@
    "published_iso": "2026-10-30T02:45:00+00:00"
   },
   {
-   "title": "JPT日本語能力試験が、法務省出入国在留管理庁が定める在留資格「技術・人文知識・国際業務」において、日本語能力を証明する試験として採用",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYRko4Sy0zeXloUGs2WTlaZ1FYUm53MU93NER3SnJkRGFCZzN1REttM3VtVWJzektqSVd1bkhMRzZQS3VpY2dTTTZndjlfaWNCRG1QZ1hQTnNhNzJhbVl4WkEwOWJic2pkdDNr?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-30 11:15",
-   "published_iso": "2026-10-30T02:15:00+00:00"
+   "title": "プレスリリース：外国人求職者80名以上が参加！外国人材と日本企業をつなぐ合同説明会 第2回「GLOBAL MEET 2026」開催レポート ～2026年12月17日（木）に第3回の開催決定～（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSTE5XUWdpeFZwbTFjLW9zeHBUNklDcm45ZHVYU3lfTlZ4VGdVRUxpaWh2cjZZLUxpVDFwa1hwQm54UlAzZzVVUTcyZTFiRnEwY0trMDVyWFJnVDJHaF9rbHhPalBiam1a?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 11:22",
+   "published_iso": "2026-10-30T02:22:49+00:00"
   },
   {
    "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
@@ -81,11 +129,11 @@
   },
   {
    "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJNXlyRlpTYkFnM0RVTEpxYlJQSm9xd3FyM1lMQnVMTTZ6UUdHQy1qM1k0RmlsTXZzaHVTalpZNWctck9nQUU1VHFwaw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-30 05:39",
-   "published_iso": "2026-10-29T20:39:02+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNUgwNFozZnNSVzViVl92UF9GMVBoeU14OHF4Vjc5UnRLa0FJOEZ4Z084UW5feXNoR3dlYkJMQWdiVy1QZ1MwUFExRFhZbWJ1VFhBUg?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-10-30 05:38",
+   "published_iso": "2026-10-29T20:38:24+00:00"
   },
   {
    "title": "命がけで日本大使館守り―難民に タリバンから逃れたアフガン人 就労支援乏しく自営で屋台",
@@ -224,14 +272,6 @@
    "published_iso": "2026-10-28T20:05:00+00:00"
   },
   {
-   "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-29 02:01",
-   "published_iso": "2026-10-28T17:01:30+00:00"
-  },
-  {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOR0RrQWZzb3hIZER4OWl6bzQtODdCemxjRDdVQ3NuREp3cnZNN3UtQlU0TVRvX20yenZrVzZkcjZlRC1yT3RHVzJtb24yeC1FQ202X1h1ZGNCT1ZPRUgxclpB?oc=5",
    "source": "読売新聞",
@@ -366,46 +406,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-27 10:18",
    "published_iso": "2026-10-27T01:18:45+00:00"
-  },
-  {
-   "title": "「最大の浮動票」中南米系に共和苦慮 候補、トランプ氏と対立しても「移民摘発行き過ぎ」",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xQ012LVViSlQyYkM1ZVA2aDhoR2FwZkxfdlNCdG5QalJ2NUtRNnE5V2xleVZYRnpxVlFkMndrc1VuZzIxZTFNUmNELS1ZckJpZkphSTQ4SEVSYnF4Mi1VX3JfaUFXeENTb2VZei14RzBzMGtHenc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-10-27 08:30",
-   "published_iso": "2026-10-26T23:30:00+00:00"
-  },
-  {
-   "title": "フランス大規模デモ、大統領選で右派政党率いるルペン氏の追い風に…治安対策や移民問題が争点に急浮上",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81aUgxelpGMzhVU0d0RkJoUTl2MC1aYm56NXBfMm1Gd1BpLTdsaXBkQzl3NnAxei1vSFVfVTVpaUJfZm9zY0FhcFJJNjhIM2wxOWIyWEY5SjdwR3NwaVpjb2NR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-27 05:00",
-   "published_iso": "2026-10-26T20:00:00+00:00"
-  },
-  {
-   "title": "「緊張した」 県内初！特定技能１号の外国人路線バス運転士がデビュー 大勢の観光客が行きかう河口湖駅を出発！ 山梨",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZ0RNQW5CVTBlVHphQjlhaTNtVmU3ZnFNdUNmYlQ1Tkl5ZDhhdEEtbGRwT3libVM1amFLel9QUS0wNjJsbHBBTFhobkhvYkl0YXc5V1pBcGxxUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-26 20:36",
-   "published_iso": "2026-10-26T11:36:00+00:00"
-  },
-  {
-   "title": "山下法相、特定技能「総量は変えない」 外食業分野の受け入れ巡り",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqZzhQcTRTQzQ4MHJMZUVWTTdkd2dTMC1pamJ3MXRzaGc1VVlPT09wSUhnQTQ0bnJDR3lqN0c1MU5PVXNJQUFHcWNma0w4NG1WSVpNM2V3aGc1aXpuQXkzSkpnWTFoSldxNHNVNQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-26 18:13",
-   "published_iso": "2026-10-26T09:13:08+00:00"
-  },
-  {
-   "title": "【UJグループの技術を未来へ】インドネシアから特定技能外国人5名を新たに受け入れ - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aEEyZEpfUzlfV2xmTURweXMzNTJpR0s0NzF6RG4xdmtmXzFOZkoyeHI4LXFsMkM4MkFJSWlLN19SM1BsVjNwYmNtdTB0emZmLWRyMjdyTQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-26 16:55",
-   "published_iso": "2026-10-26T07:55:15+00:00"
   }
  ]
 }
