@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T13:49:39+00:00",
+ "generated_at": "2026-10-30T18:58:22+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,38 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "時速200キロで衝突か スペイン列車 外国人51人 影響",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNklpUUt0eUdZUHR2OVlHcllMQkVYVUE1VzN2R1VGQXFRQm5WYzlieUxpTTlQaHZJRXpxby1DazY3a2lacmNCUGV3dl9kTkY2MGtFWDFqdksyeGN5VmV2bm9zd0EyRUFZ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-31 02:01",
+   "published_iso": "2026-10-30T17:01:49+00:00"
+  },
+  {
+   "title": "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZTZZVjlDQk1tS1YwNlcybVB6YlliOEV3NmFWbmg4b3dyWU9XUkp4Y05VdDhQQ2JaamVwbEQzSURHU2RWcWc5eDNNS2Myd2Vzc05SeTJ4STBoZTg4QTQ0ZFVJVTEtWEJ1eUNnSQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-31 01:33",
+   "published_iso": "2026-10-30T16:33:13+00:00"
+  },
+  {
+   "title": "“難民の経験”など描く短編映画 東京国際映画祭で日本初上映（2026年10月30日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aZzNtRUlZM1JXTXVXRjBEWGlnRnN6OEVHaXNOSjlwTjViZkF2VTN2VllzTk9acElYOFExNGVXR2RLWW1QM2d2NV9LV1U1N3hUb3lISG5TWFNkVDBzQWlpdGcxY1Jkc2phZmRlb0stYU5pYVBZUmNMZXdUM1A?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-31 01:26",
+   "published_iso": "2026-10-30T16:26:00+00:00"
+  },
+  {
+   "title": "スペイン列車事故 巻き込まれた外国人51人のうち23人の安否不明",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WNlh6emZHekJ2aVF0VnJscGwxdGFFREM2OUtOOHYtalZzUWpzWnNCX3p2U0x0SzJlNzB4RDRtX1JmYjVPcjA4VV9hWWJrZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-31 00:30",
+   "published_iso": "2026-10-30T15:30:00+00:00"
+  },
   {
    "title": "ケイト・ブランシェットが東京国際映画祭に来場 自身が設立した難民基金について「世界的なチャレンジ」",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VUhzc2lQMFpNN3RMNnhKVXQyMVBiakVVd3kxYjZNdndYa0JyN1Z4eUlfZ1BaVHBLUlYzbXYyNmRsRGNGd0lwbV9ncWJlTEFYaHVqR2VndTRwZzNENmZEZVVfdEtfZFZtOVpORVgwZ0c?oc=5",
@@ -32,6 +64,14 @@
    "published_iso": "2026-10-30T08:47:58+00:00"
   },
   {
+   "title": "【広島サンダーズ】明日から地元開幕戦 カギを握る新外国人選手との連携 日本人アタッカーの決定力も！",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUlBxR2dmRlNhRFBJV3N2ZzRyTzNKalhWUGFGdWp3S3JiT3hTU1Z4R213dTU5OGI1d1c3SHFtOFFGUmZTTWpwcWxUSmdzUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-30 17:43",
+   "published_iso": "2026-10-30T08:43:00+00:00"
+  },
+  {
    "title": "プレスリリース：訪日外国人の『行く・体験する・買う』各接点の課題を可視化｜新サービス「インバウンド・ミステリーゲスト調査」を提供開始（PR TIMES）",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95V09fYjF0SF9OTWlVUVFGNEo3ajg2ems0ajBEQkFaSHhRVnNBXzlGUXlSSHJlaTlJR3RYNFBFSHFJXzk1bF9nejAxbzFETUphaVd6cVBYbEpmd20xYUJUZEhqdWJLNXdQ?oc=5",
    "source": "毎日新聞",
@@ -49,7 +89,7 @@
   },
   {
    "title": "「日本に来てチャンスが広がった」と思ってほしい 南米系外国人学校長・松本雅美さん",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kNnJGNHFoRzV3eXVuUmJ1TUFjX2lod3RrMVhDbjF1OEl1TThKajREbEJuakpoR3ZlakVuQmFnMi1MR1lwWF9RNE1jYXlfS25EQWU0MnFKdGs4WWNVQVJJNm8xZzI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UMUFpaXdrY3ZxOEdXOGNpdy1EVEZiZ2l1cjMtNXA2N0UybTkyekxUUzZfaU82SkhyckJPbnZsdU9HWmhRZmROV2FkeWlQZTV5ODFfYQ?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-10-30 16:00",
@@ -120,16 +160,8 @@
    "published_iso": "2026-10-30T00:52:12+00:00"
   },
   {
-   "title": "長野県で訪日外国人の遭難が急増 6人中1人に 東南アジアからの登山者増加も背景か〈山と人と信州と〉",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kTzU0N0JPNzVOVlE3YXRBejJWUHZVSVdjLTRLYWpEakVjMzh4Rm51ZTNoVFp0M0h1TzRrODJjVW0yT0E0LUNJNDRTbU1CRC11dXQwa1lmTVRid1dpUmxKQjd5dGpSY1VnSnBSNGUzeDc?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-10-30 06:04",
-   "published_iso": "2026-10-29T21:04:00+00:00"
-  },
-  {
    "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CNUgwNFozZnNSVzViVl92UF9GMVBoeU14OHF4Vjc5UnRLa0FJOEZ4Z084UW5feXNoR3dlYkJMQWdiVy1QZ1MwUFExRFhZbWJ1VFhBUg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMzhpaWtfUFF4TWZYa1p1dnJBbHhzb0dJOEp3aUZxNEhNUzFHNGhTeWNqUTB1QmFodzJPRWJJNU9tYXVWV3BBYUsySmhVcGtLRkVTakZR?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-10-30 05:38",
@@ -142,22 +174,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-30 05:00",
    "published_iso": "2026-10-29T20:00:00+00:00"
-  },
-  {
-   "title": "外国人の労働者 受け入れ支援を 地区労連、市に要請",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IR20xUklhUi0xekJNNW1KZTY1Q1plYVF3UUlEdGZCZ01xS3FINlNBakZjLXBuak9ycUhhUldLR0I1aDBhbzJ1bTNaWEZKYUNUWnNieHJyNHh1UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-30 04:00",
-   "published_iso": "2026-10-29T19:00:00+00:00"
-  },
-  {
-   "title": "移民捜査官ら4．1万人流出 米国土安保省 ハッカー侵入報道",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uYUhBLWtZVDBROFJ3YVZhTkM0cWRjaHI2bS1sMzg4Q1k0TWxOdFgweUs4aENvRm1qX1VfWWZNa1R6VENLUWFfY3Q3ZXlqQmtLNVA2MjlwZUJzdw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-30 04:00",
-   "published_iso": "2026-10-29T19:00:00+00:00"
   },
   {
    "title": "ともに・共生社会へ：視覚や知的、重複 障害ある長男に夢を 「ゆるスポーツ」考案 澤田智洋さん",
@@ -214,14 +230,6 @@
    "source_domain": "nhk.or.jp",
    "published": "2026-10-29 19:18",
    "published_iso": "2026-10-29T10:18:39+00:00"
-  },
-  {
-   "title": "操業中の底引き網漁船から、外国人作業員1人が海中に転落…行方不明に 巡視船による捜索続く 島根県松江市沖",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RN2tYZjVMbG5SRzU2UHYtRkw2M1dHcTllcjBOTTRvR3U5WmdhSXdQazlnV0hxQm9fQmFXT2RSMWsza0Q3Q25GdjhCQmt1OWxjTzJOekhKSml5YWxib0RBOTRwU19ncVk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-29 19:18",
-   "published_iso": "2026-10-29T10:18:00+00:00"
   },
   {
    "title": "宇都宮大学、ジェトロと協定へ 外国人材の栃木県内定着や起業を支援",
@@ -350,14 +358,6 @@
    "source_domain": "asahi.com",
    "published": "2026-10-28 08:00",
    "published_iso": "2026-10-27T23:00:00+00:00"
-  },
-  {
-   "title": "災害時に外国人の力に 箕輪町、辰野町、南箕輪村がサポーター養成講座",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQS1qcElzNkJxMW44MEZxeXlQRzFGWGRDU21tYnhQQmlRWXJOSGo5NWZnY1BUQ3JQNHJMaWwtR3F5Uy1oVVNIZDNhdDJUY3NqTDRxNWVDMU02cHBfVXkxeFlVMA?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-28 05:05",
-   "published_iso": "2026-10-27T20:05:00+00:00"
   },
   {
    "title": "EU、移民即応部隊の新設案 セウタへの大量流入受け国境管理強化",
