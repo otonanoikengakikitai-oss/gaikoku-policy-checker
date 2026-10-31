@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:00:14+00:00",
+ "generated_at": "2026-10-31T19:42:09+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "＜一から十勝＞「ほくたぶんネット」活動2年目 外国人支援 広域で連携",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTGJ3NHF6eWk3QWpyR1d4U0VfOWhObXJhVkc5WlNUSWF2MFJsZ3R2LUxMYTYzdHF5Y1hITkZmQ3pLejJxQk9RXzhCeEo2S0dLcm5OM3NDYXk0dw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-01 04:00",
+   "published_iso": "2026-10-31T19:00:00+00:00"
+  },
   {
    "title": "服届け世界中の難民の子の力に 春日井市・勝川小学校の児童、市内3カ所に回収箱設置",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JcnhOSkNEUXF0dFdveU90NEN3dWRJRnduaGFqcW03R29NZWVzaWl6Zjc2X211RTNUTDVqOXVsM3JCRlo3WGdXclZmUQ?oc=5",
@@ -46,6 +54,22 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-10-31 07:51",
    "published_iso": "2026-10-30T22:51:08+00:00"
+  },
+  {
+   "title": "積雪遅くなる道内…冬ダイヤ改正時期を変更 外国人観光客増える滝野方面は直行便新設 北海道中央バス",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckxPU2cxUWxKVGE0bVRNYlYybEtxZ1RFdHdzUmY5a0YwX2ZGMEU1blNLRnZwOUFIM1RKR2pXWmVEamxTZ0lNeG8xUTU4dWVkMTNCbk5XUnEteVBEUzFPR0V1U3FBVFUzM2o1eDdBTTFiQmNVNGFhZ1V0bFllUUpEUk5rdGtmeHc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-31 07:38",
+   "published_iso": "2026-10-30T22:38:00+00:00"
+  },
+  {
+   "title": "「ルポ 大阪・生野」書評 日本社会を映す多文化共生の場",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GY1NaTEV4dG5pVUNHODJQTnVHdGFva3FsZEs1S3hoLXN2OTRMeGM4aEFPWk5Dclc2a3ZFc0w2bzFUdm9ZT0YwbmFtMk0xUUFV?oc=5",
+   "source": "好書好日",
+   "source_domain": "asahi.com",
+   "published": "2026-10-31 07:02",
+   "published_iso": "2026-10-30T22:02:58+00:00"
   },
   {
    "title": "割合増えた外国人児童生徒の受け入れ策強化 全体人数減る中 川口市 [埼玉県]",
@@ -128,14 +152,6 @@
    "published_iso": "2026-10-30T05:27:00+00:00"
   },
   {
-   "title": "そば難民◇ゴジラ◇のぞみ 中日BIZナビ今週の3本：ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByV3VVZFpfZlIyZ0xVZkdzOWRqeXVWd185WnZMZTJpX0cwM1pfSHV6M0cxRXRudTRSaTBLUmdVaWdFWVdrRFVXaTk4V0VLZ2Q4SDROdFJpRnBpUU90WkFF?oc=5",
-   "source": "中日BIZナビ",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-30 12:00",
-   "published_iso": "2026-10-30T03:00:00+00:00"
-  },
-  {
    "title": "スペイン列車事故 外国人23人が安否不明 日本人2人と依然連絡取れず",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zM0JvQTF6MzBFNkY2SVZEMEhvTmo2ZFVrbDViQmE5MTk1RkJaUzF5VUhROGFWczJNaEpKVWZzR1dieHhZeVk0WGhtR1BFNElheHVsVXdzYVVHdnQxQVlNNWpqRmdUVXkxLURCd1pNTVM2bElXYWVGQ2h3?oc=5",
    "source": "テレ朝NEWS",
@@ -176,20 +192,20 @@
    "published_iso": "2026-10-30T00:52:12+00:00"
   },
   {
-   "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMzhpaWtfUFF4TWZYa1p1dnJBbHhzb0dJOEp3aUZxNEhNUzFHNGhTeWNqUTB1QmFodzJPRWJJNU9tYXVWV3BBYUsySmhVcGtLRkVTakZR?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-10-30 05:38",
-   "published_iso": "2026-10-29T20:38:24+00:00"
+   "title": "命がけで日本大使館守り―難民に タリバンから逃れたアフガン人 就労支援乏しく自営で屋台",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52d21oN2NmM3hObnYycUdGQ1lSMUNRZElIYk96N0N0TUlXclhJODFnZ3M1a0RmeFhMSzctYk81eG1hSkdqaVBEb3JFbDZWWEhFY2FDWDZ6YS1xM3lK?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-30 05:00",
+   "published_iso": "2026-10-29T20:00:00+00:00"
   },
   {
-   "title": "ともに・共生社会へ：視覚や知的、重複 障害ある長男に夢を 「ゆるスポーツ」考案 澤田智洋さん",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92MW1jSVgyS2JmR05ZbG9BeTFheTlKTW9HUXVLYS1TS0VSLXhmTVdyQkl5QjZIWWEwNHVub2ZIMTBrNkwyXzRxQzRzUGtjVXNzRFdxTG1Ua2M0UFNJdmh6RzF6cC1HTF9f?oc=5",
+   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
-   "published_iso": "2026-10-29T17:01:07+00:00"
+   "published_iso": "2026-10-29T17:01:05+00:00"
   },
   {
    "title": "外国人観光客を対象とした新たな免税制度「リファンド方式」が11月から運用開始 仙台空港で導入準備が進む",
@@ -240,14 +256,6 @@
    "published_iso": "2026-10-29T08:05:36+00:00"
   },
   {
-   "title": "捜査官ら4万人超の情報流出 米国土安保省、移民摘発",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Lc3V5TDBzc1ZJTWF4VVQxUjdCN29kZDh3bUFWTWlJQzA0MmJfN0VNQnNfVTUxYVlNb0g0RGY4elVSUHRpbGVBZWc2Zw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 12:38",
-   "published_iso": "2026-10-29T03:38:00+00:00"
-  },
-  {
    "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
    "source": "毎日新聞",
@@ -270,14 +278,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-10-28 18:35",
    "published_iso": "2026-10-28T09:35:00+00:00"
-  },
-  {
-   "title": "虚偽内容で「高度専門職」取得容疑 中国人富裕層向け、報酬７千万円か―会社役員ら３人逮捕・警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HUDdUVEE2UFVqTlk2S19QZ0FQVzhHR1Y5VVMxQzNxY0NoYnZILXNtZ3F4MVpGeGk0X0FReWt3UF9IWmpZcXVvblAxak5zSV9sUFN1dWkwSGsyRmg1WGdycjd4UQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-28 17:30",
-   "published_iso": "2026-10-28T08:30:00+00:00"
   },
   {
    "title": "ミャンマーに送還した難民の状況、マレーシアが説明要求…戦闘続く中「軍が４００人以上拘留」報道で",
@@ -360,6 +360,14 @@
    "published_iso": "2026-10-27T15:20:06+00:00"
   },
   {
+   "title": "ロシアが「人身取引」で29カ国の外国人を動員 国連独立委が認定",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0QXE1LTdkZ2hYaGp4ZkJlQ21sZDVzeXJzZnZzY0hiY0p2d2tQbTJITmduMWdkVy1OT3o1d0FRbXNWaHcxQmxGVGo2Y2daeXN2bmh4U2xHeURtRlhnM0JBVFl4UnVNalU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-27 11:45",
+   "published_iso": "2026-10-27T02:45:09+00:00"
+  },
+  {
    "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
    "source": "テレ朝NEWS",
@@ -398,14 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-26 07:00",
    "published_iso": "2026-10-25T22:00:00+00:00"
-  },
-  {
-   "title": "竹中工務店、「特定技能」外国人をリーダーに 技能・指導力を表彰",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTlppQkM0N0NSakt2VFRRWkhhWU1pc3V6aDFJTkJyb2ZNM1U1dHpuRjF4a0xRa0hhd2VuWTA2WURQdk9JdVZSNHh5NWh0WDJuWkNvWDVFYWs5LTRUanFLcklyRTctZW9aeXlOTQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-25 05:00",
-   "published_iso": "2026-10-24T20:00:00+00:00"
   }
  ]
 }
