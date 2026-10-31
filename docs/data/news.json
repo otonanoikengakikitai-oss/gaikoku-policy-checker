@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:59:37+00:00",
+ "generated_at": "2026-10-31T08:19:26+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
-   "title": "イスラム系住民による児童見守りに「誹謗中傷」やまず 「『お前たちには関係ない』は悲しい」 地域社会は「外国人差別」にどう立ち向かうのか",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sZVBtV0ZUNFhUZmltbTN5a0xLSEp4dUVDaU9uenU0dk9qeWtkZV82SHk1VF8ySDF0d2FVVmVGcWQ4YXJmLXZubENRa1ZqS1Ru?oc=5",
-   "source": "AERA DIGITAL",
+   "title": "クルーズ船の外国人客が縄文体験 道教大函館校生が初企画",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QNS1tTFVpc3dDRFFzM0FyRV9lVVIxMmxacnhWYVJpeGRQejJvcUcwdlhmd2JmUFZ4TDVsQkxqU24yZmswSXhmeXJURllaaWVuSFhWVkY2aHRhUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-10-31 12:42",
+   "published_iso": "2026-10-31T03:42:17+00:00"
+  },
+  {
+   "title": "「移民者ラッパー」で消費されたくない 名前を捨て選んだ次の一歩 [大阪府]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ek4zV1B3NUJOeWE3NlZzRzA1V0FfS2VZd1NXaTVGMVZscV9zRUh6YjNlT0lZWjdyN29LRUVyMG9mNmVhNUgtRldNQjBDbUtKcS1SdWUzMENvNVZ0dW5ySHFGNTFNTG8?oc=5",
+   "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-10-31 10:00",
-   "published_iso": "2026-10-31T01:00:00+00:00"
+   "published": "2026-10-31 11:00",
+   "published_iso": "2026-10-31T02:00:00+00:00"
   },
   {
    "title": "積雪遅くなる道内…冬ダイヤ改正時期を変更 外国人観光客増える滝野方面は直行便新設 北海道中央バス",
@@ -32,7 +40,7 @@
    "published_iso": "2026-10-30T20:00:00+00:00"
   },
   {
-   "title": "時速200キロで衝突か スペイン列車 外国人51人 影響",
+   "title": "時速200キロで衝突か スペイン列車 外国人51人、影響",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SNklpUUt0eUdZUHR2OVlHcllMQkVYVUE1VzN2R1VGQXFRQm5WYzlieUxpTTlQaHZJRXpxby1DazY3a2lacmNCUGV3dl9kTkY2MGtFWDFqdksyeGN5VmV2bm9zd0EyRUFZ?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
@@ -64,6 +72,14 @@
    "published_iso": "2026-10-30T10:15:00+00:00"
   },
   {
+   "title": "【ミャンマー人虐待問題】暴行疑惑の町議に直接取材も無言 初出席した団体交渉は平行線 虐待を訴える外国人労働者は謝罪受け入れ拒否「やったことを認めて」 | 北海道のニュース｜HBC北海道放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02RXFTMTJxUEMzZzY0d2doSWZNeDNlUDRHUXRVYXJUZ0NYdFhvbWw0czlnRkdqZVNWWWNuYUowdVd2c2M1V2E5cGtSajA4S1Q0OTVFTFJsMDNfUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-10-30 19:00",
+   "published_iso": "2026-10-30T10:00:00+00:00"
+  },
+  {
    "title": "冬山の山岳遭難救助訓練を実施 新潟県警が崖降り手順を確認 昨季は降雪期に52人遭難 外国人遭難者も増加 新潟・妙高市",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51bnFmX1JLcUY0T2N3SGZoQkplZFFRcmJwU184WGkybkZhWFZnV1FvTjBDYUZfcU5Sd1ZjWmEzSVlWd1B6bkQya0VwUGEwUWhRSFR3VGstRQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -80,28 +96,12 @@
    "published_iso": "2026-10-30T08:47:58+00:00"
   },
   {
-   "title": "【広島サンダーズ】明日から地元開幕戦 カギを握る新外国人選手との連携 日本人アタッカーの決定力も！",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqUlBxR2dmRlNhRFBJV3N2ZzRyTzNKalhWUGFGdWp3S3JiT3hTU1Z4R213dTU5OGI1d1c3SHFtOFFGUmZTTWpwcWxUSmdzUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-10-30 17:43",
-   "published_iso": "2026-10-30T08:43:00+00:00"
-  },
-  {
    "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PUWt3UjJ2V215c294eDRRQlE2SXF5U24tOXBuZnRSVkNBek5QSU9oZ0NBbktSbGpHN2ljR3dFd1ByZWlvUTFReTRGUnY3UQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-10-30 16:17",
    "published_iso": "2026-10-30T07:17:00+00:00"
-  },
-  {
-   "title": "「日本に来てチャンスが広がった」と思ってほしい 南米系外国人学校長・松本雅美さん",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UMUFpaXdrY3ZxOEdXOGNpdy1EVEZiZ2l1cjMtNXA2N0UybTkyekxUUzZfaU82SkhyckJPbnZsdU9HWmhRZmROV2FkeWlQZTV5ODFfYQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-30 16:00",
-   "published_iso": "2026-10-30T07:00:00+00:00"
   },
   {
    "title": "愛媛の魅力体感を Velo-city参加の外国人向けツアー開発へ【愛媛】（2026年10月29日掲載）｜南海放送NEWS NNN",
@@ -134,14 +134,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-10-30 11:45",
    "published_iso": "2026-10-30T02:45:00+00:00"
-  },
-  {
-   "title": "プレスリリース：外国人求職者80名以上が参加！外国人材と日本企業をつなぐ合同説明会 第2回「GLOBAL MEET 2026」開催レポート ～2026年12月17日（木）に第3回の開催決定～（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSTE5XUWdpeFZwbTFjLW9zeHBUNklDcm45ZHVYU3lfTlZ4VGdVRUxpaWh2cjZZLUxpVDFwa1hwQm54UlAzZzVVUTcyZTFiRnEwY0trMDVyWFJnVDJHaF9rbHhPalBiam1a?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-30 11:22",
-   "published_iso": "2026-10-30T02:22:49+00:00"
   },
   {
    "title": "11月から訪日外国人向けの新たな免税方式 関西空港に端末設置 [大阪府]",
@@ -190,30 +182,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-30 02:01",
    "published_iso": "2026-10-29T17:01:07+00:00"
-  },
-  {
-   "title": "ともに・共生社会へ：インフォメーション アエナ 余剰在庫を低価格で",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85TmhVTWZuLTM3eWxWWGdVcGhoMU5fRTZCbC1jcktXR0VaX2NhQjVhUVZxWGpQdm4xdnN0bUIwUGRHbjRVcVpDb2wxbzFxdUxKVmZRTlFCbHVDNTVJLXA1OHZWdVctYUY3?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-30 02:01",
-   "published_iso": "2026-10-29T17:01:05+00:00"
-  },
-  {
-   "title": "ともに・共生社会へ：注目の取り組み セブン銀行 熊本被災地に移動ATM",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUUXlxdFI0ZU4zZmgzY3laWVUtaFlPUTFWYzFENnU3V2t4dTR1OVU5ck9WX0tEWjQtMTVQbUFVelc3SjdIMGstNjA0bm1xUzFxM09GdVRVQU03c1RkeTJXWl9qWXdjakZB?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-30 02:01",
-   "published_iso": "2026-10-29T17:01:05+00:00"
-  },
-  {
-   "title": "＜多文化共生の現場から＞ステレオタイプを越えて",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmNkJLNVBBekFJZWpoSi1OMXdnSVRLVHY5d1poclczNDduTm52eU1Xc1REU3JOMVM3SF9Bc0FwbXBVRUd6aGhRTUJ6MA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 23:15",
-   "published_iso": "2026-10-29T14:15:41+00:00"
   },
   {
    "title": "外国人観光客を対象とした新たな免税制度「リファンド方式」が11月から運用開始 仙台空港で導入準備が進む",
@@ -270,22 +238,6 @@
    "source_domain": "47news.jp",
    "published": "2026-10-29 12:38",
    "published_iso": "2026-10-29T03:38:00+00:00"
-  },
-  {
-   "title": "ハロウィーン衣装でボッチャやダンス 紀北町で在住外国人と住民が交流",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRcVlFRnZvNUVPci1IWXNiQUphblgwbXBtVXFtcmowZmM3NWhvVng1cV8yeDZSeEJBU01sTjBRU1c4aXQ4Q0R2alcwQ1BWWkJwVThBeg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-10-29 05:05",
-   "published_iso": "2026-10-28T20:05:00+00:00"
-  },
-  {
-   "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-29 02:01",
-   "published_iso": "2026-10-28T17:01:30+00:00"
   },
   {
    "title": "ＥＵ、不法移民の大量流入に備え「即応部隊」新設へ…２４時間以内に出動・総人員は３万人に増強目指す",
@@ -384,14 +336,6 @@
    "published_iso": "2026-10-27T20:05:00+00:00"
   },
   {
-   "title": "EU、移民即応部隊の新設案 セウタへの大量流入受け国境管理強化",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WmFkSHBSQWNWUEcxQkRHWFBHX2RFS2tnbEdEOTZ6RTRwdE5VZmZ6NUlXRE1sZFQwY0pBcjRESVVFMGRXT0x1TUlmX2FMWkhhUG96SEJ1bXZ4UGpRcS02R3FTYjJRT3ZvYk04Uw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-28 03:25",
-   "published_iso": "2026-10-27T18:25:07+00:00"
-  },
-  {
    "title": "偽求人でロシアへ…29カ国の外国人をだまし戦闘に動員か 国連「人身取引」と非難",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6d21sWk1ZbC1heFEwVE56dlU5VjFBM3JtbXlsZk92NUtQZ3JreVp6eFhsQUxuZFFuY3I0c2pnQzZTdUY2Rjl0M2VienJvWlZJWlFNZVhhcF9IR1EzZ0c2WnVOMjNTd1N0TEZYM1pPbVNvX18xbjZySmp3?oc=5",
    "source": "テレ朝NEWS",
@@ -406,6 +350,62 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-27 12:47",
    "published_iso": "2026-10-27T03:47:55+00:00"
+  },
+  {
+   "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-10-27 11:43",
+   "published_iso": "2026-10-27T02:43:59+00:00"
+  },
+  {
+   "title": "仏内相、銃撃は「人種差別テロ」 移民標的か、8人死傷",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJa19nZXIzbXd0NlpxbGM0Y2pRQ3FzRU1MRFBmc1NMWFB4emtBWlhSMEV4dG8zckZZWUxTcm13cEJDVTltOTlsX3dkSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-10-27 09:02",
+   "published_iso": "2026-10-27T00:02:00+00:00"
+  },
+  {
+   "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-26 08:55",
+   "published_iso": "2026-10-25T23:55:00+00:00"
+  },
+  {
+   "title": "米中間選挙2026,トランプ政権：不法移民は減ったのに…トランプ氏の「公約」で弱った米国の足腰",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BNUJiSjNBLTF2dEV1TG8tbVJfbDBsaEd1UHkzM1lCbXhIUEFwZzU2dll3LVZ2VnZ2MVRacmtWQU4yYlM0YTdsRnZwYnRmTmVZQllUNkdCVkt0d2xodTBVVEM5MmRqeDBF?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-26 07:00",
+   "published_iso": "2026-10-25T22:00:00+00:00"
+  },
+  {
+   "title": "不法就労の外国人から押収したスマホやＰＣ、「電子鑑識」で解析へ…雇用主らの摘発強化で入管庁",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Y29KUTlMSFNPWVJUYXhHZGUxZzR6TkMwamNkb1FHaklLYUE4R19DMDlOd19keEZMa1R6ZW8yaHo4UGtScDN1U2E2VUJNMlVjRHFsTS1ib1hRNjBqajl4WU1USkRlQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-10-24 15:00",
+   "published_iso": "2026-10-24T06:00:00+00:00"
+  },
+  {
+   "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2d3FOMGJVNVhKR0cyVF93bk9jQ0hBYUtzcXVVQjlKQkZMVWpXN1JfWUh6ZGU1bk9NUFhMejZaNlltaWJ0eXBiak9yX2FVTFpqN0J1bUJibFpGaFNDM3ctOHk3OA?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-24 14:33",
+   "published_iso": "2026-10-24T05:33:00+00:00"
+  },
+  {
+   "title": "育成就労、日本語教員確保に遅れ 「候補も未定」が36%",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZnFUOFVqcGE1dzdYaUpXcUFlZUZzUXlEZ05wQ1Y0eUhzVkVudURRMWNsWlV6X1FoRnUzd0ljRDlza2tyU1VZMjRUTDhLcVBIcnJVSVlKWGdRQnA2Y09EbWV3R3pOOHFxaTA1bw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-23 15:54",
+   "published_iso": "2026-10-23T06:54:20+00:00"
   }
  ]
 }
