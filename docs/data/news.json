@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:53:41+00:00",
+ "generated_at": "2026-10-31T01:59:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,18 +8,26 @@
  ],
  "items": [
   {
+   "title": "イスラム系住民による児童見守りに「誹謗中傷」やまず 「『お前たちには関係ない』は悲しい」 地域社会は「外国人差別」にどう立ち向かうのか",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sZVBtV0ZUNFhUZmltbTN5a0xLSEp4dUVDaU9uenU0dk9qeWtkZV82SHk1VF8ySDF0d2FVVmVGcWQ4YXJmLXZubENRa1ZqS1Ru?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-10-31 10:00",
+   "published_iso": "2026-10-31T01:00:00+00:00"
+  },
+  {
+   "title": "積雪遅くなる道内…冬ダイヤ改正時期を変更 外国人観光客増える滝野方面は直行便新設 北海道中央バス",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckxPU2cxUWxKVGE0bVRNYlYybEtxZ1RFdHdzUmY5a0YwX2ZGMEU1blNLRnZwOUFIM1RKR2pXWmVEamxTZ0lNeG8xUTU4dWVkMTNCbk5XUnEteVBEUzFPR0V1U3FBVFUzM2o1eDdBTTFiQmNVNGFhZ1V0bFllUUpEUk5rdGtmeHc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-31 07:38",
+   "published_iso": "2026-10-30T22:38:00+00:00"
+  },
+  {
    "title": "割合増えた外国人児童生徒の受け入れ策強化 全体人数減る中 川口市 [埼玉県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oX29XUE10QWRJMlljSW9wdGQ0dFc1VzhhVFQ4MVVvcG1ZLTJtR0Mxd1FDOWlCaUFSNU5wbndDUnBXWGMwejhLTkwyeGgyMUR4V09QQUxEN0p3T1RaVFBaTXVFdmNpU2M?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
-   "published": "2026-10-31 05:00",
-   "published_iso": "2026-10-30T20:00:00+00:00"
-  },
-  {
-   "title": "災害時に外国人住民らの避難手助けへ、英語・中国語・ベトナム語で情報発信…県が国際交流財団と連携して体制整備「心のよりどころになれば」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdVVlNk84QVoyem5tTDlzVzlFMWRLM0ktaGx4UkhJUEZUcTlzTW5Tb1ZaRXJKZHhjWjJSTGt4UWRDdlRDOWxxR29uUzg5blJJN0hGYkRpS0hsejBhUnpoMXoySnNVSC1kal9JbjVjRTN3dw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-10-31 05:00",
    "published_iso": "2026-10-30T20:00:00+00:00"
   },
@@ -104,14 +112,6 @@
    "published_iso": "2026-10-30T05:27:00+00:00"
   },
   {
-   "title": "“どこに行っても外国人扱い”日本で生まれ育ったスリランカ国籍の若者の葛藤 ルーツに悩む中ヒップホップにであい…「多様さに目を向けて」ラップで伝えるメッセージ | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ETFIyZmxISEJibUZwNHR3amdIeUtPVndEamdlV0lYNC1JN0pYWE9GUUVydEF0enNhWnFjN0VqUG5JZnAxNmRibXpaYUJRNk12bXJOUktFSk9WU0lxM1JLRVhvTFdjYXM?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-30 14:00",
-   "published_iso": "2026-10-30T05:00:00+00:00"
-  },
-  {
    "title": "そば難民◇ゴジラ◇のぞみ 中日BIZナビ今週の3本：ニュース",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByV3VVZFpfZlIyZ0xVZkdzOWRqeXVWd185WnZMZTJpX0cwM1pfSHV6M0cxRXRudTRSaTBLUmdVaWdFWVdrRFVXaTk4V0VLZ2Q4SDROdFJpRnBpUU90WkFF?oc=5",
    "source": "中日BIZナビ",
@@ -152,20 +152,20 @@
    "published_iso": "2026-10-30T01:45:01+00:00"
   },
   {
+   "title": "外国人とのトラブル経験「ない」が93.8% 香川県の県政世論調査",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bb0x1b3VqaEE2ZUZOdUYyM0tnNTZ0S0ZJWjBKSld3elozdkR1aUpwcjd1VmNiUVB4TDR1bEQ3RGtZYnp2N19RQjJ1NXFoWndlRGpFUUU4cWFKSjJDRUZNVGZnVDVVMk0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-30 10:30",
+   "published_iso": "2026-10-30T01:30:01+00:00"
+  },
+  {
    "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52TDBGbnQ3cFZyU1h5NUlKYm93RjdNYzZrbGluUFhsQVMyV3JmeWxVajVLRHR0cWFQMXhYSzR2M1N3a09XSGpWWEI0YlRzd1luOThmcEw2MHlmMExJQkhqZlJR?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-30 10:20",
    "published_iso": "2026-10-30T01:20:00+00:00"
-  },
-  {
-   "title": "外国人向け運転免許試験でミス 395人の合否に影響 群馬",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PdU5YZ3luQS1nWFljbWhlVEJXMndJVnZCU2p3RklwQ1JXQ1o4cFdpcFRSSVV5RWVORllPcXJJZW84WDZpTzJHS2xaMVg4V1ZZbDBpSDM2SVNPdTkyY1d5eUx2WGhJODhW?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-30 09:52",
-   "published_iso": "2026-10-30T00:52:12+00:00"
   },
   {
    "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
@@ -246,14 +246,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-10-29 18:30",
    "published_iso": "2026-10-29T09:30:00+00:00"
-  },
-  {
-   "title": "多文化共生社会の実現や地域課題解決に取り組む「サラダボウル」が、応援者募集 11月22日に、事業説明や応援者が交流するカフェ開催",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11cEpNY1B0QTRRUGdTeXBrX1pSRTJqdXpjVW1iMElzNWs2b2hra1RyR0pSLUdJMXpWa2hlSFRHdTZac2Rpc1VNYm9fZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-29 18:24",
-   "published_iso": "2026-10-29T09:24:03+00:00"
   },
   {
    "title": "外国人労働者「経済寄与あまりない」 大統領発言が物議―韓国",
@@ -406,6 +398,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-10-28 00:20",
    "published_iso": "2026-10-27T15:20:06+00:00"
+  },
+  {
+   "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-10-27 12:47",
+   "published_iso": "2026-10-27T03:47:55+00:00"
   }
  ]
 }
