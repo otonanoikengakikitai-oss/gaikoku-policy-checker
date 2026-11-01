@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T11:39:45+00:00",
+ "generated_at": "2026-11-01T17:37:50+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "質問なるほドリ：外国人労働者数 上限どう決まる？ 19分野123万人 IT化や日本人雇用考慮＝回答・岩本桜",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpb3EtNmdkT0hzWG9KS3VVR3pwdHBibmtWWERrSW9BU1NRcU1XS1Vza0RVVmxkLWNsOTFlcFhXVzY5SmNfYVVLdFFYS0hDYzNDdmswR015NUlSWlpDaGo3NEtBZnMwQ3Vt?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-02 02:01",
+   "published_iso": "2026-11-01T17:01:19+00:00"
+  },
+  {
+   "title": "ＪＰドラゴンのメンバー逮捕 フィリピン入管、幹部か",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2xOazM2R3VWWFV0Vlk2d1FKc3Y3NTRzaVZFOVgySHVFbmt2LWFYZEpsV1pJY09QSU5PaGNhcFBYem9WOWlrTnZNZ1JsTlczMGFmR0YzZzZkRDlOLU5QVEN1SzFIMlZLTWhjTUJ2UTNwTFY3OG9sNmo4X09mUlJPdE5R?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-01 23:04",
+   "published_iso": "2026-11-01T14:04:00+00:00"
+  },
+  {
+   "title": "ＪＰドラゴンのメンバー逮捕＝フィリピン入管、幹部か",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ndEM3WGJVaXBwb21xVlNlN3hnNnZBQzRRbndrYzhtQXA5eFlyRUpFZ1diSFNfMEJ2aHR6bnNHYlZFd3k5b0xXTkZBTnNRbWJfQWd3Uw?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-11-01 22:26",
+   "published_iso": "2026-11-01T13:26:00+00:00"
+  },
   {
    "title": "外国人の意外なニッポンでの初体験 チェーン店の牛丼＆コンビニのたまごサンドが人気 客の9割外国人観光客の美容室 あばれる君が調査【それスタ】",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nbm9ZdXRTRm5fMjBIenhUNzdjOHFtZ0JnLTJQQkNLVHYxNGZLeVZ2TGRsel9SdzducmN1b0JyaGdTQV9JU0s1a1d2NG95bU1lR3JMZk1zOA?oc=5",
@@ -46,6 +70,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-11-01 11:30",
    "published_iso": "2026-11-01T02:30:00+00:00"
+  },
+  {
+   "title": "外国人留学生ら防災かるたを体験 「やさしい日本語」で知識高める [茨城県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hOTdMZjNlOVpKQ0ZUbF9oN0ZXcE43VjdvbThNTXFSdUQxUHNvOEVKWk1pQjZGRGZjdkdTMDZzMWhCbmt3N29XUUZlNDItSklCQ1BIeU5EbTc5cWpmMGdYUG02SkFSek0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-01 11:15",
+   "published_iso": "2026-11-01T02:15:00+00:00"
   },
   {
    "title": "昭和55年の「ホルモン」商店街は今もある？いまや外国人観光客に大人気！大阪・西成を兵動大樹が歩く 名店の「240円ホルモン」に海外から意外な人気「ファン付き作業服」【兵動大樹今昔さんぽ】",
@@ -112,12 +144,12 @@
    "published_iso": "2026-10-31T19:00:00+00:00"
   },
   {
-   "title": "「移民者ラッパー」で消費されたくない 名前を捨て選んだ次の一歩 [大阪府]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ek4zV1B3NUJOeWE3NlZzRzA1V0FfS2VZd1NXaTVGMVZscV9zRUh6YjNlT0lZWjdyN29LRUVyMG9mNmVhNUgtRldNQjBDbUtKcS1SdWUzMENvNVZ0dW5ySHFGNTFNTG8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-31 11:00",
-   "published_iso": "2026-10-31T02:00:00+00:00"
+   "title": "積雪遅くなる道内…冬ダイヤ改正時期を変更 外国人観光客増える滝野方面は直行便新設 北海道中央バス",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOckxPU2cxUWxKVGE0bVRNYlYybEtxZ1RFdHdzUmY5a0YwX2ZGMEU1blNLRnZwOUFIM1RKR2pXWmVEamxTZ0lNeG8xUTU4dWVkMTNCbk5XUnEteVBEUzFPR0V1U3FBVFUzM2o1eDdBTTFiQmNVNGFhZ1V0bFllUUpEUk5rdGtmeHc?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-10-31 07:38",
+   "published_iso": "2026-10-30T22:38:00+00:00"
   },
   {
    "title": "「ルポ 大阪・生野」書評 日本社会を映す多文化共生の場",
@@ -184,6 +216,14 @@
    "published_iso": "2026-10-30T08:47:58+00:00"
   },
   {
+   "title": "スペイン列車事故 外国人23人が安否不明 日本人2人連絡取れず 死亡リストに名前なし",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PUWt3UjJ2V215c294eDRRQlE2SXF5U24tOXBuZnRSVkNBek5QSU9oZ0NBbktSbGpHN2ljR3dFd1ByZWlvUTFReTRGUnY3UQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-10-30 16:17",
+   "published_iso": "2026-10-30T07:17:00+00:00"
+  },
+  {
    "title": "スペイン列車事故 外国人23人が安否不明 日本人2人と依然連絡取れず",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zM0JvQTF6MzBFNkY2SVZEMEhvTmo2ZFVrbDViQmE5MTk1RkJaUzF5VUhROGFWczJNaEpKVWZzR1dieHhZeVk0WGhtR1BFNElheHVsVXdzYVVHdnQxQVlNNWpqRmdUVXkxLURCd1pNTVM2bElXYWVGQ2h3?oc=5",
    "source": "テレ朝NEWS",
@@ -200,20 +240,20 @@
    "published_iso": "2026-10-30T01:45:01+00:00"
   },
   {
-   "title": "外国人とのトラブル経験「ない」が93.8% 香川県の県政世論調査",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Bb0x1b3VqaEE2ZUZOdUYyM0tnNTZ0S0ZJWjBKSld3elozdkR1aUpwcjd1VmNiUVB4TDR1bEQ3RGtZYnp2N19RQjJ1NXFoWndlRGpFUUU4cWFKSjJDRUZNVGZnVDVVMk0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-30 10:30",
-   "published_iso": "2026-10-30T01:30:01+00:00"
-  },
-  {
    "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52TDBGbnQ3cFZyU1h5NUlKYm93RjdNYzZrbGluUFhsQVMyV3JmeWxVajVLRHR0cWFQMXhYSzR2M1N3a09XSGpWWEI0YlRzd1luOThmcEw2MHlmMExJQkhqZlJR?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-10-30 10:20",
    "published_iso": "2026-10-30T01:20:00+00:00"
+  },
+  {
+   "title": "外国人向け運転免許試験でミス 395人の合否に影響 群馬",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PdU5YZ3luQS1nWFljbWhlVEJXMndJVnZCU2p3RklwQ1JXQ1o4cFdpcFRSSVV5RWVORllPcXJJZW84WDZpTzJHS2xaMVg4V1ZZbDBpSDM2SVNPdTkyY1d5eUx2WGhJODhW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-30 09:52",
+   "published_iso": "2026-10-30T00:52:12+00:00"
   },
   {
    "title": "入れ歯難民救う実証実験 3Dで最短1日、各地で",
@@ -312,14 +352,6 @@
    "published_iso": "2026-10-29T08:11:00+00:00"
   },
   {
-   "title": "九州の外国人入国者数、9月10%増 韓国・台湾路線が充実",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tV2hfT3hrZTU1ZGpFNTgzZUdjYXhIVU5kYnJQUDR2SDdIUnVTQjRTUnBjVHV2aWY4Tmd6UGpEZWdYSlN2T3NfU2k1ZkV2SldoeTYwblljc20yTWNwZ2RCM3l2emRNcVhJS25yQw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-29 17:05",
-   "published_iso": "2026-10-29T08:05:36+00:00"
-  },
-  {
    "title": "「特殊技能」の外国人、「給食」受け入れ再開へ",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SMVlWOFYzQ0JKbXMyNm56dV9xTjJSc0FZbUVfMFA2X293Z2wzTU95RVZZbU9tSHBTOGVWUlNEQm1UeWlfZE9qMTZ4clIzXzlBZzdpR1pn?oc=5",
    "source": "朝日新聞",
@@ -334,6 +366,14 @@
    "source_domain": "47news.jp",
    "published": "2026-10-29 12:38",
    "published_iso": "2026-10-29T03:38:00+00:00"
+  },
+  {
+   "title": "入管難民法違反：日本へ移住ビジネス 中国人向け ビザ虚偽申請疑い",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHVDUThNaTVNeDBNbExLS0IteVZKODlTaUstM2lHcl9qQ1lXcl9Jdmt1N0tSakhob21ocEp4WmpwQlhoUUM1ZGpsV1NvLVRwaENsbDMtMW9CVmh6bmpubl9VVTFCcmZW?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-10-29 02:01",
+   "published_iso": "2026-10-28T17:01:30+00:00"
   },
   {
    "title": "「高度専門職」在留資格を申請し中国人を不正入国、容疑の役員再逮捕 富裕層移住関与か",
@@ -360,52 +400,12 @@
    "published_iso": "2026-10-28T03:45:00+00:00"
   },
   {
-   "title": "狙われた「世界最速グリーンカード」 富裕層、性善説の制度を悪用か",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4c3RtN24zcmJ2YjhHTFRaRHNVV1JrWi1WTkVNTzh5UDcyWjB4LXRRSHFIeGNzX2V2RVhwdmdGakU1UjR2QTNLVUQwSEdscG9ZRGpmb2QwdzM3MlBBb2hrd19KNi1vS0k?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-28 12:45",
-   "published_iso": "2026-10-28T03:45:00+00:00"
-  },
-  {
-   "title": "偽求人でロシアへ…29カ国の外国人をだまし戦闘に動員か 国連「人身取引」と非難",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6d21sWk1ZbC1heFEwVE56dlU5VjFBM3JtbXlsZk92NUtQZ3JreVp6eFhsQUxuZFFuY3I0c2pnQzZTdUY2Rjl0M2VienJvWlZJWlFNZVhhcF9IR1EzZ0c2WnVOMjNTd1N0TEZYM1pPbVNvX18xbjZySmp3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-28 00:20",
-   "published_iso": "2026-10-27T15:20:06+00:00"
-  },
-  {
-   "title": "タイのミャンマー難民、カンボジア人に代わる働き手に 紛争で人手不足",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rangzcUo3aEVLXzl0X05ocEZNSTc4TS1sM3pCUm9yWGpqWWdQR1F2VVp1dmw1c05nVVloc3owZTdsS2VLdUdpdlpnTkVQanJsRXpNZjFEallWNnppa3hzWld0elNRUFhkYnZLYQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-27 12:47",
-   "published_iso": "2026-10-27T03:47:55+00:00"
-  },
-  {
-   "title": "トランプ大統領「ノルウェー移民歓迎せず」 理由は「ノーベル賞をもらえなかった」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yTVVKb0JCVERSbjFWWHdKZUZaVFdWeEhyOF9vdHBvVThHZ2ZkaVRYSVo1WlNkVF9RdjZaeVdJWW9WbXdxRFNUcU9iU2o3ZWNiN2pGODNqcHZIRHhwOU1BUms4TVRBQW9xMjhEZlItbXRXWlVadnZPTldn?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-10-27 11:43",
-   "published_iso": "2026-10-27T02:43:59+00:00"
-  },
-  {
-   "title": "仏内相、銃撃は「人種差別テロ」 移民標的か、8人死傷",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJa19nZXIzbXd0NlpxbGM0Y2pRQ3FzRU1MRFBmc1NMWFB4emtBWlhSMEV4dG8zckZZWUxTcm13cEJDVTltOTlsX3dkSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-10-27 09:02",
-   "published_iso": "2026-10-27T00:02:00+00:00"
-  },
-  {
-   "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-26 08:55",
-   "published_iso": "2026-10-25T23:55:00+00:00"
+   "title": "災害時に外国人の力に 箕輪町、辰野町、南箕輪村がサポーター養成講座",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RQS1qcElzNkJxMW44MEZxeXlQRzFGWGRDU21tYnhQQmlRWXJOSGo5NWZnY1BUQ3JQNHJMaWwtR3F5Uy1oVVNIZDNhdDJUY3NqTDRxNWVDMU02cHBfVXkxeFlVMA?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-10-28 05:05",
+   "published_iso": "2026-10-27T20:05:00+00:00"
   }
  ]
 }
