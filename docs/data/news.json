@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:09:56+00:00",
+ "generated_at": "2026-11-03T01:59:16+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,70 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "河北新報社 ビズラボ 河北経済研究所",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YeWpVU3hQdFRrSkJadDFKdnhwV25HVEFZSEd4SmlhbXBPdnJ6cTRWMHpaVk1kWWRWV3k1ak91V1k2c1NWWU91S0VjZTdCOWtOMjUzOXVlM1ZPUS1lWUxWZlp2YVFLWXFfZHJScTdn?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-11-03 10:20",
+   "published_iso": "2026-11-03T01:20:35+00:00"
+  },
+  {
+   "title": "黒人の赤ちゃんに「移民は帰れ」の牙 SNS騒動が暴く日本の危うさ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ySEtUOFN3d1M3MFhmbkY2QTBlVDQzRHZWTTNLdnlXMEd4OE5HQXJWd3BRNnE3cE9qekcwTTU3eks1YzIyTkp3WEdMckRnMkxPVkV4eXp1c2tidkZQWkI0dEFMVkloM0k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-03 10:00",
+   "published_iso": "2026-11-03T01:00:00+00:00"
+  },
+  {
+   "title": "〈社説〉憲法公布80年 沖縄と外国人、置き去りのまま",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHWDd1eEs4TnByak9ReXJVRTJ4bXcyWDZYd1NUSTJwWkNFbmVSZ3J0c3FMTDVEbkJSQkRuWEw0M2lhYjFHV19kR01YN1dNOHJvak9tcFJud2RHa0dpZjdWZDFSbmRrSGpXRFUwSWcyekw?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-11-03 06:00",
+   "published_iso": "2026-11-02T21:00:00+00:00"
+  },
+  {
+   "title": "特定技能の外国人「ＡＩ発達で縮減」 受け入れ上限巡り発言 小野田担当相",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZUN1THJPbUtibEpxUkFYOGV1WjU3ckdxZnRWUWRHekJ1bllDZ0RQZ1V2Mm80WGk1RkdEZWtNRzh1UUJqa25uNjY4ZEtIMTJOUkVFLTNFdXotVHNf?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-03 05:00",
+   "published_iso": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "title": "露、外国人兵士に入れ墨 識別番号 刻む インドネシア人、非人道的な処遇証言",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVWw5dlpab0trYnlTTTV4Vl9HbU9QQjJZT1UzaElWRm5TOHJ0N2pGb2s4MVM5ZXE5WjYxQWFLd3hrVWxGN210T1d0N3dqMGJCd0VJLXk4d2g4aGhDaUZzeElR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-03 05:00",
+   "published_iso": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "title": "令和8年秋の叙勲 大綬章、重光章、中綬章、在日・在外外国人、在外邦人受章者らの顔触れ",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EN29UY2Flbm1GN0Exdi1MRlg3enJnTlJqV3RrUm5fNmNMT0RLd1YtVGxiekZHNkljd283UHlqdnhZdl9tOXljVzFzMUk2SG9UUlhGZ2lfb3lwcXU0TklFNkQ3WW5VZ2ZyOHg0Q2ZHWExjMmFMTGc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-03 05:00",
+   "published_iso": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "title": "観光国際化 外国人が助言 余市の協会 実業家2人に委嘱",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKdmo4VTkxTVk1SlJRSjBlejVnSEZhelZOdXlFMFhieERQLVY2OVlZYkQxTk1Gbm9IbHNreVVIdk55NzNwYjhVb056VlI2b3gwaVVEdzQ1ZUZxUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-03 04:00",
+   "published_iso": "2026-11-02T19:00:00+00:00"
+  },
+  {
+   "title": "神戸暮らしの「先輩外国人」が母語で案内 生活マナー学ぶツアー ベトナムなど3カ国出身者対象|社会",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyV0stYVpNYXdGSGF6U1lCOGt4eFl3dmNZSkhpT3M2WjVUTC1vMkhMdXFsLXVldjdUTklEd3JpYVdhSG5CZ0JuQ0tnbnNraTZWUzBkZEpKTC1lWllsZDRLVmExbnp1dUVMdm5MR19R?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-11-02 20:29",
+   "published_iso": "2026-11-02T11:29:06+00:00"
+  },
   {
    "title": "特定技能1号、給食調理員受け入れ再開",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nemhob1dRRmVyQ1Npak5DcUtXX19xdDBzRGRPUmpsVDlpTlJ4YmctMFRieGVHSm5XX2NxNkxFOUExb1A5Y293dXlXTVp3Ym1xZW4zeGZVTkoyOFptOWp1dDVBQkNZTzAyY05ScjVyZzI?oc=5",
@@ -62,14 +126,6 @@
    "source_domain": "sankei.com",
    "published": "2026-11-02 14:17",
    "published_iso": "2026-11-02T05:17:07+00:00"
-  },
-  {
-   "title": "違法風俗店を摘発で9人逮捕 沖縄市で米兵・外国人向け営業か",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5vWUI0LVMzNU9nTlZxMHBpM09DMzhPellQRzNwWHVXNVNzTS02bXFCbFhCVFZEcF9sWFFrbjlzNnJWT084SlpiLVBNeXozZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-02 11:40",
-   "published_iso": "2026-11-02T02:40:00+00:00"
   },
   {
    "title": "日本でたどる私のルーツ、先祖ゆかりの地を巡る旅が人気 円安がブームを後押し？ 移民の子孫の来日で「共生」の促進を期待する声も",
@@ -160,14 +216,6 @@
    "published_iso": "2026-11-01T02:30:00+00:00"
   },
   {
-   "title": "外国人留学生ら防災かるたを体験 「やさしい日本語」で知識高める [茨城県] [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hOTdMZjNlOVpKQ0ZUbF9oN0ZXcE43VjdvbThNTXFSdUQxUHNvOEVKWk1pQjZGRGZjdkdTMDZzMWhCbmt3N29XUUZlNDItSklCQ1BIeU5EbTc5cWpmMGdYUG02SkFSek0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-01 11:15",
-   "published_iso": "2026-11-01T02:15:00+00:00"
-  },
-  {
    "title": "福岡在住の外国人が、日本語スピーチコンテストで話したことは",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FemRnaXJWOFJIU05IQTRzUWdoczZfOFlQVU43V1M5czJxQkI4YkIxTVRGX0JWR0NwTHZVaWQ3aTl2MmRHc0xkWjA3UXdNOEl6b05hV053?oc=5",
    "source": "西日本新聞me",
@@ -206,6 +254,14 @@
    "source_domain": "asahi.com",
    "published": "2026-10-31 11:30",
    "published_iso": "2026-10-31T02:30:01+00:00"
+  },
+  {
+   "title": "「移民者ラッパー」で消費されたくない 名前を捨て選んだ次の一歩 [大阪府]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ek4zV1B3NUJOeWE3NlZzRzA1V0FfS2VZd1NXaTVGMVZscV9zRUh6YjNlT0lZWjdyN29LRUVyMG9mNmVhNUgtRldNQjBDbUtKcS1SdWUzMENvNVZ0dW5ySHFGNTFNTG8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-10-31 11:00",
+   "published_iso": "2026-10-31T02:00:00+00:00"
   },
   {
    "title": "「ルポ 大阪・生野」書評 日本社会を映す多文化共生の場",
@@ -272,28 +328,12 @@
    "published_iso": "2026-10-30T01:45:01+00:00"
   },
   {
-   "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52TDBGbnQ3cFZyU1h5NUlKYm93RjdNYzZrbGluUFhsQVMyV3JmeWxVajVLRHR0cWFQMXhYSzR2M1N3a09XSGpWWEI0YlRzd1luOThmcEw2MHlmMExJQkhqZlJR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-30 10:20",
-   "published_iso": "2026-10-30T01:20:00+00:00"
-  },
-  {
    "title": "生徒育てた野菜 外国人住民に紹介 真狩高で交流イベント",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWXNGYjEzN1BDZWh1ZlAyUktkdTAyQ0Y4cUc0eko0T0hPMVNvNUtrbk9oVjdRZ09ucGUwSlFSTVNyWkZPRWZpMzZUNGFWd3dwOVZsblp3SzBUUQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-10-30 04:00",
    "published_iso": "2026-10-29T19:00:00+00:00"
-  },
-  {
-   "title": "外国人観光客を対象とした新たな免税制度「リファンド方式」が11月から運用開始 仙台空港で導入準備が進む",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RcmFTaFhFTzBPSUlwTnJyT2FYS19oTXB2cGp1U0NFbG00MDZ3SnN6NVA0aV9sVWhqSHo2QnFjX1lWUU1TdXVocEpJUDlCZjktcWFPTFlpbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-10-29 20:23",
-   "published_iso": "2026-10-29T11:23:00+00:00"
   },
   {
    "title": "ほっとニュース北海道 【詳しく解説】外国人旅行者向け 新たな免税制度「リファンド方式」11月から導入 NHK ONE 配信中 11/5まで",
@@ -328,28 +368,12 @@
    "published_iso": "2026-10-29T08:11:00+00:00"
   },
   {
-   "title": "捜査官ら4万人超の情報流出 米国土安保省、移民摘発",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TLUlOU3ZzQVp5RXFJeXlseldvMzhhbmkzdlpJUUtjVTE4ampqY1JFVTRUVzhWU2dteEpXWEk0WGQ0RlpLQmozbktkR216TTU3UVgtUHdRNEZUZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-10-29 12:39",
-   "published_iso": "2026-10-29T03:39:16+00:00"
-  },
-  {
    "title": "人手不足の障害者福祉分野で福井県内“第一号” 越前町の施設にミャンマーから特定技能外国人材の女性3人 30日から第一線へ",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGLU0wQS1iZW1iTERWWEQ4RjQ1TVBxTHlLU19oanZaWFZqd3pEUGcwd0QzZWFIczlEN0gwcmo3UFFMcVUyWHl3TlZENFliQQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-10-28 18:35",
    "published_iso": "2026-10-28T09:35:00+00:00"
-  },
-  {
-   "title": "ミャンマーに送還した難民の状況、マレーシアが説明要求…戦闘続く中「軍が４００人以上拘留」報道で",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52Qy12Ni0tR29SSlFVRnZHUlo5WVN0LWFsajFocG5aZVdnMHJ4VURYZUhpbHhDbzczWEV2R1Jwc0JiMm5ic0lDajJmSjF6Q0hsTGpiVW5TU2MxeU9qTWwyMENR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-10-28 17:30",
-   "published_iso": "2026-10-28T08:30:00+00:00"
   },
   {
    "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
@@ -382,30 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-10-20 16:00",
    "published_iso": "2026-10-20T07:00:00+00:00"
-  },
-  {
-   "title": "移民と社会：特定技能1号「介護」枠を2万人拡大 受け入れ停止回避で苦肉の策",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IMjNGTFhnT29WcVJwM3N5amFnRW9qS1g3UklObl9ZN2hhcWN3QmJVNjN1WU1pdnc3SzhacEQtcFNpeGQ0RzQzY2pJVFJlaGNEY1ZCOTZ6dU5jOEF2aXhHYy0zbXFUMzdZ?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-10-19 16:00",
-   "published_iso": "2026-10-19T07:00:00+00:00"
-  },
-  {
-   "title": "特定技能の外国人、「給食」受け入れを別分野で再開へ 政府が運用案 [外国人政策 高市早苗総理 自民党]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VWNJeS1OVkNGTmJDTHNrdWFpNWxoOUw5REJtUlpVR1h2Y3NtRkRpRTRmVm4tbnNlQUFlYndqdzBWbWVZdWZRX2YwVlRMY2Q5VGk4WjlBaHFtNG9kWkJvQUZPbmZSZk0?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-10-19 16:00",
-   "published_iso": "2026-10-19T07:00:00+00:00"
-  },
-  {
-   "title": "特定技能「給食」受け入れ再開へ 来年４月、食品製造に分野移行",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JNkxxNWNkakNmN2dGYjRxcVNyRWc4aXJFb29HMkdMbzB5QWZialdIX3VYd2FDb2Jpb1VlU2dyaXl6VEZMZDExbWdRaHRjVTQyck1qclhXSFV6T01oV0tLaDFqYw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-10-19 16:00",
-   "published_iso": "2026-10-19T07:00:00+00:00"
   }
  ]
 }
