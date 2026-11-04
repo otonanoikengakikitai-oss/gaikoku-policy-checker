@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T10:27:37+00:00",
+ "generated_at": "2026-11-04T18:26:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,28 +8,44 @@
  ],
  "items": [
   {
+   "title": "「右よし、左よし」県内初！外国人バス運転士がデビュー インドネシア出身の男性 山梨",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFF2aTI1dnhLMnpLYmhoNmp5bk1zYkZTTklxbzNZRzIyWm9EQ0hvS3doeDRwYzRrZzh1clFxMTVDRjZsWTJYbW5HRFgwRm54aUVvbWE1VW1hVnNJaUtLVDJRLXJDMlZscVpiVnNPQlhkR2NQcHU2VGNCZ3JGVHdrR21IYw?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-04 20:10",
+   "published_iso": "2026-11-04T11:10:00+00:00"
+  },
+  {
+   "title": "日本の「のり」海外で人気 “高くても売れる”輸出量が年々拡大 外国人観光客も「アメイジング」",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04cjluX2o4SHN4WGtVVlFRTEt3R3FUR0pnbGlhUEx0TDk2ekxRSjBFTUU5a01sVmZXc2hjcHM5TGx2M2hhVHN2R3JUd1gxejh6RUJuUWRhc2l5SDA1MnhTa3VURXZFVWpCbXd1UWtUeER1dklkQUdwSmkwazg?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-04 19:27",
+   "published_iso": "2026-11-04T10:27:00+00:00"
+  },
+  {
+   "title": "外国人材の受け入れや定着支援を強化「県と商船三井などが連携協定」人材不足解消へ《長崎》",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakFvV2RkYnlMTlRZUGc1ZTREYnNvblBqYUhycHZzR0wzc3JFbGQxTFBXQkVkdmt6ZUE2ZmxfZ2FLMExOa25yUV9sclY5NDhnMkpDLUE1WTg0RkpJUFdSX1JoWUJqc0o5RGZXNWtkS1k0WW9LSk0yOWpKSy15dTFGdkI2N1QtZ0U?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-04 19:19",
+   "published_iso": "2026-11-04T10:19:00+00:00"
+  },
+  {
+   "title": "外国人観光客の避難誘導どうする？ 松山市のホテルで多言語ボードやはしご車を使った火災訓練・愛媛",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tekVJUFVlTDVTVWU4WFJ4cGszV3cwQTE4dDhpd1BTaGxkZExUczBkbkhacHNZQ2hyNWRWYmVrWU1jaGtIOEFfNVFQQjNBTGJaRWJmNXZoTVYtZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-04 18:56",
+   "published_iso": "2026-11-04T09:56:13+00:00"
+  },
+  {
    "title": "トランプ氏、多数派野党に予告「『ミスター拒否権』になる」 強硬移民対策は継続か",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGZMZFVTVGdLTUtrdXZwTW5UcWgzVzhjb2dBMTVVOUNFY2ExLVY0NHNCbDZ4ZEpGT2F1cTFuVWF4c2ZXMUczMFJrbXA1UV92Zmp6aEdXQVhudGp6RndiTGU2VkJ0OFhnYzVrU2FqNy1MdThxaGdpdlpWSjRUSlpENGl3UVlKR0dyWkw1Uw?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-04 18:53",
    "published_iso": "2026-11-04T09:53:03+00:00"
-  },
-  {
-   "title": "人気観光地で外国人観光客に「白タク」行為繰り返した疑い パキスタン国籍の男6人を逮捕 「報酬はパキスタン人から受け取った」1人は容疑を認めるも、5人は容疑を否認",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCOW1QT2xSdWNQRUtPZHRYb2ZnUWxNWUUybkNrb3l3dXhtR2sxd0xVMXpZYXNyR1U0VFRaMzZfOTFpVjhmdEluX1VKdkhNUQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-04 18:52",
-   "published_iso": "2026-11-04T09:52:00+00:00"
-  },
-  {
-   "title": "外国人観光客を乗せて「白タク」疑いで逮捕の男性（39）を釈放 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HU0t5NEFPcXlNVk5RR0tDQjVnY3dWSmd5UnVEb2EyVHJPeXgxY05Sb0NmWXRqeHR4TFMydi1yOWFRTUM4VE92OWdvaUxZbzF3aFo1Q2dNTERmYm5qVG1XN1owRHNUUkJyVDJlLW9rM0p4UQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-04 18:45",
-   "published_iso": "2026-11-04T09:45:47+00:00"
   },
   {
    "title": "外国人観光客に“白タク”行為繰り返していたか パキスタン国籍の男6人を逮捕 「有償ではなく無償です」容疑否認",
@@ -62,14 +78,6 @@
    "source_domain": "asahi.co.jp",
    "published": "2026-11-04 17:09",
    "published_iso": "2026-11-04T08:09:09+00:00"
-  },
-  {
-   "title": "中国人、日本永住めざす理由 虚偽申請問題、正規の「高度専門職」は",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04dFNrTlVYSTlMcXJkVF9qcjdKNmRGOVRqenhCUWtfdU1LNWcwNV90WWZZLXdvT3RYN3o3ZjlKZ05waGl1YmtOX0VkQ0pSNVdrRjJKekU3b3FmbFpK?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-04 16:30",
-   "published_iso": "2026-11-04T07:30:00+00:00"
   },
   {
    "title": "増える外国人労働者、増える「日本語支援」が必要な子ども “自分らしい進路選択” も支える支援員",
@@ -136,14 +144,6 @@
    "published_iso": "2026-11-03T22:01:00+00:00"
   },
   {
-   "title": "べっちょない「I'm OK」 めげた「It's broken」 4こま漫画で播州弁指南 外国人向け情報誌「VIVA！ひめじ」",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hdnIwQmMtbkUyNVNwbUoxYW9JR2FCa0MyWnVVZnFyQnpWWGZLaUFqajNZYWpSRm9BVm1BOEdnWkRySFZCNWFjWVFpd3JobkFQeWt5OEV2Z2Mtcm1FQjljZ0Z1RC1oeWU1cnVHaA?oc=5",
-   "source": "神戸新聞",
-   "source_domain": "kobe-np.co.jp",
-   "published": "2026-11-04 05:10",
-   "published_iso": "2026-11-03T20:10:00+00:00"
-  },
-  {
    "title": "女性・外国人が力を発揮できる方策とは？ 14日、山形・高畠で仙山カレッジのフォーラム",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0MGp3ZmJqSzBFN0phSm44eHNHYXF1MVVHNzlzV2g1SDJ0RXJPaUVyblY3bTdtdVZna3VaelF5NWZxNnRTMVdmY2doaC02RVVTY28zOE5UZXZ1YlU?oc=5",
    "source": "河北新報オンライン",
@@ -166,14 +166,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-11-03 17:59",
    "published_iso": "2026-11-03T08:59:31+00:00"
-  },
-  {
-   "title": "「管理側が変化に対応していくのが課題」 “育成就労” 来年4月導入へ 企業向けセミナー 外国人労働者1.6万人は過去最多 富山",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NDJpdlJBbEZBY3Q1OVFoR0RzRXV2dnppWmtzRmxEY3FiQ1VRcGRtSjVkSkJJR2J1S25jdUh4cEF3alBTOFZOeDc0dTBhR2VyT0JodnFOTkdVdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-03 17:36",
-   "published_iso": "2026-11-03T08:36:00+00:00"
   },
   {
    "title": "変容する米国：物価高、移民、格差…米中間選挙の争点は? 有権者の不満と関心",
@@ -240,20 +232,20 @@
    "published_iso": "2026-11-02T20:00:00+00:00"
   },
   {
+   "title": "神戸暮らしの「先輩外国人」が母語で案内 生活マナー学ぶツアー ベトナムなど3カ国出身者対象|社会",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyV0stYVpNYXdGSGF6U1lCOGt4eFl3dmNZSkhpT3M2WjVUTC1vMkhMdXFsLXVldjdUTklEd3JpYVdhSG5CZ0JuQ0tnbnNraTZWUzBkZEpKTC1lWllsZDRLVmExbnp1dUVMdm5MR19R?oc=5",
+   "source": "神戸新聞",
+   "source_domain": "kobe-np.co.jp",
+   "published": "2026-11-02 20:29",
+   "published_iso": "2026-11-02T11:29:06+00:00"
+  },
+  {
    "title": "特定技能1号、給食調理員受け入れ再開",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nemhob1dRRmVyQ1Npak5DcUtXX19xdDBzRGRPUmpsVDlpTlJ4YmctMFRieGVHSm5XX2NxNkxFOUExb1A5Y293dXlXTVp3Ym1xZW4zeGZVTkoyOFptOWp1dDVBQkNZTzAyY05ScjVyZzI?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-11-02 17:00",
    "published_iso": "2026-11-02T08:00:00+00:00"
-  },
-  {
-   "title": "秋葉原で“違法改造車”摘発 一斉取り締まり 外国人観光客に“白タク”懸念も",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCWUJpWjhiUXo1b0F6aTV3azhWRDhIWDZnLU52TG5jd1ZmY2stVWFwOWFQQTUybDZ6TVhvSjl2Y1dWelFqTXpsOVNRRVl5OUNmZ2xVeEJwdmVfUFpEMjdnVUdRTFp6WXJZaXNZMWlhbFdEZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-02 16:48",
-   "published_iso": "2026-11-02T07:48:00+00:00"
   },
   {
    "title": "ランタン作りや衣装試着・・・伝統の祭りでインド身近に 浦河町、多文化共生へ企画",
@@ -376,14 +368,6 @@
    "published_iso": "2026-10-30T22:02:58+00:00"
   },
   {
-   "title": "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZTZZVjlDQk1tS1YwNlcybVB6YlliOEV3NmFWbmg4b3dyWU9XUkp4Y05VdDhQQ2JaamVwbEQzSURHU2RWcWc5eDNNS2Myd2Vzc05SeTJ4STBoZTg4QTQ0ZFVJVTEtWEJ1eUNnSQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-10-31 01:33",
-   "published_iso": "2026-10-30T16:33:13+00:00"
-  },
-  {
    "title": "宇都宮大学、ジェトロと協定へ 外国人材の栃木県内定着や起業を支援",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWRmVfYm1QQkVCQnh4ZlFHaHZPeE9TS1Y3ZEw1emxhaVVPY1A2SHNfS19GYjd0SGdaMGNGdi1DUnk3d1JhZE5QYkRXdTVycjc5c20ybWlCUXcxbE05LTVCaWVSWFFoWFhsR1BqSA?oc=5",
    "source": "日本経済新聞",
@@ -400,12 +384,28 @@
    "published_iso": "2026-10-29T08:11:00+00:00"
   },
   {
+   "title": "育成就労、日本語教員不足 「未確保」４割弱―政府調査",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckw1M2ZPUnZRSk9mVjRTdlBoWHpJUURER2dxR3c4SGc1bEVvRVpJc0dhWlhHNEVJa1dUZGlzNVZibGdVZk5HbmMwUFFlcnpGWE53NDBGVzU4c005anc1alh6WQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-10-26 16:00",
+   "published_iso": "2026-10-26T07:00:00+00:00"
+  },
+  {
    "title": "123万人の外国人労働者を受け入れ 育成就労と特定技能で上限案 [外国人政策 高市早苗総理 自民党]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TQTZDUWVuRHB4UEVEaHFWWFJsMmVUd1FzMkZrV1ppbmlOV201c1I4b2VBRFlXcXZOZVdCWGwxZ3FOb3g2czNQOXlLTEdINngxWHJXOU45ZUswNk1WNlUwY3Rlbi04Nmc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2025-12-23 17:00",
    "published_iso": "2025-12-23T08:00:00+00:00"
+  },
+  {
+   "title": "育成就労で外国人材確保 改正法成立、技能実習に代わり",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRmQtNFZLWjY1OFFUOW5Yd1NaTUVURjRDZEt3WGw2Z3A4a2xBSmRhcGNUeDNwSmNGczZQTF81VUx0V01aSjZKOXYzaUtlUEd3di1BVmtZRFZaajZ1MVdCZy0wQVNjbTdObnhHQg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2024-06-14 16:00",
+   "published_iso": "2024-06-14T07:00:00+00:00"
   }
  ]
 }
