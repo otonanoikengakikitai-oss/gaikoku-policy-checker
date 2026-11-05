@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T16:06:57+00:00",
+ "generated_at": "2026-11-05T22:31:12+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,60 @@
  ],
  "items": [
   {
-   "title": "「難民映画祭」開幕 シリア出身監督作品など上映「難民を一人の人間として見てほしい」",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52OXN6ZGh5ak82cUFMQ2hmajZGLVhPLVIwdFM0TTIzU0pnN0w5WElXcExKZWc5RmVjRGJzdVNYM1dtQUtUc2NFY0NDSmF0REQxUDNQaU9qbw?oc=5",
+   "title": "秋北バス、県内初の「外国人運転士」採用 インドネシア人３人、来夏デビュー目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4YWpzRnFwN3lSMnlUX2ZQbW1PQU9nN2FDTTIxWmo1Vy1BWWowekhiWDVWd180WHRZX3dEVldQQjZOVHRaeXlaVGdvWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-06 06:45",
+   "published_iso": "2026-11-05T21:45:00+00:00"
+  },
+  {
+   "title": "「難民映画祭」が都内で開幕 難民となったシリア人監督が当事者視点で避難生活を描いた作品など3作品が上映",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YYVZDckVMTnhGcTVjcHUzTVFhSFMzVm5PZmZaU0pBZmJDalVZMk5aT0V0LUxjVDMySXJPSTR1Q1JOVEtXMXlfMkV1eko4WmR6MWxqVS00SQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
-   "published": "2026-11-05 23:45",
-   "published_iso": "2026-11-05T14:45:51+00:00"
+   "published": "2026-11-06 06:40",
+   "published_iso": "2026-11-05T21:40:32+00:00"
+  },
+  {
+   "title": "外国人技能実習生の１９歳船員の顔に「ワサビ」、殺虫剤とライターで火近づけた疑い…カニ漁船船長ら３人逮捕・送検",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4c2tEVnJEN2lfdUw1ZXVUUV8tNEcyVmMta1ZIbkxmSmxhbVlEZjZiQ1cwWmV0ZlZ1S05xVV9mMXZ3V1U5Skt0QTVOM0U1TkhUeTB5cUNrcGQ4SVFTUldZbTRIenloQQ?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-06 06:38",
+   "published_iso": "2026-11-05T21:38:00+00:00"
+  },
+  {
+   "title": "京都市バスの「市民価格」、外国人の運賃引き上げは検討せず アンケートで多数意見も、その理由とは",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FbXFfdjdneFdCOEh6X0JXWnc3X0phb3dUYkFyZDVHTG5fVWdPWVh4YmpUWmFoaVpYWnFJNWRFMG1PTW1TamhYNF9TVDNTV1piQmlad2VWdE8?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-11-06 05:05",
+   "published_iso": "2026-11-05T20:05:00+00:00"
+  },
+  {
+   "title": "移民殺到、ネットが原因？ EU国境管理機関がSNS監視へ",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYThKTVU3a3k2U2NIbXgxVEcwcnNOWXNxQTlrS1RuWWNFM0tjRnhqZjlqbFM4cl9fZ2M2THBabmVUR29yTFczdUJUOWtsS3Y5RXBwVF9PY2NUSnBRUzZXUjBSYzNxMlZfVTdJZTA5NUkyRmduMG5tbXgwWURmWWdFNDNmc0RYckNaT19NTA?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-06 05:00",
+   "published_iso": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "title": "［米中間選挙２０２６］共和ゲリマンダー 不発 不法移民対策 裏目に 自党に有利な区割り",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUdDNManhZT2l4MkNaYVNBRVozZDVRcTFhOE1ROHJVRkZXZDEyWnhwSVVhUklmSmN0Q0xRQWtpdGFmTnZ4YjJsQk00OFVXWDhVeGE4anFNUENZOE9oZ19JaDdhaw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-06 05:00",
+   "published_iso": "2026-11-05T20:00:00+00:00"
+  },
+  {
+   "title": "［米中間選挙２０２６］自党に有利な区割り 共和ゲリマンダー 不発 不法移民対策 裏目に",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53SzhNTU1GV2tWZHdweWtjbTkyUWw5N1M5QUJNdm5RLU9PQnBfLXMtSFdZMTFYQkRvRmJJUU1qd2ZWcXhucjNadm9wM1lSa0dseVI5UEltVWVETUkxeXFCWjNR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-06 05:00",
+   "published_iso": "2026-11-05T20:00:00+00:00"
   },
   {
    "title": "岡本多緒「映画を通して自分事に」 「難民映画祭」オープニング上映会で思いを告白",
@@ -81,27 +129,11 @@
   },
   {
    "title": "技能実習生の顔にわさびか 暴行疑いで漁船船長ら逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XZF9ZTlpNbGRnRHVMWGdzQ3A5S1dvOFBCbzBiNFYzUl9yR0dzMDU3b3ltV1RzZzdyNUZtUExwa2NVWGZhdEV2ZzFRbUNyeGhuVE0xYzZ2YV9qZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-05 13:33",
-   "published_iso": "2026-11-05T04:33:32+00:00"
-  },
-  {
-   "title": "【熊本空港】1階ロビーに専用端末を設置 外国人観光客への免税制度が「リファンド方式」に変更",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNclZxaFdnWkY1eVhsZW9fWnNzV081eXZ1eFMtMmVRNFhiNGJPWjRtQXh2dHlGSWpla1FiSS1aY3lab2g2N0s2MWJDYmhPSFlZZ1d3Q1BpZDRXMjI0ZThSUkYxSVZPUFZUMjcxd1JmcXNoR01tLVQ3el81Y3BuMXBxWm1Pa1NCLTQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-05 13:21",
-   "published_iso": "2026-11-05T04:21:33+00:00"
-  },
-  {
-   "title": "インドネシア人技能実習生の顔にわさび塗ったか 暴行疑いで兵庫の漁船船長ら逮捕",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTUxsU09iMUVtNUY2TmRGWXU5cDlYelNMSXIzUmhnQ2xYQzNBNnZBMVdiWkViN0psdTBPSHZYTi1yeXk1cF85TWZlc0JWcUhQQm5CRzY1ZDFYX1EydjFlQmpWbDV5TmswMnJ6eUpwUGhRUzVRNmc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-05 12:45",
-   "published_iso": "2026-11-05T03:45:22+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OTDlLOFNYY1dwT1B5WHJFWl9HX3RxWFAxeUY0YjRmYWRnZmc5WnlTZGVVUTdHUmNucXk0NTdjZTRLejJia2Y3cHBpTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-05 13:25",
+   "published_iso": "2026-11-05T04:25:44+00:00"
   },
   {
    "title": "【速報】技能実習生の顔にわさびか、漁船船長ら逮捕",
@@ -118,14 +150,6 @@
    "source_domain": "asahi.co.jp",
    "published": "2026-11-05 09:58",
    "published_iso": "2026-11-05T00:58:35+00:00"
-  },
-  {
-   "title": "特定技能外国人の採用進む 鉄道整備の現場で 人手不足を補う：ニュース",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOZWk0cU1PeEEtUnkxMmNyS1oyZWViRXVLOTBQMzN1RTZERDlQRmRPY1M2MUc4WTdKcmVTeW5oUExUMWhpcGhHbnFLTlh0ZERqazRSb19QRnVsaDV1dVM4?oc=5",
-   "source": "中日BIZナビ",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-11-05 07:51",
-   "published_iso": "2026-11-04T22:51:22+00:00"
   },
   {
    "title": "法の枠組み 外国人の人権を軽視 児玉晃一弁護士が新著で問う「高校生、大学生が知るきっかけに」",
@@ -248,14 +272,6 @@
    "published_iso": "2026-11-04T08:09:09+00:00"
   },
   {
-   "title": "中国人、日本永住めざす理由 虚偽申請問題、正規の「高度専門職」は",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04dFNrTlVYSTlMcXJkVF9qcjdKNmRGOVRqenhCUWtfdU1LNWcwNV90WWZZLXdvT3RYN3o3ZjlKZ05waGl1YmtOX0VkQ0pSNVdrRjJKekU3b3FmbFpK?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-04 16:30",
-   "published_iso": "2026-11-04T07:30:00+00:00"
-  },
-  {
    "title": "増える外国人労働者、増える「日本語支援」が必要な子ども “自分らしい進路選択” も支える支援員",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jWW5JcHh5eWpocElzUzBudVhrM1BzZUNDZHYxckpyWTROYWVjOTJ1eEt0OGhUWGZMZzF3SER1M1ZtcTBuRl9DaDVlejhaS1dkLXdPWktmSQ?oc=5",
    "source": "TBS NEWS DIG",
@@ -280,20 +296,20 @@
    "published_iso": "2026-11-04T03:33:54+00:00"
   },
   {
-   "title": "難民支援キャンペーン『Think About a Refugee』第八弾「難民援助活動の資料」を請求した方に日本画家・平山郁夫さんの作品から制作した「キャンペーンカード」をプレゼント",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13TW12Ti16NnIzNk8zaDF3UFFDaXdiQ3U3QXd4djNuTUhHbVNZbXJjdmpMYnFxbU5tV0VkWEE5M0l0WG90STA2NkM5ZjJpbkxQSVhydGY5MU1hSS1SWS1jTXBfMkVXZUg3eEMzdThGdS15REozN2dYbF9COA?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-04 10:00",
-   "published_iso": "2026-11-04T01:00:00+00:00"
-  },
-  {
    "title": "「世界で米国の評判が落ちた」「共和は不法移民と戦う」 米中間選挙で有権者の思いは",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbFVjcHNTM1RhN2dzR2JiN2JkMU5RQ3Nwc0I3dEQzYldkODEwTGZIYWV5a2wxY1R2V1NBcmUtRnhXX0d1WDFXbTlXbnlndjljNlFFY3ZtckhfWlk5VkFhZW5mSkpMeVhmYU5rbGVPZlVZV2JVU2c?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-04 08:32",
    "published_iso": "2026-11-03T23:32:06+00:00"
+  },
+  {
+   "title": "外国人住民ら、日本語で交流 かるたや市民おどり体験 苫小牧",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kRDd4RlFBQUxDWms4MDBtSDdSUTFaMXZLNEZSU2F0QlNrb3Uyb0M3U19uY1JxaTJCWjdLT09FMTc0YjQ4bUhfaks5b3lrNkZyU3h5V3o3MExjdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-03 19:06",
+   "published_iso": "2026-11-03T10:06:43+00:00"
   },
   {
    "title": "「彼の言葉は信用できない」共和党苦戦の背景にヒスパニック系の“トランプ離れ” 移民政策に危機感 アメリカ中間選挙",
@@ -334,14 +350,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-11-03 11:59",
    "published_iso": "2026-11-03T02:59:00+00:00"
-  },
-  {
-   "title": "「認知症」との共生社会めざし研修会 社会福祉法人が一般企業で働く人対象に開催 本人の意思など大切にする「新しい認知症観」紹介",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrV3I2TlIyd1BabUwteUZOaHUyQjJIeVRPQ0h4eFR6SFZmcDR6ejRRLTN2TDlZSUVjUGx4TFVqdHExS0dkOVNCeVRCWGNiQQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-03 11:54",
-   "published_iso": "2026-11-03T02:54:00+00:00"
   },
   {
    "title": "英国、永住権取得条件の滞在年数を10年に引き上げ 移民急増で厳格に",
@@ -398,14 +406,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-02 16:48",
    "published_iso": "2026-11-02T07:48:00+00:00"
-  },
-  {
-   "title": "模索する欧州：EUの実験場？ イタリアがアルバニアで運営する移民施設の中身",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aUGlnaUI2bm5naXBvZ0pERTM3UUtmVFlZMXZyZXdaSmlzNkJHT2pmWmxEbUFmZFp6MTdWRXZVX3ZOekt6QzhYTWJ0NllpcGxWU1Y2X0lSYUlWOUJTSWNERUwyMHZUVzVw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-02 16:00",
-   "published_iso": "2026-11-02T07:00:00+00:00"
   }
  ]
 }
