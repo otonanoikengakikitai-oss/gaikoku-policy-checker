@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:31:12+00:00",
+ "generated_at": "2026-11-06T03:08:15+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -64,6 +64,14 @@
    "published_iso": "2026-11-05T20:00:00+00:00"
   },
   {
+   "title": "「難民映画祭」開幕 シリア出身監督作品など上映「難民を一人の人間として見てほしい」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52OXN6ZGh5ak82cUFMQ2hmajZGLVhPLVIwdFM0TTIzU0pnN0w5WElXcExKZWc5RmVjRGJzdVNYM1dtQUtUc2NFY0NDSmF0REQxUDNQaU9qbw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-05 23:45",
+   "published_iso": "2026-11-05T14:45:51+00:00"
+  },
+  {
    "title": "岡本多緒「映画を通して自分事に」 「難民映画祭」オープニング上映会で思いを告白",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11aUFQWHhMb0M3QmlkTzFiYnFiUkJWV0tMaE4yM3BqU3hKcXVYMGkwRDFNd1FkcC1lZTE4cTdoSXdfTlJVTFotdDc1UkVUd2N3cHBoUGtPUFBCZlU0R2hPVmdnS1V0THJjZF9UTGFXUkc?oc=5",
    "source": "読売新聞",
@@ -96,14 +104,6 @@
    "published_iso": "2026-11-05T08:25:00+00:00"
   },
   {
-   "title": "【事件】外国人実習生の顔にわさび、腹蹴り、殺虫剤噴射した疑い 船長たち3人逮捕 スマホ動画で発覚",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaWjZ1YTZzQjRMel9HVGRwQVVPTjVTYmFLYmF5QUFqeU45Rm5qOUZ0eDJobmZhM1paTWZQT09Qa2FsdXotVjNzSUpjYw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-05 16:44",
-   "published_iso": "2026-11-05T07:44:01+00:00"
-  },
-  {
    "title": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMnlQRWQxVDhUVUp2RWc5N0V4MGpsLWtKeDM0YmhCV2pIbzNYYTdVTXJWUXB4NmlUamEwVTZuNk9ZUkNpczJmaDQ3OUJCVmdWMjkxZ1BvS1V5cVBlandvYU9hcnJvSjQ?oc=5",
    "source": "やさしい朝日新聞",
@@ -113,7 +113,7 @@
   },
   {
    "title": "ディーエムソリューションズ[6549]：連結子会社オリジネーターにおける特定技能人材紹介事業開始のお知らせ 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWTZmb0syMHR0RjJKTzJJbmh5cUV2a3J6dmxIbURwT3BHZDM0YmM0aDRQVzlHQmNqSVNfSENlUGJfZXBZUU1QLVFMa3pXWDVsWjgyR0ZVb3FBVmlDMVpYVnN2bUEzX3FieXdXbnJzS2FTVlk2eWx4T000bEQ5TUtOb1d6cHdUOUZzeTI2LWFzYUJYbWtHaEh1VDd1M0JqX1kzSTJFNkVhWm83VkNTenFVTjNfZHJoa2hWdlY0VlBTVUlKNmhCbU5NeGhYYVo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hY19NVnBHUUJkcXNPMWkwaHd4VHkyNVFYYkpULWp3ajJnb0hQTzYxNWlRU3hMemY5MS1sRTZRR0tBcmlZODJablk3VEs3Y044VWVKZThFVFhMb3E3aXk2S3hFMTdxVGNBTlE?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-05 15:30",
@@ -241,7 +241,7 @@
   },
   {
    "title": "外国人観光客に“白タク”行為繰り返していたか パキスタン国籍の男6人を逮捕 「有償ではなく無償です」容疑否認",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kdi1MZ2w1cmNPUHdqM1FKUDNONFRZaUExTFpubDJmTEFnNVYwUnNrMWpiZDRFTmNaV1JPVDZDQ095RFZHTUpYMEE0WG9DSks0eG82djN5RQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sZWJNOFpZSXlQS1Z2VkNqNmZ6RlB6b0d4MzZjeW9qM0YwWi1zMEhsMGhzZmluVHVSRVBfeXZOZ191QlpIaFU4bkFxR2Y2cDBkQmd6RC10LUpWX3F4dTVTc25fRXdjMFE?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-04 18:27",
@@ -254,22 +254,6 @@
    "source_domain": "sankei.com",
    "published": "2026-11-04 18:05",
    "published_iso": "2026-11-04T09:05:34+00:00"
-  },
-  {
-   "title": "不法残留の交際相手を自宅に住まわせたか 国富町在住のベトナム人の女(37)を入管難民法違反ほう助の疑いで逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdXNPTk8xdHBSUGVfSFpwUjlIMDFiRVdBbVpaN2xnNnl6M183aEhoTWFBcWFreHpzcHQ4bzBxdDI3U1d6MDJvdFRkY0N3djNjNm96VldnU3FCX3NteDFaXzZWUkxiRUk?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-04 17:17",
-   "published_iso": "2026-11-04T08:17:00+00:00"
-  },
-  {
-   "title": "嵐山や姫路城に外国人観光客を送迎か 「白タク」行為の疑いでパキスタン国籍の男ら６人逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZdkRnSEZueFFGU2lzb3hUNnhkanZMcXdkUlZPbFJJQXpHelRGV0hUY3d2M3lZbTFfZFFqaVNzM1VwQkJmeERXQWZ5dUoySVVUbVdHRmc5d2ExSXJxYTd6TFd3?oc=5",
-   "source": "朝日放送",
-   "source_domain": "asahi.co.jp",
-   "published": "2026-11-04 17:09",
-   "published_iso": "2026-11-04T08:09:09+00:00"
   },
   {
    "title": "増える外国人労働者、増える「日本語支援」が必要な子ども “自分らしい進路選択” も支える支援員",
@@ -321,7 +305,7 @@
   },
   {
    "title": "「管理側が変化に対応していくのが課題」 “育成就労” 来年4月導入へ 企業向けセミナー 外国人労働者1.6万人は過去最多 富山",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYjdhY1VuUENITzBjWjhzcFhaVm9hbWhTSTdWeXhFNmU1MW9SNHhESE93OGstaDRFMm5JeE5ab29LRUtPSVlHLUxaVHVEZ1M4Y1huRHpKUGZDM3VIY0lUUlJkRjJBRTg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NDJpdlJBbEZBY3Q1OVFoR0RzRXV2dnppWmtzRmxEY3FiQ1VRcGRtSjVkSkJJR2J1S25jdUh4cEF3alBTOFZOeDc0dTBhR2VyT0JodnFOTkdVdw?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-03 17:36",
@@ -334,6 +318,14 @@
    "source_domain": "mainichi.jp",
    "published": "2026-11-03 17:12",
    "published_iso": "2026-11-03T08:12:00+00:00"
+  },
+  {
+   "title": "【西武】育成契約の外国人選手2人と来季の契約結ばず NPB史上初のスロベニア、ウガンダ出身選手",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZa0Uyek4zdFM5VWVXc0dINi14YW9ORXp5YzRPQVRXanR1eGlLVzFWV1plTmxLQWc0cDczbXNtckg4UEhQZWtxRHNsb3VrR2prV1NQNzNibGlXTEJta0xrWnRWbWVFRUk0T3IwZWNIMjMwRkxPZUg0ZkVBaw?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-03 12:21",
+   "published_iso": "2026-11-03T03:21:00+00:00"
   },
   {
    "title": "「彼の言葉は信用できない」勝敗のカギを握るヒスパニック系の“トランプ離れ” 移民政策に危機感 日本時間今夜（3日）アメリカ・中間選挙投票始まる",
@@ -376,18 +368,18 @@
    "published_iso": "2026-11-02T21:00:00+00:00"
   },
   {
-   "title": "ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVWw5dlpab0trYnlTTTV4Vl9HbU9QQjJZT1UzaElWRm5TOHJ0N2pGb2s4MVM5ZXE5WjYxQWFLd3hrVWxGN210T1d0N3dqMGJCd0VJLXk4d2g4aGhDaUZzeElR?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-03 05:00",
-   "published_iso": "2026-11-02T20:00:00+00:00"
-  },
-  {
    "title": "特定技能の外国人「ＡＩ発達で縮減」 受け入れ上限巡り発言 小野田担当相",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZUN1THJPbUtibEpxUkFYOGV1WjU3ckdxZnRWUWRHekJ1bllDZ0RQZ1V2Mm80WGk1RkdEZWtNRzh1UUJqa25uNjY4ZEtIMTJOUkVFLTNFdXotVHNf?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
+   "published": "2026-11-03 05:00",
+   "published_iso": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "title": "ロシア軍、外国人兵士に「入れ墨」で識別番号…「遺体確認に必要」と深く刻まれ「胸の痛み５日間続いた」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVWw5dlpab0trYnlTTTV4Vl9HbU9QQjJZT1UzaElWRm5TOHJ0N2pGb2s4MVM5ZXE5WjYxQWFLd3hrVWxGN210T1d0N3dqMGJCd0VJLXk4d2g4aGhDaUZzeElR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
    "published": "2026-11-03 05:00",
    "published_iso": "2026-11-02T20:00:00+00:00"
   },
@@ -406,6 +398,14 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-02 16:48",
    "published_iso": "2026-11-02T07:48:00+00:00"
+  },
+  {
+   "title": "ランタン作りや衣装試着・・・伝統の祭りでインド身近に 浦河町、多文化共生へ企画",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUlNiaERyZjRmQ3Y3UTNNZTcxU2NibEZabUF3a2Q2Nk5ZTTBoQWdJZEpWWDRkNGFLc3RFQmFCemdnQWgzNVo3VERJSklNSy1qRl81XzVNQS1QUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-02 16:12",
+   "published_iso": "2026-11-02T07:12:37+00:00"
   }
  ]
 }
