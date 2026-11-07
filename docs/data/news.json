@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:38:35+00:00",
+ "generated_at": "2026-11-07T04:37:57+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,60 @@
  ],
  "items": [
   {
-   "title": "中学生4割が外国人増に否定的 22年比ほぼ倍、ネットの影響か",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DUkF5SEt2MWVUS0dQVE43bkJrcGNqZFhKLW1CUmVFSnZFT0piYXM1UEJWbGhUMVdFbXRSMTh1dE1KRnFiRWtyNmFpUkpxcE5hZndRek1ld0lKZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-07 06:12",
-   "published_iso": "2026-11-06T21:12:18+00:00"
+   "title": "「敵性外国人」と呼ばれ、家を追われたカナダの日系人 風化にあらがう100枚の石板、強制移住2万2000人らの名前を刻む",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MLWRYMnhMTFVKVjNXWlpDMlB5cjh6Mk1EOWo3RVZWekMwSGdyQjd4Mmt2T2F1Q0lISy1Kb25ETHkxWnZtbXVUQXl1V2NOaE5lMjNqRG5zb2lWOEYyNFJqdy1VZktlaFpra1NV?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-11-07 11:30",
+   "published_iso": "2026-11-07T02:30:03+00:00"
+  },
+  {
+   "title": "トランプ氏が大統領首席補佐官の交代発表、中間選挙の大敗で「引責」か…後任は不法移民対策の「強硬派」",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pal9BT3FrMlBTLXY1YzJBMEoxbVlNZUtybE1Xa2RkU1kyTC1aZ3FnZlhMWTVLaEJ3azYxYmYwT3pFYTRRemdqTnJSVXh6MnhwRnlhQXRHYkhQdGg2NW0wQV9B?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-07 11:10",
+   "published_iso": "2026-11-07T02:10:00+00:00"
+  },
+  {
+   "title": "日本に住む外国人が増えると社会にとって良いことが多い - 中学生4割が外国人増に否定的 22年比ほぼ倍、ネットの影響か - 写真・画像(1/1)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbWdYeldCNlRIYTQzWno3dUZkU3JhYl93c3pzZnMyQ0ZuZ2FhUEdJT1FEX3BWNmhXbXdmX1BoSVFxXzhRb0w4XzhjYnVnTTJURm9hRFJtYw?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-11-07 11:07",
+   "published_iso": "2026-11-07T02:07:28+00:00"
+  },
+  {
+   "title": "【代償】トランプ政権下で消えた労働者たち「仕事に来るだけで命の危険も…」移民摘発強化がアメリカ経済に落とした暗い影",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2xsckw0bEc5UUl4bkhtMEZhVnh2aWtYdEU3ZkFfNnNjLTZYcXIxOGVTMkdCdk9VTmRoUGZqa3JQd091ck9ObHh6WmVTX21nVllpSVptMXpXSU5lVko3d1VPRW9VY01Kdk9yQnNDQkFwWHJOMVBMdmdqZWdXbVJEMWNZZFNCTk03dWlVQmlzQVVjT003?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-07 11:00",
+   "published_iso": "2026-11-07T02:00:00+00:00"
+  },
+  {
+   "title": "「町が活性化する何か一つでも役に立てれば」陸奥湊駅前に宿泊施設が開業予定 新たな交流拠点に バックパッカーや一人旅向けの相部屋の半個室 外国人宿泊者の街歩きツアーも企画へ 八戸市 | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82OGtMMzBjMW5xMTFmRjdlUXpXMHgxWER0dWVaMXJaX0ktd01IcjdoMWpBRTZ0VENoR0JuYlltdDc2bFVhNXJTOVJBQi0zWEhERER2UUJzUFFwbTBaZlVhMHVMdkZ0ZjQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-07 10:45",
+   "published_iso": "2026-11-07T01:45:00+00:00"
+  },
+  {
+   "title": "大東建託、日本語教育事業に参入 人材確保へインドネシアで来春開校",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZRVZCdzBLNnV6QmZpWE5Za1lWVWRyQUgzbGhLZnpaU05NY3FuSEFYZ2JJYkxEN0VhVk1DX20xb09iNXlGNXhtblVPYnJsRTlnYzZWWTlqRXlLcU9WUGJ2c0h5NEcwcU0?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-07 09:00",
+   "published_iso": "2026-11-07T00:00:00+00:00"
+  },
+  {
+   "title": "中学生４割が外国人増に否定的 ２２年比ほぼ倍、ネットの影響か",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pUDdNemhteWo2NXNEaGVJZ0NuSFVGNVBDbXl2SW5CQ203cWVTdWV2dk1PMTRIQ3NxVlpZVXNvLVVXc2I0LV9Gb3RLRnI2ak5sWmoxN3BjTVlvb1JZbDUtcmx6dw?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-11-07 06:04",
+   "published_iso": "2026-11-06T21:04:40+00:00"
   },
   {
    "title": "トランプ氏 最側近を交代 後任に移民強硬派を起用「変化を起こしたかった」",
@@ -30,6 +78,14 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-07 05:00",
    "published_iso": "2026-11-06T20:00:00+00:00"
+  },
+  {
+   "title": "トランプ大統領 首席補佐官を保守強硬派のミラー氏に交代 移民政策などで強硬色強める可能性",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wd1Vmd2tIVjBLTktZVjZLQkRwZWtqVF9PaVg3bkNibTQ4Tlg0ZHNfYU53cFNxamVBYm5OWkRwUnp1NXhOaXJPZWNkX2MxY3k3UG1IcW5Haw?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-07 04:42",
+   "published_iso": "2026-11-06T19:42:00+00:00"
   },
   {
    "title": "ヴォレアス 外国人3人、攻守で力を発揮（6日）",
@@ -70,14 +126,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-06 15:00",
    "published_iso": "2026-11-06T06:00:00+00:00"
-  },
-  {
-   "title": "「TOTOジャパンクラシック」に参戦中の外国人選手が日本語に挑戦！「ヨロシク、、、ガー、、、シマス」と大苦戦",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vUWxodTNfOGI3LXJhcy02UzZXNE9pcGNhZVFTQzdtSjY0aUpDVXNxNzV4NE0tT1VJbUNRcDJKZ2F2RENTMnNEbEdyWQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-06 14:21",
-   "published_iso": "2026-11-06T05:21:45+00:00"
   },
   {
    "title": "「第21回難民映画祭2026」開幕！岡本多緒さん・米本学仁さんが登壇、オープニング上映会を開催",
@@ -152,14 +200,6 @@
    "published_iso": "2026-11-05T20:00:00+00:00"
   },
   {
-   "title": "わたしの仕事：働く外国人サポート 現場で使える日本語を ／東京",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UVVAzQWZtT1FOUDdWUjVIUXcwaVMzY29Fck1URVRkaEFnVmFFQWVpUkdCQTZxQVZPTHdfZFFOQlk5cm5VclhpbUU0UGotNGlydzViMnB1Q0hSVkNnUUNqQ0NTNlRKWmFo?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-06 02:00",
-   "published_iso": "2026-11-05T17:00:34+00:00"
-  },
-  {
    "title": "「難民映画祭」開幕 シリア出身監督作品など上映「難民を一人の人間として見てほしい」",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52OXN6ZGh5ak82cUFMQ2hmajZGLVhPLVIwdFM0TTIzU0pnN0w5WElXcExKZWc5RmVjRGJzdVNYM1dtQUtUc2NFY0NDSmF0REQxUDNQaU9qbw?oc=5",
    "source": "TBS NEWS DIG",
@@ -190,6 +230,14 @@
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-11-05 17:25",
    "published_iso": "2026-11-05T08:25:00+00:00"
+  },
+  {
+   "title": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMnlQRWQxVDhUVUp2RWc5N0V4MGpsLWtKeDM0YmhCV2pIbzNYYTdVTXJWUXB4NmlUamEwVTZuNk9ZUkNpczJmaDQ3OUJCVmdWMjkxZ1BvS1V5cVBlandvYU9hcnJvSjQ?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-05 16:33",
+   "published_iso": "2026-11-05T07:33:11+00:00"
   },
   {
    "title": "【海外拠点をさらに拡充】MIRAI、スリランカ現地提携校にて特定技能クラスを新規開講！ゼロベースから日本語・専門スキルを習得する第1期生15名が始動",
@@ -248,14 +296,6 @@
    "published_iso": "2026-11-04T22:17:08+00:00"
   },
   {
-   "title": "「外国人が住みよい岡山に」 ８日、県国際団体協議会が考える会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04cEJNb0FEQks0czR0UXlydWxnZHZiVHJTa0xraS1iZGxleHc3SUNCeVZSZ3REV2hGOE5EeWJ2UlZTVlNUSlpNZGd5dw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-05 06:07",
-   "published_iso": "2026-11-04T21:07:07+00:00"
-  },
-  {
    "title": "石川が「関西観光圏」に？ 北陸新幹線が変える外国人の「ゴールデンルート」なぜ関西は大人気？",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tTUVKN2lrbm9GQlY5VWh3ai1tZFF2MjFlU0FxdjhxWU13Ui1sNGkwMkw0Mk5UTkVkSFgzbmpQQmh5T1hOOE94aVMzQnV0cVl2MmJJQi1xR1U?oc=5",
    "source": "京都新聞デジタル",
@@ -286,14 +326,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-05 04:00",
    "published_iso": "2026-11-04T19:00:00+00:00"
-  },
-  {
-   "title": "「右よし、左よし」県内初！外国人バス運転士がデビュー インドネシア出身の男性 山梨",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFF2aTI1dnhLMnpLYmhoNmp5bk1zYkZTTklxbzNZRzIyWm9EQ0hvS3doeDRwYzRrZzh1clFxMTVDRjZsWTJYbW5HRFgwRm54aUVvbWE1VW1hVnNJaUtLVDJRLXJDMlZscVpiVnNPQlhkR2NQcHU2VGNCZ3JGVHdrR21IYw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-04 20:10",
-   "published_iso": "2026-11-04T11:10:00+00:00"
   },
   {
    "title": "日本の「のり」海外で人気 “高くても売れる”輸出量が年々拡大 外国人観光客も「アメイジング」",
@@ -345,7 +377,7 @@
   },
   {
    "title": "不法残留の交際相手を自宅に住まわせたか 国富町在住のベトナム人の女(37)を入管難民法違反ほう助の疑いで逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZdXNPTk8xdHBSUGVfSFpwUjlIMDFiRVdBbVpaN2xnNnl6M183aEhoTWFBcWFreHpzcHQ4bzBxdDI3U1d6MDJvdFRkY0N3djNjNm96VldnU3FCX3NteDFaXzZWUkxiRUk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10blE3ZlJSQmFpR1BvdmNLemNCMkwzZjNYOVMwdkcwR1ZsSFNBbnJWWndpNGJDcUJBSUt6Rm5MM1NyN1lRWlBmS3d2MTBpdnd5d2RXdlpxc2xRQQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-04 17:17",
@@ -374,38 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-11-04 12:33",
    "published_iso": "2026-11-04T03:33:54+00:00"
-  },
-  {
-   "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45YWpnQy1YRVpPeEszaUF6ZDdVUUdCZFM4SlA5Q0ZPYjVQbzRpLWxiS2RSdmExcFFKWHZ4bUhEMVVONG1GbW1uejdmeVBIdU5WVmpUNml2cUg0LTR4ZFZEUDhIMkNXcVIteUwyQVFFRnQxdw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-04 11:48",
-   "published_iso": "2026-11-04T02:48:00+00:00"
-  },
-  {
-   "title": "「世界で米国の評判が落ちた」「共和は不法移民と戦う」 米中間選挙で有権者の思いは",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbFVjcHNTM1RhN2dzR2JiN2JkMU5RQ3Nwc0I3dEQzYldkODEwTGZIYWV5a2wxY1R2V1NBcmUtRnhXX0d1WDFXbTlXbnlndjljNlFFY3ZtckhfWlk5VkFhZW5mSkpMeVhmYU5rbGVPZlVZV2JVU2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-04 08:32",
-   "published_iso": "2026-11-03T23:32:06+00:00"
-  },
-  {
-   "title": "「彼の言葉は信用できない」共和党苦戦の背景にヒスパニック系の“トランプ離れ” 移民政策に危機感 アメリカ中間選挙",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xdkNrcC1mRk1TeHRBWERrTld5d0pxcWktRWJaQjl4NGt5THVvUDNrQnE5eFB4ZFpvWHVUaGJmTmlSNDRnV2Z4QXJUaDF0Wm9LWHl1MnEyaw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-03 17:59",
-   "published_iso": "2026-11-03T08:59:31+00:00"
-  },
-  {
-   "title": "「管理側が変化に対応していくのが課題」 “育成就労” 来年4月導入へ 企業向けセミナー 外国人労働者1.6万人は過去最多 富山",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4NDJpdlJBbEZBY3Q1OVFoR0RzRXV2dnppWmtzRmxEY3FiQ1VRcGRtSjVkSkJJR2J1S25jdUh4cEF3alBTOFZOeDc0dTBhR2VyT0JodnFOTkdVdw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-03 17:36",
-   "published_iso": "2026-11-03T08:36:00+00:00"
   }
  ]
 }
