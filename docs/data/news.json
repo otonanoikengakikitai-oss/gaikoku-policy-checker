@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T08:34:29+00:00",
+ "generated_at": "2026-11-08T15:46:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ソウル 秋の人気スポット 外国人観光客1300万人突破 過去最多",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tNGpKSTJQWDB5ZEd5RmpMTkpoVU9CZE4xd3BSby1YdDJSeXphS2UtdWF0R3hLaXBlWUMtSzNGclJVdTRDOC1FcWtPeWRWemhpSHdVSFAwVUdxRVY3dDdBWi1teENseTYweUdYS1VEbkM3c1VsZjJucUlR?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-08 18:25",
+   "published_iso": "2026-11-08T09:25:47+00:00"
+  },
+  {
+   "title": "「広島市が独自に外国人へ違法支給」ＳＮＳで拡散 生活保護巡り不正確な点 広島市「国の通知に基づき運用」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMXRQTzBodEtNOFRldWQ4Yk5sclJBalhKS3hmVENOMTZMcmlXLU9laFFSVHhRNlVjS05SWHNmdlI4WEt0M29vbG9FSQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-08 17:28",
+   "published_iso": "2026-11-08T08:28:00+00:00"
+  },
   {
    "title": "「難民」の類型化にあらがって ロヒンギャを小説で描いた理由",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSzlrX05FYXpWcGNlVVlpZFU0SFp1bFAzZlJXNDNQNUUtYWhLOUxWNHlkaEJfREE3RDFfX0hTTWNrUjBoSUJxZzd4T1ZDbWxBdEpheHBRTEdFYVFOSGt6OG1ZMzM4Tng2?oc=5",
@@ -32,8 +48,8 @@
    "published_iso": "2026-11-08T02:30:00+00:00"
   },
   {
-   "title": "運転手の仕事のため「酒やめました」ネパールへ家族残し来日、5人の外国人ドライバーと、初採用した運送会社の覚悟「彼らの力が、必要だ」 | 高知のニュース・天気｜KUTV NEWS | KUTVテレビ高知 (1ページ)",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83bnFTMGlRaC1RdnBFem93VU9aaFl3M1MzeU5YdGVPYl9qS3EyN19hWFJmQ1RaRlBZN3owOF9UMTV2RVRFUUYtdExhaUE1NV9Uem53MkRhVEVubkR2RGM2clQ5emRseG5D?oc=5",
+   "title": "運転手の仕事のため「酒やめました」ネパールへ家族残し来日、5人の外国人ドライバーと、初採用した運送会社の覚悟「彼らの力が、必要だ」",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92YkFZRzQ5SC1CYTI5QmhPZFJ2ZTAxeVBkYU5uSElFTlYwU0dkV2tLLTBFYlpMaEsyVThER3VzMnlpb1M0c2tfQ1VteDNfNVhWUlpQRlFLTQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-08 06:00",
@@ -160,14 +176,6 @@
    "published_iso": "2026-11-06T21:04:40+00:00"
   },
   {
-   "title": "トランプ氏 最側近を交代 後任に移民強硬派を起用「変化を起こしたかった」",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93OW9GT1RGVkQzQWVUUUh4QmRQQWwteG1tNjdpZDd5LVo0VElvNkhXWEtLSTA5aTVKMkU4RjlBUnJUVmx1NVBoZDB2c3FIck91WTI0VjN3bmNyY1FpMWVlcU5WcndNTjZKT0ZRczkxNHExZTVNLWp5dnJ3?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-07 05:48",
-   "published_iso": "2026-11-06T20:48:57+00:00"
-  },
-  {
    "title": "トランプ大統領 首席補佐官を保守強硬派のミラー氏に交代 移民政策などで強硬色強める可能性",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wd1Vmd2tIVjBLTktZVjZLQkRwZWtqVF9PaVg3bkNibTQ4Tlg0ZHNfYU53cFNxamVBYm5OWkRwUnp1NXhOaXJPZWNkX2MxY3k3UG1IcW5Haw?oc=5",
    "source": "TBS NEWS DIG",
@@ -182,6 +190,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-06 23:39",
    "published_iso": "2026-11-06T14:39:02+00:00"
+  },
+  {
+   "title": "外国人住民への偏見、防ぐ方法は 14日に札幌、15日は江別でセミナー",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWYnp5Ql83MWNaYzZjak1yYjlRa0FFZUFPTmNQa2pKRmw5eWdWTzA2Qjh0RmEyS1hFblBKckVzTDBteGNoT2JKYjc3OA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-06 20:33",
+   "published_iso": "2026-11-06T11:33:06+00:00"
   },
   {
    "title": "伝統工芸品の展示販売会 外国人観光客“ビューティフル”【鹿児島】",
@@ -232,12 +248,12 @@
    "published_iso": "2026-11-06T03:36:35+00:00"
   },
   {
-   "title": "比の技能実習生、ふるさとの味に笑顔 熊本地震受け「励ます会」",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GM3NLRGRXOUUzMXZpdEJSS0RGREV0ZUM4Rl9xd3kwS2xzQzB1QzVLaXJHY3NhOWg2cV9JR3VEUno5NFdlMmpQWFFqOE0ySk1OalVzUVlULVRleDBFcm1UbHFFUDdpek1H?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-06 08:15",
-   "published_iso": "2026-11-05T23:15:00+00:00"
+   "title": "秋北バス、県内初の「外国人運転士」採用 インドネシア人３人、来夏デビュー目指す",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4YWpzRnFwN3lSMnlUX2ZQbW1PQU9nN2FDTTIxWmo1Vy1BWWowekhiWDVWd180WHRZX3dEVldQQjZOVHRaeXlaVGdvWQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-06 06:45",
+   "published_iso": "2026-11-05T21:45:00+00:00"
   },
   {
    "title": "「難民映画祭」が都内で開幕 難民となったシリア人監督が当事者視点で避難生活を描いた作品など3作品が上映",
@@ -304,10 +320,10 @@
    "published_iso": "2026-11-05T08:30:00+00:00"
   },
   {
-   "title": "善光寺大本願を拠点に活動する中高生ら 外国人向け防災パンフでアワード受賞",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGeFNBc2JCbkxFQXpUbkkzc193LWM3VGtJa3V6NFRiZTExOFZta1BIOEVVcmZBR3VneEJVOFVqQzZmNUxxbXVhaEFwZTdjMGQzTEE4OVZ1dEpvb2hsZWRvbUFIT1NJel9vQVllblYydGs?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
+   "title": "京都で外国人観光客に“白タク”か パキスタン人6人逮捕「無償です」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZ0Y3bHZYQWJfVEc1YXZnVkV3QTJ1S2lpVGNhVE9ERDhXVXBYMU9EaXBibWx4Wm1oNDBtYkdlOHJSSXJiVU9abC1zVFN6QQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
    "published": "2026-11-05 17:29",
    "published_iso": "2026-11-05T08:29:00+00:00"
   },
@@ -344,6 +360,14 @@
    "published_iso": "2026-11-05T04:25:44+00:00"
   },
   {
+   "title": "インドネシア人技能実習生の顔にわさび塗ったか 暴行疑いで兵庫の漁船船長ら逮捕",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wTUxsU09iMUVtNUY2TmRGWXU5cDlYelNMSXIzUmhnQ2xYQzNBNnZBMVdiWkViN0psdTBPSHZYTi1yeXk1cF85TWZlc0JWcUhQQm5CRzY1ZDFYX1EydjFlQmpWbDV5TmswMnJ6eUpwUGhRUzVRNmc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-05 12:45",
+   "published_iso": "2026-11-05T03:45:22+00:00"
+  },
+  {
    "title": "【速報】技能実習生の顔にわさびか、漁船船長ら逮捕",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Mdlh4bnQ2SWpvd1U3SVdIcDE4ZlB5clp6ekhjYjc5eDllUzNwTDMzQVN4MldzU21tZ054b0dBLUY3NDdTYnRkWGw5aw?oc=5",
    "source": "47NEWS",
@@ -352,20 +376,20 @@
    "published_iso": "2026-11-05T03:22:07+00:00"
   },
   {
-   "title": "法の枠組み 外国人の人権を軽視 児玉晃一弁護士が新著で問う「高校生、大学生が知るきっかけに」",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZVJHX1VYZ1luRFR6Yjd2dVNGQjVfQmFnQTgxcUdQZ0xjTzF2ZUMtbk9lM3N3MG1RWExib25YRjNWYmZhY1d1WVJ1X1Vra3BqRVlN?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-11-05 07:17",
-   "published_iso": "2026-11-04T22:17:08+00:00"
-  },
-  {
    "title": "ふるさとの味「おいしい」 熊本地震経験 比の技能実習生ら 八代で励ます会 伝統料理楽しむ ／熊本",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Odkt4R0ZuRVAxQTlXNldRNkhXVGVSNmNBc3VFOUczcXQ0ZlZBM0FfQTRSb2dUWjZVOUhwLUt0VVdpOG5vTWM4cWxKckg4cWg0QTV4T3FWVENrS2Q3YVlTVV9Qc1RtSjh3?oc=5",
    "source": "毎日新聞",
    "source_domain": "mainichi.jp",
    "published": "2026-11-05 05:02",
    "published_iso": "2026-11-04T20:02:52+00:00"
+  },
+  {
+   "title": "増える外国人労働者、増える「日本語支援」が必要な子ども “自分らしい進路選択” も支える支援員",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jWW5JcHh5eWpocElzUzBudVhrM1BzZUNDZHYxckpyWTROYWVjOTJ1eEt0OGhUWGZMZzF3SER1M1ZtcTBuRl9DaDVlejhaS1dkLXdPWktmSQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-04 16:18",
+   "published_iso": "2026-11-04T07:18:00+00:00"
   },
   {
    "title": "長崎県と商船三井グループ、外国人材の受け入れ・定着促進へ連携",
@@ -382,30 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-11-04 08:32",
    "published_iso": "2026-11-03T23:32:06+00:00"
-  },
-  {
-   "title": "黒人の赤ちゃんに「移民は帰れ」の牙 SNS騒動が暴く日本の危うさ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ySEtUOFN3d1M3MFhmbkY2QTBlVDQzRHZWTTNLdnlXMEd4OE5HQXJWd3BRNnE3cE9qekcwTTU3eks1YzIyTkp3WEdMckRnMkxPVkV4eXp1c2tidkZQWkI0dEFMVkloM0k?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-03 10:00",
-   "published_iso": "2026-11-03T01:00:00+00:00"
-  },
-  {
-   "title": "特定技能の外国人「ＡＩ発達で縮減」 受け入れ上限巡り発言 小野田担当相",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aZUN1THJPbUtibEpxUkFYOGV1WjU3ckdxZnRWUWRHekJ1bllDZ0RQZ1V2Mm80WGk1RkdEZWtNRzh1UUJqa25uNjY4ZEtIMTJOUkVFLTNFdXotVHNf?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-03 05:00",
-   "published_iso": "2026-11-02T20:00:00+00:00"
-  },
-  {
-   "title": "技能実習生2人死亡 茨城・鹿嶋、釣り中にインドネシア国籍の男性4人が転落",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MOVYzOExyVGhoc3NfTlZCcVRHclhlcXk3S25laUQtbFJFZkdVNTE2RjE4c21aWVZ5NWYwLTBuQmd6a0ludDZwcEVfTFN3cmtHdFh6ZERTMVRsUngzUW5sNWNZU0VmWGd6eURBT3lnX1FEekM0a0E?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-02 14:17",
-   "published_iso": "2026-11-02T05:17:07+00:00"
   }
  ]
 }
