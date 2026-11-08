@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:26:00+00:00",
+ "generated_at": "2026-11-08T01:03:42+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -192,14 +192,6 @@
    "published_iso": "2026-11-06T11:33:06+00:00"
   },
   {
-   "title": "ご意見番は留学生 愛知大学で試食会、海外進出目指す企業に外国人の目線で改善点指摘",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HVXpheXJUaUF4UEphY2RYLTRlVlBYUUZDMG5yNTY3TDdzYW1aeDNRcHhLbTNFdkZHbHpMbVVCT1BnMlVGMERYQVIxcXhPdVhwVm1Fag?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-11-06 17:06",
-   "published_iso": "2026-11-06T08:06:59+00:00"
-  },
-  {
    "title": "日本語話せない外国人受刑者、ＡＩ翻訳機で意思疎通…社会復帰に向けた処遇充実に期待",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HWTJwTnA3MFU0YmtoYTMtemxDckM2OFRCeF9ZNlBrMHBEODJMY0pNX29nZHdESjlBMGhsZG9ZWFRnZ1d0eDZiYkRCUEExYmVjVW5uOUkwZEFmR3YzaEpaa2tBR3d4Zw?oc=5",
    "source": "読売新聞",
@@ -254,14 +246,6 @@
    "source_domain": "kyoto-np.co.jp",
    "published": "2026-11-06 05:05",
    "published_iso": "2026-11-05T20:05:00+00:00"
-  },
-  {
-   "title": "移民殺到、ネットが原因？ EU国境管理機関がSNS監視へ",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYThKTVU3a3k2U2NIbXgxVEcwcnNOWXNxQTlrS1RuWWNFM0tjRnhqZjlqbFM4cl9fZ2M2THBabmVUR29yTFczdUJUOWtsS3Y5RXBwVF9PY2NUSnBRUzZXUjBSYzNxMlZfVTdJZTA5NUkyRmduMG5tbXgwWURmWWdFNDNmc0RYckNaT19NTA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-06 05:00",
-   "published_iso": "2026-11-05T20:00:00+00:00"
   },
   {
    "title": "［米中間選挙２０２６］共和ゲリマンダー 不発 不法移民対策 裏目に 自党に有利な区割り",
@@ -320,6 +304,14 @@
    "published_iso": "2026-11-05T08:25:00+00:00"
   },
   {
+   "title": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMnlQRWQxVDhUVUp2RWc5N0V4MGpsLWtKeDM0YmhCV2pIbzNYYTdVTXJWUXB4NmlUamEwVTZuNk9ZUkNpczJmaDQ3OUJCVmdWMjkxZ1BvS1V5cVBlandvYU9hcnJvSjQ?oc=5",
+   "source": "やさしい朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-05 16:33",
+   "published_iso": "2026-11-05T07:33:11+00:00"
+  },
+  {
    "title": "組織的に外国人観光客を送迎、＜白タク＞容疑でパキスタン国籍の男６人を逮捕…１人は途中で事故起こす・６人中５人が「金もらっていない」と否認",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Uc1d1Zl9MdDZ2QzVlWnBSR29JZnZpbGlpQzFqaFZwMVhMa3FCTGwyd1pFSkc1WXVPc0U3Q1pDbmtnX003VWhRVWZnSUZleHNXZnF4RndKTE1neHlLMkM5Q3JiZUNOZm5YRmpqNnRiY2lsQQ?oc=5",
    "source": "読売新聞",
@@ -376,14 +368,6 @@
    "published_iso": "2026-11-04T20:02:52+00:00"
   },
   {
-   "title": "「デジタルノマド」 外国人6人 豊前の文化、自然を体験 温かい歓迎 住民と交流 ／福岡",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdkJpMEJKc05wa1c0dWpTTF9QNXpBdmltLXJCMUxERFRxX3EtV1BJVzVFdFI4WURrTnV2NnZJZFVpaE9zU0gzZlVtTHh1N0dibzVaelJMS0c4RHhzcEd1SFZpQ2tpYWZw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-05 05:02",
-   "published_iso": "2026-11-04T20:02:24+00:00"
-  },
-  {
    "title": "祭り楽しみ インドの伝統知る 浦河町、多文化共生へイベント 親子連れら サリー試着も",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xaGIzeGhEbnc4OWU4c1dnY0toQVd3RjVMTHljYmcwNDZaem85alBjeE9YbUlERHdtNE5BN25tNmkzMXNhb0Q2ZWtrLUV6RVEwZVpvVGt6TXptQQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -392,12 +376,28 @@
    "published_iso": "2026-11-04T19:00:00+00:00"
   },
   {
+   "title": "外国人材の受け入れや定着支援を強化「県と商船三井などが連携協定」人材不足解消へ《長崎》",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakFvV2RkYnlMTlRZUGc1ZTREYnNvblBqYUhycHZzR0wzc3JFbGQxTFBXQkVkdmt6ZUE2ZmxfZ2FLMExOa25yUV9sclY5NDhnMkpDLUE1WTg0RkpJUFdSX1JoWUJqc0o5RGZXNWtkS1k0WW9LSk0yOWpKSy15dTFGdkI2N1QtZ0U?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-04 19:19",
+   "published_iso": "2026-11-04T10:19:00+00:00"
+  },
+  {
    "title": "トランプ氏、多数派野党に予告「『ミスター拒否権』になる」 強硬移民対策は継続か",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORGZMZFVTVGdLTUtrdXZwTW5UcWgzVzhjb2dBMTVVOUNFY2ExLVY0NHNCbDZ4ZEpGT2F1cTFuVWF4c2ZXMUczMFJrbXA1UV92Zmp6aEdXQVhudGp6RndiTGU2VkJ0OFhnYzVrU2FqNy1MdThxaGdpdlpWSjRUSlpENGl3UVlKR0dyWkw1Uw?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-04 18:53",
    "published_iso": "2026-11-04T09:53:03+00:00"
+  },
+  {
+   "title": "長崎県と商船三井グループ、外国人材の受け入れ・定着促進へ連携",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uVVpTbFNDODZUVzAwNkpMM0RmdUZ6NlJYd0RCWWxKRG5pU1dRdS1vSk9TTmt4aDVZQVZUa1Zfb1lrODlnR3pILVFmVzZKRmJyNVJNa2V6RFpqUF9sNVNBMXhSal9od1N6NzkxRw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-04 12:33",
+   "published_iso": "2026-11-04T03:33:54+00:00"
   },
   {
    "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了",
