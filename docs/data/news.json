@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T15:46:37+00:00",
+ "generated_at": "2026-11-08T20:10:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「精神的につらい」京都府教育委員会のALTストライキから1年 「外国人の労働環境」厳しさあらわ",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kS3Q5ZF93QUJfakZlNFJuUExqYWVsaWwydHhmaDd2TXJSUHJ2RktFTnVLX1dkZGhuWjBhSzdqcjV1SC1DUFVXSmNDekRjRWJtM1cxakp6NjE?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-11-09 05:00",
+   "published_iso": "2026-11-08T20:00:00+00:00"
+  },
   {
    "title": "ソウル 秋の人気スポット 外国人観光客1300万人突破 過去最多",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tNGpKSTJQWDB5ZEd5RmpMTkpoVU9CZE4xd3BSby1YdDJSeXphS2UtdWF0R3hLaXBlWUMtSzNGclJVdTRDOC1FcWtPeWRWemhpSHdVSFAwVUdxRVY3dDdBWi1teENseTYweUdYS1VEbkM3c1VsZjJucUlR?oc=5",
@@ -160,6 +168,14 @@
    "published_iso": "2026-11-07T02:00:00+00:00"
   },
   {
+   "title": "「町が活性化する何か一つでも役に立てれば」陸奥湊駅前に宿泊施設が開業予定 新たな交流拠点に バックパッカーや一人旅向けの相部屋の半個室 外国人宿泊者の街歩きツアーも企画へ 八戸市 | 青森のニュース│ATV NEWS│青森テレビ (1ページ)",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82OGtMMzBjMW5xMTFmRjdlUXpXMHgxWER0dWVaMXJaX0ktd01IcjdoMWpBRTZ0VENoR0JuYlltdDc2bFVhNXJTOVJBQi0zWEhERER2UUJzUFFwbTBaZlVhMHVMdkZ0ZjQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-07 10:45",
+   "published_iso": "2026-11-07T01:45:00+00:00"
+  },
+  {
    "title": "中学生4割が外国人増に否定的 22年比ほぼ倍、ネットの影響か",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFeUNRMkxCbV9jSUQwTWs1R1JyR25JNUU2VlVmMzZjU1RyOWZXcDlmdFFNY3Z4YmdQSmhBR1RRUlRTMUlCMUNuMldyZw?oc=5",
    "source": "47NEWS",
@@ -190,14 +206,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-06 23:39",
    "published_iso": "2026-11-06T14:39:02+00:00"
-  },
-  {
-   "title": "外国人住民への偏見、防ぐ方法は 14日に札幌、15日は江別でセミナー",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWYnp5Ql83MWNaYzZjak1yYjlRa0FFZUFPTmNQa2pKRmw5eWdWTzA2Qjh0RmEyS1hFblBKckVzTDBteGNoT2JKYjc3OA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-06 20:33",
-   "published_iso": "2026-11-06T11:33:06+00:00"
   },
   {
    "title": "伝統工芸品の展示販売会 外国人観光客“ビューティフル”【鹿児島】",
@@ -320,28 +328,12 @@
    "published_iso": "2026-11-05T08:30:00+00:00"
   },
   {
-   "title": "京都で外国人観光客に“白タク”か パキスタン人6人逮捕「無償です」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZ0Y3bHZYQWJfVEc1YXZnVkV3QTJ1S2lpVGNhVE9ERDhXVXBYMU9EaXBibWx4Wm1oNDBtYkdlOHJSSXJiVU9abC1zVFN6QQ?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-05 17:29",
-   "published_iso": "2026-11-05T08:29:00+00:00"
-  },
-  {
    "title": "「真の共生社会づくりへの新たな一歩」…東京デフリンピックの記念プレートが完成、東京体育館前で除幕式",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RMWF4MWtqcUhsTk9KS05UbTlhUEFNZWtGVkR1VV9ZVTdoWDdISjdja0dQU211ZmlOd1ZCRFpob1V2WHJzYkZHT3dHWjRVb2Q3QWxB?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5uanV6bk11SUpfS2lKc3VvS2p1TEFuMXZIRlVpR2h6c21PT2hJUFpqLWUyLTZCLXlaUHFIcXNpUzRuNUFpM0FmMHkxNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-11-05 17:25",
    "published_iso": "2026-11-05T08:25:00+00:00"
-  },
-  {
-   "title": "茨城県つくば市で外国人留学生が「やさしい日本語」の防災かるたを楽しみました",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kMnlQRWQxVDhUVUp2RWc5N0V4MGpsLWtKeDM0YmhCV2pIbzNYYTdVTXJWUXB4NmlUamEwVTZuNk9ZUkNpczJmaDQ3OUJCVmdWMjkxZ1BvS1V5cVBlandvYU9hcnJvSjQ?oc=5",
-   "source": "やさしい朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-05 16:33",
-   "published_iso": "2026-11-05T07:33:11+00:00"
   },
   {
    "title": "漁船船長ら、技能実習生に暴行か “顔にワサビ塗る”など携帯電話に動画",
@@ -374,6 +366,14 @@
    "source_domain": "47news.jp",
    "published": "2026-11-05 12:22",
    "published_iso": "2026-11-05T03:22:07+00:00"
+  },
+  {
+   "title": "法の枠組み 外国人の人権を軽視 児玉晃一弁護士が新著で問う「高校生、大学生が知るきっかけに」",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZVJHX1VYZ1luRFR6Yjd2dVNGQjVfQmFnQTgxcUdQZ0xjTzF2ZUMtbk9lM3N3MG1RWExib25YRjNWYmZhY1d1WVJ1X1Vra3BqRVlN?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-05 07:17",
+   "published_iso": "2026-11-04T22:17:08+00:00"
   },
   {
    "title": "ふるさとの味「おいしい」 熊本地震経験 比の技能実習生ら 八代で励ます会 伝統料理楽しむ ／熊本",
