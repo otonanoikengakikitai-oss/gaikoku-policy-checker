@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T20:10:35+00:00",
+ "generated_at": "2026-11-09T00:30:47+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "ひろゆき氏 “中学生4割が外国人増に否定的”の調査結果に「当然でしょ。中学生がちゃんとニュースを」（スポニチ）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMRm5JZ0RCbFF2eTJ5UGd0NXo3Nkg3TmNXc2N4bEtXMVRRMGJ2eEZJbjlhYnE3YkIyNC1JbURGcjh0bUhpM0lwZHJPWm9GWVZYYnQ3MkptZGJaUmNCUlFSblZmdnJpU25Z?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-09 09:27",
+   "published_iso": "2026-11-09T00:27:08+00:00"
+  },
+  {
+   "title": "ラーメンでもスシでもない！ 「焼き魚定食」に外国人客が行列 チャットGPTも勧める“日本の伝統的な朝食”の魅力とは",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hQkNqUF9PYXc5dnBVbktKS3pISW1jQzNPWU4tQmkyOFkxallkVXVUajRRbXpiODBsUHc5cVI2REd0UmpWeDZqbTMzbTA0RVpW?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-11-09 07:00",
+   "published_iso": "2026-11-08T22:00:00+00:00"
+  },
+  {
+   "title": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13bi1RU2hnbWlyN3pBcGpnVjBiQ3RNVWJEMm1EdVlsaDRhYm13eVZZZzJwT2JoZXlMUFRXYkNWVXVQekFEYXRQSm1UY0hNOU1kR1hPSkFzOUpxRlRva01lTXFiTE5XTXM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-09 06:00",
+   "published_iso": "2026-11-08T21:00:00+00:00"
+  },
   {
    "title": "「精神的につらい」京都府教育委員会のALTストライキから1年 「外国人の労働環境」厳しさあらわ",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kS3Q5ZF93QUJfakZlNFJuUExqYWVsaWwydHhmaDd2TXJSUHJ2RktFTnVLX1dkZGhuWjBhSzdqcjV1SC1DUFVXSmNDekRjRWJtM1cxakp6NjE?oc=5",
@@ -136,28 +160,12 @@
    "published_iso": "2026-11-07T03:00:00+00:00"
   },
   {
-   "title": "「敵性外国人」と呼ばれ、家を追われたカナダの日系人 風化にあらがう100枚の石板、強制移住2万2000人らの名前を刻む",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MLWRYMnhMTFVKVjNXWlpDMlB5cjh6Mk1EOWo3RVZWekMwSGdyQjd4Mmt2T2F1Q0lISy1Kb25ETHkxWnZtbXVUQXl1V2NOaE5lMjNqRG5zb2lWOEYyNFJqdy1VZktlaFpra1NV?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-11-07 11:30",
-   "published_iso": "2026-11-07T02:30:03+00:00"
-  },
-  {
    "title": "トランプ氏が大統領首席補佐官の交代発表、中間選挙の大敗で「引責」か…後任は不法移民対策の「強硬派」",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pal9BT3FrMlBTLXY1YzJBMEoxbVlNZUtybE1Xa2RkU1kyTC1aZ3FnZlhMWTVLaEJ3azYxYmYwT3pFYTRRemdqTnJSVXh6MnhwRnlhQXRHYkhQdGg2NW0wQV9B?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-07 11:10",
    "published_iso": "2026-11-07T02:10:00+00:00"
-  },
-  {
-   "title": "日本に住む外国人が増えると社会にとって良いことが多い - 中学生4割が外国人増に否定的 22年比ほぼ倍、ネットの影響か - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UbWdYeldCNlRIYTQzWno3dUZkU3JhYl93c3pzZnMyQ0ZuZ2FhUEdJT1FEX3BWNmhXbXdmX1BoSVFxXzhRb0w4XzhjYnVnTTJURm9hRFJtYw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-07 11:07",
-   "published_iso": "2026-11-07T02:07:28+00:00"
   },
   {
    "title": "【代償】トランプ政権下で消えた労働者たち「仕事に来るだけで命の危険も…」移民摘発強化がアメリカ経済に落とした暗い影",
@@ -192,6 +200,14 @@
    "published_iso": "2026-11-06T21:04:40+00:00"
   },
   {
+   "title": "トランプ氏 最側近を交代 後任に移民強硬派を起用「変化を起こしたかった」",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93OW9GT1RGVkQzQWVUUUh4QmRQQWwteG1tNjdpZDd5LVo0VElvNkhXWEtLSTA5aTVKMkU4RjlBUnJUVmx1NVBoZDB2c3FIck91WTI0VjN3bmNyY1FpMWVlcU5WcndNTjZKT0ZRczkxNHExZTVNLWp5dnJ3?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-07 05:48",
+   "published_iso": "2026-11-06T20:48:57+00:00"
+  },
+  {
    "title": "トランプ大統領 首席補佐官を保守強硬派のミラー氏に交代 移民政策などで強硬色強める可能性",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wd1Vmd2tIVjBLTktZVjZLQkRwZWtqVF9PaVg3bkNibTQ4Tlg0ZHNfYU53cFNxamVBYm5OWkRwUnp1NXhOaXJPZWNkX2MxY3k3UG1IcW5Haw?oc=5",
    "source": "TBS NEWS DIG",
@@ -206,6 +222,14 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-06 23:39",
    "published_iso": "2026-11-06T14:39:02+00:00"
+  },
+  {
+   "title": "外国人住民への偏見、防ぐ方法は 14日に札幌、15日は江別でセミナー",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWYnp5Ql83MWNaYzZjak1yYjlRa0FFZUFPTmNQa2pKRmw5eWdWTzA2Qjh0RmEyS1hFblBKckVzTDBteGNoT2JKYjc3OA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-06 20:33",
+   "published_iso": "2026-11-06T11:33:06+00:00"
   },
   {
    "title": "伝統工芸品の展示販売会 外国人観光客“ビューティフル”【鹿児島】",
@@ -288,7 +312,7 @@
    "published_iso": "2026-11-05T20:05:00+00:00"
   },
   {
-   "title": "［米中間選挙２０２６］自党に有利な区割り 共和ゲリマンダー 不発 不法移民対策 裏目に",
+   "title": "共和党の「ゲリマンダー」不発…有利な区割り主導したが「不法移民対策」でヒスパニック系支持層が離反",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53SzhNTU1GV2tWZHdweWtjbTkyUWw5N1M5QUJNdm5RLU9PQnBfLXMtSFdZMTFYQkRvRmJJUU1qd2ZWcXhucjNadm9wM1lSa0dseVI5UEltVWVETUkxeXFCWjNR?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
@@ -382,30 +406,6 @@
    "source_domain": "mainichi.jp",
    "published": "2026-11-05 05:02",
    "published_iso": "2026-11-04T20:02:52+00:00"
-  },
-  {
-   "title": "増える外国人労働者、増える「日本語支援」が必要な子ども “自分らしい進路選択” も支える支援員",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jWW5JcHh5eWpocElzUzBudVhrM1BzZUNDZHYxckpyWTROYWVjOTJ1eEt0OGhUWGZMZzF3SER1M1ZtcTBuRl9DaDVlejhaS1dkLXdPWktmSQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-04 16:18",
-   "published_iso": "2026-11-04T07:18:00+00:00"
-  },
-  {
-   "title": "長崎県と商船三井グループ、外国人材の受け入れ・定着促進へ連携",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uVVpTbFNDODZUVzAwNkpMM0RmdUZ6NlJYd0RCWWxKRG5pU1dRdS1vSk9TTmt4aDVZQVZUa1Zfb1lrODlnR3pILVFmVzZKRmJyNVJNa2V6RFpqUF9sNVNBMXhSal9od1N6NzkxRw?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-04 12:33",
-   "published_iso": "2026-11-04T03:33:54+00:00"
-  },
-  {
-   "title": "「世界で米国の評判が落ちた」「共和は不法移民と戦う」 米中間選挙で有権者の思いは",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbFVjcHNTM1RhN2dzR2JiN2JkMU5RQ3Nwc0I3dEQzYldkODEwTGZIYWV5a2wxY1R2V1NBcmUtRnhXX0d1WDFXbTlXbnlndjljNlFFY3ZtckhfWlk5VkFhZW5mSkpMeVhmYU5rbGVPZlVZV2JVU2c?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-04 08:32",
-   "published_iso": "2026-11-03T23:32:06+00:00"
   }
  ]
 }
