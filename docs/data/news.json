@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:14:03+00:00",
+ "generated_at": "2026-11-10T17:28:44+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,76 @@
  ],
  "items": [
   {
+   "title": "外国人定着に基金創設を 山脇啓造氏",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cFFodFFHMmRHM2RSZFQwZXJzMUJDeW9MYUEwVGNvUmY0MVBuVXBpNlpkVXE4a2Z3QTNYbjdHbW40ekk3Zk1teWdfQzYtNDNjcWJNeGVtZGFjLWhGQWN6dWgwV0hEcFUwcVRJeQ?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-11 02:00",
+   "published_iso": "2026-11-10T17:00:00+00:00"
+  },
+  {
    "title": "土手が崩れた難民キャンプ",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zTkxuaTZjV1dEbnlLWWxqYWFUcHdYMXRBNDN5RHluMFFwLWNvMFgwdVVsZ21MSVJ3d3FOTnpLTDRkMGYwQUJCdDhCQjhLTUJwWDQ1RTk2U3NyTmtIcnRKUmdsSjM?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
-   "published": "2026-11-10 18:12",
-   "published_iso": "2026-11-10T09:12:45+00:00"
+   "published": "2026-11-10 21:12",
+   "published_iso": "2026-11-10T12:12:45+00:00"
+  },
+  {
+   "title": "「海外に “肩こり” は存在しない」は本当？ アジアに多い？“肩こりある”外国人も…外国人に大調査！【Nスタ解説】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GRkFoQVU2UlA2MzJ3Tm1rOFVzb3FWSEphTDBQbTZHa09vSWhIdTdQaG1DMjJNWk1xTFgtU2RGeU4tQ1g1T2VkSzF3RldmTDFWbWY0a3FSWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-10 20:37",
+   "published_iso": "2026-11-10T11:37:28+00:00"
+  },
+  {
+   "title": "松本市多文化共生条例に盛り込むべき内容は 有識者や市民ら懇談会で議論",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80NHQxR0pmOTZnM25xYk4wTVA4VEV6SklacmNyczdYTEZUSnI5UVlOazV4aG5oOUpWYkZQNW96elUyTExvLVhvMGxBQTZYeTdVRF9FdjB6dTRERXVoejhZd24wLXlfcjljR1VNcWtRUzA?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-11-10 20:23",
+   "published_iso": "2026-11-10T11:23:00+00:00"
+  },
+  {
+   "title": "「焼き魚」外国人魅了のワケ “日本流”に感嘆「自国にはない」",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05MGpvRjJGcFpUYU5USHE1aXotOVh0R3gxMkhTcWtpOHFrY0tSeENRTVlsNFhnelVkeUV0TEsyMUxscTByV1ZRU2ZtQ1Zkbjd5WFl4eXNSeGlJZmROSlhhamE5YjQwbEpEeHZaeWwtMGFxZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-10 19:29",
+   "published_iso": "2026-11-10T10:29:31+00:00"
+  },
+  {
+   "title": "奈良で“シカ被害”過去最多 搬送者の7割強が外国人",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HcUlibmo2UWJyMHpFbkVZQXRtR004LUtlV2ljbkhCaGJpMWtPd1Z5N0ZiZV9pMlFEWWpVWVJ5Zk9JQjNvOUNNVGtpUURXY04yQlJFbFRUWmxVd29lLWk5QkplbDhqcl94bVVMR24zNmNzZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-10 19:21",
+   "published_iso": "2026-11-10T10:21:21+00:00"
+  },
+  {
+   "title": "敵対する外国人不良グループにコンクリブロック投げつけた疑い 20代の男2人を逮捕 当日は40人が関わる抗争に発展",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5cFkzcERmVkFkVWotTDY4RG01MEp1a1hveVNlNXRSTVVxRmlHc1hxa3c2SVlIWDhQUXJzSWVSUmlST0tKaHBjdEllZGdudw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-11-10 19:12",
+   "published_iso": "2026-11-10T10:12:35+00:00"
+  },
+  {
+   "title": "【カープ】FA権行使の楽天・太田捕手と11日交渉へ＆新外国人投手（28）を獲得（2026年11月10日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YZGZyLVkzeE9NaExnZ2RaT1JmSTBCc0FXNExyRHRmbXNSWnI3MFc5T01iZUpvMWhyX0VXUXRtdURzRzluNW8ySE5KRjRwRUpzVjdja25aZnltbXZncFNIdHkzZ1YwRzA4aUs3SjdiZXM1QVhrRnhxQTVtX1dCUQ?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-10 19:04",
+   "published_iso": "2026-11-10T10:04:01+00:00"
+  },
+  {
+   "title": "呉で外国人と住民がスポーツ交流 広島修道大生企画 笑顔の輪【多文化共生】",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SNU5uSTZFZzJUWE9EYkxvWW5EUGdwbzNmTUNpVnBjWFpTOEstRU85TlBHemgtNGRZdlZyYXp6eWV5TlhneklleDdMZw?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-10 18:57",
+   "published_iso": "2026-11-10T09:57:14+00:00"
   },
   {
    "title": "外国人技能実習生ら雇う北海道内企業で法令違反が続出、過去10年で最多に…安全基準や未払い賃金など問題視",
@@ -40,36 +104,12 @@
    "published_iso": "2026-11-10T06:37:02+00:00"
   },
   {
-   "title": "「宿泊業の外国人採用はまずインターンシップから」～外国人インターンシップから始める採用成功のポイント～",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvUTRkc0lXNGszSXNrVG5zbmwwaWMySFNKRVIyOU5KS2pVTFF2VWxhWno0c0xpZmJvRjJTMGhXQVZ2RXI1dEdBNl9ROXVwTXlCQ2gzaXRwd3hnZkpiRTloMkNyaEtqWkxtYUpZ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-10 15:16",
-   "published_iso": "2026-11-10T06:16:00+00:00"
-  },
-  {
-   "title": "外国人財の受け入れから30年 2027年の育成就労制度開始を見据えた人財育成を強化",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpV1dZcHdnXy1LdWRRdDFUTFoxNGFKenF6LVpQbkJSemFmdXU4eDFwdWV0a2tiM0hTVGlCQk00QUVGdlNfWGhNNUZyaHloUjlpdl9kWWVGeHhTM2JrOGYxM2p3aDNUSnlLWk9r?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-10 15:16",
-   "published_iso": "2026-11-10T06:16:00+00:00"
-  },
-  {
    "title": "外国人観光客3倍に アニメと信長、SNSで広がる「隠れた名所」 [愛知県]",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlYzdZUVQyZ3hWZHhqUEpMWTRKT1h6T3dFTEV3RGlZQUxLUFhfZUpMd05naHh1Q2tPUm1keVhpX1daRkV2WDR4SmVpTU55cnMtblBVTzVZdnVsSXNYWTlIRTY5S3NUS2s?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-11-10 15:00",
    "published_iso": "2026-11-10T06:00:00+00:00"
-  },
-  {
-   "title": "広島、新外国人マギー投手を獲得 大リーグ通算20試合登板",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DRWczSFJRX2hqUi1pTENGNmdMYWNfQUZWbjJXMk9LSWktT3dGbnJjUk1odWJsSFBJenJOWDJlRllDUVhzX1FVeVZROA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-10 14:57",
-   "published_iso": "2026-11-10T05:57:38+00:00"
   },
   {
    "title": "移民船遭難で50人超死亡 セネガルとクレタ島沖",
@@ -120,12 +160,12 @@
    "published_iso": "2026-11-10T01:38:27+00:00"
   },
   {
-   "title": "広島 新外国人マギーと契約合意 メジャー通算20試合登板、2m1の長身右腕「努力をして自身の最善を」（スポニチ）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQWHpNVVdPcmI2UnpGV1FLYnlHRWgtdURpX1YxdmJ2Sll5WUpkT3hQcXBOUHI2RDVIdWRQanZKd00tMS1DMHZZLXNvMFBYbFpTNjg1aHRMT05udnJiM2UtM3YtNjRsMjBR?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-10 10:02",
-   "published_iso": "2026-11-10T01:02:30+00:00"
+   "title": "外国人の生活保護「違法」の投稿拡散 広島市は「国の通知が根拠」 [広島県]",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXVTZWtRMUFkeUdJRnlxYVdBdUI0MnM5MTNBVzJMZG1aMk9fdUcxTmRJemd5SWF5QlNlRHlYd04zQ3J2THo3NF92bEhZVUJNTE8xRE8xVnZxYkhURDVIOWxDdklZUzJGeDJTNTRmQjUzMFduajFMVWJNeUUwcm9MQlBqOHVIWWpVVVFuVk5TX1RLTFE?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-10 10:15",
+   "published_iso": "2026-11-10T01:15:01+00:00"
   },
   {
    "title": "外国人実習生や観光客も避難場所へ 標津高生が3D動画",
@@ -200,14 +240,6 @@
    "published_iso": "2026-11-09T20:00:00+00:00"
   },
   {
-   "title": "＜フォーカス＞冬の原発事故 課題なお 泊防災訓練終了 避難路除雪／被ばく対策／外国人支援",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OQUE1Ym1JeHR2YnNuTXd6VkxCcVlzcm5vdEVrRy1qV2FJTHFJcTVlYnJFNnM1RWFYbnMwSWVsa2E0UnZuWWNlNU84REtneVYwbUVtTE1WUy1oUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-10 04:00",
-   "published_iso": "2026-11-09T19:00:00+00:00"
-  },
-  {
    "title": "技能実習 449事業所違反 25年指導 道労働局が是正勧告 安全基準違反が最多",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybW9Sb2ZucHJ5UHU1eXVnS05RZElwTTE2RFdsVkJRQ29tejh5aFFtaU1JMkhvT1pfazFDNUx3MVl6SDVESlZZUXcxdmt2Qm5yYjNQWGgwUEptUQ?oc=5",
    "source": "北海道新聞デジタル",
@@ -216,18 +248,10 @@
    "published_iso": "2026-11-09T19:00:00+00:00"
   },
   {
-   "title": "関空の訪日外国人旅客、累計２億人突破 開港から３２年、記念セレモニー",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1icUZzMXBteWF5M1AtbTJOVHowUURzbWdjZnBVVEk1RmdnRXk1OVN5Y3FzWXhaQmNpZmQ2Um5FclEwUl9BMlAybXA3bw?oc=5",
+   "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yS01kc1dibVFqT0hjRXFMSGhDVEhhaEdqM2I2RFpsNHZnTVRkSzZrWjJtVExycHZRaDZZbXUzREtGbXQ1aHd3WEpFSQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
-   "published": "2026-11-09 21:17",
-   "published_iso": "2026-11-09T12:17:04+00:00"
-  },
-  {
-   "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWnpQYTFCd2JoekJhN2xyUk45bGJUMXJRcHduN3JJaVk3a05UZzBCVGNSbnZJYmRmS3dCSGZtcXNmSE12bllRZ0Q3d0FlMElpczJaQ25mRndCQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-09 20:17",
    "published_iso": "2026-11-09T11:17:11+00:00"
   },
@@ -246,14 +270,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-09 19:43",
    "published_iso": "2026-11-09T10:43:00+00:00"
-  },
-  {
-   "title": "警視庁が留学生を対象に110番通報の訓練 参加者「外国人でも助けてもらえると分かり良かった」 日本語が母国語ではなくても通報できるよう 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wbHZ3cGhycFJWRWhSazAwc0FmallnUzhWYndZZ3dTZjBKLXVuTzVnTUlQdWN5eUZtSHVSdWs5ZTFzTm15X1FRclBGTzZfTWVScmtLbklNcw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-09 18:55",
-   "published_iso": "2026-11-09T09:55:32+00:00"
   },
   {
    "title": "円安や万博などで急増！外国人の利用客が2億人を突破 関西空港で記念セレモニー",
@@ -304,12 +320,12 @@
    "published_iso": "2026-11-09T07:23:02+00:00"
   },
   {
-   "title": "ラーメンでもスシでもない！ 「焼き魚定食」に外国人客が行列 チャットGPTも勧める“日本の伝統的な朝食”の魅力とは",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByUGpVeVJxOURaQy00YVB2YUN0T3hMZTZWTFZ4QXh3Z2hNcXY0cDhqa3hVbWtaWkoxTkdYYjlHdkFpVk9telVPSVVlQjVEYnZYSFdCd04yWlV2UQ?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-09 07:00",
-   "published_iso": "2026-11-08T22:00:00+00:00"
+   "title": "トランプ大統領「我々の主張をうまく伝えられなかった」中間選挙の敗因語る 自身の移民政策「厳しすぎた」",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5Y083N2RxY3I4Z1dyRlJwS0c4c0d5ejc0NjY2U2JfbFZrSldzM2VwN1NtclcyUlhpOHNpQS01WXZzNW9UWTVWN1I3ZmVZZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-11-09 13:35",
+   "published_iso": "2026-11-09T04:35:00+00:00"
   },
   {
    "title": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]",
@@ -326,14 +342,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-08 18:25",
    "published_iso": "2026-11-08T09:25:47+00:00"
-  },
-  {
-   "title": "「広島市が独自に外国人へ違法支給」ＳＮＳで拡散 生活保護巡り不正確な点 広島市「国の通知に基づき運用」",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhMXRQTzBodEtNOFRldWQ4Yk5sclJBalhKS3hmVENOMTZMcmlXLU9laFFSVHhRNlVjS05SWHNmdlI4WEt0M29vbG9FSQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-08 17:28",
-   "published_iso": "2026-11-08T08:28:00+00:00"
   },
   {
    "title": "「難民」の類型化にあらがって ロヒンギャを小説で描いた理由",
@@ -398,14 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-07 12:00",
    "published_iso": "2026-11-07T03:00:00+00:00"
-  },
-  {
-   "title": "トランプ氏が大統領首席補佐官の交代発表、中間選挙の大敗で「引責」か…後任は不法移民対策の「強硬派」",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pal9BT3FrMlBTLXY1YzJBMEoxbVlNZUtybE1Xa2RkU1kyTC1aZ3FnZlhMWTVLaEJ3azYxYmYwT3pFYTRRemdqTnJSVXh6MnhwRnlhQXRHYkhQdGg2NW0wQV9B?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-07 11:10",
-   "published_iso": "2026-11-07T02:10:00+00:00"
   }
  ]
 }
