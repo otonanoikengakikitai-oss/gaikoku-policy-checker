@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:28:44+00:00",
+ "generated_at": "2026-11-10T22:49:18+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,76 @@
  ],
  "items": [
   {
+   "title": "カープ 新外国人イーストン・マギー投手の獲得を発表 右投げ右打ち 大リーグ・ロイヤルズなどでプレー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XWWhyY2ZGS21xd0MxbkgtMi04Tmw4SWVjZ0lPb1Rtamo5UlNILWI2MVZlNFpxamNvdU1RLU9FQmNudDAweEdkamdMSmZidw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-11-11 07:20",
+   "published_iso": "2026-11-10T22:20:00+00:00"
+  },
+  {
+   "title": "「外国人は追い込まれている」「1人の後ろには多くが」専門家の見方",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xeFJkOENOVDVfUnpPYTcxZkRjd3RkRTdWeUwtdGFCeGRBTGlRaEthTE0zVnRwTVg2RVFvMldmaE1MNDFWTEl3cnpHYVVLUDJNbFdOeFVzSlBvYkhKSml3OGlzRUk5bWM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 06:01",
+   "published_iso": "2026-11-10T21:01:00+00:00"
+  },
+  {
+   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUlBQcExIcm5qbi1vN2FJTkI1aDRHRG9TN0daeXQ4N0ppMjVHQWMtcWp0QlppTUNlNWp0ZnJFZE5NR1lyM3hUYmdsbkRpVm1ZdGJ5ZGcwYTJjTEFZc3YxVnJjZzA3b0k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 06:01",
+   "published_iso": "2026-11-10T21:01:00+00:00"
+  },
+  {
+   "title": "「同胞が犯罪」新宿から通報 「ベトナムと日本の関係損ねたくない」 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wcTZvdHd6M1ExWlBTUk9XT0NmY2J3ZmpydGhzWXZTdXJON3ZDaE1iSG5vZy1EVG9hdEpxXzlSZWJmdjhBZHZCcFdZODI5WkdySVNPQjZDRGNGY0JpcEloQ1dDUlFHNzQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 06:00",
+   "published_iso": "2026-11-10T21:00:00+00:00"
+  },
+  {
+   "title": "（アメリカ中間選挙２０２６）移民摘発恐れ、通りから人が消えた",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xc0xvblJyQ2ozcTNOeTdWMDdvWWhOSkNSSnAtSmxGakNIY0pKWm5KUG9zRWFtSjZVRHB5THNJQjlCTGRsTkNjVlBUSjVSMHg4elo4VkwxdFJPX3pO?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 05:00",
+   "published_iso": "2026-11-10T20:00:00+00:00"
+  },
+  {
+   "title": "「移民を排除するより…」左派市政のブレない信念 極右躍進のフランスで逆を行くルーアン市を訪ねた",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vdjFPczFYU29qam9va0E1azFSclpjLVdfTzFCbmQxNlZDZl9QZmNqYk5vaDBfV0k4aFVOTW1JSkRseVAxbFlQWFc3WUhLSnRMOUY0?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-11 05:00",
+   "published_iso": "2026-11-10T20:00:00+00:00"
+  },
+  {
+   "title": "＜クリック＞遠別 町の観光コーディネーター 陳暁さん（34） 外国人の視点で風景発信",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCdEFLZFFFNlNRb2xPSnUtbXlDdVo5R2Q1T2lGNGlRQTdPMWl5MnR4VVh6X29EWTRjMXRHSWF6TEFhbEo2UWs4T1RLQmpVOVF4Q0hzMWlsbUZkdw?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-11 04:00",
+   "published_iso": "2026-11-10T19:00:00+00:00"
+  },
+  {
    "title": "外国人定着に基金創設を 山脇啓造氏",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cFFodFFHMmRHM2RSZFQwZXJzMUJDeW9MYUEwVGNvUmY0MVBuVXBpNlpkVXE4a2Z3QTNYbjdHbW40ekk3Zk1teWdfQzYtNDNjcWJNeGVtZGFjLWhGQWN6dWgwV0hEcFUwcVRJeQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-11 02:00",
    "published_iso": "2026-11-10T17:00:00+00:00"
+  },
+  {
+   "title": "自家用車で外国人観光客を兼六園などへ送迎 「白タク」営業疑いで中国籍の古物商ら逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GaG5PbjhwWkFHOUdrVkhEYzI2SW5FdjlULXZzTzBTVDRXREZTWUdjNEszbEwtWWF6bWw3SFdtUExTMGNaeGdoSW1HelpZYm5pQ1N0R3RRdHFWSHl2STFlc1dVb1FWUWs?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-10 23:54",
+   "published_iso": "2026-11-10T14:54:00+00:00"
   },
   {
    "title": "土手が崩れた難民キャンプ",
@@ -54,14 +118,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-10 19:21",
    "published_iso": "2026-11-10T10:21:21+00:00"
-  },
-  {
-   "title": "敵対する外国人不良グループにコンクリブロック投げつけた疑い 20代の男2人を逮捕 当日は40人が関わる抗争に発展",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5cFkzcERmVkFkVWotTDY4RG01MEp1a1hveVNlNXRSTVVxRmlHc1hxa3c2SVlIWDhQUXJzSWVSUmlST0tKaHBjdEllZGdudw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-10 19:12",
-   "published_iso": "2026-11-10T10:12:35+00:00"
   },
   {
    "title": "【カープ】FA権行使の楽天・太田捕手と11日交渉へ＆新外国人投手（28）を獲得（2026年11月10日掲載）",
@@ -110,6 +166,14 @@
    "source_domain": "asahi.com",
    "published": "2026-11-10 15:00",
    "published_iso": "2026-11-10T06:00:00+00:00"
+  },
+  {
+   "title": "広島、新外国人マギー投手を獲得 大リーグ通算20試合登板",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53LXdKZ3J6UTlJWm5kY2ZvYW9BTE1VenV3Vkk0WlZ4OWlIN245ejJZUVVhR19UODh3Yzc3LS00UHE5WXdoTUNHV3BDamJZX2ktRElqZHBNN3hNMHd6bHNIVlV2aGxqZkxhcEc0?oc=5",
+   "source": "信濃毎日新聞デジタル",
+   "source_domain": "shinmai.co.jp",
+   "published": "2026-11-10 14:57",
+   "published_iso": "2026-11-10T05:57:38+00:00"
   },
   {
    "title": "移民船遭難で50人超死亡 セネガルとクレタ島沖",
@@ -184,14 +248,6 @@
    "published_iso": "2026-11-09T22:24:00+00:00"
   },
   {
-   "title": "仙台市、国勢調査初の人口減 「人口ダム」に陰り 村井知事は「外国人の力必要」と力説 深層リポート",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90bDRmSXhFTkJLbmlKV0hrMnRMSUtzNkhwOTJyeUFYMS1Gc1pFTUJPSEg3YWxaeGRCcUhXSzNxOV9KY0s5X2I2RmkwZldTbGFhMTROYTU2VFdSNHNTanZJaXpXUVpPd2ZxRElSNmpVdkNHU3NnNlE?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-10 07:00",
-   "published_iso": "2026-11-09T22:00:00+00:00"
-  },
-  {
    "title": "外国人労働者の人権考える集会 映画上映や講演 １４日、岡山弁護士会",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RcS1ZYlpWR05uenFXWjJkcGxISGtQTzBmU3ZWMk00TWpLUklEOWR2NDB3Q1RIME5NVzJTNkJHTm93bGFhRjVhN3NNcw?oc=5",
    "source": "47NEWS",
@@ -200,16 +256,16 @@
    "published_iso": "2026-11-09T21:01:46+00:00"
   },
   {
-   "title": "多文化共生社会 実現へ連携 佐賀南署と日本語学校運営企業",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rc0FPSVV4UWxHZEJxeWU4YXR5MUp0ek5ZZGVJcFRodUhQbzdBY0tvRmVnUi05Qm53LVc2akxqTmFZZTRSRTByVlltUQ?oc=5",
+   "title": "共生社会実現へ障害者決意新た 育成会が宮崎県大会",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4dGl4Nno2VFpWREptYURrTkp4cEVqSGpFVFMzcmFwUEM3SHpIV2xDLWZEUmhTQnh2TkVGck9aNndxbTczbnZZR000MA?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-11-10 06:00",
    "published_iso": "2026-11-09T21:00:00+00:00"
   },
   {
-   "title": "共生社会実現へ障害者決意新た 育成会が宮崎県大会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4dGl4Nno2VFpWREptYURrTkp4cEVqSGpFVFMzcmFwUEM3SHpIV2xDLWZEUmhTQnh2TkVGck9aNndxbTczbnZZR000MA?oc=5",
+   "title": "多文化共生社会 実現へ連携 佐賀南署と日本語学校運営企業",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rc0FPSVV4UWxHZEJxeWU4YXR5MUp0ek5ZZGVJcFRodUhQbzdBY0tvRmVnUi05Qm53LVc2akxqTmFZZTRSRTByVlltUQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-11-10 06:00",
@@ -240,20 +296,20 @@
    "published_iso": "2026-11-09T20:00:00+00:00"
   },
   {
-   "title": "技能実習 449事業所違反 25年指導 道労働局が是正勧告 安全基準違反が最多",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybW9Sb2ZucHJ5UHU1eXVnS05RZElwTTE2RFdsVkJRQ29tejh5aFFtaU1JMkhvT1pfazFDNUx3MVl6SDVESlZZUXcxdmt2Qm5yYjNQWGgwUEptUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-10 04:00",
-   "published_iso": "2026-11-09T19:00:00+00:00"
-  },
-  {
    "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yS01kc1dibVFqT0hjRXFMSGhDVEhhaEdqM2I2RFpsNHZnTVRkSzZrWjJtVExycHZRaDZZbXUzREtGbXQ1aHd3WEpFSQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-11-09 20:17",
    "published_iso": "2026-11-09T11:17:11+00:00"
+  },
+  {
+   "title": "密航船２隻の移民２０人死亡 荒天で救難信号―ギリシャ沖",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0ljMmFZdmsxY0M0WTFlUDRwRlNKcXlISEZBcUd0a3kwZ3M0THluWklJd01hNERCam1aSFpxYXdLN2ZjUU52bTBSN2JrZHVscThyZ2tlUzhHdm1PLVdZRVV2N1A5SDd0bF9PX0J0Ym9WRmJRd0dGY1cxTHR1VDNvSQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-09 20:06",
+   "published_iso": "2026-11-09T11:06:00+00:00"
   },
   {
    "title": "遊びで交流共生社会へ 登別初開催「バリアフリーおもちゃ博」",
@@ -288,14 +344,6 @@
    "published_iso": "2026-11-09T09:00:00+00:00"
   },
   {
-   "title": "訪日外国人へのサービス改善学ぶ 宿泊・飲食業者向け、札幌で16日セミナー",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4VlE5dDFYWjFhbDJTb1RSbUREdG14RUJudUpKMndNdmtTcUVvdzZWRHhGNUVtckJfNTE1ZEgtUlMxZERTQldMZHVaaGJ1Q3FlMmwwVllmYm91Zw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-09 17:52",
-   "published_iso": "2026-11-09T08:52:30+00:00"
-  },
-  {
    "title": "「肩はかんだがあごは殴ってない」20代親族女性への傷害容疑 ベトナム国籍 31歳技能実習生の男を逮捕 かみつきや殴打で皮下出血負わせた疑い 富山 | 富山のニュース｜天気・防災｜チューリップテレビ (1ページ)",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SbHVjWDhxUVRnOVZHSnI2ak8tVzhHeXZJd3phOGdmUHlvb0g1a3NyVE8tMGF3TGgyWXVQWHVIZlJ3cW9ub0E2RHJGVnJhMnNZdzlNcFJkNGljQTFRNjB4V3lsUGU4VEk?oc=5",
    "source": "TBS NEWS DIG",
@@ -318,14 +366,6 @@
    "source_domain": "jiji.com",
    "published": "2026-11-09 16:23",
    "published_iso": "2026-11-09T07:23:02+00:00"
-  },
-  {
-   "title": "トランプ大統領「我々の主張をうまく伝えられなかった」中間選挙の敗因語る 自身の移民政策「厳しすぎた」",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5Y083N2RxY3I4Z1dyRlJwS0c4c0d5ejc0NjY2U2JfbFZrSldzM2VwN1NtclcyUlhpOHNpQS01WXZzNW9UWTVWN1I3ZmVZZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-09 13:35",
-   "published_iso": "2026-11-09T04:35:00+00:00"
   },
   {
    "title": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]",
@@ -366,46 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-11-08 05:00",
    "published_iso": "2026-11-07T20:00:00+00:00"
-  },
-  {
-   "title": "あなたのために、正義のために 移民捜査の犠牲者へ、思いも投じて 米ミネソタ",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9keUVYNXIzNVZkUlF4YVJ2OE51V0ZpbGlPRFJCSXBjcjViSkYxRzZLUWlPaVh4N2lYVHRqb3JJWFpLY2ZLYUxOM3pJNnlUUm05SnduRmhyLW5YQlFI?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-08 05:00",
-   "published_iso": "2026-11-07T20:00:00+00:00"
-  },
-  {
-   "title": "激震・トランプ王国：ヒスパニック、民主に回帰 移民取り締まり強化、反発",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpTjNOZXk0bzN6ZmJMc1I4RkdUV1FLNG9lc1M2QWpfRGw1OWE2a1hIVXlvbzNUQkw0a0ZfekJfN1A3aHMtS3g4VDVBRVlVbjFWa25VTlZnVWFCVy1XVmN5NWZHbGZyNUFE?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-08 02:00",
-   "published_iso": "2026-11-07T17:00:51+00:00"
-  },
-  {
-   "title": "トランプ氏最側近、保守強硬派ミラー氏起用へ…これまでに不法移民追放など攻撃的な政策実行",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yaGlvVWhVTHpub1JsWk1Mbm9ncEJyNmk1N1B4eHRwZ043bFduR3N6bFVwSlB0X3gyRFdwVFlJMmdoQnJ6TUYtcmJTRUs0c2s0RGp0a2hfeWpfdWk5cm4xT0t3?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-07 22:42",
-   "published_iso": "2026-11-07T13:42:00+00:00"
-  },
-  {
-   "title": "「私は投票した」のステッカー、追悼の場に集まる あなたを忘れない [アメリカ中間選挙]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iOG5fWFk1VEJEQ1Jkbk8zUjk4a1huY1NhZEhMeEs1Z1h2aUFLeTVqMS1GM2Fkb1U4Qk53akgtMkVaYVhUVEc5M1BqLWtFSjNacnIya3lKT1BWNmFVYjNfdnlMZGZPWms?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-07 20:30",
-   "published_iso": "2026-11-07T11:30:00+00:00"
-  },
-  {
-   "title": "ケイト・ブランシェットが語る難民映画の支援 なぜユニクロと協業か",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pcDg0aC1kOVJHQTFONlUwdTh6X2Q5NU5uR09zREkzUndQb2Q1QWZMcmpQUEV6Q1BpcHlwd2lNWUdpb0FHN2dJLWZCN1JWb0wwX0tZdUpTN0VpaUtvdHNpVm5GbUViRW8?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-07 12:00",
-   "published_iso": "2026-11-07T03:00:00+00:00"
   }
  ]
 }
