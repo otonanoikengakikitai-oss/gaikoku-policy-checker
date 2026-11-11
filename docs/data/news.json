@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:49:18+00:00",
+ "generated_at": "2026-11-11T02:30:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,12 +8,12 @@
  ],
  "items": [
   {
-   "title": "カープ 新外国人イーストン・マギー投手の獲得を発表 右投げ右打ち 大リーグ・ロイヤルズなどでプレー",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XWWhyY2ZGS21xd0MxbkgtMi04Tmw4SWVjZ0lPb1Rtamo5UlNILWI2MVZlNFpxamNvdU1RLU9FQmNudDAweEdkamdMSmZidw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-11 07:20",
-   "published_iso": "2026-11-10T22:20:00+00:00"
+   "title": "突然、父が消えた 移民家族がアメリカ中間選挙に託す「普通の生活」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3SjBXVzRTU0g0OWtqUVU0SmlnTjJMbHk1TkRxUzJkdVRYREQ1VnVIaWtobjA5ZkhVRnJ2VF9DMEFxMlkyMTN1MWRjd1MxTjlsS0k3SGVzMzdqdWxLLWhEX1JFa255Tms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 10:00",
+   "published_iso": "2026-11-11T01:00:00+00:00"
   },
   {
    "title": "「外国人は追い込まれている」「1人の後ろには多くが」専門家の見方",
@@ -40,18 +40,18 @@
    "published_iso": "2026-11-10T21:00:00+00:00"
   },
   {
-   "title": "（アメリカ中間選挙２０２６）移民摘発恐れ、通りから人が消えた",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xc0xvblJyQ2ozcTNOeTdWMDdvWWhOSkNSSnAtSmxGakNIY0pKWm5KUG9zRWFtSjZVRHB5THNJQjlCTGRsTkNjVlBUSjVSMHg4elo4VkwxdFJPX3pO?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 05:00",
-   "published_iso": "2026-11-10T20:00:00+00:00"
-  },
-  {
    "title": "「移民を排除するより…」左派市政のブレない信念 極右躍進のフランスで逆を行くルーアン市を訪ねた",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vdjFPczFYU29qam9va0E1azFSclpjLVdfTzFCbmQxNlZDZl9QZmNqYk5vaDBfV0k4aFVOTW1JSkRseVAxbFlQWFc3WUhLSnRMOUY0?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-11 05:00",
+   "published_iso": "2026-11-10T20:00:00+00:00"
+  },
+  {
+   "title": "（アメリカ中間選挙２０２６）移民摘発恐れ、通りから人が消えた",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xc0xvblJyQ2ozcTNOeTdWMDdvWWhOSkNSSnAtSmxGakNIY0pKWm5KUG9zRWFtSjZVRHB5THNJQjlCTGRsTkNjVlBUSjVSMHg4elo4VkwxdFJPX3pO?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
    "published": "2026-11-11 05:00",
    "published_iso": "2026-11-10T20:00:00+00:00"
   },
@@ -72,28 +72,12 @@
    "published_iso": "2026-11-10T17:00:00+00:00"
   },
   {
-   "title": "自家用車で外国人観光客を兼六園などへ送迎 「白タク」営業疑いで中国籍の古物商ら逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GaG5PbjhwWkFHOUdrVkhEYzI2SW5FdjlULXZzTzBTVDRXREZTWUdjNEszbEwtWWF6bWw3SFdtUExTMGNaeGdoSW1HelpZYm5pQ1N0R3RRdHFWSHl2STFlc1dVb1FWUWs?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-10 23:54",
-   "published_iso": "2026-11-10T14:54:00+00:00"
-  },
-  {
    "title": "土手が崩れた難民キャンプ",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zTkxuaTZjV1dEbnlLWWxqYWFUcHdYMXRBNDN5RHluMFFwLWNvMFgwdVVsZ21MSVJ3d3FOTnpLTDRkMGYwQUJCdDhCQjhLTUJwWDQ1RTk2U3NyTmtIcnRKUmdsSjM?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-11-10 21:12",
    "published_iso": "2026-11-10T12:12:45+00:00"
-  },
-  {
-   "title": "「海外に “肩こり” は存在しない」は本当？ アジアに多い？“肩こりある”外国人も…外国人に大調査！【Nスタ解説】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GRkFoQVU2UlA2MzJ3Tm1rOFVzb3FWSEphTDBQbTZHa09vSWhIdTdQaG1DMjJNWk1xTFgtU2RGeU4tQ1g1T2VkSzF3RldmTDFWbWY0a3FSWQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-10 20:37",
-   "published_iso": "2026-11-10T11:37:28+00:00"
   },
   {
    "title": "松本市多文化共生条例に盛り込むべき内容は 有識者や市民ら懇談会で議論",
@@ -134,14 +118,6 @@
    "source_domain": "47news.jp",
    "published": "2026-11-10 18:57",
    "published_iso": "2026-11-10T09:57:14+00:00"
-  },
-  {
-   "title": "外国人技能実習生ら雇う北海道内企業で法令違反が続出、過去10年で最多に…安全基準や未払い賃金など問題視",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45WmZGZGFvWldkd1ZqbWwtTlNualhCRkptR05CNTNqRXFka2UwVERQSjZiQkRkTEhENXc5cEp2MHVEZ243UDNybzctWlE2WkpxZ3NPV0JYVmU2QQ?oc=5",
-   "source": "HTB 北海道テレビ",
-   "source_domain": "htb.co.jp",
-   "published": "2026-11-10 17:42",
-   "published_iso": "2026-11-10T08:42:00+00:00"
   },
   {
    "title": "就労認められない在留資格のまま工事現場などで働く ナイジェリア国籍の男2人を入管難民法違反の疑いで逮捕 大分",
@@ -288,12 +264,12 @@
    "published_iso": "2026-11-09T20:00:00+00:00"
   },
   {
-   "title": "「移民政策厳しすぎた」 米中間選で逆風 トランプ氏認める",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yS3NnUEdYTkV3TnUzQzNjWU5sV1N6T2tuWGI5X2kxTlZnNW03UGF6dk1veXZZaGV4cXM4X0poLUgxdnhkbjZmZEVqaGZ1UUZhLWtaSnIzR3NtaVdjS0JsTnJ0NA?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-10 05:00",
-   "published_iso": "2026-11-09T20:00:00+00:00"
+   "title": "技能実習生受け入れ449事業所に是正勧告 北海道内25年、違反最多に",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWnpQYTFCd2JoekJhN2xyUk45bGJUMXJRcHduN3JJaVk3a05UZzBCVGNSbnZJYmRmS3dCSGZtcXNmSE12bllRZ0Q3d0FlMElpczJaQ25mRndCQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-09 20:17",
+   "published_iso": "2026-11-09T11:17:11+00:00"
   },
   {
    "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
@@ -360,12 +336,12 @@
    "published_iso": "2026-11-09T08:10:00+00:00"
   },
   {
-   "title": "外国人留学生がヘルプ、１１０番訓練",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfU2RRSFYxYWI5WGcycVVvcHctYV9FME5teFkxVmJ2SXNjbF9EOHpVNHBJYlZsU3FHSkp1OVhwM09md19PSER4akNDWi00UVc2cHpESHZXRUU5aTR4UXh0amNIOE4?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-09 16:23",
-   "published_iso": "2026-11-09T07:23:02+00:00"
+   "title": "旅する防衛白書：防衛にやたら詳しい女性は技能実習生を支えてもいた 和田靜香／8",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CU21KZmNqemZHRGtZTVpXY1R6YXptSW14R29BY3J6eUR0X3NrMW9DbzBHR25HZU91ZHZVV3poX2pqaDBYV1h4cmpTNzFJVFJLbTVOazZqbnp6Q21iY3huM0VBUllKRFBhN0Q3UTVta1pxZ09NaGhwY0c4VnlkVTg?oc=5",
+   "source": "週刊エコノミスト Online",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-09 06:19",
+   "published_iso": "2026-11-08T21:19:18+00:00"
   },
   {
    "title": "技能実習生の逸失利益「67歳まで日本水準」判決 専門家「画期的」 [千葉県] [外国人]",
@@ -406,6 +382,30 @@
    "source_domain": "nikkei.com",
    "published": "2026-11-08 05:00",
    "published_iso": "2026-11-07T20:00:00+00:00"
+  },
+  {
+   "title": "あなたのために、正義のために 移民捜査の犠牲者へ、思いも投じて 米ミネソタ",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9keUVYNXIzNVZkUlF4YVJ2OE51V0ZpbGlPRFJCSXBjcjViSkYxRzZLUWlPaVh4N2lYVHRqb3JJWFpLY2ZLYUxOM3pJNnlUUm05SnduRmhyLW5YQlFI?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-08 05:00",
+   "published_iso": "2026-11-07T20:00:00+00:00"
+  },
+  {
+   "title": "激震・トランプ王国：ヒスパニック、民主に回帰 移民取り締まり強化、反発",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpTjNOZXk0bzN6ZmJMc1I4RkdUV1FLNG9lc1M2QWpfRGw1OWE2a1hIVXlvbzNUQkw0a0ZfekJfN1A3aHMtS3g4VDVBRVlVbjFWa25VTlZnVWFCVy1XVmN5NWZHbGZyNUFE?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-08 02:00",
+   "published_iso": "2026-11-07T17:00:51+00:00"
+  },
+  {
+   "title": "トランプ氏最側近、保守強硬派ミラー氏起用へ…これまでに不法移民追放など攻撃的な政策実行",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yaGlvVWhVTHpub1JsWk1Mbm9ncEJyNmk1N1B4eHRwZ043bFduR3N6bFVwSlB0X3gyRFdwVFlJMmdoQnJ6TUYtcmJTRUs0c2s0RGp0a2hfeWpfdWk5cm4xT0t3?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-07 22:42",
+   "published_iso": "2026-11-07T13:42:00+00:00"
   }
  ]
 }
