@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:30:37+00:00",
+ "generated_at": "2026-11-11T10:18:39+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,54 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「団地内は私有地」中国人男が法廷で繰り返した無免許運転の理由「中国ではそういう認識」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mVGlMVUhXR3FfU29HaEFIOHdoU21xcXM1c2RFYldRTEJ5QnJoaXpXdTkzbXc3eFpsY1dKQXdGRElGSVBRTm91cmZ1ZzJyM21kVzJzZnJFN1Q2TEM2c2ViWGFqbGwyUmREWXRjRzdyc1VqbTdaZEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-11 17:51",
+   "published_iso": "2026-11-11T08:51:31+00:00"
+  },
+  {
+   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUlBQcExIcm5qbi1vN2FJTkI1aDRHRG9TN0daeXQ4N0ppMjVHQWMtcWp0QlppTUNlNWp0ZnJFZE5NR1lyM3hUYmdsbkRpVm1ZdGJ5ZGcwYTJjTEFZc3YxVnJjZzA3b0k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 17:31",
+   "published_iso": "2026-11-11T08:31:28+00:00"
+  },
+  {
+   "title": "プレスリリース：［12月17日（木）東京・赤坂］外国人雇用法務の第一人者 杉田昌平弁護士が2026年を総括する年末特別セミナーを開催（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50QjQ2Y2pZNkJxVkJSRnFvZEtKVGlzVjJHLUJDQ0ZzWjBYWlJqTHpEdVlzN2JRclZ2MVZXejNIU3BDZVRlWHFaRWI2SFhPY3d4X29vSkp3emNsZXMzQ3NpUU1RMXFPMTVQ?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-11 16:53",
+   "published_iso": "2026-11-11T07:53:28+00:00"
+  },
+  {
+   "title": "（Ｐｈｏｔｏ Ｓｔｏｒｙ）金網の向こうから、やっと父が 米中間選挙の先、移民家族の願い",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hU3puUFdLRGRhajMwaUtGeGNRQ1UxWWhoaUJIdUpGaEhSdnY2QnNVaTQtVUl4U1RiUmdTWnhGVjRfd2lITVV5TGc5TWZSREhrVDkyblNjU01oNVkx?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-11 16:30",
+   "published_iso": "2026-11-11T07:30:00+00:00"
+  },
+  {
+   "title": "国際協力NGOのAAR Japan［難民を助ける会］が難民支援への協力呼びかける冬募金キャンペーンを開始",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oRGY1SlpSUnppZENHNGJ6Y05SdVNLSU1abGN4aGIxdVdhX0JKTjAwaHZoTTRmMVlVMVc0eDd3TkNzLVo4a2VYZUdSdWhaMk85bE92dUlHMUVOZkt3RlNHTk8zblFvR2RTMG1F?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-11 16:16",
+   "published_iso": "2026-11-11T07:16:00+00:00"
+  },
+  {
+   "title": "避難所での外国人対応強化を 双方向翻訳機能の新システム導入 宇和島市【愛媛】",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHhzUEs5djNZbGFDZXRuR09wOGZwSlpfTFgtQngzU0pwLXZyb1VwbnJVRk13N0l1dUt4dEtTd2pJUXJpZmZsNWJhRjJGRjBEYUJFc24yMlpnNUxVaVdmbDFHSWk3YUxYaHhWcTRlRUxKOVJNOUktYjlJOUFGVnNlbGNyd1dsMFU?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-11 13:10",
+   "published_iso": "2026-11-11T04:10:01+00:00"
+  },
   {
    "title": "突然、父が消えた 移民家族がアメリカ中間選挙に託す「普通の生活」",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3SjBXVzRTU0g0OWtqUVU0SmlnTjJMbHk1TkRxUzJkdVRYREQ1VnVIaWtobjA5ZkhVRnJ2VF9DMEFxMlkyMTN1MWRjd1MxTjlsS0k3SGVzMzdqdWxLLWhEX1JFa255Tms?oc=5",
@@ -16,16 +64,16 @@
    "published_iso": "2026-11-11T01:00:00+00:00"
   },
   {
-   "title": "「外国人は追い込まれている」「1人の後ろには多くが」専門家の見方",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xeFJkOENOVDVfUnpPYTcxZkRjd3RkRTdWeUwtdGFCeGRBTGlRaEthTE0zVnRwTVg2RVFvMldmaE1MNDFWTEl3cnpHYVVLUDJNbFdOeFVzSlBvYkhKSml3OGlzRUk5bWM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 06:01",
-   "published_iso": "2026-11-10T21:01:00+00:00"
+   "title": "カープ 新外国人イーストン・マギー投手の獲得を発表 右投げ右打ち 大リーグ・ロイヤルズなどでプレー",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XWWhyY2ZGS21xd0MxbkgtMi04Tmw4SWVjZ0lPb1Rtamo5UlNILWI2MVZlNFpxamNvdU1RLU9FQmNudDAweEdkamdMSmZidw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-11-11 07:20",
+   "published_iso": "2026-11-10T22:20:00+00:00"
   },
   {
-   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUlBQcExIcm5qbi1vN2FJTkI1aDRHRG9TN0daeXQ4N0ppMjVHQWMtcWp0QlppTUNlNWp0ZnJFZE5NR1lyM3hUYmdsbkRpVm1ZdGJ5ZGcwYTJjTEFZc3YxVnJjZzA3b0k?oc=5",
+   "title": "「外国人は追い込まれている」「1人の後ろには多くが」専門家の見方",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xeFJkOENOVDVfUnpPYTcxZkRjd3RkRTdWeUwtdGFCeGRBTGlRaEthTE0zVnRwTVg2RVFvMldmaE1MNDFWTEl3cnpHYVVLUDJNbFdOeFVzSlBvYkhKSml3OGlzRUk5bWM?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-11-11 06:01",
@@ -80,6 +128,14 @@
    "published_iso": "2026-11-10T12:12:45+00:00"
   },
   {
+   "title": "「海外に “肩こり” は存在しない」は本当？ アジアに多い？“肩こりある”外国人も…外国人に大調査！【Nスタ解説】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GRkFoQVU2UlA2MzJ3Tm1rOFVzb3FWSEphTDBQbTZHa09vSWhIdTdQaG1DMjJNWk1xTFgtU2RGeU4tQ1g1T2VkSzF3RldmTDFWbWY0a3FSWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-10 20:37",
+   "published_iso": "2026-11-10T11:37:28+00:00"
+  },
+  {
    "title": "松本市多文化共生条例に盛り込むべき内容は 有識者や市民ら懇談会で議論",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80NHQxR0pmOTZnM25xYk4wTVA4VEV6SklacmNyczdYTEZUSnI5UVlOazV4aG5oOUpWYkZQNW96elUyTExvLVhvMGxBQTZYeTdVRF9FdjB6dTRERXVoejhZd24wLXlfcjljR1VNcWtRUzA?oc=5",
    "source": "信濃毎日新聞デジタル",
@@ -102,22 +158,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-10 19:21",
    "published_iso": "2026-11-10T10:21:21+00:00"
-  },
-  {
-   "title": "【カープ】FA権行使の楽天・太田捕手と11日交渉へ＆新外国人投手（28）を獲得（2026年11月10日掲載）",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YZGZyLVkzeE9NaExnZ2RaT1JmSTBCc0FXNExyRHRmbXNSWnI3MFc5T01iZUpvMWhyX0VXUXRtdURzRzluNW8ySE5KRjRwRUpzVjdja25aZnltbXZncFNIdHkzZ1YwRzA4aUs3SjdiZXM1QVhrRnhxQTVtX1dCUQ?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-10 19:04",
-   "published_iso": "2026-11-10T10:04:01+00:00"
-  },
-  {
-   "title": "呉で外国人と住民がスポーツ交流 広島修道大生企画 笑顔の輪【多文化共生】",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SNU5uSTZFZzJUWE9EYkxvWW5EUGdwbzNmTUNpVnBjWFpTOEstRU85TlBHemgtNGRZdlZyYXp6eWV5TlhneklleDdMZw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-10 18:57",
-   "published_iso": "2026-11-10T09:57:14+00:00"
   },
   {
    "title": "就労認められない在留資格のまま工事現場などで働く ナイジェリア国籍の男2人を入管難民法違反の疑いで逮捕 大分",
@@ -144,12 +184,12 @@
    "published_iso": "2026-11-10T06:00:00+00:00"
   },
   {
-   "title": "広島、新外国人マギー投手を獲得 大リーグ通算20試合登板",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53LXdKZ3J6UTlJWm5kY2ZvYW9BTE1VenV3Vkk0WlZ4OWlIN245ejJZUVVhR19UODh3Yzc3LS00UHE5WXdoTUNHV3BDamJZX2ktRElqZHBNN3hNMHd6bHNIVlV2aGxqZkxhcEc0?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-11-10 14:57",
-   "published_iso": "2026-11-10T05:57:38+00:00"
+   "title": "無免許運転中国人男に拘禁1年2月求刑 検察側「常習的」弁護側「外国籍で交通法規誤解」 「移民」と日本人",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiQWpKT1RPVnJ4Um5hLVZJaTEtU19jeEdDbWJndVVGQUNzUjYwQUFSWm9RQjlLQnJFOThyTVRBMGdEbzBYRXFwSDVBSkpBTEZIUDQ2RURWSFNwUVdCZUhOQ3N1WHp2dlZFcTR3ZkFGelpxc2VhZVE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-10 14:19",
+   "published_iso": "2026-11-10T05:19:56+00:00"
   },
   {
    "title": "移民船遭難で50人超死亡 セネガルとクレタ島沖",
@@ -200,22 +240,6 @@
    "published_iso": "2026-11-10T01:38:27+00:00"
   },
   {
-   "title": "外国人の生活保護「違法」の投稿拡散 広島市は「国の通知が根拠」 [広島県]",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXVTZWtRMUFkeUdJRnlxYVdBdUI0MnM5MTNBVzJMZG1aMk9fdUcxTmRJemd5SWF5QlNlRHlYd04zQ3J2THo3NF92bEhZVUJNTE8xRE8xVnZxYkhURDVIOWxDdklZUzJGeDJTNTRmQjUzMFduajFMVWJNeUUwcm9MQlBqOHVIWWpVVVFuVk5TX1RLTFE?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-10 10:15",
-   "published_iso": "2026-11-10T01:15:01+00:00"
-  },
-  {
-   "title": "外国人実習生や観光客も避難場所へ 標津高生が3D動画",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ISGFCTUlKMHJqeVBMc21yUnFSM21aRHcwMGw1Z2J5S3ZHVE9LMy0xT0F1dmdJdUdoMEZWYlU5aGpsdERrNG9acThRclIwUlRnNURzbnZjNUJGUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-10 09:46",
-   "published_iso": "2026-11-10T00:46:47+00:00"
-  },
-  {
    "title": "セネガル・ギリシャ沖で移民船遭難相次ぐ 少なくとも56人死亡",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XVURiYUQtMEVYX2J5ZXAtM012NG9uLWdKczFPOUQ2X1daVDNFWUJVSWVlaXpCSDFwTTFNMUloSzZPalBOVnc3dHM1NnVOUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -232,22 +256,6 @@
    "published_iso": "2026-11-09T21:01:46+00:00"
   },
   {
-   "title": "共生社会実現へ障害者決意新た 育成会が宮崎県大会",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4dGl4Nno2VFpWREptYURrTkp4cEVqSGpFVFMzcmFwUEM3SHpIV2xDLWZEUmhTQnh2TkVGck9aNndxbTczbnZZR000MA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-10 06:00",
-   "published_iso": "2026-11-09T21:00:00+00:00"
-  },
-  {
-   "title": "多文化共生社会 実現へ連携 佐賀南署と日本語学校運営企業",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rc0FPSVV4UWxHZEJxeWU4YXR5MUp0ek5ZZGVJcFRodUhQbzdBY0tvRmVnUi05Qm53LVc2akxqTmFZZTRSRTByVlltUQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-10 06:00",
-   "published_iso": "2026-11-09T21:00:00+00:00"
-  },
-  {
    "title": "「外国人の生活保護」誤情報またトレンド入り 名指しされた自治体が従う国の通知の歴史的経緯",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wdTFFbDJCT0N0dm83d3pnMzRVM1FFT09VdlZldzJvRFpiUDQ0NVNBbkI5eXFYMm1LMHdDR2xDUWxtY3R6cUpZWVlGai1pWnZ0UldF?oc=5",
    "source": "東京新聞",
@@ -256,20 +264,20 @@
    "published_iso": "2026-11-09T20:00:00+00:00"
   },
   {
-   "title": "外国人向け求人サイト 受け入れ企業団体開設 愛知企業対象：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVUhiN3ZwMnpWX2NIVXk3ckxOZ2FQVlNwQlZJOWtTcWhZZk5UVlRVYmVPd0ZjNHZrSXNxVmtPWFUyRTRXckZQcEZRYnNZLXJJWFhiMzBLOUcyQUhfM19sTUZoN1B5TUhIeXQ0dFNJNGQ?oc=5",
+   "title": "「移民政策厳しすぎた」 米中間選で逆風 トランプ氏認める",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yS3NnUEdYTkV3TnUzQzNjWU5sV1N6T2tuWGI5X2kxTlZnNW03UGF6dk1veXZZaGV4cXM4X0poLUgxdnhkbjZmZEVqaGZ1UUZhLWtaSnIzR3NtaVdjS0JsTnJ0NA?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-10 05:00",
    "published_iso": "2026-11-09T20:00:00+00:00"
   },
   {
-   "title": "技能実習生受け入れ449事業所に是正勧告 北海道内25年、違反最多に",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVWnpQYTFCd2JoekJhN2xyUk45bGJUMXJRcHduN3JJaVk3a05UZzBCVGNSbnZJYmRmS3dCSGZtcXNmSE12bllRZ0Q3d0FlMElpczJaQ25mRndCQQ?oc=5",
+   "title": "技能実習 449事業所違反 25年指導 道労働局が是正勧告 安全基準違反が最多",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ybW9Sb2ZucHJ5UHU1eXVnS05RZElwTTE2RFdsVkJRQ29tejh5aFFtaU1JMkhvT1pfazFDNUx3MVl6SDVESlZZUXcxdmt2Qm5yYjNQWGgwUEptUQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-09 20:17",
-   "published_iso": "2026-11-09T11:17:11+00:00"
+   "published": "2026-11-10 04:00",
+   "published_iso": "2026-11-09T19:00:00+00:00"
   },
   {
    "title": "技能実習生受け入れの法令違反、最多449事業所 25年、北海道労働局",
@@ -304,14 +312,6 @@
    "published_iso": "2026-11-09T10:43:00+00:00"
   },
   {
-   "title": "円安や万博などで急増！外国人の利用客が2億人を突破 関西空港で記念セレモニー",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNG5PSktVSTlONUFKT2dRbElnVkg3NnQxNy0tZkY4LWtjb2MzeHJXZ2FXMkFyZmROWkxCWHRvWVNacEVoMHo4d1ljUzFwWDE5YWl1UlVaQ0hQMWd0My1VU3ZyMWNjbkxtTVk2clVjOC1OU1Q2Q1JvcFRLb0xwcXZFbUZ1UmF0T1U?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-09 18:50",
-   "published_iso": "2026-11-09T09:50:01+00:00"
-  },
-  {
    "title": "トランプ大統領、首席補佐官を交代 後任に“移民強硬派”ミラー氏 共和党内からも国防長官の弾劾訴追案",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uTW1nUV9xcTBBRkZ6RllRQmlKUTFEUTBhS05sWmhOZ1dCM0VyVWZ4RzFWdWZPa2JXQ2dlQmdwRnNBUk1Ra2ZkUUxXUEp6WThkaEZWMGNNNFVla1Nwdl9OWl93b0pHYzlfX3BJNVA0cFQtTERkS0FkUVpB?oc=5",
    "source": "テレ朝NEWS",
@@ -328,12 +328,12 @@
    "published_iso": "2026-11-09T08:40:00+00:00"
   },
   {
-   "title": "民族衣装で母国を紹介！日本語を学ぶ外国人らが新潟市中央区で交流会、スピーチや歌で親睦深める",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhUHZYZ2VlLU9SWllOMm9LaXRHdlZhSnRvTVNQSlpJeXV1YzVuOTFYekNFTjdwZ0E5b1cwOHd0UUt4aWM4THBIOENyMA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-09 17:10",
-   "published_iso": "2026-11-09T08:10:00+00:00"
+   "title": "ラーメンでもスシでもない！ 「焼き魚定食」に外国人客が行列 チャットGPTも勧める“日本の伝統的な朝食”の魅力とは",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByUGpVeVJxOURaQy00YVB2YUN0T3hMZTZWTFZ4QXh3Z2hNcXY0cDhqa3hVbWtaWkoxTkdYYjlHdkFpVk9telVPSVVlQjVEYnZYSFdCd04yWlV2UQ?oc=5",
+   "source": "AERA DIGITAL",
+   "source_domain": "asahi.com",
+   "published": "2026-11-09 07:00",
+   "published_iso": "2026-11-08T22:00:00+00:00"
   },
   {
    "title": "旅する防衛白書：防衛にやたら詳しい女性は技能実習生を支えてもいた 和田靜香／8",
@@ -358,14 +358,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-08 18:25",
    "published_iso": "2026-11-08T09:25:47+00:00"
-  },
-  {
-   "title": "「難民」の類型化にあらがって ロヒンギャを小説で描いた理由",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUSzlrX05FYXpWcGNlVVlpZFU0SFp1bFAzZlJXNDNQNUUtYWhLOUxWNHlkaEJfREE3RDFfX0hTTWNrUjBoSUJxZzd4T1ZDbWxBdEpheHBRTEdFYVFOSGt6OG1ZMzM4Tng2?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-08 16:00",
-   "published_iso": "2026-11-08T07:00:00+00:00"
   },
   {
    "title": "那須の千振開拓80年 満州移民団にルーツ、助け合い営農 歴史継承へ思い新た",
@@ -400,12 +392,20 @@
    "published_iso": "2026-11-07T17:00:51+00:00"
   },
   {
-   "title": "トランプ氏最側近、保守強硬派ミラー氏起用へ…これまでに不法移民追放など攻撃的な政策実行",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yaGlvVWhVTHpub1JsWk1Mbm9ncEJyNmk1N1B4eHRwZ043bFduR3N6bFVwSlB0X3gyRFdwVFlJMmdoQnJ6TUYtcmJTRUs0c2s0RGp0a2hfeWpfdWk5cm4xT0t3?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-07 22:42",
-   "published_iso": "2026-11-07T13:42:00+00:00"
+   "title": "「私は投票した」のステッカー、追悼の場に集まる あなたを忘れない [アメリカ中間選挙]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iOG5fWFk1VEJEQ1Jkbk8zUjk4a1huY1NhZEhMeEs1Z1h2aUFLeTVqMS1GM2Fkb1U4Qk53akgtMkVaYVhUVEc5M1BqLWtFSjNacnIya3lKT1BWNmFVYjNfdnlMZGZPWms?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-07 20:30",
+   "published_iso": "2026-11-07T11:30:00+00:00"
+  },
+  {
+   "title": "ケイト・ブランシェットが語る難民映画の支援 なぜユニクロと協業か",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pcDg0aC1kOVJHQTFONlUwdTh6X2Q5NU5uR09zREkzUndQb2Q1QWZMcmpQUEV6Q1BpcHlwd2lNWUdpb0FHN2dJLWZCN1JWb0wwX0tZdUpTN0VpaUtvdHNpVm5GbUViRW8?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-07 12:00",
+   "published_iso": "2026-11-07T03:00:00+00:00"
   }
  ]
 }
