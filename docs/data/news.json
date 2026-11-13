@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T23:12:00+00:00",
+ "generated_at": "2026-11-13T05:01:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「移民政策、日本に多く学ぶ」 ロシアとの協力も訴え―独ＡｆＤ州代表",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43eEpjSTFiaHpfS1ZLS09PcEh6aExHM3RJa2dWMDVEWDQ4ZFJpRjIwdW9icFBKSTUtd2FwdmRVZ2dZYWs2c0NIMk95Y1RYSkNBbVVYUlZoR19FMnJoS2ZsOWhxRQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-13 12:48",
+   "published_iso": "2026-11-13T03:48:00+00:00"
+  },
+  {
+   "title": "エスエムエス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQS2lLYjJUaWxQS0I1RTFUUGtOaTdHRjAyRnExUDF6SUJQLVZqZUVGZi03Slh0RVBLOVBOY1lLTGswMlRZd0lBQUVpU2ltU3hTeHNOMzF5d3JkMDhIem5GX2tnQVkxd0w2T2c?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-13 12:30",
+   "published_iso": "2026-11-13T03:30:00+00:00"
+  },
+  {
+   "title": "あなぶきグローバルキャリア、コーポレートサイトに外国人材の「導入事例」と「お役立ち情報」を新しく公開（PR TIMES）",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaakRwOWs5TTk3RnJBRHVJREM4ZnBKM2JEckZoRGVUMUNEVV85Z2VVeDRFbWRmV0NEQTVxcUw5Q0NYNGpPaXlxNEctYmZEUTlFTUVOc0dwSXpPUUdWVGNxcVhLSVV1MXZf?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-13 11:53",
+   "published_iso": "2026-11-13T02:53:09+00:00"
+  },
+  {
+   "title": "メイクワンが中国銀行とビジネスマッチング契約を締結 広島支社を拠点に、特定技能の対象となる全業種の人手不足企業へ、国内在住の外国人材を紹介",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZnJLUkJUS25rcUFLbUplSkpzR3QxSU5NczlDSXZob2FOVjNaTWh5S3JBNURxNWFvUFJ2RmRyZ1JUZGdhaWlvMjhFRU9DU0cwZllRWW1ZdTBLRVdpa3A0dU5hUzFCZTFuV2dj?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-13 10:46",
+   "published_iso": "2026-11-13T01:46:00+00:00"
+  },
+  {
+   "title": "「関税を倍増するぞ」トランプ氏がメキシコ政府に警告、米国国境に向かって不法移民が北上",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXpuZXQ2bEdWRkRlVTAtNW1DZzd2SkxYS3JPS2VJbE94c1AtX21ZR05mWnEzbGMtTVY1OWV2dng5amY4NnJTQWprRXMwV04xRGQ1TlFyTXlXLUlIM08tUVQxODB3dUZ5UmRkeVpGM2o2d1llYXNNODYxYVpVQUFnRE5VR1NyZkdQWGFYdw?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-13 08:40",
+   "published_iso": "2026-11-12T23:40:08+00:00"
+  },
   {
    "title": "日本とペルー : 外交樹立から150年余 日系移民をかけ橋にした友好関係",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tdlhMTG0zcG5EQ3IyaFBPcHAzTDFFeUtvYmY3S0F2TGJBTGtjX3BSeGQyWXJxTmdGdmctZ2Ztclk0SDI2WGhNT1U5b1hzd0V6WkpaMw?oc=5",
@@ -80,12 +120,20 @@
    "published_iso": "2026-11-12T13:10:42+00:00"
   },
   {
-   "title": "国民年金保険料納付率の推移 - 国民年金、外国人の納付率55％ 低水準、理解促進が課題 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92SUt2LS1RYTRUVURCUnJ0blJxTHQwZUFPWXljUkwwckV3QTg0cC04NTVISEFndG14X014aFJXQmZJdTZuRjZRWlZSWG40Q0pGMWotby1Ubw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-12 19:00",
-   "published_iso": "2026-11-12T10:00:00+00:00"
+   "title": "【速報】米大統領、高関税でメキシコに移民対策要求",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxeHNLLWo0SHI4ZmlocTd0eWZWZG9nVlVYa3pfNTd3cWt1blYzSjNXWVUteFV1d1V5UjFWYkw1dmFkWnpxRDZnT1laNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-12 22:10",
+   "published_iso": "2026-11-12T13:10:42+00:00"
+  },
+  {
+   "title": "「移民を排除するより…」左派市政のブレない信念 極右躍進のフランスで逆を行くルーアン市を訪ねた",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vdjFPczFYU29qam9va0E1azFSclpjLVdfTzFCbmQxNlZDZl9QZmNqYk5vaDBfV0k4aFVOTW1JSkRseVAxbFlQWFc3WUhLSnRMOUY0?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-12 19:35",
+   "published_iso": "2026-11-12T10:35:21+00:00"
   },
   {
    "title": "入管難民法の改正による手数料引き上げに関する説明会 岡山県華僑華人総会が開催",
@@ -102,22 +150,6 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-11-12 17:58",
    "published_iso": "2026-11-12T08:58:01+00:00"
-  },
-  {
-   "title": "スリランカでの教習所設立に向けインストラクターの研修始まる 外国人が日本で円滑に運転免許を取得し就職できる仕組みづくりを【香川】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLSmt3ZGQ1M19Jb0w5TmVTN215NTB6UFBBZHVIRXI1VThqN09UcFVZQ3d3akQ0MnpoYnZ4MG16OE4zM1JaMDAtLWRRSDM2dGl4STFXMGd3V3I3Zw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-12 17:51",
-   "published_iso": "2026-11-12T08:51:00+00:00"
-  },
-  {
-   "title": "風営法違反容疑で飲食店摘発 訪日外国人狙いぼったくりか―警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xcTY3dklhaFVvRVdWQlJySy1UMXctV0QwUkNqS0hpSmNyaXZzRU5VR2dxc292d0JnQzR5SEN4ZXE0S19iWGRBTm9vVUVGaHBxRGZqUjJwZV9GQ3gtam9idXg2RQ?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-12 14:36",
-   "published_iso": "2026-11-12T05:36:00+00:00"
   },
   {
    "title": "候補者13人にアンケート⑬「外国人材受け入れ、推進するべきか？」【2026福岡市長選】",
@@ -152,16 +184,8 @@
    "published_iso": "2026-11-12T02:31:19+00:00"
   },
   {
-   "title": "富士山で捜索続く 中国人遭難 市長「無謀な登山で残念」 外国人への危険周知を訴え",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lbXBMcHEzaUVfdDlVc2dnM0M4MmZDcHAxTU5nekoyWU4zRzdqZExMNXFzX2tpWDM5Ynh1X1pmdHI2WnI5dUZUQ250Ui1PTU8wSnVQdEpCR2ZyTGhQZGdFcUJ6cWRGQ01BTDFPbGQybV9RQQ?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-12 09:33",
-   "published_iso": "2026-11-12T00:33:16+00:00"
-  },
-  {
    "title": "【福岡市長選挙2026】候補者13人の選挙戦と訴え②日本保守党･森健太郎さん(48)｢腐敗･移民拡大ゼロ｣で市民を豊かにする",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wWXg1SUc0WkdzaTR6dUx4RE1aQ1BTakhwWWZ2bU13UUZQVlFxUmloeUUwajcyM1VNYXFMbHViMU9pVDNkcDRLM29YSW1LVFlGdFp3OFlxYldodw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TU2R0dlQ4ZXVQbWl0Qjhxc2VDSS1RUWI0YWdvWlloOWZhSXN2NjBUSElpMWlDVFRVLXM5eXh4TUl4Qkg1eW1PWV8tM1NWYW4wbWZ6enU4OHFlcjNBbDhZRUs5dGowVTg?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-12 07:00",
@@ -188,14 +212,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uOWY1cE9MMlI4WXRwRkptQVBOZ2ZWZUhRdTB6Qm9oc0lTZDBmM2NjTlN6Q3JvSmM5Wm1pbG9MQUlkclF3MkZ2TF9ya2s4WUlOVEgzajhfOUZnMVhHWGJ5UmFNbkMzcndiM09ucg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-11-12 05:00",
-   "published_iso": "2026-11-11T20:00:00+00:00"
-  },
-  {
-   "title": "シリア内戦で難民になった家族を取材 秋田出身フォトジャーナリスト小松さん講演会",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1T0JQTUF0NHhGLVR5LU9CeUxzTUZsWTBaZGVab1dCZkczVEx1b1dhSzhtdXltblRGV2stSDFSVzNmLUdlSkcwZVFkUmVhVWd6d2JDT0pjaDNfOGM?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
    "published": "2026-11-12 05:00",
    "published_iso": "2026-11-11T20:00:00+00:00"
   },
@@ -320,14 +336,6 @@
    "published_iso": "2026-11-10T20:00:00+00:00"
   },
   {
-   "title": "「移民を排除するより…」左派市政のブレない信念 極右躍進のフランスで逆を行くルーアン市を訪ねた",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vdjFPczFYU29qam9va0E1azFSclpjLVdfTzFCbmQxNlZDZl9QZmNqYk5vaDBfV0k4aFVOTW1JSkRseVAxbFlQWFc3WUhLSnRMOUY0?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-11-11 05:00",
-   "published_iso": "2026-11-10T20:00:00+00:00"
-  },
-  {
    "title": "外国人定着に基金創設を 山脇啓造氏",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14cFFodFFHMmRHM2RSZFQwZXJzMUJDeW9MYUEwVGNvUmY0MVBuVXBpNlpkVXE4a2Z3QTNYbjdHbW40ekk3Zk1teWdfQzYtNDNjcWJNeGVtZGFjLWhGQWN6dWgwV0hEcFUwcVRJeQ?oc=5",
    "source": "日本経済新聞",
@@ -350,14 +358,6 @@
    "source_domain": "tv-asahi.co.jp",
    "published": "2026-11-10 19:29",
    "published_iso": "2026-11-10T10:29:31+00:00"
-  },
-  {
-   "title": "自家用車で外国人観光客を兼六園などへ送迎 「白タク」営業疑いで中国籍の古物商ら逮捕 | 石川県のニュース｜MRO北陸放送",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRXgycWVtVTY3MWhPckFxU21kcnFBLW5TMHNiaXppeHlveUtocmY4S0ZuR2ZmRmJ3dWpSbmVMbVYzQ2Ytd3FjX1MxQWNWYnlGTjQzX1ZjbUpWZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-10 16:21",
-   "published_iso": "2026-11-10T07:21:00+00:00"
   },
   {
    "title": "就労認められない在留資格のまま工事現場などで働く ナイジェリア国籍の男2人を入管難民法違反の疑いで逮捕 大分",
