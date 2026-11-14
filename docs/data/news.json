@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T01:15:45+00:00",
+ "generated_at": "2026-11-14T08:35:04+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,22 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "釧路公立大で地域経済フォーラム 振興策や外国人材受け入れ",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yYlJ1ZGE0ZmhPWWdMSnRFcmJYUzJqaDBuaWdLWnlmblZ0a2FZbVJTRV9mRHZKNGR3X2doQ3ZJVFZzUFJpYUxnLVVVMGt3bncyRXJDbThWbS1wZjhwZVFIc2F6bzk?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-14 14:53",
+   "published_iso": "2026-11-14T05:53:33+00:00"
+  },
+  {
+   "title": "「津波浸水」入管が搬送訓練 名古屋で消防隊員らと：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55U1ltR0YyTF9uZUNOSlVnV3h1WHVYZ3c5Ynhpb0t1VkIzWm0teGVYMVNZRk9pcG1NNlhjemN0N0x3a0Vnc1kxdWF0bkdQeXhCU0oxS2ZTc2IzUkdIel8xWkVpLWJGVTZnaDY0ZFBPNnk?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-14 10:45",
+   "published_iso": "2026-11-14T01:45:00+00:00"
+  },
   {
    "title": "難民申請停止措置を審理へ 米最高裁、トランプ政権の不法移民対策",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWVhScm8wa2UybGtybFZxRU42RzdQQjFTWFFOVEMxVUVwNjFWbG5ITVdWVUp5dVB6a1hhVjhGc2s2ZHBVUlJfYzFtbnNCM0VQTnFLNDFsY3lSZ1lLWHdmQ3dia2ROTnRrcml4YmdhaV9fNGtPUWc?oc=5",
@@ -46,6 +62,22 @@
    "source_domain": "chunichi.co.jp",
    "published": "2026-11-14 05:10",
    "published_iso": "2026-11-13T20:10:00+00:00"
+  },
+  {
+   "title": "避難や入国審査って大変 敦賀西小で難民疑似体験、敦賀高生がムゼウム展示を元に企画",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52bFpIemI5MnA5bVdDbVVKSWMyZ0h5UXNtQXV0dGF0bllFNE82Y2pfMjFEM2h5OGxoMTJrNGNQVVNNSk9PdkFSMmYzaGRpZ3JIX0RzZHhROUlPb3JSVG5VNEVR?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-11-14 05:05",
+   "published_iso": "2026-11-13T20:05:00+00:00"
+  },
+  {
+   "title": "名古屋入管で訓練 重症者搬送を想定 南海トラフ備え ／愛知",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Y25aejZuamVNSlN6eEpnTlVJclVveVlYaWlWX1AwS29jSEVqVzRjRnczdzRDQ0V2bmUzWmM3M2NXaGxjWHYyU05Gc01ZMjJReHd5RzZjczFjUE1oS3c5LVFZZUlydHFR?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-14 05:01",
+   "published_iso": "2026-11-13T20:01:58+00:00"
   },
   {
    "title": "難民キャンプ襲う嵐、泥水 薬・毛布…２．６万世帯被災 ガザ",
@@ -88,20 +120,20 @@
    "published_iso": "2026-11-13T10:30:02+00:00"
   },
   {
-   "title": "【動画】名古屋入管、傷病者の搬送訓練…大規模災害に備えて空気で膨らます担架使用",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLVR5b0ZWUmlwM1pVbU5zWUQ1cnhGM0h2R0xEQ0Q4Skc2ZDhjU0xwbDRXRHV6RU5lZC1WdzBGM09nWmNQeVIxUkUwYnpUZzVzVnFjZXNzeWwtNGc?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-13 19:00",
-   "published_iso": "2026-11-13T10:00:00+00:00"
-  },
-  {
    "title": "特定技能の運用見直し案、受け入れ区分の変更などまとまる 政府議論",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIYlNHWlJrV2xOSlBMX0Nibi1aaUFWckJCc25tY1RPcDBZSTE4SFFFT0dfRjl1QWVvbXFpell3VG5RV1RKTEE5VUUtUS1uMy0xNjB3c2N2ZEN0cHhUSHZnNVNoMFpXdEhiazhqdg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-13 18:59",
    "published_iso": "2026-11-13T09:59:04+00:00"
+  },
+  {
+   "title": "特定技能の運用方針 「給食業」を別分野へ 政府有識者会議取りまとめ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZVnJBeVM5SThPalA0dXVnX0pIcjZSU2o2U3lac2hENnFsd0w5R0dUaElSLWdqQWc0dVBJVXRrdnRsMW52SVRMOUIwNDBUZ1FJQjJld3lNYk13OWJvZTkzSkM0TFQ1OXRQZV9HVUxQNnBEQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-13 18:51",
+   "published_iso": "2026-11-13T09:51:18+00:00"
   },
   {
    "title": "「シカ原因で搬送」過去最多 7割強が外国人観光客 秋はオスの発情期「無理に近づくと攻撃」 過去には角が子供の胸に突き刺さる事故も「ナイフのように切れる」 奈良",
@@ -120,7 +152,7 @@
    "published_iso": "2026-11-13T09:00:00+00:00"
   },
   {
-   "title": "多文化共生「重要だと思わない」７倍に 岐阜県がアンケート",
+   "title": "多文化共生「重要だと思わない」7倍に 岐阜県がアンケート",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RRnRvVm5rbHJYYS1jQ0wzRnlfOHQ0a0xPVmwzZk9hRnZBRVp1OFBJd3M1UlptZGt4WlY2UklldVdqOC14cFVkTi1CTVV2WE9Nckpycg?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
@@ -128,12 +160,12 @@
    "published_iso": "2026-11-13T08:59:26+00:00"
   },
   {
-   "title": "特定技能「給食」別分野へ 有識者が取りまとめ議論 12月に閣議決定見込み",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iSnFBZFR3SU1SaHIwT20yNlZ1aWZJeVhObUxVWHhZNENwN3JaT0FKZ1FwLXNPRVVYOVprWnNFTXN6NlJuZloydkxnT3R4X2JsdDRodzREeXVjay00VWk1SFQ0Ql9vNjVaSkZLMTdXYk82LTJxbmc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-13 17:56",
-   "published_iso": "2026-11-13T08:56:38+00:00"
+   "title": "多文化共生「重要だと思わない」７倍に 岐阜県がアンケート",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xMW9EWWxYeDM3Qm13WGNCOGlvNFdUQXE5NFdQTVI4LW9hY1RuQWtNMlI4cnliaDI2OG4tU251d3BUOC1Xc2hVa1FERQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-13 17:59",
+   "published_iso": "2026-11-13T08:59:00+00:00"
   },
   {
    "title": "育成就労と特定技能の受け入れ方針改正案をとりまとめ 停止していた外食業のうち「給食業」は別分野で緊急受け入れ 全体の上限123万人は維持",
@@ -152,28 +184,20 @@
    "published_iso": "2026-11-13T08:47:00+00:00"
   },
   {
-   "title": "自転車に衝突し技能実習生の女性大けが 現場から逃走の男 ひき逃げの罪で起訴【愛媛・今治市】",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekdCVm5SWDFQZDg0aEFjbzlBTjk3cnBDTDVQSmVkR1M4LTI2SnRnREoxUHZySGNyRUJhMlF6NTRsR1A1bTdINHhOTjFSMWg5bEV6aHlSU3JrWnBIQUZWVHQ1eXprX1laM0xIbFRzczhIWmdpdHBNUk84czZXWDlnVHVqa2hzcXc?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-13 17:47",
-   "published_iso": "2026-11-13T08:47:00+00:00"
-  },
-  {
-   "title": "【動画】風営法違反容疑で飲食店摘発 訪日外国人狙いぼったくりか 警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GbEI2Q2d3VmVybzI4Vjk0VjRMNjR6R0NjMkRpZXJpOTJ2ZThtN3ljLTRmbDVDbUZQWkFOSUx5cU8waGVaSEQ4bThuNGI2cWs?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-11-13 14:48",
-   "published_iso": "2026-11-13T05:48:22+00:00"
-  },
-  {
    "title": "非営利のはずが数億円で取引…外国人技能実習生を仲介する「監理団体」の売買、厚生労働省が実態調査へ",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZUGZZMkVNSXVzVTJVZVUwZ1pCcmNtVHcwUnRuOTVzZ3NubERuV0U3UmdQX2dHUmpWWi1rZ2ZYM0pJQkdRaUFVeFhaanJNczE4eFVn?oc=5",
    "source": "東京新聞",
    "source_domain": "tokyo-np.co.jp",
    "published": "2026-11-13 14:00",
    "published_iso": "2026-11-13T05:00:00+00:00"
+  },
+  {
+   "title": "メイクワンが中国銀行とビジネスマッチング契約を締結 広島支社を拠点に、特定技能の対象となる全業種の人手不足企業へ、国内在住の外国人材を紹介",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZnJLUkJUS25rcUFLbUplSkpzR3QxSU5NczlDSXZob2FOVjNaTWh5S3JBNURxNWFvUFJ2RmRyZ1JUZGdhaWlvMjhFRU9DU0cwZllRWW1ZdTBLRVdpa3A0dU5hUzFCZTFuV2dj?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-13 10:46",
+   "published_iso": "2026-11-13T01:46:00+00:00"
   },
   {
    "title": "「関税を倍増するぞ」トランプ氏がメキシコ政府に警告、米国国境に向かって不法移民が北上",
@@ -280,14 +304,6 @@
    "published_iso": "2026-11-12T08:58:01+00:00"
   },
   {
-   "title": "風営法違反容疑で飲食店摘発 訪日外国人狙いぼったくりか―警視庁",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmxQNk5uMXZ1SkhpazlCM1FiSnBISXFPZG92bVd1TS1KX2Ztb084QWtVeHNWc1FVY0RLTVl3Ym51RkF1UzFjS2l1VlNEU3B1bjF1UjVrVURhU2gwRFZFZ1VGNXZuc3lnTkNOT0pWYmhYbV9vNkhYOHhXRWhySXI1cFRB?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-12 14:36",
-   "published_iso": "2026-11-12T05:36:00+00:00"
-  },
-  {
    "title": "候補者13人にアンケート⑬「外国人材受け入れ、推進するべきか？」【2026福岡市長選】",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcjNHaXFEbHRxazY4WEtoVlNqV2hPc1dnTkxFUjZFNGNFZXpfTkFJcEVweG1BRi1SaWpoMXRaOFZoV1lKMTl3RlFNSktjSkcxTGtpRjVn?oc=5",
    "source": "西日本新聞me",
@@ -336,20 +352,28 @@
    "published_iso": "2026-11-11T20:00:00+00:00"
   },
   {
-   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VHJ0bFVmT1lfSXFwYlNYZEtqWHQ4Uy1aT3VkREhBeEdHN3dwaThBTVNmV012V05tLTVmQW9GemNDeHdNa3dyeEUtZ0lsajJId09ENm00SjA2MmhWREZGR210SFZRMWc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-12 03:31",
-   "published_iso": "2026-11-11T18:31:00+00:00"
-  },
-  {
    "title": "外国人受け入れ管理で自民内に慎重論 「温度差すごく感じる」と維新・藤田氏",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW45M3h0cVpRWFBZdnVMZ2hhMTY1YlQxSnpUYjhYV1M5Y1dFQ3V3X3ktOHpSRmNldkliV2hpNDhvU29tMktfYnpPSWQ0MEt3ckc5a3BCSUg2eGRyeUQ5YkNxazNyTGlhek44d0lGbDZzUUZYTVJxd1lkQ3ozR0JKbVZIaTAxdE1NaFdUOQ?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-11 20:03",
    "published_iso": "2026-11-11T11:03:39+00:00"
+  },
+  {
+   "title": "外国人を魅了するニッポンの宝石 アコヤ真珠に赤サンゴ 中古宝石にも大金飛び交い“争奪戦”【気になる！】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PWFhzcWFXTnJsYjc1S19yRjgxOTAwQlZZQ0dOcGpKeWRvVjc0OTRRbENIQUFPX3Z4WHA2Ri1JNTZLSl9vakxpOGFSZEJicG9sU1c2Q3FrZ1o3bi1uQk91QzAwZ21qaFhGNUFTQ2FCbFVUZm8tdklvamNFV1M?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-11 19:44",
+   "published_iso": "2026-11-11T10:44:01+00:00"
+  },
+  {
+   "title": "外国人支援にAI翻訳導入実験&2500人規模の津波避難訓練 宇和島市で地震防災強化の取り組み",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyOWZ4Zy15Znk5eVVXYi1kZkpfVGp1WGhPSVlzaFZXY1JkMjN5MmF2eWJiYmVWZ3c1REJvUHoxbXFRQ0NpNDlIeHNjUkNFZ1RvRTBfVVRMdEJIUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-11 18:53",
+   "published_iso": "2026-11-11T09:53:00+00:00"
   },
   {
    "title": "（Ｐｈｏｔｏ Ｓｔｏｒｙ）金網の向こうから、やっと父が 米中間選挙の先、移民家族の願い",
@@ -382,30 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-11 06:01",
    "published_iso": "2026-11-10T21:01:00+00:00"
-  },
-  {
-   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は [外国人]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUlBQcExIcm5qbi1vN2FJTkI1aDRHRG9TN0daeXQ4N0ppMjVHQWMtcWp0QlppTUNlNWp0ZnJFZE5NR1lyM3hUYmdsbkRpVm1ZdGJ5ZGcwYTJjTEFZc3YxVnJjZzA3b0k?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 06:01",
-   "published_iso": "2026-11-10T21:01:00+00:00"
-  },
-  {
-   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は 動画",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXFQWkdUX2pzeVhJZG1NdlVVa29TS2xuTmtvYUJhNmt0VnBuVjVoVjRVSk1ldTY1UHBNbTBENU5kV0RhdnF2dzJHMnhhUmJJVVU4T3FKR1E3Q0hkbVBWUUVMbnZ4VHdiaTVzQWI1QlIzcndleTJrTEJsQzJ1blJuLWtYSXU3Z0p4SElkVDMySGc?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 06:01",
-   "published_iso": "2026-11-10T21:01:00+00:00"
-  },
-  {
-   "title": "ブラジルへの集団移民、きっかけとなった復命書 地方の市町村から外務省に問い合わせ殺到",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZOEZfaEFnZTdWVTdKYTdKTzhlYXJaUFpIZWpzSEpjUmp2U2hzeDZQdUlBQjVyaFlzTUZYbUFIV3k2NURIQzBtNFpYcXVIWmJmYTFKcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-11-11 05:10",
-   "published_iso": "2026-11-10T20:10:00+00:00"
   }
  ]
 }
