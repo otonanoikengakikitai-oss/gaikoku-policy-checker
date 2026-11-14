@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:44:55+00:00",
+ "generated_at": "2026-11-14T01:15:45+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "難民申請停止措置を審理へ 米最高裁、トランプ政権の不法移民対策",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TWVhScm8wa2UybGtybFZxRU42RzdQQjFTWFFOVEMxVUVwNjFWbG5ITVdWVUp5dVB6a1hhVjhGc2s2ZHBVUlJfYzFtbnNCM0VQTnFLNDFsY3lSZ1lLWHdmQ3dia2ROTnRrcml4YmdhaV9fNGtPUWc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-14 10:11",
+   "published_iso": "2026-11-14T01:11:06+00:00"
+  },
+  {
+   "title": "答えが出なくても、問い続ける 難民映画祭で岡本多緒さんと米本学仁さんが語り合う",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45MWZhd2NObnVOWF9yeEtBWTh2algzRzJfWlRVWmVvVjRTS013UXB2aW1wcE8yUVM4Vjl0M0NQSXJ4aVo5NFpjYzh1VUFfMFh6WTQzbVZ3?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-14 09:01",
+   "published_iso": "2026-11-14T00:01:57+00:00"
+  },
+  {
+   "title": "永住権あっても帰国「もう日本では生きていけない」デカセギの35年 [外国人]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ST3RkMmU1dnNIcE9zZFU5RGtpakVTZkdwRWpFc0R6NW81d3dvdVZNS2ZxVVBZUEs3TkRoMVhhb0tnbGtsdXZtdDFVYkJzYlgyeHQ2cDRSeUJmX1ozYkJPc2lvMTctd0k?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-14 06:00",
+   "published_iso": "2026-11-13T21:00:00+00:00"
+  },
   {
    "title": "共生社会へ小学生が「アジパラーニング」 中日新聞の「チュースク」活用、記事を通して深まる学び",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iMUhrd0VUMS1BVzJENXNzelM2RUFaU1JKNUFPQWd4RUU0THJGQjFCck5WN0JRVlJQM1BiOFd6UWRGQWM4eTMyeGhtUzl0VDJ5VUx1Nw?oc=5",
@@ -30,14 +54,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-14 05:00",
    "published_iso": "2026-11-13T20:00:00+00:00"
-  },
-  {
-   "title": "「育成就労」に関する有識者会議の会合",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nalZNWXdRM0tzMnRaUWFwZ29iZGdzLW15V0g4ME5aUTg2WnoxTzUzeENyQWJGT3BLX0tkS2hrb0FSZmVoSF80YmpVUG5SV19aU1hGLU9aajZJVFRMTUdyOXJ6dGw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-14 04:42",
-   "published_iso": "2026-11-13T19:42:07+00:00"
   },
   {
    "title": "OECD諸国への移民、2年連続減も高水準 家族呼び寄せが最多",
@@ -64,6 +80,22 @@
    "published_iso": "2026-11-13T10:56:56+00:00"
   },
   {
+   "title": "クルーズ船の外国人に『リサイクル品』が人気！？青森市西部には外国人客対応の新しいリサイクルショップもオープン",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEVGdUotYld2MkFOSmJhd3lINnFfREIwbFpLdEZvMFVPcUtuUHZ4VXMtNWJ4Y2s3Vm8tdmE2VjNXSGhQd1dTQWpfQVFpUUdvcDhSODE0TWExTEhrMWNBT2tzZy1nU3ZYQmhZQUpUSUJSZGhPYU16QXdpSDEtWE1zYWhJcVhyQm8?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-13 19:30",
+   "published_iso": "2026-11-13T10:30:02+00:00"
+  },
+  {
+   "title": "【動画】名古屋入管、傷病者の搬送訓練…大規模災害に備えて空気で膨らます担架使用",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLVR5b0ZWUmlwM1pVbU5zWUQ1cnhGM0h2R0xEQ0Q4Skc2ZDhjU0xwbDRXRHV6RU5lZC1WdzBGM09nWmNQeVIxUkUwYnpUZzVzVnFjZXNzeWwtNGc?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-13 19:00",
+   "published_iso": "2026-11-13T10:00:00+00:00"
+  },
+  {
    "title": "特定技能の運用見直し案、受け入れ区分の変更などまとまる 政府議論",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIYlNHWlJrV2xOSlBMX0Nibi1aaUFWckJCc25tY1RPcDBZSTE4SFFFT0dfRjl1QWVvbXFpell3VG5RV1RKTEE5VUUtUS1uMy0xNjB3c2N2ZEN0cHhUSHZnNVNoMFpXdEhiazhqdg?oc=5",
    "source": "日本経済新聞",
@@ -78,6 +110,14 @@
    "source_domain": "fnn.jp",
    "published": "2026-11-13 18:24",
    "published_iso": "2026-11-13T09:24:00+00:00"
+  },
+  {
+   "title": "共和党敗北受け米国目指す移民集団相次ぐ、トランプ氏「わが国への『侵略』」",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMlAzZUotaElnc3NtUG44aXN4bXZpczVENGFvTEM1ckExRl91N3N4QWV1NnFlM1FLSmN1eWFyM0hsWTRkUGx4WDREQWRxMXN1NTBZelhoRTB0SndGTUlwOVhnSXhVdw?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-13 18:00",
+   "published_iso": "2026-11-13T09:00:00+00:00"
   },
   {
    "title": "多文化共生「重要だと思わない」７倍に 岐阜県がアンケート",
@@ -136,22 +176,6 @@
    "published_iso": "2026-11-13T05:00:00+00:00"
   },
   {
-   "title": "エスエムエス",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQS2lLYjJUaWxQS0I1RTFUUGtOaTdHRjAyRnExUDF6SUJQLVZqZUVGZi03Slh0RVBLOVBOY1lLTGswMlRZd0lBQUVpU2ltU3hTeHNOMzF5d3JkMDhIem5GX2tnQVkxd0w2T2c?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-13 12:30",
-   "published_iso": "2026-11-13T03:30:00+00:00"
-  },
-  {
-   "title": "あなぶきグローバルキャリア、コーポレートサイトに外国人材の「導入事例」と「お役立ち情報」を新しく公開（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaakRwOWs5TTk3RnJBRHVJREM4ZnBKM2JEckZoRGVUMUNEVV85Z2VVeDRFbWRmV0NEQTVxcUw5Q0NYNGpPaXlxNEctYmZEUTlFTUVOc0dwSXpPUUdWVGNxcVhLSVV1MXZf?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-13 11:53",
-   "published_iso": "2026-11-13T02:53:09+00:00"
-  },
-  {
    "title": "「関税を倍増するぞ」トランプ氏がメキシコ政府に警告、米国国境に向かって不法移民が北上",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXpuZXQ2bEdWRkRlVTAtNW1DZzd2SkxYS3JPS2VJbE94c1AtX21ZR05mWnEzbGMtTVY1OWV2dng5amY4NnJTQWprRXMwV04xRGQ1TlFyTXlXLUlIM08tUVQxODB3dUZ5UmRkeVpGM2o2d1llYXNNODYxYVpVQUFnRE5VR1NyZkdQWGFYdw?oc=5",
    "source": "産経ニュース",
@@ -185,7 +209,7 @@
   },
   {
    "title": "外国人バス運転手採用 県支援 インドネシアで 県内２社が面接",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56Ukt0TXl5Umpyb29CR1lFV3VJTXhYV0t5QzQxUVNrZDFCR0VyUUxEOVlweXd4NFVyR3FmMTlTa2N4VkdHSjlFc0NmQUVVU3MtM254WlhkcDV6ZDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRGdBUHQ3a2h6VlFCcHFUamhGRmliR3gyWDRieFB0SXR2WGhObTR3U0RWM2FKQmE3V2tidkVleXFDcU1Ra1A4TzZhVlFKRmxWTkhFMg?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-11-13 05:05",
@@ -254,6 +278,14 @@
    "source_domain": "ntv.co.jp",
    "published": "2026-11-12 17:58",
    "published_iso": "2026-11-12T08:58:01+00:00"
+  },
+  {
+   "title": "風営法違反容疑で飲食店摘発 訪日外国人狙いぼったくりか―警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmxQNk5uMXZ1SkhpazlCM1FiSnBISXFPZG92bVd1TS1KX2Ztb084QWtVeHNWc1FVY0RLTVl3Ym51RkF1UzFjS2l1VlNEU3B1bjF1UjVrVURhU2gwRFZFZ1VGNXZuc3lnTkNOT0pWYmhYbV9vNkhYOHhXRWhySXI1cFRB?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-12 14:36",
+   "published_iso": "2026-11-12T05:36:00+00:00"
   },
   {
    "title": "候補者13人にアンケート⑬「外国人材受け入れ、推進するべきか？」【2026福岡市長選】",
@@ -328,14 +360,6 @@
    "published_iso": "2026-11-11T07:30:00+00:00"
   },
   {
-   "title": "避難所での外国人対応強化を 双方向翻訳機能の新システム導入 宇和島市【愛媛】",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZHhzUEs5djNZbGFDZXRuR09wOGZwSlpfTFgtQngzU0pwLXZyb1VwbnJVRk13N0l1dUt4dEtTd2pJUXJpZmZsNWJhRjJGRjBEYUJFc24yMlpnNUxVaVdmbDFHSWk3YUxYaHhWcTRlRUxKOVJNOUktYjlJOUFGVnNlbGNyd1dsMFU?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-11 13:10",
-   "published_iso": "2026-11-11T04:10:01+00:00"
-  },
-  {
    "title": "「団地内は私有地」中国人男が法廷で繰り返した無免許運転の理由「中国ではそういう認識」 「移民」と日本人",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mVGlMVUhXR3FfU29HaEFIOHdoU21xcXM1c2RFYldRTEJ5QnJoaXpXdTkzbXc3eFpsY1dKQXdGRElGSVBRTm91cmZ1ZzJyM21kVzJzZnJFN1Q2TEM2c2ViWGFqbGwyUmREWXRjRzdyc1VqbTdaZEE?oc=5",
    "source": "産経ニュース",
@@ -369,43 +393,19 @@
   },
   {
    "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は 動画",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVnNTcjVRdUVteEx5bjdJQ05TTUl4WG9LZWVoWkpvLWcyYllVQWVXWF9jNVQ3T1dNXzRrWVRqbGdTWlp0SGo1UGVIdEN5cEZ6UzQ1WnpTa2xpc0t4UldlS1o4MjE1X3lqa3Q3ZGxYV3F0ODNrVlBMcG9GRTVTNXJUWks1YnlleWY0Qlo2WVg3clo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXFQWkdUX2pzeVhJZG1NdlVVa29TS2xuTmtvYUJhNmt0VnBuVjVoVjRVSk1ldTY1UHBNbTBENU5kV0RhdnF2dzJHMnhhUmJJVVU4T3FKR1E3Q0hkbVBWUUVMbnZ4VHdiaTVzQWI1QlIzcndleTJrTEJsQzJ1blJuLWtYSXU3Z0p4SElkVDMySGc?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-11-11 06:01",
    "published_iso": "2026-11-10T21:01:00+00:00"
   },
   {
-   "title": "特定技能の試験対策に商機 ECCやクックビズ、在留5年の満期見据え",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XR3dUTW9LNkg3elNTcHZqS3NMbEFDNWxLV0FCOHhWeGVYSnVjSnhlcTVpR2ZrMWs0YTk3ZFFDdmZkbV9BdVNDUjBDVGRUQ2t3MVZfNmxmQ0tMNDRwVE83cmQ0c2tZbFFMVmcyQQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-11 05:00",
-   "published_iso": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "title": "（アメリカ中間選挙２０２６）移民摘発恐れ、通りから人が消えた",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Xc0xvblJyQ2ozcTNOeTdWMDdvWWhOSkNSSnAtSmxGakNIY0pKWm5KUG9zRWFtSjZVRHB5THNJQjlCTGRsTkNjVlBUSjVSMHg4elo4VkwxdFJPX3pO?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 05:00",
-   "published_iso": "2026-11-10T20:00:00+00:00"
-  },
-  {
-   "title": "松本市多文化共生条例に盛り込むべき内容は 有識者や市民ら懇談会で議論",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80NHQxR0pmOTZnM25xYk4wTVA4VEV6SklacmNyczdYTEZUSnI5UVlOazV4aG5oOUpWYkZQNW96elUyTExvLVhvMGxBQTZYeTdVRF9FdjB6dTRERXVoejhZd24wLXlfcjljR1VNcWtRUzA?oc=5",
-   "source": "信濃毎日新聞デジタル",
-   "source_domain": "shinmai.co.jp",
-   "published": "2026-11-10 20:23",
-   "published_iso": "2026-11-10T11:23:00+00:00"
-  },
-  {
-   "title": "「焼き魚」外国人魅了のワケ “日本流”に感嘆「自国にはない」",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05MGpvRjJGcFpUYU5USHE1aXotOVh0R3gxMkhTcWtpOHFrY0tSeENRTVlsNFhnelVkeUV0TEsyMUxscTByV1ZRU2ZtQ1Zkbjd5WFl4eXNSeGlJZmROSlhhamE5YjQwbEpEeHZaeWwtMGFxZw?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-10 19:29",
-   "published_iso": "2026-11-10T10:29:31+00:00"
+   "title": "ブラジルへの集団移民、きっかけとなった復命書 地方の市町村から外務省に問い合わせ殺到",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZOEZfaEFnZTdWVTdKYTdKTzhlYXJaUFpIZWpzSEpjUmp2U2hzeDZQdUlBQjVyaFlzTUZYbUFIV3k2NURIQzBtNFpYcXVIWmJmYTFKcQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-11-11 05:10",
+   "published_iso": "2026-11-10T20:10:00+00:00"
   }
  ]
 }
