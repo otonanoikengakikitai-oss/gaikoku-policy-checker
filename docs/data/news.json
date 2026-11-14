@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:32:24+00:00",
+ "generated_at": "2026-11-14T20:23:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,14 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "厳格化する外国人政策に疑問…直木賞作家・中島京子さんが説く「反うわさ戦略」とは",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NWGx0VWZoU0NyNUs4M0lESUpXbnREaU9PbnhhQXhCX3liT3h3TmVZWmUwY09SZ0l2ZWpMbkhYdFFXRFI2LUJ5b0E5WnE4Xy1tenFZ?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-15 05:00",
+   "published_iso": "2026-11-14T20:00:00+00:00"
+  },
   {
    "title": "女性や外国人のさらなる活躍に向けた連携を議論 山形・高畠で「仙山カレッジ」",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rWXJJdFVreEU1MURIMzFyNk9JWk1vdmE1MVpfdFBQTHl6N0tWdlh2YjZyTzZyVHRMSkJEeEhUd05DNndQZnd2YXRsdEZPOXNEVUxsdFBvWHVKRGs?oc=5",
@@ -16,10 +24,10 @@
    "published_iso": "2026-11-14T10:30:00+00:00"
   },
   {
-   "title": "連絡相手は「外国人名」 口座名義は日本人女性 違和感抱きロマンス詐欺疑う",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMXlzZWFjYzNUZzdwQXAxc1puc0JRRWRyMnFlYXotMFhiOTRNQTBmZzhBbzZWX0tJMmVXV0NHU3V5RHJPZ3RkSWg5U3lhRXN1c0dleUNzeFYzUQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
+   "title": "「外国人の“恋人”に送金したい」 名義は日本人女性、違和感抱き被害防ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40VHJkY2tXQ0xENUR1ZVliN2p1RVdHSURFUEtWdTJLWXRWMy1BTTZGYUJudGlsejJVMThjbGN1STZDQWNwMmVFZ2VvRQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-11-14 19:23",
    "published_iso": "2026-11-14T10:23:55+00:00"
   },
@@ -273,7 +281,7 @@
   },
   {
    "title": "入管難民法の改正による手数料引き上げに関する説明会 岡山県華僑華人総会が開催",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wUFV4Z25yU2hMTHJDeUpnM25tQjFDYVRUTzdTa1F3anVYRnFSLUpIdFRrRW5UdE0tdklRR0hEX3FWOGJ5TDZuYkptUVpSSGhkVU0xTk9Fb1VQeEJobThxS3hfWnp0Q28?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZkx4emQ3bTlGNkYzYlRPenplN2wweGl5Y3Rxakh1Q2JPcVBNdU1uc2t1THRYZWNmQ3lkem9kT0pRb0ZUbmxnU1otQnZhRDVfZTRuMG41RDNHUQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-12 18:00",
@@ -336,6 +344,14 @@
    "published_iso": "2026-11-11T20:00:00+00:00"
   },
   {
+   "title": "ロシア、ウクライナ戦争関連で外国人1万1000人以上死亡－流出データ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VHJ0bFVmT1lfSXFwYlNYZEtqWHQ4Uy1aT3VkREhBeEdHN3dwaThBTVNmV012V05tLTVmQW9GemNDeHdNa3dyeEUtZ0lsajJId09ENm00SjA2MmhWREZGR210SFZRMWc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-12 03:31",
+   "published_iso": "2026-11-11T18:31:00+00:00"
+  },
+  {
    "title": "外国人を魅了するニッポンの宝石 アコヤ真珠に赤サンゴ 中古宝石にも大金飛び交い“争奪戦”【気になる！】",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PWFhzcWFXTnJsYjc1S19yRjgxOTAwQlZZQ0dOcGpKeWRvVjc0OTRRbENIQUFPX3Z4WHA2Ri1JNTZLSl9vakxpOGFSZEJicG9sU1c2Q3FrZ1o3bi1uQk91QzAwZ21qaFhGNUFTQ2FCbFVUZm8tdklvamNFV1M?oc=5",
    "source": "日テレNEWS NNN",
@@ -390,22 +406,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-11 06:01",
    "published_iso": "2026-11-10T21:01:00+00:00"
-  },
-  {
-   "title": "ベトナムで進む「日本離れ」 外国人材最大の送り出し国、向かう先は 動画",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlJFaXJVZmVSTXBtSG5mYUlfS2tjblE5SFd5QkpWbk85Tml1ZkhUSHlDLXJDa0ZXYlBxUDh1SXVoOGx6SnhFTlowQVQwM2h0eHJzNmVaQWc2eHJCZHlBc05qZFpRLVZuRDBwaXU5MmNiclVhb3ktRFh6WVJCSkV5X0cxTXIydlhKX0ZObnFFd28?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-11 06:01",
-   "published_iso": "2026-11-10T21:01:00+00:00"
-  },
-  {
-   "title": "ブラジルへの集団移民、きっかけとなった復命書 地方の市町村から外務省に問い合わせ殺到",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZOEZfaEFnZTdWVTdKYTdKTzhlYXJaUFpIZWpzSEpjUmp2U2hzeDZQdUlBQjVyaFlzTUZYbUFIV3k2NURIQzBtNFpYcXVIWmJmYTFKcQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-11-11 05:10",
-   "published_iso": "2026-11-10T20:10:00+00:00"
   }
  ]
 }
