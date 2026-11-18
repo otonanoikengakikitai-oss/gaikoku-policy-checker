@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:35:44+00:00",
+ "generated_at": "2026-11-18T02:05:35+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,70 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "愛知、全国3位の「若い」県 外国人がものづくりを下支え",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IRnNubU1RTVE1MDRrVnBoY1hYdi1qek9mR1BzVDE4WlhYcjF2UXVzY2VRUl9Ram5QSU9oYkUwLW0wZUhHcHBmVXZUUmhuTEhySDA4QkZZVXl1WWkzak5UenFUMXRhZGlqWEtVdw?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-18 11:00",
+   "published_iso": "2026-11-18T02:00:00+00:00"
+  },
+  {
+   "title": "タイのミャンマー難民就労支援",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14b3ZxZ2h2SlZwa085Tm5ILVlzTHM5UWl3SkdoSEM1NDFGUTN1SHdObllfS1IyZ1dzZll6U2EzNGxvQ3daZHZEZGlmTjR5M19SSkl1TnE1R3hvUFZ4Z1RSMEVLQWo?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-18 09:04",
+   "published_iso": "2026-11-18T00:04:30+00:00"
+  },
+  {
+   "title": "◎タイのミャンマー難民就労支援",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UnlFYlhNbFhQSEVJWGd3YUREUU9uSEdGaTNJZTlLNGR1bEtFU28xNmZnN1JCVl9vZUFqRXVxaDJqTmlFc1hUeHM5Mk42UzhPN1ZfTQ?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-11-18 09:04",
+   "published_iso": "2026-11-18T00:04:00+00:00"
+  },
+  {
+   "title": "米労働省、外国人従業員の永住権取得支援に対する規制強化を提案",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwSFRVWDUzYmJwTnNhdnJBMDlMaFlpellKZmpGcmRLM3ZCMzVzZU5IaC1xUC1qT0tfeEdJV21OZDVZclFGZFJxLVk0dHN3MU9FaXNnWUtaUjB2MHhsOGNGYThNRTlNcVE?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-18 08:06",
+   "published_iso": "2026-11-17T23:06:34+00:00"
+  },
+  {
+   "title": "語りや歌で「仮放免」の子ら支援 大久保で21日にチャリティーイベント",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GbVNWWkg5azlscW5ZZFgxQllaVV9tWUxXaVQxSkt0SG9rNHplNzE2NFRxaUk1QXNGa21zTDNCNGgyTDZaanJQZzdwb2FweDRsMDlZ?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-18 07:22",
+   "published_iso": "2026-11-17T22:22:10+00:00"
+  },
+  {
+   "title": "難民の出身に関係なく「ルワンダ移送」 オランダ、ドイツなど5カ国が送還施設開設へ",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wWkM0QUlpNDAtTlg3a2V3Y21ud29SVV9seVk3SGNocXFXTnBieWRqai1RZ0hYWW5FOFZENXMtSzR0NVd6N0NGb3hzOXNMMlRTOXk4?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-18 06:00",
+   "published_iso": "2026-11-17T21:00:00+00:00"
+  },
+  {
+   "title": "滋賀県草津市の「交流サロン」開設10年 やさしい日本語で「外国人も日本人も楽しい場に」",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XaVdUZXk4M01hZjVUbUNZUVhjdEt2RkYxbFVQaU9YdThtY2ZaYWFJYkZsSTRaNzlkLUV0eDJURW9hRTJzNm9RcWFGeTN1dkZDcGJKMnpNLV8?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-11-18 05:30",
+   "published_iso": "2026-11-17T20:30:00+00:00"
+  },
+  {
+   "title": "（学校をひらく）平田オリザさん：２ 難民は“かわいそう”なのか",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yUGJJcTZLWnhzbFFWaDFzZXhCMXZmY2NNdjgwSnYtTmJDY1ZERkswZ2ZYbldleUx5aHZBOE9yMTZUUnJsQnpMMXNWUThxOTYzRE1hdlRfNnpSYi1L?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-18 05:00",
+   "published_iso": "2026-11-17T20:00:00+00:00"
+  },
   {
    "title": "外国人に自転車ツアー、魅力発信「点から3D」 富山湾クラブ高桑氏",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xUm5pREprb1liVzlfNk1uVTJuUG5PZktiWl9RdVJHMjVzaTFEU3dWYXZoSk43NGxVM1lqRnFtTG8xMU5ocjFxbnpkVjV1akRrRjJ2NmRLNUR6Y0VhbTJ4WmhTRkw2VDYwaUtEVg?oc=5",
@@ -80,6 +144,14 @@
    "published_iso": "2026-11-17T09:01:52+00:00"
   },
   {
+   "title": "VIVANT【フィルザ】「あなたが一番好きなキャラクターは誰ですか？」外国人キャスト4人が東京集結 「すごいメンバー 」「みんなで日本に来てるんですかい 」反響続々",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CS3dhWXhFZG14SFBqdWdLdDJXaGlOc0tuUEVjM2wyYjFqMFRSSU5ubHY1LTZieVQ4bXlzNkpWb2xIc200SFI5SURta21UamxhUlp2XzBNNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-17 17:18",
+   "published_iso": "2026-11-17T08:18:00+00:00"
+  },
+  {
    "title": "外国人が絶賛！日本の名物女将【しらべてみたら】",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8taDNzWEtXa2ZILVR1eHZYOEpLeEo0a3h0ZHFELXhFU3pzN3ZFTXl3WFJpUkx2cUpYNGNvSEJTb1dlaWRRWENkdEJKYk1oUQ?oc=5",
    "source": "FNNプライムオンライン",
@@ -136,8 +208,8 @@
    "published_iso": "2026-11-17T06:15:00+00:00"
   },
   {
-   "title": "海ほたるパーキングエリアから見た東京湾アクアライン＝千葉県木更津市（前島沙紀撮影）",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVkNuYk5aZ1UwZ0R6WjM0dFJHVWVTQ0JITTlWWV9ZeTQtUjBGYkNfVWhqN09wVVMwSnRQT1BKRmsxclVHUktQVGRKTzhaT0FKZHRaUFVmS0UxeFdqOU9ab0VHaU5ldXk0V19BUFRqWDE3X2VPNHkwR09Na1BCbWxKaklNaG1vdXJPOHZFd3RaQjVCN21Sa0ZQaUFiaTdCMVBYZ3c?oc=5",
+   "title": "海ほたる閉鎖の背景に外国人「JDMツアー」 参院委で指摘「白タクか無許可レンタカー」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oOEhaYTZBRUFhdTF1NHJ2d0Z6ZUJhLVZhMVJKUEpNYWh0blkySUxLc0lZWWcyVi04QjlUWFhiMmpPVHlvYTRrMmUwSnZmMi1IOURUZkJuSkRjX2ZjdnUtcEdXWTFHemE3clBTSFhDN1N5SGYyTWc?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-17 12:14",
@@ -150,22 +222,6 @@
    "source_domain": "fnn.jp",
    "published": "2026-11-17 11:50",
    "published_iso": "2026-11-17T02:50:00+00:00"
-  },
-  {
-   "title": "外国人スタッフが夜中に救急搬送されたら、誰が通訳する？大分県の登録支援機関ナガヨシが「緊急時の通訳・付き添い派遣」を開始、受入れ事業所向けの緊急対応マニュアルも無料公開 - 写真・画像(1/1)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4Wjc5N2JiN2N2T1RSeXE2Yk1sT3NpSmlSWklyS1c2SWxzTlQ0bnpmeWtOQ0U2di15WmotXzB0QTRaU3hmNzN2d1RQbXF4WTZyRlAyWTREZw?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-17 11:41",
-   "published_iso": "2026-11-17T02:41:57+00:00"
-  },
-  {
-   "title": "ドイツなど欧州５カ国、不法移民をルワンダに 来年施設開所で合意、批判も",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ld0FXUThnNFpDanhpN1h5SEZCeEhwMG9zSlBFd1cxa29TaWl1YWdacUZESWc4b2JiM0JjcTFhcXhGS2UwVHV6YmtoUTZRMmI2dTNoZU1wX0kxVkY4SUw1dUxQdw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-17 11:10",
-   "published_iso": "2026-11-17T02:10:00+00:00"
   },
   {
    "title": "APEC開催地・深セン 外国人観光客でにぎわう",
@@ -192,28 +248,12 @@
    "published_iso": "2026-11-17T01:05:51+00:00"
   },
   {
-   "title": "九州への外国人入国者数、９月として過去最高更新４１万３７６人…国際路線の拡充進む空港の利用者数が伸び",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nZUdXYnpSQlFaN2tVOTY2c0lWX0xqWTJmWGNFakdsdGFZc0ExMTc0Q3o2SDhtbFMxUVpJazJ1UUVCWF9aZ25QYWNCcVpiblpydHZWbm55UDRlSFpyckVfM1EyRERicW0yVnZFM2MyZElidw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-17 09:51",
-   "published_iso": "2026-11-17T00:51:00+00:00"
-  },
-  {
    "title": "ドイツなどEU5カ国 ルワンダに不法移民送る計画発表 「人権侵害招く」とNGO反発",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnZIeExib0ZWWFdwWVkzQnNWVFZhLXBXcXRpMGw3NkdCS2xIUHM1bmtVc1hEbzhhcE5CM2RpSW5Fd3VQN3RJMzlIeDVRNXA5T1AyMnhRZ3ZVN3NwTTFaMWxfN1ZWSVN3ZjR2ZG1tSFQtUHJwMTkyalM3NWZ4Zmx6S01icDBnSW9VaVAtTA?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-17 08:05",
    "published_iso": "2026-11-16T23:05:43+00:00"
-  },
-  {
-   "title": "離島で越える言葉の壁 めざすのは外国人との「顔の見える関係」 [香川県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84clB3Rkc2RV80N0ZuUlMxNEtQc1RGcjZqVndKRDV0THlSakpqSWd4SkpXcnhqQTdTT190dDc1U0xJbHhTMmFZNVc3Z3dYXzVhSGZDWUVwTExrbC1qR1hmMDRRWjlSRFU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-17 07:30",
-   "published_iso": "2026-11-16T22:30:00+00:00"
   },
   {
    "title": "ルワンダに移民送還拠点 欧州5カ国、来年設置へ",
@@ -248,6 +288,14 @@
    "published_iso": "2026-11-16T12:45:00+00:00"
   },
   {
+   "title": "＜社説＞外国人育成就労日本語教育の環境整備を",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TM05IZFVpRVZjR2dqWGhES0xJQXgwX1hzNUYwcVhoeVAyMUNTMTd5OHd0Zmg2TUwyNGNEbUVzeGFIbjRGb3ZzRnBqTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-16 21:10",
+   "published_iso": "2026-11-16T12:10:20+00:00"
+  },
+  {
    "title": "保守党の百田代表、福岡市長選は「外国人政策への厳しい姿勢が若者に響いた」",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aHZ4ZUoyeGhmd1d2anpTMzZ5QlpSMVE2eWtHX3lDOUpMUml4WFdvN3V5bHdJcHRuLU1QV2lndHI1SVd5N2VfemdFUk1ScC1ULXhwNXl3?oc=5",
    "source": "西日本新聞me",
@@ -262,14 +310,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-16 21:00",
    "published_iso": "2026-11-16T12:00:00+00:00"
-  },
-  {
-   "title": "＜社説＞外国人育成就労 日本語教育の環境整備を",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZS0o1MUhyWEhnNU4wNmhOM2F4V01xODlJOUFydzJUaFBXZXVXanZoMHFqc0pDVnN4VjJ2aEVrQUdqNmE3SGhJRlJCRWp5eEJxRUg4WDFNbmVrZw?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-16 20:20",
-   "published_iso": "2026-11-16T11:20:21+00:00"
   },
   {
    "title": "ASEAN首脳会議で移民労働者保護の宣言採択…ミャンマー復帰は「5項目進展」条件",
@@ -304,14 +344,6 @@
    "published_iso": "2026-11-16T08:27:00+00:00"
   },
   {
-   "title": "トランプ大統領に反抗した共和党議員が中間選挙で大接戦制す 移民政策を批判 激しい攻撃にも屈せず",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLZmdsT2puYzNDX1ctR21ldVR5ZHlwaFB0QnI0OFRCTlBxUjV1QmFZc3lLcEd1dXdBSndMQlU3czlkbGlFSjY3djVQOTdzdw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-16 16:00",
-   "published_iso": "2026-11-16T07:00:00+00:00"
-  },
-  {
    "title": "「釜山病」で日常に戻れない？ 外国人客急増…韓国釜山の観光戦略に世界31都市が熱視線 ソウル特派員発",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByNmxJdWJOdkZrcGcwUWdBRDBpYXA2WTU4Q0REcGhyNnB0akNRQ1Ftc04yS3JMUkpQb1dKVTdIcTZBQVhDa3N4dk5VSVh5enJzMW4zOU1FWi14WWQ1UUhpOWwtQi1sVW8yMUVkY1lXRkw4MUxoT0E?oc=5",
    "source": "産経ニュース",
@@ -326,6 +358,14 @@
    "source_domain": "kahoku.news",
    "published": "2026-11-16 11:20",
    "published_iso": "2026-11-16T02:20:19+00:00"
+  },
+  {
+   "title": "真の共生社会を実現しよう四季風（森）",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWODlwUkE2eGctZDFkNUVYT1VqbmNsbm5wc2hEbXJMWWtLMlEtbkNOR3RDSXh6UGNvaDZobXc1UFVxbzFqQUs1aEQ4NA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-16 10:10",
+   "published_iso": "2026-11-16T01:10:14+00:00"
   },
   {
    "title": "「心配は言葉と寒い夜だけ」 介護士目指し来日した外国人の思い",
@@ -366,46 +406,6 @@
    "source_domain": "sankei.com",
    "published": "2026-11-16 05:00",
    "published_iso": "2026-11-15T20:00:00+00:00"
-  },
-  {
-   "title": "世界の現実映す「難民映画祭」 困難生き抜く姿、日本に伝えて20年",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xRXdoSE1OdXRDX090UTJtbzlMTkcwTUJrUGl4RXRlS2kzcm9rVXIxUVVDak1CQU5CaEUzTm15RUZlQVdWRnlSMnhkU1NSb19xcE51cnZqc3BKbFJDZUQ2ZmZvel9hbWNrTE5xVA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-16 02:00",
-   "published_iso": "2026-11-15T17:00:00+00:00"
-  },
-  {
-   "title": "「日本語の読み書き」の壁に直面する外国人ろう者 母子手帳や学校のプリントが読めず不安な日々…「手話」で学ぶ日本語が家族の未来を照らす",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmd0paWXkyelJVcThXUU5qMHNUcDVqS3laeElFcTBpcmp2VkVWX2d1MWQ4dld4aUNYZkZJTl9IRURtVWprOV9maFZhV3lJQ3NQQkVSOTFFTQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-15 18:45",
-   "published_iso": "2026-11-15T09:45:48+00:00"
-  },
-  {
-   "title": "ミャンマー・ヤンゴン、タイ・バンコク、マレーシア - 【マレーシアのミャンマー人送還】難民への反感背景に急接近 親軍政権と思惑一致で加速 - 写真・画像(2/2)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMTVVWRjFPODBPSjVHdnFycm5icXAzTURoTzNCMUdJSWtFRWhud2l4UjBmc1lfbVptZlpaQnFRUi0xMWJtY21rb2h5Y2pEbFZQNDI3NFFtRQ?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-15 11:23",
-   "published_iso": "2026-11-15T02:23:07+00:00"
-  },
-  {
-   "title": "託児サービスや外国人相談窓口など、生涯学習センターを一新 台東区",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FVWpleVFVcVVDNVk5SU41NkVKYXp5X0RBNGdweEV4OGdHdDcxcUstN1E1SVNHYlo4Tjl1YUc3R0ZWc3hDdEZFWHZwZUFZQkRsYXVn?oc=5",
-   "source": "東京新聞",
-   "source_domain": "tokyo-np.co.jp",
-   "published": "2026-11-15 07:11",
-   "published_iso": "2026-11-14T22:11:07+00:00"
-  },
-  {
-   "title": "在留外国人「住めなくなるかも…」日本語試験受けられず、国に批判も",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QVXJrZGhvckpaSEM2eXdCa1IzUjBNbzFRdkdXNUNyYXBwNE5pWm1lNDhyQ3J4NEo1QS1XWWxPV2lQeHU0SGsyRXFwU3gwS1d2UldwSGN0Zm1laGc3VnBjdWQ0UUM2NHM?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-15 06:00",
-   "published_iso": "2026-11-14T21:00:00+00:00"
   }
  ]
 }
