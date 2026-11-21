@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:17:18+00:00",
+ "generated_at": "2026-11-21T00:35:27+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,62 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "海ほたるPAの夜間閉鎖が急増、改造車集会頻発で今年46回…外国人客の見物ツアーも状況悪化に拍車",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JXzNtNDVwdkJfUGwtZ3pCUkh1Q3g1aVlXZWJGakVqeElkQ0VoZHJ6ZUtOQ3lRTVdzcEFsQkNSV0NRcEdXZm1zR1RMRHlEb3NodDR6blAwWXhybGg1c0N6SkRHOFVndw?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-21 07:45",
+   "published_iso": "2026-11-20T22:45:00+00:00"
+  },
+  {
+   "title": "バングラデシュの難民キャンプで国際司法裁判所の判決言い渡しの生放送を見るロヒンギャ難民の子どもたち＝19日（ロイター＝共同） - ロヒンギャ迫害は「集団殺害」 国家の責任認めても…難民帰還なお遠く - 写真・画像(1/3)",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hV2dqWExYQmU1YXdoMlZpdHA3a1JVTlpOMmtCd0lVSWZ1MDRteE1aVEdwbTByQlVLajBXU3dQQjFsRHFyRlZRMHRrSDFfQlpuSzBLWWVoRQ?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-11-21 06:07",
+   "published_iso": "2026-11-20T21:07:11+00:00"
+  },
+  {
+   "title": "ロヒンギャ迫害は「集団殺害」 国家の責任認めても…難民帰還なお遠く",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrN3lMbmlGNFJ6cktwQjZGTWlrM2ZrNXhJUjNOZTRyVTFQUllHN3ZTZEx6YXpzQUVYa0pBRWpBVkQ4RnVJWW1icWlkVkNTcmdZR29RVEZn?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-11-21 06:00",
+   "published_iso": "2026-11-20T21:00:00+00:00"
+  },
+  {
+   "title": "建設現場、バディは外国人 朝礼での注意事項共有、アプリで翻訳 ８カ国の労働者、注意書きに複数言語",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00NkhlV3A4R2F3RFhYWDZCcDdzeUlVMTl0SHo1SzIwYmFMT2xrOG5BendnWDVJRDdobHNsZ09xZEtUZmFaTzd2LXN1djFjYVpLdkxhMnFxNTF5cjhq?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-21 05:00",
+   "published_iso": "2026-11-20T20:00:00+00:00"
+  },
+  {
+   "title": "山梨：外国人遭難最悪ペース 今年１７人 秋の登山「入念準備を」 軽装、計画不足多く ：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRTFmRlVVSHRXazlBVFp0aEcza3Y0TjYxQ0JBMnkyb29jM0JSQ1FLR01BdF94LXp6WUJXbnk4UnFPZUpSa1BHeHcteExHSWM3Q25pT01BVzJnZXJDeE5NeElnamtOUnJkZVBCdm9xeWpfeG5nSUE?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-21 05:00",
+   "published_iso": "2026-11-20T20:00:00+00:00"
+  },
+  {
+   "title": "世界各地の朝食 現地語の「おはよう」とともに 移住連がカレンダーを制作",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtemNyVldTVzJWZmptS3F5Z21KdE4yczhfRGRocGZObUZQLU5KaUUxa2dnRzhoVmotY3V3cGJEbGtOY3kxVlFKTklMU1NkZDJJMTlR?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-21 05:00",
+   "published_iso": "2026-11-20T20:00:00+00:00"
+  },
+  {
+   "title": "外国人のマナー向上へ注力 倶知安のＮＰＢ キャラが啓発する動画制作 従業員用と客用の2種 割引特典も",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2Ty03SmpiSy1EdEpMYTk4NXNWUjc2a01lTVFrYTRCVHVuZTdRVDNUTjh0YWdHN2Flbk9KSmhkc0hqSEJWakZfb1hGSUk3RlNiZWxWOURrMWpXQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-21 04:00",
+   "published_iso": "2026-11-20T19:00:00+00:00"
+  },
   {
    "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWllxSDhRbnRLTXNjQ2FIVW5PTVFLWUJUbXZxUWx1b0dBbjZQdTZfOXY4dlp4VnR0YUVTZ3ZRLWUxZm5OOFVQMEtwSmdXdkxOYVhsdQ?oc=5",
@@ -48,14 +104,6 @@
    "published_iso": "2026-11-20T09:36:43+00:00"
   },
   {
-   "title": "プレスリリース：海外で暮らす子どもたちの日本語教育を守る。NSJAPAN、バリ日本人会へ売上の一部を寄付（PR TIMES）",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcGJhNlBBU0dPTFBNV3RoUFREWWF4TGVJUnp3dHp2WmdUNWxlU216NzdsNi1oVTNOZUFTZWpKOFctc3NaY2VrV2lyVEpadmNWQTVoMHFFc2ttbDY3T3JCLTNPalkyZ05q?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-20 17:24",
-   "published_iso": "2026-11-20T08:24:06+00:00"
-  },
-  {
    "title": "近畿各地今シーズン一番の寒さ 日本海側では雪も 滋賀・伊吹山が雪化粧 京都では外国人観光客が「ちょっとびっくり」",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXNzZW04R0RrSEhsWmZzY1h1aDQ2R1pZRWNla2d0Y0lzUHMxdmIzWWREWTgyVm45RHVXdzU2QW9IS3ZiaDFLX0VPS2ppVTJublFGd0diX0N3a2tHRkFLMVRXbkZzbzdGRWFNQXpBNElablpvYXdFejgzRUwxanF6NnkwcGN6cU0?oc=5",
    "source": "日テレNEWS NNN",
@@ -78,14 +126,6 @@
    "source_domain": "tbs.co.jp",
    "published": "2026-11-20 16:04",
    "published_iso": "2026-11-20T07:04:00+00:00"
-  },
-  {
-   "title": "【日本語学科開講】大阪アミューズメントメディア専門学校、文部科学省より「認定日本語教育機関」に認定 2027年4月、日本語学科を開講",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UYTJPSVFlRFFYLWs3WTRCRWQ5TVY2OVpjUUQwc2hKdzNLVUtFQlQ2VXVmbkVFTmMzb3A0M1ZEci1PZHRIMUxiOFZmNDd2TTBsQXRtOVl5ZHNadzBLZnMyVFoyODIyY1hjNksw?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-20 15:16",
-   "published_iso": "2026-11-20T06:16:00+00:00"
   },
   {
    "title": "京急電鉄などが日本で健康診断を受ける外国人向けの旅行商品の販売を始めました",
@@ -176,14 +216,6 @@
    "published_iso": "2026-11-19T20:10:00+00:00"
   },
   {
-   "title": "長崎・外国人弁論大会 平和、日本語で思い 最優秀賞 クルーズさん ／長崎",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12TWg4cjRCSjRlemF6c2x6ZHcxTUNEeUFWY3NiTGlsVmFEbFlLY1hjS3NfY2MtQUl2T25qTFAzWmZxMjRSMGZFQU9vbnRyTU1jNkR0eHFBb3NKQVBNR3Q2eXNrQVgtRm9J?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-20 05:03",
-   "published_iso": "2026-11-19T20:03:20+00:00"
-  },
-  {
    "title": "特定技能「介護」 比の６人に辞令 ときわ会グループ",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Jb01YOTRkalRReWV2QWlndFJxa0xNalFkcWZDQ05LOTFCS1ZpY3cxRWpubnM4S3Nod01ZNFN5cFNTQ3hFN18zZEhuQQ?oc=5",
    "source": "47NEWS",
@@ -216,20 +248,20 @@
    "published_iso": "2026-11-19T07:51:47+00:00"
   },
   {
-   "title": "京都市下京区で市民と外国人観光客が一緒に料理 「天ぷら」教わり「いいことばかり」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMmJHTjluTzdJTlhQZ19Rc1pTV1RxMWNiLUtYUkRTQ0RmRTBNaDlncXZIaElwMnU5b2dkVFBnSG5TMXdXVFBPNVNRV0dRdnhaQTVybzNnbWw?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-11-19 16:00",
-   "published_iso": "2026-11-19T07:00:00+00:00"
-  },
-  {
    "title": "ローソンと日本郵便、ゆうパックで商品配送 地方の買い物難民支援",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1eDZzMWlEeUxDOXVLcjExWG9uWkpJRnBYMHpQT2YxcUdTNnI5R2ZxckItUTB0TFpLZFhOWDQxQTdGeF9oamVlb2ZpUmpSR2JLYjlLQWJGM2JDVDR6anR4LWdRRGhEeTY4S081WQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-19 16:00",
    "published_iso": "2026-11-19T07:00:00+00:00"
+  },
+  {
+   "title": "山口県周防大島のハワイ移民テーマ 研究者・アーティストが共同作業で作品 日本ハワイ移民資料館で展示",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwaHZ4WGJiaFg2SFVEaWJKa05mMGwzRi0xek5HdXd0NURQUnZBaGhjWXhDQUhSd3NPbHFYcnNKeGNqS1ZRNUZFcmdBTQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-19 15:55",
+   "published_iso": "2026-11-19T06:55:00+00:00"
   },
   {
    "title": "多文化共生考えよう 11月28日に苫小牧でトークイベント",
@@ -374,38 +406,6 @@
    "source_domain": "nikkei.com",
    "published": "2026-11-18 11:00",
    "published_iso": "2026-11-18T02:00:00+00:00"
-  },
-  {
-   "title": "「家族滞在」外国人の子供、日本語能力や学校の受け入れ余力で制限設けず 参院委で入管庁",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMTh5WkprMlhnTy11dnZtdFZGMkJJOE1EMDc3VmdMRnV0VWdvWTJnSndMd1JQMGpFb2x3QXJBRXFOMHh1R0FTRjR5YWNmeXRQc21BcjFSeWQ1LXkyekNtS1Y2SFpGVEsxZ1hsYVg0QVc5ZnJVazFpMXRMc2hBNFRXVF8zUXNUa0d3RHBzUQ?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-18 10:50",
-   "published_iso": "2026-11-18T01:50:00+00:00"
-  },
-  {
-   "title": "タイのミャンマー難民就労支援",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14b3ZxZ2h2SlZwa085Tm5ILVlzTHM5UWl3SkdoSEM1NDFGUTN1SHdObllfS1IyZ1dzZll6U2EzNGxvQ3daZHZEZGlmTjR5M19SSkl1TnE1R3hvUFZ4Z1RSMEVLQWo?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-18 09:04",
-   "published_iso": "2026-11-18T00:04:30+00:00"
-  },
-  {
-   "title": "◎タイのミャンマー難民就労支援",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4UnlFYlhNbFhQSEVJWGd3YUREUU9uSEdGaTNJZTlLNGR1bEtFU28xNmZnN1JCVl9vZUFqRXVxaDJqTmlFc1hUeHM5Mk42UzhPN1ZfTQ?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-11-18 09:04",
-   "published_iso": "2026-11-18T00:04:00+00:00"
-  },
-  {
-   "title": "米労働省、外国人従業員の永住権取得支援に対する規制強化を提案",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwSFRVWDUzYmJwTnNhdnJBMDlMaFlpellKZmpGcmRLM3ZCMzVzZU5IaC1xUC1qT0tfeEdJV21OZDVZclFGZFJxLVk0dHN3MU9FaXNnWUtaUjB2MHhsOGNGYThNRTlNcVE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-18 08:06",
-   "published_iso": "2026-11-17T23:06:34+00:00"
   }
  ]
 }
