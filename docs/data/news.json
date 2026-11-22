@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:33:56+00:00",
+ "generated_at": "2026-11-22T01:53:45+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -72,14 +72,6 @@
    "published_iso": "2026-11-21T01:00:00+00:00"
   },
   {
-   "title": "ロヒンギャの「集団殺害」 国際社会の責任は 識者が語る判決の意義 [ミャンマー]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CY3V6MzdmcUp3QThkRFZxdmxFMXpmSHZnSThGZUdzT3ZZRF85WEgzTkNiV0xOd1J0Qk5kVWhxZ2RDNEFaYXJGVmxHUjBxdWpPb3ZnWDhfUEN1Und3V3h0ckl5V291Z28?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-21 08:00",
-   "published_iso": "2026-11-20T23:00:00+00:00"
-  },
-  {
    "title": "バングラデシュの難民キャンプで国際司法裁判所の判決言い渡しの生放送を見るロヒンギャ難民の子どもたち＝19日（ロイター＝共同） - ロヒンギャ迫害は「集団殺害」 国家の責任認めても…難民帰還なお遠く - 写真・画像(1/3)",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hV2dqWExYQmU1YXdoMlZpdHA3a1JVTlpOMmtCd0lVSWZ1MDRteE1aVEdwbTByQlVLajBXU3dQQjFsRHFyRlZRMHRrSDFfQlpuSzBLWWVoRQ?oc=5",
    "source": "西日本新聞me",
@@ -120,12 +112,12 @@
    "published_iso": "2026-11-20T12:45:45+00:00"
   },
   {
-   "title": "特定技能のミャンマー人を虐待した疑いで警察が告訴状を受理 農場仕切る60代町議と40代次男の処罰求める 北海道京極町",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43LUxENUw0dzNXMDZOMXczMUNQcHNzZngtbWpNSDA1d3hKbkY5LUVlV1hhb0gzQXNNYnd3OERQVmxFNFllOW9jUTFDaTlLRzRRUnFKRDVXNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-20 20:02",
-   "published_iso": "2026-11-20T11:02:00+00:00"
+   "title": "情報や物資など体制づくりの必要性「自然災害時に外国人の安全を守るため…」県内で広がる取り組み《長崎》",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMVpTa25HSFZPWlN6OEhvMkpWei1yaUtTdEJPbmxjODMySXQ2Q19Ea0JKQW50WnNPMVpnLUFCU215c3N1RXQwaDFZWDNDdEp6LW5lWjUza0lYVGZRaTM1b1RNM3RzUDdKQUxNdDRmeC01OXZ1S2s5TDQ2N0thTU0?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-20 20:10",
+   "published_iso": "2026-11-20T11:10:00+00:00"
   },
   {
    "title": "群馬の建設業、8割が施工管理人材不足 外国人の雇用へ支援要請",
@@ -164,6 +156,14 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZEJSYnN3S0RpTnhYQ1o5aVR3UDNtaVJvRzk2QzhOeUFPd25mcjl4TFgySVRoRTdaOTZudk5oS0FyRVVXdkt0YWtJNlhIclpJVEZHRTFVaGVoQm43T1JmbE5HbW1Ca2NxZGhPLQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
+   "published": "2026-11-20 11:00",
+   "published_iso": "2026-11-20T02:00:00+00:00"
+  },
+  {
+   "title": "外国人受け入れ環境調査 神田外語大 浜通りの改善策練る",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQSHJtYUdibzJaUXhnS1hZbXdBZ1R0ZHI1bmtQbnlkZjVQS0p0VTFCZzV2bVJBUlk5Q3F6TnhHaktBX0tfcjZiZ2lyNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
    "published": "2026-11-20 11:00",
    "published_iso": "2026-11-20T02:00:00+00:00"
   },
@@ -230,14 +230,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-11-19 17:53",
    "published_iso": "2026-11-19T08:53:00+00:00"
-  },
-  {
-   "title": "農業法人への告訴状受理 特定技能で来日の男性が「虐待」訴え提出 [北海道]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wNEJ4YjNnN3c1a2pYbVZqUjkxZkQyWl90cW9jbzZza0VZYm1YNWl1bTd3WmVMODhnRUdhVU5uYkRzWURpbUgtaXZLNkNCSHNQUzZlV1ZSZmg0YTJUVGxuNlMzb0VLTTg?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-19 16:51",
-   "published_iso": "2026-11-19T07:51:47+00:00"
   },
   {
    "title": "京都市下京区で市民と外国人観光客が一緒に料理 「天ぷら」教わり「いいことばかり」",
@@ -328,14 +320,6 @@
    "published_iso": "2026-11-18T09:59:40+00:00"
   },
   {
-   "title": "外国人と共に暮らす、同じ志の自治体が一歩ずつ 「集住都市会議」、国に訴え続け２５年",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcFR5XzltXzVGRnBCNXNIeVpMMUtveFVMMmNvTW9kZnRzOVV6STBKQTh3M2tybFg1VVlMbTItQkl2ZVFXWnFEN3lZM2Y3ejc3LW5KUDcxcDJkRy1f?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-18 16:30",
-   "published_iso": "2026-11-18T07:30:00+00:00"
-  },
-  {
    "title": "入国拒否「前科あったため」 韓国野党前代表巡り入管庁説明",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uNVJPTXJ1NE01MU5NbjhlUGg0RXR1amFpSUlFSElDUzA3UjFpS3JiRTY3UmhrT1c5OUE4cjZOdERPdU5abENKVjBLZUswUUpEbjRjbktBV1ZpRzd6WWZCVXRnYw?oc=5",
    "source": "時事ドットコム",
@@ -368,14 +352,6 @@
    "published_iso": "2026-11-18T01:50:00+00:00"
   },
   {
-   "title": "米労働省、外国人従業員の永住権取得支援に対する規制強化を提案",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwSFRVWDUzYmJwTnNhdnJBMDlMaFlpellKZmpGcmRLM3ZCMzVzZU5IaC1xUC1qT0tfeEdJV21OZDVZclFGZFJxLVk0dHN3MU9FaXNnWUtaUjB2MHhsOGNGYThNRTlNcVE?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-18 08:06",
-   "published_iso": "2026-11-17T23:06:34+00:00"
-  },
-  {
    "title": "水説：リーチ選手の日本語学習＝宮川裕章",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tdmt4YVhST2c3dGVHQVhUTkR6bVdJQW0wUFc3dWJzZ25jX25mTlotNC1KeHFhbnpNeWIzdmwzcGxDc1IzSXdGMTBueXpReWpFZ2x3dnJ5bmFPSjJfaVp0Zjlxa185bW50?oc=5",
    "source": "毎日新聞",
@@ -400,12 +376,36 @@
    "published_iso": "2026-11-17T09:01:52+00:00"
   },
   {
-   "title": "VIVANT【フィルザ】「あなたが一番好きなキャラクターは誰ですか？」外国人キャスト4人が東京集結 「すごいメンバー 」「みんなで日本に来てるんですかい 」反響続々",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CS3dhWXhFZG14SFBqdWdLdDJXaGlOc0tuUEVjM2wyYjFqMFRSSU5ubHY1LTZieVQ4bXlzNkpWb2xIc200SFI5SURta21UamxhUlp2XzBNNA?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-17 17:18",
-   "published_iso": "2026-11-17T08:18:00+00:00"
+   "title": "欧州5カ国、移民送還拠点をルワンダに設置へ 背景に反移民感情",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oLUVEYlQzd2piVzNxeDNzU292bUZRd0RpU0k2Q19nUmZBeUVDR1Y5WE9MTk5heUprdURsS3REVUhzeDhJSlRKSkdKeGhubnBRd3lEbGdTTC1QN2RTNTk1UGh0QjRUSjZw?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-17 10:05",
+   "published_iso": "2026-11-17T01:05:51+00:00"
+  },
+  {
+   "title": "ドイツなどEU5カ国 ルワンダに不法移民送る計画発表 「人権侵害招く」とNGO反発",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnZIeExib0ZWWFdwWVkzQnNWVFZhLXBXcXRpMGw3NkdCS2xIUHM1bmtVc1hEbzhhcE5CM2RpSW5Fd3VQN3RJMzlIeDVRNXA5T1AyMnhRZ3ZVN3NwTTFaMWxfN1ZWSVN3ZjR2ZG1tSFQtUHJwMTkyalM3NWZ4Zmx6S01icDBnSW9VaVAtTA?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-17 08:05",
+   "published_iso": "2026-11-16T23:05:43+00:00"
+  },
+  {
+   "title": "東北の研究職、エンジニアに高度外国人材を 仙台で留学生ジョブフェア 21社がアピール",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZUlRZEM3cUVzSnk5aTlSbHk2Y2xMNWNkN280emdfY1F2YndaTUNES0FIUXFqLWNpbXY5aTVNMjFjVUFnaDdEeG9qQ0dDSjdwNDNoeG5Da28tSG8?oc=5",
+   "source": "河北新報オンライン",
+   "source_domain": "kahoku.news",
+   "published": "2026-11-16 21:45",
+   "published_iso": "2026-11-16T12:45:00+00:00"
+  },
+  {
+   "title": "福岡市長選で保守党候補3位に 「移民拡大ゼロ」訴え、参政党と明暗 [福岡県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJODBXR09UY05vVlR0MDFNY1cxMnNyNTFZUVozbmdMTU9wTW1vMzluZ05CeDVoUDBZeXFHU1JBNS1RcUtDM2lORUw3RDBfZ05ZYVdlSllyZC1DcFZzWjRuUDBXMHpSOUU?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-16 21:00",
+   "published_iso": "2026-11-16T12:00:00+00:00"
   }
  ]
 }
