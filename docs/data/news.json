@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:53:45+00:00",
+ "generated_at": "2026-11-22T09:20:13+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,30 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "「いくらかけ放題」「本格中華1200円食べ放題」都内で人気の格安ビュッフェ あばれる君＆外国人が徹底調査【それスタ】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XRjNkbFExdnhDcm9RZ3lQb3lVZ3hsZUlRdGZyLXZwbTV3SlVIWFgwRFNjazZablpJT3lvcXRVdzdlQ2F5Z1RHTFV2Uy03dGlUYmhWQVQyOA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-22 18:00",
+   "published_iso": "2026-11-22T09:00:41+00:00"
+  },
+  {
+   "title": "マレーシア副首相、ロヒンギャ難民のトルコへの移住巡る投稿を削除",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ob1Rua1R4T0JMWUItZ21mSEp0MGxFVnhJNm5hczczUEJ2S0xIVkRaVkxVRnAtUnVqNVlJT3pNanFORlRQUDBfaThKSUxkWml5V0gyZDRTRnh6alUwOTliRWhLTThpMTZDRk1pcg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-22 14:15",
+   "published_iso": "2026-11-22T05:15:38+00:00"
+  },
+  {
+   "title": "フィリピン入管、詐欺で日本人9人逮捕 宅配業者装う、中国人らも 犯罪拠点を摘発",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJaktyYzdaNndaWUc4bElfWGZWMzI4X2x5dVhqdnBqN0kxVHI3U2lYYkdXRkhmU0xSQ1RJVUFRTGcwOTV5TlZ5aWxiTU9CajgxZTdqQW8xTWwxMldRdmRPX3hpTmhVYVRpYlBhNDUxUi1RZG8wdXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-22 13:19",
+   "published_iso": "2026-11-22T04:19:36+00:00"
+  },
   {
    "title": "「生徒が外国人に連れ去られそうに」で閲覧200万回超 静岡市で誤情報が拡散した背景",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuTnc0VHdzdEFoM3ZnOFRhaGgxQm4xcVZYVXpUMVJWbXVHUWt3TmVBOGs0OFM0SWQtamJlMGxHeWQ5SFcwUS14d2h5elFyOFRaN1NCaQ?oc=5",
@@ -49,11 +73,11 @@
   },
   {
    "title": "スペイン移民急増、総選挙争点に カナリア諸島に半月で1万人超",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FV1hKZ2FPNy1lZi10WjdZSWJiYXM1d1BpNzJXU1hXdzQzZTN4WkxmSjAtRjV3QzNKa0tIRUs3aUcxX1E5RVpfR1cxV3VEV2ZBWkk2ZGgxZG9FMnpIUzJlU3EzWXpQUjhTZlhSRWpHeUVVcjNVeTNYWGdn?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-21 16:06",
-   "published_iso": "2026-11-21T07:06:55+00:00"
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15bEJERUp6dnZ2aHZaaTFyYURVOTcyZU8tZFhwTWxBdUlnSlFkZUI3NW5QWkFRdkt0cnZmd2V3QmE5dnRwUUNneGpQRU52MDJESExSQ1NR?oc=5",
+   "source": "西日本新聞me",
+   "source_domain": "nishinippon.co.jp",
+   "published": "2026-11-21 15:57",
+   "published_iso": "2026-11-21T06:57:33+00:00"
   },
   {
    "title": "豪、移民抑制に苦慮 厳格化求める極右台頭で",
@@ -128,14 +152,6 @@
    "published_iso": "2026-11-20T08:00:00+00:00"
   },
   {
-   "title": "「7億円日本に送る手数料」“外国人医師”から50代女性が1620万円だまし取られる 鹿児島",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZU4ySVhaenZ1aWtZdFFpSnF1ckRQMDc3YTZHVjdvbTl4WUhQQjdDX2hPb2lScWo3ZmdOWk9fbl80SDNHSTItRER2UERBZ0JXd0l1TUFOd2VHaTZ1QTRIeEM2YkpLSHc?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-20 16:04",
-   "published_iso": "2026-11-20T07:04:00+00:00"
-  },
-  {
    "title": "不法残留の外国人リスト、警察に事前提供を 保守・北村晴男氏の提案に山下法相は慎重姿勢",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDF5OTBsc1g2LXdiUm55UGZvcmlzQWVSNHZzQl9IX3BaSlVlaWZqQlVrSVQ4eTAtVzh3blVENEpOa3RHYlJfVldaNk5seExmMkRNeEIxRWQ2NTlBbmI4b3p4eDduZGowWEJvdzYwSWxHM3FGT2ozWTBvOFNMN1JWWEV2YkVGZW9YUkMtVw?oc=5",
    "source": "産経ニュース",
@@ -156,14 +172,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZEJSYnN3S0RpTnhYQ1o5aVR3UDNtaVJvRzk2QzhOeUFPd25mcjl4TFgySVRoRTdaOTZudk5oS0FyRVVXdkt0YWtJNlhIclpJVEZHRTFVaGVoQm43T1JmbE5HbW1Ca2NxZGhPLQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-11-20 11:00",
-   "published_iso": "2026-11-20T02:00:00+00:00"
-  },
-  {
-   "title": "外国人受け入れ環境調査 神田外語大 浜通りの改善策練る",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQSHJtYUdibzJaUXhnS1hZbXdBZ1R0ZHI1bmtQbnlkZjVQS0p0VTFCZzV2bVJBUlk5Q3F6TnhHaktBX0tfcjZiZ2lyNA?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
    "published": "2026-11-20 11:00",
    "published_iso": "2026-11-20T02:00:00+00:00"
   },
@@ -193,7 +201,7 @@
   },
   {
    "title": "ジェノサイド判決でも変わらぬロヒンギャの日常 難民への支援は縮小 動画",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ncFhYOGFOSWMzQS1QdWZXMllGMkhjMG9iN2kyT1hNWUNiczdCTkNjbVFOenNjdV9zOGNpLWZsRDE0VS1rcmdCTTNhcUNBeGJ6SXM0QWNUWVN2d2ZQUW1tMUxPSkVFOGVqVS1jcDdwaw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbmVVdEFwTXNaUG1lcDJGcEUyVFlnR0dsOVA2cFBwV3BMbVhKNWxfZXdwNklYeVNVZFQwSHNEbDhlbHBXRERreTloaDVCaHFnNWdhZ2szVTgwMkhVVW1wamltMlI2bENJZVltNEJOZWktS3ZPUzl3QTBDQU9JbU9JUFYtdVlmMW5Wbkk5S1habGE?oc=5",
    "source": "朝日新聞",
    "source_domain": "asahi.com",
    "published": "2026-11-20 06:00",
@@ -320,6 +328,14 @@
    "published_iso": "2026-11-18T09:59:40+00:00"
   },
   {
+   "title": "訪日外国人、単月で最多に…10月は約391万人（2026年11月18日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sS0RoVHhPRlJwdFI1a2JadjgteXJWUEVqMHVzUmRWcFk0eFdZampTc0RfeEtKVU5zMFRwUXQ3MWdWWmRKdXNNcEVocWJ0QXhPSGtFSktSN2JDamJQUE9INVkteDdVNVIwdnJ5cnY4NDNNZi1tN2Y5S3RkajM?oc=5",
+   "source": "日テレNEWS NNN",
+   "source_domain": "ntv.co.jp",
+   "published": "2026-11-18 18:14",
+   "published_iso": "2026-11-18T09:14:00+00:00"
+  },
+  {
    "title": "入国拒否「前科あったため」 韓国野党前代表巡り入管庁説明",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uNVJPTXJ1NE01MU5NbjhlUGg0RXR1amFpSUlFSElDUzA3UjFpS3JiRTY3UmhrT1c5OUE4cjZOdERPdU5abENKVjBLZUswUUpEbjRjbktBV1ZpRzd6WWZCVXRnYw?oc=5",
    "source": "時事ドットコム",
@@ -360,6 +376,14 @@
    "published_iso": "2026-11-17T17:00:33+00:00"
   },
   {
+   "title": "共生社会づくり推進に向けた新条例 2027年4月1日の施行を目指して原案示される 障害者がさらに活躍できる差別のない社会実現へ 青森県",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVlk4YmY4VnJZS1BUdE1FbXk1WmZWVDVXQkwtV2JxdTN0MDRqZUVIZ1IzTFExZlFtMnVCdzI4NnhhUVRqdUV1U1NqTHpnUWc5NEItcjAwTzJsM2JMai1VbzZwTkVZTEE?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-17 21:37",
+   "published_iso": "2026-11-17T12:37:00+00:00"
+  },
+  {
    "title": "元世界３階級制覇ホルヘ・リナレス氏、米移民当局に拘束 「信じられない」",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zS2hwRmdhRmdfU3llaWJMU2Y2cHFLX2NnZlVPSnVhSmtxY3ZMaTJmcTFVcl9MTGJyTlFuOVRQUVpiOVdRbVRNdGE1Z05QSEg4VTU1VGhyd1dsTEg5MDFlS2NCdVJqQQ?oc=5",
    "source": "時事ドットコム",
@@ -376,36 +400,12 @@
    "published_iso": "2026-11-17T09:01:52+00:00"
   },
   {
-   "title": "欧州5カ国、移民送還拠点をルワンダに設置へ 背景に反移民感情",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oLUVEYlQzd2piVzNxeDNzU292bUZRd0RpU0k2Q19nUmZBeUVDR1Y5WE9MTk5heUprdURsS3REVUhzeDhJSlRKSkdKeGhubnBRd3lEbGdTTC1QN2RTNTk1UGh0QjRUSjZw?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-17 10:05",
-   "published_iso": "2026-11-17T01:05:51+00:00"
-  },
-  {
    "title": "ドイツなどEU5カ国 ルワンダに不法移民送る計画発表 「人権侵害招く」とNGO反発",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnZIeExib0ZWWFdwWVkzQnNWVFZhLXBXcXRpMGw3NkdCS2xIUHM1bmtVc1hEbzhhcE5CM2RpSW5Fd3VQN3RJMzlIeDVRNXA5T1AyMnhRZ3ZVN3NwTTFaMWxfN1ZWSVN3ZjR2ZG1tSFQtUHJwMTkyalM3NWZ4Zmx6S01icDBnSW9VaVAtTA?oc=5",
    "source": "産経ニュース",
    "source_domain": "sankei.com",
    "published": "2026-11-17 08:05",
    "published_iso": "2026-11-16T23:05:43+00:00"
-  },
-  {
-   "title": "東北の研究職、エンジニアに高度外国人材を 仙台で留学生ジョブフェア 21社がアピール",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkZUlRZEM3cUVzSnk5aTlSbHk2Y2xMNWNkN280emdfY1F2YndaTUNES0FIUXFqLWNpbXY5aTVNMjFjVUFnaDdEeG9qQ0dDSjdwNDNoeG5Da28tSG8?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-11-16 21:45",
-   "published_iso": "2026-11-16T12:45:00+00:00"
-  },
-  {
-   "title": "福岡市長選で保守党候補3位に 「移民拡大ゼロ」訴え、参政党と明暗 [福岡県]",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJODBXR09UY05vVlR0MDFNY1cxMnNyNTFZUVozbmdMTU9wTW1vMzluZ05CeDVoUDBZeXFHU1JBNS1RcUtDM2lORUw3RDBfZ05ZYVdlSllyZC1DcFZzWjRuUDBXMHpSOUU?oc=5",
-   "source": "朝日新聞",
-   "source_domain": "asahi.com",
-   "published": "2026-11-16 21:00",
-   "published_iso": "2026-11-16T12:00:00+00:00"
   }
  ]
 }
