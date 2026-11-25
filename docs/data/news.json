@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:44:47+00:00",
+ "generated_at": "2026-11-25T06:57:58+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,142 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "【動画】中国の宇宙船に外国人飛行士が初搭乗、打ち上げ成功 途上国などとの国際協力をアピール",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXlGWU90VUpVU2w2eTBxSlVZTFdLVG1RTW5UNVdTNmRCR0QwX2liZkRwaFIxcnBUdGVTZm5feTBQcFRLeVpHQzk1MG5ZVTZnSVBDQm9pUm5lblVzZTYwWWphdVhuMFl6Y3NNeE5YaDkwaXZhVXU4OE85Y1pJRWJEZmVKVXZFVlU2QlRveA?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-25 14:40",
+   "published_iso": "2026-11-25T05:40:13+00:00"
+  },
+  {
+   "title": "【速報】中国宇宙船に初の外国人 打ち上げ「完全成功」",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ya3dnTzhybnV5X0tVUXFCUkticnVabEVkY205ZGFYd3pnYmZyMkZzeVlnb2FRZXFDTjlsQWYyVGJQSW5ISXVDYjh6SQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-25 12:49",
+   "published_iso": "2026-11-25T03:49:05+00:00"
+  },
+  {
+   "title": "カナリア諸島への移民急増 今月だけで1万人以上が到着 スペイン総選挙に影響も",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvM1Zfc2ptdGdQOTFLMG5aRWh1Rjl6NTBvMGRXVUZTNGdmc256TW5PVzczdy1DZWVhbDFDTVpNczJQRDRaS3Fwb3hFeFJfN2JuVU84MFctMU11UzBPZUhpVWJyQ0EyaV9JcFRMc2VDMF93eDNGYkFkUm5B?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-25 12:31",
+   "published_iso": "2026-11-25T03:31:57+00:00"
+  },
+  {
+   "title": "同僚男性を包丁で切りつけた疑い 19歳ベトナム人技能実習生を逮捕 交番に出頭も「殺すつもりはなかった」と容疑を一部否認 札幌市",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNWp1aXBma3BiVktMVm9ucHphVVBNTnZkOWQ5SWFOSGl0VFp2cTJTUjJva0dyMDlmMDUzVnFIV0E0OUNtV2lIUXRlakJJSW1VSUI5Ql9PWW9DcERod3B0eXVHb2E0RXc?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-25 12:12",
+   "published_iso": "2026-11-25T03:12:00+00:00"
+  },
+  {
+   "title": "外国人宿泊者がコロナ禍前の1.8倍に…かつて観光公害に悩んだ熊野古道で「共生」が進む理由",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44cXlYZmMyUHZMcEZ5UFZab1ZGX0dWbDY3RXF0RnJrdmRsNW1ZYzhaYzdlbUFVOGR2cFYyQXBUWXJXekgtYlJFdXRKVDRsMk1ld0lj?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-25 12:00",
+   "published_iso": "2026-11-25T03:00:01+00:00"
+  },
+  {
+   "title": "共生社会、音楽劇で考える 障害者の実体験を脚本に…来月２６日 岐阜・各務原市で公演：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54YUlFemZaejRLRU5Vc04wT3JXNWF3X0czS1RhQUIzTU5zRnJoQ09pWnB1YmZERUVoT1FNZWhUZHhVdGJXelRYd2hBQzQ3MmZiSXM3Z3ZSbXFLV05JaEN0aEJINUY3WWN2a0t4ZzBPcHY?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-25 11:10",
+   "published_iso": "2026-11-25T02:10:00+00:00"
+  },
+  {
+   "title": "中国、有人宇宙船「神舟24号」を打ち上げ 初の外国人搭乗",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QUGh3QnNaWEpfc0tIeHRkYnBVcWdXRkg2bE13LUx4U3dzMXlzcEhUT0puWTJROUxaMWJwMFNIMlJ4c1h2TVBQbjBMSkxQUGZTQlZ5V0l1YzJrQU4yQVhoUzIxNXVhRXl0?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-25 11:06",
+   "published_iso": "2026-11-25T02:06:27+00:00"
+  },
+  {
+   "title": "中国、パキスタン人宇宙飛行士ら乗せ「神舟２４号」打ち上げ…初の外国人クルー・国際協力アピール",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45MC1MdThaQmR6MXBacmNEVDVTNDA0OHlYci1Fc2xoUzRpcDdOUGRYaHFvdGJMWDVfU08zOWI1aW04WUlPWjRRaU9iQWVETEZLM2lqZm9vM3lJZUFEZTFkYjlR?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-25 11:06",
+   "published_iso": "2026-11-25T02:06:00+00:00"
+  },
+  {
+   "title": "埼玉の秩父温泉郷、温泉総選挙おもてなし部門1位 体験型充実、土俵露天風呂は外国人人気",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kOGltYjlWUEZNTkRJRHJ0MVpDdWRDME1HNkVlYWR0RVRWVjItNjZZT0JWMzVIaGRLeTdOeVJoSS0tNnVOcUxhYU9OWnY1d3owWTNSVjE2Tl95aWszckdfUVROOF9jSWNySzNOUHI4MDFXTG1lWXc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-25 10:30",
+   "published_iso": "2026-11-25T01:30:00+00:00"
+  },
+  {
+   "title": "「首を切られた人が外に逃げ出している」 同居する同僚を包丁で切りつけたか 技能実習生を逮捕 札幌市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KT3owY1lIdXE4X19lZmdVVnkyWjBfZ29MaVhUaW5mXzNjUW41TTJaMzNwZWF5dEdxUlk2aXFYeUFUdHdza2FaeHhJUnI3T0xnSlJRNUJ5Y1JkQQ?oc=5",
+   "source": "HTB 北海道テレビ",
+   "source_domain": "htb.co.jp",
+   "published": "2026-11-25 10:25",
+   "published_iso": "2026-11-25T01:25:00+00:00"
+  },
+  {
+   "title": "帰国外国人の口座転売容疑 インド籍男ら逮捕、２４００万円得たか―警視庁",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MWG96MHZWUUlIanBNdThpcGdSZHFOVU5FTTlyTWIzbVQ3ejNGYUFucjZzSTI2a0lZNC1tRGZXS3p5WFNna1JlajJON3Y2dzUtYldmREVFaWRuSFdzcnFOOXhsWQ?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-25 10:04",
+   "published_iso": "2026-11-25T01:04:00+00:00"
+  },
+  {
+   "title": "中国宇宙船に外国人初搭乗、国際連携で米国に対抗",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53MjVDbWpiZEpfaHI2cVV2WW5wRGxNT29hQVRSVlBmRHJWcnVJeWtDX1VCaUxvWGdWeklUNGFreEdybTFCUHpfcDlNTElWQ2dpSmVNNU1UNXNyWU1LbVlYV1pUVTIydXQwaVF4Wg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-25 09:59",
+   "published_iso": "2026-11-25T00:59:48+00:00"
+  },
+  {
+   "title": "中国宇宙船に初の外国人 パキスタン、連携で主導権目指す",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUzhkOHl0azY5emV1Wk14QVFjOFdvVnBCTl84QmVYaTNEMVRJb2ZXS1NRSU9MQ0pvY1ljRVhEbXFMdHdFWFBObDNaTV9WeThPcm5ELVlXcHNQUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-25 09:57",
+   "published_iso": "2026-11-25T00:57:52+00:00"
+  },
+  {
+   "title": "トランプ政権に手続きミスで強制送還された移民の男性 米国を離れる方針 第三国に強制追放の危険からスペインに出国へ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mLVpNOTNhZ09Kd3BJQ0k1ZTJMRmE3QTFJVTVhR1RLZFJwdTVJdElhbXU4alF3cHlpTEU0dmRYc2ZfQU5VWWNEUHZrcVV2ZWhqeTJCc1BuMA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-25 09:42",
+   "published_iso": "2026-11-25T00:42:34+00:00"
+  },
+  {
+   "title": "中国、有人宇宙船打ち上げ＝外国人が初搭乗",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqNmZVa01sT0M0Wk5Kc3RjVXdSRGVYdGNUaUVMNnRHcUNQM1Z1S21ONmhPNWZDRlN0TC1LSm1DcVM5cTJKTXl2OGF4R2RPaWlsd2gtUg?oc=5",
+   "source": "時事通信ニュース",
+   "source_domain": "jiji.com",
+   "published": "2026-11-25 09:42",
+   "published_iso": "2026-11-25T00:42:00+00:00"
+  },
+  {
+   "title": "中国、有人宇宙船打ち上げ 外国人が初搭乗",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHFRdm5GZUZmTzA4djNqYW8zR3pCN2RpNldhQ1lfNnZkTTJnRzRHUVprdTNGWEx1MlNsd191YjRkWDJRMzlzZWNSLXhnLVRta1dsTjRRcDRGSFFBVHp4RUNyeHZQalRiUlRtZl8wRThPeEpKQjFpX055cFN4bXREVHFR?oc=5",
+   "source": "時事ドットコム",
+   "source_domain": "jiji.com",
+   "published": "2026-11-25 09:42",
+   "published_iso": "2026-11-25T00:42:00+00:00"
+  },
+  {
+   "title": "同僚を包丁で切りつけた疑い 19歳ベトナム人技能実習生を逮捕 交番に出頭も「殺すつもりはなかった」と容疑否認 札幌市白石区",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14dXBoTG9YaVFudnQyUU1nR1YtRDluM1k0cmhzbWgwQXFCNlFhS3hGNENYNTJ0V3k5TGtjWTZxZkd0VTNGU2IydGxXYzY3ZjQxaE5mak5nNA?oc=5",
+   "source": "TBS NEWS DIG",
+   "source_domain": "tbs.co.jp",
+   "published": "2026-11-25 09:39",
+   "published_iso": "2026-11-25T00:39:00+00:00"
+  },
   {
    "title": "「殺すつもりはありませんでした」ベトナム国籍の19歳技能実習生を逮捕…共同住宅で同居する同僚を包丁で切りつけ殺害しようとした疑い_容疑を一部否認〈札幌市〉",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oYVZ3UmhfUFZiZi1MWXlZUXRoSzdkUUZDaEhfVGJtTFFaQWxMZ2R1bk9CSk8wVGxBSTI4Q0NCSVJTT3dfZ002ZzJNOFowZw?oc=5",
@@ -24,16 +160,16 @@
    "published_iso": "2026-11-24T21:00:00+00:00"
   },
   {
-   "title": "レンタカーを運転し衝突事故 信号無視か 過失運転致傷の疑いで外国人の男逮捕 札幌市白石区",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0JaRzlrLTVUYTdHZGcyMElnZUdKT1VGR0IyZzlHVGMxUU5RVnh1eW5JMjlVcHZnYjg3WlUxd3h6NVI5bUFNNXM0cXcwOHk5QW10eDBRbWFhTTkzMFdPX1hBcGlaVFhmWFl1czB0dFh1YUZwVlJseXgzYmNoMGJ6dU9rX3IyWTg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-25 05:31",
-   "published_iso": "2026-11-24T20:31:00+00:00"
-  },
-  {
    "title": "日系移民の足跡をたどって…ロサンゼルス・リトルトーキョーを歩いた記者が見た歴史と現在",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DejJNRUxQUjdUQmsxek5OUFVzMGQyTkZvWVpZWUJSRGxhYzhVOXJHLXVTLXgyOHhKVmEzenNsQUM3dUtnWEJGTXhaTFg3enNGVExxNQ?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-11-25 05:10",
+   "published_iso": "2026-11-24T20:10:00+00:00"
+  },
+  {
+   "title": "短波ラジオを「こっそり聞き、手書きで回覧」 情報絶たれたブラジル移民、受け入れがたい敗戦",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ybHE0VXZOcWtRZVBCal9fZUdXMEdGWDdZdXZVMW9YeFdfbTVNUkZ3VWZjWmNOYWJWRExndE9KSGdkSTFmcjFkSW9iU09CQ1Y5cV9GdA?oc=5",
    "source": "中日新聞Web",
    "source_domain": "chunichi.co.jp",
    "published": "2026-11-25 05:10",
@@ -52,14 +188,6 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JOG9CVWVyMmtGT0VMV083U09vZUpiLWhzQ19pWU81VE5TMUxCN0gxd0tRSmdOX2p5aTlOMkNhRFZPVFQtWUhqaUhlUkwzODF1Zlkyd0tpZ3dmZFcyQTJjTWdHWkJsWGFFd0dvQg?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-11-25 05:00",
-   "published_iso": "2026-11-24T20:00:00+00:00"
-  },
-  {
-   "title": "岐阜：障害者の生きづらさ理解し、共生社会実現目指す音楽劇…岐阜・各務原で12月：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzejFQRnNMX2JqQWpzc0FuNGFjaU1XYVFPbW1JbHgtbjdhUlQ2TG9MaFZwSG43QlhrRmJDNXhxQXZJZi1UNEJycVlWN2w2eHk0VE1yRURpOUM5MzhjLURGVTBDUEwzUEFLX01uN0Mycw?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
    "published": "2026-11-25 05:00",
    "published_iso": "2026-11-24T20:00:00+00:00"
   },
@@ -128,14 +256,6 @@
    "published_iso": "2026-11-24T11:02:00+00:00"
   },
   {
-   "title": "中国の宇宙船にパキスタン人 外国人が初搭乗、25日に打ち上げ",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EX1B4aWRySVlaa3dvQk1sVXE0VWIzUzRsN2U4NVhYS3cta2VKWjFmdTVUMW5qSEJuQ2UzejJpdmMtd3BNXzAtMTRMSlBJaFZIVmx5aHFn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-24 18:56",
-   "published_iso": "2026-11-24T09:56:01+00:00"
-  },
-  {
    "title": "静岡・清水駅前観光案内所を改装 外国人向け案内強化",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTGllVW14QVNfTVlTLTlpN2w3RnRIMS1tajFpQ282X3lNa2tXbjlwSmg0ZklXaXExNnRjemhjb0xVNE1EUlZtYjIyQkprSUhTVkE4UmcwdFlwNXFlRi1BT1NxWGU2VGVZRFVZYw?oc=5",
    "source": "日本経済新聞",
@@ -144,36 +264,12 @@
    "published_iso": "2026-11-24T09:55:00+00:00"
   },
   {
-   "title": "1～9月出生数0.3％減 年70万人水準、外国人含む",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE82b1ZhMkZPaFo0VXBLNU1MR2VfaVV1UjVuUXF4WVI5Z3J0ME1OWTI4WC1GUzhEVHhib2dKVnE1emhHbzVPaUtiVlhmcw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-24 17:09",
-   "published_iso": "2026-11-24T08:09:00+00:00"
-  },
-  {
-   "title": "1～9月の出生数0.3％減 26年も年70万人水準 外国人含む 厚労省の人口動態統計",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvekptc2VaY1NueVI4YlFpbk1Rd3ozNXhQcXpaVkwwOGxGN0pxS196YzI3WklQMzRNSDJvaW9OTHZxOW05eERISUJoaXZsU2tzakl5aWdyczFYOTdmazQ2U2FsZkplQ2tVOVpjdVhHQ1JPRjl3Ymc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-24 17:07",
-   "published_iso": "2026-11-24T08:07:03+00:00"
-  },
-  {
    "title": "特定技能の倉庫管理、ネパール人ら紹介・採用へ 日本の人材・物流企業",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EOF92djVLNUFNVHhXOVJWMG5LN210ajlWWldIVEY3em1FenNGblZPU2FjbjlKcFRpakFHS2gxWWdpYWlUQXRUSVBaNEVtUGJOZVgyZFZfSnZMcVpXUER1U0JIVkZ3NVk3QVhKMQ?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-24 16:30",
    "published_iso": "2026-11-24T07:30:00+00:00"
-  },
-  {
-   "title": "1～9月の出生数0・3％減 年70万人水準、外国人含む",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KUFk3Y1pWZG9FNTZHbXNWcmFnTXgxVkY1OHVQbEpnbFEtaXk5WlZUOUFoXzVTYnB6ZXhSWTdRSkpHU1Y5dEtjenpmNEZzMmdhSFVMUU5JejR6UQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-24 16:24",
-   "published_iso": "2026-11-24T07:24:49+00:00"
   },
   {
    "title": "外国人材受け入れの心得学ぶ 浦河で講演会、建設関係者20人参加",
@@ -192,28 +288,12 @@
    "published_iso": "2026-11-24T03:00:00+00:00"
   },
   {
-   "title": "タトゥーで入浴OK？外国人が多い京都駅前の旅館が宿泊客にアンケート、出した答えは…",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUUW0zNWhRb0VXLWdYRURLN0lTLVg0N0xyRHp4SDAtVU5pTWhkT3pQVHBsSmJaNFRKclM1M3VWSDFVTi02bEh5NWhGczFENnA2YThfdWhUSXo3d1d3dzZWYWFHQVgyaVlTMHBoVWxzbjNOQQ?oc=5",
-   "source": "読売新聞",
-   "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-24 11:00",
-   "published_iso": "2026-11-24T02:00:00+00:00"
-  },
-  {
    "title": "玖珠町の大衆演劇、技能実習生２人が堂々デビュー 地域と交流「家族ができたよう」【大分県】",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPZE9yTWFlUG9zdzRwU2xzd2xzVnYtcEFiem56R1ptX3FqSkVORWFZc0pTdEpDZjVPM3JfNmJZeW9pX0haSm5yYzZOTQ?oc=5",
    "source": "47NEWS",
    "source_domain": "47news.jp",
    "published": "2026-11-24 08:50",
    "published_iso": "2026-11-23T23:50:24+00:00"
-  },
-  {
-   "title": "【日本ハム】新外国人右腕レイニーと契約合意を発表「新たな環境での挑戦を楽しみにしています」メジャー通算217試合登板のリリーバー",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oVjFMVGtDUTVzcXIyMFNZTHgzYjYwdC1FYTZ2LTN4ZEJ5akJSa0hNNVhJSmdLbDVrWV9tamw3SG1xSWlvTmJwTm9sMnExZjQtcjMzNm9sSllPWDBPVUE1TnZ5UEw2NkRVZ2VMdEtrdDBtQW8xZXFySHk2Yw?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-24 06:10",
-   "published_iso": "2026-11-23T21:10:00+00:00"
   },
   {
    "title": "ドイツで戦後初、極右政党の州首相が誕生する？ 「反移民」を掲げるAfD地方幹部の主張は",
@@ -280,14 +360,6 @@
    "published_iso": "2026-11-23T02:16:47+00:00"
   },
   {
-   "title": "外国人市民への情報発信に課題「公式LINE届かず」「自治会に入り込めず」… 浜松市で多文化共生テーマに意見交換",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DR2o0b2FJcGpva3ByTVpfN2FVRTRtcUdCaFVXVGYtck9tYThjVmZfbXcyZkYxX0d5Z1hMbDd1VF91MmxBYjB3Q2dGRQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-23 09:57",
-   "published_iso": "2026-11-23T00:57:00+00:00"
-  },
-  {
    "title": "浜松の南米系外国人学校から初めて防衛大学校に合格 ロシアによるウクライナ侵攻きっかけに「生まれ育った日本守りたい」",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xM2w4Mjl2Zm5wOWxRczlrRFUwMlgxeERkdDBjVGJ6alo1N2JOWVQ4ODBHQUswR0JOT0poVG9FUTV0eDlQZGhEanM3bGN3c1dOdUNJQg?oc=5",
    "source": "中日新聞Web",
@@ -304,12 +376,12 @@
    "published_iso": "2026-11-22T09:31:00+00:00"
   },
   {
-   "title": "フィリピンで“特殊詐欺G”日本人9人含む外国人17人を拘束 拠点に「福井県警」と書かれたパネル設置",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjBtYmtMUk9aUk9iOGpibmViblJaLTVoU1F1OWI1RFUwVk9hbVljY0hUblNsaFM3dmRfUmFna3FZT0JYQjZacXQxcnNPVV81MVo4M3MxTDdaeEhYNGRLLXBXRmlRb2FIckxFVFpSVVRSbTJDbW9QTzFVeE1TUWlIU0ZlZFg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-22 14:11",
-   "published_iso": "2026-11-22T05:11:00+00:00"
+   "title": "マレーシア副首相、ロヒンギャ難民のトルコへの移住巡る投稿を削除",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ob1Rua1R4T0JMWUItZ21mSEp0MGxFVnhJNm5hczczUEJ2S0xIVkRaVkxVRnAtUnVqNVlJT3pNanFORlRQUDBfaThKSUxkWml5V0gyZDRTRnh6alUwOTliRWhLTThpMTZDRk1pcg?oc=5",
+   "source": "日本経済新聞",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-22 14:15",
+   "published_iso": "2026-11-22T05:15:38+00:00"
   },
   {
    "title": "「生徒が外国人に連れ去られそうに」で閲覧200万回超 静岡市で誤情報が拡散した背景",
@@ -320,14 +392,6 @@
    "published_iso": "2026-11-21T20:10:00+00:00"
   },
   {
-   "title": "「考え伝え合い共生社会に」 全国ろうあ青年研究討論会、栃木県で初開催 デフリンピアンら講演",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUZjV0b1VxT1dRNmt2UnduZnByamdfUlZzUmkycE5DamRheUdDSHg1TWRibGhVaHR1QVB1NGxzZFdIc3M0UklHOEpHdw?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-22 05:01",
-   "published_iso": "2026-11-21T20:01:34+00:00"
-  },
-  {
    "title": "スペイン移民急増、総選挙争点に カナリア諸島に半月で1万人超",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SaVNCZ2M3a1p0ZHBNdW0wdjFDNWhjVTlQVGtac0UtaWJyUnBZbEloQ2hyNnRsXzFabkhpa05ZelBwNXNfWjk2LU5Hc2lJSlo5aEh3NFVucHJYdw?oc=5",
    "source": "北海道新聞デジタル",
@@ -336,76 +400,12 @@
    "published_iso": "2026-11-21T07:03:17+00:00"
   },
   {
-   "title": "豪、移民抑制に苦慮 厳格化求める極右台頭で",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95eE16VlpJX1BkeF84ZzlwMTJ2X1dXTUwzaC14TG5fd3dRcU9QTXlEX1V3dmpSMy1TaGpJdXBUTmpFMFJYN0J0QmFOeEZlZ29Zckp1am01RTdNb1oxdlJ4d00wMA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-21 14:32",
-   "published_iso": "2026-11-21T05:32:00+00:00"
-  },
-  {
-   "title": "【ロヒンギャへのジェノサイド認定】世界最大の難民、混迷必至 帰還実現へ強制手段なく",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YRlBiRFIxWHlVeGV1VWNSbDhIakl5ZUdhdjV2NFVLb0RETWNHS0VhSEtvR1ZRV1VNRXhLaXlwdHZvX0VkS2RaSG9HVGJiRzRZLUxibzRB?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-21 10:41",
-   "published_iso": "2026-11-21T01:41:23+00:00"
-  },
-  {
-   "title": "ロヒンギャ迫害は「集団殺害」 国家の責任認めても…難民帰還なお遠く",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrN3lMbmlGNFJ6cktwQjZGTWlrM2ZrNXhJUjNOZTRyVTFQUllHN3ZTZEx6YXpzQUVYa0pBRWpBVkQ4RnVJWW1icWlkVkNTcmdZR29RVEZn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-21 06:00",
-   "published_iso": "2026-11-20T21:00:00+00:00"
-  },
-  {
-   "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定 愛知県、人権条例に基づき公表",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yWllxSDhRbnRLTXNjQ2FIVW5PTVFLWUJUbXZxUWx1b0dBbjZQdTZfOXY4dlp4VnR0YUVTZ3ZRLWUxZm5OOFVQMEtwSmdXdkxOYVhsdQ?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
-   "published": "2026-11-20 21:45",
-   "published_iso": "2026-11-20T12:45:45+00:00"
-  },
-  {
-   "title": "広がるインター校、バカロレア認定7割増 高度外国人材に移住呼び水",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZX2xlandiU21keU9OMUo2TGFYb2NfMDhmUUtGUzB5TEpiQzZ3elU2TG9EeUFwampDUHk0NjZZWXpwOElucnRQdmdhc3d6blF5X1dvenBQak5LcC1tYk96bHkwME5zOXZ3Z2JCbQ?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-20 11:01",
-   "published_iso": "2026-11-20T02:01:00+00:00"
-  },
-  {
-   "title": "北海道で国際校の整備急務 ラピダス進出、海外人材に備え",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HM25LT1YwUUlBMFdONWtTM3hNNmtwVTNJR2UwRjZ3V1NxN2JmMVdiOUNCMG4tc3J1MnFnTWxYaUk5UmRxYlFjanlqdTg5ek5Od2JUczhQb05KYXo3a1pUd2FpS01vSDA4NDdJOA?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-20 11:00",
-   "published_iso": "2026-11-20T02:00:00+00:00"
-  },
-  {
-   "title": "ラオス籍の技能実習生が花巻市で自転車酒酔い運転 道路交通法違反容疑で逮捕 未明の市道をふらつきながら走行 岩手",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tb2lXTUFQc3FMaDBaQUgzWXRTX2hDSm9DbVRSdFQtVHJpWkVWb2lqRTZOMV8tVHNsOThYZ2lPb3VRUnNWRUs1MUNUYjl3OENvNGFRMU9hZw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-19 19:03",
-   "published_iso": "2026-11-19T10:03:00+00:00"
-  },
-  {
-   "title": "北九州市小倉北区のベトナム国籍の元技能実習生ら11人摘発 空き家で窃盗繰り返したか、15県で1360万円相当被害",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcmxmYld0bUlBYzEtRGlMcEVhWlVlSXZuNVFJSUtOZEpuX1QzQzV4QU5yUERiS2NFMm5Ka1dBbVJvQTJtMjJkaVRraFA3WDRLbW9CYkZn?oc=5",
-   "source": "西日本新聞me",
-   "source_domain": "nishinippon.co.jp",
-   "published": "2026-11-19 17:53",
-   "published_iso": "2026-11-19T08:53:00+00:00"
-  },
-  {
-   "title": "Ｚｅｎｋｅｎ[7371]：Zenken、国内在留の外国人材を特定技能人材として企業へ紹介 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZbXRFTnVpQ1dTVDRoSGlqLWJOSU9WUWdDLS1WcDl1RVNIMkNXS003ZzFUYnRERmlmR2dOaGdmal9mb2ZsSl9mVEdVazZsTUx6ejhUNUpGNTN3V3dPaVR3ZlY2alNqOVU3dnc?oc=5",
-   "source": "日本経済新聞",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-18 12:10",
-   "published_iso": "2026-11-18T03:10:00+00:00"
+   "title": "スペイン移民急増、総選挙争点に",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRncxSHk3SXdKMW53aTgtR2tXWkZIcW1GR1NZZFNNXzRWQkpST3RHSmIwX0tyV3ZXaHBLSk9DeEFWNERoQzJ4S2N4Y2JnazBxczNPY0pSM3U?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-11-21 15:57",
+   "published_iso": "2026-11-21T06:57:33+00:00"
   }
  ]
 }
