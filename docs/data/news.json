@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:44:59+00:00",
+ "generated_at": "2026-11-27T20:40:06+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -7,6 +7,46 @@
   "多文化共生 OR 難民 OR 移民 OR 日本語教育 OR 外国人住民 OR 共生社会"
  ],
  "items": [
+  {
+   "title": "介護の貴重な担い手 外国人材…施設側、定着へ暮らしも支援",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ta2l3cDNnc1ZpSnp1OURFWW5PMDZ6WWsyNVhNcTN0QmJTWTVyblpPZ2w1OE1aYzhNODNMQ1c1VjJCSW5BWC16Q3AxdXhLRHpNeUdpd1AyVFYxLV92S2RsUg?oc=5",
+   "source": "読売新聞",
+   "source_domain": "yomiuri.co.jp",
+   "published": "2026-11-28 05:00",
+   "published_iso": "2026-11-27T20:00:00+00:00"
+  },
+  {
+   "title": "岡田将生「息苦しさに共感してほしい」5年ぶりの舞台出演に意欲 普遍的な夫婦の在り方描く「移民」に土居志央梨とW主演【インタビュー】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMWh0ckc1ZlJnOTEtV3YyY2M4TkEtRk1LbFBrdXlxcFVvMEJlZ3RSLTFsRGdBTnFLYWRQVnJOSGcwcENxeWJjSHVKNlp1WDU1LW9QSg?oc=5",
+   "source": "中日新聞Web",
+   "source_domain": "chunichi.co.jp",
+   "published": "2026-11-28 05:00",
+   "published_iso": "2026-11-27T20:00:00+00:00"
+  },
+  {
+   "title": "外国人材受け入れの注意点は 浦河 建設関係者ら20人学ぶ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmWVQtT1lLUFptZ3BSTVJOZ0NzQk1weFd0NVowTlBRLWZPZEo4c3VfbnhBMkstUm1vX3g1MTk0NDBhSlVhT01KaVQ0SEFGd1h6WDFlOVRXTWRKUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-28 04:00",
+   "published_iso": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：介護人材、獲得競争激化 円安 ベトナム人欧州へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzdjFKSW1hNXhTcl9oWmFrWkM3endBVGs0TzFWNTVNMDZHQVYtVW1rbHg3VFktOUZjZzlWanQwdHQ2dWM0UGNTZnF4Z0JiV3Zfd2FRNDdwTmhBRUY0LUZYY2lzeG5zZkdj?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-28 02:00",
+   "published_iso": "2026-11-27T17:00:46+00:00"
+  },
+  {
+   "title": "約6600人が行方不明？技能実習生はなぜ消える",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeDJkemZIckM1UjdkZWxLVTd5NXN2NUwyRGdrV0FlMGlLMTB1QUowVWU5TkM1STV6LWJ2YldvX1RrdVBHLXhrdjVlQUlBcElraUxKWjQtRzRXQnhLNXNDWTdPVEd2TURTNVJNZkF1WWJRUGc?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-27 22:22",
+   "published_iso": "2026-11-27T13:22:01+00:00"
+  },
   {
    "title": "食文化通じ、外国人との共生に関心を 松本市の女性、12月に2つの催し",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwUkhQLUtneHNpeUlOcWJGRmppS1NiTzRRazB3NElOOVlWUlZQZTU4QmNPeURoZUdLYzJqNkhFbkVkaG5hNF9vS0N2a3V0QmdIcElMNDlwV0pubWJiQ2J3Y29jQ0Y1Z296aENxNE1BTmE?oc=5",
@@ -56,12 +96,12 @@
    "published_iso": "2026-11-27T09:28:00+00:00"
   },
   {
-   "title": "ヤマトが外国人のトラック運転手",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUUsyZXRrejFCRGtabUswRjQyMXpvMTJiNEZmc1VaQmZiMHVvRVo0N0tYdFRxNGVQNzIxTFFSb09NZGtCX0pEdEJzaVIyMTVCLTYwTnA1UUw?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-11-27 18:01",
-   "published_iso": "2026-11-27T09:01:30+00:00"
+   "title": "【カープ外国人去就】ターノック・モンテロが残留 ハーン・ファビアンは退団 山内泰幸さんが語るカギ…？",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hZ1dyQmNFdWt4X0FTR0FjQ1M5NUVxWGNGWDlZb05fcFFkMlhWeUh1ZExPaG1WRUpMVTBxQlpCdmtTNnVWQk1aNTdOWGd4Zw?oc=5",
+   "source": "FNNプライムオンライン",
+   "source_domain": "fnn.jp",
+   "published": "2026-11-27 17:47",
+   "published_iso": "2026-11-27T08:47:00+00:00"
   },
   {
    "title": "「自分事として考えて」演劇通して“難民”学ぶ 劇作家・平田オリザさんが高校で授業 福島・双葉町",
@@ -80,14 +120,6 @@
    "published_iso": "2026-11-27T08:00:00+00:00"
   },
   {
-   "title": "ロヒンギャ難民キャンプにうどんを 試作を重ね3年間で約3万6千食を提供できる体制づくりを目指す「小さい一歩をやってみようと」【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pbi1qX3pxc1JNOG5OX081UXYyaDRRbXlRdWpwd215dzNsNnNyb0F3UVlJWEtCT1dGX1o5UTFpLWtYcnd6TDZ0bkxUNDFKTlVIVWdKNm9waGtrcHNHSnNjc0NWa2w?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-27 16:58",
-   "published_iso": "2026-11-27T07:58:00+00:00"
-  },
-  {
    "title": "ヤマトHD子会社 ベトナム人ドライバーが乗務開始 特定技能制度を活用（2026年11月26日掲載）",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JZVN5VWxrMjg2N2VXZlJsYTViWDl1NzRHcGxkd05LeTVubi05RWNLekdPQUF2NVU5eFZOaEFKWWhKczdmSnl1UzJmU1ZLUGZyR3VFMHNYQWwtbUdpdVkzaGpWNzVGNkdSMmVvNHJiZ3NMYU5wOC1xQm56YjQ?oc=5",
    "source": "日テレNEWS NNN",
@@ -102,14 +134,6 @@
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-27 16:05",
    "published_iso": "2026-11-27T07:05:05+00:00"
-  },
-  {
-   "title": "特定技能・自社支援】「Shienmee」が大型アップデート ビザ申請書類の自動作成と「やることナビゲーション」を搭載",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXNVV3bE12NjJBM2lIWUxuT05yT2Nha3plNzk2OGdvZ0lwSDlCaWE2bkoyTmgzZzNBX28yV0w1WW5qcjFWTUs2cG1weFM0cURCOFJONGNfQlpadnJ5ekVucVpXXzdwTlpOcHFv?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-27 14:46",
-   "published_iso": "2026-11-27T05:46:00+00:00"
   },
   {
    "title": "外国人差別への反対署名28万件超え、統一地方選に向け人権団体が選管などに対策を求めます",
@@ -137,7 +161,7 @@
   },
   {
    "title": "【広島東洋カープ】外国人選手の来季契約を発表ハーンとファビアンが退団、ターノックとモンテロは残留合意",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53aHZSTlhKNklWa3ZHQy1UTm1USzcweU5zeHJDTVZBdDhDVVhVVV9fQW9OUlpnd3ZqMThSSS1vNGR5ODRDdlZacGFVOG1HS0xhQ2V0S2pLYTN0Wk9uckpVQmJoWjBiMFE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IWFctSjg4QnpoOFN3TzdZVFdLZW5Yb25fdXo4SHU5b2xVRTVQUTV4Z0xtVGIyRUxVNEZSZE55dEVxNmlJal9uSlFZNXdvdFlhMHlvVmo4TQ?oc=5",
    "source": "TBS NEWS DIG",
    "source_domain": "tbs.co.jp",
    "published": "2026-11-27 12:39",
@@ -150,6 +174,14 @@
    "source_domain": "asahi.com",
    "published": "2026-11-27 11:00",
    "published_iso": "2026-11-27T02:00:00+00:00"
+  },
+  {
+   "title": "外国人の新たな防犯ボランティア団体発足 警視庁戸塚警察署 世界各国の学生34人参加",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PUHlUZXpYc1RRQlVwTW5JRnVzbUR6QlVJS21ZTl9sZG1FNWdZcVlud1V3T1lJT0VoczI0NjNsRHh6M05qcF81emV1NWZTSnhqOUc2RnF3cGhycEdxVTM1WDkzQUg2Q1VmSnE2NmR1cWZCZw?oc=5",
+   "source": "テレ朝NEWS",
+   "source_domain": "tv-asahi.co.jp",
+   "published": "2026-11-27 10:48",
+   "published_iso": "2026-11-27T01:48:50+00:00"
   },
   {
    "title": "英国の純移民、コロナ禍除き1997年以来の低水準－10万人割れ",
@@ -168,14 +200,6 @@
    "published_iso": "2026-11-26T22:38:44+00:00"
   },
   {
-   "title": "英国への移民大幅減＝抑制策で９７年以来の低水準",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlWGx2WTlvNFA5ejh4MmtlbHpnVW9QODJJNnYzdlJHRjdIUVlrR3BpS1BaSDhnYm1tLVJXV1RPRjA3RG5nNl90a3lGQS1xM0Z5VURqRA?oc=5",
-   "source": "時事通信ニュース",
-   "source_domain": "jiji.com",
-   "published": "2026-11-27 07:05",
-   "published_iso": "2026-11-26T22:05:00+00:00"
-  },
-  {
    "title": "英国への移民大幅減 抑制策で９７年以来の低水準",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVXejM0WmxoQ29wTS1BMk83eE1kZHZidWhmaHVHNG1IeTJmSWx1U19kRjBOOF9vZ1JKQTY5LS1CcDlsUHZBWjJzRTdJaFBjTGk2UG9wRkN1bHBJS2wxTE8tMTdsRzVTQWR5OVBuZHhRTnpBNUtXeFRaVVFSd0ZjaA?oc=5",
    "source": "時事ドットコム",
@@ -190,14 +214,6 @@
    "source_domain": "nishinippon.co.jp",
    "published": "2026-11-27 06:00",
    "published_iso": "2026-11-26T21:00:00+00:00"
-  },
-  {
-   "title": "難民支援に子ども服9003着 名張市の英心高桔梗が丘校生、1カ月で集める",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nZ2dsenEzTGVDWFRjRzJwT1FzWlZoMExzNkJPOUplNFg5b2ZxLWFONTYyaE1kZkJoVy1VSkQzSERUZFdKRkd2dkR3WQ?oc=5",
-   "source": "47NEWS",
-   "source_domain": "47news.jp",
-   "published": "2026-11-27 05:05",
-   "published_iso": "2026-11-26T20:05:00+00:00"
   },
   {
    "title": "Plan・Do・Seeが海外人材育成で脚光 1700人輩出、八芳園や三井不が頼る",
@@ -248,12 +264,12 @@
    "published_iso": "2026-11-26T13:33:20+00:00"
   },
   {
-   "title": "窓口でタブレットをタップ！県内の郵便局でコンビニ商品が注文可能に “買い物難民”をサポート 全国初のサービス",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWctcEdxaGpISVpvdWNGZVVTV0dxTklWREFfa1NrVE55UzBkTzAyUDJZcUx5a2tObFdsNThOYzMyTjBocUZwSmgtaWRaaTNZZTBDcTdWUWtUYkhDaVFoUVg0bE0yTGRHNnNNQzk2OXZ2VzFKNE5jSDIwdW96aDdXMWp6N21aTzg?oc=5",
-   "source": "日テレNEWS NNN",
-   "source_domain": "ntv.co.jp",
-   "published": "2026-11-26 21:13",
-   "published_iso": "2026-11-26T12:13:00+00:00"
+   "title": "岩見沢市が市営住宅を外国人就労者に貸し出し 空き住戸16人入居へ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tZ1FPWWZYMXlBeGxrSFd5QmJrOEJGQmtFeXVObVI2QzRLY05MUm1vczBUeVlIN3N2ZVU5ajdXVXphZnFBV1QzdW5xVXh1NDVBOWF4bE02TXN5UQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-26 19:38",
+   "published_iso": "2026-11-26T10:38:38+00:00"
   },
   {
    "title": "訪日外国人の国保不正利用、在留資格取り消し柱に対策強化へ…医療保険部会に対策案提示",
@@ -320,6 +336,14 @@
    "published_iso": "2026-11-26T02:40:00+00:00"
   },
   {
+   "title": "海外事業・DEI推進… 高度外国人材の採用拡大、企業の5割に",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xOFpEQndpMldCTXhzQ3RmZ1dQRFk1d3FIWHZ6ZVpOalJzWm1hSnB1YXpkVDBEc1p1dmhhRDlrSFRmT2I2S2FJT3hNV096d2dCRDFSdF9iRlRJbU0yZlRSRl8ySmVvXzcyc3E2dTYzQ1NRM2FT?oc=5",
+   "source": "日経人財グロース&コンサルティング",
+   "source_domain": "nikkei.com",
+   "published": "2026-11-26 10:54",
+   "published_iso": "2026-11-26T01:54:36+00:00"
+  },
+  {
    "title": "高額な保険診療目的の外国人、在留資格取り消し可能に 厚労省",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0teWtmaFpMMERDZ3p5Q1BFeHI4SUNzNmFVeUpjd3VwdUxmbDNJc25ZalJVVXJDaXNtazNoaWhyY1ZvQkxwZEo2czdMNjZHTDZ3MklrVkJZaDVVNHZBWExkYWZRVzNYM1lCaXFVdg?oc=5",
    "source": "日本経済新聞",
@@ -352,6 +376,14 @@
    "published_iso": "2026-11-25T22:05:00+00:00"
   },
   {
+   "title": "京都府綾部市で初の「外国人籍消防団員」誕生 ベトナム人男性「みんなと平和に暮らしたい」",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RFFvczlMeW9CazZ4eWxRcllxMWFOc0UtbGU1X052d3dzZjN5UmxNbXdlYlI4WGJZOTZGcEU2Rm15Qm1MeDlsWTVMQ1JXU2RrU1FjWm02cHI?oc=5",
+   "source": "京都新聞デジタル",
+   "source_domain": "kyoto-np.co.jp",
+   "published": "2026-11-26 05:25",
+   "published_iso": "2026-11-25T20:25:00+00:00"
+  },
+  {
    "title": "三重県津市の人材派遣会社、外国人労働者ら85人に給料払わず 9～10月末支給分、計約2700万円",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SbnVuX1VrTU9kYTRKNWpoSVpGU3B3Rm9UY3VvOTA2RkZ4RGU0elBMNjllRUFicGtKLWVwZk1nTGNhWG4yMFZOT2dmeXV5MThCRU1xOA?oc=5",
    "source": "中日新聞Web",
@@ -368,44 +400,12 @@
    "published_iso": "2026-11-25T20:00:00+00:00"
   },
   {
-   "title": "京都市南区の韓国料理店で「シニア無料食堂」故郷の味に笑顔 高齢者ら「買い物難民」支援",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCUjNwSWh2eFZBWmFCWU9WdFBqUUtpOF9mdnNQQ2Y1UzgyU1dYYUZ5blpkbER5Y0h6WUFWZXlZQTB2Q2YyYU5QWFlOS0VXZ2ZoWGx3RHlPdGQ?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-11-26 05:00",
-   "published_iso": "2026-11-25T20:00:00+00:00"
-  },
-  {
    "title": "外国人労働者、東北GDP底上げ 農・水産業「いないと成り立たず」",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybVlJVG5uV2VGMTRwOG5DLWFORWNteDZwcUIyTXdVRHRoVWotUEdQNWV5bTdzamFva245RENuTWpqNHFQcWdMOFJyUF92T2I1T1F2MFpoOXRFNUtoak5zLTJyNnJtN2JUS3dWSw?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
    "published": "2026-11-26 01:49",
    "published_iso": "2026-11-25T16:49:00+00:00"
-  },
-  {
-   "title": "地域復興のカギ、「多文化共生」の課題を探る外国人受け入れが期待される福島・浜通りで神田外語大生が調査年明け、福島県などに提言へ",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VajUyMm9jMmdNdmxvV2tQZDNJSzJ4M2ktY1ZBODFNNVJqSVlFaWxsV09wVF9pTUZxRFFMWWtQbHFTOXV1VkQ5d19QUG95cktDdlVWRw?oc=5",
-   "source": "OVO [オーヴォ]",
-   "source_domain": "kyodo.co.jp",
-   "published": "2026-11-25 18:05",
-   "published_iso": "2026-11-25T09:05:01+00:00"
-  },
-  {
-   "title": "カナリア諸島への移民急増 今月だけで1万人以上が到着 スペイン総選挙に影響も",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvM1Zfc2ptdGdQOTFLMG5aRWh1Rjl6NTBvMGRXVUZTNGdmc256TW5PVzczdy1DZWVhbDFDTVpNczJQRDRaS3Fwb3hFeFJfN2JuVU84MFctMU11UzBPZUhpVWJyQ0EyaV9JcFRMc2VDMF93eDNGYkFkUm5B?oc=5",
-   "source": "テレ朝NEWS",
-   "source_domain": "tv-asahi.co.jp",
-   "published": "2026-11-25 12:31",
-   "published_iso": "2026-11-25T03:31:57+00:00"
-  },
-  {
-   "title": "同僚男性を包丁で切りつけた疑い 19歳ベトナム人技能実習生を逮捕 交番に出頭も「殺すつもりはなかった」と容疑を一部否認 札幌市",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uSWNCWEFaUnF2VncxVGYwM2JqcG1odW81S29hSElxak80cmhENmFrY2lYcllRZFl0cmpYWGNrRkVDMVRQS0tETlVVRUJSdlloUmxfRzducw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-25 12:12",
-   "published_iso": "2026-11-25T03:12:00+00:00"
   }
  ]
 }
