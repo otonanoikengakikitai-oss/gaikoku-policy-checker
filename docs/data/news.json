@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:40:06+00:00",
+ "generated_at": "2026-11-28T03:04:37+00:00",
  "source_note": "Google ニュースの検索結果から、全国大手メディア・通信社・NHK等の信頼できる発信元の記事のみをホワイトリストで抽出（ポータル・個人サイトは除外）。見出し・リンク・配信時刻・媒体名は原文のまま、当アプリの論評は加えていません。リンクは各媒体の記事へ転送されます。",
  "queries": [
   "外国人 OR 入管 OR 出入国在留管理庁 OR 在留資格 OR 在留外国人",
@@ -8,18 +8,66 @@
  ],
  "items": [
   {
+   "title": "外国人10年で倍増の群馬県「治安風紀が乱れる」72％ 受け入れ「適正規模」独自に調査 日本を守れるか 人口戦略と外国人①",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSURhMUVHeDRLaEctamJnTVNCQUxfQnpmOElxLUY5ZEVJcUYyYjVORUFGQjI3NGZYOTBEOFhlcjFKUlZXdWhKSmdZYnZGS25hbnpEeFRXQ2xnWWV6ZzkxVW90eXk4TUFCc2UxcmZicVktSWhHWHc?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-28 12:00",
+   "published_iso": "2026-11-28T03:00:00+00:00"
+  },
+  {
+   "title": "「外国人の無制限な受け入れは阻止」自民、量的マネジメントは盛り込まず 維新と温度差 日本を守れるか 人口戦略と外国人①",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IZm90ckM1Wlg4Nm1ITkNraTlZRm45OU1qQ20yVDhHQTRiYXBTNGFPRDlvdlIySThfTW5nNmdnRkJtSnZiRHV4OTRZZXZ2dHhRMXpCQ3FPNkpWR29FTU5uS1JJMWdJMXBQVWxHVlFkUzUzeG9vbEE?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-28 11:00",
+   "published_iso": "2026-11-28T02:00:00+00:00"
+  },
+  {
+   "title": "移民と社会：介護人材、獲得競争激化 円安、ベトナム人欧州へ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzdjFKSW1hNXhTcl9oWmFrWkM3endBVGs0TzFWNTVNMDZHQVYtVW1rbHg3VFktOUZjZzlWanQwdHQ2dWM0UGNTZnF4Z0JiV3Zfd2FRNDdwTmhBRUY0LUZYY2lzeG5zZkdj?oc=5",
+   "source": "毎日新聞",
+   "source_domain": "mainichi.jp",
+   "published": "2026-11-28 10:55",
+   "published_iso": "2026-11-28T01:55:56+00:00"
+  },
+  {
+   "title": "ガザの漁師、極寒の国境…「難民」を一人ひとりの人生から描く映画祭 [東京都]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRWttdHVBaTE4Mm9vbVh4V1N4SEZ6dzZ3ZGNibGlRZ1Z0aldKVExfQXI5bmFBN3NHdFlLVjZmYXU3bmdBUnRWbHNWRkYzWjJ3b0hybzAtUl8xSGlqT09pM2paYnpKQWs?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-28 08:00",
+   "published_iso": "2026-11-27T23:00:00+00:00"
+  },
+  {
+   "title": "深夜に「外国人がドア開けようと…」 民家侵入疑いで46歳米軍属の男を逮捕 沖縄署",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yYnZ2ZDBZRVF0LVczVkNvX0VmZG11OTFqWjFVbzItaGwyVUctRFdmWk9IUGtWbm1oNDktQWQtc3dybGpqMUJOQmJvNA?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-28 07:52",
+   "published_iso": "2026-11-27T22:52:00+00:00"
+  },
+  {
+   "title": "〈どうする？激甚豪雨〉（下） 外国人支援 命守る情報を伝える工夫",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxWUJoeXVpVmtGb0FhNl8wT0M4TnB3aGtaa0hFbThiMlE2d3NBSVZNYkZ3QWZMcWU5RUVVZUIxaDdjdTI1UG1aQ3FFSGhfaUdaZFdv?oc=5",
+   "source": "東京新聞",
+   "source_domain": "tokyo-np.co.jp",
+   "published": "2026-11-28 07:40",
+   "published_iso": "2026-11-27T22:40:13+00:00"
+  },
+  {
+   "title": "多言語での電話窓口、相談0件 外国人の災害支援「待つだけでは」 [熊本県] [2026年熊本地震]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TVEZvTE9RZElnd3IyamplUVVjYWstQlNQWEZRVWR5ekkxLWkxYXQ1dnVEM3czM2hnOHM1RVl2UXZBc29ldEQ1TmxPUW8zQjI5dUt2MDkybXdweGtBajYzRHVQNG50aWM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-28 06:00",
+   "published_iso": "2026-11-27T21:00:00+00:00"
+  },
+  {
    "title": "介護の貴重な担い手 外国人材…施設側、定着へ暮らしも支援",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ta2l3cDNnc1ZpSnp1OURFWW5PMDZ6WWsyNVhNcTN0QmJTWTVyblpPZ2w1OE1aYzhNODNMQ1c1VjJCSW5BWC16Q3AxdXhLRHpNeUdpd1AyVFYxLV92S2RsUg?oc=5",
    "source": "読売新聞",
    "source_domain": "yomiuri.co.jp",
-   "published": "2026-11-28 05:00",
-   "published_iso": "2026-11-27T20:00:00+00:00"
-  },
-  {
-   "title": "岡田将生「息苦しさに共感してほしい」5年ぶりの舞台出演に意欲 普遍的な夫婦の在り方描く「移民」に土居志央梨とW主演【インタビュー】",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YMWh0ckc1ZlJnOTEtV3YyY2M4TkEtRk1LbFBrdXlxcFVvMEJlZ3RSLTFsRGdBTnFLYWRQVnJOSGcwcENxeWJjSHVKNlp1WDU1LW9QSg?oc=5",
-   "source": "中日新聞Web",
-   "source_domain": "chunichi.co.jp",
    "published": "2026-11-28 05:00",
    "published_iso": "2026-11-27T20:00:00+00:00"
   },
@@ -32,12 +80,12 @@
    "published_iso": "2026-11-27T19:00:00+00:00"
   },
   {
-   "title": "移民と社会：介護人材、獲得競争激化 円安 ベトナム人欧州へ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzdjFKSW1hNXhTcl9oWmFrWkM3endBVGs0TzFWNTVNMDZHQVYtVW1rbHg3VFktOUZjZzlWanQwdHQ2dWM0UGNTZnF4Z0JiV3Zfd2FRNDdwTmhBRUY0LUZYY2lzeG5zZkdj?oc=5",
-   "source": "毎日新聞",
-   "source_domain": "mainichi.jp",
-   "published": "2026-11-28 02:00",
-   "published_iso": "2026-11-27T17:00:46+00:00"
+   "title": "ドローン所持の外国人摘発 保有禁止の北京、空港で",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HNTRKN1BFN0xxS2RBYk0tU1dOQnAxYWtWWW95QlFObHZxa0M2SHZ0aXcwcmRobFFkSFhfb3NhSjQ1UjNnQ1BmdG1aVkhQa1AyeENBVm9xNmNNUQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "source_domain": "hokkaido-np.co.jp",
+   "published": "2026-11-27 23:03",
+   "published_iso": "2026-11-27T14:03:29+00:00"
   },
   {
    "title": "約6600人が行方不明？技能実習生はなぜ消える",
@@ -96,20 +144,12 @@
    "published_iso": "2026-11-27T09:28:00+00:00"
   },
   {
-   "title": "【カープ外国人去就】ターノック・モンテロが残留 ハーン・ファビアンは退団 山内泰幸さんが語るカギ…？",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hZ1dyQmNFdWt4X0FTR0FjQ1M5NUVxWGNGWDlZb05fcFFkMlhWeUh1ZExPaG1WRUpMVTBxQlpCdmtTNnVWQk1aNTdOWGd4Zw?oc=5",
-   "source": "FNNプライムオンライン",
-   "source_domain": "fnn.jp",
-   "published": "2026-11-27 17:47",
-   "published_iso": "2026-11-27T08:47:00+00:00"
-  },
-  {
-   "title": "「自分事として考えて」演劇通して“難民”学ぶ 劇作家・平田オリザさんが高校で授業 福島・双葉町",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sakFuVktxZWhlU1gyQzVSWE5FeExMYWswcmhVSjB2WUFzYmd5QkdLWmhMTndQV29oZU8wLTBvQVRMdExGWTdRVWZWNWxkdThIYmdtUGlFRQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-27 17:22",
-   "published_iso": "2026-11-27T08:22:00+00:00"
+   "title": "第3子以降出産に1000万円給付 自民、人口減対策で提言案 外国人「量的管理」見送り",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUhYOXNUOS1sTTdsTVNaOHE3b252LTlyTGJGOEtWUGdaOFEwakwtT3puQl9iYVJ2VkNPQXQ4eEtmUGl0MUxZelFnUHdoS0hPdnVLdHZsQ3BhMURuVGxLbmJFVl9Xb1ZqNHhMcjNORVlySFQyUDN2N3hIaWhuWjh2WDgyUElPX0hKaGhEZA?oc=5",
+   "source": "産経ニュース",
+   "source_domain": "sankei.com",
+   "published": "2026-11-27 17:24",
+   "published_iso": "2026-11-27T08:24:58+00:00"
   },
   {
    "title": "海渡った日系移民の物語が問う SPAC「ニホンジン」静岡で上演 [静岡県]",
@@ -129,7 +169,7 @@
   },
   {
    "title": "雄武町で初の外国人スポーツ大会 技能実習生ら80人が親睦深める",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YYldKckhaVVh4V2ZtVVlCVXh5bi04cU4tMmtpWTVGeFdFaFFVcGVPSWNxbXMtZENQOER0MzlLWXNGZWdhZ2NWOXNPazk3Ylc1TDJPS041Ulc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RbmZyMW9ucG5iRFZpOVRySU5nODQ5cjlObTBRZFJ0MVM4LXZUVU5lUXlMRWk2bUd1Z0Q5anBSZkphaVNvRmY4RzJ6WlE3QXJMNTdYajJUeUNhUQ?oc=5",
    "source": "北海道新聞デジタル",
    "source_domain": "hokkaido-np.co.jp",
    "published": "2026-11-27 16:05",
@@ -142,14 +182,6 @@
    "source_domain": "asahi.com",
    "published": "2026-11-27 14:44",
    "published_iso": "2026-11-27T05:44:27+00:00"
-  },
-  {
-   "title": "「がん情報難民」のための羅針盤となる新メディア 「IVR Knowledge Base」2026年11月30日に本格始動",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5R1pQb3BTWDZmLWRyOWZybHlKY1BObWZoWDNXNVNDT3NfUWZVLVlzNWF0NGM2SVpudGZ5Y3c2aEd2VFYzanY0eV9uN2lkZVVXcEtMcGpMU25INldLMWhnWkxpLXEtY05tUmQ5SHVR?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-11-27 14:31",
-   "published_iso": "2026-11-27T05:31:45+00:00"
   },
   {
    "title": "道内インフル、異例の長期流行に？ 外国人観光客増が影響か 春まで続く恐れ",
@@ -168,6 +200,14 @@
    "published_iso": "2026-11-27T03:39:00+00:00"
   },
   {
+   "title": "書家・金澤翔子さんの大型作品 相模原市役所に 共生社会に思い込め [神奈川県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zN3MtamU2elpKQVhZV3hlUjNkeUJUUDZiT1ZQZ3JrNlZmc0JpSzVsR2hTTHVFNU9LT3hNcjk4R2NPWDdHUUhhajN4cDhnNVNNSTItRUpuZXBuRktCaTgzUS1oSnBvdTQ?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-27 11:15",
+   "published_iso": "2026-11-27T02:15:00+00:00"
+  },
+  {
    "title": "終わりなきアフリカの「ドローン戦争」 スーダン難民、危機の現場",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTi1pSG96OGwzNk80M2JaZVNMajVMYlYyNE9qaTZKZFRvYzh5X05uNmYtQUxSTWRrd0VDbjBYWlI4RUNfTUk1UzJGa2FtbmM0dUt6TzJSbVh6WG4xQ0hMZFh0Qm5DY0E?oc=5",
    "source": "朝日新聞",
@@ -184,12 +224,12 @@
    "published_iso": "2026-11-27T01:48:50+00:00"
   },
   {
-   "title": "英国の純移民、コロナ禍除き1997年以来の低水準－10万人割れ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiaHFVdnlSTjBPVVRwU0xTdkV0aHRNV01wQjZiX0RXNWFmRXFsSDR6ak9SZjlkMUZaTV9Qd0k1UG1yV3RHTl9EbDRIVUZpUU10aXpuVGRTMC04c1RsakR4Rjd5NGRxa3M?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-27 10:48",
-   "published_iso": "2026-11-27T01:48:04+00:00"
+   "title": "日本の昔遊びで外国人と交流 西和清陵高校が初の試み、先生が発案",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2SzlpMDNNN2ZuZ0dtNm1JbUVXNUJUREpxTkt3WXo4M3VqWGozMGt4azhkdndSaTNzNE00TTRmZHpKSjdGQWRwTGJGVFMyTGV3WnlGODFxZUZEMy1DLVg2X0EweTdZdXM?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-27 10:45",
+   "published_iso": "2026-11-27T01:45:01+00:00"
   },
   {
    "title": "２８日、多文化共生テーマにフォーラム 岡山学院大・岡山短大などが倉敷アイビースクエアで",
@@ -200,20 +240,20 @@
    "published_iso": "2026-11-26T22:38:44+00:00"
   },
   {
-   "title": "英国への移民大幅減 抑制策で９７年以来の低水準",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVXejM0WmxoQ29wTS1BMk83eE1kZHZidWhmaHVHNG1IeTJmSWx1U19kRjBOOF9vZ1JKQTY5LS1CcDlsUHZBWjJzRTdJaFBjTGk2UG9wRkN1bHBJS2wxTE8tMTdsRzVTQWR5OVBuZHhRTnpBNUtXeFRaVVFSd0ZjaA?oc=5",
-   "source": "時事ドットコム",
-   "source_domain": "jiji.com",
-   "published": "2026-11-27 07:05",
-   "published_iso": "2026-11-26T22:05:00+00:00"
-  },
-  {
    "title": "「最低賃金で雇う意識はなくして」 外国人労働者257万人 「選ばれる職場」の条件とは？",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OM0ZURnB4alFwM2ZHVEpNd29TU3Fqell3LU16a0FjR2ZjYlZtVnhQM3dUTjZiWHpxak9CTzRGOEgxQlluVmt4eVFWZ1NDTnV5VkhjZUln?oc=5",
    "source": "西日本新聞me",
    "source_domain": "nishinippon.co.jp",
    "published": "2026-11-27 06:00",
    "published_iso": "2026-11-26T21:00:00+00:00"
+  },
+  {
+   "title": "難民支援に子ども服9003着 名張市の英心高桔梗が丘校生、1カ月で集める",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nZ2dsenEzTGVDWFRjRzJwT1FzWlZoMExzNkJPOUplNFg5b2ZxLWFONTYyaE1kZkJoVy1VSkQzSERUZFdKRkd2dkR3WQ?oc=5",
+   "source": "47NEWS",
+   "source_domain": "47news.jp",
+   "published": "2026-11-27 05:05",
+   "published_iso": "2026-11-26T20:05:00+00:00"
   },
   {
    "title": "Plan・Do・Seeが海外人材育成で脚光 1700人輩出、八芳園や三井不が頼る",
@@ -248,14 +288,6 @@
    "published_iso": "2026-11-26T14:49:57+00:00"
   },
   {
-   "title": "英国の移民、前年4割に大幅減 7・7万人、政府が抑制策",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SlhBNWtOWEFLQkpkOVVjNG9lemRxTTBXVmdaVkdBTDc2bEZBWGJuLUFoWXhhSVRzamRqUUt4X0d2S1NkT1RzMG14bklBdjlHS3FUM1Q5eGRBQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "source_domain": "hokkaido-np.co.jp",
-   "published": "2026-11-26 23:18",
-   "published_iso": "2026-11-26T14:18:16+00:00"
-  },
-  {
    "title": "英国への移民、ビザ厳格化で6割減 コロナ禍除き97年以来の低水準",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wT09FMDJ2ZWlxdzJDVEVPa2ctVC1lOGEwOUtCZHhsTkx2b0dGbUJvYUtXQUJqMmpnWWZ5TGtBVk1JX0g4bGJjWlNnLTBJUHVabzNWRjZQSXlqY2k0a1I3YVVhcGthYjZsRTc4MA?oc=5",
    "source": "日本経済新聞",
@@ -278,14 +310,6 @@
    "source_domain": "yomiuri.co.jp",
    "published": "2026-11-26 19:25",
    "published_iso": "2026-11-26T10:25:00+00:00"
-  },
-  {
-   "title": "地域共生社会とは 宮城・南三陸社協がフォーラム開催",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRlE2MmVhUHhDSmM1Z3FqcHkzaEpuU1MxTHFrV0FLdmtRNnh0SkhYUFBZVnhRVXJaOE1wWlVTcFZsZTc4RHptcUl4M0pTd2dWTWhPdVVrZjNmSFU?oc=5",
-   "source": "河北新報オンライン",
-   "source_domain": "kahoku.news",
-   "published": "2026-11-26 19:00",
-   "published_iso": "2026-11-26T10:00:55+00:00"
   },
   {
    "title": "「高額医療」目的で入国の外国人 国保利用を防止へ 厚労省が対応案",
@@ -320,28 +344,12 @@
    "published_iso": "2026-11-26T06:51:18+00:00"
   },
   {
-   "title": "訪日外国人の国民健康保険の不適切利用に対応強化へ 厚労省 「留学」などで来日し保険診療を受けるケース問題視",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NQzVHQkRhVDltQmFuT2N4d1FRaEpvcnR6WnN3N2tHN1pIZ1dOSk9XbmNYZVJZal84TWdFNW9xVUk2ang4U1hoM1ZwYnZfemJOaFpkTW9Zbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "source_domain": "tbs.co.jp",
-   "published": "2026-11-26 13:46",
-   "published_iso": "2026-11-26T04:46:22+00:00"
-  },
-  {
    "title": "沖縄移民125年の記録 撮影の成果を報告",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzaFg1UFRmdk9fWWlwVWZqckIyNnBUV2VmVWZfbGlQa3hZSVRBWDFpdjI5di1kSWZnemFEcXVGRlg3NzRHTjd4MHljamJKQQ?oc=5",
    "source": "FNNプライムオンライン",
    "source_domain": "fnn.jp",
    "published": "2026-11-26 11:40",
    "published_iso": "2026-11-26T02:40:00+00:00"
-  },
-  {
-   "title": "海外事業・DEI推進… 高度外国人材の採用拡大、企業の5割に",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xOFpEQndpMldCTXhzQ3RmZ1dQRFk1d3FIWHZ6ZVpOalJzWm1hSnB1YXpkVDBEc1p1dmhhRDlrSFRmT2I2S2FJT3hNV096d2dCRDFSdF9iRlRJbU0yZlRSRl8ySmVvXzcyc3E2dTYzQ1NRM2FT?oc=5",
-   "source": "日経人財グロース&コンサルティング",
-   "source_domain": "nikkei.com",
-   "published": "2026-11-26 10:54",
-   "published_iso": "2026-11-26T01:54:36+00:00"
   },
   {
    "title": "高額な保険診療目的の外国人、在留資格取り消し可能に 厚労省",
@@ -360,28 +368,12 @@
    "published_iso": "2026-11-26T01:00:00+00:00"
   },
   {
-   "title": "「手違いで送還」の移民男性が米国を出国 スペイン到着",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kaWtmVjBPbTJyN0RaYTFONjR6SG54RDBTV21peEdRcExjYThqcHZJbHMtVmZ3dzVzQ0JFanZaS3BYOTBJSElsd3ZKUHdDbm5YUXNTUG9oM0kzTFg3dWU2aVpvaVpoeG5mV0ttczhURW56Vi14MHc?oc=5",
-   "source": "産経ニュース",
-   "source_domain": "sankei.com",
-   "published": "2026-11-26 07:35",
-   "published_iso": "2026-11-25T22:35:26+00:00"
-  },
-  {
    "title": "日本語試験の増設検討 特定技能向け、パソコン方式で―外務省",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHM3dW9ySU84VTBOZ0tDSUN1OUFVamI0Y1k5cU1KY3Z4aUpIS3hJaUM1Q3VGTFh2RWY2SjhwaHIwMGFVci1uenJTWExCcDc5YV8zZnAzNFN4eTNNS0dxMHJuT0wydFNmM3h4NDgwMVcyanR3ZW11NzlPU1BCMUttd2tR?oc=5",
    "source": "時事ドットコム",
    "source_domain": "jiji.com",
    "published": "2026-11-26 07:05",
    "published_iso": "2026-11-25T22:05:00+00:00"
-  },
-  {
-   "title": "京都府綾部市で初の「外国人籍消防団員」誕生 ベトナム人男性「みんなと平和に暮らしたい」",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82RFFvczlMeW9CazZ4eWxRcllxMWFOc0UtbGU1X052d3dzZjN5UmxNbXdlYlI4WGJZOTZGcEU2Rm15Qm1MeDlsWTVMQ1JXU2RrU1FjWm02cHI?oc=5",
-   "source": "京都新聞デジタル",
-   "source_domain": "kyoto-np.co.jp",
-   "published": "2026-11-26 05:25",
-   "published_iso": "2026-11-25T20:25:00+00:00"
   },
   {
    "title": "三重県津市の人材派遣会社、外国人労働者ら85人に給料払わず 9～10月末支給分、計約2700万円",
@@ -400,12 +392,20 @@
    "published_iso": "2026-11-25T20:00:00+00:00"
   },
   {
-   "title": "外国人労働者、東北GDP底上げ 農・水産業「いないと成り立たず」",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ybVlJVG5uV2VGMTRwOG5DLWFORWNteDZwcUIyTXdVRHRoVWotUEdQNWV5bTdzamFva245RENuTWpqNHFQcWdMOFJyUF92T2I1T1F2MFpoOXRFNUtoak5zLTJyNnJtN2JUS3dWSw?oc=5",
+   "title": "難民となった映画人、助けたい ケイト・ブランシェットさんら基金設立",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EVHdWVC1sb21UUGZOdG4tQ3FJRERxajViY1hLQ1lzOXhiOGE2ZXFJRk9vLTJIcE1NOGdEX25BeVFiRjdEX1NJczN0OWFRdEtOV2pDajE3MWtILTdm?oc=5",
+   "source": "朝日新聞",
+   "source_domain": "asahi.com",
+   "published": "2026-11-26 05:00",
+   "published_iso": "2026-11-25T20:00:00+00:00"
+  },
+  {
+   "title": "外国人留学生の受け入れで推計8200億円の経済効果 20年前の4.7倍、国や大学の支援額大きく上回る",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LWXpCTkNPUThMLXdLMF9yTGY2Nmpqc3BPQU03aDJxTExjWmsxZnM4YkFIYThYa2hCb2hvaUViWUM2R0xKNGFmTlk2bkJ6cEd0N0poYkMwRjF0ckFuUDZqb01KWWxZNkE5RzgtTA?oc=5",
    "source": "日本経済新聞",
    "source_domain": "nikkei.com",
-   "published": "2026-11-26 01:49",
-   "published_iso": "2026-11-25T16:49:00+00:00"
+   "published": "2026-11-26 02:00",
+   "published_iso": "2026-11-25T17:00:00+00:00"
   }
  ]
 }
